@@ -1,0 +1,308 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 7,
+  "topic_name": "Thinking, speech and intellectual development",
+  "questions": {
+    "131": {
+      "question": "The mediated nature of thinking means cognition of the properties of an object...",
+      "options": {
+        "A": "Without reference to knowledge and relations",
+        "B": "By retaining an unchanged sensory trace",
+        "C": "Only under direct stimulation of a receptor",
+        "D": "Exclusively through emotional evaluation",
+        "E": "Through other properties and additional means"
+      }
+    },
+    "132": {
+      "question": "Correct correspondences between forms of thinking:",
+      "options": {
+        "A": "Judgment: affirmation or denial of a connection",
+        "B": "Sensation: an abstract generalization of a class of objects",
+        "C": "Mental representation: a system of logical premises",
+        "D": "Inference: new knowledge derived from judgments",
+        "E": "Concept: reflection of essential features"
+      }
+    },
+    "133": {
+      "question": "An engineer mentally singles out the components of a mechanism in order to study their functions. This is the operation of...",
+      "options": {
+        "A": "Synthesis",
+        "B": "Typification",
+        "C": "Concretization",
+        "D": "Analysis",
+        "E": "Generalization"
+      }
+    },
+    "134": {
+      "question": "Combining the components that have been studied into a mental model of a working device is...",
+      "options": {
+        "A": "Abstraction",
+        "B": "Synthesis",
+        "C": "Analysis",
+        "D": "Comparison",
+        "E": "Classification"
+      }
+    },
+    "135": {
+      "question": "Establishing the similarities and differences between two solutions on the basis of previously identified features is...",
+      "options": {
+        "A": "Typification",
+        "B": "Concretization",
+        "C": "Reconstruction",
+        "D": "Comparison",
+        "E": "Synthesis"
+      }
+    },
+    "136": {
+      "question": "Mentally singling out the shape of an object while setting aside its material and color is called...",
+      "options": {
+        "A": "Abstraction",
+        "B": "Recognition",
+        "C": "Agglutination",
+        "D": "Reproduction",
+        "E": "Concretization"
+      }
+    },
+    "137": {
+      "question": "Identify the correct examples of thinking operations.",
+      "options": {
+        "A": "Singling out a common feature: sensory adaptation",
+        "B": "Joining parts into a whole: synthesis",
+        "C": "Setting aside color: rote memorization",
+        "D": "Moving from a rule to an example: concretization",
+        "E": "Singling out the aspects of a whole: analysis"
+      }
+    },
+    "138": {
+      "question": "A teacher explains a general principle by working through a particular case. This is primarily...",
+      "options": {
+        "A": "Classification",
+        "B": "Comparison",
+        "C": "Concretization",
+        "D": "Abstraction",
+        "E": "Synthesis"
+      }
+    },
+    "139": {
+      "question": "Singling out what objects have in common and expressing the result in a concept or a rule is...",
+      "options": {
+        "A": "Generalization",
+        "B": "Abstraction",
+        "C": "Classification",
+        "D": "Comparison",
+        "E": "Concretization"
+      }
+    },
+    "140": {
+      "question": "Obtaining a new judgment on the basis of several initial judgments is...",
+      "options": {
+        "A": "Concretization",
+        "B": "A concept",
+        "C": "Synthesis",
+        "D": "Comparison",
+        "E": "Inference"
+      }
+    },
+    "141": {
+      "question": "Solving a problem by physically rearranging parts characterizes... thinking.",
+      "options": {
+        "A": "Theoretical-abstract",
+        "B": "Verbal-logical",
+        "C": "Visual-active",
+        "D": "Intuitive-conceptual",
+        "E": "Visual-imaginal"
+      }
+    },
+    "142": {
+      "question": "Correct correspondences between types of thinking:",
+      "options": {
+        "A": "Verbal-logical: operations with concepts",
+        "B": "Visual-imaginal: operating with images",
+        "C": "Visual-active: transformation of a practical situation",
+        "D": "Imaginal: exclusively verbal definitions",
+        "E": "Abstract: only direct movements"
+      }
+    },
+    "143": {
+      "question": "An architect mentally changes the arrangement of rooms relying on a visual image of the design. The thinking is predominantly...",
+      "options": {
+        "A": "Object-active",
+        "B": "Visual-imaginal",
+        "C": "Verbal-logical",
+        "D": "Direct sensorimotor",
+        "E": "Mechanically reproductive"
+      }
+    },
+    "144": {
+      "question": "The structural unit of scientific thinking, as compared with artistic thinking, is...",
+      "options": {
+        "A": "A set",
+        "B": "An experience",
+        "C": "A movement",
+        "D": "A concept",
+        "E": "An image"
+      }
+    },
+    "145": {
+      "question": "How does theoretical generalization differ from primary empirical generalization?",
+      "options": {
+        "A": "It excludes the use of concepts",
+        "B": "It is reduced to the accumulation of impressions",
+        "C": "It is limited to the external similarity of cases",
+        "D": "It requires the rejection of models",
+        "E": "It reveals necessary relations and laws"
+      }
+    },
+    "146": {
+      "question": "Solving a standard problem step by step according to rules given in advance characterizes... thinking.",
+      "options": {
+        "A": "Intuitive",
+        "B": "Syncretic",
+        "C": "Productive-creative",
+        "D": "Algorithmic",
+        "E": "Heuristic"
+      }
+    },
+    "147": {
+      "question": "Correct definitions of types of thinking:",
+      "options": {
+        "A": "Heuristic: a search for a solution to a non-standard problem",
+        "B": "Algorithmic: following established rules",
+        "C": "Intuitive: each stage is necessarily conscious",
+        "D": "Reproductive: a fundamentally new discovery",
+        "E": "Discursive: a system of connected inferences"
+      }
+    },
+    "148": {
+      "question": "The criterion for distinguishing productive from reproductive thinking is...",
+      "options": {
+        "A": "The predominant temperament",
+        "B": "The speed with which nervous processes alternate",
+        "C": "The novelty of the result obtained",
+        "D": "The duration of the sensory trace",
+        "E": "The number of active receptors"
+      }
+    },
+    "149": {
+      "question": "Extension in time, distinct stages and awareness of those stages characterize... thinking.",
+      "options": {
+        "A": "Syncretic",
+        "B": "Autistic",
+        "C": "Analytical",
+        "D": "Intuitive",
+        "E": "Involuntary-imaginal"
+      }
+    },
+    "150": {
+      "question": "Speech directed at oneself and occupying an intermediate position between external and inner speech is called...",
+      "options": {
+        "A": "Communicative addressed speech",
+        "B": "Dialogic speech",
+        "C": "Public monologic speech",
+        "D": "Egocentric speech",
+        "E": "Written expressive speech"
+      }
+    },
+    "151": {
+      "question": "Which statements about the relationship between speech and thinking are correct?",
+      "options": {
+        "A": "Any utterance of words is identical to thinking",
+        "B": "Inner speech copies external speech word for word",
+        "C": "Thinking cannot be reduced to a speech process",
+        "D": "Inner speech differs from expanded external speech",
+        "E": "The link with speech eliminates the link with practice"
+      }
+    },
+    "152": {
+      "question": "The restructuring of the relations between thinking and speech, whereby speech becomes intellectual, was studied by...",
+      "options": {
+        "A": "E. Kretschmer",
+        "B": "K. Thomas",
+        "C": "L. S. Vygotsky",
+        "D": "W. Sheldon",
+        "E": "H. Selye"
+      }
+    },
+    "153": {
+      "question": "The merging of words into abbreviated semantic formations in inner speech is called...",
+      "options": {
+        "A": "Categorization",
+        "B": "Syncretism",
+        "C": "Verbalization",
+        "D": "Predicativity",
+        "E": "Agglutination"
+      }
+    },
+    "154": {
+      "question": "The study of thinking as an inner act relatively separate from sensory images is characteristic of the...",
+      "options": {
+        "A": "Würzburg school",
+        "B": "Ecological theory",
+        "C": "Humoral concept",
+        "D": "Cultural-historical theory",
+        "E": "Constitutional approach"
+      }
+    },
+    "155": {
+      "question": "In Gestalt psychology, the solution of a thinking task is explained primarily by...",
+      "options": {
+        "A": "Restructuring of the problem situation",
+        "B": "A change in the proportion of body fluids",
+        "C": "Mechanical accumulation of paired associations",
+        "D": "Fixation of unchanging sensory elements",
+        "E": "Repetition of a ready-made motor response"
+      }
+    },
+    "156": {
+      "question": "The operational concept of intelligence and the distinction between concrete and formal operations are associated with...",
+      "options": {
+        "A": "D. Kahneman",
+        "B": "K. Lewin",
+        "C": "J. Piaget",
+        "D": "D. N. Uznadze",
+        "E": "T. Ribot"
+      }
+    },
+    "157": {
+      "question": "Identify the correct \"approach: key concept\" correspondences.",
+      "options": {
+        "A": "Information-processing approach: processing of information",
+        "B": "Psychoanalysis: only external stimuli",
+        "C": "Gestalt psychology: restructuring of the situation",
+        "D": "Würzburg school: humoral balance",
+        "E": "J. Piaget: intellectual operations"
+      }
+    },
+    "158": {
+      "question": "A child moves from one particular case to another, bypassing the general rule. This is a feature of... thinking.",
+      "options": {
+        "A": "Formal-operational",
+        "B": "Algorithmic",
+        "C": "Discursive-analytical",
+        "D": "Preconceptual",
+        "E": "Theoretical-generalized"
+      }
+    },
+    "159": {
+      "question": "Why can putting a solution into words deepen the understanding of it?",
+      "options": {
+        "A": "It excludes the influence of sensory experience",
+        "B": "It fixes the thought and makes the connections more distinct",
+        "C": "It frees thought from the need for justification",
+        "D": "It automatically replaces analysis with repetition",
+        "E": "It turns any judgment into an unconditioned reflex"
+      }
+    },
+    "160": {
+      "question": "Why can practical thinking not be considered simpler than theoretical thinking by default?",
+      "options": {
+        "A": "It excludes the use of general knowledge",
+        "B": "It solves problems under real constraints and responsibility",
+        "C": "It does not require analysis of the situation",
+        "D": "It exists without the participation of will",
+        "E": "It is limited to the reproduction of a skill"
+      }
+    }
+  }
+}

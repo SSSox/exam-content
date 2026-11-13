@@ -1,0 +1,1022 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 56,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Объяснение политики преимущественно климатом и географической средой относится к парадигме...",
+        "en": "The explanation of politics primarily by climate and the geographical environment belongs to the ... paradigm.",
+        "kk": "Саясатты негізінен климатпен және географиялық ортамен түсіндіру қандай парадигмаға жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 159",
+          "units": [
+            "p159"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теологической",
+            "en": "Theological",
+            "kk": "Теологиялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социологической",
+            "en": "Sociological",
+            "kk": "Социологиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Натуралистической",
+            "en": "Naturalistic",
+            "kk": "Натуралистік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Нормативно-ценностной",
+            "en": "Normative-value",
+            "kk": "Нормативтік-құндылықтық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Институциональной",
+            "en": "Institutional",
+            "kk": "Институционалдық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 57,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Истолкование государственной власти как выражения божественной воли характеризует парадигму...",
+        "en": "The interpretation of state power as an expression of the divine will characterizes the ... paradigm.",
+        "kk": "Мемлекеттік билікті құдайдың еркінің көрінісі деп түсіндіру қандай парадигмаға тән?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 159",
+          "units": [
+            "p159"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Натуралистическую",
+            "en": "Naturalistic",
+            "kk": "Натуралистік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Теологическую",
+            "en": "Theological",
+            "kk": "Теологиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социокультурную",
+            "en": "Sociocultural",
+            "kk": "Әлеуметтік-мәдени"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Бихевиористскую",
+            "en": "Behavioralist",
+            "kk": "Бихевиористік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Рационально-критическую",
+            "en": "Rational-critical",
+            "kk": "Рационалды-сыни"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 58,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой подход связывает политическое поведение прежде всего с индивидуальными мотивами, характером и бессознательными механизмами?",
+        "en": "Which approach links political behavior primarily with individual motives, character and unconscious mechanisms?",
+        "kk": "Қандай тәсіл саяси мінез-құлықты ең алдымен жеке уәждермен, мінезбен және санасыз тетіктермен байланыстырады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 159",
+          "units": [
+            "p159"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Психологизаторский",
+            "en": "Psychological",
+            "kk": "Психологизаторлық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Структурно-функциональный",
+            "en": "Structural-functional",
+            "kk": "Құрылымдық-функциялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Юридико-институциональный",
+            "en": "Legal-institutional",
+            "kk": "Заңдық-институционалдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Геополитический",
+            "en": "Geopolitical",
+            "kk": "Геосаяси"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Марксистский экономический",
+            "en": "Marxist economic",
+            "kk": "Марксистік экономикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 59,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Географический стержень истории» связан с геополитическими идеями...",
+        "en": "The \"geographical pivot of history\" is associated with the geopolitical ideas of...",
+        "kk": "«Тарихтың географиялық өзегі» кімнің геосаяси идеяларымен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 159",
+          "units": [
+            "p159"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Карла Дойча",
+            "en": "Karl Deutsch",
+            "kk": "Карл Дойч"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Хэлфорда Маккиндера",
+            "en": "Halford Mackinder",
+            "kk": "Хэлфорд Маккиндер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Дэвида Истона",
+            "en": "David Easton",
+            "kk": "Дэвид Истон"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гарольда Лассуэлла",
+            "en": "Harold Lasswell",
+            "kk": "Гарольд Лассуэлл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Габриэля Алмонда",
+            "en": "Gabriel Almond",
+            "kk": "Габриэль Алмонд"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 60,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Связь политики и экономики точнее всего описывается как...",
+        "en": "The relationship between politics and the economy is most accurately described as...",
+        "kk": "Саясат пен экономиканың байланысы қалай дәлірек сипатталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 162-164",
+          "units": [
+            "p162",
+            "p163",
+            "p164"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Безусловное подчинение экономики любой политической воле",
+            "en": "The unconditional subordination of the economy to any political will",
+            "kk": "Экономиканың кез келген саяси еркке сөзсіз бағынуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Идентичность экономических и политических отношений",
+            "en": "The identity of economic and political relations",
+            "kk": "Экономикалық және саяси қатынастардың бірдейлігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Независимость политических решений от производства",
+            "en": "The independence of political decisions from production",
+            "kk": "Саяси шешімдердің өндіріске тәуелсіздігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Взаимное воздействие при наличии материальных ограничений политики",
+            "en": "Mutual influence, with material constraints on politics",
+            "kk": "Саясаттың материалдық шектеулері болған жағдайда өзара ықпал ету"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Одностороннее определение политики текущими ценами",
+            "en": "The one-sided determination of politics by current prices",
+            "kk": "Саясаттың тек ағымдағы бағалармен біржақты айқындалуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 61,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Когда программа перераспределения игнорирует возможности производства и вызывает хозяйственный кризис, проявляется ограничение политики:",
+        "en": "When a redistribution program ignores production capacities and causes an economic crisis, the following constraint on politics manifests itself:",
+        "kk": "Қайта бөлу бағдарламасы өндіріс мүмкіндіктерін ескермеген және шаруашылық дағдарысын туғызған кезде саясаттың қандай шектеуі көрінеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 164",
+          "units": [
+            "p164"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отсутствие у государства распределительных функций",
+            "en": "The state's lack of distributive functions",
+            "kk": "Мемлекетте бөлу функцияларының болмауы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Невозможность политического воздействия на распределение",
+            "en": "The impossibility of political influence on distribution",
+            "kk": "Саяси ықпалдың бөлуге әсер етуінің мүмкін еместігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Неизбежность прямой демократии при экономическом спаде",
+            "en": "The inevitability of direct democracy during an economic downturn",
+            "kk": "Экономикалық құлдырау кезінде тікелей демократияның сөзсіз қажеттілігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Зависимость решений от материальных условий их осуществления",
+            "en": "The dependence of decisions on the material conditions of their implementation",
+            "kk": "Шешімдердің оларды жүзеге асырудың материалдық жағдайларына тәуелділігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Принципиальная независимость права от экономики",
+            "en": "The fundamental independence of law from the economy",
+            "kk": "Құқықтың экономикаға принципті түрде тәуелсіздігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 62,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Политические отношения по сравнению с межличностной моралью непосредственно выражают прежде всего...",
+        "en": "Compared with interpersonal morality, political relations directly express primarily...",
+        "kk": "Тұлғааралық моральмен салыстырғанда саяси қатынастар тікелей ең алдымен нені білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 165",
+          "units": [
+            "p165"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Религиозную аскезу",
+            "en": "Religious asceticism",
+            "kk": "Діни зәһидтікті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальную добродетель",
+            "en": "Individual virtue",
+            "kk": "Жеке ізгілікті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Личные симпатии",
+            "en": "Personal sympathies",
+            "kk": "Жеке жақсы көруді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Групповые интересы",
+            "en": "Group interests",
+            "kk": "Топтық мүдделерді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эстетические предпочтения",
+            "en": "Aesthetic preferences",
+            "kk": "Эстетикалық қалауларды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 63,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Особое напряжение между политическими решениями и нравственными требованиями создаёт...",
+        "en": "A particular tension between political decisions and moral requirements is created by...",
+        "kk": "Қандай фактор саяси шешімдер мен имандылық талаптары арасында ерекше шиеленіс туғызады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 166",
+          "units": [
+            "p166"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Возможность использования принуждения",
+            "en": "The possibility of using coercion",
+            "kk": "Мәжбүрлеуді пайдалану мүмкіндігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Невозможность обсуждать последствия решений",
+            "en": "The impossibility of discussing the consequences of decisions",
+            "kk": "Шешімдердің салдарын талқылаудың мүмкін еместігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Полное совпадение закона с нравственной оценкой",
+            "en": "The complete coincidence of law with moral judgment",
+            "kk": "Заңның имандылық бағамен толық сәйкес келуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отсутствие у политики общественных целей",
+            "en": "Politics having no social goals",
+            "kk": "Саясатта қоғамдық мақсаттардың болмауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Несовместимость морали с групповыми интересами вообще",
+            "en": "The incompatibility of morality with group interests in general",
+            "kk": "Адамгершіліктің топтық мүдделермен жалпы үйлеспеуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 64,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Применительно к политическому господству юридическая сфера непосредственно закрепляет...",
+        "en": "With regard to political domination, the legal sphere directly establishes...",
+        "kk": "Саяси үстемдікке қатысты заңдық сала тікелей нені бекітеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 168",
+          "units": [
+            "p168"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Моральную безупречность должностных лиц",
+            "en": "The moral impeccability of officials",
+            "kk": "Лауазымды тұлғалардың адамгершілік мінсіздігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Психологические мотивы каждого избирателя",
+            "en": "The psychological motives of every voter",
+            "kk": "Әрбір сайлаушының психологиялық уәждерін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Экономическую эффективность каждого решения",
+            "en": "The economic efficiency of every decision",
+            "kk": "Әрбір шешімнің экономикалық тиімділігін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Основные принципы его организации в законодательстве",
+            "en": "The basic principles of its organization in legislation",
+            "kk": "Оны ұйымдастырудың негізгі қағидаттарын заңнамада"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Неизменность состава правящей элиты",
+            "en": "The immutability of the composition of the ruling elite",
+            "kk": "Билеуші элита құрамының өзгермейтіндігін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 65,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Закон устанавливает пределы деятельности и правительства, и оппозиции. Какое отношение политики и права это иллюстрирует?",
+        "en": "The law sets limits on the activity of both the government and the opposition. Which relationship between politics and law does this illustrate?",
+        "kk": "Заң үкіметтің де, оппозицияның да қызмет шектерін белгілейді. Бұл саясат пен құқықтың қандай қатынасын көрсетеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 168",
+          "units": [
+            "p168"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Правовое определение границ политической деятельности",
+            "en": "The legal definition of the boundaries of political activity",
+            "kk": "Саяси қызмет шекараларын құқықтық айқындауды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Совпадение легальности с популярностью власти",
+            "en": "The coincidence of legality with the popularity of the authorities",
+            "kk": "Заңдылықтың биліктің танымалдығымен сәйкес келуін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Подмену политических интересов хозяйственными",
+            "en": "The substitution of economic interests for political ones",
+            "kk": "Саяси мүдделерді шаруашылық мүдделермен алмастыруды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Независимость власти от нормативных ограничений",
+            "en": "The independence of power from normative restrictions",
+            "kk": "Биліктің нормативтік шектеулерден тәуелсіздігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Устранение политического конфликта юридическим актом",
+            "en": "The elimination of political conflict by a legal act",
+            "kk": "Саяси қақтығысты заңдық актімен жоюды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 66,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Объяснения, относящиеся к натуралистической парадигме:",
+        "en": "Explanations that belong to the naturalistic paradigm:",
+        "kk": "Натуралистік парадигмаға жататын түсіндірмелер:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 159",
+          "units": [
+            "p159"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Связь политического устройства с климатом",
+            "en": "The link between the political order and climate",
+            "kk": "Саяси құрылымның климатпен байланысы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Объяснение поведения врождёнными биологическими свойствами",
+            "en": "Explaining behavior by innate biological properties",
+            "kk": "Мінез-құлықты туа біткен биологиялық қасиеттермен түсіндіру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Объяснение решений распределением компетенции между органами",
+            "en": "Explaining decisions by the distribution of competence among bodies",
+            "kk": "Шешімдерді органдар арасында құзыреттің бөлінуімен түсіндіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Объяснение институтов признанием гражданами их нормативной ценности",
+            "en": "Explaining institutions by citizens' recognition of their normative value",
+            "kk": "Институттарды азаматтардың олардың нормативтік құндылығын мойындауымен түсіндіру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выведение порядка из господствующих классовых отношений",
+            "en": "Deriving order from the prevailing class relations",
+            "kk": "Тәртіпті үстем таптық қатынастардан шығару"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": 67,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Утверждения, характеризующие нормативно-ценностное объяснение политики:",
+        "en": "Statements that characterize the normative-value explanation of politics:",
+        "kk": "Саясатты нормативтік-құндылықтық түсіндіруге тән тұжырымдар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 159",
+          "units": [
+            "p159"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Политическое поведение связано с ценностными предпочтениями",
+            "en": "Political behavior is linked with value preferences",
+            "kk": "Саяси мінез-құлық құндылықтық қалаулармен байланысты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Политические институты оцениваются по степени соответствия природной иерархии",
+            "en": "Political institutions are assessed by the degree of their conformity to the natural hierarchy",
+            "kk": "Саяси институттар табиғи иерархияға сәйкестік дәрежесі бойынша бағаланады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Предпочтение лидера объясняется набором наследуемых физиологических признаков",
+            "en": "A preference for a leader is explained by a set of inherited physiological traits",
+            "kk": "Көшбасшыны қалау тұқым қуалайтын физиологиялық белгілер жиынтығымен түсіндіріледі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социокультурные характеристики влияют на выбор политических ценностей",
+            "en": "Sociocultural characteristics influence the choice of political values",
+            "kk": "Әлеуметтік-мәдени сипаттамалар саяси құндылықтарды таңдауға әсер етеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ценности рассматриваются как следствие географического положения государства",
+            "en": "Values are regarded as a consequence of the geographical position of the state",
+            "kk": "Құндылықтар мемлекеттің географиялық жағдайының салдары ретінде қарастырылады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "id": 68,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите инструменты, с помощью которых политика воздействует на производство и распределение.",
+        "en": "Specify the instruments through which politics influences production and distribution.",
+        "kk": "Саясат өндіріс пен бөлуге ықпал ететін құралдарды көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 164",
+          "units": [
+            "p164"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 168",
+          "units": [
+            "p168"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Изменение форм собственности",
+            "en": "Changing forms of ownership",
+            "kk": "Меншік нысандарын өзгерту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Установление политических целей независимо от производственного потенциала",
+            "en": "Setting political goals independently of production potential",
+            "kk": "Саяси мақсаттарды өндірістік әлеуетке қарамастан белгілеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Изменение правовых норм",
+            "en": "Changing legal norms",
+            "kk": "Құқықтық нормаларды өзгерту"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Замещение хозяйственных стимулов одним изменением политической риторики",
+            "en": "Replacing economic incentives with a mere change in political rhetoric",
+            "kk": "Шаруашылық ынталандыруларды тек саяси риториканы өзгертумен алмастыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Изменение механизмов управления распределением",
+            "en": "Changing the mechanisms that manage distribution",
+            "kk": "Бөлуді басқару тетіктерін өзгерту"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 69,
+      "topic_id": 3,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Обоснованные выводы о политике, морали и праве:",
+        "en": "Well-founded conclusions about politics, morality and law:",
+        "kk": "Саясат, мораль және құқық туралы негізді тұжырымдар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 165-168",
+          "units": [
+            "p165",
+            "p166",
+            "p167",
+            "p168"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Юридическая допустимость не исчерпывает нравственной оценки решения",
+            "en": "Legal permissibility does not exhaust the moral assessment of a decision",
+            "kk": "Заңдық жол берілушілік шешімді адамгершілік тұрғыдан бағалауды толық қамтымайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Принуждение может порождать противоречие между политикой и моралью",
+            "en": "Coercion can give rise to a contradiction between politics and morality",
+            "kk": "Мәжбүрлеу саясат пен мораль арасында қайшылық тудыруы мүмкін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Право задаёт ограничения оппозиции, тогда как правящая группа действует по целесообразности",
+            "en": "Law sets constraints on the opposition, whereas the ruling group acts on grounds of expediency",
+            "kk": "Құқық оппозицияға шектеулер белгілейді, ал билеуші топ мақсатқа лайықтылық бойынша әрекет етеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Законодательное оформление решения исчерпывает вопрос о его нравственном оправдании",
+            "en": "The legislative formalization of a decision settles the question of its moral justification",
+            "kk": "Шешімді заңнамалық ресімдеу оның адамгершілік тұрғыдан ақталуы мәселесін толық шешеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Применение принуждения позволяет вывести политическое решение из-под правовой оценки",
+            "en": "The use of coercion allows a political decision to be removed from legal assessment",
+            "kk": "Мәжбүрлеуді қолдану саяси шешімді құқықтық бағалаудан шығаруға мүмкіндік береді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": 70,
+      "topic_id": 3,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сведение всей политики к одному фактору методологически недостаточно, потому что...",
+        "en": "Reducing all of politics to a single factor is methodologically insufficient because...",
+        "kk": "Бүкіл саясатты бір факторға келтіру әдіснамалық тұрғыдан неліктен жеткіліксіз?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 159",
+          "units": [
+            "p159"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 162",
+          "units": [
+            "p162"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Описание культурных ценностей заменяет анализ распределения властных ресурсов",
+            "en": "A description of cultural values replaces the analysis of the distribution of power resources",
+            "kk": "Мәдени құндылықтарды сипаттау билік ресурстарының бөлінуін талдауды алмастырады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Фактор, объясняющий возникновение институтов, достаточно точно объясняет и индивидуальное поведение",
+            "en": "A factor that explains the emergence of institutions also explains individual behavior with sufficient accuracy",
+            "kk": "Институттардың пайда болуын түсіндіретін фактор жеке мінез-құлықты да жеткілікті дәл түсіндіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Юридическое устройство определяет политическое поведение независимо от мотивов участников",
+            "en": "The legal order determines political behavior regardless of the participants' motives",
+            "kk": "Заңдық құрылыс қатысушылардың уәждеріне қарамастан саяси мінез-құлықты айқындайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Политические процессы связаны с несколькими взаимозависимыми сферами",
+            "en": "Political processes are connected with several interdependent spheres",
+            "kk": "Саяси үдерістер бірнеше өзара тәуелді салалармен байланысты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Установленные экономические связи позволяют не учитывать политические механизмы их реализации",
+            "en": "Established economic links make it possible to disregard the political mechanisms of their implementation",
+            "kk": "Анықталған экономикалық байланыстар оларды жүзеге асырудың саяси тетіктерін ескермеуге мүмкіндік береді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    }
+  ]
+}

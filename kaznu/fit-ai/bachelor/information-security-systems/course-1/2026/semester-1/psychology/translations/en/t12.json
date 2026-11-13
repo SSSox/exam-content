@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 12,
+  "topic_name": "Abilities, predispositions, giftedness, talent and genius",
+  "questions": {
+    "241": {
+      "question": "Individual characteristics connected with the success of performing an activity are called...",
+      "options": {
+        "A": "Abilities",
+        "B": "Predispositions",
+        "C": "Knowledge",
+        "D": "Skills",
+        "E": "Proficiencies"
+      }
+    },
+    "242": {
+      "question": "The natural anatomical and physiological basis for the development of abilities is made up of...",
+      "options": {
+        "A": "Convictions",
+        "B": "Predispositions",
+        "C": "Skills",
+        "D": "Proficiencies",
+        "E": "Ideals"
+      }
+    },
+    "243": {
+      "question": "Correct statements about predispositions:",
+      "options": {
+        "A": "They guarantee a high result without training",
+        "B": "They unambiguously prescribe a particular profession",
+        "C": "They can become the basis of different abilities",
+        "D": "They serve as prerequisites for the development of abilities",
+        "E": "They are identical to ready-made professional skills"
+      }
+    },
+    "244": {
+      "question": "The same keen hearing can develop in different professional directions. This expresses...",
+      "options": {
+        "A": "The non-specificity of predispositions",
+        "B": "The independence of abilities from activity",
+        "C": "The exclusively quantitative nature of giftedness",
+        "D": "The unchangeability of special abilities",
+        "E": "The identity of a predisposition and a talent"
+      }
+    },
+    "245": {
+      "question": "How are abilities and activity related?",
+      "options": {
+        "A": "Abilities arise independently of the demands of activity",
+        "B": "Activity merely reveals unchangeable innate abilities",
+        "C": "Abilities are formed and manifested in activity",
+        "D": "Specialized activity excludes general development",
+        "E": "Repetition of an activity guarantees any level of development"
+      }
+    },
+    "246": {
+      "question": "Possibilities that are not yet realized but can manifest themselves when social conditions change are called... abilities.",
+      "options": {
+        "A": "Potential",
+        "B": "General",
+        "C": "Actual",
+        "D": "Auxiliary",
+        "E": "Leading"
+      }
+    },
+    "247": {
+      "question": "By degree of realization, an ability that is needed now and used in the activity being performed is...",
+      "options": {
+        "A": "Auxiliary",
+        "B": "Special",
+        "C": "Leading",
+        "D": "Actual",
+        "E": "Potential"
+      }
+    },
+    "248": {
+      "question": "Justified conclusions about the development of abilities:",
+      "options": {
+        "A": "A change of activity can open new possibilities",
+        "B": "The absence of manifestation proves the absence of potential",
+        "C": "Social conditions can promote actualization",
+        "D": "A pronounced predisposition does not guarantee the development of an ability",
+        "E": "Development ends with the formation of the analyzers"
+      }
+    },
+    "249": {
+      "question": "By breadth of applicability, powers of observation, useful to a writer, a physician and a researcher, belong to... abilities.",
+      "options": {
+        "A": "Special",
+        "B": "General",
+        "C": "Leading",
+        "D": "Potential",
+        "E": "Auxiliary"
+      }
+    },
+    "250": {
+      "question": "Special abilities are determined primarily by...",
+      "options": {
+        "A": "Only the overall speed of reactions",
+        "B": "The requirements of a particular kind of activity",
+        "C": "The presence of any strong emotion",
+        "D": "The predominance of one bodily component",
+        "E": "Only the number of words learned"
+      }
+    },
+    "251": {
+      "question": "Giftedness is understood as a distinctive combination of abilities that provides...",
+      "options": {
+        "A": "The possibility of successfully performing an activity",
+        "B": "A complete replacement of knowledge and skills",
+        "C": "An obligatory historical discovery",
+        "D": "A guarantee of success regardless of preparation",
+        "E": "The inheritance of a ready-made profession"
+      }
+    },
+    "252": {
+      "question": "A gifted student cannot cope with a professional task without preparation. Which conclusion is justified?",
+      "options": {
+        "A": "Success is determined only by general giftedness",
+        "B": "Giftedness automatically ensures professionalism",
+        "C": "Preparation does not affect the realization of abilities",
+        "D": "Potential requires the mastery of knowledge and skills",
+        "E": "Failure proves the absence of any abilities"
+      }
+    },
+    "253": {
+      "question": "A general factor and specific factors in the explanation of intellectual giftedness were identified by...",
+      "options": {
+        "A": "C. Spearman",
+        "B": "D. N. Uznadze",
+        "C": "T. Ziehen",
+        "D": "K. Leonhard",
+        "E": "E. Kretschmer"
+      }
+    },
+    "254": {
+      "question": "Correct correspondences between researchers and their propositions:",
+      "options": {
+        "A": "Spearman: a general factor and specific factors",
+        "B": "Pavlov: the author of the concept of the intelligence quotient",
+        "C": "Kretschmer: a two-factor model of intelligence",
+        "D": "Ziehen: a critique of a single general ability",
+        "E": "Stern: the ratio of mental age to chronological age"
+      }
+    },
+    "255": {
+      "question": "The conscious orientation of thinking toward new demands in the definition of giftedness was emphasized by...",
+      "options": {
+        "A": "W. Stern",
+        "B": "W. Sheldon",
+        "C": "K. Lewin",
+        "D": "F. Gall",
+        "E": "E. Shostrom"
+      }
+    },
+    "256": {
+      "question": "A qualitative analysis of giftedness primarily answers the question...",
+      "options": {
+        "A": "What single rank a person occupies in a ranking",
+        "B": "How to exclude the influence of the conditions of development",
+        "C": "How a person's distinctive combination of abilities is structured",
+        "D": "Which profession a person's heredity guarantees",
+        "E": "How many innate professional skills a person has"
+      }
+    },
+    "257": {
+      "question": "A high level of special abilities that is realized in original, socially significant products is called...",
+      "options": {
+        "A": "A predisposition",
+        "B": "An actual sensory ability",
+        "C": "Potential giftedness",
+        "D": "General educability",
+        "E": "Talent"
+      }
+    },
+    "258": {
+      "question": "Creative achievements that open a historically new epoch in a particular field characterize...",
+      "options": {
+        "A": "Talent",
+        "B": "A high level of general educability",
+        "C": "Special giftedness",
+        "D": "Genius",
+        "E": "An actual professional ability"
+      }
+    },
+    "259": {
+      "question": "Indicate the correct statements about giftedness and talent.",
+      "options": {
+        "A": "Talent presupposes a combination of abilities",
+        "B": "Knowledge is superfluous given high giftedness",
+        "C": "Giftedness creates a possibility, not a guarantee of success",
+        "D": "A single isolated skill always equals talent",
+        "E": "A social position automatically makes a person a genius"
+      }
+    },
+    "260": {
+      "question": "By their importance for an activity, the components of an ability that occupy the central place in performing it are called...",
+      "options": {
+        "A": "Leading",
+        "B": "General",
+        "C": "Actual",
+        "D": "Auxiliary",
+        "E": "Potential"
+      }
+    },
+    "261": {
+      "question": "The presence of talent is most justifiably judged primarily by...",
+      "options": {
+        "A": "Only external features of body build",
+        "B": "The early award of an honorary status",
+        "C": "A single high memory score",
+        "D": "The results of independent, original activity",
+        "E": "Any strong professional interest"
+      }
+    },
+    "262": {
+      "question": "The twelve-dimensional model of properties of the nervous system, including primary and secondary properties, was proposed by...",
+      "options": {
+        "A": "H. Eysenck",
+        "B": "V. D. Nebylitsyn",
+        "C": "A. Binet",
+        "D": "C. Spearman",
+        "E": "K. K. Platonov"
+      }
+    },
+    "263": {
+      "question": "By level of generality, properties of an individual analyzer, rather than of the whole nervous system, are called...",
+      "options": {
+        "A": "Partial",
+        "B": "General",
+        "C": "Primary",
+        "D": "Dynamic",
+        "E": "Secondary"
+      }
+    },
+    "264": {
+      "question": "When assessing giftedness, one should take into account:",
+      "options": {
+        "A": "Work on improving abilities",
+        "B": "Only the presence of a natural predisposition",
+        "C": "The requirements of a specific activity",
+        "D": "The complete independence of the result from instruction",
+        "E": "The conditions of the person's development"
+      }
+    },
+    "265": {
+      "question": "Why is the assessment of a single ability insufficient for predicting professional success?",
+      "options": {
+        "A": "A single ability is not related to any activity",
+        "B": "All abilities develop in strictly the same way",
+        "C": "General abilities replace special requirements",
+        "D": "The result depends on the combination of components and on preparation",
+        "E": "Any success is entirely predetermined by age"
+      }
+    }
+  }
+}

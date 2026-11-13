@@ -1,0 +1,1382 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 236,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Потребность человека определить свою групповую принадлежность выражает функцию политической культуры...",
+        "en": "A person's need to determine their group affiliation expresses the ... function of political culture.",
+        "kk": "Адамның өзінің топтық тиесілілігін анықтау қажеттілігі саяси мәдениеттің қандай функциясын білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1750",
+          "units": [
+            "p1750"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Коммуникации",
+            "en": "Communication",
+            "kk": "Коммуникация"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Идентификации",
+            "en": "Identification",
+            "kk": "Сәйкестендіру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Адаптации",
+            "en": "Adaptation",
+            "kk": "Бейімделу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рекрутирования",
+            "en": "Recruitment",
+            "kk": "Рекрутинг"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ориентации",
+            "en": "Orientation",
+            "kk": "Бағдарлау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 237,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Осмысление собственных возможностей реализации прав в определённой системе относится к функции...",
+        "en": "Understanding one's own opportunities to exercise rights within a particular system belongs to the ... function.",
+        "kk": "Белгілі бір жүйеде құқықтарды іске асырудың өз мүмкіндіктерін ұғыну қандай функцияға жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1751",
+          "units": [
+            "p1751"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ориентации",
+            "en": "Orientation",
+            "kk": "Бағдарлау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интеграции",
+            "en": "Integration",
+            "kk": "Интеграция"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Идентификации",
+            "en": "Identification",
+            "kk": "Сәйкестендіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Коммуникации",
+            "en": "Communication",
+            "kk": "Коммуникация"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Мобилизации",
+            "en": "Mobilization",
+            "kk": "Жұмылдыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 238,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Политические противники обсуждают разногласия на основе понятных обеим сторонам символов и терминов. Какая функция культуры проявляется?",
+        "en": "Political opponents discuss their disagreements on the basis of symbols and terms understood by both sides. Which function of culture is at work?",
+        "kk": "Саяси қарсыластар келіспеушіліктерді екі жаққа да түсінікті символдар мен терминдер негізінде талқылайды. Мәдениеттің қандай функциясы көрінеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1754",
+          "units": [
+            "p1754"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Принудительная",
+            "en": "Coercive",
+            "kk": "Мәжбүрлеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Распределительная",
+            "en": "Distributive",
+            "kk": "Бөлу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Селекционная",
+            "en": "Selective",
+            "kk": "Іріктеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Коммуникативная",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прогностическая",
+            "en": "Predictive",
+            "kk": "Болжамдық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 239,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Уровни ценностной ориентации в структуре политической культуры:",
+        "en": "Levels of value orientation in the structure of political culture:",
+        "kk": "Саяси мәдениет құрылымындағы құндылықтық бағдарлау деңгейлері:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1758",
+          "units": [
+            "p1758"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Институционально-отраслевой",
+            "en": "Institutional-sectoral",
+            "kk": "Институционалдық-салалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мировоззренческий",
+            "en": "Worldview",
+            "kk": "Дүниетанымдық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Политических представлений",
+            "en": "Political perceptions",
+            "kk": "Саяси көзқарастар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Нормативно-процедурный",
+            "en": "Normative-procedural",
+            "kk": "Нормативтік-рәсімдік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гражданский",
+            "en": "Civic",
+            "kk": "Азаматтық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 240,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Типологию патриархальной, подданнической и активистской политических культур предложили...",
+        "en": "The typology of parochial, subject and participant political cultures was proposed by...",
+        "kk": "Патриархалдық, бағыныштылық және белсенділік саяси мәдениеттер типологиясының авторлары..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1768",
+          "units": [
+            "p1768"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Петер Бахрах и Мортон Баратц",
+            "en": "Peter Bachrach and Morton Baratz",
+            "kk": "Петер Бахрах және Мортон Баратц"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Габриэль Алмонд и Сидней Верба",
+            "en": "Gabriel Almond and Sidney Verba",
+            "kk": "Габриэль Алмонд және Сидней Верба"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Дэвид Истон и Карл Дойч",
+            "en": "David Easton and Karl Deutsch",
+            "kk": "Дэвид Истон және Карл Дойч"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гаэтано Моска и Вильфредо Парето",
+            "en": "Gaetano Mosca and Vilfredo Pareto",
+            "kk": "Гаэтано Моска және Вильфредо Парето"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Роберт Михельс и Морис Дюверже",
+            "en": "Robert Michels and Maurice Duverger",
+            "kk": "Роберт Михельс және Морис Дюверже"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 241,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Гражданин признаёт центральные институты, ожидает от них решений, но почти не стремится влиять на политику. Это ориентация культуры...",
+        "en": "A citizen recognizes the central institutions and expects decisions from them, but hardly seeks to influence politics. This is an orientation of a ... culture.",
+        "kk": "Азамат орталық институттарды мойындайды, олардан шешімдер күтеді, бірақ саясатқа ықпал етуге дерлік ұмтылмайды. Бұл мәдениеттің қандай бағдары?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1768",
+          "units": [
+            "p1768"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Активистской",
+            "en": "Participant",
+            "kk": "Белсенділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рыночной",
+            "en": "Market",
+            "kk": "Нарықтық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Патриархальной",
+            "en": "Parochial",
+            "kk": "Патриархалдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Подданнической",
+            "en": "Subject",
+            "kk": "Бағыныштылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Контрэлитарной",
+            "en": "Counter-elite",
+            "kk": "Контрэлитарлық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 242,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Патриархальная политическая культура отличается от подданнической...",
+        "en": "A parochial political culture differs from a subject one in...",
+        "kk": "Патриархалдық саяси мәдениет бағыныштылық мәдениеттен немен ерекшеленеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1768",
+          "units": [
+            "p1768"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Более высоким уровнем регулярной политической активности",
+            "en": "A higher level of regular political activity",
+            "kk": "Тұрақты саяси белсенділіктің неғұрлым жоғары деңгейімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Преобладанием конкуренции профессиональных партий",
+            "en": "The predominance of competition among professional parties",
+            "kk": "Кәсіби партиялар бәсекелестігінің басым болуымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательной верой в исключительный дар лидера",
+            "en": "A mandatory belief in the leader's exceptional gift",
+            "kk": "Көшбасшының ерекше сыйына міндетті сенімімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Слабой ориентацией на общенациональную политическую систему",
+            "en": "A weak orientation toward the nationwide political system",
+            "kk": "Жалпыұлттық саяси жүйеге бағдарлануының әлсіздігімен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Постоянным контролем за работой выборных органов",
+            "en": "Constant oversight of the work of elected bodies",
+            "kk": "Сайлау органдарының жұмысын тұрақты бақылаумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 243,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Активистский тип политической культуры характеризуется...",
+        "en": "The participant type of political culture is characterized by...",
+        "kk": "Саяси мәдениеттің белсенділік типі немен сипатталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1768",
+          "units": [
+            "p1768"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключительно наследственной политической идентичностью",
+            "en": "An exclusively hereditary political identity",
+            "kk": "Тек мұрагерлік саяси сәйкестікпен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ориентацией на участие и влияние на политические решения",
+            "en": "An orientation toward participation and influence on political decisions",
+            "kk": "Қатысуға және саяси шешімдерге ықпал етуге бағдарлануымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Полным совпадением общественной и частной морали",
+            "en": "A complete coincidence of public and private morality",
+            "kk": "Қоғамдық және жеке адамгершіліктің толық сәйкес келуімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Признанием власти без стремления к участию",
+            "en": "Acceptance of authority without a desire to participate",
+            "kk": "Қатысуға ұмтылмай билікті мойындаумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствием интереса к политической системе",
+            "en": "A lack of interest in the political system",
+            "kk": "Саяси жүйеге қызығушылықтың болмауымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 244,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Гражданская культура» у Алмонда и Вербы представляет собой...",
+        "en": "The \"civic culture\" in Almond and Verba is...",
+        "kk": "Алмонд пен Вербадағы «азаматтық мәдениет» дегеніміз не?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1768",
+          "units": [
+            "p1768"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обязательное отрицание представительства",
+            "en": "A mandatory rejection of representation",
+            "kk": "Өкілдікті міндетті түрде жоққа шығару"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Смешанную конфигурацию политических ориентаций",
+            "en": "A mixed configuration of political orientations",
+            "kk": "Саяси бағдарлардың аралас конфигурациясы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Полное исчезновение подданнических установок",
+            "en": "The complete disappearance of subject attitudes",
+            "kk": "Бағыныштылық қондырғылардың толық жойылуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительно максимальную активность каждого гражданина",
+            "en": "Exclusively the maximum activity of every citizen",
+            "kk": "Әрбір азаматтың тек барынша жоғары белсенділігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствие политических традиций",
+            "en": "The absence of political traditions",
+            "kk": "Саяси дәстүрлердің болмауы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 245,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В этатистской политической культуре ведущая роль отводится...",
+        "en": "In a statist political culture, the leading role is assigned to...",
+        "kk": "Этатистік саяси мәдениетте жетекші рөл кімге беріледі?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1769",
+          "units": [
+            "p1769"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Государственным институтам",
+            "en": "State institutions",
+            "kk": "Мемлекеттік институттарға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Свободному обмену частных участников",
+            "en": "Free exchange among private participants",
+            "kk": "Жеке қатысушылардың еркін алмасуына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Международным неправительственным сетям",
+            "en": "International non-governmental networks",
+            "kk": "Халықаралық үкіметтік емес желілерге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Семейно-родственным объединениям",
+            "en": "Family and kinship associations",
+            "kk": "Отбасылық-туыстық бірлестіктерге"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Автономным профессиональным союзам",
+            "en": "Autonomous professional unions",
+            "kk": "Дербес кәсіптік одақтарға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 246,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какие элементы политической культуры обычно изменяются медленнее конкретных оценок событий?",
+        "en": "Which elements of political culture usually change more slowly than specific assessments of events?",
+        "kk": "Саяси мәдениеттің қандай элементтері әдетте оқиғаларға берілетін нақты бағалардан баяу өзгереді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1759",
+          "units": [
+            "p1759"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отношение к одному законопроекту",
+            "en": "The attitude toward a single bill",
+            "kk": "Бір заң жобасына көзқарас"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Реакции на недавнее выступление",
+            "en": "Reactions to a recent speech",
+            "kk": "Жуырдағы сөйлеген сөзге реакциялар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Оценки отдельного назначения",
+            "en": "Assessments of an individual appointment",
+            "kk": "Жеке тағайындауды бағалау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мировоззренческие принципы",
+            "en": "Worldview principles",
+            "kk": "Дүниетанымдық қағидаттар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Предпочтения на текущих выборах",
+            "en": "Preferences in the current elections",
+            "kk": "Ағымдағы сайлаудағы қалаулар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 247,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Политическая социализация предполагает...",
+        "en": "Political socialization involves...",
+        "kk": "Саяси әлеуметтену нені көздейді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1814",
+          "units": [
+            "p1814"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1819",
+          "units": [
+            "p1819"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Однократное получение паспорта",
+            "en": "The one-time receipt of a passport",
+            "kk": "Паспортты бір рет алуды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только участие в первой избирательной кампании",
+            "en": "Only participation in a first election campaign",
+            "kk": "Тек бірінші сайлау науқанына қатысуды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только первоначальное заучивание государственной символики",
+            "en": "Only the initial memorization of state symbols",
+            "kk": "Тек мемлекеттік рәміздерді бастапқы жаттауды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительно профессиональную подготовку чиновников",
+            "en": "Exclusively the professional training of officials",
+            "kk": "Тек шенеуніктерді кәсіби даярлауды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Освоение политических норм и ролей в течение жизни",
+            "en": "The acquisition of political norms and roles throughout life",
+            "kk": "Саяси нормалар мен рөлдерді өмір бойы игеруді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 248,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ребёнок воспринимает власть через конкретного руководителя и идеализирует его образ. Это преимущественно проявление...",
+        "en": "A child perceives power through a specific leader and idealizes his image. This is mainly a manifestation of...",
+        "kk": "Бала билікті нақты басшы арқылы қабылдайды және оның бейнесін мұраттайды. Бұл негізінен нені көрсетеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1821-1822",
+          "units": [
+            "p1821",
+            "p1822"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Первичной политической социализации",
+            "en": "Primary political socialization",
+            "kk": "Бастапқы саяси әлеуметтенуді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рационально-правового господства",
+            "en": "Rational-legal domination",
+            "kk": "Рационалды-құқықтық үстемдікті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вторичной политической социализации",
+            "en": "Secondary political socialization",
+            "kk": "Қайталама саяси әлеуметтенуді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Антрепренерского рекрутирования",
+            "en": "Entrepreneurial recruitment",
+            "kk": "Антрепренерлік рекрутингті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Институциональной дифференциации",
+            "en": "Institutional differentiation",
+            "kk": "Институционалдық саралануды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 249,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вторичная политическая социализация связана прежде всего с...",
+        "en": "Secondary political socialization is connected primarily with...",
+        "kk": "Қайталама саяси әлеуметтену ең алдымен немен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1824",
+          "units": [
+            "p1824"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только первым знакомством ребёнка с символами власти",
+            "en": "Only a child's first acquaintance with the symbols of power",
+            "kk": "Баланың билік рәміздерімен тек алғашқы танысуымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Биологическим наследованием политических предпочтений",
+            "en": "The biological inheritance of political preferences",
+            "kk": "Саяси қалауларды биологиялық мұралаумен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Самостоятельной переработкой информации и пересмотром политических ориентаций",
+            "en": "The independent processing of information and the revision of political orientations",
+            "kk": "Ақпаратты өз бетінше қайта өңдеумен және саяси бағдарларды қайта қараумен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательным назначением на государственную должность",
+            "en": "A mandatory appointment to a state post",
+            "kk": "Мемлекеттік лауазымға міндетті тағайындаумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Исключительно некритическим усвоением персонифицированных образов",
+            "en": "Exclusively the uncritical assimilation of personified images",
+            "kk": "Дараландырылған бейнелерді тек сыни тұрғыдан қарамай қабылдаумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 250,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия типа социализации и ориентации.",
+        "en": "Indicate the correct correspondences between a type of socialization and an orientation.",
+        "kk": "Әлеуметтену типі мен бағдар арасындағы дұрыс сәйкестіктерді көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1827-1829",
+          "units": [
+            "p1827",
+            "p1828",
+            "p1829"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Конфликтная: ориентация на межгрупповую борьбу",
+            "en": "Conflict: an orientation toward intergroup struggle",
+            "kk": "Қақтығысты: топаралық күреске бағдарлану"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гегемонистская: отрицание чужих политических систем",
+            "en": "Hegemonic: rejection of other political systems",
+            "kk": "Гегемонистік: өзге саяси жүйелерді жоққа шығару"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гегемонистская: готовность менять предпочтения при признании равноправия оппонентов",
+            "en": "Hegemonic: a readiness to change preferences while recognizing the equality of opponents",
+            "kk": "Гегемонистік: оппоненттердің теңқұқықтылығын мойындаған кезде қалауларды өзгертуге дайындық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Плюралистическая: признание собственной системы единственно допустимой",
+            "en": "Pluralistic: recognition of one's own system as the only permissible one",
+            "kk": "Плюралистік: өз жүйесін жалғыз жол берілетін жүйе деп тану"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Плюралистическая: признание равноправия и различий",
+            "en": "Pluralistic: recognition of equality and differences",
+            "kk": "Плюралистік: теңқұқықтылық пен айырмашылықтарды мойындау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 251,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отстранение гражданина от политической жизни и уклонение от участия в выборах характеризуют...",
+        "en": "A citizen's withdrawal from political life and avoidance of participation in elections characterize...",
+        "kk": "Азаматтың саяси өмірден шеттеуі және сайлауға қатысудан жалтаруы нені сипаттайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1920",
+          "units": [
+            "p1920"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2158",
+          "units": [
+            "p2158"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Политический абсентеизм",
+            "en": "Political absenteeism",
+            "kk": "Саяси абсентеизмді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Политическое рекрутирование",
+            "en": "Political recruitment",
+            "kk": "Саяси рекрутингті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Агрегирование интересов",
+            "en": "Interest aggregation",
+            "kk": "Мүдделерді агрегациялауды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Электоральную мобилизацию",
+            "en": "Electoral mobilization",
+            "kk": "Сайлаулық жұмылдыруды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Партийную институционализацию",
+            "en": "Party institutionalization",
+            "kk": "Партиялық институционализацияны"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 252,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Мотивы, которые могут побуждать человека участвовать в политике:",
+        "en": "Motives that may induce a person to take part in politics:",
+        "kk": "Адамды саясатқа қатысуға итермелей алатын уәждер:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2151-2152",
+          "units": [
+            "p2151",
+            "p2152"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Само получение гражданства независимо от восприятия личных и групповых интересов",
+            "en": "The mere acquisition of citizenship, regardless of the perception of personal and group interests",
+            "kk": "Жеке және топтық мүдделерді қабылдауға қарамастан азаматтықты алудың өзі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Осознание собственных интересов",
+            "en": "Awareness of one's own interests",
+            "kk": "Өз мүдделерін түсіну"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Стремление защитить групповые потребности",
+            "en": "A desire to defend group needs",
+            "kk": "Топтық қажеттіліктерді қорғауға ұмтылу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Переживание угрозы социальному положению",
+            "en": "The experience of a threat to one's social position",
+            "kk": "Әлеуметтік жағдайға қауіп төнуін сезіну"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Исключительно внешнее принуждение без самостоятельной мотивации",
+            "en": "Exclusively external coercion without independent motivation",
+            "kk": "Өз бетінше уәжсіз тек сыртқы мәжбүрлеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 253,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Участники согласованного пикета требуют изменить отдельное решение, сохраняя признание действующих институтов. Это пример...",
+        "en": "Participants in an authorized picket demand a change to a particular decision while continuing to recognize the existing institutions. This is an example of...",
+        "kk": "Келісілген пикетке қатысушылар қолданыстағы институттарды мойындай отырып, жекелеген шешімді өзгертуді талап етеді. Бұл қандай жағдайдың мысалы?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2161-2164",
+          "units": [
+            "p2161",
+            "p2162",
+            "p2163",
+            "p2164"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наследственного способа легитимации",
+            "en": "A hereditary method of legitimation",
+            "kk": "Мұрагерлік заңдастыру тәсілінің"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обязательного отрицания основ всей системы",
+            "en": "A mandatory rejection of the foundations of the whole system",
+            "kk": "Бүкіл жүйенің негіздерін міндетті түрде жоққа шығарудың"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Протеста, направленного на корректировку политического курса",
+            "en": "Protest aimed at correcting the political course",
+            "kk": "Саяси бағытты түзетуге бағытталған наразылықтың"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отказа от любых форм политического участия",
+            "en": "A refusal of any form of political participation",
+            "kk": "Саяси қатысудың кез келген нысанынан бас тартудың"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Передачи суверенитета группе давления",
+            "en": "The transfer of sovereignty to a pressure group",
+            "kk": "Егемендікті қысым тобына берудің"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 254,
+      "topic_id": 11,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие утверждения о политической культуре верны?",
+        "en": "Which statements about political culture are correct?",
+        "kk": "Саяси мәдениет туралы қандай тұжырымдар дұрыс?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1747-1748",
+          "units": [
+            "p1747",
+            "p1748"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1768",
+          "units": [
+            "p1768"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Изменение формальных учреждений достаточно для немедленной смены устойчивых ориентаций",
+            "en": "Changing formal institutions is enough to change stable orientations immediately",
+            "kk": "Ресми мекемелерді өзгерту тұрақты бағдарларды дереу өзгертуге жеткілікті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Она может сочетать традиционные и новые элементы",
+            "en": "It can combine traditional and new elements",
+            "kk": "Ол дәстүрлі және жаңа элементтерді ұштастыра алады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Политическая культура выражается прежде всего в текущем программном документе партии",
+            "en": "Political culture is expressed primarily in a party's current program document",
+            "kk": "Саяси мәдениет ең алдымен партияның ағымдағы бағдарламалық құжатында көрінеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Она может воспроизводить прежние формы поведения",
+            "en": "It can reproduce earlier forms of behavior",
+            "kk": "Ол мінез-құлықтың бұрынғы нысандарын қайта жаңғырта алады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "«Чистые» типы в реальности могут образовывать смешанные формы",
+            "en": "\"Pure\" types can in reality form mixed forms",
+            "kk": "Нақты өмірде «таза» типтер аралас нысандар құра алады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 255,
+      "topic_id": 11,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Общество расколото на субкультуры, утратившие общий политический язык. Какой риск наиболее непосредственно следует из этого?",
+        "en": "A society is split into subcultures that have lost a common political language. Which risk follows most directly from this?",
+        "kk": "Қоғам ортақ саяси тілін жоғалтқан субмәдениеттерге бөлінген. Бұдан тікелей қандай тәуекел туындайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1755",
+          "units": [
+            "p1755"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1760",
+          "units": [
+            "p1760"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1814",
+          "units": [
+            "p1814"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Разделение властей автоматически заменяет утраченную символическую связь между группами",
+            "en": "The separation of powers automatically replaces the lost symbolic link between groups",
+            "kk": "Билікті бөлу символдық байланыстың жоғалуын топтар арасында автоматты түрде алмастырады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ослабление общего языка означает прежде всего сокращение числа политических интересов",
+            "en": "The weakening of the common language means above all a reduction in the number of political interests",
+            "kk": "Ортақ тілдің әлсіреуі ең алдымен саяси мүдделер санының қысқаруын білдіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Передача новых установок происходит независимо от коммуникации между поколениями и группами",
+            "en": "The transmission of new attitudes occurs independently of communication between generations and groups",
+            "kk": "Жаңа қондырғылардың берілуі ұрпақтар мен топтар арасындағы коммуникацияға тәуелсіз жүреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Конкуренция субкультур сама по себе обеспечивает общие правила понимания политических решений",
+            "en": "Competition among subcultures in itself provides common rules for understanding political decisions",
+            "kk": "Субмәдениеттердің бәсекелестігінің өзі саяси шешімдерді түсінудің ортақ ережелерін қамтамасыз етеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ослабление коммуникации и интеграции политического сообщества",
+            "en": "The weakening of communication and integration of the political community",
+            "kk": "Саяси қауымдастықтың коммуникациясы мен интеграциясының әлсіреуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    }
+  ]
+}

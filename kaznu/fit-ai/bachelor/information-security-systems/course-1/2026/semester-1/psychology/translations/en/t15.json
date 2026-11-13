@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 15,
+  "topic_name": "Group psychology and the reconciliation of interests",
+  "questions": {
+    "311": {
+      "question": "A sense of belonging, expressed by the word \"we\", is...",
+      "options": {
+        "A": "An indicator of only morphological similarity",
+        "B": "A psychological characteristic of a group",
+        "C": "A sign of an exclusively nominal category",
+        "D": "A criterion of only the size of a group",
+        "E": "Evidence of the absence of group norms"
+      }
+    },
+    "312": {
+      "question": "The age and occupational makeup of an association characterizes its...",
+      "options": {
+        "A": "Role expectations",
+        "B": "Group process",
+        "C": "Communication structure",
+        "D": "System of sanctions",
+        "E": "Composition"
+      }
+    },
+    "313": {
+      "question": "The distribution of preferences, power and communication ties belongs to the...",
+      "options": {
+        "A": "Structure of the group",
+        "B": "Species membership",
+        "C": "Sensory organization",
+        "D": "Size of the group",
+        "E": "Composition of the group"
+      }
+    },
+    "314": {
+      "question": "Parameters included in the characterization of a group:",
+      "options": {
+        "A": "Only the sum of the temperaments",
+        "B": "Only the similarity of age",
+        "C": "Composition and structure",
+        "D": "A system of sanctions",
+        "E": "Norms and values"
+      }
+    },
+    "315": {
+      "question": "Approval of compliance with rules and censure of violations in a group are...",
+      "options": {
+        "A": "Role expectations",
+        "B": "Sanctions",
+        "C": "Norms",
+        "D": "Status positions",
+        "E": "Values"
+      }
+    },
+    "316": {
+      "question": "Which feature is especially important for distinguishing a large group from a small one?",
+      "options": {
+        "A": "The presence of a system of statuses in a small group",
+        "B": "The presence of common norms of behavior among the members of a small group",
+        "C": "Awareness of belonging to a small group",
+        "D": "Direct personal contacts among the members of a small group",
+        "E": "Participation of the members of a small group in social activity"
+      }
+    },
+    "317": {
+      "question": "People are in the same railway carriage and do not interact consciously. Such an association is called...",
+      "options": {
+        "A": "An aggregation",
+        "B": "A primary group",
+        "C": "A reference group",
+        "D": "A joint-activity group",
+        "E": "A real organized group"
+      }
+    },
+    "318": {
+      "question": "A spontaneous, unstable formation with short-term interaction of a single kind is called...",
+      "options": {
+        "A": "A status position",
+        "B": "A reference group",
+        "C": "A role structure",
+        "D": "A quasi-group",
+        "E": "A primary group"
+      }
+    },
+    "319": {
+      "question": "Indicate the correct correspondences between communities.",
+      "options": {
+        "A": "Aggregation: being together without interaction",
+        "B": "Quasi-group: short-term spontaneous interaction",
+        "C": "Small group: personal contacts and joint activity",
+        "D": "Reference group: only spatial proximity",
+        "E": "Primary group: only a statistical category"
+      }
+    },
+    "320": {
+      "question": "People were placed in a category by a conventional criterion solely for the purposes of analysis. This is a... group.",
+      "options": {
+        "A": "Real organized",
+        "B": "Cooperative",
+        "C": "Contact activity-based",
+        "D": "Primary",
+        "E": "Nominal"
+      }
+    },
+    "321": {
+      "question": "The capacity of a community to act as a whole for the sake of shared goals of which it is aware characterizes a... group.",
+      "options": {
+        "A": "Imaginary reference",
+        "B": "Randomly aggregated",
+        "C": "Purely nominal",
+        "D": "Real",
+        "E": "Conventionally statistical"
+      }
+    },
+    "322": {
+      "question": "The term \"primary group\" was introduced by...",
+      "options": {
+        "A": "H. Kelley",
+        "B": "C. H. Cooley",
+        "C": "H. Lasswell",
+        "D": "E. Shostrom",
+        "E": "K. Leonhard"
+      }
+    },
+    "323": {
+      "question": "Informal control, closeness and high solidarity distinguish primarily the... group.",
+      "options": {
+        "A": "Secondary",
+        "B": "Primary",
+        "C": "Statistical",
+        "D": "Nominal",
+        "E": "Aggregated"
+      }
+    },
+    "324": {
+      "question": "Correctly stated features of types of groups:",
+      "options": {
+        "A": "Secondary: obligatory intimate closeness",
+        "B": "Primary: emotional closeness",
+        "C": "Reference: a standard for norms and self-esteem",
+        "D": "Secondary: priority of performing a function",
+        "E": "Primary: exclusively impersonal relations"
+      }
+    },
+    "325": {
+      "question": "A student is guided by the values of a professional community he does not yet belong to. For him it is a...",
+      "options": {
+        "A": "Reference group",
+        "B": "Quasi-group",
+        "C": "Aggregation",
+        "D": "Primary contact group",
+        "E": "Membership group"
+      }
+    },
+    "326": {
+      "question": "Why may a membership group fail to coincide with a reference group?",
+      "options": {
+        "A": "Reference status is determined only by the number of participants",
+        "B": "A reference group is always only imaginary",
+        "C": "A membership group never has any values",
+        "D": "Actual belonging differs from normative orientation",
+        "E": "A person can belong to only one group"
+      }
+    },
+    "327": {
+      "question": "In the structure of the psychology of large groups, the more mobile emotional component includes primarily...",
+      "options": {
+        "A": "Stable mores and typical tastes",
+        "B": "Traditions and habitual ways of thinking",
+        "C": "Moods, feelings and interests",
+        "D": "Social character, customs and traditions",
+        "E": "Social character and stable mores"
+      }
+    },
+    "328": {
+      "question": "How do the common living conditions of a large group influence its representatives?",
+      "options": {
+        "A": "Only through direct contact of everyone with everyone",
+        "B": "Independently of culture and conditions of existence",
+        "C": "Through personal experience and communication in the social environment",
+        "D": "Exclusively through the inheritance of ready-made norms",
+        "E": "Through the complete elimination of individual differences"
+      }
+    },
+    "329": {
+      "question": "Indicate the correct statements about the reconciliation of interests and about conflicts.",
+      "options": {
+        "A": "Consensus presupposes the mandatory use of force",
+        "B": "Trust and impartial mediation support reconciliation",
+        "C": "Operational management includes one-off restrictive actions",
+        "D": "Operational measures are equal to only long-term forecasting",
+        "E": "Strategic management provides for the prevention of conflicts"
+      }
+    },
+    "330": {
+      "question": "A team member complies with its sanctions but relies on the values of another community in his self-esteem. Which conclusion is more accurate?",
+      "options": {
+        "A": "Reference status means formal leadership",
+        "B": "The membership group and the reference group are different",
+        "C": "Membership automatically excludes any other orientation",
+        "D": "Sanctions turn any group into a nominal one",
+        "E": "Group influence excludes personal self-esteem"
+      }
+    }
+  }
+}

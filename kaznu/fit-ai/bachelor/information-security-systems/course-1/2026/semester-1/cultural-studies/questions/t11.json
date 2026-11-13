@@ -1,0 +1,1636 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 251,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Крупные орхонские стелы с древнетюркскими надписями в 1889 году открыл...",
+        "en": "The large Orkhon steles with Old Turkic inscriptions were discovered in 1889 by...",
+        "kk": "Көне түркі жазулары бар ірі Орхон стелаларын 1889 жылы ашқан адам..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В. Томсен",
+            "en": "V. Thomsen",
+            "kk": "В. Томсен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "И. Страленберг",
+            "en": "P. J. von Strahlenberg",
+            "kk": "И. Страленберг"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Д. Мессершмидт",
+            "en": "D. G. Messerschmidt",
+            "kk": "Д. Мессершмидт"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Н. Ядринцев",
+            "en": "N. Yadrintsev",
+            "kk": "Н. Ядринцев"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В. Радлов",
+            "en": "V. Radlov",
+            "kk": "В. Радлов"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзац 30",
+          "units": [
+            "p30"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 252,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как распределяются роли В. Томсена и В. Радлова в изучении орхонских надписей?",
+        "en": "How are the roles of V. Thomsen and V. Radlov distributed in the study of the Orkhon inscriptions?",
+        "kk": "Орхон жазбаларын зерттеуде В. Томсен мен В. Радловтың рөлдері қалай бөлінеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Радлов нашёл ключ к алфавиту, Томсен открыл стелы",
+            "en": "Radlov found the key to the alphabet, Thomsen discovered the steles",
+            "kk": "Радлов әліпбидің кілтін тапты, Томсен стелаларды ашты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Радлов составил надписи, Томсен установил их авторство",
+            "en": "Radlov composed the inscriptions, Thomsen established their authorship",
+            "kk": "Радлов жазбаларды құрастырды, Томсен олардың авторлығын анықтады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Томсен открыл памятники на Енисее, Радлов — на Орхоне",
+            "en": "Thomsen discovered the monuments on the Yenisei, Radlov those on the Orkhon",
+            "kk": "Томсен Енисейдегі ескерткіштерді, Радлов Орхондағыларды ашты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Томсен нашёл ключ к алфавиту, Радлов дал первое чтение",
+            "en": "Thomsen found the key to the alphabet, Radlov gave the first reading",
+            "kk": "Томсен әліпбидің кілтін тапты, Радлов алғашқы оқуды берді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Томсен исследовал только согдийские тексты, Радлов — арабские",
+            "en": "Thomsen studied only Sogdian texts, Radlov only Arabic ones",
+            "kk": "Томсен тек соғды мәтіндерін, Радлов араб мәтіндерін зерттеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзац 30",
+          "units": [
+            "p30"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 253,
+      "topic_id": 11,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К крупнейшим древнетюркским руническим надписям Монголии относятся памятники:",
+        "en": "The largest Old Turkic runic inscriptions of Mongolia include the monuments:",
+        "kk": "Моңғолиядағы ірі көне түркі руникалық жазбаларына мына ескерткіштер жатады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "«Диван-и Хикмет»",
+            "en": "\"Diwan-i Hikmat\"",
+            "kk": "«Диуани хикмет»"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "«Кутадгу билиг»",
+            "en": "\"Kutadgu Bilig\"",
+            "kk": "«Құтадғу білік»"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В честь Тоньюкука",
+            "en": "The one in honour of Tonyukuk",
+            "kk": "Тоныкөк құрметіне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "«Диван лугат ат-турк»",
+            "en": "\"Diwan Lughat at-Turk\"",
+            "kk": "«Диуани лұғат ат-түрк»"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В честь Бильге-кагана и Кюль-тегина",
+            "en": "The one in honour of Bilge Khagan and Kul Tegin",
+            "kk": "Білге қаған мен Күлтегін құрметіне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзац 33",
+          "units": [
+            "p33"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 254,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Енисейские надписи преимущественно отличаются от орхонских...",
+        "en": "The Yenisei inscriptions differ from the Orkhon ones mainly...",
+        "kk": "Енисей жазбалары Орхон жазбаларынан негізінен ерекшеленеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отсутствием восхваления умерших",
+            "en": "By the absence of praise for the deceased",
+            "kk": "Қайтыс болғандарды мадақтаудың болмауымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Краткими эпитафиями при меньшем объёме историко-политических сведений",
+            "en": "By short epitaphs with less historical and political information",
+            "kk": "Тарихи-саяси мәліметтердің көлемі аз қысқа эпитафиялармен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключительно хозяйственными записями городских купцов",
+            "en": "By exclusively economic records of urban merchants",
+            "kk": "Қалалық саудагерлердің тек шаруашылық жазбаларымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Записью только на арабском языке",
+            "en": "By being written only in Arabic",
+            "kk": "Тек араб тілінде жазылуымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обширными государственными декларациями при отсутствии погребального содержания",
+            "en": "By extensive state declarations with no funerary content",
+            "kk": "Жерлеу мазмұны болмағанда кең көлемді мемлекеттік декларациялармен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзац 36",
+          "units": [
+            "p36"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 255,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какая последовательность вытеснения древнетюркской руники названа для Центральной и Средней Азии?",
+        "en": "Which sequence of the displacement of the Old Turkic runic script is named for Central and Middle Asia?",
+        "kk": "Орталық және Орта Азия үшін көне түркі руникасын ығыстырудың қандай тізбегі аталған?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Китайские иероглифы, затем кириллица",
+            "en": "Chinese characters, then Cyrillic",
+            "kk": "Қытай иероглифтері, содан кейін кирилл жазуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Уйгурский курсив, затем арабское письмо",
+            "en": "Uyghur cursive, then the Arabic script",
+            "kk": "Ұйғыр курсивті, содан кейін араб жазуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Согдийский курсив, затем латинский алфавит",
+            "en": "Sogdian cursive, then the Latin alphabet",
+            "kk": "Соғды курсивті, содан кейін латын әліпбиі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Арабское письмо, затем уйгурский курсив",
+            "en": "The Arabic script, then Uyghur cursive",
+            "kk": "Араб жазуы, содан кейін ұйғыр курсивті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Кириллица, затем арабское письмо",
+            "en": "Cyrillic, then the Arabic script",
+            "kk": "Кирилл жазуы, содан кейін араб жазуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзац 38",
+          "units": [
+            "p38"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 256,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почётное прозвище аль-Фараби «Второй учитель» связано прежде всего с...",
+        "en": "Al-Farabi's honorific title \"the Second Teacher\" is connected primarily with...",
+        "kk": "Әл-Фарабидің «Екінші ұстаз» құрметті лақап аты ең алдымен немен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Созданием тюркского рунического алфавита",
+            "en": "The creation of the Turkic runic alphabet",
+            "kk": "Түркі руникалық әліпбиін жасаумен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Составлением суфийского «Диван-и Хикмет»",
+            "en": "The compilation of the Sufi \"Diwan-i Hikmat\"",
+            "kk": "Сопылық «Диуани хикметті» құрастырумен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Комментированием сочинений Аристотеля",
+            "en": "The commentaries on the works of Aristotle",
+            "kk": "Аристотель еңбектеріне түсініктеме берумен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Переводом трактатов Конфуция",
+            "en": "The translation of the treatises of Confucius",
+            "kk": "Конфуций трактаттарын аударумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Написанием «Кутадгу билиг»",
+            "en": "The writing of \"Kutadgu Bilig\"",
+            "kk": "«Құтадғу біліктің» жазылуымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 257,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Труд аль-Фараби, который систематизирует науки и определяет предмет каждой из них, — это...",
+        "en": "Al-Farabi's work that systematizes the sciences and defines the subject matter of each is...",
+        "kk": "Ғылымдарды жүйелеп, әрқайсысының пәнін айқындайтын Әл-Фарабидің еңбегі — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "«О классификации наук»",
+            "en": "\"The Enumeration of the Sciences\"",
+            "kk": "«Ғылымдардың жіктелуі туралы»"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "«Диван лугат ат-турк»",
+            "en": "\"Diwan Lughat at-Turk\"",
+            "kk": "«Диуани лұғат ат-түрк»"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "«Гражданская политика»",
+            "en": "\"The Political Regime\"",
+            "kk": "«Азаматтық саясат»"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "«Книга моего деда Коркута»",
+            "en": "\"The Book of Dede Korkut\"",
+            "kk": "«Менің атам Қорқыттың кітабы»"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "«Трактат о взглядах жителей добродетельного города»",
+            "en": "\"On the Perfect State\"",
+            "kk": "«Қайырымды қала тұрғындарының көзқарастары туралы трактат»"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 16",
+          "units": [
+            "p16"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 258,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "С чем аль-Фараби сравнивает добродетельный город?",
+        "en": "To what does al-Farabi compare the virtuous city?",
+        "kk": "Әл-Фараби қайырымды қаланы неге теңейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "С рынком, где единственной целью выступает прибыль",
+            "en": "To a market whose only aim is profit",
+            "kk": "Жалғыз мақсаты пайда болатын базармен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "С военным лагерем, существующим вне нравственных норм",
+            "en": "To a military camp existing outside moral norms",
+            "kk": "Адамгершілік нормалардан тыс өмір сүретін әскери лагермен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "С замкнутым родом, исключающим разделение функций",
+            "en": "To a closed clan that excludes the division of functions",
+            "kk": "Функциялардың бөлінуін жоққа шығаратын тұйық руымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Со здоровым телом, органы которого взаимно помогают сохранять жизнь",
+            "en": "To a healthy body whose organs help one another to preserve life",
+            "kk": "Мүшелері өмірді сақтауға өзара көмектесетін дені сау денемен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "С независимыми атомами, лишёнными общей цели",
+            "en": "To independent atoms devoid of a common purpose",
+            "kk": "Ортақ мақсаттан жұрдай тәуелсіз атомдармен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 21",
+          "units": [
+            "p21"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 259,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Условие постижения сущности вещей, которое выделяет аль-Фараби, — это...",
+        "en": "The condition for grasping the essence of things that al-Farabi singles out is...",
+        "kk": "Әл-Фараби атап көрсететін заттардың мәнін ұғыну шарты — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сведение знания к повторению авторитетных преданий",
+            "en": "Reducing knowledge to the repetition of authoritative traditions",
+            "kk": "Білімді беделді аңыздарды қайталауға келтіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отождествление познания с наследуемым статусом",
+            "en": "Identifying cognition with inherited status",
+            "kk": "Танымды мұраланатын мәртебемен теңестіру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Устранение вопроса о сущности из философии",
+            "en": "Eliminating the question of essence from philosophy",
+            "kk": "Мән туралы сұрақты философиядан шығарып тастау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отказ от разума ради чувственного впечатления",
+            "en": "Renouncing reason in favour of sensory impression",
+            "kk": "Сезімдік әсер үшін ақылдан бас тарту"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Переход от чувственного восприятия к разумному познанию",
+            "en": "The transition from sensory perception to rational cognition",
+            "kk": "Сезімдік қабылдаудан парасатты танымға өту"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 20",
+          "units": [
+            "p20"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 260,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Создание «Кутадгу билиг» на тюркском языке имело политическое значение, так как оно...",
+        "en": "The composition of \"Kutadgu Bilig\" in the Turkic language had political significance because...",
+        "kk": "«Құтадғу біліктің» түркі тілінде жазылуы саяси мәнге ие болды, өйткені ол..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Делало наставления об управлении понятными караханидской среде",
+            "en": "It made the instructions on governance comprehensible to the Karakhanid milieu",
+            "kk": "Басқару туралы өсиеттерді қарахан ортасына түсінікті етті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Предназначало произведение исключительно арабским богословам",
+            "en": "It intended the work exclusively for Arab theologians",
+            "kk": "Шығарманы тек араб теологтарына арнады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обеспечивало переход всей администрации на латинский язык",
+            "en": "It ensured the transition of the entire administration to Latin",
+            "kk": "Бүкіл әкімшіліктің латын тіліне көшуін қамтамасыз етті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устраняло связь правителя с оседлыми областями",
+            "en": "It eliminated the ruler's connection with the sedentary regions",
+            "kk": "Билеушінің отырықшы аймақтармен байланысын жойды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Заменяло государственные вопросы только родовой генеалогией",
+            "en": "It replaced affairs of state with clan genealogy alone",
+            "kk": "Мемлекеттік мәселелерді тек рулық шежіремен алмастырды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 26",
+          "units": [
+            "p26"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 261,
+      "topic_id": 11,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Корни мировоззрения Юсуфа Баласагуни образуют традиции:",
+        "en": "The roots of Yusuf Balasagun's worldview are formed by the traditions:",
+        "kk": "Жүсіп Баласағұни дүниетанымының тамырын құрайтын дәстүрлер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Шаманистская",
+            "en": "Shamanistic",
+            "kk": "Шаманистік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исламская",
+            "en": "Islamic",
+            "kk": "Исламдық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Буддийско-схоластическая",
+            "en": "Buddhist-scholastic",
+            "kk": "Буддалық-схоластикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Христианско-патристическая",
+            "en": "Christian-patristic",
+            "kk": "Христиандық-патристикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Философская",
+            "en": "Philosophical",
+            "kk": "Философиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 27",
+          "units": [
+            "p27"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 262,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Символом справедливости в «Кутадгу билиг» выступает герой...",
+        "en": "The character of \"Kutadgu Bilig\" who is the symbol of justice is...",
+        "kk": "«Құтадғу біліктегі» әділеттіліктің символы болып табылатын кейіпкер..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Тоньюкук",
+            "en": "Tonyukuk",
+            "kk": "Тоныкөк"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Айтолды",
+            "en": "Aytoldy",
+            "kk": "Айтолды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кюнтогды",
+            "en": "Kuntogdy",
+            "kk": "Күнтуғды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Одгурмыш",
+            "en": "Odgurmysh",
+            "kk": "Одғұрмыш"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Огдюльмиш",
+            "en": "Ogdulmysh",
+            "kk": "Өгдүлміш"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 28",
+          "units": [
+            "p28"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 263,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автор «Собрания тюркских наречий»...",
+        "en": "The author of the \"Compendium of the Turkic Dialects\" is...",
+        "kk": "«Түркі тілдерінің жинағының» авторы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Махмуд Кашгари",
+            "en": "Mahmud al-Kashgari",
+            "kk": "Махмұд Қашқари"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Абу Райхан Бируни",
+            "en": "Abu Rayhan al-Biruni",
+            "kk": "Әбу Райхан Бируни"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ахмед Ясави",
+            "en": "Ahmed Yasawi",
+            "kk": "Ахмет Яссауи"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сулейман Бакыргани",
+            "en": "Suleiman Bakirgani",
+            "kk": "Сүлеймен Бақырғани"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Юсуф Баласагуни",
+            "en": "Yusuf Balasagun",
+            "kk": "Жүсіп Баласағұни"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 31",
+          "units": [
+            "p31"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 264,
+      "topic_id": 11,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "С вкладом Махмуда Кашгари в изучение тюркских языков связывают методы:",
+        "en": "Methods associated with Mahmud al-Kashgari's contribution to the study of the Turkic languages:",
+        "kk": "Махмұд Қашқаридың түркі тілдерін зерттеуге қосқан үлесімен байланыстырылатын әдістер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Свободные ассоциации как метод языкового анализа",
+            "en": "Free association as a method of linguistic analysis",
+            "kk": "Тілдік талдау әдісі ретіндегі еркін ассоциациялар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Циклическая морфология как метод чтения словаря",
+            "en": "Cyclical morphology as a method of reading a dictionary",
+            "kk": "Сөздікті оқу әдісі ретіндегі циклдік морфология"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сравнительный метод",
+            "en": "The comparative method",
+            "kk": "Салыстырмалы әдіс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исторический подход",
+            "en": "The historical approach",
+            "kk": "Тарихи тәсіл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Энергетический баланс как основание классификации диалектов",
+            "en": "Energy balance as a basis for classifying dialects",
+            "kk": "Диалектілерді жіктеу негізі ретіндегі энергетикалық баланс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 34",
+          "units": [
+            "p34"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 265,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Рифмованная проза, использованная в «Диван лугат ат-турк», называется...",
+        "en": "The rhymed prose used in the \"Diwan Lughat at-Turk\" is called...",
+        "kk": "«Диуани лұғат ат-түркте» қолданылған ұйқасты прозаның атауы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Раджаз",
+            "en": "Rajaz",
+            "kk": "Раджаз"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Жырау",
+            "en": "Zhyrau",
+            "kk": "Жырау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Садж",
+            "en": "Saj'",
+            "kk": "Садж"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Хикмет",
+            "en": "Hikmat",
+            "kk": "Хикмет"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Терме",
+            "en": "Terme",
+            "kk": "Терме"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 35",
+          "units": [
+            "p35"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 266,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Стихи воинственного содержания в характеристике «Диван лугат ат-турк» называются...",
+        "en": "In the characterization of the \"Diwan Lughat at-Turk\", verses of martial content are called...",
+        "kk": "«Диуани лұғат ат-түрктің» сипаттамасында жауынгерлік мазмұндағы өлеңдер қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Газелями",
+            "en": "Ghazals",
+            "kk": "Ғазал"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рубаи",
+            "en": "Rubaiyat",
+            "kk": "Рубағи"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Саджами",
+            "en": "Saj' verses",
+            "kk": "Садж"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Хикметами",
+            "en": "Hikmats",
+            "kk": "Хикмет"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Раджазами",
+            "en": "Rajaz verses",
+            "kk": "Раджаз"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура казахов в средневековье (1).docx",
+          "location": "абзац 35",
+          "units": [
+            "p35"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 267,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Учителем Ахмеда Ясави в Бухаре был...",
+        "en": "Ahmed Yasawi's teacher in Bukhara was...",
+        "kk": "Ахмет Яссауидің Бұхарадағы ұстазы кім болды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Бахауддин Накшбанд",
+            "en": "Baha-ud-Din Naqshband",
+            "kk": "Баһауддин Нақшбанди"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Джалаладдин Руми",
+            "en": "Jalal ad-Din Rumi",
+            "kk": "Жалалуддин Руми"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Юсуф Хамадани",
+            "en": "Yusuf Hamadani",
+            "kk": "Жүсіп Хамадани"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ибн Араби",
+            "en": "Ibn Arabi",
+            "kk": "Ибн Араби"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Абу Хамид аль-Газали",
+            "en": "Abu Hamid al-Ghazali",
+            "kk": "Әбу Хамид әл-Ғазали"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. средевековая культура казахов.docx",
+          "location": "абзац 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 268,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какая последовательность составляет общую схему суфийского пути?",
+        "en": "Which sequence constitutes the general scheme of the Sufi path?",
+        "kk": "Сопылық жолдың жалпы схемасын қандай тізбек құрайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Тарикат, шариат, хакикат, маарифат",
+            "en": "Tariqa, sharia, haqiqa, ma'rifa",
+            "kk": "Тариқат, шариғат, хақиқат, мағрифат"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Шариат, тарикат, маарифат, хакикат",
+            "en": "Sharia, tariqa, ma'rifa, haqiqa",
+            "kk": "Шариғат, тариқат, мағрифат, хақиқат"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Хакикат, тарикат, маарифат, шариат",
+            "en": "Haqiqa, tariqa, ma'rifa, sharia",
+            "kk": "Хақиқат, тариқат, мағрифат, шариғат"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Маарифат, хакикат, шариат, тарикат",
+            "en": "Ma'rifa, haqiqa, sharia, tariqa",
+            "kk": "Мағрифат, хақиқат, шариғат, тариқат"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Шариат, хакикат, тарикат, маарифат",
+            "en": "Sharia, haqiqa, tariqa, ma'rifa",
+            "kk": "Шариғат, хақиқат, тариқат, мағрифат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. средевековая культура казахов.docx",
+          "location": "абзац 10",
+          "units": [
+            "p10"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 269,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой ступени отдаётся предпочтение в формуле Ясави «Оболочка веры — шариат, а зерно —...»?",
+        "en": "Which stage is given preference in Yasawi's formula \"The shell of faith is sharia, and the kernel is...\"?",
+        "kk": "Яссауидің «Сенімнің қауызы – шариғат, ал дәні –...» формуласында қай сатыға басымдық беріледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Маарифат",
+            "en": "Ma'rifa",
+            "kk": "Мағрифат"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Хакикат",
+            "en": "Haqiqa",
+            "kk": "Хақиқат"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Тарикат",
+            "en": "Tariqa",
+            "kk": "Тариқат"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Закят",
+            "en": "Zakat",
+            "kk": "Зекет"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Хадж",
+            "en": "Hajj",
+            "kk": "Қажылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. средевековая культура казахов.docx",
+          "location": "абзац 10",
+          "units": [
+            "p10"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 270,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Центральная этическая концепция суфизма связана с образом...",
+        "en": "The central ethical concept of Sufism is connected with the image of...",
+        "kk": "Сопылықтың орталық этикалық тұжырымдамасы қандай бейнемен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Человека как суммы врождённых реакций",
+            "en": "The human being as a sum of innate reactions",
+            "kk": "Адамды тума реакциялардың жиынтығы ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рационального потребителя",
+            "en": "The rational consumer",
+            "kk": "Парасатты тұтынушы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Массового человека",
+            "en": "The mass man",
+            "kk": "Бұқара адам"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Совершенного человека",
+            "en": "The perfect human being",
+            "kk": "Кемел адам"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Родового предка как юридического лица",
+            "en": "The clan ancestor as a legal entity",
+            "kk": "Заңды тұлға ретіндегі рулық ата"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. средевековая культура казахов.docx",
+          "location": "абзац 18",
+          "units": [
+            "p18"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 271,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Монументальный портал исламского здания и ниша, указывающая киблу, называются...",
+        "en": "The monumental portal of an Islamic building and the niche indicating the qibla are called...",
+        "kk": "Ислам ғимаратының монументті порталы мен құбыланы көрсететін ойықтың атаулары..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Казанлык и кудукхана",
+            "en": "Kazanlyk and kudukhana",
+            "kk": "Қазандық және құдықхана"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гурхана и асхана",
+            "en": "Gurkhana and ashkhana",
+            "kk": "Гүрхана және асхана"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Пиштак и михраб",
+            "en": "Pishtaq and mihrab",
+            "kk": "Пиштақ және михраб"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гирих и худжра",
+            "en": "Girih and hujra",
+            "kk": "Гирих және хужра"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Михраб и пиштак",
+            "en": "Mihrab and pishtaq",
+            "kk": "Михраб және пиштақ"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. средевековая культура казахов.docx",
+          "location": "абзац 25",
+          "units": [
+            "p25"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 272,
+      "topic_id": 11,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия помещений комплекса Ясави их назначению:",
+        "en": "Correct pairings of the rooms of the Yasawi complex with their purposes:",
+        "kk": "Яссауи кешені үй-жайлары мен олардың мақсаттарының дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Асхана: приготовление ритуального кушанья",
+            "en": "Ashkhana: preparation of the ritual meal",
+            "kk": "Асхана: ғұрыптық тағам дайындау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Китабхана: усыпальница",
+            "en": "Kitabkhana: the burial chamber",
+            "kk": "Кітапхана: жерлеу орны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Худжра: парадный зал собраний",
+            "en": "Hujra: the ceremonial assembly hall",
+            "kk": "Хужра: жиналыстардың салтанатты залы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гурхана: помещение для хранения книг",
+            "en": "Gurkhana: a room for storing books",
+            "kk": "Гүрхана: кітап сақтауға арналған бөлме"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Кудукхана: помещение с колодцем",
+            "en": "Kudukhana: a room with a well",
+            "kk": "Құдықхана: құдығы бар бөлме"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. средевековая культура казахов.docx",
+          "location": "абзац 31",
+          "units": [
+            "p31"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 273,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Мастером тайказана комплекса Ясави в надписи 1399 года назван...",
+        "en": "The master of the taikazan (ritual cauldron) of the Yasawi complex is named in the inscription of 1399 as...",
+        "kk": "1399 жылғы жазбада Яссауи кешені тайқазанының шебері болып көрсетілген адам..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Абдульгазиз ибн Шарафутдин из Тебриза",
+            "en": "Abdulaziz ibn Sharafuddin of Tabriz",
+            "kk": "Тебризден шыққан Абдулазиз ибн Шарафеддин"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Йоллыг-тегин из Орхонской долины",
+            "en": "Yollyg Tegin of the Orkhon valley",
+            "kk": "Орхон аңғарынан шыққан Йоллығ-тегін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сулейман Бакыргани из Хорезма",
+            "en": "Suleiman Bakirgani of Khorezm",
+            "kk": "Хорезмнен шыққан Сүлеймен Бақырғани"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Махмуд Кашгари из Кашгара",
+            "en": "Mahmud al-Kashgari of Kashgar",
+            "kk": "Қашқардан шыққан Махмұд Қашқари"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Юсуф Хамадани из Бухары",
+            "en": "Yusuf Hamadani of Bukhara",
+            "kk": "Бұхарадан шыққан Жүсіп Хамадани"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. средевековая культура казахов.docx",
+          "location": "абзац 35",
+          "units": [
+            "p35"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 274,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ритуальный казан в комплексе Ясави символизирует...",
+        "en": "The ritual cauldron in the Yasawi complex symbolizes...",
+        "kk": "Яссауи кешеніндегі ғұрыптық қазан бейнелейді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обособление паломнических общин",
+            "en": "The isolation of pilgrim communities",
+            "kk": "Зиярат етуші қауымдардың оқшаулануын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отказ от совместного ритуала",
+            "en": "The rejection of communal ritual",
+            "kk": "Бірлескен ғұрыптан бас тартуды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Единение и гостеприимство",
+            "en": "Unity and hospitality",
+            "kk": "Бірлік пен қонақжайлылықты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительное право на торговлю",
+            "en": "The exclusive right to trade",
+            "kk": "Саудаға ерекше құқықты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Военную иерархию и родовую месть",
+            "en": "Military hierarchy and blood feud",
+            "kk": "Әскери иерархия мен қан кекті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. средевековая культура казахов.docx",
+          "location": "абзац 35",
+          "units": [
+            "p35"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 275,
+      "topic_id": 11,
+      "type": "single_choice",
+      "question": {
+        "ru": "Канонизированный почерк коранических текстов в декоре ханаки Ясави называется...",
+        "en": "The canonized script of Quranic texts in the decor of the Yasawi khanaqah is called...",
+        "kk": "Яссауи ханақасының безендірілуіндегі Құран мәтіндерінің канондалған жазу үлгісінің атауы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сульс",
+            "en": "Thuluth",
+            "kk": "Сүлс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Насталик",
+            "en": "Nasta'liq",
+            "kk": "Нәсталиқ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Куфи",
+            "en": "Kufic",
+            "kk": "Куфи"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рикъа",
+            "en": "Ruq'ah",
+            "kk": "Рика"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Насх",
+            "en": "Naskh",
+            "kk": "Нәсх"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. средевековая культура казахов.docx",
+          "location": "абзац 36",
+          "units": [
+            "p36"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    }
+  ]
+}

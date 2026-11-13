@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 7,
+  "topic_name": "The Semiotics of Culture and Symbolic Systems",
+  "questions": {
+    "151": {
+      "question": "In the semiotic definition, culture is opposed to entropy as...",
+      "options": {
+        "A": "A sphere of the organization of information",
+        "B": "A totality of biological mutations",
+        "C": "A set of independent natural stimuli",
+        "D": "A purely energetic exchange",
+        "E": "The absence of ordered sign relations"
+      }
+    },
+    "152": {
+      "question": "The relation of a sign to the object it denotes is the subject matter of...",
+      "options": {
+        "A": "Pragmatics",
+        "B": "Syntactics",
+        "C": "Hermeneutics",
+        "D": "Semantics",
+        "E": "Axiology"
+      }
+    },
+    "153": {
+      "question": "A researcher checks the rules for combining the symbols of a formula, setting their meanings aside. He is working in the field of...",
+      "options": {
+        "A": "Iconology",
+        "B": "Semantics",
+        "C": "Ethnology",
+        "D": "Syntactics",
+        "E": "Pragmatics"
+      }
+    },
+    "154": {
+      "question": "The difference in the understanding of a single message by audiences of different ages relates primarily to...",
+      "options": {
+        "A": "Textual studies as the establishment of authorship",
+        "B": "Palaeography",
+        "C": "Semantics as a relation to the object",
+        "D": "Syntactics",
+        "E": "Pragmatics"
+      }
+    },
+    "155": {
+      "question": "The introduction of the term \"pragmatics\" and the understanding of semiotics as an instrument of the sciences are associated with...",
+      "options": {
+        "A": "F. de Saussure",
+        "B": "C. Morris",
+        "C": "B. Uspensky",
+        "D": "E. Cassirer",
+        "E": "Yu. Lotman"
+      }
+    },
+    "156": {
+      "question": "In C. Morris's theory of signs, a symbol is related:",
+      "options": {
+        "A": "To the object",
+        "B": "Only to the sequence of literate epochs",
+        "C": "Only to the origin of the material of the carrier",
+        "D": "To other symbols",
+        "E": "To the person"
+      }
+    },
+    "157": {
+      "question": "Scholars belonging to the trend of the semiotic study of culture that goes back to Saussure:",
+      "options": {
+        "A": "L. Morgan",
+        "B": "B. Uspensky",
+        "C": "Yu. Lotman",
+        "D": "W. Ostwald",
+        "E": "B. Malinowski"
+      }
+    },
+    "158": {
+      "question": "Why does the reform of the rules for wearing beards under Peter I have cultural and semiotic significance?",
+      "options": {
+        "A": "Appearance ceases to take part in social communication",
+        "B": "All former rituals retain their unchanged obligatory force",
+        "C": "A feature of appearance acquires an obligatory sign value for the new order",
+        "D": "Human physiology directly changes the grammar of the language",
+        "E": "The reform eliminates the symbolic character of social behaviour"
+      }
+    },
+    "159": {
+      "question": "The formula \"culture is a generator of structuredness\" means that culture...",
+      "options": {
+        "A": "Renounces the semantic organization of the human environment",
+        "B": "Arises only after social development is fully completed",
+        "C": "Replaces any social structure with individual arbitrariness",
+        "D": "Orders the world surrounding the human being and makes social life possible",
+        "E": "Reduces the social world to a chaotic set of experiences"
+      }
+    },
+    "160": {
+      "question": "Indicate the formations classed as secondary modelling systems.",
+      "options": {
+        "A": "The native spoken language as a primary system",
+        "B": "The articulatory apparatus as a natural prerequisite of speech",
+        "C": "The unconditioned reflex as a physiological reaction",
+        "D": "Art",
+        "E": "Myth and religion"
+      }
+    },
+    "161": {
+      "question": "In what scope is information understood in cultural modelling?",
+      "options": {
+        "A": "It is limited to scientifically verified facts",
+        "B": "It covers only measurements of physical quantities",
+        "C": "It excludes normative and religious content",
+        "D": "It is reduced to the number of letters in a message",
+        "E": "It includes knowledge, values and beliefs"
+      }
+    },
+    "162": {
+      "question": "The primary sign systems of culture are...",
+      "options": {
+        "A": "Artistic styles",
+        "B": "Religious mythologies",
+        "C": "Legal codes",
+        "D": "Ritual scenarios",
+        "E": "Natural languages"
+      }
+    },
+    "163": {
+      "question": "Why does learning a foreign language help one to become aware of the sign nature of language?",
+      "options": {
+        "A": "The habitual naturalness of speech gives way to the need to master a system of rules",
+        "B": "A foreign language is not connected with cultural experience",
+        "C": "A system of signs arises only when a foreigner is taught",
+        "D": "Language learning eliminates the arbitrariness of the link between word and object",
+        "E": "The native language has a biological nature, while a foreign one has a social nature"
+      }
+    },
+    "164": {
+      "question": "The two-layer structure of a symbol is made up of:",
+      "options": {
+        "A": "The unchanging physical action of the object denoted",
+        "B": "The image of the object",
+        "C": "An idea mentally linked with the object",
+        "D": "A single technical algorithm of recognition",
+        "E": "The obligatory etymology of the author's name"
+      }
+    },
+    "165": {
+      "question": "The different interpretation of a single image of a dove in religion and in art shows such a property of the symbol as...",
+      "options": {
+        "A": "The complete absence of a common figurative carrier",
+        "B": "The dependence of meaning on the sphere of culture",
+        "C": "The exclusively natural origin of meaning",
+        "D": "The independence of interpretation from context",
+        "E": "The impossibility of intercultural use"
+      }
+    },
+    "166": {
+      "question": "The identification of the language of medics and the language of hippies is based on the criterion of...",
+      "options": {
+        "A": "The historical antiquity of writing",
+        "B": "The physical material of the sign",
+        "C": "Belonging to a particular subculture",
+        "D": "The size of the ethnic community",
+        "E": "The degree of genetic kinship of the speakers"
+      }
+    },
+    "167": {
+      "question": "The distinction between verbal, gestural and formalized languages is drawn according to...",
+      "options": {
+        "A": "The type of signs underlying the language",
+        "B": "The territory of distribution",
+        "C": "The age of the users",
+        "D": "The historical period of creation",
+        "E": "The professional authorship of the text"
+      }
+    },
+    "168": {
+      "question": "A characteristic of a direct message is...",
+      "options": {
+        "A": "A polysemantic form with a fixed meaning and free interpretation",
+        "B": "Meaning as the limit of the interpretation of an ambiguous form",
+        "C": "The obligatory unconscious origin of the message",
+        "D": "The absence of any correlation between form and meaning",
+        "E": "An unambiguous link between meaning and sign form"
+      }
+    },
+    "169": {
+      "question": "Why can even an unambiguous authorial intention become symbolic in a cultural context?",
+      "options": {
+        "A": "Every author is inevitably devoid of the intention to convey a meaning",
+        "B": "The material form of the work ceases to exist",
+        "C": "Authorship automatically cancels the link between the work and its era",
+        "D": "It enters a broader space of creative interpretations",
+        "E": "The reader is obliged to repeat only the literal meaning of the intention"
+      }
+    },
+    "170": {
+      "question": "Cultural symbolism as a transformed form of class interests is explained by...",
+      "options": {
+        "A": "Marxist and neo-Marxist sociology",
+        "B": "Philosophical hermeneutics",
+        "C": "Spengler's morphology",
+        "D": "Warburg's iconology",
+        "E": "Jungian analytical psychology"
+      }
+    },
+    "171": {
+      "question": "In Jung, a symbol differs from a functional sign in that it...",
+      "options": {
+        "A": "Always coincides with a scientific definition",
+        "B": "Does not allow for imagination and associative links",
+        "C": "Merely denotes an already known object",
+        "D": "Exists outside mental and spiritual life",
+        "E": "Expresses an anticipated content that is open to further interpretive thought"
+      }
+    },
+    "172": {
+      "question": "In C. Jung's concept, a symbol is related:",
+      "options": {
+        "A": "To the goals and actions of the human being",
+        "B": "Only to a consciously established authorial agreement",
+        "C": "Only to the physical properties of the sign carrier",
+        "D": "To archetypes",
+        "E": "To other symbols"
+      }
+    },
+    "173": {
+      "question": "Cultural symbols arise:",
+      "options": {
+        "A": "Only by normative approval by a professional corporation",
+        "B": "Only by rational derivation from a system of scientific definitions",
+        "C": "By deliberate creation to influence social processes",
+        "D": "By spontaneous emergence in dreams and fantasies",
+        "E": "Only by literal repetition of a recognized mythological model"
+      }
+    },
+    "174": {
+      "question": "The \"numinosity\" of an archetypal image means its capacity to...",
+      "options": {
+        "A": "Evoke a strong, vivid emotional response",
+        "B": "Exclude personal experience",
+        "C": "Provide an unambiguous legal meaning",
+        "D": "Preserve the precision of a mathematical notation",
+        "E": "Be fully subject to conscious calculation"
+      }
+    },
+    "175": {
+      "question": "Why is a profound artistic image characterized as ambivalent?",
+      "options": {
+        "A": "It retains only a positive characterization of the hero",
+        "B": "It is able to reveal a single archetype in both good and evil, the beautiful and the ugly",
+        "C": "It is devoid of any value-laden expressiveness",
+        "D": "It must belong to two authors at once",
+        "E": "It contains exactly two independently given plots"
+      }
+    }
+  }
+}

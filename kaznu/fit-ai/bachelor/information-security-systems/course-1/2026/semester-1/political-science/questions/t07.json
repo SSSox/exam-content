@@ -1,0 +1,1715 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 141,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Государственную публичную власть от родоплеменного самоуправления отличает...",
+        "en": "State public power is distinguished from tribal self-government by...",
+        "kk": "Мемлекеттік жария билікті рулық-тайпалық өзін-өзі басқарудан ерекшелейтіні..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1466",
+          "units": [
+            "p1466"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наличие общественных санкций",
+            "en": "The existence of public sanctions",
+            "kk": "Қоғамдық санкциялардың болуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Использование коллективных решений",
+            "en": "The use of collective decisions",
+            "kk": "Ұжымдық шешімдерді пайдалану"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наличие общих правил поведения",
+            "en": "The existence of common rules of conduct",
+            "kk": "Жалпы мінез-құлық ережелерінің болуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Признание авторитета старших",
+            "en": "Recognition of the authority of elders",
+            "kk": "Ақсақалдардың беделін мойындау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обособление профессионального аппарата управления",
+            "en": "The separation of a professional administrative apparatus",
+            "kk": "Басқарудың кәсіби аппаратының бөлектенуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 142,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Территориальный принцип государственной организации означает...",
+        "en": "The territorial principle of state organization means...",
+        "kk": "Мемлекеттік ұйымның аумақтық қағидаты нені білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1467-1468",
+          "units": [
+            "p1467",
+            "p1468"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Распространение юрисдикции на определённое пространство",
+            "en": "The extension of jurisdiction over a defined space",
+            "kk": "Юрисдикцияны белгілі бір кеңістікке таратуды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Возможность государства не иметь постоянного населения",
+            "en": "The possibility of a state having no permanent population",
+            "kk": "Мемлекетте тұрақты халықтың болмауы мүмкіндігін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Право каждого региона самостоятельно отменять общие законы",
+            "en": "The right of each region to repeal common laws independently",
+            "kk": "Әрбір аймақтың жалпы заңдарды өз бетінше жоюға құқығын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Объединение только лиц общего происхождения",
+            "en": "The union of only persons of common origin",
+            "kk": "Тек шыққан тегі ортақ адамдарды біріктіруді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательное совпадение границ с одной конфессией",
+            "en": "The mandatory coincidence of borders with a single religious confession",
+            "kk": "Шекараның бір конфессиямен міндетті түрде сәйкес келуін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 143,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Суверенитет государства выражает...",
+        "en": "The sovereignty of a state expresses...",
+        "kk": "Мемлекеттің егемендігі нені білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1468",
+          "units": [
+            "p1468"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Верховенство власти в пределах его территории",
+            "en": "The supremacy of power within its territory",
+            "kk": "Оның аумағы шегінде билік үстемдігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Неизменность государственной территории",
+            "en": "The immutability of state territory",
+            "kk": "Мемлекеттік аумақтың өзгермейтіндігін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Экономическую независимость каждого гражданина",
+            "en": "The economic independence of every citizen",
+            "kk": "Әрбір азаматтың экономикалық тәуелсіздігін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Преимущество исполнительных органов над судом",
+            "en": "The precedence of the executive bodies over the court",
+            "kk": "Атқарушы органдардың сот алдындағы басымдығын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Моральный авторитет правящего политического лидера",
+            "en": "The moral authority of the ruling political leader",
+            "kk": "Билеуші саяси көшбасшының моральдық беделін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 144,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Монополия государства на легальное принуждение означает...",
+        "en": "The state's monopoly on legitimate coercion means...",
+        "kk": "Мемлекеттің заңды мәжбүрлеуге монополиясы нені білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1469",
+          "units": [
+            "p1469"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Невозможность добровольного исполнения решений",
+            "en": "The impossibility of voluntary compliance with decisions",
+            "kk": "Шешімдерді ерікті түрде орындаудың мүмкін еместігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Фактическое отсутствие любого негосударственного насилия",
+            "en": "The actual absence of any non-state violence",
+            "kk": "Мемлекеттік емес зорлық-зомбылықтың нақты жоқтығын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательное применение силы при каждом нарушении",
+            "en": "The mandatory use of force for every violation",
+            "kk": "Әрбір бұзушылық кезінде күшті міндетті түрде қолдануды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительное право санкционировать правомерное применение силы",
+            "en": "The exclusive right to authorize the lawful use of force",
+            "kk": "Күшті құқықтық қолдануға санкция берудің айрықша құқығын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Освобождение силовых органов от действия права",
+            "en": "The exemption of the security forces from the rule of law",
+            "kk": "Күштік органдардың құқықтың әсерінен босатылуын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 145,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Финансовое обеспечение аппарата и государственных функций связано с правом государства...",
+        "en": "The financing of the apparatus and of state functions is connected with the state's right to...",
+        "kk": "Аппаратты және мемлекеттік функцияларды қаржылық қамтамасыз ету мемлекеттің нені жүзеге асыру құқығымен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1470",
+          "units": [
+            "p1470"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Определять единую зарплату всех граждан",
+            "en": "Set a single wage for all citizens",
+            "kk": "Барлық азаматтардың бірыңғай жалақысын айқындауды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Замещать все формы частного кредита",
+            "en": "Replace all forms of private credit",
+            "kk": "Жеке несиенің барлық нысандарын алмастыруды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Взимать налоги и обязательные сборы",
+            "en": "Levy taxes and mandatory charges",
+            "kk": "Салықтар мен міндетті алымдарды жинауды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устанавливать членские взносы добровольного объединения",
+            "en": "Establish membership fees for a voluntary association",
+            "kk": "Ерікті бірлестіктің мүшелік жарналарын белгілеуді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Получать доход исключительно от пожертвований",
+            "en": "Obtain income exclusively from donations",
+            "kk": "Табысты тек қайырмалдықтардан алуды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 146,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия между теорией происхождения государства и объясняющим фактором:",
+        "en": "Correct correspondences between a theory of the origin of the state and its explanatory factor:",
+        "kk": "Мемлекеттің шығу теориясы мен түсіндіруші фактор арасындағы дұрыс сәйкестіктер:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 607",
+          "units": [
+            "p607"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теологическая: божественная сила",
+            "en": "Theological: divine power",
+            "kk": "Теологиялық: құдайлық күш"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Материалистическая: социально-экономические изменения",
+            "en": "Materialist: socio-economic changes",
+            "kk": "Материалистік: әлеуметтік-экономикалық өзгерістер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Психологическая: особенности человеческой психики",
+            "en": "Psychological: features of the human psyche",
+            "kk": "Психологиялық: адам психикасының ерекшеліктері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Органическая: сознательное соглашение равноправных участников",
+            "en": "Organic: a conscious agreement of equal participants",
+            "kk": "Органикалық: тең құқылы қатысушылардың саналы келісімі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Договорная: развитие патриархальной семьи",
+            "en": "Contractual: the development of the patriarchal family",
+            "kk": "Шарттық: патриархалдық отбасының дамуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": 147,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Образование государства объясняется подчинением одного сообщества другим. Какая теория используется?",
+        "en": "The formation of the state is explained by the subjugation of one community by another. Which theory is being used?",
+        "kk": "Мемлекеттің құрылуы бір қауымдастықтың екіншісіне бағынуымен түсіндіріледі. Қандай теория қолданылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1479",
+          "units": [
+            "p1479"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Договорная теория",
+            "en": "Contract theory",
+            "kk": "Шарттық теория"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Теологическая теория",
+            "en": "Theological theory",
+            "kk": "Теологиялық теория"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Патриархальная теория",
+            "en": "Patriarchal theory",
+            "kk": "Патриархалдық теория"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Теория насилия",
+            "en": "Theory of violence",
+            "kk": "Күштеу теориясы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Психологическая теория",
+            "en": "Psychological theory",
+            "kk": "Психологиялық теория"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 148,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Функции государства представляют собой...",
+        "en": "The functions of the state are...",
+        "kk": "Мемлекет функциялары дегеніміз не?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 612",
+          "units": [
+            "p612"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Виды личной ответственности государственных служащих",
+            "en": "Types of personal liability of civil servants",
+            "kk": "Мемлекеттік қызметшілердің жеке жауапкершілік түрлері"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключительно формы государственного принуждения",
+            "en": "Exclusively forms of state coercion",
+            "kk": "Тек мемлекеттік мәжбүрлеу нысандары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Основные направления решения государственных задач",
+            "en": "The main directions in which state tasks are addressed",
+            "kk": "Мемлекеттік міндеттерді шешудің негізгі бағыттары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Способы рекрутирования правящего класса",
+            "en": "Ways of recruiting the ruling class",
+            "kk": "Билеуші таптың рекрутинг тәсілдері"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только компетенции высшего законодательного органа",
+            "en": "Only the competences of the supreme legislative body",
+            "kk": "Тек жоғарғы заң шығарушы органның құзыреттері"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 149,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Изменение налоговых ставок для стимулирования инвестиций выражает прежде всего функцию государства...",
+        "en": "Changing tax rates to stimulate investment expresses primarily the ... function of the state.",
+        "kk": "Инвестицияларды ынталандыру үшін салық мөлшерлемелерін өзгерту ең алдымен мемлекеттің қандай функциясын білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 614",
+          "units": [
+            "p614"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Экономическую",
+            "en": "Economic",
+            "kk": "Экономикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Оборонную",
+            "en": "Defense",
+            "kk": "Қорғаныстық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Правоохранительную",
+            "en": "Law enforcement",
+            "kk": "Құқық қорғау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социальную",
+            "en": "Social",
+            "kk": "Әлеуметтік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Культурно-воспитательную",
+            "en": "Cultural and educational",
+            "kk": "Мәдени-тәрбиелік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 150,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Поддержка безработных и предоставление социальных гарантий характеризуют функцию...",
+        "en": "Support for the unemployed and the provision of social guarantees characterize the ... function.",
+        "kk": "Жұмыссыздарды қолдау және әлеуметтік кепілдіктер беру қандай функцияны сипаттайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 615",
+          "units": [
+            "p615"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Учредительную",
+            "en": "Constituent",
+            "kk": "Құрылтайшылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Экономическую",
+            "en": "Economic",
+            "kk": "Экономикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Внешнеполитическую",
+            "en": "Foreign policy",
+            "kk": "Сыртқы саяси"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Судебную",
+            "en": "Judicial",
+            "kk": "Сот"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Социальную",
+            "en": "Social",
+            "kk": "Әлеуметтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 151,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К внешним функциям государства относятся:",
+        "en": "The external functions of the state include:",
+        "kk": "Мемлекеттің сыртқы функцияларына жататындар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 620",
+          "units": [
+            "p620"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Охрана внутреннего правопорядка",
+            "en": "Protection of internal law and order",
+            "kk": "Ішкі құқықтық тәртіпті қорғау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Регулирование национального рынка труда",
+            "en": "Regulation of the national labor market",
+            "kk": "Ұлттық еңбек нарығын реттеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социальное страхование граждан",
+            "en": "Social insurance of citizens",
+            "kk": "Азаматтарды әлеуметтік сақтандыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Оборона от внешних угроз",
+            "en": "Defense against external threats",
+            "kk": "Сыртқы қауіптерден қорғану"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Межгосударственное взаимовыгодное сотрудничество",
+            "en": "Mutually beneficial interstate cooperation",
+            "kk": "Мемлекетаралық өзара тиімді ынтымақтастық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 152,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Определяющий признак парламентской республики состоит в...",
+        "en": "The defining feature of a parliamentary republic is...",
+        "kk": "Парламенттік республиканың айқындаушы белгісі неде?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1534",
+          "units": [
+            "p1534"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Формировании кабинета монархом при его политической неподконтрольности парламенту",
+            "en": "The formation of the cabinet by the monarch while it remains politically unaccountable to parliament",
+            "kk": "Монархтың кабинетті құруы, оның парламентке саяси есеп бермеуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Формировании правительства на парламентской основе и его ответственности перед парламентом",
+            "en": "The formation of the government on a parliamentary basis and its accountability to parliament",
+            "kk": "Үкіметтің парламенттік негізде құрылуы және оның парламент алдындағы жауапкершілігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Внепарламентском формировании кабинета при его ответственности перед президентом",
+            "en": "The extra-parliamentary formation of the cabinet while it is accountable to the president",
+            "kk": "Кабинеттің парламенттен тыс құрылуы, оның президент алдындағы жауапкершілігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Независимом избрании президента при подчинении ему главы правительства",
+            "en": "The independent election of the president, to whom the head of government is subordinate",
+            "kk": "Президенттің тәуелсіз сайлануы, үкімет басшысының оған бағынуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Двойной ответственности правительства перед президентом и парламентом",
+            "en": "The dual accountability of the government to the president and parliament",
+            "kk": "Үкіметтің президент және парламент алдындағы қос жауапкершілігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 153,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Для классической президентской республики характерно...",
+        "en": "A classical presidential republic is characterized by...",
+        "kk": "Классикалық президенттік республикаға не тән?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1537-1538",
+          "units": [
+            "p1537",
+            "p1538"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Зависимость пребывания кабинета от текущего доверия парламента",
+            "en": "The cabinet's tenure depending on the current confidence of parliament",
+            "kk": "Кабинеттің билікте болуының парламенттің ағымдағы сеніміне тәуелділігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Формирование правительства только верхней палатой",
+            "en": "The formation of the government only by the upper chamber",
+            "kk": "Үкіметті тек жоғарғы палатаның құруы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Совмещение президентом руководства государством и исполнительной властью",
+            "en": "The president's combination of leadership of the state and executive power",
+            "kk": "Президенттің мемлекет басшылығы мен атқарушы билікті ұштастыруы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отсутствие самостоятельной исполнительной власти",
+            "en": "The absence of an independent executive power",
+            "kk": "Дербес атқарушы биліктің болмауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наследственный характер президентской должности",
+            "en": "The hereditary character of the presidential office",
+            "kk": "Президент лауазымының мұрагерлік сипаты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 154,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сильный избираемый президент сосуществует с правительством, ответственным перед парламентом. Это типичный признак...",
+        "en": "A strong elected president coexists with a government accountable to parliament. This is a typical feature of...",
+        "kk": "Күшті сайланбалы президент парламент алдында жауапты үкіметпен қатар өмір сүреді. Бұл қандай нысанның типтік белгісі?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1542-1543",
+          "units": [
+            "p1542",
+            "p1543"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Классической президентской республики",
+            "en": "A classical presidential republic",
+            "kk": "Классикалық президенттік республика"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Конфедерации",
+            "en": "A confederation",
+            "kk": "Конфедерация"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Смешанной республики",
+            "en": "A mixed (semi-presidential) republic",
+            "kk": "Аралас республика"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Дуалистической монархии",
+            "en": "A dualist monarchy",
+            "kk": "Дуалистік монархия"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Парламентской монархии",
+            "en": "A parliamentary monarchy",
+            "kk": "Парламенттік монархия"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 155,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Форма государственного устройства характеризует прежде всего...",
+        "en": "The form of state structure characterizes primarily...",
+        "kk": "Мемлекеттік құрылым нысаны ең алдымен нені сипаттайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1550",
+          "units": [
+            "p1550"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Методы взаимодействия лидера с избирателями",
+            "en": "The methods of interaction between a leader and voters",
+            "kk": "Көшбасшының сайлаушылармен өзара әрекет ету әдістерін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Степень идеологического контроля над гражданами",
+            "en": "The degree of ideological control over citizens",
+            "kk": "Азаматтар үстінен идеологиялық бақылау дәрежесін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Соотношение партий в правительственной коалиции",
+            "en": "The balance of parties in a governing coalition",
+            "kk": "Үкіметтік коалициядағы партиялардың арақатынасын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Порядок замещения должности главы государства",
+            "en": "The procedure for filling the office of head of state",
+            "kk": "Мемлекет басшысы лауазымына тағайындау тәртібін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Соотношение центральной власти и территориальных частей",
+            "en": "The relationship between the central authority and the territorial parts",
+            "kk": "Орталық билік пен аумақтық бөліктердің арақатынасын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 156,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое отличие федерации от конфедерации является определяющим?",
+        "en": "Which difference between a federation and a confederation is the defining one?",
+        "kk": "Федерацияның конфедерациядан қандай айырмашылығы айқындаушы болып табылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1555-1557",
+          "units": [
+            "p1555",
+            "p1556",
+            "p1557"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Федерация представляет единое государство, конфедерация объединяет суверенные государства",
+            "en": "A federation is a single state, whereas a confederation unites sovereign states",
+            "kk": "Федерация біртұтас мемлекетті білдіреді, конфедерация егемен мемлекеттерді біріктіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Федерация не имеет общих органов, конфедерация имеет только местные органы",
+            "en": "A federation has no common bodies, whereas a confederation has only local bodies",
+            "kk": "Федерацияның ортақ органдары жоқ, конфедерацияда тек жергілікті органдар бар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В федерации нет распределения компетенции между центром и частями",
+            "en": "In a federation there is no distribution of competence between the center and the parts",
+            "kk": "Федерацияда орталық пен бөліктер арасында құзыреттің бөлінуі жоқ"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Федерация всегда монархична, конфедерация всегда республиканская",
+            "en": "A federation is always monarchical, whereas a confederation is always republican",
+            "kk": "Федерация әрқашан монархиялық, конфедерация әрқашан республикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Федерация исключает конституцию, конфедерация предполагает единую конституцию",
+            "en": "A federation excludes a constitution, whereas a confederation presupposes a single constitution",
+            "kk": "Федерация конституцияны жоққа шығарады, конфедерация бірыңғай конституцияны көздейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 157,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему наличие местного самоуправления само по себе не превращает государство в федерацию?",
+        "en": "Why does the existence of local self-government not in itself turn a state into a federation?",
+        "kk": "Жергілікті өзін-өзі басқарудың болуы мемлекетті неліктен өзі-ақ федерацияға айналдырмайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1550-1551",
+          "units": [
+            "p1550",
+            "p1551"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Унитарность исключает любые местные выборы",
+            "en": "Unitarity excludes any local elections",
+            "kk": "Унитарлық кез келген жергілікті сайлауды жоққа шығарады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Федерация определяется исключительно числом регионов",
+            "en": "A federation is defined exclusively by the number of regions",
+            "kk": "Федерация тек аймақтар санымен айқындалады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Самоуправление совместимо с унитарной организацией",
+            "en": "Self-government is compatible with a unitary organization",
+            "kk": "Өзін-өзі басқару унитарлық ұйымдастырумен үйлеседі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Самоуправление всегда означает отдельный государственный суверенитет",
+            "en": "Self-government always means separate state sovereignty",
+            "kk": "Өзін-өзі басқару әрқашан жеке мемлекеттік егемендікті білдіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Местные органы при любой форме подчиняются иностранной юрисдикции",
+            "en": "Under any form, local bodies are subject to foreign jurisdiction",
+            "kk": "Жергілікті органдар кез келген нысанда шетелдік юрисдикцияға бағынады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 158,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Гражданское общество в широком смысле охватывает...",
+        "en": "Civil society in the broad sense encompasses...",
+        "kk": "Кең мағынадағы азаматтық қоғам нені қамтиды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 624",
+          "units": [
+            "p624"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 651",
+          "units": [
+            "p651"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только зарегистрированные политические партии",
+            "en": "Only registered political parties",
+            "kk": "Тек тіркелген саяси партияларды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только государственные учреждения социального обслуживания",
+            "en": "Only state social service institutions",
+            "kk": "Тек әлеуметтік қызмет көрсететін мемлекеттік мекемелерді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Автономные от непосредственного государственного управления общественные отношения",
+            "en": "Social relations that are autonomous from direct state administration",
+            "kk": "Тікелей мемлекеттік басқарудан дербес қоғамдық қатынастарды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительно объединения профессиональных политиков",
+            "en": "Exclusively associations of professional politicians",
+            "kk": "Тек кәсіби саясаткерлердің бірлестіктерін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Всю совокупность властных распоряжений государства",
+            "en": "The entire body of the state's orders of authority",
+            "kk": "Мемлекеттің барлық билік өкімдерінің жиынтығын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 159,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Развитию гражданского общества способствуют:",
+        "en": "Conditions that promote the development of civil society:",
+        "kk": "Азаматтық қоғамның дамуына ықпал ететін жағдайлар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 627-628",
+          "units": [
+            "p627",
+            "p628"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Приоритет государственных обязанностей над автономными гражданскими правами",
+            "en": "The priority of state duties over autonomous civil rights",
+            "kk": "Мемлекеттік міндеттердің дербес азаматтық құқықтардан басымдығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Развитие общественной культуры",
+            "en": "The development of a public culture",
+            "kk": "Қоғамдық мәдениеттің дамуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Подчинение общественных объединений текущим распоряжениям исполнительных органов",
+            "en": "The subordination of public associations to the current orders of executive bodies",
+            "kk": "Қоғамдық бірлестіктердің атқарушы органдардың ағымдағы өкімдеріне бағынуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Превращение подданных в свободных граждан",
+            "en": "The transformation of subjects into free citizens",
+            "kk": "Бағыныштылардың еркін азаматтарға айналуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Правовой характер государства",
+            "en": "The rule-of-law character of the state",
+            "kk": "Мемлекеттің құқықтық сипаты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 160,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Организационно-правовой компонент правового государства выражается в...",
+        "en": "The organizational and legal component of the rule-of-law state is expressed in...",
+        "kk": "Құқықтық мемлекеттің ұйымдастырушылық-құқықтық құрамдасы неде көрінеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 632",
+          "units": [
+            "p632"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Единстве политической идеологии",
+            "en": "The unity of political ideology",
+            "kk": "Саяси идеологияның бірлігінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наличии общих культурных традиций",
+            "en": "The existence of common cultural traditions",
+            "kk": "Жалпы мәдени дәстүрлердің болуында"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Преобладании государственного сектора",
+            "en": "The predominance of the public sector",
+            "kk": "Мемлекеттік сектордың басымдығында"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Наследственной передаче должностей",
+            "en": "The hereditary transfer of offices",
+            "kk": "Лауазымдарды мұрагерлікпен беруде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Разделении государственной власти",
+            "en": "The separation of state power",
+            "kk": "Мемлекеттік биліктің бөлінуінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 161,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Правительство ограничивает право, ссылаясь на подзаконный акт, противоречащий конституции. Какой принцип нарушен непосредственно?",
+        "en": "The government restricts a right by citing a subordinate act that contradicts the constitution. Which principle has been directly violated?",
+        "kk": "Үкімет конституцияға қайшы заңға тәуелді актіге сілтеме жасап, құқықты шектейді. Қандай қағида тікелей бұзылды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 636",
+          "units": [
+            "p636"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 644-645",
+          "units": [
+            "p644",
+            "p645"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Территориальное единство государства",
+            "en": "The territorial integrity of the state",
+            "kk": "Мемлекеттің аумақтық бірлігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Внешнеполитический нейтралитет",
+            "en": "Foreign policy neutrality",
+            "kk": "Сыртқы саяси бейтараптық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Пропорциональность партийного представительства",
+            "en": "The proportionality of party representation",
+            "kk": "Партиялық өкілдіктің пропорционалдылығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Иерархия правовых актов и верховенство конституции",
+            "en": "The hierarchy of legal acts and the supremacy of the constitution",
+            "kk": "Құқықтық актілер иерархиясы және конституцияның жоғарылығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Добровольность членства в общественном объединении",
+            "en": "The voluntary nature of membership in a public association",
+            "kk": "Қоғамдық бірлестікке мүшеліктің ерікті болуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 162,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социальное государство дополняет правовую государственность прежде всего...",
+        "en": "The welfare state supplements the rule-of-law state primarily by...",
+        "kk": "Әлеуметтік мемлекет құқықтық мемлекеттілікті ең алдымен немен толықтырады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1515-1517",
+          "units": [
+            "p1515",
+            "p1516",
+            "p1517"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Устранением юридических гарантий индивидуальной свободы",
+            "en": "Eliminating legal guarantees of individual freedom",
+            "kk": "Жеке бостандықтың заңдық кепілдіктерін жоюмен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Созданием материальных условий достойной жизни и социальной защиты",
+            "en": "Creating the material conditions for a decent life and social protection",
+            "kk": "Лайықты өмірдің материалдық жағдайларын және әлеуметтік қорғауды қамтамасыз етумен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Заменой гражданских прав обязательным партийным членством",
+            "en": "Replacing civil rights with mandatory party membership",
+            "kk": "Азаматтық құқықтарды міндетті партиялық мүшелікпен алмастырумен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Передачей законодательства исключительно профсоюзам",
+            "en": "Transferring legislation exclusively to trade unions",
+            "kk": "Заң шығаруды тек кәсіподақтарға берумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отказом от перераспределения национального дохода",
+            "en": "Abandoning the redistribution of national income",
+            "kk": "Ұлттық табысты қайта бөлуден бас тартумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 163,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите меры, соответствующие деятельности социального государства.",
+        "en": "Indicate the measures that correspond to the activity of a welfare state.",
+        "kk": "Әлеуметтік мемлекеттің қызметіне сәйкес келетін шараларды көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1517",
+          "units": [
+            "p1517"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Регулирование занятости без признания прав работника на судебную защиту",
+            "en": "Regulating employment without recognizing the worker's right to judicial protection",
+            "kk": "Жұмыспен қамтуды жұмысшының сот қорғауына құқығын мойындамай реттеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Предоставление социальных льгот только в зависимости от партийной лояльности",
+            "en": "Granting social benefits only depending on party loyalty",
+            "kk": "Әлеуметтік жеңілдіктерді тек партиялық адалдыққа байланысты беру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Развитие доступного образования",
+            "en": "Developing accessible education",
+            "kk": "Қолжетімді білім беруді дамыту"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социальное страхование",
+            "en": "Social insurance",
+            "kk": "Әлеуметтік сақтандыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Поддержка семьи и материнства",
+            "en": "Support for the family and motherhood",
+            "kk": "Отбасы мен аналықты қолдау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 164,
+      "topic_id": 7,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные утверждения о правовом и социальном государстве:",
+        "en": "Correct statements about the rule-of-law state and the welfare state:",
+        "kk": "Құқықтық және әлеуметтік мемлекет туралы дұрыс тұжырымдар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 632-639",
+          "units": [
+            "p632",
+            "p633",
+            "p634",
+            "p635",
+            "p636",
+            "p637",
+            "p638",
+            "p639"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1519",
+          "units": [
+            "p1519"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наличие развёрнутого законодательства само по себе достаточно для правовой государственности",
+            "en": "Having extensive legislation is in itself sufficient for a rule-of-law state",
+            "kk": "Кең заңнаманың болуы құқықтық мемлекеттілік үшін өзі-ақ жеткілікті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социальные обязательства дают исполнительной власти приоритет над конституционными ограничениями",
+            "en": "Social obligations give the executive branch priority over constitutional limits",
+            "kk": "Әлеуметтік міндеттемелер атқарушы билікке конституциялық шектеулерден басымдық береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Права требуют реальных гарантий защиты",
+            "en": "Rights require real guarantees of protection",
+            "kk": "Құқықтар қорғаудың нақты кепілдіктерін талап етеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Формальное закрепление права равнозначно обеспечению материальных и судебных гарантий",
+            "en": "The formal enshrinement of a right is equivalent to providing material and judicial guarantees",
+            "kk": "Құқықты ресми бекіту материалдық және сот кепілдіктерін қамтамасыз етуге тең"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Социальные цели реализуются в правовых формах",
+            "en": "Social goals are implemented in legal forms",
+            "kk": "Әлеуметтік мақсаттар құқықтық нысандарда жүзеге асырылады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 165,
+      "topic_id": 7,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Расширение самостоятельных объединений сопровождается усилением судебных гарантий. Какой вывод наиболее обоснован?",
+        "en": "The expansion of independent associations is accompanied by stronger judicial guarantees. Which conclusion is best founded?",
+        "kk": "Дербес бірлестіктердің кеңеюі сот кепілдіктерінің күшеюімен қатар жүреді. Қандай қорытынды неғұрлым негізді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 628-630",
+          "units": [
+            "p628",
+            "p629",
+            "p630"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 652",
+          "units": [
+            "p652"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Судебная защита делает общественный контроль за властью избыточным",
+            "en": "Judicial protection makes public oversight of the authorities redundant",
+            "kk": "Сот қорғауы биліктің үстінен қоғамдық бақылауды артық етеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Расширение гражданских объединений заменяет конституционное разделение государственных функций",
+            "en": "The expansion of civil associations replaces the constitutional separation of state functions",
+            "kk": "Азаматтық бірлестіктердің кеңеюі мемлекеттік функциялардың конституциялық бөлінуін алмастырады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Правовая государственность предполагает согласование каждой гражданской инициативы с аппаратом",
+            "en": "The rule-of-law state presupposes that every civic initiative is cleared with the apparatus",
+            "kk": "Құқықтық мемлекеттілік әрбір азаматтық бастаманы аппаратпен келісуді көздейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рост автономии ассоциаций переносит государственный суверенитет к их руководителям",
+            "en": "Growing autonomy of associations transfers state sovereignty to their leaders",
+            "kk": "Бірлестіктер автономиясының өсуі мемлекеттік егемендікті олардың басшыларына ауыстырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Развитие гражданского общества может укреплять правовую государственность",
+            "en": "The development of civil society can strengthen the rule-of-law state",
+            "kk": "Азаматтық қоғамның дамуы құқықтық мемлекеттілікті нығайта алады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    }
+  ]
+}

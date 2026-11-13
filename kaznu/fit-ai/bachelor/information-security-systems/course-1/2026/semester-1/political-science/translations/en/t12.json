@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 12,
+  "topic_name": "Political Consciousness and Political Ideology",
+  "questions": {
+    "256": {
+      "question": "Political ideology is defined primarily as...",
+      "options": {
+        "A": "A technical procedure for counting electoral preferences",
+        "B": "Any scientific description without evaluative guidelines",
+        "C": "Any emotional reaction to a political event",
+        "D": "The totality of only the legal norms currently in force",
+        "E": "A doctrine that justifies a group's claims to power and its political goals"
+      }
+    },
+    "257": {
+      "question": "Which functions does political ideology perform?",
+      "options": {
+        "A": "Establishing legally binding sanctions by the force of the doctrine itself",
+        "B": "It sets criteria for assessing political reality",
+        "C": "It justifies claims to power",
+        "D": "It integrates supporters around goals",
+        "E": "Uniting supporters by eliminating the differences among all social interests"
+      }
+    },
+    "258": {
+      "question": "The elaboration of basic political values and ideals belongs to the ... level of ideology.",
+      "options": {
+        "A": "Administrative-legal",
+        "B": "Theoretical-conceptual",
+        "C": "Programmatic-political",
+        "D": "Actualized",
+        "E": "Behavioral-ritual"
+      }
+    },
+    "259": {
+      "question": "General ideals are translated into election demands and a program of action. Which level of ideology is represented?",
+      "options": {
+        "A": "Theoretical-conceptual",
+        "B": "Actualized",
+        "C": "Programmatic-political",
+        "D": "Unconscious-affective",
+        "E": "Institutional-judicial"
+      }
+    },
+    "260": {
+      "question": "Citizens are guided by ideological principles in specific political actions. This is the ... level.",
+      "options": {
+        "A": "Theoretical-conceptual",
+        "B": "Doctrinal-abstract",
+        "C": "Programmatic-political",
+        "D": "Actualized",
+        "E": "Legal-normative"
+      }
+    },
+    "261": {
+      "question": "The correct correspondence between a level of ideology and its content:",
+      "options": {
+        "A": "Programmatic-political: exclusively unconscious reactions",
+        "B": "Theoretical-conceptual: the carrying out of a specific instruction",
+        "C": "Actualized: the degree to which principles are put into practice",
+        "D": "Actualized: the creation of an abstract philosophical system",
+        "E": "Theoretical-conceptual: only voting results"
+      }
+    },
+    "262": {
+      "question": "The basic principles of classical liberalism include:",
+      "options": {
+        "A": "Religious toleration",
+        "B": "Individual freedom",
+        "C": "An estate hierarchy of rights",
+        "D": "Constitutionalism",
+        "E": "The priority of a single mandatory doctrine"
+      }
+    },
+    "263": {
+      "question": "Socially oriented versions of liberalism are distinguished from its early model by...",
+      "options": {
+        "A": "Allowing state measures for the sake of real opportunities for freedom",
+        "B": "A complete rejection of constitutional limits on power",
+        "C": "Recognition of a single mandatory religion",
+        "D": "Replacing private initiative with mandatory estate membership",
+        "E": "Giving up individual rights as a value in themselves"
+      }
+    },
+    "264": {
+      "question": "The most characteristic feature of conservatism is...",
+      "options": {
+        "A": "The dissolution of all institutions into the current will of the majority",
+        "B": "A mandatory rejection of any historical continuity",
+        "C": "The importance of tradition and caution in political transformation",
+        "D": "The elimination of the distinction between society and a utopian project",
+        "E": "Recognition of revolutionary rupture as a universal method"
+      }
+    },
+    "265": {
+      "question": "Defending the market does not in itself make it possible to classify a program unambiguously as liberal alone because...",
+      "options": {
+        "A": "Market attitudes can be combined with conservative values",
+        "B": "Liberalism is not connected with economic freedom",
+        "C": "Conservatism always demands the abolition of private property",
+        "D": "The market is a feature of totalitarian doctrines only",
+        "E": "All market programs exclude state institutions"
+      }
+    },
+    "266": {
+      "question": "Modern social-democratic ideology links social justice primarily with...",
+      "options": {
+        "A": "The need for permanent armed revolution",
+        "B": "An unconditional ban on political pluralism",
+        "C": "Democratic reforms and social peace",
+        "D": "Giving up the defense of labor and social rights",
+        "E": "A hereditary organization of state power"
+      }
+    },
+    "267": {
+      "question": "The fundamental difference between social democracy and revolutionary Marxism-Leninism is...",
+      "options": {
+        "A": "A preference for democratic reform over the revolutionary seizure of power",
+        "B": "Recognition of the hereditary estate-based state by both doctrines",
+        "C": "The absence of a political program in social democracy",
+        "D": "A mandatory rejection of elections by both doctrines",
+        "E": "Social democracy's complete renunciation of social justice"
+      }
+    },
+    "268": {
+      "question": "The utopian socialists of the late 18th and early 19th centuries include:",
+      "options": {
+        "A": "Edmund Burke",
+        "B": "Jeremy Bentham",
+        "C": "Charles Fourier",
+        "D": "Henri de Saint-Simon",
+        "E": "Robert Owen"
+      }
+    },
+    "269": {
+      "question": "National ideology links political claims primarily with...",
+      "options": {
+        "A": "Only the neutral procedure of judicial review",
+        "B": "Exclusively professional qualifications",
+        "C": "A single method of drawing up the state budget",
+        "D": "Only individual consumer preferences",
+        "E": "National affiliation and collective status"
+      }
+    },
+    "270": {
+      "question": "A movement defends the cultural identity of a diaspora without demanding the abolition of the state of residence. The well-founded conclusion is that...",
+      "options": {
+        "A": "National demands do not necessarily amount to the creation of a separate state",
+        "B": "National affiliation cannot influence political status",
+        "C": "Any national ideology automatically demands annexation",
+        "D": "Defending identity is the same as giving up civil rights",
+        "E": "Cultural demands exclude political content"
+      }
+    },
+    "271": {
+      "question": "Indicate the possible consequences of national ideologies, depending on the conditions.",
+      "options": {
+        "A": "Reducing group demands to a neutral description of economic indicators",
+        "B": "The integration of the political community",
+        "C": "The intensification of intergroup contradictions",
+        "D": "The same effect on all national communities regardless of conditions",
+        "E": "Replacing legal citizenship with the criterion of participation in international trade"
+      }
+    },
+    "272": {
+      "question": "The influence of ideologies increases especially in situations of...",
+      "options": {
+        "A": "Choosing directions of development and social modernization",
+        "B": "The cessation of all public communication",
+        "C": "The final disappearance of political interests",
+        "D": "The complete absence of alternatives for the social order",
+        "E": "Replacing all decisions with purely technical calculations"
+      }
+    },
+    "273": {
+      "question": "A party publishes a program, but its supporters do not apply the declared principles in their behavior. Which distinction has become apparent?",
+      "options": {
+        "A": "A gap between the programmatic-political and actualized levels",
+        "B": "The identity of political ideology and a legal norm",
+        "C": "The coincidence of a theoretical doctrine and its practical implementation",
+        "D": "The absence of any ideological content in the program",
+        "E": "The impossibility of the existence of ideological supporters"
+      }
+    },
+    "274": {
+      "question": "Which statements about the functioning of ideology are correct?",
+      "options": {
+        "A": "Ideology connects assessments of reality with goals for action",
+        "B": "Having a program does not guarantee that its principles are embodied in actions",
+        "C": "Setting out an ideal in a program is evidence of its practical assimilation by supporters",
+        "D": "A political assessment acquires scientific proof by virtue of its ideological consistency",
+        "E": "One doctrine can be assimilated in different ways by different groups"
+      }
+    },
+    "275": {
+      "question": "Which set of correspondences between ideologies and their emphases is correct?",
+      "options": {
+        "A": "Liberalism: an inalienable general will; conservatism: direct popular legislation; social democracy: hereditary representation",
+        "B": "Liberalism: individual rights; conservatism: continuity; social democracy: social reforms",
+        "C": "Liberalism: state paternalism; conservatism: value neutrality; social democracy: priority of a property qualification",
+        "D": "Liberalism: mandatory equality of outcomes; conservatism: rejection of continuity; social democracy: estate solidarity",
+        "E": "Liberalism: social wholeness; conservatism: rational reconstruction; social democracy: the minimal state"
+      }
+    }
+  }
+}

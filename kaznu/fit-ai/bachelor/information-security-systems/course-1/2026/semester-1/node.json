@@ -1,0 +1,16 @@
+{
+  "kind": "semester",
+  "title": {
+    "ru": "1 семестр",
+    "kk": "1-семестр",
+    "en": "Semester 1"
+  },
+  "order": 10,
+  "items": [
+    "psychology",
+    "political-science",
+    "cultural-studies",
+    "history-of-kazakhstan",
+    "kazakh-language"
+  ]
+}

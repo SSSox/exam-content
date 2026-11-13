@@ -1,0 +1,1639 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 151,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "В семиотическом определении культура противопоставляется энтропии как...",
+        "en": "In the semiotic definition, culture is opposed to entropy as...",
+        "kk": "Семиотикалық анықтамада мәдениет энтропияға қарсы қойылады, өйткені ол..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Область организации информации",
+            "en": "A sphere of the organization of information",
+            "kk": "Ақпаратты ұйымдастыру саласы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Совокупность биологических мутаций",
+            "en": "A totality of biological mutations",
+            "kk": "Биологиялық мутациялар жиынтығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Набор независимых природных раздражителей",
+            "en": "A set of independent natural stimuli",
+            "kk": "Өзара тәуелсіз табиғи тітіркендіргіштер жиыны"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Чисто энергетический обмен",
+            "en": "A purely energetic exchange",
+            "kk": "Тек энергетикалық алмасу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствие упорядоченных знаковых отношений",
+            "en": "The absence of ordered sign relations",
+            "kk": "Реттелген таңбалық қатынастардың болмауы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 2",
+          "units": [
+            "p2"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 152,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отношение знака к обозначаемому объекту составляет предмет...",
+        "en": "The relation of a sign to the object it denotes is the subject matter of...",
+        "kk": "Таңбаның белгіленетін объектіге қатынасы нені зерттеудің пәні болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прагматики",
+            "en": "Pragmatics",
+            "kk": "Прагматиканың"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Синтактики",
+            "en": "Syntactics",
+            "kk": "Синтактиканың"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Герменевтики",
+            "en": "Hermeneutics",
+            "kk": "Герменевтиканың"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Семантики",
+            "en": "Semantics",
+            "kk": "Семантиканың"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Аксиологии",
+            "en": "Axiology",
+            "kk": "Аксиологияның"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 7",
+          "units": [
+            "p7"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 153,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исследователь проверяет правила сочетания символов формулы, отвлекаясь от их значений. Он работает в области...",
+        "en": "A researcher checks the rules for combining the symbols of a formula, setting their meanings aside. He is working in the field of...",
+        "kk": "Зерттеуші формула символдарының мағыналарынан назарын алшақтатып, оларды қосу ережелерін тексереді. Ол қай салада жұмыс істейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Иконологии",
+            "en": "Iconology",
+            "kk": "Иконологияда"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Семантики",
+            "en": "Semantics",
+            "kk": "Семантикада"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Этнологии",
+            "en": "Ethnology",
+            "kk": "Этнологияда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Синтактики",
+            "en": "Syntactics",
+            "kk": "Синтактикада"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прагматики",
+            "en": "Pragmatics",
+            "kk": "Прагматикада"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 8",
+          "units": [
+            "p8"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 154,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Различие понимания одного сообщения аудиторией разных возрастов относится прежде всего к...",
+        "en": "The difference in the understanding of a single message by audiences of different ages relates primarily to...",
+        "kk": "Бір хабарламаны әртүрлі жас тобындағы аудиторияның әртүрлі түсінуі ең алдымен неге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Текстологии как установлению авторства",
+            "en": "Textual studies as the establishment of authorship",
+            "kk": "Авторлықты анықтау ретіндегі текстологияға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Палеографии",
+            "en": "Palaeography",
+            "kk": "Палеографияға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Семантике как отношению к объекту",
+            "en": "Semantics as a relation to the object",
+            "kk": "Объектіге қатынас ретіндегі семантикаға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Синтактике",
+            "en": "Syntactics",
+            "kk": "Синтактикаға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прагматике",
+            "en": "Pragmatics",
+            "kk": "Прагматикаға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 9",
+          "units": [
+            "p9"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 155,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Введение термина «прагматика» и понимание семиотики как инструмента наук связаны с...",
+        "en": "The introduction of the term \"pragmatics\" and the understanding of semiotics as an instrument of the sciences are associated with...",
+        "kk": "«Прагматика» терминінің енгізілуі және семиотиканы ғылымдардың құралы ретінде түсіну кімнің есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ф. де Соссюром",
+            "en": "F. de Saussure",
+            "kk": "Ф. де Соссюр"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ч. Моррисом",
+            "en": "C. Morris",
+            "kk": "Ч. Моррис"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Б. Успенским",
+            "en": "B. Uspensky",
+            "kk": "Б. Успенский"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Э. Кассирером",
+            "en": "E. Cassirer",
+            "kk": "Э. Кассирер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ю. Лотманом",
+            "en": "Yu. Lotman",
+            "kk": "Ю. Лотман"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 11",
+          "units": [
+            "p11"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 156,
+      "topic_id": 7,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Символ в теории знаков Ч. Морриса связан:",
+        "en": "In C. Morris's theory of signs, a symbol is related:",
+        "kk": "Ч. Моррис таңбалар теориясында символ мыналармен байланысты:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "С объектом",
+            "en": "To the object",
+            "kk": "Объектімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только с последовательностью письменных эпох",
+            "en": "Only to the sequence of literate epochs",
+            "kk": "Тек жазба дәуірлердің жүйелілігімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только с происхождением материала носителя",
+            "en": "Only to the origin of the material of the carrier",
+            "kk": "Тек тасымалдаушы материалының шығу тегімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "С другими символами",
+            "en": "To other symbols",
+            "kk": "Басқа символдармен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "С личностью",
+            "en": "To the person",
+            "kk": "Тұлғамен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 157,
+      "topic_id": 7,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Исследователи, принадлежащие к направлению семиотического исследования культуры, восходящему к Соссюру:",
+        "en": "Scholars belonging to the trend of the semiotic study of culture that goes back to Saussure:",
+        "kk": "Соссюрге барып тірелетін мәдениетті семиотикалық зерттеу бағытына жататын зерттеушілер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Л. Морган",
+            "en": "L. Morgan",
+            "kk": "Л. Морган"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Б. Успенский",
+            "en": "B. Uspensky",
+            "kk": "Б. Успенский"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ю. Лотман",
+            "en": "Yu. Lotman",
+            "kk": "Ю. Лотман"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "В. Оствальд",
+            "en": "W. Ostwald",
+            "kk": "В. Оствальд"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Б. Малиновский",
+            "en": "B. Malinowski",
+            "kk": "Б. Малиновский"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 19",
+          "units": [
+            "p19"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 158,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему реформа правил ношения бороды при Петре I имеет культурно-семиотическое значение?",
+        "en": "Why does the reform of the rules for wearing beards under Peter I have cultural and semiotic significance?",
+        "kk": "І Петр тұсындағы сақал тағу ережелерінің реформасы неліктен мәдени-семиотикалық мәнге ие?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Внешность перестаёт участвовать в общественной коммуникации",
+            "en": "Appearance ceases to take part in social communication",
+            "kk": "Келбет қоғамдық коммуникацияға қатысуын тоқтатады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Все прежние ритуалы сохраняют неизменную обязательность",
+            "en": "All former rituals retain their unchanged obligatory force",
+            "kk": "Барлық бұрынғы ғұрыптар өзгермейтін міндеттілігін сақтайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Признак внешности приобретает обязательное знаковое значение нового порядка",
+            "en": "A feature of appearance acquires an obligatory sign value for the new order",
+            "kk": "Келбет белгісі жаңа тәртіптің міндетті таңбалық мәніне ие болады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Физиология человека непосредственно меняет грамматику языка",
+            "en": "Human physiology directly changes the grammar of the language",
+            "kk": "Адамның физиологиясы тіл грамматикасын тікелей өзгертеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Реформа устраняет символичность социального поведения",
+            "en": "The reform eliminates the symbolic character of social behaviour",
+            "kk": "Реформа әлеуметтік мінез-құлықтың символдығын жояды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 21",
+          "units": [
+            "p21"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 159,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Формула «культура — генератор структурности» означает, что культура...",
+        "en": "The formula \"culture is a generator of structuredness\" means that culture...",
+        "kk": "«Мәдениет — құрылымдылықтың генераторы» деген формула мәдениеттің мынадай екенін білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отказывается от смысловой организации человеческой среды",
+            "en": "Renounces the semantic organization of the human environment",
+            "kk": "Адам ортасын мағыналық ұйымдастырудан бас тартады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Возникает только после полного завершения общественного развития",
+            "en": "Arises only after social development is fully completed",
+            "kk": "Қоғамдық даму толық аяқталғаннан кейін ғана пайда болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Заменяет любую социальную структуру индивидуальным произволом",
+            "en": "Replaces any social structure with individual arbitrariness",
+            "kk": "Кез келген әлеуметтік құрылымды жеке қалауды алмастырады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Упорядочивает окружающий человека мир и делает возможной общественную жизнь",
+            "en": "Orders the world surrounding the human being and makes social life possible",
+            "kk": "Адамды қоршаған дүниені ретке келтіріп, қоғамдық өмірді мүмкін етеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сводит социальный мир к хаотическому набору переживаний",
+            "en": "Reduces the social world to a chaotic set of experiences",
+            "kk": "Әлеуметтік әлемді күйзелістердің ретсіз жиынына келтіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 22",
+          "units": [
+            "p22"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 160,
+      "topic_id": 7,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите образования, отнесённые к вторичным моделирующим системам.",
+        "en": "Indicate the formations classed as secondary modelling systems.",
+        "kk": "Қайталама модельдеуші жүйелерге жатқызылған құрылымдарды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Родной разговорный язык как первичная система",
+            "en": "The native spoken language as a primary system",
+            "kk": "Алғашқы жүйе ретіндегі ана тілі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Артикуляционный аппарат как природная предпосылка речи",
+            "en": "The articulatory apparatus as a natural prerequisite of speech",
+            "kk": "Сөйлеудің табиғи алғышарты ретіндегі артикуляциялық аппарат"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Безусловный рефлекс как физиологическая реакция",
+            "en": "The unconditioned reflex as a physiological reaction",
+            "kk": "Физиологиялық реакция ретіндегі шартсыз рефлекс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Искусство",
+            "en": "Art",
+            "kk": "Өнер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Миф и религия",
+            "en": "Myth and religion",
+            "kk": "Миф және дін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 24",
+          "units": [
+            "p24"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 161,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "В каком объёме понимается информация при культурном моделировании?",
+        "en": "In what scope is information understood in cultural modelling?",
+        "kk": "Мәдени модельдеу кезінде ақпарат қандай көлемде түсініледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ограничивается научно проверенными фактами",
+            "en": "It is limited to scientifically verified facts",
+            "kk": "Тек ғылыми тексерілген деректермен шектеледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Охватывает только измерения физических величин",
+            "en": "It covers only measurements of physical quantities",
+            "kk": "Тек физикалық шамалардың өлшемдерін қамтиды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключает нормативные и религиозные содержания",
+            "en": "It excludes normative and religious content",
+            "kk": "Нормативтік және діни мазмұндарды қамтымайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сводится к количеству букв в сообщении",
+            "en": "It is reduced to the number of letters in a message",
+            "kk": "Хабарламадағы әріптер санына келтіріледі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Включает знания, ценности и верования",
+            "en": "It includes knowledge, values and beliefs",
+            "kk": "Білімдерді, құндылықтар мен нанымдарды қамтиды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 26",
+          "units": [
+            "p26"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 162,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Первичными знаковыми системами культуры являются...",
+        "en": "The primary sign systems of culture are...",
+        "kk": "Мәдениеттің алғашқы таңбалық жүйелері болып табылатыны..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Художественные стили",
+            "en": "Artistic styles",
+            "kk": "Көркемдік стильдер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Религиозные мифологии",
+            "en": "Religious mythologies",
+            "kk": "Діни мифологиялар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Правовые кодексы",
+            "en": "Legal codes",
+            "kk": "Құқықтық кодекстер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ритуальные сценарии",
+            "en": "Ritual scenarios",
+            "kk": "Ғұрыптық сценарийлер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Естественные языки",
+            "en": "Natural languages",
+            "kk": "Табиғи тілдер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 28",
+          "units": [
+            "p28"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 163,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему изучение чужого языка помогает осознать знаковую природу языка?",
+        "en": "Why does learning a foreign language help one to become aware of the sign nature of language?",
+        "kk": "Бөтен тілді үйрену тілдің таңбалық табиғатын түсінуге неліктен көмектеседі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Привычная естественность речи сменяется необходимостью освоить систему правил",
+            "en": "The habitual naturalness of speech gives way to the need to master a system of rules",
+            "kk": "Сөйлеудің үйреншікті табиғилығы ережелер жүйесін меңгеру қажеттілігімен алмасады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Чужой язык не связан с культурным опытом",
+            "en": "A foreign language is not connected with cultural experience",
+            "kk": "Бөтен тіл мәдени тәжірибемен байланысты емес"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Система знаков возникает только при обучении иностранца",
+            "en": "A system of signs arises only when a foreigner is taught",
+            "kk": "Таңбалар жүйесі тек шетелдікті оқытқанда пайда болады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Изучение языка устраняет условность связи слова и предмета",
+            "en": "Language learning eliminates the arbitrariness of the link between word and object",
+            "kk": "Тілді үйрену сөз бен зат арасындағы байланыстың шартты екенін жояды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Родной язык имеет биологическую, а чужой — социальную природу",
+            "en": "The native language has a biological nature, while a foreign one has a social nature",
+            "kk": "Ана тілінің табиғаты биологиялық, ал бөтен тілдікі әлеуметтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 29",
+          "units": [
+            "p29"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 164,
+      "topic_id": 7,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Двухслойную структуру символа составляют:",
+        "en": "The two-layer structure of a symbol is made up of:",
+        "kk": "Символдың екі қабатты құрылымын мыналар құрайды:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Неизменное физическое действие обозначаемого предмета",
+            "en": "The unchanging physical action of the object denoted",
+            "kk": "Белгіленетін заттың өзгермейтін физикалық әрекеті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Образ объекта",
+            "en": "The image of the object",
+            "kk": "Объектінің бейнесі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Идея, мысленно сопряжённая с объектом",
+            "en": "An idea mentally linked with the object",
+            "kk": "Объектімен ойша байланысқан идея"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Единственный технический алгоритм распознавания",
+            "en": "A single technical algorithm of recognition",
+            "kk": "Танудың жалғыз техникалық алгоритмі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательная этимология имени автора",
+            "en": "The obligatory etymology of the author's name",
+            "kk": "Автор есімінің міндетті этимологиясы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 33",
+          "units": [
+            "p33"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 165,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Разное осмысление одного образа голубя в религии и искусстве показывает такое свойство символа, как...",
+        "en": "The different interpretation of a single image of a dove in religion and in art shows such a property of the symbol as...",
+        "kk": "Көгершіннің бір бейнесінің дінде және өнерде әртүрлі мағыналануы символдың мына қасиетін көрсетеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Полное отсутствие общего образного носителя",
+            "en": "The complete absence of a common figurative carrier",
+            "kk": "Ортақ бейнелік тасымалдаушының мүлдем болмауын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Зависимость значения от сферы культуры",
+            "en": "The dependence of meaning on the sphere of culture",
+            "kk": "Мағынаның мәдениет саласына тәуелділігін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключительно естественное происхождение значения",
+            "en": "The exclusively natural origin of meaning",
+            "kk": "Мағынаның тек табиғи шығу тегін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Независимость интерпретации от контекста",
+            "en": "The independence of interpretation from context",
+            "kk": "Интерпретацияның контекстен тәуелсіздігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Невозможность межкультурного употребления",
+            "en": "The impossibility of intercultural use",
+            "kk": "Мәдениетаралық қолданудың мүмкін еместігін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 38",
+          "units": [
+            "p38"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 166,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Выделение языка медиков и языка хиппи опирается на основание...",
+        "en": "The identification of the language of medics and the language of hippies is based on the criterion of...",
+        "kk": "Дәрігерлер тілі мен хиппи тілін бөліп көрсету қандай негізге сүйенеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исторической древности письменности",
+            "en": "The historical antiquity of writing",
+            "kk": "Жазудың тарихи көнелігіне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Физического материала знака",
+            "en": "The physical material of the sign",
+            "kk": "Таңбаның физикалық материалына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Принадлежности к определённой субкультуре",
+            "en": "Belonging to a particular subculture",
+            "kk": "Белгілі бір субмәдениетке тиесілілікке"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Численности этнического сообщества",
+            "en": "The size of the ethnic community",
+            "kk": "Этникалық қауымдастықтың санына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Степени генетического родства говорящих",
+            "en": "The degree of genetic kinship of the speakers",
+            "kk": "Сөйлеушілердің генетикалық туыстық дәрежесіне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 55",
+          "units": [
+            "p55"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 167,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Разграничение вербальных, жестовых и формализованных языков проводится по...",
+        "en": "The distinction between verbal, gestural and formalized languages is drawn according to...",
+        "kk": "Вербалды, ым-ишаралық және формалданған тілдерді ажырату нені негізге алады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Типу знаков в основе языка",
+            "en": "The type of signs underlying the language",
+            "kk": "Тіл негізіндегі таңбалардың түрін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Территории распространения",
+            "en": "The territory of distribution",
+            "kk": "Таралу аумағын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Возрасту пользователей",
+            "en": "The age of the users",
+            "kk": "Пайдаланушылардың жасын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Историческому периоду создания",
+            "en": "The historical period of creation",
+            "kk": "Жасалған тарихи кезеңді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Профессиональному авторству текста",
+            "en": "The professional authorship of the text",
+            "kk": "Мәтіннің кәсіби авторлығын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 57",
+          "units": [
+            "p57"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 168,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Характеристика прямого сообщения — это...",
+        "en": "A characteristic of a direct message is...",
+        "kk": "Тікелей хабарламаның сипаттамасы — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Полисемантичная форма с фиксированным смыслом и свободной интерпретацией",
+            "en": "A polysemantic form with a fixed meaning and free interpretation",
+            "kk": "Мағынасы бекітілген және еркін түсіндірілетін көпмағыналы нысан"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Смысл как предел интерпретации многозначной формы",
+            "en": "Meaning as the limit of the interpretation of an ambiguous form",
+            "kk": "Мағына көпмағыналы нысанды түсіндірудің шегі ретінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательное бессознательное происхождение сообщения",
+            "en": "The obligatory unconscious origin of the message",
+            "kk": "Хабарламаның міндетті түрде бейсаналы шығуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отсутствие любого соотнесения формы и смысла",
+            "en": "The absence of any correlation between form and meaning",
+            "kk": "Нысан мен мағынаның кез келген арақатынасының болмауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Однозначная связь смысла и знаковой формы",
+            "en": "An unambiguous link between meaning and sign form",
+            "kk": "Мағына мен таңбалық нысанның біржақты байланысы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 61",
+          "units": [
+            "p61"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 169,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему даже однозначный авторский замысел в культурном контексте может стать символичным?",
+        "en": "Why can even an unambiguous authorial intention become symbolic in a cultural context?",
+        "kk": "Біржақты авторлық ой да мәдени контексте неліктен символдық болып кетуі мүмкін?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Любой автор неизбежно лишён намерения сообщить смысл",
+            "en": "Every author is inevitably devoid of the intention to convey a meaning",
+            "kk": "Кез келген автор мағынаны жеткізу ниетінен міндетті түрде жұрдай"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Материальная форма произведения перестаёт существовать",
+            "en": "The material form of the work ceases to exist",
+            "kk": "Шығарманың материалдық нысаны өмір сүруін тоқтатады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Авторство автоматически отменяет связь произведения с эпохой",
+            "en": "Authorship automatically cancels the link between the work and its era",
+            "kk": "Авторлық шығарманың дәуірмен байланысын автоматты түрде жояды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Он входит в более широкое пространство творческих интерпретаций",
+            "en": "It enters a broader space of creative interpretations",
+            "kk": "Ол шығармашылық интерпретациялардың кеңірек кеңістігіне енеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Читатель обязан повторить только буквальное значение замысла",
+            "en": "The reader is obliged to repeat only the literal meaning of the intention",
+            "kk": "Оқырман ойдың тек сөзбе-сөз мағынасын қайталауға міндетті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 61",
+          "units": [
+            "p61"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 170,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Культурную символику как превращённую форму классовых интересов объясняет...",
+        "en": "Cultural symbolism as a transformed form of class interests is explained by...",
+        "kk": "Мәдени символиканы таптық мүдделердің түрленген нысаны ретінде түсіндіретін бағыт — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Марксистская и неомарксистская социология",
+            "en": "Marxist and neo-Marxist sociology",
+            "kk": "Марксистік және неомарксистік социология"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Философская герменевтика",
+            "en": "Philosophical hermeneutics",
+            "kk": "Философиялық герменевтика"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Морфология Шпенглера",
+            "en": "Spengler's morphology",
+            "kk": "Шпенглер морфологиясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Иконология Варбурга",
+            "en": "Warburg's iconology",
+            "kk": "Варбург иконологиясы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Юнгианская аналитическая психология",
+            "en": "Jungian analytical psychology",
+            "kk": "Юнгтік аналитикалық психология"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 63",
+          "units": [
+            "p63"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 171,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Символ у Юнга отличается от служебного знака тем, что...",
+        "en": "In Jung, a symbol differs from a functional sign in that it...",
+        "kk": "Юнгте символ қызметтік таңбадан неліктен ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Всегда совпадает с научным определением",
+            "en": "Always coincides with a scientific definition",
+            "kk": "Әрдайым ғылыми анықтамамен сәйкес келеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Не допускает воображения и ассоциативных связей",
+            "en": "Does not allow for imagination and associative links",
+            "kk": "Қиял мен ассоциативтік байланыстарға жол бермейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только обозначает уже известный предмет",
+            "en": "Merely denotes an already known object",
+            "kk": "Тек бұрыннан белгілі затты белгілейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Существует вне психической и духовной жизни",
+            "en": "Exists outside mental and spiritual life",
+            "kk": "Психикалық және рухани өмірден тыс өмір сүреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выражает предчувствуемое содержание, открытое домысливанию",
+            "en": "Expresses an anticipated content that is open to further interpretive thought",
+            "kk": "Алдын ала сезілетін, ойлап толықтыруға ашық мазмұнды білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 67",
+          "units": [
+            "p67"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 172,
+      "topic_id": 7,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Символ в концепции К. Юнга соотносится:",
+        "en": "In C. Jung's concept, a symbol is related:",
+        "kk": "К. Юнг тұжырымдамасында символ мыналарға қатысты қарастырылады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "С целями и действиями человека",
+            "en": "To the goals and actions of the human being",
+            "kk": "Адамның мақсаттары мен әрекеттеріне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только с сознательно установленным авторским соглашением",
+            "en": "Only to a consciously established authorial agreement",
+            "kk": "Тек саналы түрде белгіленген авторлық келісімге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только с физическими свойствами знакового носителя",
+            "en": "Only to the physical properties of the sign carrier",
+            "kk": "Тек таңбалық тасымалдаушының физикалық қасиеттеріне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "С архетипами",
+            "en": "To archetypes",
+            "kk": "Архетиптерге"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "С другими символами",
+            "en": "To other symbols",
+            "kk": "Басқа символдарға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 70",
+          "units": [
+            "p70"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 173,
+      "topic_id": 7,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Способы возникновения культурных символов:",
+        "en": "Cultural symbols arise:",
+        "kk": "Мәдени символдар мыналармен пайда болады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только нормативное утверждение профессиональной корпорацией",
+            "en": "Only by normative approval by a professional corporation",
+            "kk": "Тек кәсіби корпорацияның нормативтік бекітуімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только рациональное выведение из системы научных определений",
+            "en": "Only by rational derivation from a system of scientific definitions",
+            "kk": "Тек ғылыми анықтамалар жүйесінен парасатты түрде шығарылуымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сознательное создание для воздействия на общественные процессы",
+            "en": "By deliberate creation to influence social processes",
+            "kk": "Қоғамдық процестерге әсер ету үшін саналы түрде жасалуымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Спонтанное возникновение в сновидениях и фантазиях",
+            "en": "By spontaneous emergence in dreams and fantasies",
+            "kk": "Түсте және қиялда өздігінен пайда болуымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только буквальное повторение признанного мифологического образца",
+            "en": "Only by literal repetition of a recognized mythological model",
+            "kk": "Тек мойындалған мифологиялық үлгіні сөзбе-сөз қайталаумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 75",
+          "units": [
+            "p75"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 174,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Нуминозность» архетипического образа означает его способность...",
+        "en": "The \"numinosity\" of an archetypal image means its capacity to...",
+        "kk": "Архетиптік бейненің «нуминозділігі» оның қандай қабілетін білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вызывать сильный живой эмоциональный отклик",
+            "en": "Evoke a strong, vivid emotional response",
+            "kk": "Күшті жанды эмоциялық үн қосуды тудыру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключать личное переживание",
+            "en": "Exclude personal experience",
+            "kk": "Жеке бастан кешіруді жоққа шығару"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обеспечивать однозначный юридический смысл",
+            "en": "Provide an unambiguous legal meaning",
+            "kk": "Біржақты заңдық мағынаны қамтамасыз ету"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сохранять точность математического обозначения",
+            "en": "Preserve the precision of a mathematical notation",
+            "kk": "Математикалық белгілеудің дәлдігін сақтау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Полностью подчиняться сознательному расчёту",
+            "en": "Be fully subject to conscious calculation",
+            "kk": "Саналы есепке толық бағыну"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 79",
+          "units": [
+            "p79"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 175,
+      "topic_id": 7,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему глубокий художественный образ характеризуется как амбивалентный?",
+        "en": "Why is a profound artistic image characterized as ambivalent?",
+        "kk": "Терең көркем бейне неліктен амбивалентті деп сипатталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Он сохраняет только положительную характеристику героя",
+            "en": "It retains only a positive characterization of the hero",
+            "kk": "Ол кейіпкердің тек оң сипаттамасын сақтайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Он способен раскрывать один архетип в добре и зле, прекрасном и безобразном",
+            "en": "It is able to reveal a single archetype in both good and evil, the beautiful and the ugly",
+            "kk": "Ол бір архетипті жақсылық пен жамандықта, әсемдік пен ұсқынсыздықта аша алады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Он лишён какой-либо ценностной выразительности",
+            "en": "It is devoid of any value-laden expressiveness",
+            "kk": "Онда кез келген құндылықтық экспрессия жоқ"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Он обязан принадлежать одновременно двум авторам",
+            "en": "It must belong to two authors at once",
+            "kk": "Ол бір мезгілде екі авторға тиесілі болуға тиіс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Он содержит ровно два независимо заданных сюжета",
+            "en": "It contains exactly two independently given plots",
+            "kk": "Онда өзара тәуелсіз берілген дәл екі сюжет бар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7. Семиотика культуры.docx",
+          "location": "абзац 91",
+          "units": [
+            "p91"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    }
+  ]
+}

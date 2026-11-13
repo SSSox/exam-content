@@ -1,0 +1,669 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 321,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В Казахстане по состоянию на 9 ноября 2026 года гражданин вправе состоять одновременно...",
+        "en": "In Kazakhstan, as of November 9, 2026, a citizen has the right to belong at the same time...",
+        "kk": "Қазақстанда 2026 жылғы 9 қарашадағы жағдай бойынша азамат бір мезгілде қайда мүше бола алады?"
+      },
+      "source_references": [
+        {
+          "source_id": "P",
+          "title": "О политических партиях",
+          "url": "https://old.adilet.zan.kz/rus/docs/Z020000344_/compare",
+          "location": "Статья 3",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В двух партиях при согласии их руководства",
+            "en": "To two parties, with the consent of their leaderships",
+            "kk": "Екі партияда, олардың басшылығының келісімімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В любом числе зарегистрированных партий",
+            "en": "To any number of registered parties",
+            "kk": "Тіркелген кез келген санды партияларда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только в одной политической партии",
+            "en": "To only one political party",
+            "kk": "Тек бір саяси партияда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "В одной парламентской и одной внепарламентской партии",
+            "en": "To one parliamentary and one non-parliamentary party",
+            "kk": "Бір парламенттік және бір парламенттен тыс партияда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В двух партиях с разными программными целями",
+            "en": "To two parties with different program goals",
+            "kk": "Бағдарламалық мақсаттары әртүрлі екі партияда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 322,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Минимальный возраст вступления гражданина Казахстана в политическую партию на 9 ноября 2026 года составляет...",
+        "en": "The minimum age for a citizen of Kazakhstan to join a political party as of November 9, 2026 is...",
+        "kk": "Қазақстан азаматының саяси партияға кіруінің ең төменгі жасы 2026 жылғы 9 қарашадағы жағдай бойынша қанша?"
+      },
+      "source_references": [
+        {
+          "source_id": "P",
+          "title": "О политических партиях",
+          "url": "https://old.adilet.zan.kz/rus/docs/Z020000344_/compare",
+          "location": "Статья 8",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "21 год",
+            "en": "21 years",
+            "kk": "21 жас"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "25 лет",
+            "en": "25 years",
+            "kk": "25 жас"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "20 лет",
+            "en": "20 years",
+            "kk": "20 жас"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "18 лет",
+            "en": "18 years",
+            "kk": "18 жас"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "16 лет",
+            "en": "16 years",
+            "kk": "16 жас"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 323,
+      "topic_id": 16,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Партийное членство в Казахстане по состоянию на 9 ноября 2026 года:",
+        "en": "Party membership in Kazakhstan as of November 9, 2026:",
+        "kk": "Қазақстанда 2026 жылғы 9 қарашадағы жағдай бойынша партиялық мүшелік:"
+      },
+      "source_references": [
+        {
+          "source_id": "P",
+          "title": "О политических партиях",
+          "url": "https://old.adilet.zan.kz/rus/docs/Z020000344_/compare",
+          "location": "Статья 8",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Коллективное по решению трудового коллектива",
+            "en": "Collective, by decision of a work collective",
+            "kk": "Еңбек ұжымының шешімі бойынша ұжымдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Фиксированное",
+            "en": "Fixed",
+            "kk": "Тіркелген"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Индивидуальное",
+            "en": "Individual",
+            "kk": "Жеке"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Добровольное",
+            "en": "Voluntary",
+            "kk": "Ерікті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Одновременное в нескольких партиях при идеологической близости",
+            "en": "Simultaneous in several parties where they are ideologically close",
+            "kk": "Идеологиялық жағынан жақын болған кезде бір мезгілде бірнеше партияда болу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 324,
+      "topic_id": 16,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Территориальное представительство, требуемое от инициативной группы создания партии (не менее 700 граждан) на 9 ноября 2026 года:",
+        "en": "The territorial representation required of the initiative group for creating a party (at least 700 citizens) as of November 9, 2026:",
+        "kk": "2026 жылғы 9 қарашадағы жағдай бойынша партия құру жөніндегі бастамашыл топқа (кемінде 700 азамат) қойылатын аумақтық өкілдік талабы:"
+      },
+      "source_references": [
+        {
+          "source_id": "P",
+          "title": "О политических партиях",
+          "url": "https://old.adilet.zan.kz/rus/docs/Z020000344_/compare",
+          "location": "Статья 6",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Половина областей без учёта столицы",
+            "en": "Half of the regions, not counting the capital",
+            "kk": "Астананы есептемегенде облыстардың жартысы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любая одна область при наличии большинства её районов",
+            "en": "Any one region, provided a majority of its districts are represented",
+            "kk": "Аудандарының көпшілігі өкілдік етсе, кез келген бір облыс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Все административные районы страны",
+            "en": "All administrative districts of the country",
+            "kk": "Елдің барлық әкімшілік аудандары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только два города республиканского значения",
+            "en": "Only two cities of republican significance",
+            "kk": "Тек республикалық маңызы бар екі қала"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Две трети областей, городов республиканского значения и столицы",
+            "en": "Two thirds of the regions, the cities of republican significance and the capital",
+            "kk": "Облыстардың, республикалық маңызы бар қалалардың және астананың үштен екісі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 325,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Минимальная общая численность членов партии для государственной регистрации в Казахстане на 9 ноября 2026 года...",
+        "en": "The minimum total membership of a party for state registration in Kazakhstan as of November 9, 2026 is...",
+        "kk": "Қазақстанда 2026 жылғы 9 қарашадағы жағдай бойынша партияны мемлекеттік тіркеу үшін партия мүшелерінің ең аз жалпы саны қанша?"
+      },
+      "source_references": [
+        {
+          "source_id": "R",
+          "title": "Порядок регистрации общественного объединения: политические партии",
+          "url": "https://www.gov.kz/org/adilet-pvl/press/article/details/152599",
+          "location": "регистрация",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "20000",
+            "en": "20,000",
+            "kk": "20000"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "700",
+            "en": "700",
+            "kk": "700"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "40000",
+            "en": "40,000",
+            "kk": "40000"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "2000",
+            "en": "2,000",
+            "kk": "2000"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "5000",
+            "en": "5,000",
+            "kk": "5000"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 326,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Требование к минимальной численности каждого регионального подразделения регистрируемой партии в Казахстане на 9 ноября 2026 года...",
+        "en": "The requirement for the minimum size of each regional branch of a party being registered in Kazakhstan as of November 9, 2026 is...",
+        "kk": "Қазақстанда 2026 жылғы 9 қарашадағы жағдай бойынша тіркелетін партияның әрбір өңірлік бөлімшесінің ең аз санына қойылатын талап қандай?"
+      },
+      "source_references": [
+        {
+          "source_id": "R",
+          "title": "Порядок регистрации общественного объединения: политические партии",
+          "url": "https://www.gov.kz/org/adilet-pvl/press/article/details/152599",
+          "location": "регистрация",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "700 членов",
+            "en": "700 members",
+            "kk": "700 мүше"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "100 членов",
+            "en": "100 members",
+            "kk": "100 мүше"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "600 членов",
+            "en": "600 members",
+            "kk": "600 мүше"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "300 членов",
+            "en": "300 members",
+            "kk": "300 мүше"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "200 членов",
+            "en": "200 members",
+            "kk": "200 мүше"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 327,
+      "topic_id": 16,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "По состоянию на 9 ноября 2026 года в Казахстане не допускается создание партий по признаку какой принадлежности граждан?",
+        "en": "As of November 9, 2026, the creation of parties on the basis of which affiliation of citizens is not permitted in Kazakhstan?",
+        "kk": "Қазақстанда 2026 жылғы 9 қарашадағы жағдай бойынша азаматтардың қандай тиесілік белгісі бойынша партиялар құруға жол берілмейді?"
+      },
+      "source_references": [
+        {
+          "source_id": "P",
+          "title": "О политических партиях",
+          "url": "https://old.adilet.zan.kz/rus/docs/Z020000344_/compare",
+          "location": "Статья 5",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Профессиональной",
+            "en": "Professional",
+            "kk": "Кәсіби"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Религиозной",
+            "en": "Religious",
+            "kk": "Діни"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сторонников общего направления социальной реформы",
+            "en": "Supporters of a general direction of social reform",
+            "kk": "Әлеуметтік реформаның жалпы бағытын жақтаушылар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сторонников определённой экономической программы",
+            "en": "Supporters of a particular economic program",
+            "kk": "Белгілі бір экономикалық бағдарламаны жақтаушылар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Этнической",
+            "en": "Ethnic",
+            "kk": "Этникалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 328,
+      "topic_id": 16,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Партийная принадлежность гражданина Казахстана на 9 ноября 2026 года...",
+        "en": "A Kazakhstani citizen's party affiliation as of November 9, 2026...",
+        "kk": "Қазақстан азаматының партиялық тиесілігі 2026 жылғы 9 қарашадағы жағдай бойынша..."
+      },
+      "source_references": [
+        {
+          "source_id": "P",
+          "title": "О политических партиях",
+          "url": "https://old.adilet.zan.kz/rus/docs/Z020000344_/compare",
+          "location": "Статья 3",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Освобождает от соблюдения решений суда",
+            "en": "Exempts him from compliance with court decisions",
+            "kk": "Оны сот шешімдерін сақтаудан босатады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Даёт преимущественное право на государственную должность",
+            "en": "Gives him a preferential right to a public office",
+            "kk": "Оған мемлекеттік лауазымға басым құқық береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Заменяет требования гражданства на выборах",
+            "en": "Replaces the citizenship requirement in elections",
+            "kk": "Сайлаудағы азаматтық талабының орнын алмастырады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Не может сама по себе служить основанием ограничения его прав",
+            "en": "Cannot in itself serve as a ground for restricting his rights",
+            "kk": "Өзі ғана оның құқықтарын шектеуге негіз бола алмайды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательно указывается при каждом обращении в государственный орган",
+            "en": "Must be stated in every appeal to a state body",
+            "kk": "Мемлекеттік органға әрбір жүгінген кезде міндетті түрде көрсетіледі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 329,
+      "topic_id": 16,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Состоять в партии в Казахстане по состоянию на 9 ноября 2026 года не вправе...",
+        "en": "Persons who may not belong to a party in Kazakhstan as of November 9, 2026, include...",
+        "kk": "Қазақстанда 2026 жылғы 9 қарашадағы жағдай бойынша партияға мүше болуға мыналар құқылы емес:"
+      },
+      "source_references": [
+        {
+          "source_id": "P",
+          "title": "О политических партиях",
+          "url": "https://old.adilet.zan.kz/rus/docs/Z020000344_/compare",
+          "location": "Статья 8",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Члены Центральной избирательной комиссии",
+            "en": "Members of the Central Election Commission",
+            "kk": "Орталық сайлау комиссиясының мүшелері"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Преподаватели университетов в силу самого занятия преподаванием",
+            "en": "University lecturers by virtue of the mere fact of teaching",
+            "kk": "Университет оқытушылары тек оқытумен айналысатындығының өзі себепті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вице-Президент",
+            "en": "The Vice President",
+            "kk": "Вице-Президент"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Научные работники в силу самого занятия исследованиями",
+            "en": "Researchers by virtue of the mere fact of doing research",
+            "kk": "Ғылыми қызметкерлер тек зерттеумен айналысатындығының өзі себепті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Судьи",
+            "en": "Judges",
+            "kk": "Судьялар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 330,
+      "topic_id": 16,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Инициативная группа из 700 человек заявляет, что выполнила тем самым численный порог государственной регистрации партии в Казахстане на 9 ноября 2026 года. В чём ошибка?",
+        "en": "An initiative group of 700 people claims that it has thereby met the numerical threshold for the state registration of a party in Kazakhstan as of November 9, 2026. What is the error?",
+        "kk": "700 адамнан тұратын бастамашыл топ осылайша Қазақстанда 2026 жылғы 9 қарашадағы жағдай бойынша партияны мемлекеттік тіркеудің сандық шегін орындадым деп мәлімдейді. Қателігі неде?"
+      },
+      "source_references": [
+        {
+          "source_id": "P",
+          "title": "О политических партиях",
+          "url": "https://old.adilet.zan.kz/rus/docs/Z020000344_/compare",
+          "location": "Статья 6",
+          "checked_on": "2026-11-09"
+        },
+        {
+          "source_id": "R",
+          "title": "Порядок регистрации общественного объединения: политические партии",
+          "url": "https://www.gov.kz/org/adilet-pvl/press/article/details/152599",
+          "location": "регистрация",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Региональные требования применяются только после получения депутатских мандатов",
+            "en": "Regional requirements apply only after parliamentary seats have been won",
+            "kk": "Өңірлік талаптар тек депутаттық мандаттар алғаннан кейін ғана қолданылады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Для инициативы требуется 5000 человек, а для регистрации достаточно 700",
+            "en": "The initiative requires 5,000 people, whereas 700 suffices for registration",
+            "kk": "Бастама үшін 5000 адам қажет, ал тіркеу үшін 700 жеткілікті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Порог инициативной группы не заменяет требования к общей и региональной численности партии",
+            "en": "The initiative group threshold does not replace the requirements for a party's total and regional membership",
+            "kk": "Бастамашыл топ шегі партияның жалпы және өңірлік санына қойылатын талаптардың орнын алмастырмайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Государственная регистрация определяется только числом делегатов съезда",
+            "en": "State registration is determined solely by the number of congress delegates",
+            "kk": "Мемлекеттік тіркеу тек съезд делегаттарының санымен айқындалады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Учредительная инициатива и зарегистрированная партия юридически тождественны",
+            "en": "A founding initiative and a registered party are legally identical",
+            "kk": "Құрылтайшылық бастама мен тіркелген партия заң жағынан бірдей"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 5,
+  "topic_name": "The Language of Culture and the Typology of Signs",
+  "questions": {
+    "101": {
+      "question": "How does the main emphasis of hermeneutics differ from that of semiotics?",
+      "options": {
+        "A": "Hermeneutics studies understanding, semiotics studies sign structure",
+        "B": "Hermeneutics excludes interpretation, semiotics excludes signs",
+        "C": "Hermeneutics studies the physics of sound, semiotics studies genealogy",
+        "D": "Hermeneutics studies the norms of law, semiotics studies the norms of morality",
+        "E": "Hermeneutics studies only writing, semiotics studies only oral speech"
+      }
+    },
+    "102": {
+      "question": "The following processes belong to the hermeneutic mastery of culture:",
+      "options": {
+        "A": "Cognition",
+        "B": "Encoding",
+        "C": "Understanding",
+        "D": "Signification",
+        "E": "Experiencing (lived experience)"
+      }
+    },
+    "103": {
+      "question": "What do the various means of the language of culture have in common?",
+      "options": {
+        "A": "They function exclusively in a written tradition",
+        "B": "They necessarily have a verbal form",
+        "C": "They make it possible to orient oneself in cultural space and to convey meanings",
+        "D": "They presuppose a single alphabet common to all cultures",
+        "E": "They eliminate the need for interpretation"
+      }
+    },
+    "104": {
+      "question": "Indicate the characteristics of the sign that C. S. Peirce singled out.",
+      "options": {
+        "A": "An innate connection between the carrier and the meaning",
+        "B": "A link with use and understanding",
+        "C": "Obligatory iconic resemblance",
+        "D": "Material expression",
+        "E": "Self-identity of the sign and the object it denotes"
+      }
+    },
+    "105": {
+      "question": "Smoke serves as an indication of fire by virtue of a causal link. To which type does such a sign belong?",
+      "options": {
+        "A": "Natural",
+        "B": "Functional",
+        "C": "Verbal",
+        "D": "Conventional",
+        "E": "Iconic"
+      }
+    },
+    "106": {
+      "question": "A machine part tells a researcher about a technical system by virtue of its practical purpose. This is a ... sign.",
+      "options": {
+        "A": "Verbal",
+        "B": "Functional",
+        "C": "Iconic",
+        "D": "Written-alphabet element",
+        "E": "Conventional signal"
+      }
+    },
+    "107": {
+      "question": "The sound imitation of sea waves in music is an example of a(n) ... sign.",
+      "options": {
+        "A": "Iconic",
+        "B": "Alphabetic notation",
+        "C": "Functional indicator",
+        "D": "Verbal",
+        "E": "Conventional index"
+      }
+    },
+    "108": {
+      "question": "At the basis of the meaning of a conventional sign lies...",
+      "options": {
+        "A": "A social agreement about the meaning",
+        "B": "An outward resemblance to the thing denoted",
+        "C": "A natural causal connection with the object",
+        "D": "The practical function of an object in activity",
+        "E": "An inherited psychophysiological reaction"
+      }
+    },
+    "109": {
+      "question": "Conventional signs include...",
+      "options": {
+        "A": "Iconic signs",
+        "B": "Functional signs",
+        "C": "Indices",
+        "D": "Symbols",
+        "E": "Signals"
+      }
+    },
+    "110": {
+      "question": "A sign that is specifically meant to notify or warn is called a...",
+      "options": {
+        "A": "Symbol",
+        "B": "Functional sign",
+        "C": "Index",
+        "D": "Iconic sign",
+        "E": "Signal"
+      }
+    },
+    "111": {
+      "question": "A compact conventional designation of an object or situation on a diagram is a(n)...",
+      "options": {
+        "A": "Index",
+        "B": "Functional sign",
+        "C": "Signal",
+        "D": "Symbol",
+        "E": "Iconic sign"
+      }
+    },
+    "112": {
+      "question": "The feature that distinguishes a symbol among signs is...",
+      "options": {
+        "A": "The presence of an exclusively sound carrier",
+        "B": "The absence of a connection with collective experience",
+        "C": "The expression of an additional value-laden meaning",
+        "D": "Obligatory literal resemblance to the object",
+        "E": "A single unchanging interpretation"
+      }
+    },
+    "113": {
+      "question": "Why can a pair of scales express the idea of justice?",
+      "options": {
+        "A": "The idea of balance creates an associative link between the form and the value-laden meaning",
+        "B": "Any connection between the design of the scales and the symbolic meaning is ruled out",
+        "C": "The legal meaning is derived from the material of the pans",
+        "D": "Their mass is physically equal to moral worth",
+        "E": "Any measuring instrument automatically signifies justice"
+      }
+    },
+    "114": {
+      "question": "Indicate the correct \"example: type of symbol\" pairs.",
+      "options": {
+        "A": "The cross: a religious symbol",
+        "B": "The colour white as purity: a moral symbol",
+        "C": "The field of Borodino as military glory: a verbal system of notation",
+        "D": "Scales as justice: a historical symbol",
+        "E": "A state slogan: a natural indicative sign"
+      }
+    },
+    "115": {
+      "question": "How are the biological prerequisites and the social nature of spoken language related?",
+      "options": {
+        "A": "Joint activity merely preserves an unchanging innate grammar",
+        "B": "The biological organization passes on a ready-made vocabulary by inheritance",
+        "C": "Language arises without communication as an individual reflex",
+        "D": "The organs of speech create the possibility of language, but it develops in joint activity",
+        "E": "The social nature of language excludes the significance of hearing and the brain"
+      }
+    },
+    "116": {
+      "question": "A natural language is called an open system because...",
+      "options": {
+        "A": "Its vocabulary does not depend on the history of culture",
+        "B": "It contains no stable elements",
+        "C": "Every sign has only one permissible meaning",
+        "D": "The rules of its construction are fully formalized",
+        "E": "It is capable of unlimited development"
+      }
+    },
+    "117": {
+      "question": "The part of the vocabulary characterized by comparatively long-lasting stability is...",
+      "options": {
+        "A": "Names of body parts, celestial bodies and the simplest actions",
+        "B": "Names of current fashionable trends",
+        "C": "Designations of the latest technical devices",
+        "D": "The lexicon of vanished narrow professions",
+        "E": "Names of short-lived political campaigns"
+      }
+    },
+    "118": {
+      "question": "Writing and musical notation are called secondary sign systems because...",
+      "options": {
+        "A": "They arise on the basis of already existing language and music",
+        "B": "They have less cultural value than oral speech",
+        "C": "They are applicable exclusively to professional art",
+        "D": "Their signs lack an independent material expression",
+        "E": "They arise earlier than any forms of sound communication"
+      }
+    },
+    "119": {
+      "question": "Writing creates the following possibilities for cultural memory:",
+      "options": {
+        "A": "Preserving ideas until interested descendants appear",
+        "B": "The automatic preservation of a single authorial interpretation",
+        "C": "Transmission of a ready-made meaning independently of the cultural code",
+        "D": "Replacement of teaching between generations by genetic inheritance",
+        "E": "The accumulation of rarely used vocabulary"
+      }
+    },
+    "120": {
+      "question": "Strict formalization of the rules of construction is most characteristic of...",
+      "options": {
+        "A": "The artificial languages of logic and mathematics",
+        "B": "The oral performance of folklore",
+        "C": "Spontaneous gestural expressiveness",
+        "D": "The symbolic polysemy of an artistic image",
+        "E": "The spoken language of everyday communication"
+      }
+    },
+    "121": {
+      "question": "Myth, religion and art as communication structures belong...",
+      "options": {
+        "A": "To the formal languages of computation",
+        "B": "To natural spoken languages",
+        "C": "To secondary languages",
+        "D": "To biological signals",
+        "E": "To alphabetic systems of notation"
+      }
+    },
+    "122": {
+      "question": "Which new possibility do written signs provide in the account of the evolution of communication?",
+      "options": {
+        "A": "Transmission of ready-made cultural meanings through DNA",
+        "B": "The disappearance of the need for a material carrier",
+        "C": "The abandonment of the accumulation of intergenerational experience",
+        "D": "The preservation of culture in the extragenetic memory of humankind",
+        "E": "The restriction of communication to direct oral contact"
+      }
+    },
+    "123": {
+      "question": "It is true of the model sign in the mythological cultural code that...",
+      "options": {
+        "A": "It stores information about the meaning of an object and the ways of acting with it",
+        "B": "It denies the possibility of substituting for real action",
+        "C": "It excludes the endowing of an object with magical power",
+        "D": "It necessarily represents only a natural symptom",
+        "E": "It is reduced to a literal enumeration of the parts of an object"
+      }
+    },
+    "124": {
+      "question": "The cultural-studies investigation of a symbol includes the following tasks:",
+      "options": {
+        "A": "Reducing all symbols to unambiguous technical signals",
+        "B": "Identifying the symbolic form with a physical property of the carrier",
+        "C": "Studying a deliberately created symbolic message",
+        "D": "Interpreting a meaning attributed to an object without deliberate intent",
+        "E": "Establishing an unchanging natural meaning of any image"
+      }
+    },
+    "125": {
+      "question": "The formula \"the unity of allusion and concealment\", which characterizes the symbol, is associated with the name of...",
+      "options": {
+        "A": "L. Wittgenstein",
+        "B": "C. S. Peirce",
+        "C": "E. Tylor",
+        "D": "C. Lévi-Strauss",
+        "E": "H.-G. Gadamer"
+      }
+    }
+  }
+}

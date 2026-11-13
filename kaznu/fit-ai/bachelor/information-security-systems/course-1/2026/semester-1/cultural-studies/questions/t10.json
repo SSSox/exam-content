@@ -1,0 +1,1676 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 226,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему не всякое перемещение населения является номадизмом?",
+        "en": "Why is not every movement of a population nomadism?",
+        "kk": "Халықтың кез келген көшіп-қонуы неліктен номадизм бола бермейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Номадизм обозначает любое сезонное путешествие",
+            "en": "Nomadism denotes any seasonal journey",
+            "kk": "Номадизм кез келген маусымдық саяхатты білдіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Номадизм сводится к временной утрате постоянного жилища",
+            "en": "Nomadism amounts to the temporary loss of a permanent dwelling",
+            "kk": "Номадизм тұрақты тұрғын үйден уақытша айырылуға саяды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Номадизм возможен только при пересечении государственной границы",
+            "en": "Nomadism is possible only when crossing a state border",
+            "kk": "Номадизм тек мемлекеттік шекарадан өткенде ғана мүмкін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Номадизм предполагает особый вид производящей экономики",
+            "en": "Nomadism presupposes a particular type of productive economy",
+            "kk": "Номадизм өндіруші экономиканың ерекше түрін көздейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Номадизм определяется исключительно расстоянием переселения",
+            "en": "Nomadism is determined exclusively by the distance of the migration",
+            "kk": "Номадизм тек қоныс аударудың қашықтығымен айқындалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Номадизм в схемах.docx",
+          "location": "абзац 9",
+          "units": [
+            "p9"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 227,
+      "topic_id": 10,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Пары противопоставлений, необходимые для определения подвижного скотоводства:",
+        "en": "Pairs of oppositions necessary for defining mobile pastoralism:",
+        "kk": "Көшпелі мал шаруашылығын анықтау үшін қажетті қарама-қайшылық жұптары:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сакральность и профанность",
+            "en": "The sacred and the profane",
+            "kk": "Сакралдылық және профандық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Животноводство и земледелие",
+            "en": "Animal husbandry and agriculture",
+            "kk": "Мал шаруашылығы және егін шаруашылығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Автохтонность и диффузия",
+            "en": "Autochthony and diffusion",
+            "kk": "Автохтондылық және диффузия"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Подвижность и оседлость",
+            "en": "Mobility and sedentism",
+            "kk": "Көшпелілік және отырықшылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Устность и письменность",
+            "en": "Orality and literacy",
+            "kk": "Ауызшалық және жазбашалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзацы 55–57",
+          "units": [
+            "p55",
+            "p56",
+            "p57"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 228,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Пара признаков, характеризующая специализированное кочевое скотоводство, — это...",
+        "en": "The pair of features that characterizes specialized nomadic pastoralism is...",
+        "kk": "Мамандандырылған көшпелі мал шаруашылығын сипаттайтын белгілер жұбы — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Преобладание земледелия и сезонный отгон части скота",
+            "en": "The predominance of agriculture and the seasonal driving away of part of the livestock",
+            "kk": "Егін шаруашылығының басымдығы және малдың бір бөлігін маусымдық алыс жайылымға айдау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Постоянный сенокос и территориально неподвижные стада",
+            "en": "Permanent haymaking and territorially immobile herds",
+            "kk": "Тұрақты шөп шабу және аумақ бойынша қозғалмайтын табындар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Круглогодичный выпас и естественная пастбищная база",
+            "en": "Year-round grazing and a natural pasture base",
+            "kk": "Жыл бойы жаю және табиғи жайылым базасы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Круглогодичное стойло и заранее заготовленные корма",
+            "en": "Year-round stall-feeding and fodder prepared in advance",
+            "kk": "Жыл бойы қорада ұстау және алдын ала дайындалған жем-шөп"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сезонный выпас и преобладание кормовых посевов",
+            "en": "Seasonal grazing and the predominance of fodder crops",
+            "kk": "Маусымдық жаю және жемшөп егістерінің басымдығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзац 60",
+          "units": [
+            "p60"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 229,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Состав участников перекочёвки, характерный для специализированного кочевого общества, — это...",
+        "en": "The composition of participants in a migration characteristic of a specialized nomadic society is...",
+        "kk": "Мамандандырылған көшпелі қоғамға тән көшіп-қонуға қатысушылардың құрамы — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Всё или большинство населения",
+            "en": "All or most of the population",
+            "kk": "Бүкіл халық немесе халықтың көпшілігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только военные дружины",
+            "en": "Only military retinues",
+            "kk": "Тек әскери жасақтар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только караванные торговцы",
+            "en": "Only caravan merchants",
+            "kk": "Тек керуенші саудагерлер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только наёмные пастухи при оседлых семьях",
+            "en": "Only hired herdsmen working for sedentary families",
+            "kk": "Тек отырықшы отбасылардың жалданған малшылары"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только родовая знать",
+            "en": "Only the tribal nobility",
+            "kk": "Тек рулық ақсүйектер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзац 62",
+          "units": [
+            "p62"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 230,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое соотношение целей жизнеобеспечения, прибыли и обмена характерно для традиционной кочевой экономики?",
+        "en": "Which relationship between the aims of subsistence, profit and exchange is characteristic of a traditional nomadic economy?",
+        "kk": "Дәстүрлі көшпелі экономикаға тіршілікті қамтамасыз ету, пайда және айырбас мақсаттарының қандай арақатынасы тән?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прибыль первична, а обмен имеет лишь обрядовый характер",
+            "en": "Profit is primary, and exchange has only a ritual character",
+            "kk": "Пайда бастапқы, ал айырбас тек ғұрыптық сипатта болады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Жизнеобеспечение первично, при этом обмен может быть значительным",
+            "en": "Subsistence is primary, although exchange may be considerable",
+            "kk": "Тіршілікті қамтамасыз ету бастапқы, бірақ айырбас айтарлықтай болуы мүмкін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Жизнеобеспечение исключает обмен с оседлыми обществами",
+            "en": "Subsistence excludes exchange with sedentary societies",
+            "kk": "Тіршілікті қамтамасыз ету отырықшы қоғамдармен айырбасты жоққа шығарады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Хозяйство ориентировано исключительно на накопление денежного капитала",
+            "en": "The economy is oriented exclusively toward the accumulation of monetary capital",
+            "kk": "Шаруашылық тек ақшалай капиталды жинақтауға бағытталған"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Любой обмен означает переход к интенсивному земледелию",
+            "en": "Any exchange means a transition to intensive agriculture",
+            "kk": "Кез келген айырбас қарқынды егін шаруашылығына көшуді білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзац 63",
+          "units": [
+            "p63"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 231,
+      "topic_id": 10,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите основания социальной организации, выделяемые у кочевников евразийских степей.",
+        "en": "Indicate the bases of social organization identified among the nomads of the Eurasian steppes.",
+        "kk": "Еуразия даласы көшпелілерінде бөліп көрсетілетін әлеуметтік ұйым негіздерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Территориальное гражданство без учёта родства",
+            "en": "Territorial citizenship without regard to kinship",
+            "kk": "Туыстықты ескермейтін аумақтық азаматтық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальный договор найма как основа сегментарной системы",
+            "en": "An individual employment contract as the basis of a segmentary system",
+            "kk": "Сегменттік жүйенің негізі ретінде жеке жалдау келісімі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Реальные и фиктивные генеалогии",
+            "en": "Real and fictitious genealogies",
+            "kk": "Нақты және жорамал шежірелер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Цеховая профессиональная корпорация как главная структура",
+            "en": "A guild-type professional corporation as the main structure",
+            "kk": "Негізгі құрылым ретінде цехтық кәсіби корпорация"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Родство",
+            "en": "Kinship",
+            "kk": "Туыстық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзацы 64–66",
+          "units": [
+            "p64",
+            "p65",
+            "p66"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 232,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Экологическая роль распространения кочевого скотоводства — это...",
+        "en": "The ecological role played by the spread of nomadic pastoralism was...",
+        "kk": "Көшпелі мал шаруашылығының таралуының экологиялық рөлі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Замена производящей экономики исключительно собирательством",
+            "en": "The replacement of the productive economy exclusively by gathering",
+            "kk": "Өндіруші экономиканы тек жинаушылықпен алмастыру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ограничение обитаемого пространства только речными долинами",
+            "en": "The restriction of inhabited space to river valleys alone",
+            "kk": "Мекендейтін кеңістікті тек өзен аңғарларымен шектеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вытеснение скотоводства из засушливых регионов",
+            "en": "The displacement of pastoralism from arid regions",
+            "kk": "Мал шаруашылығын құрғақ аймақтардан ығыстыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устранение зависимости хозяйства от пастбищных ресурсов",
+            "en": "The elimination of the economy's dependence on pasture resources",
+            "kk": "Шаруашылықтың жайылым ресурстарына тәуелділігін жою"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Освоение производящей экономикой аридных, полуаридных и тундровых зон",
+            "en": "The colonization of arid, semi-arid and tundra zones by a productive economy",
+            "kk": "Өндіруші экономиканың аридті, жартылай аридті және тундра аймақтарын игеруі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзацы 68–73",
+          "units": [
+            "p68",
+            "p69",
+            "p70",
+            "p71",
+            "p72",
+            "p73"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 233,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отличительная черта первого типа кочевой государственности в отношениях с оседлыми обществами — это...",
+        "en": "The distinguishing feature of the first type of nomadic statehood in its relations with sedentary societies is...",
+        "kk": "Көшпелі мемлекеттіліктің бірінші типінің отырықшы қоғамдармен қарым-қатынастағы ерекшелігі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отсутствие политической зависимости и обмена",
+            "en": "The absence of political dependence and exchange",
+            "kk": "Саяси тәуелділік пен айырбастың болмауы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Немедленный переход всей кочевой знати к земледелию",
+            "en": "The immediate transition of the entire nomadic nobility to agriculture",
+            "kk": "Барлық көшпелі ақсүйектердің бірден егін шаруашылығына көшуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Единая хозяйственная специализация кочевников и горожан",
+            "en": "A single economic specialization of the nomads and the townspeople",
+            "kk": "Көшпелілер мен қала тұрғындарының бірыңғай шаруашылық маманданмасы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Полная интеграция населения в единую городскую корпорацию",
+            "en": "The complete integration of the population into a single urban corporation",
+            "kk": "Халықтың бірыңғай қалалық корпорацияға толық интеграциялануы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Данническая зависимость при преимущественно раздельном обитании",
+            "en": "Tributary dependence combined with predominantly separate habitation",
+            "kk": "Негізінен бөлек тұрғанда алым-салық тәуелділігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзацы 80–90",
+          "units": [
+            "p80",
+            "p81",
+            "p82",
+            "p83",
+            "p84",
+            "p85",
+            "p86",
+            "p87",
+            "p88",
+            "p89",
+            "p90"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 234,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему кочевая аристократия первого типа государств определяется скорее как руководящее сословие?",
+        "en": "Why is the nomadic aristocracy of the first type of state defined rather as a ruling estate?",
+        "kk": "Мемлекеттердің бірінші типіндегі көшпелі аристократия неліктен басшы сословие ретінде анықталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Все кочевники переходят в положение зависимых городских ремесленников",
+            "en": "All nomads pass into the position of dependent urban craftsmen",
+            "kk": "Барлық көшпелілер тәуелді қала қолөнершілерінің жағдайына көшеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Военная опора заменяется исключительно наёмной оседлой армией",
+            "en": "Military support is replaced exclusively by a hired sedentary army",
+            "kk": "Әскери тірек тек жалданған отырықшы әскермен алмастырылады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Аристократия полностью отделяется от собственного кочевого общества",
+            "en": "The aristocracy separates completely from its own nomadic society",
+            "kk": "Аристократия өзінің көшпелі қоғамынан толық бөлінеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рядовые кочевники остаются социальной и военной опорой, действует перераспределение",
+            "en": "Ordinary nomads remain its social and military support, and redistribution operates",
+            "kk": "Қатардағы көшпелілер әлеуметтік және әскери тірек болып қалады, қайта бөлу жұмыс істейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Родственные отношения теряют всякое общественное значение",
+            "en": "Kinship relations lose all social significance",
+            "kk": "Туыстық қатынастар кез келген қоғамдық маңызын жоғалтады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзацы 91–95",
+          "units": [
+            "p91",
+            "p92",
+            "p93",
+            "p94",
+            "p95"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 235,
+      "topic_id": 10,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Ко второму типу кочевой государственности, с интеграцией оседлого и кочевого населения, относятся:",
+        "en": "The second type of nomadic statehood, with the integration of sedentary and nomadic populations, includes:",
+        "kk": "Отырықшы және көшпелі халықты біріктіретін көшпелі мемлекеттіліктің екінші типіне мыналар жатады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Юань в Китае",
+            "en": "The Yuan in China",
+            "kk": "Қытайдағы Юань"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Государство сюнну",
+            "en": "The Xiongnu state",
+            "kk": "Ғұн (сюнну) мемлекеті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ранние тюркские каганаты",
+            "en": "The early Turkic khaganates",
+            "kk": "Ерте түрік қағанаттары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Держава кушан",
+            "en": "The Kushan Empire",
+            "kk": "Құшан державасы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Монгольская империя при первых ханах",
+            "en": "The Mongol Empire under the first khans",
+            "kk": "Алғашқы хандар тұсындағы Моңғол империясы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзацы 108–119",
+          "units": [
+            "p108",
+            "p109",
+            "p110",
+            "p111",
+            "p112",
+            "p113",
+            "p114",
+            "p115",
+            "p116",
+            "p117",
+            "p118",
+            "p119"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 236,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Интеграция кочевой верхушки в общество завоёванного оседлого государства обычно начиналась...",
+        "en": "The integration of the nomadic elite into the society of a conquered sedentary state usually began...",
+        "kk": "Көшпелі шонжарлардың жаулап алынған отырықшы мемлекет қоғамына интеграциялануы әдетте кімнен басталды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "С династии и её непосредственного окружения",
+            "en": "With the dynasty and its immediate entourage",
+            "kk": "Әулет пен оның тікелей төңірегінен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "С религиозных паломников, не связанных с властью",
+            "en": "With religious pilgrims unconnected with power",
+            "kk": "Билікпен байланысы жоқ діни зиярат етушілерден"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "С рядовых пастухов наиболее отдалённых стойбищ",
+            "en": "With ordinary herdsmen of the most remote camps",
+            "kk": "Ең шалғай қыстаулардағы қатардағы малшылардан"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "С ремесленных учеников городских цехов",
+            "en": "With craft apprentices of the urban guilds",
+            "kk": "Қалалық цехтардың қолөнер шәкірттерінен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "С независимых земледельческих общин",
+            "en": "With independent farming communities",
+            "kk": "Тәуелсіз егіншілік қауымдарынан"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзацы 128–131",
+          "units": [
+            "p128",
+            "p129",
+            "p130",
+            "p131"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 237,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Термин «Шёлковый путь» был предложен в 1877 году...",
+        "en": "The term \"Silk Road\" was proposed in 1877 by...",
+        "kk": "«Жібек жолы» термині 1877 жылы кім ұсынды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Н. Ядринцевым",
+            "en": "N. Yadrintsev",
+            "kk": "Н. Ядринцев"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "П. Семёновым-Тян-Шанским",
+            "en": "P. Semenov-Tian-Shansky",
+            "kk": "П. Семенов-Тян-Шанский"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ф. Рихтгофеном",
+            "en": "F. von Richthofen",
+            "kk": "Ф. Рихтгофен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "В. Радловым",
+            "en": "V. Radlov",
+            "kk": "В. Радлов"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Н. Пржевальским",
+            "en": "N. Przhevalsky",
+            "kk": "Н. Пржевальский"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 11. Культура номадов.docx",
+          "location": "абзацы 155–157",
+          "units": [
+            "p155",
+            "p156",
+            "p157"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 238,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему звериный стиль скифо-сибирского мира нельзя исчерпать понятием декоративно-прикладного искусства?",
+        "en": "Why cannot the animal style of the Scythian-Siberian world be exhausted by the notion of decorative and applied art?",
+        "kk": "Скиф-сібір әлемінің аң стилін неліктен сәндік-қолданбалы өнер ұғымымен ғана шектеуге болмайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Он ограничивался украшением погребального оружия",
+            "en": "It was confined to the decoration of funerary weapons",
+            "kk": "Ол жерлеу қаруын безендірумен шектелді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Он не выходил за рамки личного вкуса отдельного мастера",
+            "en": "It did not go beyond the personal taste of an individual craftsman",
+            "kk": "Ол жеке шебердің жеке талғамы шеңберінен шықпады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Он воспроизводил исключительно реалистические зарисовки природы",
+            "en": "It reproduced exclusively realistic sketches of nature",
+            "kk": "Ол тек табиғаттың шынайы эскиздерін қайталады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Он был универсальным искусством, связанным с мифологическим мышлением",
+            "en": "It was a universal art connected with mythological thinking",
+            "kk": "Ол мифологиялық ойлаумен байланысты әмбебап өнер болды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Он использовался только в хозяйственных расчётах",
+            "en": "It was used only in economic accounting",
+            "kk": "Ол тек шаруашылық есеп-қисапта қолданылды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 7",
+          "units": [
+            "p7"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 239,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Мотив, занимающий нижний фриз иссыкского кулаха, — это...",
+        "en": "The motif that occupies the lower frieze of the Issyk kulah (headdress) is...",
+        "kk": "Есік құлахының төменгі фризін алып жатқан мотив — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Парные протомы крылатых коней",
+            "en": "Paired protomes of winged horses",
+            "kk": "Қанатты аттардың жұп протомалары"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Горная цепь с сидящими на деревьях птицами",
+            "en": "A mountain chain with birds sitting on trees",
+            "kk": "Ағашқа қонған құстары бар тау тізбегі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Крестообразная группа тигрогрифонов",
+            "en": "A cross-shaped group of tiger-griffins",
+            "kk": "Жолбарыс-грифондардың айқастырылған тобы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Растительный орнамент на кольцевидной пластине",
+            "en": "A floral ornament on a ring-shaped plate",
+            "kk": "Сақина тәрізді пластинадағы өсімдік өрнегі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Изображения львиных голов над вершинами гор",
+            "en": "Images of lion heads above mountain peaks",
+            "kk": "Тау шыңдарының үстіндегі арыстан бастарының бейнелері"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 240,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Пространственная схема, составляющая основу тернарной модели иссыкского головного убора, — это...",
+        "en": "The spatial scheme that forms the basis of the ternary model of the Issyk headdress is...",
+        "kk": "Есік бас киімінің тернарлы моделінің негізін құрайтын кеңістіктік схема — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прошлое, настоящее и будущее",
+            "en": "The past, the present and the future",
+            "kk": "Өткен, қазіргі және болашақ"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Три последовательных возраста правителя",
+            "en": "The three successive ages of the ruler",
+            "kk": "Билеушінің үш дәйекті жасы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нижний, средний и верхний миры",
+            "en": "The lower, middle and upper worlds",
+            "kk": "Төменгі, ортаңғы және жоғарғы әлемдер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Три сословия военной организации",
+            "en": "The three estates of the military organization",
+            "kk": "Әскери ұйымның үш сословиесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Восток, запад и центр",
+            "en": "The east, the west and the centre",
+            "kk": "Шығыс, батыс және орталық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 17",
+          "units": [
+            "p17"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 241,
+      "topic_id": 10,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "С нижним миром в тернарной космограмме Иссыка соотносятся:",
+        "en": "In the ternary cosmogram of Issyk, the following elements are correlated with the lower world:",
+        "kk": "Есіктің тернарлы космограммасында төменгі әлеммен мыналар сәйкестендіріледі:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Растения",
+            "en": "Plants",
+            "kk": "Өсімдіктер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Солнце",
+            "en": "The sun",
+            "kk": "Күн"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Небесные птицы",
+            "en": "Celestial birds",
+            "kk": "Аспан құстары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Горизонтальные страны света как самостоятельная четвёрка",
+            "en": "The horizontal cardinal directions as an independent four",
+            "kk": "Дүние бұрыштарының көлденең сызығы өз алдына төрттік ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Земля и вода",
+            "en": "Earth and water",
+            "kk": "Жер және су"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 17",
+          "units": [
+            "p17"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 242,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Крестообразное расположение мифологических существ на иссыкском кулахе связано с...",
+        "en": "The cross-shaped arrangement of mythological creatures on the Issyk kulah is connected with...",
+        "kk": "Есік құлахындағы мифологиялық тіршілік иелерінің айқастырылған орналасуы нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Порядком восьми погребальных жертв",
+            "en": "The order of eight funerary sacrifices",
+            "kk": "Сегіз жерлеу құрбандығының тәртібін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сменой родов внутри одного поколения",
+            "en": "The succession of clans within a single generation",
+            "kk": "Бір ұрпақ ішіндегі рулардың ауысуын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Учётом четырёх видов домашнего скота",
+            "en": "The counting of four kinds of livestock",
+            "kk": "Төрт түлік малдың есебін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Последовательностью трёх возрастов человека",
+            "en": "The sequence of the three ages of man",
+            "kk": "Адамның үш жасының дәйектілігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Охраной четырёх стран света",
+            "en": "The guarding of the four cardinal directions",
+            "kk": "Дүниенің төрт тарабын қорғауды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 21",
+          "units": [
+            "p21"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 243,
+      "topic_id": 10,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Образы, семантически выражающие связь противопоставленных сфер Вселенной:",
+        "en": "Images that semantically express the connection between the opposed spheres of the universe:",
+        "kk": "Ғаламның қарама-қарсы салаларының байланысын семантикалық тұрғыдан білдіретін бейнелер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Родовая тамга как частный имущественный знак",
+            "en": "The clan tamga as a private property mark",
+            "kk": "Рулық тамға жекелеген мүліктік таңба ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мировое Древо",
+            "en": "The World Tree",
+            "kk": "Әлем ағашы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Мировая Гора",
+            "en": "The World Mountain",
+            "kk": "Әлем тауы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Счётная бирка как хозяйственный документ",
+            "en": "A tally stick as an economic document",
+            "kk": "Санау тақтайшасы шаруашылық құжат ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ремесленное клеймо как личная подпись мастера",
+            "en": "A craftsman's stamp as the master's personal signature",
+            "kk": "Қолөнер таңбасы шебердің жеке қолтаңбасы ретінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 23",
+          "units": [
+            "p23"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 244,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какую функцию выполняют звери по краям площадок семиреченских курильниц?",
+        "en": "What function do the animals along the edges of the platforms of the Semirechye incense burners perform?",
+        "kk": "Жетісу түтеткіштерінің алаңдарының шеттеріндегі аңдар қандай функция атқарады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Разделяют предмет на доли для наследования",
+            "en": "They divide the object into shares for inheritance",
+            "kk": "Заттарды мұрагерлікке бөлу үшін үлеске бөледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Указывают последовательность ремесленных операций",
+            "en": "They indicate the sequence of craft operations",
+            "kk": "Қолөнер операцияларының дәйектілігін көрсетеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Представляют перечень охотничьих трофеев владельца",
+            "en": "They represent a list of the owner's hunting trophies",
+            "kk": "Иесінің аңшылық олжаларының тізімін білдіреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сакрализуют границы микромодели космоса",
+            "en": "They sacralize the boundaries of a micromodel of the cosmos",
+            "kk": "Ғалам микромоделінің шекараларын қасиеттендіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обозначают только хозяйственную ценность животных",
+            "en": "They denote only the economic value of the animals",
+            "kk": "Тек жануарлардың шаруашылық құндылығын көрсетеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 31",
+          "units": [
+            "p31"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 245,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Три орнаментальных фриза иссыкского кулаха в вертикальном направлении объединяет...",
+        "en": "The three ornamental friezes of the Issyk kulah are united in the vertical direction by...",
+        "kk": "Есік құлахының үш өрнекті фризін тік бағытта біріктіретін нәрсе — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Центральная эмблема крылатых рогатых коней с золотыми стрелами",
+            "en": "The central emblem of winged horned horses with golden arrows",
+            "kk": "Алтын жебелері бар қанатты мүйізді аттардың орталық эмблемасы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Кольцо нижнего растительного орнамента",
+            "en": "The ring of the lower floral ornament",
+            "kk": "Төменгі өсімдік өрнегінің сақинасы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Одиночная фигура бескрылого тигра на затылке",
+            "en": "A single figure of a wingless tiger at the back of the head",
+            "kk": "Желкедегі қанатсыз жолбарыстың жалғыз фигурасы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ряд надписей на серебряном сосуде",
+            "en": "A row of inscriptions on a silver vessel",
+            "kk": "Күміс ыдыстағы жазулар қатары"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Квадратная площадка отдельной курильницы",
+            "en": "The square platform of a separate incense burner",
+            "kk": "Жеке түтеткіштің төртбұрышты алаңы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 33",
+          "units": [
+            "p33"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 246,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Четыре солнечных коня центральной эмблемы соотносятся прежде всего с...",
+        "en": "The four solar horses of the central emblem are correlated primarily with...",
+        "kk": "Орталық эмблемадағы төрт күн аты ең алдымен неге сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Четырьмя поколениями предков",
+            "en": "Four generations of ancestors",
+            "kk": "Ата-бабалардың төрт ұрпағына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Четырьмя странами света",
+            "en": "The four cardinal directions",
+            "kk": "Дүниенің төрт тарабына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Четырьмя видами ритуальных сосудов",
+            "en": "Four kinds of ritual vessels",
+            "kk": "Ғұрыптық ыдыстардың төрт түріне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Четырьмя родовыми профессиями",
+            "en": "Four clan professions",
+            "kk": "Рулық кәсіптің төрт түріне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Четырьмя ступенями посвящения",
+            "en": "Four stages of initiation",
+            "kk": "Бастамашылықтың төрт сатысына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 39",
+          "units": [
+            "p39"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 247,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Золотой скульптуркой на вершине иссыкского кулаха изображён...",
+        "en": "The golden figurine at the top of the Issyk kulah depicts...",
+        "kk": "Есік құлахының төбесіндегі алтын мүсіншеде бейнеленген жануар — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Архар",
+            "en": "The argali",
+            "kk": "Арқар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сайгак",
+            "en": "The saiga",
+            "kk": "Ақбөкен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кулан",
+            "en": "The kulan (wild ass)",
+            "kk": "Құлан"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тигрогрифон",
+            "en": "The tiger-griffin",
+            "kk": "Жолбарыс-грифон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Горный козёл",
+            "en": "The ibex",
+            "kk": "Таутеке"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 83",
+          "units": [
+            "p83"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 248,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "С каким понятием связывается образ хварна при интерпретации власти сакского вождя?",
+        "en": "With which concept is the image of khvarenah (khvarn) associated in the interpretation of the power of a Saka chieftain?",
+        "kk": "Сақ көсемінің билігін түсіндіргенде хварна бейнесі қандай ұғыммен байланыстырылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обязанность ведения письменного счёта",
+            "en": "The duty of keeping a written account",
+            "kk": "Жазбаша есеп жүргізу міндеті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Военная организация десятичных отрядов",
+            "en": "The military organization of decimal detachments",
+            "kk": "Ондық жасақтардың әскери ұйымы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наследуемое право торговой монополии",
+            "en": "An inherited right of trade monopoly",
+            "kk": "Саудадағы монополияның мұраға қалатын құқығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Харизма божественного избранничества",
+            "en": "The charisma of divine election",
+            "kk": "Құдайдың таңдаулысы болудың харизмасы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обмен жертвенными животными между родами",
+            "en": "The exchange of sacrificial animals between clans",
+            "kk": "Рулар арасында құрбандық малымен алмасу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 83",
+          "units": [
+            "p83"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 249,
+      "topic_id": 10,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите атрибуты иссыкского погребения, сопоставляемые с мифом о Йиме.",
+        "en": "Indicate the attributes of the Issyk burial that are compared with the myth of Yima.",
+        "kk": "Есік жерлеуінің Йима туралы мифпен салыстырылатын атрибуттарын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Серебряная чаша как модель небесного свода",
+            "en": "A silver cup as a model of the vault of heaven",
+            "kk": "Аспан күмбезінің моделі ретіндегі күміс тостаған"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Жезл с золотым наконечником, напоминающим стрелу",
+            "en": "A rod with a gold tip resembling an arrow",
+            "kk": "Ұшы жебеге ұқсайтын алтын ұшты жезл"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Бронзовое зеркало как знак солнечного круга",
+            "en": "A bronze mirror as a sign of the solar disc",
+            "kk": "Күн шеңберінің белгісі ретіндегі қола айна"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Плеть с украшенной золотом рукоятью",
+            "en": "A whip with a gold-decorated handle",
+            "kk": "Сабы алтынмен безендірілген қамшы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Каменный жертвенник с изображением барана",
+            "en": "A stone altar with an image of a ram",
+            "kk": "Қошқар бейнесі бар тас құрбандық орны"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 91",
+          "units": [
+            "p91"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 250,
+      "topic_id": 10,
+      "type": "single_choice",
+      "question": {
+        "ru": "Иссыкская солярная эмблема, сведённая к графической схеме, сопоставляется с...",
+        "en": "The Issyk solar emblem, reduced to a graphic scheme, is compared with...",
+        "kk": "Графикалық схемаға келтірілген Есік күн эмблемасы неге салыстырылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Китайскими календарными таблицами",
+            "en": "Chinese calendar tables",
+            "kk": "Қытайдың күнтізбелік кестелеріне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Царскими тамгами Великих Кушан",
+            "en": "The royal tamgas of the Great Kushans",
+            "kk": "Ұлы Құшанның патшалық тамғаларына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Орхонским алфавитом во всей его последовательности",
+            "en": "The Orkhon alphabet in its entire sequence",
+            "kk": "Орхон әліпбиіне, оның бүкіл дәйектілігінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Буквами согдийского курсива",
+            "en": "The letters of the Sogdian cursive",
+            "kk": "Соғды курсивінің әріптеріне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Печатями городских цехов Саурана",
+            "en": "The seals of the urban guilds of Sauran",
+            "kk": "Сауран қалалық цехтарының мөрлеріне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/К.Акишев о религии саков.docx",
+          "location": "абзац 95",
+          "units": [
+            "p95"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    }
+  ]
+}

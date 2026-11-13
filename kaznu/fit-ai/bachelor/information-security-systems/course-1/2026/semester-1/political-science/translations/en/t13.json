@@ -1,0 +1,158 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 13,
+  "topic_name": "Political Development and Modernization",
+  "questions": {
+    "276": {
+      "question": "In the general model of transition, political modernization means movement...",
+      "options": {
+        "A": "From any state to a stateless society",
+        "B": "From a territorial organization to an exclusively kinship-based one",
+        "C": "From traditional structures to more rationally organized ones",
+        "D": "From representation to mandatory heredity",
+        "E": "From professional administration to a rejection of institutions"
+      }
+    },
+    "277": {
+      "question": "Modernization that develops gradually through internal processes is called...",
+      "options": {
+        "A": "Reversive, or restorative",
+        "B": "Mobilizational, or external",
+        "C": "Secondary, or reflected",
+        "D": "Colonial, or administrative",
+        "E": "Original, or spontaneous"
+      }
+    },
+    "278": {
+      "question": "The main feature of secondary modernization is...",
+      "options": {
+        "A": "Catch-up development drawing on external experience",
+        "B": "A rejection of political participation by the population",
+        "C": "A mandatory coincidence of reforms with revolution",
+        "D": "The exclusive reproduction of traditional orders",
+        "E": "The absence of contact with more developed societies"
+      }
+    },
+    "279": {
+      "question": "Institutionalization means that organizations and procedures acquire...",
+      "options": {
+        "A": "A complete absence of internal rules",
+        "B": "Immunity from any public norms",
+        "C": "Stability and the capacity to change without being destroyed",
+        "D": "An unchanging personal composition of the leadership",
+        "E": "The ability to replace any rights with personal loyalty"
+      }
+    },
+    "280": {
+      "question": "Processes that are part of political modernization:",
+      "options": {
+        "A": "Differentiation and ordering of the functions of power",
+        "B": "Grounding legitimacy mainly in the immutability of a sacred order",
+        "C": "An increased capacity for structural change",
+        "D": "Retaining the former political roles while institutions are formally renewed",
+        "E": "Expansion of political participation"
+      }
+    },
+    "281": {
+      "question": "After the earlier ideals have collapsed, citizens cannot determine their belonging to the political community. This is a crisis of...",
+      "options": {
+        "A": "Identity",
+        "B": "Continuity of offices",
+        "C": "Penetration",
+        "D": "Participation",
+        "E": "Distribution"
+      }
+    },
+    "282": {
+      "question": "The number of people wishing to influence decisions is growing, while the channels of representation remain closed. This is a crisis of...",
+      "options": {
+        "A": "Identity",
+        "B": "Distribution",
+        "C": "Foreign policy balance",
+        "D": "Penetration",
+        "E": "Participation"
+      }
+    },
+    "283": {
+      "question": "The central authority makes decisions, but they are systematically not carried out locally. This is a manifestation of the crisis of...",
+      "options": {
+        "A": "Distribution",
+        "B": "Penetration",
+        "C": "Ideological representation",
+        "D": "Identity",
+        "E": "Participation"
+      }
+    },
+    "284": {
+      "question": "The values of the ruling regime diverge from the majority's ideas of just government. This is a crisis of...",
+      "options": {
+        "A": "Recruitment",
+        "B": "Legitimacy",
+        "C": "Penetration",
+        "D": "Participation",
+        "E": "Territorial differentiation"
+      }
+    },
+    "285": {
+      "question": "Tension over access to benefits and over the costs of reform belongs primarily to the crisis of...",
+      "options": {
+        "A": "Distribution",
+        "B": "Penetration",
+        "C": "Political recruitment",
+        "D": "Identity",
+        "E": "Information selection"
+      }
+    },
+    "286": {
+      "question": "The main contradiction of modernization is connected with...",
+      "options": {
+        "A": "The absence of differences between traditional and modern society",
+        "B": "The impossibility of combining political participation and institutions",
+        "C": "The mandatory coincidence of any reforms with cultural traditions",
+        "D": "Universal goals of transformation versus national-traditional conditions",
+        "E": "The immutability of social roles under any transformation"
+      }
+    },
+    "287": {
+      "question": "Indicate the measures that can alleviate the crisis of participation.",
+      "options": {
+        "A": "Restraining new associations as the main means of institutional renewal",
+        "B": "Preferring appointment to equal access to participation",
+        "C": "Observing equality of political participation",
+        "D": "Developing the representation of new interests",
+        "E": "Entrenching the former channels of representation regardless of changes in group demands"
+      }
+    },
+    "288": {
+      "question": "Demands are growing rapidly, representation is weak, and the implementation of decisions is deteriorating. Which crises are directly combined here?",
+      "options": {
+        "A": "Identity, with no signs of a crisis of participation",
+        "B": "Legitimacy, with no contradictions in representation and implementation",
+        "C": "Penetration",
+        "D": "Participation",
+        "E": "Distribution, with no signs of a crisis of penetration"
+      }
+    },
+    "289": {
+      "question": "Directions that correspond to overcoming the crises of modernization include...",
+      "options": {
+        "A": "Replacing horizontal links with one-way administrative communication",
+        "B": "Unifying organizational forms without assessing their actual stability",
+        "C": "Developing political communications",
+        "D": "Rational organization of the implementation of decisions",
+        "E": "Centralizing the resolution of local issues without delimiting enforceable powers"
+      }
+    },
+    "290": {
+      "question": "Why does the rapid borrowing of formal institutions not in itself guarantee successful modernization?",
+      "options": {
+        "A": "Stable procedures, public consensus-building and attention to local conditions are needed",
+        "B": "Establishing constitutional norms in itself provides the skills of political participation",
+        "C": "The speed with which new norms are adopted is a sufficient indicator of institutional stability",
+        "D": "Agreeing reforms with the opposition is equivalent to preserving the former political functions",
+        "E": "Borrowed forms determine their functions in advance, regardless of the social environment"
+      }
+    }
+  }
+}

@@ -1,0 +1,1637 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 1,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исходный смысл латинского слова cultura, объясняющий переход от обработки земли к воспитанию человека, — это...",
+        "en": "The original meaning of the Latin cultura that explains the shift from the tilling of land to the cultivation of the human being is...",
+        "kk": "Латын тіліндегі cultura сөзінің жерді өңдеуден адамды тәрбиелеуге көшуін түсіндіретін алғашқы мағынасы — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Возделывание и совершенствование",
+            "en": "Cultivation and improvement",
+            "kk": "Өңдеу және жетілдіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сбережение и запоминание",
+            "en": "Preservation and remembering",
+            "kk": "Сақтау және есте сақтау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Подражание и изображение",
+            "en": "Imitation and depiction",
+            "kk": "Еліктеу және бейнелеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Расположение и упорядочение",
+            "en": "Arrangement and ordering",
+            "kk": "Орналастыру және ретке келтіру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обитание и освоение пространства",
+            "en": "Dwelling and settling of space",
+            "kk": "Мекендеу және кеңістікті игеру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 9",
+          "units": [
+            "p9"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 2,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Перенос представления о возделывании на «культуру души» связан с именем...",
+        "en": "The transfer of the notion of cultivation to the \"culture of the soul\" is associated with the name of...",
+        "kk": "Жерді өңдеу туралы түсініктің «жан мәдениетіне» көшірілуі кімнің есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Квинтилиана",
+            "en": "Quintilian",
+            "kk": "Квинтилиан"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эпиктета",
+            "en": "Epictetus",
+            "kk": "Эпиктет"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сенеки",
+            "en": "Seneca",
+            "kk": "Сенека"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Цицерона",
+            "en": "Cicero",
+            "kk": "Цицерон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Лукреция",
+            "en": "Lucretius",
+            "kk": "Лукреций"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 18",
+          "units": [
+            "p18"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 3,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Античное понятие «пайдейя» сближается с культурой прежде всего в значении...",
+        "en": "The ancient Greek concept of \"paideia\" is closest to culture primarily in the sense of...",
+        "kk": "Антикалық «пайдейя» ұғымы мәдениетке ең алдымен қандай мағынада жақындайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Образованности",
+            "en": "Education and learnedness",
+            "kk": "Білімділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Художественного подражания",
+            "en": "Artistic imitation",
+            "kk": "Көркемдік еліктеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Хозяйственного расчёта",
+            "en": "Economic calculation",
+            "kk": "Шаруашылық есеп-қисап"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ритуального очищения",
+            "en": "Ritual purification",
+            "kk": "Ғұрыптық тазару"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гражданского законодательства",
+            "en": "Civil legislation",
+            "kk": "Азаматтық заңнама"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 22",
+          "units": [
+            "p22"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 4,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Оценку культуры Ж.-Ж. Руссо передаёт суждение:",
+        "en": "The statement that conveys J.-J. Rousseau's assessment of culture:",
+        "kk": "Ж.-Ж. Руссоның мәдениетке берген бағасын білдіретін пайымдау:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Развитие культуры выводится из стилистического единства эпохи",
+            "en": "The development of culture is derived from the stylistic unity of an era",
+            "kk": "Мәдениеттің дамуы дәуірдің стильдік бірлігінен туындайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Развитие культуры обязательно совершенствует нравы",
+            "en": "The development of culture necessarily improves morals",
+            "kk": "Мәдениеттің дамуы әрдайым әдеп-ғұрыпты жетілдіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Развитие культуры есть чередование замкнутых организмов",
+            "en": "The development of culture is an alternation of closed organisms",
+            "kk": "Мәдениеттің дамуы тұйық организмдердің кезектесуі болып табылады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Развитие культуры может разрушать естественные человеческие связи",
+            "en": "The development of culture may destroy natural human bonds",
+            "kk": "Мәдениеттің дамуы адамдардың табиғи байланыстарын бұзуы мүмкін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Развитие культуры определяется объёмом освоенной энергии",
+            "en": "The development of culture is determined by the amount of energy harnessed",
+            "kk": "Мәдениеттің дамуы игерілген энергия көлемімен айқындалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 24",
+          "units": [
+            "p24"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 5,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Мыслитель, с именем которого связывают употребление «культуры» как самостоятельного понятия, — это...",
+        "en": "The thinker with whom the use of \"culture\" as an independent concept is associated is...",
+        "kk": "«Мәдениетті» дербес ұғым ретінде қолданумен байланыстырылатын ойшыл — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В. Гумбольдт",
+            "en": "W. von Humboldt",
+            "kk": "В. Гумбольдт"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "И. Фихте",
+            "en": "J. G. Fichte",
+            "kk": "И. Фихте"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "С. Пуфендорф",
+            "en": "S. Pufendorf",
+            "kk": "С. Пуфендорф"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "И. Гердер",
+            "en": "J. G. Herder",
+            "kk": "И. Гердер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В. Оствальд",
+            "en": "W. Ostwald",
+            "kk": "В. Оствальд"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 25",
+          "units": [
+            "p25"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 6,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Верное соответствие мыслителя и его позиции в отношении культуры и цивилизации:",
+        "en": "The correct pairing of a thinker and his position on culture and civilization:",
+        "kk": "Ойшыл мен оның мәдениет пен өркениетке қатысты ұстанымының дұрыс сәйкестігі:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Тайлор проводит границу; Гумбольдт отождествляет понятия",
+            "en": "Tylor draws a boundary between them; Humboldt equates the concepts",
+            "kk": "Тайлор шекара жүргізеді; Гумбольдт ұғымдарды теңестіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Шпенглер проводит границу; Кант отождествляет понятия",
+            "en": "Spengler draws a boundary between them; Kant equates the concepts",
+            "kk": "Шпенглер шекара жүргізеді; Кант ұғымдарды теңестіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гердер проводит границу; Тайлор противопоставляет понятия",
+            "en": "Herder draws a boundary between them; Tylor opposes the concepts",
+            "kk": "Гердер шекара жүргізеді; Тайлор ұғымдарды қарама-қарсы қояды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Кант проводит границу; Шпенглер противопоставляет понятия",
+            "en": "Kant draws a boundary between them; Spengler opposes the concepts",
+            "kk": "Кант шекара жүргізеді; Шпенглер ұғымдарды қарама-қарсы қояды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Фихте проводит границу; Пуфендорф противопоставляет понятия",
+            "en": "Fichte draws a boundary between them; Pufendorf opposes the concepts",
+            "kk": "Фихте шекара жүргізеді; Пуфендорф ұғымдарды қарама-қарсы қояды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 16",
+          "units": [
+            "p16"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 7,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Образ культуры как критического зеркала, в котором человек узнаёт себя, принадлежит...",
+        "en": "The image of culture as a critical mirror in which a person recognizes himself belongs to...",
+        "kk": "Мәдениетті адам өзін танитын сыни айна ретінде бейнелеу кімге тиесілі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Г. Марселю",
+            "en": "G. Marcel",
+            "kk": "Г. Марсель"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ж.-П. Сартру",
+            "en": "J.-P. Sartre",
+            "kk": "Ж.-П. Сартр"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "А. Камю",
+            "en": "A. Camus",
+            "kk": "А. Камю"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "М. Хайдеггеру",
+            "en": "M. Heidegger",
+            "kk": "М. Хайдеггер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "К. Ясперсу",
+            "en": "K. Jaspers",
+            "kk": "К. Ясперс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 20",
+          "units": [
+            "p20"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 8,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Толкование культуры как «почитания света» представлено как интерпретация...",
+        "en": "The interpretation of culture as \"the veneration of light\" is presented as an interpretation by...",
+        "kk": "Мәдениетті «жарыққа табынушылық» деп түсіндіру кімнің пайымдауы ретінде берілген?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В. Соловьёва",
+            "en": "V. Solovyov",
+            "kk": "В. Соловьёв"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "П. Флоренского",
+            "en": "P. Florensky",
+            "kk": "П. Флоренский"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Н. Бердяева",
+            "en": "N. Berdyaev",
+            "kk": "Н. Бердяев"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "С. Булгакова",
+            "en": "S. Bulgakov",
+            "kk": "С. Булгаков"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Н. Рериха",
+            "en": "N. Roerich",
+            "kk": "Н. Рерих"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 21",
+          "units": [
+            "p21"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 9,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что позволяет совместить природные предпосылки культуры с её надприродным характером?",
+        "en": "What makes it possible to reconcile the natural prerequisites of culture with its supernatural character?",
+        "kk": "Мәдениеттің табиғи алғышарттарын оның табиғаттан тыс сипатымен үйлестіруге не мүмкіндік береді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социальная организация воспроизводит строение биологического организма",
+            "en": "Social organization reproduces the structure of a biological organism",
+            "kk": "Әлеуметтік ұйым биологиялық организмнің құрылымын қайталайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Разделение труда само по себе отменяет природную зависимость человека",
+            "en": "The division of labour in itself abolishes human dependence on nature",
+            "kk": "Еңбек бөлінісінің өзі адамның табиғатқа тәуелділігін жояды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Природный творец выходит в деятельности за пределы инстинкта",
+            "en": "A natural creator goes beyond instinct in his activity",
+            "kk": "Табиғи жаратушы іс-әрекетінде түйсіктен тыс шығады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Культурные нормы представляют наследуемые формы видового поведения",
+            "en": "Cultural norms represent inherited forms of species behaviour",
+            "kk": "Мәдени нормалар түрге тән мінез-құлықтың тұқым қуалайтын түрлерін білдіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Преобразование среды меняет орудия, сохраняя природную мотивацию",
+            "en": "The transformation of the environment changes tools while preserving natural motivation",
+            "kk": "Ортаны қайта өзгерту табиғи уәжді сақтай отырып, құралдарды өзгертеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзацы 10–11",
+          "units": [
+            "p10",
+            "p11"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 10,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему оставленные экспедицией зола и сломанные ветви могут рассматриваться как культурные феномены?",
+        "en": "Why can the ashes and broken branches left behind by an expedition be regarded as cultural phenomena?",
+        "kk": "Экспедиция қалдырған күл мен сынған бұтақтарды неліктен мәдени құбылыс деп қарастыруға болады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Они обладают общей символикой, закреплённой ритуалом экспедиции",
+            "en": "They possess shared symbolism fixed by the expedition's ritual",
+            "kk": "Оларда экспедиция ғұрпымен бекітілген ортақ рәміздік мағына бар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Они фиксируют человеческое вмешательство в природную среду",
+            "en": "They record human intervention in the natural environment",
+            "kk": "Олар адамның табиғи ортаға араласқанын тіркейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Они являются документальным сообщением с установленным кодом",
+            "en": "They are a documentary message with an established code",
+            "kk": "Олар белгілі бір кодпен берілген құжаттық хабарлама болып табылады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Они образуют намеренно созданное художественное высказывание",
+            "en": "They constitute a deliberately created artistic statement",
+            "kk": "Олар әдейі жасалған көркемдік шығарма болып табылады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Они воплощают специально отобранные обществом ценностные образцы",
+            "en": "They embody value models specially selected by society",
+            "kk": "Олар қоғам арнайы таңдаған құндылық үлгілерін бейнелейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 26",
+          "units": [
+            "p26"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 11,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как соотносятся образование, воспитание и культура?",
+        "en": "How are education, upbringing and culture related?",
+        "kk": "Білім беру, тәрбие және мәдениет өзара қалай байланысады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Образование заменяет культурную преемственность индивидуальным опытом",
+            "en": "Education replaces cultural continuity with individual experience",
+            "kk": "Білім беру мәдени сабақтастықты жеке тәжірибемен алмастырады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Овладение культурой предшествует любому взаимодействию с обществом",
+            "en": "Mastery of culture precedes any interaction with society",
+            "kk": "Мәдениетті меңгеру қоғаммен кез келген өзара әрекеттен бұрын болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Образование производит культуру, а воспитание воспроизводит биологические свойства",
+            "en": "Education produces culture, while upbringing reproduces biological properties",
+            "kk": "Білім беру мәдениетті өндіреді, ал тәрбие биологиялық қасиеттерді қайта туғызады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Воспитание передаёт культуру, а образование действует за её пределами",
+            "en": "Upbringing transmits culture, while education operates outside it",
+            "kk": "Тәрбие мәдениетті береді, ал білім беру оның шегінен тыс әрекет етеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Образование и воспитание обеспечивают овладение ранее созданной культурой",
+            "en": "Education and upbringing ensure the mastery of previously created culture",
+            "kk": "Білім беру мен тәрбие бұрын жасалған мәдениетті меңгеруді қамтамасыз етеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 31",
+          "units": [
+            "p31"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 12,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Главная функция культуры, из которой выводятся остальные, называется...",
+        "en": "The main function of culture, from which all the others are derived, is called the...",
+        "kk": "Қалған функциялар содан туындайтын мәдениеттің басты функциясы қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Регулятивной",
+            "en": "Regulative function",
+            "kk": "Реттеуші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Информационной",
+            "en": "Informational function",
+            "kk": "Ақпараттық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Аксиологической",
+            "en": "Axiological function",
+            "kk": "Аксиологиялық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Семиотической",
+            "en": "Semiotic function",
+            "kk": "Семиотикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Человекотворческой",
+            "en": "Humanistic (human-shaping) function",
+            "kk": "Адамды қалыптастырушы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 110",
+          "units": [
+            "p110"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 13,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "С каким названием отождествляется функция исторической преемственности?",
+        "en": "Which name is identified with the function of historical continuity?",
+        "kk": "Тарихи сабақтастық функциясы қандай атаумен сәйкестендіріледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Оценочная",
+            "en": "Evaluative",
+            "kk": "Бағалау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Информационная",
+            "en": "Informational",
+            "kk": "Ақпараттық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нормативная",
+            "en": "Normative",
+            "kk": "Нормативтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Познавательная",
+            "en": "Cognitive",
+            "kk": "Танымдық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Семиотическая",
+            "en": "Semiotic",
+            "kk": "Семиотикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 111",
+          "units": [
+            "p111"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 14,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Культурная память отличается от пассивного склада сведений...",
+        "en": "Cultural memory differs from a passive store of information...",
+        "kk": "Мәдени жады деректердің енжар қоймасынан мынамен ерекшеленеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Полным воспроизведением первоначальной формы любого обычая",
+            "en": "By the complete reproduction of the original form of any custom",
+            "kk": "Кез келген әдет-ғұрыптың бастапқы түрін толық қайталаумен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Преимущественной фиксацией событий в официальных документах",
+            "en": "By the predominant recording of events in official documents",
+            "kk": "Оқиғаларды негізінен ресми құжаттарда тіркеумен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательной заменой устного наследования письменными архивами",
+            "en": "By the obligatory replacement of oral inheritance with written archives",
+            "kk": "Ауызша мұраны жазбаша архивтермен міндетті түрде алмастырумен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отбором и активной передачей значимых образцов",
+            "en": "By the selection and active transmission of significant models",
+            "kk": "Маңызды үлгілерді іріктеп, белсенді түрде жеткізумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сохранением всех сведений с одинаковым общественным приоритетом",
+            "en": "By the preservation of all information with equal social priority",
+            "kk": "Барлық деректерді бірдей қоғамдық басымдықпен сақтаумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 113",
+          "units": [
+            "p113"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 15,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Накопление опыта многих поколений создаёт условия познания мира. Какая функция культуры раскрыта в этом положении?",
+        "en": "The accumulation of the experience of many generations creates the conditions for knowing the world. Which function of culture is revealed in this statement?",
+        "kk": "Көптеген ұрпақтың тәжірибесін жинақтау дүниені тану үшін жағдай жасайды. Бұл тұжырымда мәдениеттің қандай функциясы ашылған?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Регулятивная",
+            "en": "Regulative",
+            "kk": "Реттеуші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Оценочная",
+            "en": "Evaluative",
+            "kk": "Бағалау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Познавательная",
+            "en": "Cognitive",
+            "kk": "Танымдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Человекотворческая",
+            "en": "Humanistic (human-shaping)",
+            "kk": "Адамды қалыптастырушы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Информационная",
+            "en": "Informational",
+            "kk": "Ақпараттық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 114",
+          "units": [
+            "p114"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 16,
+      "topic_id": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Назовите нормативные системы, на которые прежде всего опирается регулятивная функция культуры.",
+        "en": "Name the normative systems on which the regulative function of culture primarily relies.",
+        "kk": "Мәдениеттің реттеуші функциясы ең алдымен сүйенетін нормативтік жүйелерді атаңыз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Научная парадигма",
+            "en": "The scientific paradigm",
+            "kk": "Ғылыми парадигма"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эстетический канон",
+            "en": "The aesthetic canon",
+            "kk": "Эстетикалық канон"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Мифологический сюжет",
+            "en": "The mythological plot",
+            "kk": "Мифологиялық сюжет"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мораль",
+            "en": "Morality",
+            "kk": "Адамгершілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Право",
+            "en": "Law",
+            "kk": "Құқық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 116",
+          "units": [
+            "p116"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 17,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Условие освоения искусства и науки, которое подчёркивает семиотическая функция культуры, — это...",
+        "en": "The condition for mastering art and science that the semiotic function of culture emphasizes is...",
+        "kk": "Мәдениеттің семиотикалық функциясы айқындайтын өнер мен ғылымды игерудің шарты — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Накопление сведений об исторической среде произведения",
+            "en": "Accumulation of knowledge about the historical environment of a work",
+            "kk": "Шығарманың тарихи ортасы туралы мәліметтерді жинақтау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Владение специальными знаковыми системами",
+            "en": "Command of specific sign systems",
+            "kk": "Арнайы таңбалық жүйелерді меңгеру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Согласование личного опыта с общественным идеалом",
+            "en": "Reconciling personal experience with the social ideal",
+            "kk": "Жеке тәжірибені қоғамдық мұратпен келістіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Принятие общей иерархии художественных ценностей",
+            "en": "Acceptance of a shared hierarchy of artistic values",
+            "kk": "Көркемдік құндылықтардың ортақ иерархиясын қабылдау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Признание нормативного авторитета культурного института",
+            "en": "Recognition of the normative authority of a cultural institution",
+            "kk": "Мәдени институттың нормативтік беделін мойындау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 117",
+          "units": [
+            "p117"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 18,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Формирование ценностных потребностей и ориентаций человека выражает функцию...",
+        "en": "The formation of a person's value needs and orientations expresses the ... function.",
+        "kk": "Адамның құндылықтық қажеттіліктері мен бағдарларының қалыптасуы мәдениеттің қай функциясын білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Познавательную",
+            "en": "Cognitive",
+            "kk": "Танымдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Аксиологическую",
+            "en": "Axiological",
+            "kk": "Аксиологиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Семиотическую",
+            "en": "Semiotic",
+            "kk": "Семиотикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Информационную",
+            "en": "Informational",
+            "kk": "Ақпараттық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Коммуникативную",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 118",
+          "units": [
+            "p118"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 19,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Предмет оценки, соответствующий оценочной функции, — это...",
+        "en": "The object of assessment that corresponds to the evaluative function is...",
+        "kk": "Бағалау функциясына сәйкес келетін баға объектісі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Соответствие личных предпочтений иерархии признанных ценностей",
+            "en": "The conformity of personal preferences to a hierarchy of recognized values",
+            "kk": "Жеке қалаулардың мойындалған құндылықтар иерархиясына сәйкестігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Достоверность сообщения о событиях культурного прошлого",
+            "en": "The reliability of a report on events of the cultural past",
+            "kk": "Мәдени өткен туралы хабарламаның шынайылығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Влияние культурных форм на социальные и духовные качества личности",
+            "en": "The influence of cultural forms on a person's social and spiritual qualities",
+            "kk": "Мәдени нысандардың тұлғаның әлеуметтік және рухани қасиеттеріне әсері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Согласованность поведения человека с действующими нормами",
+            "en": "The consistency of a person's behaviour with prevailing norms",
+            "kk": "Адам мінез-құлқының қолданыстағы нормаларға сәйкестігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эффективность передачи социального опыта между поколениями",
+            "en": "The effectiveness of the transmission of social experience between generations",
+            "kk": "Әлеуметтік тәжірибені ұрпақтар арасында жеткізудің тиімділігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 119",
+          "units": [
+            "p119"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 20,
+      "topic_id": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К общим закономерностям культурного развития относятся...",
+        "en": "The general regularities of cultural development include...",
+        "kk": "Мәдени дамудың жалпы заңдылықтарына мыналар жатады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Зависимость культурного события от предшествующих событий",
+            "en": "The dependence of a cultural event on preceding events",
+            "kk": "Мәдени оқиғаның алдыңғы оқиғаларға тәуелділігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Возможное несовпадение ритмов экономической и культурной жизни",
+            "en": "The possible mismatch between the rhythms of economic and cultural life",
+            "kk": "Экономикалық және мәдени өмір ырғақтарының сәйкес келмеуі мүмкін болуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Единая последовательность стратегических факторов у всех народов",
+            "en": "A single sequence of strategic factors among all peoples",
+            "kk": "Барлық халықтарда стратегиялық факторлардың бірыңғай жүйелілігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Одинаковая скорость преобразования материальных и духовных форм",
+            "en": "The same speed of transformation of material and spiritual forms",
+            "kk": "Материалдық және рухани нысандардың өзгеру жылдамдығының бірдейлігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прямое соответствие технического роста нравственному совершенствованию",
+            "en": "A direct correspondence between technical growth and moral improvement",
+            "kk": "Техникалық өсудің имандылық жетілуімен тікелей сәйкестігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 123",
+          "units": [
+            "p123"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 21,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Стратегическая переменная» в развитии культуры означает...",
+        "en": "The \"strategic variable\" in the development of culture means...",
+        "kk": "Мәдениет дамуындағы «стратегиялық айнымалы» мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сумму случайных изменений, лишённых культурных последствий",
+            "en": "A sum of random changes devoid of cultural consequences",
+            "kk": "Мәдени салдары жоқ кездейсоқ өзгерістердің жиынтығын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальное предпочтение, не связанное с жизнью общества",
+            "en": "An individual preference unconnected with the life of society",
+            "kk": "Қоғам өмірімен байланысы жоқ жеке қалауды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Фактор, приобретающий особую значимость в данных исторических условиях",
+            "en": "A factor that acquires special significance under given historical conditions",
+            "kk": "Берілген тарихи жағдайда ерекше маңызға ие болатын факторды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Единую причину, одинаково действующую у всех народов",
+            "en": "A single cause acting equally among all peoples",
+            "kk": "Барлық халықтарға бірдей әсер ететін бірыңғай себепті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Неизменный набор ценностей всех культурно-исторических типов",
+            "en": "An unchanging set of values of all cultural-historical types",
+            "kk": "Барлық мәдени-тарихи типтердегі құндылықтардың өзгермейтін жиынтығын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 124",
+          "units": [
+            "p124"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 22,
+      "topic_id": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К наиболее устойчивой стороне культуры относятся:",
+        "en": "The most stable side of culture includes:",
+        "kk": "Мәдениеттің ең тұрақты жағына мыналар жатады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Художественные манифесты новых школ",
+            "en": "Artistic manifestos of new schools",
+            "kk": "Жаңа мектептердің көркемдік манифестері"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Программные проекты общественного переустройства",
+            "en": "Programmatic projects for social reconstruction",
+            "kk": "Қоғамды қайта құрудың бағдарламалық жобалары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обряды и обычаи",
+            "en": "Rites and customs",
+            "kk": "Ғұрыптар мен әдет-ғұрыптар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Привычные ценности и нормы",
+            "en": "Habitual values and norms",
+            "kk": "Үйреншікті құндылықтар мен нормалар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Экспериментальные технические приёмы",
+            "en": "Experimental technical methods",
+            "kk": "Эксперименттік техникалық тәсілдер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 125",
+          "units": [
+            "p125"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 23,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое соответствие культурного носителя и линии развития ошибочно?",
+        "en": "Which pairing of a cultural bearer and a line of development is incorrect?",
+        "kk": "Мәдени тасымалдаушы мен даму сызығының қай сәйкестігі қате?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Научное творчество: новаторская линия культуры",
+            "en": "Scientific creativity: the innovative line of culture",
+            "kk": "Ғылыми шығармашылық: мәдениеттің жаңашыл сызығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Крестьянство: сохранение устойчивых традиционных образцов",
+            "en": "The peasantry: preservation of stable traditional models",
+            "kk": "Шаруалар: тұрақты дәстүрлі үлгілерді сақтау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Народный менталитет: устойчивость к внешним влияниям",
+            "en": "The popular mentality: resistance to external influences",
+            "kk": "Халықтық менталитет: сыртқы ықпалға төзімділік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Крестьянство: ведущий носитель научно-технического новаторства",
+            "en": "The peasantry: the leading bearer of scientific and technological innovation",
+            "kk": "Шаруалар: ғылыми-техникалық жаңашылдықтың жетекші тасымалдаушысы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Город: центр научно-технических новаций",
+            "en": "The city: a centre of scientific and technological innovation",
+            "kk": "Қала: ғылыми-техникалық жаңалықтар орталығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзацы 125–126",
+          "units": [
+            "p125",
+            "p126"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 24,
+      "topic_id": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Идеал человека, соответствующий эпохе Возрождения, — это...",
+        "en": "The ideal of the human being that corresponds to the Renaissance is...",
+        "kk": "Қайта өрлеу дәуіріне сәйкес келетін адам мұраты — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Всесторонне развитая личность со свободой выбора жизненного пути",
+            "en": "A fully developed personality with freedom to choose a path in life",
+            "kk": "Өмір жолын таңдау еркіндігі бар жан-жақты дамыған тұлға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исполнитель наследуемой функции в неизменном порядке",
+            "en": "A performer of an inherited function within an unchanging order",
+            "kk": "Өзгермейтін тәртіпте мұрагерлікпен берілген функцияны орындаушы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Человек, добившийся успеха благодаря личным заслугам",
+            "en": "A person who has achieved success through personal merit",
+            "kk": "Жеке еңбегінің арқасында табысқа жеткен адам"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Религиозный подвижник, отрицающий чувственные наслаждения",
+            "en": "A religious ascetic who rejects sensual pleasures",
+            "kk": "Сезімдік ләззаттан бас тартатын діни тақуа"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гражданин с физическим совершенством и радостным познанием мира",
+            "en": "A citizen of physical perfection and joyful knowledge of the world",
+            "kk": "Дене кемелдігі бар және әлемді қуана танитын азамат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 127",
+          "units": [
+            "p127"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 25,
+      "topic_id": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия культурологической дисциплины и её задачи.",
+        "en": "Indicate the correct pairings of a cultural-studies discipline and its task.",
+        "kk": "Мәдениеттанулық пән мен оның міндетінің дұрыс сәйкестіктерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "История культуры: описание конкретно-исторического развития",
+            "en": "History of culture: description of concrete historical development",
+            "kk": "Мәдениет тарихы: нақты тарихи дамуды сипаттау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Теория культуры: исключительно датировка археологических находок",
+            "en": "Theory of culture: exclusively the dating of archaeological finds",
+            "kk": "Мәдениет теориясы: тек археологиялық олжаларды мерзімдеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Философия культуры: исключительно статистика культурного потребления",
+            "en": "Philosophy of culture: exclusively statistics of cultural consumption",
+            "kk": "Мәдениет философиясы: тек мәдени тұтыну статистикасы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "История культуры: установление универсальных биологических законов",
+            "en": "History of culture: establishing universal biological laws",
+            "kk": "Мәдениет тарихы: әмбебап биологиялық заңдарды анықтау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Философия культуры: выбор общих познавательных ориентиров",
+            "en": "Philosophy of culture: choosing general cognitive orientations",
+            "kk": "Мәдениет философиясы: жалпы танымдық бағдарларды таңдау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Куль турология как наука презентация.pptx",
+          "location": "слайд 7",
+          "units": [
+            "s7"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    }
+  ]
+}

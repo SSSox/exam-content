@@ -1,0 +1,1719 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 106,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чувственный образ предмета, воспринятого ранее и сейчас отсутствующего, называется...",
+        "en": "A sensory image of an object that was perceived earlier and is now absent is called...",
+        "kk": "Бұрын қабылданған және қазір жоқ заттың сезімдік бейнесі не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ощущением",
+            "en": "A sensation",
+            "kk": "Түйсік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Перцептивным образом",
+            "en": "A perceptual image",
+            "kk": "Перцептивті бейне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Понятием",
+            "en": "A concept",
+            "kk": "Ұғым"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Представлением",
+            "en": "A mental representation",
+            "kk": "Елес"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Суждением",
+            "en": "A judgment",
+            "kk": "Пайым"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные основания классификации видов памяти:",
+        "en": "Correct bases for classifying types of memory:",
+        "kk": "Ес түрлерін жіктеудің дұрыс негіздері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Степень групповой сплочённости",
+            "en": "The degree of group cohesion",
+            "kk": "Топтық ұйымшылдық дәрежесі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тип межличностного конфликта",
+            "en": "The type of interpersonal conflict",
+            "kk": "Тұлғааралық қақтығыс типі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Характер целей деятельности",
+            "en": "The nature of the goals of activity",
+            "kk": "Әрекет мақсаттарының сипаты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Продолжительность сохранения информации",
+            "en": "The duration of information retention",
+            "kk": "Ақпаратты сақтау ұзақтығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Характер психической активности",
+            "en": "The nature of mental activity",
+            "kk": "Психикалық белсенділіктің сипаты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 10, 11, 12",
+          "units": [
+            "p10",
+            "p11",
+            "p12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое свойство отличает сенсорную память от кратковременной?",
+        "en": "Which property distinguishes sensory memory from short-term memory?",
+        "kk": "Қандай қасиет сенсорлық есті қысқа мерзімді естен ажыратады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сознательное восстановление жизненных событий",
+            "en": "Conscious recollection of life events",
+            "kk": "Өмірлік оқиғаларды саналы түрде қалпына келтіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Планомерное произвольное заучивание",
+            "en": "Systematic voluntary memorization",
+            "kk": "Жоспарлы ерікті жаттау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Длительное хранение профессиональных знаний",
+            "en": "Long-term storage of professional knowledge",
+            "kk": "Кәсіби білімді ұзақ сақтау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательная смысловая категоризация материала",
+            "en": "Obligatory semantic categorization of material",
+            "kk": "Материалды міндетті түрде мағыналық категориялау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Связь с инерционным сохранением сенсорного следа",
+            "en": "A link with the inertial persistence of a sensory trace",
+            "kk": "Сенсорлық ізді инерциялық сақтаумен байланыстылығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 13, 14",
+          "units": [
+            "p13",
+            "p14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Человек не может быстро назвать известную ему фамилию. Какое заключение обоснованно?",
+        "en": "A person cannot quickly recall a surname they know. Which conclusion is justified?",
+        "kk": "Адам өзіне белгілі тегін тез ата алмайды. Қандай қорытынды негізді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сбой извлечения исключает узнавание",
+            "en": "A retrieval failure rules out recognition",
+            "kk": "Шығарып алудағы іркіліс танудың болмауына әкеледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Долговременное хранение обеспечивает мгновенный доступ",
+            "en": "Long-term storage ensures instant access",
+            "kk": "Ұзақ мерзімді сақтау лезде қол жеткізуді қамтамасыз етеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Недоступность извлечения не доказывает утрату хранения",
+            "en": "Failure of retrieval does not prove that storage has been lost",
+            "kk": "Шығарып алудың мүмкін болмауы сақтаудың жоғалғанын дәлелдемейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Неудача извлечения доказывает отсутствие следа",
+            "en": "Failure of retrieval proves that no trace exists",
+            "kk": "Шығарып алудағы сәтсіздік ізтің жоқтығын дәлелдейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Организация материала не влияет на доступность",
+            "en": "The organization of material does not affect accessibility",
+            "kk": "Материалдың ұйымдасуы қолжетімділікке әсер етпейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 17",
+          "units": [
+            "p17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Память на значения понятий и содержание усвоенных знаний называется...",
+        "en": "Memory for the meanings of concepts and for the content of acquired knowledge is called... memory.",
+        "kk": "Ұғымдардың мәндері мен меңгерілген білімнің мазмұнына арналған ес қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эпизодической",
+            "en": "Episodic",
+            "kk": "Эпизодтық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Двигательной",
+            "en": "Motor",
+            "kk": "Қозғалыстық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сенсорной",
+            "en": "Sensory",
+            "kk": "Сенсорлық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Семантической",
+            "en": "Semantic",
+            "kk": "Семантикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эмоциональной",
+            "en": "Emotional",
+            "kk": "Эмоциялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 58, 78",
+          "units": [
+            "p58",
+            "p78"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Воспоминание о собственном первом дне в университете преимущественно относится к памяти...",
+        "en": "The recollection of one's own first day at university belongs mainly to... memory.",
+        "kk": "Университеттегі өзінің алғашқы күні туралы естелік негізінен қандай еске жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Двигательной",
+            "en": "Motor",
+            "kk": "Қозғалыстық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сенсорной",
+            "en": "Sensory",
+            "kk": "Сенсорлық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Семантической",
+            "en": "Semantic",
+            "kk": "Семантикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эпизодической",
+            "en": "Episodic",
+            "kk": "Эпизодтық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Генетической",
+            "en": "Genetic",
+            "kk": "Генетикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 58",
+          "units": [
+            "p58"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия видов памяти:",
+        "en": "Correct correspondences between types of memory:",
+        "kk": "Ес түрлерінің дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Семантическая: исключительно мышечные усилия",
+            "en": "Semantic: exclusively muscular effort",
+            "kk": "Семантикалық: тек бұлшықет күші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Словесно-логическая: мысли и смысловые связи",
+            "en": "Verbal-logical: thoughts and semantic connections",
+            "kk": "Сөздік-логикалық: ойлар мен мағыналық байланыстар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Образная: только наследственные программы",
+            "en": "Imaginal: only hereditary programs",
+            "kk": "Бейнелік: тек тұқым қуалайтын бағдарламалар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Двигательная: последовательность освоенных движений",
+            "en": "Motor: a sequence of mastered movements",
+            "kk": "Қозғалыстық: меңгерілген қимылдардың реттілігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эмоциональная: пережитые состояния",
+            "en": "Emotional: experienced states",
+            "kk": "Эмоциялық: бастан кешкен күйлер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 75, 76, 77, 78",
+          "units": [
+            "p75",
+            "p76",
+            "p77",
+            "p78"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Запоминание материала посредством понимания связей между его частями является...",
+        "en": "Memorizing material by understanding the connections between its parts is... memorization.",
+        "kk": "Материалды оның бөліктері арасындағы байланысты түсіну арқылы есте сақтау қандай есте жүзеге асады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Генетическим",
+            "en": "Genetic",
+            "kk": "Генетикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сенсорным",
+            "en": "Sensory",
+            "kk": "Сенсорлық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Логическим",
+            "en": "Logical",
+            "kk": "Логикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Механическим",
+            "en": "Rote (mechanical)",
+            "kk": "Механикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непроизвольным двигательным",
+            "en": "Involuntary motor",
+            "kk": "Еріксіз қозғалыстық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 80, 82",
+          "units": [
+            "p80",
+            "p82"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сохранённый опыт влияет на выполнение задания, хотя человек не осознаёт его извлечение. Это проявление памяти...",
+        "en": "Stored experience influences performance on a task although the person is not aware of retrieving it. This is a manifestation of... memory.",
+        "kk": "Сақталған тәжірибе тапсырманы орындауға әсер етеді, бірақ адам оны шығарып алғанын сезбейді. Бұл қандай естің көрінісі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Имплицитной",
+            "en": "Implicit",
+            "kk": "Имплициттік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эпизодической произвольной",
+            "en": "Voluntary episodic",
+            "kk": "Эпизодтық ерікті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эксплицитной",
+            "en": "Explicit",
+            "kk": "Эксплициттік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Автобиографической рефлексивной",
+            "en": "Reflective autobiographical",
+            "kk": "Автобиографиялық рефлексивті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Словесно-логической произвольной",
+            "en": "Voluntary verbal-logical",
+            "kk": "Сөздік-логикалық ерікті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 84, 86",
+          "units": [
+            "p84",
+            "p86"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Студент заранее ставит цель выучить термины и применяет специальные приёмы. Память по цели деятельности...",
+        "en": "A student sets himself the goal of learning terms in advance and uses special techniques. By the goal of activity, this is... memory.",
+        "kk": "Студент терминдерді жаттау мақсатын алдын ала қояды және арнайы тәсілдерді қолданады. Әрекет мақсаты бойынша бұл қандай ес?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эмоциональная",
+            "en": "Emotional",
+            "kk": "Эмоциялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Образная",
+            "en": "Imaginal",
+            "kk": "Бейнелік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Имплицитная",
+            "en": "Implicit",
+            "kk": "Имплициттік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Произвольная",
+            "en": "Voluntary",
+            "kk": "Ерікті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непроизвольная",
+            "en": "Involuntary",
+            "kk": "Еріксіз"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 87, 88, 89",
+          "units": [
+            "p87",
+            "p88",
+            "p89"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Извлечение прошлого опыта при повторном предъявлении самого объекта называется...",
+        "en": "The retrieval of past experience when the object itself is presented again is called...",
+        "kk": "Өткен тәжірибені нысанның өзі қайта көрсетілгенде жаңғырту не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Абстрагированием",
+            "en": "Abstraction",
+            "kk": "Абстракциялау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обобщением",
+            "en": "Generalization",
+            "kk": "Жалпылау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Припоминанием",
+            "en": "Recall",
+            "kk": "Еске түсіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Воображением",
+            "en": "Imagination",
+            "kk": "Қиял"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Узнаванием",
+            "en": "Recognition",
+            "kk": "Тану"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 69",
+          "units": [
+            "p69"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "topic_id": 6,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные положения о процессах памяти.",
+        "en": "Identify the correct statements about memory processes.",
+        "kk": "Ес процестері туралы дұрыс тұжырымдарды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Воспроизведение возможно без предъявления самого объекта",
+            "en": "Reproduction is possible without the object itself being presented",
+            "kk": "Қайта жаңғырту нысанның өзі көрсетілмей де мүмкін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Запечатление начинается только после забывания",
+            "en": "Encoding begins only after forgetting",
+            "kk": "Таңбалау тек ұмытудан кейін басталады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Хранение тождественно осознанному припоминанию",
+            "en": "Storage is identical to conscious recall",
+            "kk": "Сақтау саналы еске түсірумен бірдей"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Забывание исключает любое последующее узнавание",
+            "en": "Forgetting rules out any subsequent recognition",
+            "kk": "Ұмыту кейінгі кез келген танылуды жоққа шығарады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Узнавание предполагает наличие воспринимаемого объекта",
+            "en": "Recognition presupposes the presence of the perceived object",
+            "kk": "Тану қабылданатын нысанның болуын көздейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 56, 59, 69",
+          "units": [
+            "p56",
+            "p59",
+            "p69"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Расположение понятий по уровням «род: вид: подвид» реализует организацию памяти...",
+        "en": "Arranging concepts by levels of \"genus: species: subspecies\" implements... organization of memory.",
+        "kk": "Ұғымдарды «туыс: түр: кіші түр» деңгейлері бойынша орналастыру естің қандай ұйымдасуын жүзеге асырады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Пространственную",
+            "en": "Spatial",
+            "kk": "Кеңістіктік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ассоциативную по смежности",
+            "en": "Associative by contiguity",
+            "kk": "Іргелестік бойынша ассоциативті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Хронологическую",
+            "en": "Chronological",
+            "kk": "Хронологиялық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Последовательно-серийную",
+            "en": "Serial",
+            "kk": "Дәйекті-сериялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Иерархическую",
+            "en": "Hierarchical",
+            "kk": "Иерархиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 62, 63, 64",
+          "units": [
+            "p62",
+            "p63",
+            "p64"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Использование знакомого маршрута и опорных мест для запоминания реализует организацию...",
+        "en": "Using a familiar route and landmark places for memorization implements... organization.",
+        "kk": "Есте сақтау үшін таныс бағыт пен тірек орындарды пайдалану естің қандай ұйымдасуын жүзеге асырады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Хронологическую",
+            "en": "Chronological",
+            "kk": "Хронологиялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Пространственную",
+            "en": "Spatial",
+            "kk": "Кеңістіктік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ассоциативную по сходству",
+            "en": "Associative by similarity",
+            "kk": "Ұқсастық бойынша ассоциативті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Иерархическую",
+            "en": "Hierarchical",
+            "kk": "Иерархиялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Родовую категориальную",
+            "en": "Generic categorical",
+            "kk": "Туыстық категориялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 62",
+          "units": [
+            "p62"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Бессмысленные слоги в опытах Г. Эббингауза позволяли прежде всего...",
+        "en": "Nonsense syllables in H. Ebbinghaus's experiments made it possible primarily to...",
+        "kk": "Г. Эббингауз тәжірибелеріндегі мағынасыз буындар ең алдымен нені мүмкін етті?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Снизить влияние прежних смысловых связей",
+            "en": "Reduce the influence of earlier semantic connections",
+            "kk": "Бұрынғы мағыналық байланыстардың әсерін азайтуды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Заменить заучивание процедурой узнавания",
+            "en": "Replace memorization with a recognition procedure",
+            "kk": "Жаттауды тану рәсімімен алмастыруды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Проверить только понимание связного текста",
+            "en": "Test only the understanding of connected text",
+            "kk": "Тек байланысты мәтінді түсінуді тексеруді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исследовать исключительно двигательную память",
+            "en": "Investigate exclusively motor memory",
+            "kk": "Тек қозғалыстық есті зерттеуді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Усилить влияние автобиографических воспоминаний",
+            "en": "Strengthen the influence of autobiographical memories",
+            "kk": "Автобиографиялық естеліктердің әсерін күшейтуді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 100",
+          "units": [
+            "p100"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "topic_id": 6,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое ограничение объяснения памяти только ассоциациями обнаруживает преимущество осмысленного текста?",
+        "en": "Which limitation of explaining memory solely through associations is revealed by the advantage of meaningful text?",
+        "kk": "Естің тек ассоциациялармен түсіндірілуінің қандай шектеуін мағыналы мәтіннің артықшылығы көрсетеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Невозможность экспериментально исследовать забывание",
+            "en": "The impossibility of studying forgetting experimentally",
+            "kk": "Ұмытуды эксперименттік зерттеудің мүмкін еместігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключительно наследственный характер запоминания",
+            "en": "The exclusively hereditary nature of memorization",
+            "kk": "Есте сақтаудың тек тұқым қуалайтын сипатын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Недостаточный учёт содержательной организации и активности субъекта",
+            "en": "Insufficient account of content-based organization and of the activity of the subject",
+            "kk": "Мазмұндық ұйымдасу мен субъект белсенділігінің жеткіліксіз ескерілуін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Полная независимость памяти от прошлого опыта",
+            "en": "The complete independence of memory from past experience",
+            "kk": "Естің өткен тәжірибеден толық тәуелсіздігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствие связи между повторением и сохранением",
+            "en": "The absence of a link between repetition and retention",
+            "kk": "Қайталау мен сақтау арасында байланыстың жоқтығын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 43, 101, 102",
+          "units": [
+            "p43",
+            "p101",
+            "p102"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Преимущественное запоминание прерванных заданий в классических исследованиях известно как эффект...",
+        "en": "The better memory for interrupted tasks in classic studies is known as the... effect.",
+        "kk": "Классикалық зерттеулерде үзілген тапсырмалардың басым есте қалуы қандай эффект ретінде белгілі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интерференции",
+            "en": "Interference",
+            "kk": "Интерференция эффектісі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Края",
+            "en": "Recency",
+            "kk": "Шеткі эффект"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Плато",
+            "en": "Plateau",
+            "kk": "Плато эффектісі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Зейгарник",
+            "en": "Zeigarnik",
+            "kk": "Зейгарник эффектісі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Реминисценции",
+            "en": "Reminiscence",
+            "kk": "Реминисценция эффектісі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 45, 120",
+          "units": [
+            "p45",
+            "p120"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения, отражающие гештальтподход к памяти:",
+        "en": "Statements that reflect the Gestalt approach to memory:",
+        "kk": "Ес туралы гештальт тәсілін көрсететін тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Смысл материала полностью сводится к числу повторений",
+            "en": "The meaning of material is entirely reducible to the number of repetitions",
+            "kk": "Материалдың мағынасы толығымен қайталау санына келтіріледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Незавершённость действия не имеет значения",
+            "en": "The incompleteness of an action is of no importance",
+            "kk": "Әрекеттің аяқталмауының мәні жоқ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Организация материала влияет на запоминание",
+            "en": "The organization of material influences memorization",
+            "kk": "Материалдың ұйымдасуы есте сақтауға әсер етеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Каждый элемент сохраняется независимо от структуры",
+            "en": "Each element is stored independently of structure",
+            "kk": "Әр элемент құрылымға тәуелсіз сақталады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Целое определяется взаимозависимостью частей",
+            "en": "The whole is determined by the interdependence of its parts",
+            "kk": "Тұтастық бөліктердің өзара тәуелділігімен анықталады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 44, 46, 119, 121",
+          "units": [
+            "p44",
+            "p46",
+            "p119",
+            "p121"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Роль смыслового содержания в запоминании особенно подчёркивали...",
+        "en": "The role of semantic content in memorization was especially emphasized by...",
+        "kk": "Есте сақтауда мағыналық мазмұнның рөлін әсіресе кімдер атап көрсетті?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Г. Гельмгольц и Дж. Гибсон",
+            "en": "H. Helmholtz and J. Gibson",
+            "kk": "Г. Гельмгольц және Дж. Гибсон"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "А. Бине и К. Бюлер",
+            "en": "A. Binet and K. Bühler",
+            "kk": "А. Бине және К. Бюлер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "У. Шелдон и Э. Кречмер",
+            "en": "W. Sheldon and E. Kretschmer",
+            "kk": "У. Шелдон және Э. Кречмер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "К. Томас и Р. Килменн",
+            "en": "K. Thomas and R. Kilmann",
+            "kk": "К. Томас және Р. Килманн"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Д. Бродбент и А. Трейсман",
+            "en": "D. Broadbent and A. Treisman",
+            "kk": "Д. Бродбент және А. Трейсман"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 105, 107",
+          "units": [
+            "p105",
+            "p107"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Изучение памяти в связи с мотивами, целями и операциями деятельности относится к подходу...",
+        "en": "The study of memory in connection with the motives, goals and operations of activity belongs to the... approach.",
+        "kk": "Естің мотивтермен, мақсаттармен және әрекет операцияларымен байланыста зерттелуі қай тәсілге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ассоциативному",
+            "en": "Associative",
+            "kk": "Ассоциативтік тәсілге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Информационно-кибернетическому",
+            "en": "Information-cybernetic",
+            "kk": "Ақпараттық-кибернетикалық тәсілге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Деятельностному",
+            "en": "Activity-based",
+            "kk": "Әрекеттік тәсілге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гештальтпсихологическому",
+            "en": "Gestalt",
+            "kk": "Гештальтпсихологиялық тәсілге"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Психоаналитическому",
+            "en": "Psychoanalytic",
+            "kk": "Психоаналитикалық тәсілге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 55, 110, 111",
+          "units": [
+            "p55",
+            "p110",
+            "p111"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Павловское объяснение физиологического акта запоминания опирается на...",
+        "en": "Pavlov's explanation of the physiological act of memorization rests on...",
+        "kk": "Есте сақтаудың физиологиялық актісінің павловтық түсіндірмесі неге сүйенеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Объединение материала в целостный гештальт",
+            "en": "The combining of material into a holistic gestalt",
+            "kk": "Материалды тұтас гештальтқа біріктіруге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Образование временной нервной связи",
+            "en": "The formation of a temporary neural connection",
+            "kk": "Уақытша жүйке байланысының түзілуіне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Организацию актов запоминания",
+            "en": "The organization of acts of memorization",
+            "kk": "Есте сақтау актілерін ұйымдастыруға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Двухступенчатую биохимическую фиксацию",
+            "en": "Two-stage biochemical fixation",
+            "kk": "Екі сатылы биохимиялық бекітуге"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Перегруппировку белковых молекул",
+            "en": "The rearrangement of protein molecules",
+            "kk": "Ақуыз молекулаларының қайта топтасуына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 35",
+          "units": [
+            "p35"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В бихевиористском объяснении закрепления материала особое значение придаётся...",
+        "en": "In the behaviorist explanation of the consolidation of material, special importance is attached to...",
+        "kk": "Материалдың бекітілуін бихевиористік түсіндіруде ерекше мән неге беріледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Целостности и структурному перестроению",
+            "en": "Wholeness and structural reorganization",
+            "kk": "Тұтастыққа және құрылымдық қайта құрылуға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Вытеснению и защитным процессам",
+            "en": "Repression and defense processes",
+            "kk": "Ығыстыруға және қорғаныс процестеріне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Упражнению и подкреплению",
+            "en": "Practice and reinforcement",
+            "kk": "Жаттығу мен нығайтуға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мотивационной структуре деятельности",
+            "en": "The motivational structure of activity",
+            "kk": "Әрекеттің уәждемелік құрылымына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Осмыслению и смысловой организации",
+            "en": "Comprehension and semantic organization",
+            "kk": "Мағынасын ұғынуға және мағыналық ұйымдастыруға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 50, 52",
+          "units": [
+            "p50",
+            "p52"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Условия, способные поддерживать сохранение информации в долговременной памяти:",
+        "en": "Conditions that can support the retention of information in long-term memory:",
+        "kk": "Ұзақ мерзімді есте ақпараттың сақталуын қолдай алатын жағдайлар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Содержательная работа с материалом",
+            "en": "Meaningful work with the material",
+            "kk": "Материалмен мазмұндық жұмыс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только физическая яркость раздражителя",
+            "en": "Only the physical brightness of the stimulus",
+            "kk": "Тек тітіркендіргіштің физикалық жарықтығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Контекст и особенности кодирования",
+            "en": "Context and features of encoding",
+            "kk": "Контекст және кодтау ерекшеліктері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мотивация запоминания",
+            "en": "Motivation to memorize",
+            "kk": "Есте сақтау уәждемесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Полное исключение смысловой организации",
+            "en": "Complete exclusion of semantic organization",
+            "kk": "Мағыналық ұйымдастыруды толық жою"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 23, 24, 25, 26, 27, 28",
+          "units": [
+            "p23",
+            "p24",
+            "p25",
+            "p26",
+            "p27",
+            "p28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "topic_id": 6,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему забывание может выполнять полезную функцию?",
+        "en": "Why can forgetting perform a useful function?",
+        "kk": "Неге ұмыту пайдалы қызмет атқара алады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Делает организацию опыта излишней",
+            "en": "It makes the organization of experience unnecessary",
+            "kk": "Тәжірибені ұйымдастыруды артық етеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Освобождает от избытка деталей и облегчает обобщение",
+            "en": "It frees us from an excess of detail and facilitates generalization",
+            "kk": "Артық егжей-тегжейден босатады және жалпылауды жеңілдетеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Устраняет необходимость повторения материала",
+            "en": "It removes the need to repeat material",
+            "kk": "Материалды қайталау қажеттілігін жояды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Заменяет хранение готовыми наследственными программами",
+            "en": "It replaces storage with ready-made hereditary programs",
+            "kk": "Сақтауды дайын тұқым қуалайтын бағдарламалармен алмастырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гарантирует безошибочность любых воспоминаний",
+            "en": "It guarantees the accuracy of all recollections",
+            "kk": "Кез келген естеліктердің қатесіз болуына кепілдік береді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 60",
+          "units": [
+            "p60"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Восстановление нарушенной последовательности стимулов в её первоначальной форме характеризует память...",
+        "en": "Restoring a disrupted sequence of stimuli in its original form characterizes... memory.",
+        "kk": "Тітіркендіргіштердің бұзылған реттілігін бастапқы түрінде қалпына келтіру қандай естің сипаты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сенсорную",
+            "en": "Sensory",
+            "kk": "Сенсорлық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Генетическую",
+            "en": "Genetic",
+            "kk": "Генетикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Репродуктивную",
+            "en": "Reproductive",
+            "kk": "Репродуктивті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Реконструктивную",
+            "en": "Reconstructive",
+            "kk": "Реконструктивті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Моторную",
+            "en": "Motor",
+            "kk": "Моторлық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L6",
+          "file": "Лекции/Лекция 6.docx",
+          "location": "Абзацы 95",
+          "units": [
+            "p95"
+          ]
+        }
+      ]
+    }
+  ]
+}

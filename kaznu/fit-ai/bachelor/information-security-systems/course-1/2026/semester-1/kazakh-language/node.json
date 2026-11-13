@@ -1,0 +1,14 @@
+{
+  "kind": "subject",
+  "title": {
+    "ru": "Казахский язык",
+    "kk": "Қазақ тілі",
+    "en": "Kazakh language"
+  },
+  "order": 10,
+  "items": [
+    "a1",
+    "a2",
+    "b1-b2"
+  ]
+}

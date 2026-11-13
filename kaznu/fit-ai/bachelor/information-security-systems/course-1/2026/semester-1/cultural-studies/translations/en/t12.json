@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 12,
+  "topic_name": "Traditional Kazakh Culture",
+  "questions": {
+    "276": {
+      "question": "Which sequence of seasonal pastures corresponds to winter, spring, summer and autumn?",
+      "options": {
+        "A": "Kuzeu, zhailau, kokteu, kystau",
+        "B": "Kokteu, kystau, kuzeu, zhailau",
+        "C": "Kystau, kokteu, zhailau, kuzeu",
+        "D": "Kystau, kuzeu, zhailau, kokteu",
+        "E": "Zhailau, kokteu, kystau, kuzeu"
+      }
+    },
+    "277": {
+      "question": "How did the pace of the moves to the summer pastures and of the return to the winter quarters compare?",
+      "options": {
+        "A": "They moved more slowly to the summer pastures and faster to the winter quarters",
+        "B": "They moved faster to the summer pastures and more slowly to the winter quarters",
+        "C": "The return to the winter quarters was not part of the annual route",
+        "D": "The pace was determined only by the number of invited guests",
+        "E": "Both moves were made at the same maximum speed"
+      }
+    },
+    "278": {
+      "question": "A felt carpet with appliqué is called...",
+      "options": {
+        "A": "Takyr kilem",
+        "B": "Tukti kilem",
+        "C": "Tekemet",
+        "D": "Alasha shi",
+        "E": "Syrmak"
+      }
+    },
+    "279": {
+      "question": "Correct pairings of types of carpets with their features:",
+      "options": {
+        "A": "Syrmak: exclusively a woven silk carpet",
+        "B": "Takyr kilem: a pileless carpet",
+        "C": "Tukti kilem: a pile carpet",
+        "D": "Tekemet: a carved wooden stand",
+        "E": "Tus kiiz: a saddlebag with two pockets"
+      }
+    },
+    "280": {
+      "question": "A woven saddlebag with two equal pockets is called...",
+      "options": {
+        "A": "Korzhyn",
+        "B": "Sandyk",
+        "C": "Kebezhe",
+        "D": "Shabadan",
+        "E": "Ayak kap"
+      }
+    },
+    "281": {
+      "question": "The wooden object intended for storing food is...",
+      "options": {
+        "A": "Kebezhe",
+        "B": "Zhuk ayak",
+        "C": "Bakan",
+        "D": "Adalbakan",
+        "E": "Sykyrlauyk"
+      }
+    },
+    "282": {
+      "question": "A long cloak made of camel wool is called...",
+      "options": {
+        "A": "Shekpen",
+        "B": "Kamzol",
+        "C": "Kattau",
+        "D": "Kebenek",
+        "E": "Shapan"
+      }
+    },
+    "283": {
+      "question": "A winter earflap hat is called...",
+      "options": {
+        "A": "Kimeshek",
+        "B": "Tymak",
+        "C": "Saukele",
+        "D": "Borik",
+        "E": "Takiya"
+      }
+    },
+    "284": {
+      "question": "The headdress that a woman traditionally began to wear after the birth of her first child is...",
+      "options": {
+        "A": "Altyn borik",
+        "B": "Kamshat borik",
+        "C": "Kimeshek",
+        "D": "Saukele",
+        "E": "Aiyr kalpak"
+      }
+    },
+    "285": {
+      "question": "Braid ornaments include:",
+      "options": {
+        "A": "Sholpy",
+        "B": "Bilezik",
+        "C": "Tuireuish",
+        "D": "Shashbau",
+        "E": "Ilgek"
+      }
+    },
+    "286": {
+      "question": "The custom of rewarding a person who has brought good news is called...",
+      "options": {
+        "A": "Asar",
+        "B": "Konakkade",
+        "C": "Zhylu",
+        "D": "Yeruli",
+        "E": "Suyinshi"
+      }
+    },
+    "287": {
+      "question": "Name the items that make up the \"bes zhaksy\" gift.",
+      "options": {
+        "A": "A silver bowl",
+        "B": "A diamond sabre",
+        "C": "A sable fur coat",
+        "D": "A swift steed",
+        "E": "A painted cradle"
+      }
+    },
+    "288": {
+      "question": "The custom of joint help by relatives and neighbours with urgent, heavy work is called...",
+      "options": {
+        "A": "Asar",
+        "B": "Yeruli",
+        "C": "Konakasy",
+        "D": "Zhylu",
+        "E": "Belkoterer"
+      }
+    },
+    "289": {
+      "question": "Help for people affected by a fire or a flood is provided for by the custom of...",
+      "options": {
+        "A": "Asar",
+        "B": "Besik toy",
+        "C": "Zhylu",
+        "D": "Suyinshi",
+        "E": "Konakkade"
+      }
+    },
+    "290": {
+      "question": "The preparation of soft, nourishing treats for elderly people is connected with the tradition of...",
+      "options": {
+        "A": "Belkoterer",
+        "B": "Toy dastarkhan",
+        "C": "Kuyryk-bauyr",
+        "D": "Konakasy",
+        "E": "Kyz uzatu"
+      }
+    },
+    "291": {
+      "question": "The custom of asking a guest to sing a song or play an instrument is called...",
+      "options": {
+        "A": "Konakasy",
+        "B": "Shege shapan",
+        "C": "Suyinshi",
+        "D": "Yeruli",
+        "E": "Konakkade"
+      }
+    },
+    "292": {
+      "question": "A celebration in honour of newly settled people, with help in setting up their household, is called...",
+      "options": {
+        "A": "Asar",
+        "B": "Yeruli",
+        "C": "Shildekhana",
+        "D": "Kudalyk",
+        "E": "Tusau kesu"
+      }
+    },
+    "293": {
+      "question": "Which pairs of ritual and event are correct?",
+      "options": {
+        "A": "Esim koyu: the naming of a child",
+        "B": "Besikke salu: the fortieth day after birth",
+        "C": "Kyrkynan shygaru: the first steps",
+        "D": "Tusau kesu: placing the child in the cradle",
+        "E": "Shildekhana: the birth of a child"
+      }
+    },
+    "294": {
+      "question": "Bathing in forty spoonfuls of water and the first cutting of the hair and nails are part of the rite of...",
+      "options": {
+        "A": "Tusau kesu",
+        "B": "Kyrkynan shygaru",
+        "C": "Esim koyu",
+        "D": "Sundetke otyrgyzu",
+        "E": "Besikke salu"
+      }
+    },
+    "295": {
+      "question": "The presentation of a robe by the bride's father to the chief matchmakers after successful negotiations is called...",
+      "options": {
+        "A": "Shege shapan",
+        "B": "Kyz uzatu",
+        "C": "Konakkade",
+        "D": "At mingizip shapan zhabu",
+        "E": "Kelin tusiru"
+      }
+    },
+    "296": {
+      "question": "Correct pairings of felt coverings with parts of the yurt:",
+      "options": {
+        "A": "Uzik: the felt door",
+        "B": "Uzik: the covering of the dome poles",
+        "C": "Tunlik: the covering of the lower half of the kerege",
+        "D": "Tuyrlyk: the covering of the upper circle only",
+        "E": "Tuyrlyk: the covering of the lattice base"
+      }
+    },
+    "297": {
+      "question": "The upper frame and the lower threshold of the yurt's doorway are called...",
+      "options": {
+        "A": "Bakan and kerege",
+        "B": "Sykyrlauyk and uyk",
+        "C": "Tabaldyryk and mandaysha",
+        "D": "Mandaysha and tabaldyryk",
+        "E": "Shanyrak and zhaktau"
+      }
+    },
+    "298": {
+      "question": "The part of the yurt that symbolizes the World Tree is...",
+      "options": {
+        "A": "Bakan",
+        "B": "Uzik",
+        "C": "Tunlik",
+        "D": "Kerege",
+        "E": "Tabaldyryk"
+      }
+    },
+    "299": {
+      "question": "The rope or band used to fasten the joints of the kerege is called...",
+      "options": {
+        "A": "Ayak bau",
+        "B": "Kur",
+        "C": "Uyk bau",
+        "D": "Tunlik bau",
+        "E": "Zhel bau"
+      }
+    },
+    "300": {
+      "question": "By what feature is the six-, eight- or twelve-wing size of a yurt determined?",
+      "options": {
+        "A": "By the number of dome poles",
+        "B": "By the number of felt coverings",
+        "C": "By the number of kerege sections",
+        "D": "By the number of patterned bands of the shanyrak",
+        "E": "By the number of door supports"
+      }
+    }
+  }
+}

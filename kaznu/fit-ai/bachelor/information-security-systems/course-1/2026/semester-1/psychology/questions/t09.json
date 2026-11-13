@@ -1,0 +1,1386 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 181,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Единичный представитель человеческого вида обозначается понятием...",
+        "en": "A single representative of the human species is denoted by the concept of...",
+        "kk": "Адам түрінің жеке өкілі қандай ұғыммен белгіленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Индивид",
+            "en": "The individual",
+            "kk": "Индивид"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальность",
+            "en": "Individuality",
+            "kk": "Даралық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Личность",
+            "en": "Personality",
+            "kk": "Тұлға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социальная роль",
+            "en": "A social role",
+            "kk": "Әлеуметтік рөл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Субъектная позиция",
+            "en": "A subject position",
+            "kk": "Субъектілік ұстаным"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 25",
+          "units": [
+            "p25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие личности прежде всего фиксирует человека как...",
+        "en": "The concept of personality primarily defines a human being as...",
+        "kk": "Тұлға ұғымы адамды ең алдымен кім ретінде көрсетеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Объект непосредственного сенсорного воздействия",
+            "en": "An object of direct sensory stimulation",
+            "kk": "Тікелей сенсорлық әсер нысаны ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Носителя только наследственных морфологических признаков",
+            "en": "A bearer of only inherited morphological features",
+            "kk": "Тек тұқым қуалайтын морфологиялық белгілердің иесі ретінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Субъекта общественных отношений и сознательной деятельности",
+            "en": "A subject of social relations and conscious activity",
+            "kk": "Қоғамдық қатынастар мен саналы әрекеттің субъектісі ретінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Совокупность исключительно темпераментных реакций",
+            "en": "A set of exclusively temperamental reactions",
+            "kk": "Тек темпераменттік реакциялардың жиынтығы ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Единичный экземпляр биологического вида",
+            "en": "A single specimen of a biological species",
+            "kk": "Биологиялық түрдің жеке данасы ретінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 4, 9, 10",
+          "units": [
+            "p4",
+            "p9",
+            "p10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Неповторимое сочетание психофизиологических и личностных особенностей человека характеризует его...",
+        "en": "A unique combination of a person's psychophysiological and personal characteristics defines his or her...",
+        "kk": "Адамның психофизиологиялық және тұлғалық ерекшеліктерінің қайталанбас үйлесімі оның қай сипаттамасын білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социальную роль",
+            "en": "Social role",
+            "kk": "Әлеуметтік рөлін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальность",
+            "en": "Individuality",
+            "kk": "Даралығын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сигнальную систему",
+            "en": "Signal system",
+            "kk": "Сигналдық жүйесін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Видовую принадлежность",
+            "en": "Species membership",
+            "kk": "Түрлік тиесілілігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Групповую норму",
+            "en": "Group norm",
+            "kk": "Топтық нормасын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 26, 29",
+          "units": [
+            "p26",
+            "p29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Активную роль личности выражают положения:",
+        "en": "Statements that express the active role of the personality:",
+        "kk": "Тұлғаның белсенді рөлін білдіретін тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Проявляется в собственной деятельности",
+            "en": "It manifests itself in its own activity",
+            "kk": "Өзінің әрекетінде көрінеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Развивается независимо от активности",
+            "en": "It develops independently of activity",
+            "kk": "Белсенділіктен тәуелсіз дамиды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Выступает субъектом общения и самопознания",
+            "en": "It acts as a subject of communication and self-knowledge",
+            "kk": "Қарым-қатынас пен өзін-өзі тану субъектісі болып табылады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Полностью копирует внешние условия",
+            "en": "It fully copies external conditions",
+            "kk": "Сыртқы жағдайларды толығымен көшіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Преобразует усваиваемые социальные воздействия",
+            "en": "It transforms the social influences it assimilates",
+            "kk": "Меңгерілетін әлеуметтік әсерлерді қайта түрлендіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 12, 16, 17",
+          "units": [
+            "p12",
+            "p16",
+            "p17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Освоение общественных норм и оформление собственной уникальности соотносятся как...",
+        "en": "The mastery of social norms and the shaping of one's own uniqueness are related, respectively, as...",
+        "kk": "Қоғамдық нормаларды меңгеру мен өзінің бірегейлігін қалыптастыру қалай арақатынаста болады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социализация и индивидуализация",
+            "en": "Socialization and individualization",
+            "kk": "Әлеуметтену және даралану ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Адаптация и сенсибилизация",
+            "en": "Adaptation and sensitization",
+            "kk": "Бейімделу және сенсибилизация ретінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ассоциация и диссоциация",
+            "en": "Association and dissociation",
+            "kk": "Ассоциация және диссоциация ретінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Интроспекция и объективация",
+            "en": "Introspection and objectification",
+            "kk": "Интроспекция және объективтену ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Индивидуализация и социализация",
+            "en": "Individualization and socialization",
+            "kk": "Даралану және әлеуметтену ретінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 28, 29",
+          "units": [
+            "p28",
+            "p29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как соотносятся организм и личность в целостной системе человека?",
+        "en": "How are the organism and the personality related in the whole system of the human being?",
+        "kk": "Адамның тұтас жүйесінде организм мен тұлға қалай арақатынаста болады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Личность целиком сводится к строению организма",
+            "en": "Personality is entirely reducible to the structure of the organism",
+            "kk": "Тұлға толығымен организм құрылысына келтіріледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Организм формируется только социальным обучением",
+            "en": "The organism is formed only by social learning",
+            "kk": "Организм тек әлеуметтік оқыту арқылы қалыптасады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Развиваются как полностью независимые системы",
+            "en": "They develop as completely independent systems",
+            "kk": "Толық тәуелсіз жүйелер ретінде дамиды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социальная организация исключает биологические условия",
+            "en": "Social organization excludes biological conditions",
+            "kk": "Әлеуметтік ұйымдасу биологиялық жағдайларды жоққа шығарады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Взаимосвязаны как морфофизиологическая и социально-психологическая организации",
+            "en": "They are interrelated as a morphophysiological and a socio-psychological organization",
+            "kk": "Морфофизиологиялық және әлеуметтік-психологиялық ұйымдасу ретінде өзара байланысты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 20, 21, 22, 23",
+          "units": [
+            "p20",
+            "p21",
+            "p22",
+            "p23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Модель, рассматривающая компоненты личности в контексте её реального существования, является структурой...",
+        "en": "A model that considers the components of personality in the context of its real existence is a... structure.",
+        "kk": "Тұлғаның құрамдастарын оның нақты өмір сүруі контексінде қарастыратын модель қандай құрылым болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Перцептивной",
+            "en": "Perceptual",
+            "kk": "Перцептивті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Статической",
+            "en": "Static",
+            "kk": "Статикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сенсорной",
+            "en": "Sensory",
+            "kk": "Сенсорлық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Топографической",
+            "en": "Topographical",
+            "kk": "Топографиялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Динамической",
+            "en": "Dynamic",
+            "kk": "Динамикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 32, 37",
+          "units": [
+            "p32",
+            "p37"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Динамическая функциональная структура личности из четырёх подструктур предложена...",
+        "en": "The dynamic functional structure of personality consisting of four substructures was proposed by...",
+        "kk": "Тұлғаның төрт құрылымшадан тұратын динамикалық функционалдық құрылымын кім ұсынды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Д. Бродбентом",
+            "en": "D. Broadbent",
+            "kk": "Д. Бродбент"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Г. Селье",
+            "en": "H. Selye",
+            "kk": "Г. Селье"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Э. Кречмером",
+            "en": "E. Kretschmer",
+            "kk": "Э. Кречмер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "К. К. Платоновым",
+            "en": "K. K. Platonov",
+            "kk": "К. К. Платонов"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Т. Рибо",
+            "en": "T. Ribot",
+            "kk": "Т. Рибо"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 38, 69",
+          "units": [
+            "p38",
+            "p69"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "В модель К. К. Платонова входят подструктуры:",
+        "en": "K. K. Platonov's model includes the substructures:",
+        "kk": "К. К. Платонов моделіне мына құрылымшалар кіреді:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Индивидуальный опыт",
+            "en": "Individual experience",
+            "kk": "Жеке тәжірибе"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Биопсихические свойства",
+            "en": "Biopsychic properties",
+            "kk": "Биопсихикалық қасиеттер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Структура межгруппового конфликта",
+            "en": "The structure of intergroup conflict",
+            "kk": "Топаралық қақтығыс құрылымы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Лидерская позиция в группе",
+            "en": "Leadership position in a group",
+            "kk": "Топтағы көшбасшылық ұстаным"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Направленность личности",
+            "en": "The orientation of the personality",
+            "kk": "Тұлғаның бағыттылығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 70, 71, 72, 73",
+          "units": [
+            "p70",
+            "p71",
+            "p72",
+            "p73"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Знания, навыки, умения и привычки в модели К. К. Платонова относятся к...",
+        "en": "In K. K. Platonov's model, knowledge, skills, proficiencies and habits belong to...",
+        "kk": "К. К. Платонов моделінде білім, білік, дағды және әдеттер неге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Особенностям психических процессов",
+            "en": "The features of mental processes",
+            "kk": "Психикалық процестердің ерекшеліктеріне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Биопсихическим свойствам",
+            "en": "Biopsychic properties",
+            "kk": "Биопсихикалық қасиеттерге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Подструктуре опыта",
+            "en": "The experience substructure",
+            "kk": "Тәжірибе құрылымшасына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социальной позиции группы",
+            "en": "The social position of the group",
+            "kk": "Топтың әлеуметтік ұстанымына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Подструктуре направленности",
+            "en": "The orientation substructure",
+            "kk": "Бағыттылық құрылымшасына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 72",
+          "units": [
+            "p72"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Мировоззрение, идеалы и убеждения в модели К. К. Платонова составляют прежде всего...",
+        "en": "In K. K. Platonov's model, worldview, ideals and convictions make up primarily...",
+        "kk": "К. К. Платонов моделінде дүниетаным, мұраттар мен сенімдер ең алдымен нені құрайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Особенности сенсорной рецепции",
+            "en": "Features of sensory reception",
+            "kk": "Сенсорлық рецепция ерекшеліктерін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Направленность личности",
+            "en": "The orientation of the personality",
+            "kk": "Тұлғаның бағыттылығын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Биопсихические свойства",
+            "en": "Biopsychic properties",
+            "kk": "Биопсихикалық қасиеттерді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Индивидуальный опыт",
+            "en": "Individual experience",
+            "kk": "Жеке тәжірибені"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Динамику нервных процессов",
+            "en": "The dynamics of nervous processes",
+            "kk": "Жүйке процестерінің динамикасын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 73",
+          "units": [
+            "p73"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Возрастные свойства и темперамент относятся в модели К. К. Платонова к подструктуре...",
+        "en": "In K. K. Platonov's model, age-related properties and temperament belong to the substructure of...",
+        "kk": "Жас ерекшелік қасиеттері мен темперамент К. К. Платонов моделінде қандай құрылымшаға жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Индивидуального опыта",
+            "en": "Individual experience",
+            "kk": "Жеке тәжірибе құрылымшасына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социальных установок",
+            "en": "Social attitudes",
+            "kk": "Әлеуметтік қондырмалар құрылымшасына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Направленности",
+            "en": "Orientation",
+            "kk": "Бағыттылық құрылымшасына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Групповых отношений",
+            "en": "Group relations",
+            "kk": "Топтық қатынастар құрылымшасына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Биопсихических свойств",
+            "en": "Biopsychic properties",
+            "kk": "Биопсихикалық қасиеттер құрылымшасына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 70",
+          "units": [
+            "p70"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Индивидуальные особенности памяти и мышления в модели К. К. Платонова относятся к...",
+        "en": "In K. K. Platonov's model, individual features of memory and thinking belong to...",
+        "kk": "Есте сақтау мен ойлаудың жеке ерекшеліктері К. К. Платонов моделінде неге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Системе убеждений и идеалов",
+            "en": "The system of convictions and ideals",
+            "kk": "Сенімдер мен мұраттар жүйесіне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Нормам референтной группы",
+            "en": "The norms of the reference group",
+            "kk": "Референттік топ нормаларына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Системе усвоенных привычек",
+            "en": "The system of acquired habits",
+            "kk": "Меңгерілген әдеттер жүйесіне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Особенностям форм отражения",
+            "en": "The features of the forms of reflection",
+            "kk": "Шағылысу формаларының ерекшеліктеріне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Возрастным биопсихическим свойствам",
+            "en": "Age-related biopsychic properties",
+            "kk": "Жас ерекшелік биопсихикалық қасиеттерге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 71",
+          "units": [
+            "p71"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные распределения компонентов по подструктурам К. К. Платонова.",
+        "en": "Identify the correct assignments of components to K. K. Platonov's substructures.",
+        "kk": "Құрамдастардың К. К. Платонов құрылымшалары бойынша дұрыс бөлінулерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Навыки: опыт",
+            "en": "Skills: experience",
+            "kk": "Дағдылар: тәжірибе"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Темперамент: биопсихические свойства",
+            "en": "Temperament: biopsychic properties",
+            "kk": "Темперамент: биопсихикалық қасиеттер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Убеждения: направленность",
+            "en": "Convictions: orientation",
+            "kk": "Сенімдер: бағыттылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Память: социальная роль личности",
+            "en": "Memory: the social role of the personality",
+            "kk": "Ес: тұлғаның әлеуметтік рөлі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Знания: преимущественно наследственная подструктура",
+            "en": "Knowledge: predominantly the hereditary substructure",
+            "kk": "Білім: негізінен тұқым қуалайтын құрылымша"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 50, 51, 52, 53",
+          "units": [
+            "p50",
+            "p51",
+            "p52",
+            "p53"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое соответствие способа формирования подструктуре верно в таблице К. К. Платонова?",
+        "en": "Which correspondence between a method of formation and a substructure is correct in K. K. Platonov's table?",
+        "kk": "К. К. Платонов кестесінде қалыптастыру тәсілінің құрылымшаға қандай сәйкестігі дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Тренировка: мировоззрение",
+            "en": "Training: worldview",
+            "kk": "Жаттықтыру: дүниетаным"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обучение: возрастные свойства",
+            "en": "Instruction: age-related properties",
+            "kk": "Оқыту: жас ерекшелік қасиеттері"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Упражнение: видовая принадлежность",
+            "en": "Exercise: species membership",
+            "kk": "Жаттығу: түрлік тиесілілік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обучение: опыт",
+            "en": "Instruction: experience",
+            "kk": "Оқыту: тәжірибе"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Воспитание: половые свойства",
+            "en": "Upbringing: sex-related properties",
+            "kk": "Тәрбиелеу: жыныстық қасиеттер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 46, 47, 50, 51, 63, 64",
+          "units": [
+            "p46",
+            "p47",
+            "p50",
+            "p51",
+            "p63",
+            "p64"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ценностные ориентации и социальные установки, характерные для определённой общности, относятся к особенностям...",
+        "en": "Value orientations and social attitudes characteristic of a particular community belong to the... features.",
+        "kk": "Белгілі бір қауымдастыққа тән құндылық бағдарлары мен әлеуметтік қондырмалар қандай ерекшеліктерге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социально-специфическим",
+            "en": "Socially specific",
+            "kk": "Әлеуметтік-спецификалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Видовым анатомическим",
+            "en": "Species-specific anatomical",
+            "kk": "Түрлік анатомиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключительно рефлекторным",
+            "en": "Exclusively reflex",
+            "kk": "Тек рефлекторлық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Индивидуально-морфологическим",
+            "en": "Individual morphological",
+            "kk": "Жеке морфологиялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Всеобщим психическим",
+            "en": "Universal mental",
+            "kk": "Жалпы психикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 33, 34, 35",
+          "units": [
+            "p33",
+            "p34",
+            "p35"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "topic_id": 9,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему становление личности и становление индивидуальности не тождественны?",
+        "en": "Why are the formation of personality and the formation of individuality not identical?",
+        "kk": "Неге тұлғаның қалыптасуы мен даралықтың қалыптасуы бірдей емес?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Индивидуальность возникает без общественных отношений",
+            "en": "Individuality arises without social relations",
+            "kk": "Даралық қоғамдық қатынастарсыз пайда болады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуализация завершает всякое развитие",
+            "en": "Individualization completes all development",
+            "kk": "Даралану кез келген дамуды аяқтайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Освоение социального опыта отличается от оформления уникальности",
+            "en": "Mastering social experience differs from shaping uniqueness",
+            "kk": "Әлеуметтік тәжірибені меңгеру бірегейлікті қалыптастырудан өзгеше"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социализация исключает индивидуальные различия",
+            "en": "Socialization excludes individual differences",
+            "kk": "Әлеуметтену жеке айырмашылықтарды жоққа шығарады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Личность описывает только биологические качества",
+            "en": "Personality describes only biological qualities",
+            "kk": "Тұлға тек биологиялық қасиеттерді сипаттайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 27, 28, 29",
+          "units": [
+            "p27",
+            "p28",
+            "p29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое объяснение различий личности учитывает и биологическое, и социальное?",
+        "en": "Which explanation of individual differences takes both the biological and the social into account?",
+        "kk": "Тұлға айырмашылықтарының қандай түсіндірмесі биологиялықты да, әлеуметтікті де ескереді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Общественные отношения полностью заменяют наследственность",
+            "en": "Social relations completely replace heredity",
+            "kk": "Қоғамдық қатынастар тұқым қуалаушылықты толығымен алмастырады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Врождённые свойства взаимодействуют с приобретёнными качествами",
+            "en": "Innate properties interact with acquired qualities",
+            "kk": "Туа біткен қасиеттер жүре пайда болған қасиеттермен өзара әрекеттеседі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наследственные свойства однозначно задают мировоззрение",
+            "en": "Hereditary properties unambiguously determine the worldview",
+            "kk": "Тұқым қуалайтын қасиеттер дүниетанымды біржақты анықтайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Биологические особенности определяют моральную ценность",
+            "en": "Biological features determine moral worth",
+            "kk": "Биологиялық ерекшеліктер адамгершілік құндылықты анықтайды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Социальный опыт не меняет внутренних условий",
+            "en": "Social experience does not change internal conditions",
+            "kk": "Әлеуметтік тәжірибе ішкі жағдайларды өзгертпейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 11, 12, 14, 15, 74",
+          "units": [
+            "p11",
+            "p12",
+            "p14",
+            "p15",
+            "p74"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие утверждения о понятиях «индивид» и «личность» верны?",
+        "en": "Which statements about the concepts of \"individual\" and \"personality\" are correct?",
+        "kk": "«Индивид» және «тұлға» ұғымдары туралы қандай тұжырымдар дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Индивид означает только совокупность убеждений",
+            "en": "The individual means only a set of convictions",
+            "kk": "Индивид тек сенімдер жиынтығын білдіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Личность тождественна наследственной конституции",
+            "en": "Personality is identical to hereditary constitution",
+            "kk": "Тұлға тұқым қуалайтын конституциямен бірдей"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Индивидуальность исключает социальные качества",
+            "en": "Individuality excludes social qualities",
+            "kk": "Даралық әлеуметтік қасиеттерді жоққа шығарады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Личностное становление связано с социализацией",
+            "en": "The development of personality is linked with socialization",
+            "kk": "Тұлғаның қалыптасуы әлеуметтенумен байланысты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Индивид обозначает отдельного представителя вида",
+            "en": "The individual denotes a separate representative of the species",
+            "kk": "Индивид түрдің жеке өкілін білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 25, 26, 28",
+          "units": [
+            "p25",
+            "p26",
+            "p28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "topic_id": 9,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одинаковые педагогические требования дают разные результаты у двух учеников. Это согласуется с положением о...",
+        "en": "The same educational demands yield different results in two students. This is consistent with the principle of...",
+        "kk": "Бірдей педагогикалық талаптар екі оқушыда әртүрлі нәтиже береді. Бұл қандай тұжырымға сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Преломлении внешних воздействий через внутренние условия",
+            "en": "The refraction of external influences through internal conditions",
+            "kk": "Сыртқы әсерлердің ішкі жағдайлар арқылы сынуы туралы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тождестве внешнего требования и внутреннего мотива",
+            "en": "The identity of an external demand and an internal motive",
+            "kk": "Сыртқы талап пен ішкі уәждің бірдейлігі туралы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Неизменности личности в деятельности",
+            "en": "The unchangeability of personality in activity",
+            "kk": "Тұлғаның әрекетте өзгермейтіндігі туралы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Полной независимости личности от воспитания",
+            "en": "The complete independence of personality from upbringing",
+            "kk": "Тұлғаның тәрбиеден толық тәуелсіздігі туралы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Однозначной наследственной заданности социального поведения",
+            "en": "The unambiguous hereditary determination of social behavior",
+            "kk": "Әлеуметтік мінез-құлықтың тұқым қуалаушылықпен біржақты берілгендігі туралы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L9",
+          "file": "Лекции/Лекция 9.docx",
+          "location": "Абзацы 12, 17",
+          "units": [
+            "p12",
+            "p17"
+          ]
+        }
+      ]
+    }
+  ]
+}

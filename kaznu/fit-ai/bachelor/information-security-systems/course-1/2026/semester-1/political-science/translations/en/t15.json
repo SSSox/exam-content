@@ -1,0 +1,158 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 15,
+  "topic_name": "World Politics and International Relations",
+  "questions": {
+    "306": {
+      "question": "The work \"Politics Among Nations: The Struggle for Power and Peace\" belongs to...",
+      "options": {
+        "A": "James Rosenau",
+        "B": "Joseph Nye",
+        "C": "Kenneth Waltz",
+        "D": "Robert Keohane",
+        "E": "Hans Morgenthau"
+      }
+    },
+    "307": {
+      "question": "Classical political realism explains the behavior of states primarily through...",
+      "options": {
+        "A": "Only the operation of a universal moral norm",
+        "B": "Exclusively the cultural contacts of non-governmental associations",
+        "C": "The complete subordination of domestic politics to a world administration",
+        "D": "Interests, power and the balance of power",
+        "E": "The absence of competition for security"
+      }
+    },
+    "308": {
+      "question": "A structuralist analysis of international relations is oriented toward movement...",
+      "options": {
+        "A": "Exclusively from a leader's biography to any international event",
+        "B": "Only from an organization's legal name to its effectiveness",
+        "C": "From the system as a whole to its individual participants",
+        "D": "From a chance episode to a denial of systemic links",
+        "E": "From a diplomat's personal emotions to universal human morality"
+      }
+    },
+    "309": {
+      "question": "The evolutionary approach to international relations emphasizes...",
+      "options": {
+        "A": "The complete immutability of the international order",
+        "B": "The absence of recurring processes",
+        "C": "Exclusively the one-time structure of alliances",
+        "D": "Reducing all changes to the text of a single treaty",
+        "E": "The dynamics and historical changes of international systems"
+      }
+    },
+    "310": {
+      "question": "World-systems theory distinguishes...",
+      "options": {
+        "A": "The core",
+        "B": "The colony as a mandatory level of the system separate from the periphery",
+        "C": "The periphery",
+        "D": "The metropolis as a fourth equal element alongside the core",
+        "E": "The semi-periphery"
+      }
+    },
+    "311": {
+      "question": "The key explanation of inequality in the world-systems and dependency approaches is connected with...",
+      "options": {
+        "A": "Exclusively the form of the state flag",
+        "B": "The absence of political borders as such",
+        "C": "The position of societies in unequal world economic ties",
+        "D": "Only the climatic features of territories",
+        "E": "The unchanging psychological traits of individual peoples"
+      }
+    },
+    "312": {
+      "question": "Dependency theory, as represented by Andre Gunder Frank, regards underdevelopment as...",
+      "options": {
+        "A": "Exclusively the absence of contacts with the world economy",
+        "B": "The inevitable consequence of a state's small area",
+        "C": "Only a temporary shortage of diplomatic missions",
+        "D": "The result of historically formed relations of dependence",
+        "E": "The direct result of a proportional electoral system"
+      }
+    },
+    "313": {
+      "question": "What distinguishes the analysis of world politics from reducing international ties to the diplomacy of states alone?",
+      "options": {
+        "A": "Denying the existence of nation-states",
+        "B": "Excluding economic processes from the analysis",
+        "C": "Recognizing the sovereignty of any commercial corporation",
+        "D": "Replacing all interests with a single world government",
+        "E": "Taking non-state transnational actors into account"
+      }
+    },
+    "314": {
+      "question": "The idea of the coexistence of a state-centric world and a transnational world is associated with the name of...",
+      "options": {
+        "A": "James Rosenau",
+        "B": "Halford Mackinder",
+        "C": "Kenneth Boulding",
+        "D": "Hans Morgenthau",
+        "E": "Morton Kaplan"
+      }
+    },
+    "315": {
+      "question": "What distinguishes tight bipolarity from loose bipolarity in Kaplan's typology?",
+      "options": {
+        "A": "The transformation of all states into equally sovereign arbitration centers",
+        "B": "A transition to a single world state",
+        "C": "A more rigid hierarchy of blocs and the disappearance of the non-aligned",
+        "D": "An increase in the number of equally powerful independent centers",
+        "E": "The disappearance of any bloc relations"
+      }
+    },
+    "316": {
+      "question": "In Kaplan's typology, global international organizations play the decisive role while nation-states are preserved. This is the ... system.",
+      "options": {
+        "A": "Unit-veto",
+        "B": "Hierarchical",
+        "C": "Balance-of-power",
+        "D": "Universal",
+        "E": "Tight bipolar"
+      }
+    },
+    "317": {
+      "question": "International processes include:",
+      "options": {
+        "A": "Conflict",
+        "B": "Negotiation",
+        "C": "Only the formation of personal ideas about the domestic social order",
+        "D": "Only the activity of local associations without cross-border ties",
+        "E": "Cooperation"
+      }
+    },
+    "318": {
+      "question": "Armed adversaries agree on an exchange of prisoners. Which property of international conflict is manifested?",
+      "options": {
+        "A": "The replacement of state sovereignty by a private agreement",
+        "B": "The coexistence of confrontation with individual elements of cooperation",
+        "C": "The automatic end of political contradictions",
+        "D": "The complete disappearance of the international system",
+        "E": "The impossibility of distinguishing conflict from integration"
+      }
+    },
+    "319": {
+      "question": "Correct conclusions about the actors and processes of world politics:",
+      "options": {
+        "A": "The outbreak of armed confrontation rules out agreement on limited mutual interests",
+        "B": "States retain a special role connected with sovereignty",
+        "C": "Non-state participants can influence the international agenda",
+        "D": "A corporation's having transnational ties means that it acquires sovereignty",
+        "E": "Cooperation does not require a complete coincidence of all interests"
+      }
+    },
+    "320": {
+      "question": "The sequence that corresponds to a complete negotiation process:",
+      "options": {
+        "A": "Preparation → conducting the negotiations → analysis of results and implementation of the agreements",
+        "B": "Preparation → fulfilling preliminary conditions → conducting negotiations without final monitoring",
+        "C": "Analysis of results → preparation → conducting negotiations and implementation",
+        "D": "Implementation of agreements → reconciling positions → evaluation of results",
+        "E": "Conducting negotiations → preparing positions → implementation of agreements and evaluation"
+      }
+    }
+  }
+}

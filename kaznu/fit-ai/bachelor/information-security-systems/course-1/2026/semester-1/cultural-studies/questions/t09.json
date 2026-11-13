@@ -1,0 +1,1636 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 201,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исторический оптимизм и вера в торжество разума образуют основу модели культуры, называемой...",
+        "en": "The model of culture founded on historical optimism and faith in the triumph of reason is...",
+        "kk": "Тарихи оптимизм мен ақылдың салтанат құруына сену негізін құрайтын мәдениет моделі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Постмодерной",
+            "en": "The postmodern",
+            "kk": "Постмодернистік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Психоаналитической",
+            "en": "The psychoanalytic",
+            "kk": "Психоаналитикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Классической",
+            "en": "The classical",
+            "kk": "Классикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Диффузионистской",
+            "en": "The diffusionist",
+            "kk": "Диффузионистік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Морфологической",
+            "en": "The morphological",
+            "kk": "Морфологиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 3",
+          "units": [
+            "p3"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 202,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Оценивание других культур по степени соответствия европейскому образцу выражает принцип...",
+        "en": "Evaluating other cultures by their degree of conformity to the European model expresses the principle of...",
+        "kk": "Басқа мәдениеттерді еуропалық үлгіге сәйкестік дәрежесі бойынша бағалау қандай қағиданы білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Культурного релятивизма",
+            "en": "Cultural relativism",
+            "kk": "Мәдени релятивизм"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Историзма",
+            "en": "Historicism",
+            "kk": "Тарихилық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Функционализма",
+            "en": "Functionalism",
+            "kk": "Функционализм"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Европоцентризма",
+            "en": "Eurocentrism",
+            "kk": "Еуропацентризм"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Диалогизма",
+            "en": "Dialogism",
+            "kk": "Диалогизм"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 5",
+          "units": [
+            "p5"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 203,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "В классической модели культуры «открытие человека» как свободной творческой личности связано с...",
+        "en": "In the classical model of culture, the \"discovery of the human being\" as a free creative personality is connected with...",
+        "kk": "Еркін шығармашыл тұлға ретіндегі «адамды ашу» классикалық модельдің қандай қағидасымен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Европоцентризмом",
+            "en": "Eurocentrism",
+            "kk": "Еуропацентризммен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Историзмом",
+            "en": "Historicism",
+            "kk": "Тарихилықпен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Энергетизмом",
+            "en": "Energetism",
+            "kk": "Энергетизммен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Органицизмом",
+            "en": "Organicism",
+            "kk": "Органицизммен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гуманизмом",
+            "en": "Humanism",
+            "kk": "Гуманизммен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 204,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Разум как способность действовать в соответствии с собственными целями характеризует принцип...",
+        "en": "Reason as the ability to act in accordance with one's own goals characterizes the principle of...",
+        "kk": "Ақылды өз мақсаттарына сәйкес әрекет ету қабілеті ретінде сипаттау қандай қағидаға тән?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Провиденциализма",
+            "en": "Providentialism",
+            "kk": "Провиденциализмге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сенсуализма",
+            "en": "Sensualism",
+            "kk": "Сенсуализмге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Диффузионизма",
+            "en": "Diffusionism",
+            "kk": "Диффузионизмге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рационализма",
+            "en": "Rationalism",
+            "kk": "Рационализмге"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Традиционализма",
+            "en": "Traditionalism",
+            "kk": "Традиционализмге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 7",
+          "units": [
+            "p7"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 205,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Осознание исторически изменчивой границы между человеческим и окружающим миром соответствует...",
+        "en": "The awareness of the historically changeable boundary between the human world and the surrounding world corresponds to...",
+        "kk": "Адами және қоршаған дүние арасындағы тарихи өзгермелі шекараны сезіну нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Реляционализму",
+            "en": "Relationalism",
+            "kk": "Реляционализмді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Историзму",
+            "en": "Historicism",
+            "kk": "Тарихилықты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Натурализму",
+            "en": "Naturalism",
+            "kk": "Натурализмді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Синхронизму",
+            "en": "Synchronism",
+            "kk": "Синхронизмді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Утилитаризму",
+            "en": "Utilitarianism",
+            "kk": "Утилитаризмді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 8",
+          "units": [
+            "p8"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 206,
+      "topic_id": 9,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите положения, соответствующие критике рационализма в современной модели культуры.",
+        "en": "Indicate the propositions that correspond to the critique of rationalism in the modern model of culture.",
+        "kk": "Қазіргі мәдениет моделіндегі рационализмді сынауға сәйкес келетін тұжырымдарды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отказ от индивидуальных ценностных поисков",
+            "en": "Rejection of individual value searches",
+            "kk": "Жеке құндылықтық ізденістерден бас тарту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Внимание к иррациональным началам",
+            "en": "Attention to irrational principles",
+            "kk": "Иррационалды бастауларға назар аудару"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Понимание ценностей как личностных исканий",
+            "en": "Understanding values as personal quests",
+            "kk": "Құндылықтарды жеке ізденістер ретінде түсіну"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Признание разума единственным источником культурной жизни",
+            "en": "Recognition of reason as the only source of cultural life",
+            "kk": "Ақылды мәдени өмірдің жалғыз көзі деп мойындау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Безусловное принятие любого установленного предписания",
+            "en": "Unconditional acceptance of any established prescription",
+            "kk": "Орнатылған кез келген нұсқауды шартсыз қабылдау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 11",
+          "units": [
+            "p11"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 207,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какая цепочка точнее связывает индустриальное производство с массовой культурой?",
+        "en": "Which chain links industrial production with mass culture more accurately?",
+        "kk": "Индустриялық өндірісті бұқаралық мәдениетпен қандай тізбек дәлірек байланыстырады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исчезновение досуга, ритуализация труда, профессионализация искусства",
+            "en": "The disappearance of leisure, the ritualization of labour, the professionalization of art",
+            "kk": "Бос уақыттың жоғалуы, еңбектің ғұрыпқа айналуы, өнердің кәсібилендірілуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Машинное производство, сословная замкнутость, анонимный фольклор",
+            "en": "Machine production, estate exclusiveness, anonymous folklore",
+            "kk": "Машиналық өндіріс, сословиелік тұйықтық, атаусыз фольклор"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Машинное производство, стандартизация деятельности, типовой культурный продукт",
+            "en": "Machine production, the standardization of activity, a standardized cultural product",
+            "kk": "Машиналық өндіріс, қызметті стандарттау, үлгілік мәдени өнім"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ручное производство, индивидуальный заказ, стандартизация досуга",
+            "en": "Manual production, individual commissions, the standardization of leisure",
+            "kk": "Қолмен өндіру, жеке тапсырыс, бос уақытты стандарттау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сокращение образования, исчезновение аудитории, рост массовой литературы",
+            "en": "The reduction of education, the disappearance of the audience, the growth of mass literature",
+            "kk": "Білімнің қысқаруы, аудиторияның жоғалуы, бұқаралық әдебиеттің өсуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 5",
+          "units": [
+            "p5"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 208,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социальный сдвиг, непосредственно создавший платёжеспособный спрос на типовые культурные развлечения, — это...",
+        "en": "The social shift that directly created a solvent demand for standardized cultural entertainment is...",
+        "kk": "Үлгілік мәдени ойын-сауыққа төлем қабілетті сұранысты тікелей тудырған әлеуметтік ығысу — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Слияние производственного времени с религиозным обрядом",
+            "en": "The merging of production time with religious rite",
+            "kk": "Өндірістік уақыттың діни ғұрыппен қосылуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Возвращение к натуральному замкнутому хозяйству",
+            "en": "A return to a closed subsistence economy",
+            "kk": "Натуралды тұйық шаруашылыққа қайта оралу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отказ населения от массовых средств коммуникации",
+            "en": "The population's rejection of mass media of communication",
+            "kk": "Халықтың бұқаралық коммуникация құралдарынан бас тартуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исчезновение рынка культурных услуг",
+            "en": "The disappearance of the market for cultural services",
+            "kk": "Мәдени қызметтер нарығының жоғалуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Разделение времени работающего человека на работу и досуг",
+            "en": "The division of a working person's time into work and leisure",
+            "kk": "Жұмыс істейтін адамның уақытын жұмыс пен бос уақытқа бөлу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 9",
+          "units": [
+            "p9"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 209,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Расширение начального образования способствовало массовой литературе прежде всего через...",
+        "en": "The expansion of elementary education contributed to mass literature primarily through...",
+        "kk": "Бастауыш білімнің кеңеюі бұқаралық әдебиеттің дамуына ең алдымен неге ықпал етті?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Формирование многочисленной читательской аудитории",
+            "en": "The formation of a numerous reading audience",
+            "kk": "Көптеген оқырман аудиториясының қалыптасуына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отказ от коммерческого распространения книг",
+            "en": "The abandonment of the commercial distribution of books",
+            "kk": "Кітаптарды коммерциялық таратудан бас тартуға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сокращение числа издательских жанров",
+            "en": "A reduction in the number of publishing genres",
+            "kk": "Баспа жанрлары санының қысқаруына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Перенос всей письменной культуры в устное предание",
+            "en": "The transfer of all written culture into oral tradition",
+            "kk": "Бүкіл жазба мәдениеттің ауызша аңызға көшуіне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Восстановление монополии рукописных мастерских",
+            "en": "The restoration of the monopoly of manuscript workshops",
+            "kk": "Қолжазба шеберханалар монополиясының қалпына келуіне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 10",
+          "units": [
+            "p10"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 210,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Критерий, отличающий элитарное меньшинство в понимании Ортеги-и-Гассета, — это...",
+        "en": "The criterion that distinguishes the elite minority in Ortega y Gasset's understanding is...",
+        "kk": "Ортега-и-Гассет ұғымында элиталық азшылықты ерекшелейтін өлшем — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключительно высокий имущественный статус",
+            "en": "An exceptionally high property status",
+            "kk": "Тек өте жоғары мүліктік мәртебе"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Совпадение собственных вкусов со среднестатистическими",
+            "en": "A coincidence of one's own tastes with the statistical average",
+            "kk": "Өз талғамының орташа статистикалық талғаммен сәйкес келуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Высокая требовательность к себе и добровольно принятые обязательства",
+            "en": "High demands on oneself and voluntarily accepted obligations",
+            "kk": "Өзіне жоғары талап қою және өз еркімен қабылдаған міндеттемелер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Потребление максимально большого числа культурных товаров",
+            "en": "The consumption of the largest possible number of cultural goods",
+            "kk": "Мәдени тауарлардың ең көп санын тұтыну"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Принадлежность к наследственной политической аристократии",
+            "en": "Membership in a hereditary political aristocracy",
+            "kk": "Тұқым қуалайтын саяси аристократияға жату"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 17",
+          "units": [
+            "p17"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 211,
+      "topic_id": 9,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Черты, которые Ортега-и-Гассет приписывал «массовому человеку»:",
+        "en": "Traits that Ortega y Gasset ascribed to the \"mass man\":",
+        "kk": "Ортега-и-Гассет «бұқара адамға» жатқызған қасиеттер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Безудержный рост жизненных запросов",
+            "en": "An unrestrained growth of life demands",
+            "kk": "Өмірлік сұраныстардың тоқтаусыз өсуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Добровольное принятие культурных тягот и обязанностей",
+            "en": "Voluntary acceptance of cultural burdens and obligations",
+            "kk": "Мәдени ауыртпалықтар мен міндеттерді өз еркімен қабылдау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Служение самостоятельно принятой высшей норме",
+            "en": "Service to a higher norm accepted independently",
+            "kk": "Өзі қабылдаған жоғары нормаға қызмет ету"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Неблагодарность к обеспечивающим запросы условиям",
+            "en": "Ingratitude toward the conditions that satisfy his demands",
+            "kk": "Сұраныстарын қамтамасыз ететін жағдайларға ризашылықсыздық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Повышенная требовательность к собственным достижениям",
+            "en": "Heightened demands on one's own achievements",
+            "kk": "Өз жетістіктеріне жоғары талап қою"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 19",
+          "units": [
+            "p19"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 212,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Закон малинового джема» о тонком слое широко распространяемой культуры связан с именем...",
+        "en": "The \"law of raspberry jam\" about the thin layer of widely distributed culture is associated with the name of...",
+        "kk": "Кеңінен таратылатын мәдениеттің жұқа қабаты туралы «таңқурай джемі заңы» кімнің есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Д. Макдональда",
+            "en": "D. Macdonald",
+            "kk": "Д. Макдональд"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Э. Шилса",
+            "en": "E. Shils",
+            "kk": "Э. Шилс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "З. Баумана",
+            "en": "Z. Bauman",
+            "kk": "З. Бауман"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "У. Шрамма",
+            "en": "W. Schramm",
+            "kk": "У. Шрамм"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Д. Белла",
+            "en": "D. Bell",
+            "kk": "Д. Белл"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 29",
+          "units": [
+            "p29"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 213,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "З. Бауман объяснял массовый характер культуры индустриальных стран...",
+        "en": "Z. Bauman explained the mass character of the culture of industrial countries...",
+        "kk": "З. Бауман индустриалды елдер мәдениетінің бұқаралық сипатын мынамен түсіндірді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Преобладанием индивидуальных художественных заказов",
+            "en": "By the predominance of individual artistic commissions",
+            "kk": "Жеке көркемдік тапсырыстардың басымдығымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только снижением стоимости печатного экземпляра",
+            "en": "Only by the lowering of the cost of a printed copy",
+            "kk": "Тек баспа данасы құнының төмендеуімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключительно сокращением школьного образования",
+            "en": "Exclusively by the reduction of school education",
+            "kk": "Тек мектеп білімінің қысқаруымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сходством условий жизни всё больших групп населения",
+            "en": "By the similarity of living conditions of ever larger groups of the population",
+            "kk": "Халықтың барған сайын көп топтарының өмір жағдайларының ұқсастығымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только технической дальностью широковещательных каналов",
+            "en": "Only by the technical range of broadcasting channels",
+            "kk": "Тек кең ауқымды хабар тарату арналарының техникалық қашықтығымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 30",
+          "units": [
+            "p30"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 214,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Зависимость массовой культуры от сил, финансирующих СМИ, подчёркивал...",
+        "en": "The dependence of mass culture on the forces that finance the mass media was emphasized by...",
+        "kk": "Бұқаралық мәдениеттің БАҚ-ты қаржыландыратын күштерге тәуелділігін кім атап көрсетті?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Л. Ростен",
+            "en": "L. Rosten",
+            "kk": "Л. Ростен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "У. Шрамм",
+            "en": "W. Schramm",
+            "kk": "У. Шрамм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Э. Шилс",
+            "en": "E. Shils",
+            "kk": "Э. Шилс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ф. Стентон",
+            "en": "F. Stanton",
+            "kk": "Ф. Стентон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Г. Сельдес",
+            "en": "G. Seldes",
+            "kk": "Г. Сельдес"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 31",
+          "units": [
+            "p31"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 215,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Смысл массовой культуры в открытии доступа к высшим духовным ценностям для человека массы видел...",
+        "en": "The thinker who saw the meaning of mass culture in opening access to the highest spiritual values for the mass individual was...",
+        "kk": "Бұқаралық мәдениеттің мәнін бұқара адамға жоғары рухани құндылықтарға қолжетімділік ашудан көрген ғалым — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "О. Шпенглер",
+            "en": "O. Spengler",
+            "kk": "О. Шпенглер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Д. Макдональд",
+            "en": "D. Macdonald",
+            "kk": "Д. Макдональд"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Т. Адорно",
+            "en": "T. Adorno",
+            "kk": "Т. Адорно"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Э. Шилс",
+            "en": "E. Shils",
+            "kk": "Э. Шилс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Х. Ортега-и-Гассет",
+            "en": "J. Ortega y Gasset",
+            "kk": "Х. Ортега-и-Гассет"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 34",
+          "units": [
+            "p34"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 216,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Демассификация в характеристике постиндустриального общества означает...",
+        "en": "Demassification in the characterization of post-industrial society means...",
+        "kk": "Постиндустриалды қоғамды сипаттауда демассификация мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прекращение всякого массового распространения информации",
+            "en": "The cessation of any mass dissemination of information",
+            "kk": "Ақпаратты кез келген бұқаралық таратудың тоқтауын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Возвращение сословной неподвижности аудитории",
+            "en": "The return of the estate immobility of the audience",
+            "kk": "Аудиторияның сословиелік қозғалмастығына қайта оралуды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Расширение единой обязательной культурной нормы",
+            "en": "The expansion of a single obligatory cultural norm",
+            "kk": "Бірыңғай міндетті мәдени норманың кеңеюін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рост однородности образцов потребления",
+            "en": "The growth of uniformity of consumption patterns",
+            "kk": "Тұтыну үлгілерінің біртектілігінің өсуін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Переход от унификации к персонализации",
+            "en": "The transition from unification to personalization",
+            "kk": "Біріздендіруден дараландыруға көшуді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 38",
+          "units": [
+            "p38"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 217,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Особенность массовой культуры, выражающаяся в выпуске большого количества однотипных продуктов, — это...",
+        "en": "The feature of mass culture expressed in the output of a large quantity of products of the same type is...",
+        "kk": "Бұқаралық мәдениеттің бір типті өнімдердің көп шығарылуынан көрінетін ерекшелігі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Уникальность и невоспроизводимость",
+            "en": "Uniqueness and non-reproducibility",
+            "kk": "Бірегейлік және қайталанбастық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Анонимность и вариативность",
+            "en": "Anonymity and variability",
+            "kk": "Атаусыздық және әртүрлілік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эзотеричность и посвящение",
+            "en": "Esotericism and initiation",
+            "kk": "Эзотерикалық және бастамашылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Серийность и тиражируемость",
+            "en": "Seriality and replicability",
+            "kk": "Сериялылық және көбейтілімділік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сакральность и ритуальность",
+            "en": "Sacredness and ritual character",
+            "kk": "Қасиеттілік және ғұрыптық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 44",
+          "units": [
+            "p44"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 218,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Коммерческий характер массовой культуры означает прежде всего...",
+        "en": "The commercial character of mass culture means primarily...",
+        "kk": "Бұқаралық мәдениеттің коммерциялық сипаты ең алдымен нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Юридический запрет на повторное распространение",
+            "en": "A legal prohibition of repeated distribution",
+            "kk": "Қайта таратуға заңды тыйым салуды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ориентацию продукта на продажу широкому кругу потребителей",
+            "en": "The orientation of a product to sale to a broad range of consumers",
+            "kk": "Өнімді тұтынушылардың кең ауқымына сатуға бағдарлауды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательное отсутствие профессиональных авторов",
+            "en": "The obligatory absence of professional authors",
+            "kk": "Кәсіби авторлардың міндетті түрде болмауын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сохранение продукта исключительно в замкнутой группе",
+            "en": "Keeping the product exclusively within a closed group",
+            "kk": "Өнімді тек тұйық топта сақтауды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Преобладание индивидуального несерийного заказа",
+            "en": "The predominance of individual, non-serial commissions",
+            "kk": "Жеке, сериялы емес тапсырыстың басым болуын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 46",
+          "units": [
+            "p46"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 219,
+      "topic_id": 9,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Соответствия, подтверждающие профессиональный характер создания массовой культуры:",
+        "en": "Pairings that confirm the professional character of the creation of mass culture:",
+        "kk": "Бұқаралық мәдениеттің кәсіби сипатта жасалатынын растайтын сәйкестіктер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сценарий фильма: работа литератора",
+            "en": "A film script: the work of a writer",
+            "kk": "Фильм сценарийі: әдебиетшінің жұмысы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Массовый роман: обязательное коллективное анонимное авторство",
+            "en": "A mass-market novel: obligatory collective anonymous authorship",
+            "kk": "Бұқаралық роман: міндетті ұжымдық атаусыз авторлық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кинофильм: исключение специализированного разделения творческого труда",
+            "en": "A film: the exclusion of the specialized division of creative labour",
+            "kk": "Кинофильм: шығармашылық еңбектің мамандандырылған бөлінісін жоққа шығару"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эстрадная песня: отсутствие индивидуального композиторского вклада",
+            "en": "A pop song: the absence of an individual composer's contribution",
+            "kk": "Эстрадалық ән: жеке композиторлық үлестің болмауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Реклама: работа дизайнера",
+            "en": "Advertising: the work of a designer",
+            "kk": "Жарнама: дизайнердің жұмысы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 47",
+          "units": [
+            "p47"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 220,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое положительное свойство массовой культуры отмечается наряду с её коммерческими ограничениями?",
+        "en": "Which positive property of mass culture is noted alongside its commercial limitations?",
+        "kk": "Бұқаралық мәдениеттің коммерциялық шектеулерімен қатар қандай оң қасиеті атап өтіледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гарантированное предпочтение аудитории наиболее сложных образцов",
+            "en": "The guaranteed preference of the audience for the most complex models",
+            "kk": "Аудиторияның ең күрделі үлгілерді таңдауына кепілдік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исчезновение различий эстетического уровня произведений",
+            "en": "The disappearance of differences in the aesthetic level of works",
+            "kk": "Шығармалардың эстетикалық деңгейіндегі айырмашылықтардың жойылуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Изобилие доступных символических форм, образов и информации",
+            "en": "An abundance of accessible symbolic forms, images and information",
+            "kk": "Қолжетімді символдық нысандардың, бейнелердің және ақпараттың молдығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Автоматическое формирование безупречного нравственного вкуса",
+            "en": "The automatic formation of impeccable moral taste",
+            "kk": "Мінсіз адамгершілік талғамның автоматты түрде қалыптасуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Полная независимость от механизмов рынка",
+            "en": "Complete independence from market mechanisms",
+            "kk": "Нарық тетіктерінен толық тәуелсіздік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 49",
+          "units": [
+            "p49"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 221,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как классическая культура соотносится с элитарной и массовой по способу создания и освоения?",
+        "en": "How does classical culture relate to elite and mass culture in terms of the way it is created and assimilated?",
+        "kk": "Классикалық мәдениет жасалу және игерілу тәсілі жағынан элиталық және бұқаралық мәдениетпен қалай сабақтасады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Субкультурная по созданию, не выходит за рамки группы",
+            "en": "Subcultural in creation, it does not go beyond the group",
+            "kk": "Жасалуы бойынша субмәдени, топ шеңберінен шықпайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Элитарна по созданию, приобретает массовость при освоении",
+            "en": "Elite in creation, it becomes mass in assimilation",
+            "kk": "Жасалуы бойынша элиталық, игерілгенде бұқаралық сипат алады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Маргинальная по созданию, утрачивает художественную форму",
+            "en": "Marginal in creation, it loses its artistic form",
+            "kk": "Жасалуы бойынша маргиналды, көркемдік нысанын жоғалтады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Народная по созданию, исключает профессиональное исполнение",
+            "en": "Folk in creation, it excludes professional performance",
+            "kk": "Жасалуы бойынша халықтық, кәсіби орындауды жоққа шығарады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Массовая по созданию, остаётся доступной только автору",
+            "en": "Mass in creation, it remains accessible only to the author",
+            "kk": "Жасалуы бойынша бұқаралық, тек автор үшін қолжетімді болып қалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 38",
+          "units": [
+            "p38"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 222,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Пограничное образование на пересечении языков, эпох или этнических культур называется...",
+        "en": "A borderline formation at the intersection of languages, epochs or ethnic cultures is called...",
+        "kk": "Тілдердің, дәуірлердің немесе этникалық мәдениеттердің түйісуіндегі шекаралық құрылым қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Профессиональной культурой",
+            "en": "Professional culture",
+            "kk": "Кәсіби мәдениет"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Классической культурой",
+            "en": "Classical culture",
+            "kk": "Классикалық мәдениет"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Маргинальной культурой",
+            "en": "Marginal culture",
+            "kk": "Маргиналды мәдениет"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Материальной культурой",
+            "en": "Material culture",
+            "kk": "Материалдық мәдениет"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Доминирующей культурой",
+            "en": "Dominant culture",
+            "kk": "Үстем мәдениет"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 48",
+          "units": [
+            "p48"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 223,
+      "topic_id": 9,
+      "type": "single_choice",
+      "question": {
+        "ru": "Признак, отличающий контркультурную установку от просто группового своеобразия, — это...",
+        "en": "The feature that distinguishes a countercultural stance from mere group distinctiveness is...",
+        "kk": "Контрмәдени ұстанымды жай топтық ерекшеліктен ажырататын белгі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Территориальное единство художественной школы",
+            "en": "The territorial unity of an artistic school",
+            "kk": "Көркемдік мектептің аумақтық бірлігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Противостояние фундаментальным принципам основной культуры",
+            "en": "Opposition to the fundamental principles of the mainstream culture",
+            "kk": "Негізгі мәдениеттің іргелі қағидаларына қарсы тұру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Совпадение интересов одной возрастной группы",
+            "en": "The coincidence of the interests of a single age group",
+            "kk": "Бір жас тобының мүдделерінің сәйкес келуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сохранение локального варианта общего обычая",
+            "en": "The preservation of a local variant of a common custom",
+            "kk": "Ортақ әдет-ғұрыптың жергілікті нұсқасын сақтау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наличие особого профессионального словаря",
+            "en": "The presence of a special professional vocabulary",
+            "kk": "Ерекше кәсіби сөздіктің болуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 56",
+          "units": [
+            "p56"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 224,
+      "topic_id": 9,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите задачи, связанные с элитарной культурой.",
+        "en": "Indicate the tasks associated with elite culture.",
+        "kk": "Элиталық мәдениетпен байланысты міндеттерді көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отказ от сложного эстетического эксперимента",
+            "en": "Rejection of complex aesthetic experimentation",
+            "kk": "Күрделі эстетикалық эксперименттен бас тарту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Создание новых эстетических форм",
+            "en": "The creation of new aesthetic forms",
+            "kk": "Жаңа эстетикалық нысандарды жасау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сведение художественного опыта к серийному потреблению",
+            "en": "Reducing artistic experience to serial consumption",
+            "kk": "Көркемдік тәжірибені сериялы тұтынуға келтіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сохранение творческого начала",
+            "en": "The preservation of the creative principle",
+            "kk": "Шығармашылық бастауды сақтау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Воспроизведение лишь уже проверенных рыночных схем",
+            "en": "The reproduction of only already tested market formulas",
+            "kk": "Тек бұрыннан сыналған нарықтық схемаларды қайталау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9. модели современной культуры..docx",
+          "location": "абзац 35",
+          "units": [
+            "p35"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 225,
+      "topic_id": 9,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Действия рекламы, связанные с работой коллективного воображения:",
+        "en": "Actions of advertising linked with the work of the collective imagination:",
+        "kk": "Жарнаманың ұжымдық қиялдың жұмысымен байланыстырылатын әрекеттері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Устранение символических ожиданий аудитории",
+            "en": "Eliminating the symbolic expectations of the audience",
+            "kk": "Аудиторияның символдық күтулерін жою"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отказ от конструирования потребительских образов",
+            "en": "Refusing to construct consumer images",
+            "kk": "Тұтынушылық бейнелерді құрастырудан бас тарту"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Формирование образа нового потребителя",
+            "en": "Forming the image of a new consumer",
+            "kk": "Жаңа тұтынушының бейнесін қалыптастыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Фиксация только уже существующих материальных свойств товара",
+            "en": "Recording only the already existing material properties of a product",
+            "kk": "Тауардың тек бұрыннан бар материалдық қасиеттерін тіркеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Создание новых смыслов потребления",
+            "en": "Creating new meanings of consumption",
+            "kk": "Тұтынудың жаңа мағыналарын жасау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 МАССОВАЯ КУЛЬТУРА И ЕЕ ОТЛИЧИТЕЛЬНЫЕ ОСОБЕННОСТИ.docx",
+          "location": "абзац 60",
+          "units": [
+            "p60"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    }
+  ]
+}

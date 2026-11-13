@@ -1,0 +1,1736 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 286,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Передача собеседнику побуждения к новой деятельности по содержанию является общением...",
+        "en": "Conveying to the interlocutor an impulse toward new activity is, by content, a... communication.",
+        "kk": "Әңгімелесушіге жаңа әрекетке деген түрткіні беру мазмұны бойынша қандай қарым-қатынас болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кондиционным",
+            "en": "Conditioning",
+            "kk": "Кондиционды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Когнитивным",
+            "en": "Cognitive",
+            "kk": "Когнитивті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Материальным",
+            "en": "Material",
+            "kk": "Материалдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Деятельным",
+            "en": "Activity-based",
+            "kk": "Әрекеттік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Мотивационным",
+            "en": "Motivational",
+            "kk": "Мотивациялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 9, 10, 11, 13, 14",
+          "units": [
+            "p9",
+            "p10",
+            "p11",
+            "p13",
+            "p14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Успокаивающее воздействие одного участника беседы на эмоциональное состояние другого по содержанию относится к общению...",
+        "en": "The calming effect of one participant in a conversation on the emotional state of another belongs, by content, to... communication.",
+        "kk": "Әңгіме қатысушыларының бірінің екіншісінің эмоциялық күйіне тыныштандырушы әсері мазмұны бойынша қандай қарым-қатынасқа жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Материальному",
+            "en": "Material",
+            "kk": "Материалдыққа"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Деятельному",
+            "en": "Activity-based",
+            "kk": "Әрекеттікке"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кондиционному",
+            "en": "Conditioning",
+            "kk": "Кондиционды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мотивационному",
+            "en": "Motivational",
+            "kk": "Мотивациялыққа"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Когнитивному",
+            "en": "Cognitive",
+            "kk": "Когнитивтіге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 13",
+          "units": [
+            "p13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Передача другому человеку сведений о предмете по содержанию является общением...",
+        "en": "Conveying to another person information about an object is, by content, a... communication.",
+        "kk": "Өзге адамға зат туралы мәліметтер беру мазмұны бойынша қандай қарым-қатынас болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кондиционным",
+            "en": "Conditioning",
+            "kk": "Кондиционды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Когнитивным",
+            "en": "Cognitive",
+            "kk": "Когнитивті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Материальным",
+            "en": "Material",
+            "kk": "Материалдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Деятельным",
+            "en": "Activity-based",
+            "kk": "Әрекеттік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Мотивационным",
+            "en": "Motivational",
+            "kk": "Мотивациялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 10, 11",
+          "units": [
+            "p10",
+            "p11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия видов общения по содержанию:",
+        "en": "Correct correspondences between types of communication by content:",
+        "kk": "Мазмұны бойынша қарым-қатынас түрлерінің дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Деятельное: обмен действиями и умениями",
+            "en": "Activity-based: exchange of actions and skills",
+            "kk": "Әрекеттік: әрекеттер мен біліктермен алмасу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Когнитивное: обмен только побуждениями",
+            "en": "Cognitive: exchange of only impulses",
+            "kk": "Когнитивті: тек түрткілермен алмасу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Материальное: обмен продуктами деятельности",
+            "en": "Material: exchange of products of activity",
+            "kk": "Материалдық: әрекет өнімдерімен алмасу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мотивационное: обмен только предметами",
+            "en": "Motivational: exchange of only objects",
+            "kk": "Мотивациялық: тек заттармен алмасу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Кондиционное: обмен состояниями",
+            "en": "Conditioning: exchange of states",
+            "kk": "Кондиционды: күйлермен алмасу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 9, 10, 11, 13",
+          "units": [
+            "p9",
+            "p10",
+            "p11",
+            "p13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Общение, служащее достижению иной цели, кроме удовлетворения потребности в самом общении, называется...",
+        "en": "Communication that serves to achieve a goal other than satisfying the need for communication itself is called...",
+        "kk": "Қарым-қатынастың өзіне деген қажеттілікті қанағаттандырудан басқа мақсатқа жетуге қызмет ететін түрі қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Целевым",
+            "en": "Goal-oriented",
+            "kk": "Мақсатты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Спонтанным аффективным",
+            "en": "Spontaneous affective",
+            "kk": "Стихиялы аффективті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Личностным самоценным",
+            "en": "Personal self-valuable",
+            "kk": "Тұлғалық өздік құнды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Референтным",
+            "en": "Referent",
+            "kk": "Референттік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Инструментальным",
+            "en": "Instrumental",
+            "kk": "Құралдық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 21, 22",
+          "units": [
+            "p21",
+            "p22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Общение как средство объединения людей реализует функцию...",
+        "en": "Communication as a means of bringing people together realizes the... function.",
+        "kk": "Адамдарды біріктіру құралы ретінде қарым-қатынас қандай қызметті жүзеге асырады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Самовыражения",
+            "en": "Self-expression",
+            "kk": "Өзін-өзі білдіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интегративную",
+            "en": "Integrative",
+            "kk": "Интегративтік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социализации",
+            "en": "Socialization",
+            "kk": "Әлеуметтену"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Трансляционную",
+            "en": "Transmission",
+            "kk": "Трансляциялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Инструментальную",
+            "en": "Instrumental",
+            "kk": "Құралдық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 27",
+          "units": [
+            "p27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Передача сообщения через другого человека как посредника характеризует общение...",
+        "en": "Passing a message through another person as an intermediary characterizes... communication.",
+        "kk": "Хабарламаны өзге адам арқылы делдал ретінде беру қарым-қатынастың қандай түрін сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Контактное лицом к лицу",
+            "en": "Face-to-face contact",
+            "kk": "Бетпе-бет жанасымды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Непосредственное",
+            "en": "Direct",
+            "kk": "Тікелей (делдалсыз)"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Прямое",
+            "en": "Immediate",
+            "kk": "Тура"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Внутриличностное",
+            "en": "Intrapersonal",
+            "kk": "Тұлға ішілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Косвенное",
+            "en": "Indirect",
+            "kk": "Жанама"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 31, 32",
+          "units": [
+            "p31",
+            "p32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Главное различие императивного и манипулятивного воздействия состоит в...",
+        "en": "The main difference between imperative and manipulative influence lies in...",
+        "kk": "Императивті және манипулятивті әсердің басты айырмашылығы неде?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Числе участников коммуникации",
+            "en": "The number of participants in the communication",
+            "kk": "Коммуникация қатысушыларының санында"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Использовании только речи или только жестов",
+            "en": "The use of only speech or only gestures",
+            "kk": "Тек сөзді немесе тек ым-ишараны пайдалануда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наличии или отсутствии любого психологического воздействия",
+            "en": "The presence or absence of any psychological influence",
+            "kk": "Кез келген психологиялық әсердің болуы не болмауында"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Открытости или скрытости намерения управлять партнёром",
+            "en": "The openness or concealment of the intention to control the partner",
+            "kk": "Серіктесті басқару ниетінің ашық не жасырын болуында"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательном присутствии технического посредника",
+            "en": "The obligatory presence of a technical intermediary",
+            "kk": "Техникалық делдалдың міндетті түрде болуында"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 39, 40",
+          "units": [
+            "p39",
+            "p40"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Условия, соответствующие диалогическому общению:",
+        "en": "Conditions that correspond to dialogic communication:",
+        "kk": "Диалогтік қарым-қатынасқа сәйкес келетін жағдайлар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Признание равноправия партнёра",
+            "en": "Recognition of the partner's equality",
+            "kk": "Серіктестің тең құқықтылығын мойындау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Подмена позиции партнёра обязательным приказом",
+            "en": "Replacing the partner's position with a mandatory order",
+            "kk": "Серіктестің ұстанымын міндетті бұйрықпен алмастыру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Выражение собственных чувств от своего имени",
+            "en": "Expressing one's own feelings in one's own name",
+            "kk": "Өз сезімдерін өз атынан білдіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сокрытие цели ради управления собеседником",
+            "en": "Concealing the goal in order to control the interlocutor",
+            "kk": "Әңгімелесушіні басқару үшін мақсатты жасыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обсуждение реальной нерешённой проблемы",
+            "en": "Discussing a real unresolved problem",
+            "kk": "Шешілмеген нақты мәселені талқылау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 44, 45, 46, 47, 48",
+          "units": [
+            "p44",
+            "p45",
+            "p46",
+            "p47",
+            "p48"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Организация совместных действий составляет сторону общения...",
+        "en": "The organization of joint actions constitutes the... side of communication.",
+        "kk": "Бірлескен әрекеттерді ұйымдастыру қарым-қатынастың қандай жағын құрайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Перцептивную",
+            "en": "Perceptual",
+            "kk": "Перцептивтік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Экстралингвистическую",
+            "en": "Extralinguistic",
+            "kk": "Экстралингвистикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Интерактивную",
+            "en": "Interactive",
+            "kk": "Интерактивтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Паралингвистическую",
+            "en": "Paralinguistic",
+            "kk": "Паралингвистикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Коммуникативную",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 54, 55, 56, 57",
+          "units": [
+            "p54",
+            "p55",
+            "p56",
+            "p57"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Восприятие и понимание собеседника с формированием отношения к нему составляет сторону общения...",
+        "en": "Perceiving and understanding the interlocutor and forming an attitude toward him or her constitutes the... side of communication.",
+        "kk": "Әңгімелесушіні қабылдау және түсіну, оған қатынас қалыптастыру қарым-қатынастың қандай жағын құрайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Инструментальную",
+            "en": "Instrumental",
+            "kk": "Құралдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интерактивную",
+            "en": "Interactive",
+            "kk": "Интерактивтік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Перцептивную",
+            "en": "Perceptual",
+            "kk": "Перцептивтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Трансляционную",
+            "en": "Transmissive",
+            "kk": "Трансляциялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Коммуникативную",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 55, 57",
+          "units": [
+            "p55",
+            "p57"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "topic_id": 14,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое сообщение точнее соответствует психологической обратной связи?",
+        "en": "Which message corresponds more closely to psychological feedback?",
+        "kk": "Қандай хабарлама психологиялық кері байланысқа дәлірек сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "«Мне кажется, ты невнимательный человек»",
+            "en": "\"I think you are an inattentive person\"",
+            "kk": "«Маған сен зейінсіз адам сияқтысың»"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "«Я чувствую, что ты намеренно меня не уважаешь»",
+            "en": "\"I feel that you are deliberately disrespecting me\"",
+            "kk": "«Сенің мені әдейі құрметтемейтініңді сезінемін»"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "«Я понимаю, что ты специально хочешь меня задеть»",
+            "en": "\"I understand that you want to hurt me on purpose\"",
+            "kk": "«Сенің мені әдейі ренжіткің келетінін түсінемін»"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "«Когда ты перебиваешь, я теряю мысль и раздражаюсь»",
+            "en": "\"When you interrupt, I lose my train of thought and get irritated\"",
+            "kk": "«Сен сөзімді бөлгенде, мен ойымнан жаңылып, ашуланамын»"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "«Наш коллектив считает, что тебе нужно быть тактичнее»",
+            "en": "\"Our team thinks you need to be more tactful\"",
+            "kk": "«Біздің ұжым сенің тактілірек болуың керек деп санайды»"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 60, 132, 134, 135, 136, 137",
+          "units": [
+            "p60",
+            "p132",
+            "p134",
+            "p135",
+            "p136",
+            "p137"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Последовательность «кто, что, каким каналом, кому, с каким эффектом» принадлежит модели...",
+        "en": "The sequence \"who, says what, through which channel, to whom, with what effect\" belongs to the model of...",
+        "kk": "«Кім, не, қандай арна арқылы, кімге, қандай әсермен» реттілігі қай модельге тиесілі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Э. Холла",
+            "en": "E. Hall",
+            "kk": "Э. Холл"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "К. Роджерса",
+            "en": "C. Rogers",
+            "kk": "К. Роджерс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Г. Келли",
+            "en": "H. Kelley",
+            "kk": "Г. Келли"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Д. Канемана",
+            "en": "D. Kahneman",
+            "kk": "Д. Канеман"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Г. Лассуэлла",
+            "en": "H. Lasswell",
+            "kk": "Г. Лассуэлл"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 68, 69, 70, 71, 72, 73",
+          "units": [
+            "p68",
+            "p69",
+            "p70",
+            "p71",
+            "p72",
+            "p73"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия сторон общения.",
+        "en": "Indicate the correct correspondences between sides of communication.",
+        "kk": "Қарым-қатынас жақтарының дұрыс сәйкестіктерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интерактивная: организация взаимодействия",
+            "en": "Interactive: the organization of interaction",
+            "kk": "Интерактивтік: өзара әрекеттесуді ұйымдастыру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Коммуникативная: обмен информацией",
+            "en": "Communicative: the exchange of information",
+            "kk": "Коммуникативтік: ақпаратпен алмасу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Перцептивная: только передача текста",
+            "en": "Perceptual: only the transmission of text",
+            "kk": "Перцептивтік: тек мәтінді беру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Перцептивная: понимание партнёра",
+            "en": "Perceptual: understanding the partner",
+            "kk": "Перцептивтік: серіктесті түсіну"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интерактивная: только тембр голоса",
+            "en": "Interactive: only the timbre of the voice",
+            "kk": "Интерактивтік: тек дауыс тембрі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 55, 56, 57",
+          "units": [
+            "p55",
+            "p56",
+            "p57"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Диапазон, качество и тональность голоса относятся к системе коммуникации...",
+        "en": "The range, quality and tonality of the voice belong to the... system of communication.",
+        "kk": "Дауыстың диапазоны, сапасы және тональдығы коммуникацияның қандай жүйесіне жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Оптико-кинетической",
+            "en": "Optical-kinetic",
+            "kk": "Оптикалық-кинетикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Проксемической",
+            "en": "Proxemic",
+            "kk": "Проксемикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Паралингвистической",
+            "en": "Paralinguistic",
+            "kk": "Паралингвистикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Экстралингвистической",
+            "en": "Extralinguistic",
+            "kk": "Экстралингвистикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Лексико-семантической",
+            "en": "Lexical-semantic",
+            "kk": "Лексика-семантикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 77",
+          "units": [
+            "p77"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Паузы, смех и покашливание как включения в речь относятся к системе...",
+        "en": "Pauses, laughter and coughing as insertions into speech belong to the... system.",
+        "kk": "Сөйлеуге қосылатын үзілістер, күлкі мен жөтелу коммуникацияның қандай жүйесіне жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Паралингвистической",
+            "en": "Paralinguistic",
+            "kk": "Паралингвистикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Визуально-контактной",
+            "en": "Visual-contact",
+            "kk": "Визуалды-байланыстық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Экстралингвистической",
+            "en": "Extralinguistic",
+            "kk": "Экстралингвистикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Проксемической",
+            "en": "Proxemic",
+            "kk": "Проксемикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Лексико-грамматической",
+            "en": "Lexical-grammatical",
+            "kk": "Лексика-грамматикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 77",
+          "units": [
+            "p77"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Пространственную организацию общения и нормы дистанции исследует...",
+        "en": "The spatial organization of communication and the norms of distance are studied by...",
+        "kk": "Қарым-қатынастың кеңістіктік ұйымдасуы мен қашықтық нормаларын не зерттейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Мнемотехника",
+            "en": "Mnemonics",
+            "kk": "Мнемотехника"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Проксемика",
+            "en": "Proxemics",
+            "kk": "Проксемика"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Френология",
+            "en": "Phrenology",
+            "kk": "Френология"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Психофизика",
+            "en": "Psychophysics",
+            "kk": "Психофизика"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интроспекция",
+            "en": "Introspection",
+            "kk": "Интроспекция"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 78, 79",
+          "units": [
+            "p78",
+            "p79"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Осознание того, как тебя воспринимает партнёр по общению, называется...",
+        "en": "Awareness of how one is perceived by a communication partner is called...",
+        "kk": "Қарым-қатынас серіктесінің сені қалай қабылдайтынын ұғыну не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Каузальной атрибуцией",
+            "en": "Causal attribution",
+            "kk": "Себептік атрибуция"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рефлексией",
+            "en": "Reflection",
+            "kk": "Рефлексия"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Идентификацией",
+            "en": "Identification",
+            "kk": "Идентификация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Проецированием",
+            "en": "Projection",
+            "kk": "Проекциялау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эмпатией",
+            "en": "Empathy",
+            "kk": "Эмпатия"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 87, 89, 95",
+          "units": [
+            "p87",
+            "p89",
+            "p95"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия механизмов межличностного понимания:",
+        "en": "Correct correspondences between mechanisms of interpersonal understanding:",
+        "kk": "Тұлғааралық түсіну тетіктерінің дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Идентификация: уподобление себя другому",
+            "en": "Identification: likening oneself to another",
+            "kk": "Идентификация: өзін басқаға ұқсату"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рефлексия: осознание восприятия себя партнёром",
+            "en": "Reflection: awareness of how the partner perceives oneself",
+            "kk": "Рефлексия: серіктестің өзін қалай қабылдайтынын ұғыну"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Идентификация: переоценка роли ситуации",
+            "en": "Identification: reassessing the role of the situation",
+            "kk": "Идентификация: жағдайдың рөлін қайта бағалау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эмпатия: приписывание своих качеств другому",
+            "en": "Empathy: attributing one's own qualities to another",
+            "kk": "Эмпатия: өз қасиеттерін басқаға жатқызу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эмпатия: эмоциональное понимание состояния другого",
+            "en": "Empathy: emotional understanding of another's state",
+            "kk": "Эмпатия: басқаның күйін эмоциялық түсіну"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 87, 89, 95",
+          "units": [
+            "p87",
+            "p89",
+            "p95"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Хорошее общее впечатление о человеке заставляет положительно оценивать даже неизвестные его качества. Это эффект...",
+        "en": "A good overall impression of a person leads one to evaluate even his or her unknown qualities positively. This is the... effect.",
+        "kk": "Адам туралы жақсы жалпы әсер оның беймәлім қасиеттерін де оң бағалауға мәжбүр етеді. Бұл қандай эффект?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Проецирования",
+            "en": "Projection",
+            "kk": "Проекциялау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ореола",
+            "en": "Halo",
+            "kk": "Ореол"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Первичности",
+            "en": "Primacy",
+            "kk": "Біріншілік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Последней информации",
+            "en": "Recency",
+            "kk": "Соңғы ақпарат"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Завершённого действия",
+            "en": "Completed action",
+            "kk": "Аяқталған әрекет"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 102",
+          "units": [
+            "p102"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Наблюдатель приписывает собеседнику собственные эмоциональные состояния и мотивы. Это эффект...",
+        "en": "An observer attributes his or her own emotional states and motives to the interlocutor. This is the... effect.",
+        "kk": "Бақылаушы әңгімелесушіге өзінің эмоциялық күйлері мен уәждерін жатқызады. Бұл қандай эффект?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Проецирования",
+            "en": "Projection",
+            "kk": "Проекциялау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социальной фасилитации",
+            "en": "Social facilitation",
+            "kk": "Әлеуметтік фасилитация"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Первичности",
+            "en": "Primacy",
+            "kk": "Біріншілік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ореола",
+            "en": "Halo",
+            "kk": "Ореол"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Последней информации",
+            "en": "Recency",
+            "kk": "Соңғы ақпарат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 103",
+          "units": [
+            "p103"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Наблюдатель объясняет опоздание чужой безответственностью, игнорируя транспортный сбой. Это пример...",
+        "en": "An observer explains someone else's lateness by irresponsibility, ignoring a transport disruption. This is an example of...",
+        "kk": "Бақылаушы кешігуді көліктегі ақауды ескермей, өзгенің жауапсыздығымен түсіндіреді. Бұл неге мысал?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эффекта ореола",
+            "en": "The halo effect",
+            "kk": "Ореол эффектісіне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Фундаментальной ошибки атрибуции",
+            "en": "The fundamental attribution error",
+            "kk": "Атрибуцияның іргелі қатесіне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Проецирования",
+            "en": "Projection",
+            "kk": "Проекциялауға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эффекта первичности",
+            "en": "The primacy effect",
+            "kk": "Біріншілік эффектісіне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эффекта последней информации",
+            "en": "The recency effect",
+            "kk": "Соңғы ақпарат эффектісіне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 108, 119",
+          "units": [
+            "p108",
+            "p119"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "topic_id": 14,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "В сходных обстоятельствах поведение человека постоянно, в других отличается; большинство реагирует так же. Вероятнее атрибуция...",
+        "en": "In similar circumstances a person's behavior is consistent, in other circumstances it differs, and most people react in the same way. Which attribution is most likely?",
+        "kk": "Ұқсас жағдайларда адамның мінез-құлқы тұрақты, басқа жағдайларда өзгеше болады; көпшілік те осылай әрекет етеді. Мінез-құлықтың себебін неге жатқызу ықтимал?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Особой личной мотивации",
+            "en": "Special personal motivation",
+            "kk": "Ерекше жеке уәждемеге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Врождённому темпераменту",
+            "en": "Innate temperament",
+            "kk": "Туа біткен темпераментке"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Устойчивой личностной черте",
+            "en": "A stable personality trait",
+            "kk": "Тұрақты тұлғалық қырға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Индивидуальному характеру",
+            "en": "Individual character",
+            "kk": "Жеке мінезге"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Внешним обстоятельствам",
+            "en": "External circumstances",
+            "kk": "Сыртқы жағдайларға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 110, 111, 112, 114",
+          "units": [
+            "p110",
+            "p111",
+            "p112",
+            "p114"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "В трёхкомпонентную структуру социальной установки входят:",
+        "en": "The three-component structure of a social attitude includes:",
+        "kk": "Әлеуметтік қондырманың үш компонентті құрылымына мыналар кіреді:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Поведенческий",
+            "en": "Behavioral",
+            "kk": "Мінез-құлықтық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мотивационно-целевой",
+            "en": "Motivational-goal",
+            "kk": "Уәждемелік-мақсаттық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Рефлексивно-оценочный",
+            "en": "Reflective-evaluative",
+            "kk": "Рефлексивті-бағалаушылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Аффективный",
+            "en": "Affective",
+            "kk": "Аффективті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Когнитивный",
+            "en": "Cognitive",
+            "kk": "Когнитивті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 125, 126, 127, 128",
+          "units": [
+            "p125",
+            "p126",
+            "p127",
+            "p128"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чем предубеждение отличается от стереотипа в приведённом разграничении?",
+        "en": "How does prejudice differ from a stereotype in the distinction given?",
+        "kk": "Келтірілген ажыратуда алдын ала пікір стереотиптен немен ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Стереотип обязательно основан на личном исследовании",
+            "en": "A stereotype is necessarily based on personal investigation",
+            "kk": "Стереотип міндетті түрде жеке зерттеуге негізделеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Стереотип не может относиться к группе людей",
+            "en": "A stereotype cannot refer to a group of people",
+            "kk": "Стереотип адамдар тобына қатысты бола алмайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Предубеждение содержит эмоциональную оценку, стереотип упрощённое представление",
+            "en": "Prejudice contains an emotional evaluation, a stereotype a simplified representation",
+            "kk": "Алдын ала пікір эмоциялық бағаны қамтиды, стереотип жеңілдетілген түсінік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Предубеждение является только двигательной реакцией",
+            "en": "Prejudice is only a motor reaction",
+            "kk": "Алдын ала пікір тек қозғалыс реакциясы болып табылады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Предубеждение всегда результат полного знания личности",
+            "en": "Prejudice is always the result of full knowledge of the person",
+            "kk": "Алдын ала пікір әрдайым тұлғаны толық білудің нәтижесі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L14",
+          "file": "Лекции/Лекция 14.docx",
+          "location": "Абзацы 122, 123, 124",
+          "units": [
+            "p122",
+            "p123",
+            "p124"
+          ]
+        }
+      ]
+    }
+  ]
+}

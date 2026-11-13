@@ -1,0 +1,1372 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 86,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Студент сначала заставлял себя читать, затем увлёкся и продолжил без усилий, сохраняя цель. Внимание стало...",
+        "en": "A student at first forced himself to read, then became absorbed and continued effortlessly while keeping the goal in mind. His attention became...",
+        "kk": "Студент алдымен оқуға өзін мәжбүрледі, кейін қызығып, мақсатын сақтай отырып, күш салмастан жалғастырды. Оның зейіні қандай зейінге айналды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Послепроизвольным",
+            "en": "Post-voluntary",
+            "kk": "Ерікті кейінгі зейінге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рефлекторным ориентировочным",
+            "en": "Reflexive orienting",
+            "kk": "Рефлекторлық бағдарлау зейініне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Произвольным моторным",
+            "en": "Voluntary motor",
+            "kk": "Ерікті моторлық зейінге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Непроизвольным двигательным",
+            "en": "Involuntary motor",
+            "kk": "Еріксіз қозғалыстық зейінге"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непроизвольным сенсорным",
+            "en": "Involuntary sensory",
+            "kk": "Еріксіз сенсорлық зейінге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 14",
+          "units": [
+            "p14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вид внимания, поддерживаемый интересом после первоначального волевого усилия, выделил...",
+        "en": "The type of attention sustained by interest after an initial volitional effort was identified by...",
+        "kk": "Алғашқы ерік күшінен кейін қызығушылықпен қолдау табатын зейін түрін кім бөліп көрсетті?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Д. Н. Узнадзе",
+            "en": "D. N. Uznadze",
+            "kk": "Д. Н. Узнадзе"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Т. Рибо",
+            "en": "T. Ribot",
+            "kk": "Т. Рибо"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Н. Ф. Добрынин",
+            "en": "N. F. Dobrynin",
+            "kk": "Н. Ф. Добрынин"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "П. Я. Гальперин",
+            "en": "P. Ya. Galperin",
+            "kk": "П. Я. Гальперин"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Д. Бродбент",
+            "en": "D. Broadbent",
+            "kk": "Д. Бродбент"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 14",
+          "units": [
+            "p14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Признаки, отличающие непроизвольное внимание от произвольного:",
+        "en": "Features that distinguish involuntary attention from voluntary attention:",
+        "kk": "Еріксіз зейінді ерікті зейіннен ажырататын белгілер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отсутствие специального усилия сосредоточиться",
+            "en": "No special effort to concentrate",
+            "kk": "Шоғырлану үшін арнайы күш салудың болмауы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Поддержание обязательной задачи вопреки интересу",
+            "en": "Sustaining a required task in spite of interest",
+            "kk": "Қызығушылыққа қарамастан міндетті тапсырманы ұстап тұру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Регулярная проверка по принятому плану",
+            "en": "Regular checking against an adopted plan",
+            "kk": "Қабылданған жоспар бойынша үнемі тексеру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Привлечение особенностями самого раздражителя",
+            "en": "Capture by the features of the stimulus itself",
+            "kk": "Тітіркендіргіштің өзінің ерекшеліктерімен тартылуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Предварительное решение быть внимательным",
+            "en": "A prior decision to be attentive",
+            "kk": "Зейінді болу туралы алдын ала шешім қабылдау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 19, 20, 22",
+          "units": [
+            "p19",
+            "p20",
+            "p22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Испытуемый за краткое предъявление охватывает больше объектов при прежней сосредоточенности. Увеличился прежде всего...",
+        "en": "A participant takes in more objects during a brief presentation with the same level of concentration. What has primarily increased is the...",
+        "kk": "Зерттелуші қысқа көрсету кезінде бұрынғы шоғырлану деңгейінде көбірек нысанды қамтиды. Ең алдымен зейіннің қай қасиеті артты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Объём внимания",
+            "en": "Span of attention",
+            "kk": "Зейін көлемі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Моторный компонент внимания",
+            "en": "Motor component of attention",
+            "kk": "Зейіннің моторлық құрамдасы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Устойчивость внимания",
+            "en": "Stability of attention",
+            "kk": "Зейін тұрақтылығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Переключаемость внимания",
+            "en": "Switching of attention",
+            "kk": "Зейін ауысымдылығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Концентрация внимания",
+            "en": "Concentration of attention",
+            "kk": "Зейін шоғырлануы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 24, 25",
+          "units": [
+            "p24",
+            "p25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одновременный контроль показаний нескольких приборов характеризует...",
+        "en": "Monitoring the readings of several instruments at the same time characterizes...",
+        "kk": "Бірнеше аспаптың көрсеткіштерін бір мезгілде бақылау зейіннің қандай қасиетін сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Инертность внимания",
+            "en": "Inertia of attention",
+            "kk": "Зейін инерттілігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Последовательное воспроизведение",
+            "en": "Sequential reproduction",
+            "kk": "Дәйекті қайта жаңғыртуды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Колебание внимания",
+            "en": "Fluctuation of attention",
+            "kk": "Зейін тербелісін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Переключение внимания",
+            "en": "Switching of attention",
+            "kk": "Зейіннің ауысуын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Распределение внимания",
+            "en": "Division of attention",
+            "kk": "Зейін бөлінімділігін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 26, 30",
+          "units": [
+            "p26",
+            "p30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "topic_id": 5,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему краткие колебания внимания не обязательно означают утрату устойчивости?",
+        "en": "Why do brief fluctuations of attention not necessarily mean a loss of stability?",
+        "kk": "Неге зейіннің қысқа тербелістері міндетті түрде тұрақтылықтың жоғалуын білдірмейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Устойчивость равна неподвижности взора",
+            "en": "Stability is equal to a motionless gaze",
+            "kk": "Тұрақтылық көз жанарының қозғалмауына тең"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Устойчивость исключает любые колебания",
+            "en": "Stability excludes any fluctuations",
+            "kk": "Тұрақтылық кез келген тербелістерді жоққа шығарады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Внимание при колебаниях становится непроизвольным",
+            "en": "During fluctuations attention becomes involuntary",
+            "kk": "Тербеліс кезінде зейін еріксіз болып қалады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Может сохраняться общая направленность на задачу",
+            "en": "The overall direction toward the task can be maintained",
+            "kk": "Тапсырмаға жалпы бағытталу сақталуы мүмкін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Колебания определяют только объём памяти",
+            "en": "Fluctuations determine only the capacity of memory",
+            "kk": "Тербелістер тек есте сақтау көлемін анықтайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 27, 29",
+          "units": [
+            "p27",
+            "p29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие соответствия свойств внимания верны?",
+        "en": "Which correspondences between properties of attention are correct?",
+        "kk": "Зейін қасиеттерінің қандай сәйкестіктері дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Устойчивость: сохранение направленности во времени",
+            "en": "Stability: maintaining direction over time",
+            "kk": "Тұрақтылық: бағытталуды уақыт бойы сақтау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Переключение: перенос на другую задачу",
+            "en": "Switching: transfer to another task",
+            "kk": "Ауысымдылық: басқа тапсырмаға көшу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Распределение: смена задач по очереди",
+            "en": "Division: alternating tasks in turn",
+            "kk": "Бөлінімділік: тапсырмаларды кезекпен ауыстыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Объём: длительность сосредоточения",
+            "en": "Span: duration of concentration",
+            "kk": "Көлем: шоғырлану ұзақтығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Концентрация: степень сосредоточения",
+            "en": "Concentration: degree of focus",
+            "kk": "Шоғырлану: шоғырлану дәрежесі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 25, 27, 30",
+          "units": [
+            "p25",
+            "p27",
+            "p30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "По содержанию деятельности контроль способов выполнения рабочих движений относится к вниманию...",
+        "en": "By the content of activity, control over the ways of performing work movements belongs to... attention.",
+        "kk": "Әрекет мазмұны бойынша жұмыс қимылдарын орындау тәсілдерін бақылау қандай зейінге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Моторному",
+            "en": "Motor",
+            "kk": "Моторлық зейінге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интеллектуальному",
+            "en": "Intellectual",
+            "kk": "Интеллектуалдық зейінге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Слуховому перцептивному",
+            "en": "Auditory perceptual",
+            "kk": "Есту перцептивті зейініне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сенсорному",
+            "en": "Sensory",
+            "kk": "Сенсорлық зейінге"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Зрительному перцептивному",
+            "en": "Visual perceptual",
+            "kk": "Көру перцептивті зейініне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 10, 11, 12",
+          "units": [
+            "p10",
+            "p11",
+            "p12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Связь внимания с эмоциями и двигательными приспособлениями подчёркивается в теории...",
+        "en": "The connection of attention with emotions and motor adjustments is emphasized in the theory of...",
+        "kk": "Зейіннің эмоциялармен және қозғалыстық бейімделулермен байланысы қай теорияда ерекше атап өтіледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Д. Бродбента",
+            "en": "D. Broadbent",
+            "kk": "Д. Бродбент теориясында"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "П. Я. Гальперина",
+            "en": "P. Ya. Galperin",
+            "kk": "П. Я. Гальперин теориясында"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Т. Рибо",
+            "en": "T. Ribot",
+            "kk": "Т. Рибо теориясында"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Д. Канемана",
+            "en": "D. Kahneman",
+            "kk": "Д. Канеман теориясында"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "А. Трейсман",
+            "en": "A. Treisman",
+            "kk": "А. Трейсман теориясында"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 35, 39, 42",
+          "units": [
+            "p35",
+            "p39",
+            "p42"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Предварительная настройка, определяющая реакцию на последующее воздействие, является основой теории...",
+        "en": "A preliminary readiness that determines the response to a subsequent stimulus is the basis of the theory of...",
+        "kk": "Келесі әсерге реакцияны анықтайтын алдын ала баптау қай теорияның негізі болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Д. Бродбента",
+            "en": "D. Broadbent",
+            "kk": "Д. Бродбент теориясының"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Д. Н. Узнадзе",
+            "en": "D. N. Uznadze",
+            "kk": "Д. Н. Узнадзе теориясының"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Н. Ф. Добрынина",
+            "en": "N. F. Dobrynin",
+            "kk": "Н. Ф. Добрынин теориясының"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Д. Канемана",
+            "en": "D. Kahneman",
+            "kk": "Д. Канеман теориясының"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Т. Рибо",
+            "en": "T. Ribot",
+            "kk": "Т. Рибо теориясының"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 44, 47",
+          "units": [
+            "p44",
+            "p47"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "topic_id": 5,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения, соответствующие концепции внимания П. Я. Гальперина:",
+        "en": "Statements that correspond to P. Ya. Galperin's concept of attention:",
+        "kk": "П. Я. Гальперин зейін тұжырымдамасына сәйкес келетін тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Любой контроль автоматически является вниманием",
+            "en": "Any control is automatically attention",
+            "kk": "Кез келген бақылау автоматты түрде зейін болып табылады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исполнительская часть действия тождественна вниманию",
+            "en": "The executive part of an action is identical to attention",
+            "kk": "Әрекеттің орындаушылық бөлігі зейінмен бірдей"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Проверка опирается на критерий или образец",
+            "en": "Checking relies on a criterion or a standard",
+            "kk": "Тексеру өлшемге немесе үлгіге сүйенеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Внимание выполняет функцию контроля",
+            "en": "Attention performs the function of control",
+            "kk": "Зейін бақылау қызметін атқарады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Внимание создаёт отдельный материальный продукт",
+            "en": "Attention creates a separate material product",
+            "kk": "Зейін жеке материалдық өнім жасайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 51, 52, 54",
+          "units": [
+            "p51",
+            "p52",
+            "p54"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В концепции П. Я. Гальперина внимание выделяется как самостоятельный акт, когда контроль становится...",
+        "en": "In P. Ya. Galperin's concept, attention emerges as an independent act when control becomes...",
+        "kk": "П. Я. Гальперин тұжырымдамасында бақылау қандай болғанда зейін дербес акт ретінде бөлінеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исполнительским и материальным",
+            "en": "Executive and material",
+            "kk": "Орындаушылық және материалдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Умственным и сокращённым",
+            "en": "Mental and abbreviated",
+            "kk": "Ақыл-ой және қысқартылған"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эмоциональным и неуправляемым",
+            "en": "Emotional and uncontrollable",
+            "kk": "Эмоциялық және басқарылмайтын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рецепторным и непроизвольным",
+            "en": "Receptor-based and involuntary",
+            "kk": "Рецепторлық және еріксіз"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Внешним и развёрнутым",
+            "en": "External and expanded",
+            "kk": "Сыртқы және жайылған"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 53",
+          "units": [
+            "p53"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое обучение соответствует формированию произвольного внимания по П. Я. Гальперину?",
+        "en": "Which kind of training corresponds to the formation of voluntary attention according to P. Ya. Galperin?",
+        "kk": "П. Я. Гальперин бойынша ерікті зейінді қалыптастыруға қандай оқыту сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключение контроля из основной деятельности",
+            "en": "Excluding control from the main activity",
+            "kk": "Негізгі әрекеттен бақылауды шығарып тастау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Многократная смена объектов без критерия",
+            "en": "Repeatedly changing objects without a criterion",
+            "kk": "Өлшемсіз нысандарды қайта-қайта ауыстыру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Увеличение яркости всех раздражителей",
+            "en": "Increasing the brightness of all stimuli",
+            "kk": "Барлық тітіркендіргіштердің жарықтығын арттыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Разработка плана проверки хода и результата действия",
+            "en": "Working out a plan for checking the course and result of an action",
+            "kk": "Әрекеттің барысы мен нәтижесін тексеру жоспарын әзірлеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сокращение действия до освоения проверки",
+            "en": "Shortening the action until checking is mastered",
+            "kk": "Тексеруді меңгергенге дейін әрекетті қысқарту"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 55, 56",
+          "units": [
+            "p55",
+            "p56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Модель ограниченного по пропускной способности фильтра связана с именем...",
+        "en": "The model of a filter limited in channel capacity is associated with the name of...",
+        "kk": "Өткізу қабілеті шектеулі сүзгі моделі кімнің атымен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Н. Ф. Добрынина",
+            "en": "N. F. Dobrynin",
+            "kk": "Н. Ф. Добрынин"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Д. Канемана",
+            "en": "D. Kahneman",
+            "kk": "Д. Канеман"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "А. Трейсман",
+            "en": "A. Treisman",
+            "kk": "А. Трейсман"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Д. Бродбента",
+            "en": "D. Broadbent",
+            "kk": "Д. Бродбент"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Д. Н. Узнадзе",
+            "en": "D. N. Uznadze",
+            "kk": "Д. Н. Узнадзе"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 64",
+          "units": [
+            "p64"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Идею ослабления нерелевантного сигнала вместо его полного блокирования развивала...",
+        "en": "The idea of attenuating an irrelevant signal instead of blocking it completely was developed by...",
+        "kk": "Маңызды емес сигналды толық бұғаттаудың орнына әлсірету идеясын кім дамытты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "А. Фрейд",
+            "en": "A. Freud",
+            "kk": "А. Фрейд"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "А. Трейсман",
+            "en": "A. Treisman",
+            "kk": "А. Трейсман"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Б. Зейгарник",
+            "en": "B. Zeigarnik",
+            "kk": "Б. Зейгарник"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "М. Мид",
+            "en": "M. Mead",
+            "kk": "М. Мид"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "К. Хорни",
+            "en": "K. Horney",
+            "kk": "К. Хорни"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 65",
+          "units": [
+            "p65"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Предположение об отборе информации на позднем этапе обработки относится к модели...",
+        "en": "The assumption that information is selected at a late stage of processing belongs to the model of...",
+        "kk": "Ақпаратты өңдеудің кеш кезеңінде іріктеу туралы болжам қай модельге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Т. Рибо",
+            "en": "T. Ribot",
+            "kk": "Т. Рибо моделіне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Д. Н. Узнадзе",
+            "en": "D. N. Uznadze",
+            "kk": "Д. Н. Узнадзе моделіне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "П. Я. Гальперина",
+            "en": "P. Ya. Galperin",
+            "kk": "П. Я. Гальперин моделіне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Дойч и Дойч",
+            "en": "Deutsch and Deutsch",
+            "kk": "Дойч пен Дойч моделіне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Д. Бродбента",
+            "en": "D. Broadbent",
+            "kk": "Д. Бродбент моделіне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 66",
+          "units": [
+            "p66"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения, характеризующие ресурсное объяснение внимания:",
+        "en": "Statements that characterize the resource (capacity) explanation of attention:",
+        "kk": "Зейінді ресурстық тұрғыдан түсіндіруді сипаттайтын тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Задания конкурируют за ограниченные возможности",
+            "en": "Tasks compete for limited capacity",
+            "kk": "Тапсырмалар шектеулі мүмкіндіктер үшін бәсекелеседі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ресурсы могут распределяться гибко",
+            "en": "Resources can be allocated flexibly",
+            "kk": "Ресурстар икемді түрде бөлінуі мүмкін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Перегрузка ухудшает выполнение части заданий",
+            "en": "Overload impairs performance on some tasks",
+            "kk": "Шамадан тыс жүктеме кейбір тапсырмалардың орындалуын нашарлатады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Распределение не зависит от требований задачи",
+            "en": "Allocation does not depend on task demands",
+            "kk": "Бөлу тапсырманың талаптарына тәуелді емес"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Любые два задания выполняются без взаимных помех",
+            "en": "Any two tasks are performed without mutual interference",
+            "kk": "Кез келген екі тапсырма өзара кедергісіз орындалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 67, 68, 72, 73, 74",
+          "units": [
+            "p67",
+            "p68",
+            "p72",
+            "p73",
+            "p74"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Оператор хуже выполняет вторую задачу, когда первая требует больше усилий. Это прямо объясняет модель...",
+        "en": "An operator performs the second task worse when the first requires more effort. This is directly explained by the model of...",
+        "kk": "Бірінші тапсырма көбірек күш талап еткенде оператор екінші тапсырманы нашар орындайды. Мұны қай модель тікелей түсіндіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Д. Канемана",
+            "en": "D. Kahneman",
+            "kk": "Д. Канеман моделі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Г. Гельмгольца",
+            "en": "H. Helmholtz",
+            "kk": "Г. Гельмгольц моделі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Н. Ф. Добрынина",
+            "en": "N. F. Dobrynin",
+            "kk": "Н. Ф. Добрынин моделі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Д. Н. Узнадзе",
+            "en": "D. N. Uznadze",
+            "kk": "Д. Н. Узнадзе моделі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Т. Рибо",
+            "en": "T. Ribot",
+            "kk": "Т. Рибо моделі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 67, 68",
+          "units": [
+            "p67",
+            "p68"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой феномен Андерсон связывал со снижением вероятности отвлечения по мере просмотра передачи?",
+        "en": "Which phenomenon did Anderson link to the decreasing probability of distraction as a person keeps watching a program?",
+        "kk": "Андерсон хабарды көру барысында алаңдау ықтималдығының төмендеуін зейіннің қандай феноменімен байланыстырды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сенсорную концентрацию",
+            "en": "Sensory concentration",
+            "kk": "Сенсорлық шоғырлануымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Инертность внимания",
+            "en": "Attentional inertia",
+            "kk": "Зейін инерттілігімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Распределение внимания",
+            "en": "Division of attention",
+            "kk": "Зейін бөлінімділігімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Объективацию установки",
+            "en": "Objectification of a set",
+            "kk": "Қондырманың объективациясымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Преднамеренное переключение",
+            "en": "Deliberate switching",
+            "kk": "Әдейі ауыстырумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 69",
+          "units": [
+            "p69"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Тахистоскопическое предъявление прежде всего используют для оценки...",
+        "en": "Tachistoscopic presentation is used primarily to assess the...",
+        "kk": "Тахистоскопиялық көрсетуді ең алдымен нені бағалау үшін пайдаланады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Объёма внимания",
+            "en": "Span of attention",
+            "kk": "Зейін көлемін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Устойчивости внимания",
+            "en": "Stability of attention",
+            "kk": "Зейін тұрақтылығын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Скорости переключения внимания",
+            "en": "Speed of attention switching",
+            "kk": "Зейіннің ауысу жылдамдығын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Распределяемости внимания",
+            "en": "Divisibility of attention",
+            "kk": "Зейін бөлінімділігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Избирательности внимания",
+            "en": "Selectivity of attention",
+            "kk": "Зейін талғампаздығын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L5",
+          "file": "Лекции/Лекция 5.docx",
+          "location": "Абзацы 83",
+          "units": [
+            "p83"
+          ]
+        }
+      ]
+    }
+  ]
+}

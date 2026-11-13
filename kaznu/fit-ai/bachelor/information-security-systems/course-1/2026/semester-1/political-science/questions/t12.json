@@ -1,0 +1,1387 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 256,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Политическая идеология определяется прежде всего как...",
+        "en": "Political ideology is defined primarily as...",
+        "kk": "Саяси идеология ең алдымен қалай анықталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1651",
+          "units": [
+            "p1651"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Техническая процедура подсчёта электоральных предпочтений",
+            "en": "A technical procedure for counting electoral preferences",
+            "kk": "Сайлаулық қалауларды санаудың техникалық рәсімі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любое научное описание без оценочных ориентиров",
+            "en": "Any scientific description without evaluative guidelines",
+            "kk": "Бағалау бағдарларынсыз кез келген ғылыми сипаттама"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Любая эмоциональная реакция на политическое событие",
+            "en": "Any emotional reaction to a political event",
+            "kk": "Саяси оқиғаға кез келген эмоциялық реакция"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Совокупность только действующих юридических норм",
+            "en": "The totality of only the legal norms currently in force",
+            "kk": "Тек қолданыстағы заңдық нормалардың жиынтығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Доктрина, обосновывающая властные притязания и политические цели группы",
+            "en": "A doctrine that justifies a group's claims to power and its political goals",
+            "kk": "Топтың билікке талаптары мен саяси мақсаттарын негіздейтін доктрина"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 257,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие функции выполняет политическая идеология?",
+        "en": "Which functions does political ideology perform?",
+        "kk": "Саяси идеология қандай функцияларды орындайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1653-1654",
+          "units": [
+            "p1653",
+            "p1654"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Установление юридически обязательных санкций силой самой доктрины",
+            "en": "Establishing legally binding sanctions by the force of the doctrine itself",
+            "kk": "Доктриналардың өзінің күшімен заңды міндетті санкцияларды белгілеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Задаёт критерии оценки политической действительности",
+            "en": "It sets criteria for assessing political reality",
+            "kk": "Саяси шындықты бағалау өлшемдерін белгілейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обосновывает властные притязания",
+            "en": "It justifies claims to power",
+            "kk": "Билікке талаптарды негіздейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Интегрирует сторонников вокруг целей",
+            "en": "It integrates supporters around goals",
+            "kk": "Жақтастарды мақсаттардың айналасына біріктіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Объединение сторонников путём устранения различий всех социальных интересов",
+            "en": "Uniting supporters by eliminating the differences among all social interests",
+            "kk": "Барлық әлеуметтік мүдделердің айырмашылықтарын жою арқылы жақтастарды біріктіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 258,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Разработка исходных политических ценностей и идеалов относится к уровню идеологии...",
+        "en": "The elaboration of basic political values and ideals belongs to the ... level of ideology.",
+        "kk": "Бастапқы саяси құндылықтар мен мұраттарды әзірлеу идеологияның қандай деңгейіне жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1657",
+          "units": [
+            "p1657"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Административно-правовому",
+            "en": "Administrative-legal",
+            "kk": "Әкімшілік-құқықтық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Теоретико-концептуальному",
+            "en": "Theoretical-conceptual",
+            "kk": "Теориялық-тұжырымдамалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Программно-политическому",
+            "en": "Programmatic-political",
+            "kk": "Бағдарламалық-саяси"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Актуализированному",
+            "en": "Actualized",
+            "kk": "Өзектендірілген"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Поведенческо-ритуальному",
+            "en": "Behavioral-ritual",
+            "kk": "Мінез-құлықтық-салттық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 259,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Общие идеалы переводятся в предвыборные требования и программу действий. Какой уровень идеологии представлен?",
+        "en": "General ideals are translated into election demands and a program of action. Which level of ideology is represented?",
+        "kk": "Жалпы мұраттар сайлау алдындағы талаптарға және әрекет бағдарламасына айналады. Идеологияның қандай деңгейі берілген?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1658",
+          "units": [
+            "p1658"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теоретико-концептуальный",
+            "en": "Theoretical-conceptual",
+            "kk": "Теориялық-тұжырымдамалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Актуализированный",
+            "en": "Actualized",
+            "kk": "Өзектендірілген"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Программно-политический",
+            "en": "Programmatic-political",
+            "kk": "Бағдарламалық-саяси"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Бессознательно-аффективный",
+            "en": "Unconscious-affective",
+            "kk": "Санасыз-аффективтік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Институционально-судебный",
+            "en": "Institutional-judicial",
+            "kk": "Институционалдық-сот"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 260,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Граждане руководствуются идеологическими принципами в конкретных политических поступках. Это уровень...",
+        "en": "Citizens are guided by ideological principles in specific political actions. This is the ... level.",
+        "kk": "Азаматтар нақты саяси іс-әрекеттерде идеологиялық қағидаттарды басшылыққа алады. Бұл қандай деңгей?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1659",
+          "units": [
+            "p1659"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теоретико-концептуальный",
+            "en": "Theoretical-conceptual",
+            "kk": "Теориялық-тұжырымдамалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Доктринально-абстрактный",
+            "en": "Doctrinal-abstract",
+            "kk": "Доктриналдық-абстрактілі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Программно-политический",
+            "en": "Programmatic-political",
+            "kk": "Бағдарламалық-саяси"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Актуализированный",
+            "en": "Actualized",
+            "kk": "Өзектендірілген"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Юридико-нормативный",
+            "en": "Legal-normative",
+            "kk": "Заңдық-нормативтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 261,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Верное соответствие уровня идеологии и его содержания:",
+        "en": "The correct correspondence between a level of ideology and its content:",
+        "kk": "Идеология деңгейі мен оның мазмұнының дұрыс сәйкестігі:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1657-1659",
+          "units": [
+            "p1657",
+            "p1658",
+            "p1659"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Программно-политический: исключительно бессознательные реакции",
+            "en": "Programmatic-political: exclusively unconscious reactions",
+            "kk": "Бағдарламалық-саяси: тек санасыз реакциялар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Теоретико-концептуальный: исполнение конкретного предписания",
+            "en": "Theoretical-conceptual: the carrying out of a specific instruction",
+            "kk": "Теориялық-тұжырымдамалық: нақты нұсқауды орындау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Актуализированный: степень практического освоения принципов",
+            "en": "Actualized: the degree to which principles are put into practice",
+            "kk": "Өзектендірілген: қағидаттарды іс жүзінде игеру дәрежесі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Актуализированный: создание отвлечённой философской системы",
+            "en": "Actualized: the creation of an abstract philosophical system",
+            "kk": "Өзектендірілген: дерексіз философиялық жүйе жасау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Теоретико-концептуальный: только результаты голосования",
+            "en": "Theoretical-conceptual: only voting results",
+            "kk": "Теориялық-тұжырымдамалық: тек дауыс беру нәтижелері"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 262,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К основным принципам классического либерализма относятся:",
+        "en": "The basic principles of classical liberalism include:",
+        "kk": "Классикалық либерализмнің негізгі қағидаттарына жататындар:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1664",
+          "units": [
+            "p1664"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Религиозная терпимость",
+            "en": "Religious toleration",
+            "kk": "Діни төзімділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальная свобода",
+            "en": "Individual freedom",
+            "kk": "Жеке бостандық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сословная иерархия прав",
+            "en": "An estate hierarchy of rights",
+            "kk": "Құқықтардың таптық иерархиясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Конституционализм",
+            "en": "Constitutionalism",
+            "kk": "Конституционализм"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Приоритет единой обязательной доктрины",
+            "en": "The priority of a single mandatory doctrine",
+            "kk": "Бірыңғай міндетті доктринаның басымдығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": 263,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социально ориентированные версии либерализма от его ранней модели отличает...",
+        "en": "Socially oriented versions of liberalism are distinguished from its early model by...",
+        "kk": "Либерализмнің әлеуметтік бағдарланған нұсқаларын оның ерте моделінен ерекшелейтіні..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1664-1666",
+          "units": [
+            "p1664",
+            "p1665",
+            "p1666"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Допущение государственных мер ради реальных возможностей свободы",
+            "en": "Allowing state measures for the sake of real opportunities for freedom",
+            "kk": "Бостандықтың нақты мүмкіндіктері үшін мемлекеттік шараларға жол беру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Полное отрицание конституционных ограничений власти",
+            "en": "A complete rejection of constitutional limits on power",
+            "kk": "Биліктің конституциялық шектеулерін толық жоққа шығару"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Признание единственной обязательной религии",
+            "en": "Recognition of a single mandatory religion",
+            "kk": "Жалғыз міндетті дінді мойындау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Замена частной инициативы обязательной сословной принадлежностью",
+            "en": "Replacing private initiative with mandatory estate membership",
+            "kk": "Жеке бастаманы міндетті таптық тиесілілікпен алмастыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отказ от индивидуальных прав как самостоятельной ценности",
+            "en": "Giving up individual rights as a value in themselves",
+            "kk": "Жеке құқықтардан дербес құндылық ретінде бас тарту"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 264,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Для консерватизма наиболее характерно...",
+        "en": "The most characteristic feature of conservatism is...",
+        "kk": "Консерватизмге не тән?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1669-1670",
+          "units": [
+            "p1669",
+            "p1670"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Растворение всех институтов в текущей воле большинства",
+            "en": "The dissolution of all institutions into the current will of the majority",
+            "kk": "Барлық институттардың көпшіліктің ағымдағы еркінде ерігені"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обязательное отрицание любой исторической преемственности",
+            "en": "A mandatory rejection of any historical continuity",
+            "kk": "Кез келген тарихи сабақтастықты міндетті түрде жоққа шығару"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Значение традиции и осторожность в политических преобразованиях",
+            "en": "The importance of tradition and caution in political transformation",
+            "kk": "Дәстүрдің маңызы және саяси қайта құруларда сақтық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устранение различий между обществом и утопическим проектом",
+            "en": "The elimination of the distinction between society and a utopian project",
+            "kk": "Қоғам мен утопиялық жобаның арасындағы айырмашылықтарды жою"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Признание революционного разрыва универсальным методом",
+            "en": "Recognition of revolutionary rupture as a universal method",
+            "kk": "Революциялық үзілісті әмбебап әдіс деп тану"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 265,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Защита рынка сама по себе не позволяет однозначно отнести программу только к либерализму, потому что...",
+        "en": "Defending the market does not in itself make it possible to classify a program unambiguously as liberal alone because...",
+        "kk": "Нарықты қорғаудың өзі бағдарламаны тек либерализмге бірмәнді жатқызуға мүмкіндік бермейді, өйткені..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1671",
+          "units": [
+            "p1671"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1674-1675",
+          "units": [
+            "p1674",
+            "p1675"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Рыночные установки могут сочетаться с консервативными ценностями",
+            "en": "Market attitudes can be combined with conservative values",
+            "kk": "Нарықтық қондырғылар консервативтік құндылықтармен ұштасуы мүмкін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Либерализм не связан с экономической свободой",
+            "en": "Liberalism is not connected with economic freedom",
+            "kk": "Либерализм экономикалық бостандықпен байланысты емес"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Консерватизм всегда требует отмены частной собственности",
+            "en": "Conservatism always demands the abolition of private property",
+            "kk": "Консерватизм әрқашан жеке меншікті жоюды талап етеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рынок является признаком только тоталитарных доктрин",
+            "en": "The market is a feature of totalitarian doctrines only",
+            "kk": "Нарық тек тоталитарлық доктриналардың белгісі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Все рыночные программы исключают государственные институты",
+            "en": "All market programs exclude state institutions",
+            "kk": "Барлық нарықтық бағдарламалар мемлекеттік институттарды жоққа шығарады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 266,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Современная социал-демократическая идеология связывает социальную справедливость прежде всего с...",
+        "en": "Modern social-democratic ideology links social justice primarily with...",
+        "kk": "Қазіргі социал-демократиялық идеология әлеуметтік әділеттілікті ең алдымен немен байланыстырады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1691",
+          "units": [
+            "p1691"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Необходимостью постоянной вооружённой революции",
+            "en": "The need for permanent armed revolution",
+            "kk": "Тұрақты қарулы революцияның қажеттілігімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Безусловным запретом политического плюрализма",
+            "en": "An unconditional ban on political pluralism",
+            "kk": "Саяси плюрализмге сөзсіз тыйым салумен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Демократическими реформами и социальным миром",
+            "en": "Democratic reforms and social peace",
+            "kk": "Демократиялық реформалармен және әлеуметтік тыныштықпен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отказом от защиты трудовых и социальных прав",
+            "en": "Giving up the defense of labor and social rights",
+            "kk": "Еңбек және әлеуметтік құқықтарды қорғаудан бас тартумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наследственной организацией государственной власти",
+            "en": "A hereditary organization of state power",
+            "kk": "Мемлекеттік биліктің мұрагерлік ұйымдастырылуымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 267,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Принципиальное различие социал-демократии и революционного марксизма-ленинизма —...",
+        "en": "The fundamental difference between social democracy and revolutionary Marxism-Leninism is...",
+        "kk": "Социал-демократия мен революциялық марксизм-ленинизм арасындағы принципті айырмашылық..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1686",
+          "units": [
+            "p1686"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1691",
+          "units": [
+            "p1691"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Предпочтение демократического реформирования революционному захвату власти",
+            "en": "A preference for democratic reform over the revolutionary seizure of power",
+            "kk": "Билікті революциялық жаулап алудан демократиялық реформалауды артық көру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Признание наследственного сословного государства обеими доктринами",
+            "en": "Recognition of the hereditary estate-based state by both doctrines",
+            "kk": "Екі доктринаның да мұрагерлік таптық мемлекетті мойындауы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отсутствие у социал-демократии политической программы",
+            "en": "The absence of a political program in social democracy",
+            "kk": "Социал-демократияда саяси бағдарламаның болмауы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательное отрицание выборов обеими доктринами",
+            "en": "A mandatory rejection of elections by both doctrines",
+            "kk": "Екі доктринаның да сайлаудан міндетті түрде бас тартуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Полный отказ социал-демократии от социальной справедливости",
+            "en": "Social democracy's complete renunciation of social justice",
+            "kk": "Социал-демократияның әлеуметтік әділеттіліктен толық бас тартуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 268,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К утопическим социалистам конца XVIII — начала XIX века относятся:",
+        "en": "The utopian socialists of the late 18th and early 19th centuries include:",
+        "kk": "XVIII ғасырдың соңы — XIX ғасырдың басындағы утопиялық социалистерге жататындар:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1684",
+          "units": [
+            "p1684"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эдмунд Бёрк",
+            "en": "Edmund Burke",
+            "kk": "Эдмунд Берк"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Иеремия Бентам",
+            "en": "Jeremy Bentham",
+            "kk": "Иеремия Бентам"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Шарль Фурье",
+            "en": "Charles Fourier",
+            "kk": "Шарль Фурье"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Анри Сен-Симон",
+            "en": "Henri de Saint-Simon",
+            "kk": "Анри Сен-Симон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Роберт Оуэн",
+            "en": "Robert Owen",
+            "kk": "Роберт Оуэн"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 269,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Национальная идеология связывает политические притязания прежде всего с...",
+        "en": "National ideology links political claims primarily with...",
+        "kk": "Ұлттық идеология саяси талаптарды ең алдымен немен байланыстырады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1699-1702",
+          "units": [
+            "p1699",
+            "p1700",
+            "p1701",
+            "p1702"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только нейтральной процедурой судебного контроля",
+            "en": "Only the neutral procedure of judicial review",
+            "kk": "Тек сот бақылауының бейтарап рәсімімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключительно профессиональной квалификацией",
+            "en": "Exclusively professional qualifications",
+            "kk": "Тек кәсіби біліктілікпен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Одним способом составления государственного бюджета",
+            "en": "A single method of drawing up the state budget",
+            "kk": "Мемлекеттік бюджетті жасаудың бір тәсілімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только индивидуальными потребительскими предпочтениями",
+            "en": "Only individual consumer preferences",
+            "kk": "Тек жеке тұтынушылық қалаулармен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Национальной принадлежностью и коллективным статусом",
+            "en": "National affiliation and collective status",
+            "kk": "Ұлттық тиесілілікпен және ұжымдық мәртебемен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 270,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Движение защищает культурную самобытность диаспоры, не требуя ликвидации государства проживания. Обоснован вывод, что...",
+        "en": "A movement defends the cultural identity of a diaspora without demanding the abolition of the state of residence. The well-founded conclusion is that...",
+        "kk": "Қозғалыс тұратын мемлекеттің жойылуын талап етпей, диаспораның мәдени ерекшелігін қорғайды. Қандай қорытынды негізді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1701-1702",
+          "units": [
+            "p1701",
+            "p1702"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Национальные требования не обязательно сводятся к созданию отдельного государства",
+            "en": "National demands do not necessarily amount to the creation of a separate state",
+            "kk": "Ұлттық талаптар міндетті түрде жеке мемлекет құруға келтірілмейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Национальная принадлежность не может влиять на политический статус",
+            "en": "National affiliation cannot influence political status",
+            "kk": "Ұлттық тиесілілік саяси мәртебеге әсер ете алмайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Любая национальная идеология автоматически требует аннексии",
+            "en": "Any national ideology automatically demands annexation",
+            "kk": "Кез келген ұлттық идеология автоматты түрде аннексияны талап етеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Защита самобытности тождественна отказу от гражданских прав",
+            "en": "Defending identity is the same as giving up civil rights",
+            "kk": "Ерекшелікті қорғау азаматтық құқықтардан бас тартумен бірдей"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Культурные требования исключают политическое содержание",
+            "en": "Cultural demands exclude political content",
+            "kk": "Мәдени талаптар саяси мазмұнды жоққа шығарады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 271,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите возможные последствия национальных идеологий в зависимости от условий.",
+        "en": "Indicate the possible consequences of national ideologies, depending on the conditions.",
+        "kk": "Жағдайларға байланысты ұлттық идеологиялардың мүмкін салдарларын көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1702",
+          "units": [
+            "p1702"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сведение групповых требований к нейтральному описанию хозяйственных показателей",
+            "en": "Reducing group demands to a neutral description of economic indicators",
+            "kk": "Топтық талаптарды шаруашылық көрсеткіштерінің бейтарап сипаттамасына келтіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интеграция политического сообщества",
+            "en": "The integration of the political community",
+            "kk": "Саяси қауымдастықтың интеграциясы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Усиление межгрупповых противоречий",
+            "en": "The intensification of intergroup contradictions",
+            "kk": "Топаралық қайшылықтардың күшеюі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Одинаковое воздействие на все национальные сообщества независимо от условий",
+            "en": "The same effect on all national communities regardless of conditions",
+            "kk": "Жағдайларға қарамастан барлық ұлттық қауымдастықтарға бірдей әсер ету"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Замена правового гражданства критерием участия в международной торговле",
+            "en": "Replacing legal citizenship with the criterion of participation in international trade",
+            "kk": "Құқықтық азаматтықты халықаралық саудаға қатысу өлшемімен алмастыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": 272,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Влияние идеологий особенно возрастает в ситуациях...",
+        "en": "The influence of ideologies increases especially in situations of...",
+        "kk": "Идеологиялардың ықпалы қандай жағдайларда ерекше артады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1705",
+          "units": [
+            "p1705"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Выбора направлений развития и общественной модернизации",
+            "en": "Choosing directions of development and social modernization",
+            "kk": "Даму бағыттарын және қоғамды жаңғырту жолын таңдау кезінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Прекращения любой публичной коммуникации",
+            "en": "The cessation of all public communication",
+            "kk": "Кез келген жария коммуникацияның тоқтатылуы кезінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Окончательного исчезновения политических интересов",
+            "en": "The final disappearance of political interests",
+            "kk": "Саяси мүдделердің түпкілікті жоғалуы кезінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Полного отсутствия альтернатив общественного устройства",
+            "en": "The complete absence of alternatives for the social order",
+            "kk": "Қоғамдық құрылыс баламаларының толық болмауы кезінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Замены всех решений исключительно техническими расчётами",
+            "en": "Replacing all decisions with purely technical calculations",
+            "kk": "Барлық шешімдерді тек техникалық есептермен алмастыру кезінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 273,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Партия публикует программу, но её сторонники не используют заявленные принципы в поведении. Какое различие проявилось?",
+        "en": "A party publishes a program, but its supporters do not apply the declared principles in their behavior. Which distinction has become apparent?",
+        "kk": "Партия бағдарлама жариялайды, бірақ оның жақтастары жарияланған қағидаттарды мінез-құлқында пайдаланбайды. Қандай айырмашылық көрінді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1658-1659",
+          "units": [
+            "p1658",
+            "p1659"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Разрыв программно-политического и актуализированного уровней",
+            "en": "A gap between the programmatic-political and actualized levels",
+            "kk": "Бағдарламалық-саяси және өзектендірілген деңгейлердің ажырауы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тождество политической идеологии юридической норме",
+            "en": "The identity of political ideology and a legal norm",
+            "kk": "Саяси идеологияның заңдық нормамен бірдейлігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Совпадение теоретической доктрины и практической реализации",
+            "en": "The coincidence of a theoretical doctrine and its practical implementation",
+            "kk": "Теориялық доктрина мен практикалық жүзеге асырудың сәйкес келуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отсутствие у программы какого-либо идеологического содержания",
+            "en": "The absence of any ideological content in the program",
+            "kk": "Бағдарламада қандай да бір идеологиялық мазмұнның болмауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Невозможность существования идеологических сторонников",
+            "en": "The impossibility of the existence of ideological supporters",
+            "kk": "Идеологиялық жақтастардың өмір сүруінің мүмкін еместігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 274,
+      "topic_id": 12,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие утверждения о функционировании идеологии верны?",
+        "en": "Which statements about the functioning of ideology are correct?",
+        "kk": "Идеологияның қызмет етуі туралы қандай тұжырымдар дұрыс?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1651-1659",
+          "units": [
+            "p1651",
+            "p1652",
+            "p1653",
+            "p1654",
+            "p1655",
+            "p1656",
+            "p1657",
+            "p1658",
+            "p1659"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Идеология соединяет оценки действительности с целями действия",
+            "en": "Ideology connects assessments of reality with goals for action",
+            "kk": "Идеология шындықты бағалауды іс-әрекет мақсаттарымен біріктіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наличие программы не гарантирует воплощения её принципов в поступках",
+            "en": "Having a program does not guarantee that its principles are embodied in actions",
+            "kk": "Бағдарламаның болуы оның қағидаттарының іс-әрекетте жүзеге асуына кепілдік бермейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Программная фиксация идеала свидетельствует о его практическом усвоении сторонниками",
+            "en": "Setting out an ideal in a program is evidence of its practical assimilation by supporters",
+            "kk": "Мұратты бағдарламада бекіту оны жақтастардың іс жүзінде игергенін көрсетеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Политическая оценка получает научную доказательность в силу её идеологической последовательности",
+            "en": "A political assessment acquires scientific proof by virtue of its ideological consistency",
+            "kk": "Саяси баға өзінің идеологиялық дәйектілігі арқасында ғылыми дәлелділік алады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Одна доктрина может по-разному осваиваться разными группами",
+            "en": "One doctrine can be assimilated in different ways by different groups",
+            "kk": "Бір доктринаны әртүрлі топтар әртүрлі игеруі мүмкін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 275,
+      "topic_id": 12,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой набор соответствий идеологии и её акцента корректен?",
+        "en": "Which set of correspondences between ideologies and their emphases is correct?",
+        "kk": "Идеология мен оның екпінінің қандай сәйкестіктер жиынтығы дұрыс?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1664",
+          "units": [
+            "p1664"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1669",
+          "units": [
+            "p1669"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1691",
+          "units": [
+            "p1691"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Либерализм: неотчуждаемая общая воля; консерватизм: непосредственное народное законодательство; социал-демократия: наследственное представительство",
+            "en": "Liberalism: an inalienable general will; conservatism: direct popular legislation; social democracy: hereditary representation",
+            "kk": "Либерализм: ажырамас жалпы ерік; консерватизм: тікелей халықтық заң шығару; социал-демократия: мұрагерлік өкілдік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Либерализм: индивидуальные права; консерватизм: преемственность; социал-демократия: социальные реформы",
+            "en": "Liberalism: individual rights; conservatism: continuity; social democracy: social reforms",
+            "kk": "Либерализм: жеке құқықтар; консерватизм: сабақтастық; социал-демократия: әлеуметтік реформалар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Либерализм: государственный патернализм; консерватизм: ценностная нейтральность; социал-демократия: приоритет имущественного ценза",
+            "en": "Liberalism: state paternalism; conservatism: value neutrality; social democracy: priority of a property qualification",
+            "kk": "Либерализм: мемлекеттік патернализм; консерватизм: құндылықтық бейтараптық; социал-демократия: мүліктік цензтің басымдығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Либерализм: обязательное равенство результатов; консерватизм: отказ от преемственности; социал-демократия: сословная солидарность",
+            "en": "Liberalism: mandatory equality of outcomes; conservatism: rejection of continuity; social democracy: estate solidarity",
+            "kk": "Либерализм: нәтижелер теңдігінің міндеттілігі; консерватизм: сабақтастықтан бас тарту; социал-демократия: таптық ынтымақтастық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Либерализм: общественная целостность; консерватизм: рациональное переустройство; социал-демократия: минимальное государство",
+            "en": "Liberalism: social wholeness; conservatism: rational reconstruction; social democracy: the minimal state",
+            "kk": "Либерализм: қоғамдық тұтастық; консерватизм: ақылға сай қайта құру; социал-демократия: минималды мемлекет"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    }
+  ]
+}

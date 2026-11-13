@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 11,
+  "topic_name": "The Old Turkic and Medieval Cultural Heritage",
+  "questions": {
+    "251": {
+      "question": "The large Orkhon steles with Old Turkic inscriptions were discovered in 1889 by...",
+      "options": {
+        "A": "V. Thomsen",
+        "B": "P. J. von Strahlenberg",
+        "C": "D. G. Messerschmidt",
+        "D": "N. Yadrintsev",
+        "E": "V. Radlov"
+      }
+    },
+    "252": {
+      "question": "How are the roles of V. Thomsen and V. Radlov distributed in the study of the Orkhon inscriptions?",
+      "options": {
+        "A": "Radlov found the key to the alphabet, Thomsen discovered the steles",
+        "B": "Radlov composed the inscriptions, Thomsen established their authorship",
+        "C": "Thomsen discovered the monuments on the Yenisei, Radlov those on the Orkhon",
+        "D": "Thomsen found the key to the alphabet, Radlov gave the first reading",
+        "E": "Thomsen studied only Sogdian texts, Radlov only Arabic ones"
+      }
+    },
+    "253": {
+      "question": "The largest Old Turkic runic inscriptions of Mongolia include the monuments:",
+      "options": {
+        "A": "\"Diwan-i Hikmat\"",
+        "B": "\"Kutadgu Bilig\"",
+        "C": "The one in honour of Tonyukuk",
+        "D": "\"Diwan Lughat at-Turk\"",
+        "E": "The one in honour of Bilge Khagan and Kul Tegin"
+      }
+    },
+    "254": {
+      "question": "The Yenisei inscriptions differ from the Orkhon ones mainly...",
+      "options": {
+        "A": "By the absence of praise for the deceased",
+        "B": "By short epitaphs with less historical and political information",
+        "C": "By exclusively economic records of urban merchants",
+        "D": "By being written only in Arabic",
+        "E": "By extensive state declarations with no funerary content"
+      }
+    },
+    "255": {
+      "question": "Which sequence of the displacement of the Old Turkic runic script is named for Central and Middle Asia?",
+      "options": {
+        "A": "Chinese characters, then Cyrillic",
+        "B": "Uyghur cursive, then the Arabic script",
+        "C": "Sogdian cursive, then the Latin alphabet",
+        "D": "The Arabic script, then Uyghur cursive",
+        "E": "Cyrillic, then the Arabic script"
+      }
+    },
+    "256": {
+      "question": "Al-Farabi's honorific title \"the Second Teacher\" is connected primarily with...",
+      "options": {
+        "A": "The creation of the Turkic runic alphabet",
+        "B": "The compilation of the Sufi \"Diwan-i Hikmat\"",
+        "C": "The commentaries on the works of Aristotle",
+        "D": "The translation of the treatises of Confucius",
+        "E": "The writing of \"Kutadgu Bilig\""
+      }
+    },
+    "257": {
+      "question": "Al-Farabi's work that systematizes the sciences and defines the subject matter of each is...",
+      "options": {
+        "A": "\"The Enumeration of the Sciences\"",
+        "B": "\"Diwan Lughat at-Turk\"",
+        "C": "\"The Political Regime\"",
+        "D": "\"The Book of Dede Korkut\"",
+        "E": "\"On the Perfect State\""
+      }
+    },
+    "258": {
+      "question": "To what does al-Farabi compare the virtuous city?",
+      "options": {
+        "A": "To a market whose only aim is profit",
+        "B": "To a military camp existing outside moral norms",
+        "C": "To a closed clan that excludes the division of functions",
+        "D": "To a healthy body whose organs help one another to preserve life",
+        "E": "To independent atoms devoid of a common purpose"
+      }
+    },
+    "259": {
+      "question": "The condition for grasping the essence of things that al-Farabi singles out is...",
+      "options": {
+        "A": "Reducing knowledge to the repetition of authoritative traditions",
+        "B": "Identifying cognition with inherited status",
+        "C": "Eliminating the question of essence from philosophy",
+        "D": "Renouncing reason in favour of sensory impression",
+        "E": "The transition from sensory perception to rational cognition"
+      }
+    },
+    "260": {
+      "question": "The composition of \"Kutadgu Bilig\" in the Turkic language had political significance because...",
+      "options": {
+        "A": "It made the instructions on governance comprehensible to the Karakhanid milieu",
+        "B": "It intended the work exclusively for Arab theologians",
+        "C": "It ensured the transition of the entire administration to Latin",
+        "D": "It eliminated the ruler's connection with the sedentary regions",
+        "E": "It replaced affairs of state with clan genealogy alone"
+      }
+    },
+    "261": {
+      "question": "The roots of Yusuf Balasagun's worldview are formed by the traditions:",
+      "options": {
+        "A": "Shamanistic",
+        "B": "Islamic",
+        "C": "Buddhist-scholastic",
+        "D": "Christian-patristic",
+        "E": "Philosophical"
+      }
+    },
+    "262": {
+      "question": "The character of \"Kutadgu Bilig\" who is the symbol of justice is...",
+      "options": {
+        "A": "Tonyukuk",
+        "B": "Aytoldy",
+        "C": "Kuntogdy",
+        "D": "Odgurmysh",
+        "E": "Ogdulmysh"
+      }
+    },
+    "263": {
+      "question": "The author of the \"Compendium of the Turkic Dialects\" is...",
+      "options": {
+        "A": "Mahmud al-Kashgari",
+        "B": "Abu Rayhan al-Biruni",
+        "C": "Ahmed Yasawi",
+        "D": "Suleiman Bakirgani",
+        "E": "Yusuf Balasagun"
+      }
+    },
+    "264": {
+      "question": "Methods associated with Mahmud al-Kashgari's contribution to the study of the Turkic languages:",
+      "options": {
+        "A": "Free association as a method of linguistic analysis",
+        "B": "Cyclical morphology as a method of reading a dictionary",
+        "C": "The comparative method",
+        "D": "The historical approach",
+        "E": "Energy balance as a basis for classifying dialects"
+      }
+    },
+    "265": {
+      "question": "The rhymed prose used in the \"Diwan Lughat at-Turk\" is called...",
+      "options": {
+        "A": "Rajaz",
+        "B": "Zhyrau",
+        "C": "Saj'",
+        "D": "Hikmat",
+        "E": "Terme"
+      }
+    },
+    "266": {
+      "question": "In the characterization of the \"Diwan Lughat at-Turk\", verses of martial content are called...",
+      "options": {
+        "A": "Ghazals",
+        "B": "Rubaiyat",
+        "C": "Saj' verses",
+        "D": "Hikmats",
+        "E": "Rajaz verses"
+      }
+    },
+    "267": {
+      "question": "Ahmed Yasawi's teacher in Bukhara was...",
+      "options": {
+        "A": "Baha-ud-Din Naqshband",
+        "B": "Jalal ad-Din Rumi",
+        "C": "Yusuf Hamadani",
+        "D": "Ibn Arabi",
+        "E": "Abu Hamid al-Ghazali"
+      }
+    },
+    "268": {
+      "question": "Which sequence constitutes the general scheme of the Sufi path?",
+      "options": {
+        "A": "Tariqa, sharia, haqiqa, ma'rifa",
+        "B": "Sharia, tariqa, ma'rifa, haqiqa",
+        "C": "Haqiqa, tariqa, ma'rifa, sharia",
+        "D": "Ma'rifa, haqiqa, sharia, tariqa",
+        "E": "Sharia, haqiqa, tariqa, ma'rifa"
+      }
+    },
+    "269": {
+      "question": "Which stage is given preference in Yasawi's formula \"The shell of faith is sharia, and the kernel is...\"?",
+      "options": {
+        "A": "Ma'rifa",
+        "B": "Haqiqa",
+        "C": "Tariqa",
+        "D": "Zakat",
+        "E": "Hajj"
+      }
+    },
+    "270": {
+      "question": "The central ethical concept of Sufism is connected with the image of...",
+      "options": {
+        "A": "The human being as a sum of innate reactions",
+        "B": "The rational consumer",
+        "C": "The mass man",
+        "D": "The perfect human being",
+        "E": "The clan ancestor as a legal entity"
+      }
+    },
+    "271": {
+      "question": "The monumental portal of an Islamic building and the niche indicating the qibla are called...",
+      "options": {
+        "A": "Kazanlyk and kudukhana",
+        "B": "Gurkhana and ashkhana",
+        "C": "Pishtaq and mihrab",
+        "D": "Girih and hujra",
+        "E": "Mihrab and pishtaq"
+      }
+    },
+    "272": {
+      "question": "Correct pairings of the rooms of the Yasawi complex with their purposes:",
+      "options": {
+        "A": "Ashkhana: preparation of the ritual meal",
+        "B": "Kitabkhana: the burial chamber",
+        "C": "Hujra: the ceremonial assembly hall",
+        "D": "Gurkhana: a room for storing books",
+        "E": "Kudukhana: a room with a well"
+      }
+    },
+    "273": {
+      "question": "The master of the taikazan (ritual cauldron) of the Yasawi complex is named in the inscription of 1399 as...",
+      "options": {
+        "A": "Abdulaziz ibn Sharafuddin of Tabriz",
+        "B": "Yollyg Tegin of the Orkhon valley",
+        "C": "Suleiman Bakirgani of Khorezm",
+        "D": "Mahmud al-Kashgari of Kashgar",
+        "E": "Yusuf Hamadani of Bukhara"
+      }
+    },
+    "274": {
+      "question": "The ritual cauldron in the Yasawi complex symbolizes...",
+      "options": {
+        "A": "The isolation of pilgrim communities",
+        "B": "The rejection of communal ritual",
+        "C": "Unity and hospitality",
+        "D": "The exclusive right to trade",
+        "E": "Military hierarchy and blood feud"
+      }
+    },
+    "275": {
+      "question": "The canonized script of Quranic texts in the decor of the Yasawi khanaqah is called...",
+      "options": {
+        "A": "Thuluth",
+        "B": "Nasta'liq",
+        "C": "Kufic",
+        "D": "Ruq'ah",
+        "E": "Naskh"
+      }
+    }
+  }
+}

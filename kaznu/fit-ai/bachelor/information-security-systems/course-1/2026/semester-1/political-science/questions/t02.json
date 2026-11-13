@@ -1,0 +1,2364 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 21,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В классификации Сократа власть, основанная на воле народа и государственных законах, называется...",
+        "en": "In Socrates' classification, power based on the will of the people and on the laws of the state is called...",
+        "kk": "Сократтың жіктемесінде халықтың еркіне және мемлекеттік заңдарға негізделген билік қалай аталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 175",
+          "units": [
+            "p175"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Аристократией",
+            "en": "Aristocracy",
+            "kk": "Аристократия"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Царством",
+            "en": "Kingship",
+            "kk": "Патшалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Тимократией",
+            "en": "Timocracy",
+            "kk": "Тимократия"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Политией",
+            "en": "Polity",
+            "kk": "Полития"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Плутократией",
+            "en": "Plutocracy",
+            "kk": "Плутократия"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 22,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сократ критиковал назначение должностных лиц по жребию, потому что...",
+        "en": "Socrates criticized the appointment of officials by lot because...",
+        "kk": "Сократ лауазымды тұлғаларды жеребе бойынша тағайындауды неліктен сынады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 176",
+          "units": [
+            "p176"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Жребий устраняет участие граждан в управлении",
+            "en": "Lot eliminates citizens' participation in government",
+            "kk": "Жеребе азаматтардың басқаруға қатысуын жояды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Жребий предполагает безусловное господство философов",
+            "en": "Lot implies the unconditional rule of philosophers",
+            "kk": "Жеребе философтардың сөзсіз үстемдігін көздейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Жребий делает должность наследственной",
+            "en": "Lot makes office hereditary",
+            "kk": "Жеребе лауазымды мұрагерлік етеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Жребий не обеспечивает отбора компетентных управленцев",
+            "en": "Lot does not ensure the selection of competent administrators",
+            "kk": "Жеребе құзыретті басқарушыларды іріктеуді қамтамасыз етпейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Жребий передаёт власть исключительно богатым",
+            "en": "Lot hands power exclusively to the wealthy",
+            "kk": "Жеребе билікті тек байларға ғана береді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 23,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите произведения Платона.",
+        "en": "Specify the works of Plato.",
+        "kk": "Платонның шығармаларын көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 182",
+          "units": [
+            "p182"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Законы",
+            "en": "Laws",
+            "kk": "Заңдар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "О правлении государей",
+            "en": "On Kingship",
+            "kk": "Мемлекет билеушілерінің басқаруы туралы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Афинская полития",
+            "en": "The Constitution of the Athenians",
+            "kk": "Афины политиясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Политик",
+            "en": "Statesman",
+            "kk": "Саясаткер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Государство",
+            "en": "Republic",
+            "kk": "Мемлекет"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 24,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какая связь между разделением общественных функций и правлением выражает проект Платона?",
+        "en": "Which link between the division of social functions and rule is expressed in Plato's project?",
+        "kk": "Платонның жобасы қоғамдық функциялардың бөлінуі мен басқару арасындағы қандай байланысты білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 183-184",
+          "units": [
+            "p183",
+            "p184"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Управление поручается философам как носителям мудрости",
+            "en": "Government is entrusted to philosophers as the bearers of wisdom",
+            "kk": "Басқару данышпандықтың иелері ретінде философтарға тапсырылады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Все сословия поочерёдно получают одинаковые должности",
+            "en": "All estates in turn receive identical offices",
+            "kk": "Барлық таптар кезекпен бірдей лауазымдарға ие болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Управление передаётся производителям как владельцам имущества",
+            "en": "Government is handed to the producers as the owners of property",
+            "kk": "Басқару өндірушілерге мүлік иелері ретінде беріледі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Политические полномочия распределяются жеребьёвкой",
+            "en": "Political powers are distributed by lot",
+            "kk": "Саяси өкілеттіктер жеребе арқылы бөлінеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Военная функция даёт стражам исключительное право издавать законы",
+            "en": "The military function gives the guardians the exclusive right to make laws",
+            "kk": "Әскери функция сақшыларға заң шығарудың айрықша құқығын береді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 25,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Непосредственных защитников государства Платон относил...",
+        "en": "Plato assigned the direct defenders of the state...",
+        "kk": "Платон мемлекеттің тікелей қорғаушыларын қай топқа жатқызды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 184",
+          "units": [
+            "p184"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "К народным комиссарам",
+            "en": "To the people's commissars",
+            "kk": "Халық комиссарларына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "К ремесленникам",
+            "en": "To the artisans",
+            "kk": "Қолөнершілерге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "К земледельцам",
+            "en": "To the farmers",
+            "kk": "Егіншілерге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "К философам",
+            "en": "To the philosophers",
+            "kk": "Философтарға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "К стражам",
+            "en": "To the guardians",
+            "kk": "Сақшыларға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 26,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Говоря о политическом перерождении, Платон подчёркивал, что...",
+        "en": "Speaking of political degeneration, Plato emphasized that...",
+        "kk": "Платон саяси құлдыраудың қандай реттілігін атап көрсетті?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 187",
+          "units": [
+            "p187"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Необузданная демократия переходит в тиранию",
+            "en": "Unbridled democracy turns into tyranny",
+            "kk": "Тізгінсіз демократия тираняға ауысады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Аристократия неизбежно переходит в политию",
+            "en": "Aristocracy inevitably turns into polity",
+            "kk": "Аристократия сөзсіз политияға ауысады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Тирания непосредственно порождает царство философов",
+            "en": "Tyranny directly gives rise to the kingship of philosophers",
+            "kk": "Тирания философтар патшалығын тікелей туғызады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тимократия восстанавливает общность имущества всех граждан",
+            "en": "Timocracy restores the community of property of all citizens",
+            "kk": "Тимократия барлық азаматтардың мүлік ортақтығын қалпына келтіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Олигархия устраняет возможность демократии",
+            "en": "Oligarchy eliminates the possibility of democracy",
+            "kk": "Олигархия демократияның мүмкіндігін жояды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 27,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Идея господства закона над правителями развёрнута Платоном в произведении...",
+        "en": "The idea of the rule of law over rulers was developed by Plato in the work...",
+        "kk": "Билеушілер үстінен заңның үстемдігі идеясы Платонның қай шығармасында жан-жақты баяндалған?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 186",
+          "units": [
+            "p186"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "О государстве",
+            "en": "The Republic",
+            "kk": "Мемлекет туралы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Левиафан",
+            "en": "Leviathan",
+            "kk": "Левиафан"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Законы",
+            "en": "Laws",
+            "kk": "Заңдар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "О духе законов",
+            "en": "The Spirit of the Laws",
+            "kk": "Заңдардың рухы туралы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Политика",
+            "en": "Politics",
+            "kk": "Саясат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 28,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Гражданином в собственно политическом смысле Аристотель признавал...",
+        "en": "In the strictly political sense, Aristotle recognized as a citizen...",
+        "kk": "Аристотель кімді сөзсіз саяси мағынадағы азамат деп таныды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 191",
+          "units": [
+            "p191"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Любого человека, подчинённого полисным законам",
+            "en": "Any person subject to the laws of the polis",
+            "kk": "Полис заңдарына бағынатын кез келген адамды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Участника законодательной и судебной деятельности",
+            "en": "A participant in legislative and judicial activity",
+            "kk": "Заң шығару және сот қызметіне қатысушыны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Главу каждого домашнего хозяйства независимо от статуса",
+            "en": "The head of every household regardless of status",
+            "kk": "Мәртебесіне қарамастан әрбір үй шаруашылығының басшысын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Любого свободного участника товарного обмена",
+            "en": "Any free participant in commodity exchange",
+            "kk": "Тауар алмасуға қатысатын кез келген бос адамды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Любого постоянно проживающего на территории полиса",
+            "en": "Any permanent resident of the territory of the polis",
+            "kk": "Полис аумағында тұрақты тұратын кез келген адамды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 29,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Устойчивость государственного строя Аристотель связывал с преобладанием...",
+        "en": "Aristotle linked the stability of a political order with the predominance of...",
+        "kk": "Аристотель мемлекеттік құрылыстың тұрақтылығын нені басым болуымен байланыстырды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 192",
+          "units": [
+            "p192"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Средних слоёв",
+            "en": "The middle strata",
+            "kk": "Орта қабаттардың"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Неимущего большинства",
+            "en": "The propertyless majority",
+            "kk": "Мүлкі жоқ көпшіліктің"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Военного сословия",
+            "en": "The military estate",
+            "kk": "Әскери таптың"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Крупных собственников",
+            "en": "Large property owners",
+            "kk": "Ірі меншік иелерінің"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Профессионального жречества",
+            "en": "The professional priesthood",
+            "kk": "Кәсіби абыздардың"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 30,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Правильным правлением большинства ради общего блага Аристотель считал...",
+        "en": "Aristotle regarded as the correct rule of the majority for the sake of the common good...",
+        "kk": "Аристотель қандай басқару нысанын көпшіліктің жалпы игілік үшін дұрыс басқаруы деп санады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 194",
+          "units": [
+            "p194"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Демократию",
+            "en": "Democracy",
+            "kk": "Демократияны"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Политию",
+            "en": "Polity",
+            "kk": "Политияны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Олигархию",
+            "en": "Oligarchy",
+            "kk": "Олигархияны"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Плутократию",
+            "en": "Plutocracy",
+            "kk": "Плутократияны"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Тимократию",
+            "en": "Timocracy",
+            "kk": "Тимократияны"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 31,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Немногие богатые управляют ради собственной выгоды. Как определяется такая форма в классификации Аристотеля?",
+        "en": "A few wealthy people rule for their own benefit. How is this form defined in Aristotle's classification?",
+        "kk": "Бірнеше бай адам өз пайдасы үшін басқарады. Аристотельдің жіктемесінде мұндай нысан қалай аталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 194",
+          "units": [
+            "p194"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Аристократия",
+            "en": "Aristocracy",
+            "kk": "Аристократия"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тимократия",
+            "en": "Timocracy",
+            "kk": "Тимократия"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Полития",
+            "en": "Polity",
+            "kk": "Полития"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Демократия",
+            "en": "Democracy",
+            "kk": "Демократия"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Олигархия",
+            "en": "Oligarchy",
+            "kk": "Олигархия"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 32,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Правильные формы правления в классификации Аристотеля:",
+        "en": "Correct forms of government in Aristotle's classification:",
+        "kk": "Аристотельдің жіктемесіндегі дұрыс басқару нысандары:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 194",
+          "units": [
+            "p194"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Монархия",
+            "en": "Monarchy",
+            "kk": "Монархия"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тимократия",
+            "en": "Timocracy",
+            "kk": "Тимократия"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Полития",
+            "en": "Polity",
+            "kk": "Полития"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Аристократия",
+            "en": "Aristocracy",
+            "kk": "Аристократия"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Демократия",
+            "en": "Democracy",
+            "kk": "Демократия"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 33,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Работой Аристотеля является...",
+        "en": "The work that belongs to Aristotle is...",
+        "kk": "Қандай еңбек Аристотельге тиесілі?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 190",
+          "units": [
+            "p190"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "О законах",
+            "en": "On the Laws",
+            "kk": "Заңдар туралы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "О граде божием",
+            "en": "The City of God",
+            "kk": "Құдай қаласы туралы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Политик",
+            "en": "Statesman",
+            "kk": "Саясаткер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Афинская полития",
+            "en": "The Constitution of the Athenians",
+            "kk": "Афины политиясы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Шесть книг о государстве",
+            "en": "Six Books of the Commonwealth",
+            "kk": "Мемлекет туралы алты кітап"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 34,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Преимущество смешанного государственного устройства Цицерон видел в...",
+        "en": "Cicero saw the advantage of a mixed constitution in...",
+        "kk": "Цицерон аралас мемлекеттік құрылыстың артықшылығын неден көрді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 196-197",
+          "units": [
+            "p196",
+            "p197"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сочетании достоинств разных форм и распределении полномочий",
+            "en": "The combination of the merits of different forms and the distribution of powers",
+            "kk": "Әртүрлі нысандардың артықшылықтарын ұштастыруда және өкілеттіктерді бөлуде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Устранении аристократического элемента из управления",
+            "en": "The elimination of the aristocratic element from government",
+            "kk": "Басқарудан аристократиялық элементті шеттетуде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Передаче всей власти народному собранию",
+            "en": "The transfer of all power to the popular assembly",
+            "kk": "Бүкіл билікті халық жиналысына беруде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отказе от обязательности законов для магистратов",
+            "en": "The rejection of the binding force of laws for magistrates",
+            "kk": "Магистраттар үшін заңның міндеттілігінен бас тартуда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наследственном закреплении всех государственных должностей",
+            "en": "The hereditary entrenchment of all public offices",
+            "kk": "Барлық мемлекеттік лауазымдарды мұрагерлікпен бекітуде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 35,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автор трактата «О граде божием»...",
+        "en": "The author of the treatise \"The City of God\" is...",
+        "kk": "«Құдай қаласы туралы» трактатының авторы кім?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 207",
+          "units": [
+            "p207"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Фома Аквинский",
+            "en": "Thomas Aquinas",
+            "kk": "Фома Аквинский"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эразм Роттердамский",
+            "en": "Erasmus of Rotterdam",
+            "kk": "Роттердамдық Эразм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Жан Боден",
+            "en": "Jean Bodin",
+            "kk": "Жан Боден"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Аврелий Августин",
+            "en": "Augustine of Hippo",
+            "kk": "Аврелий Августин"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Марсилий Падуанский",
+            "en": "Marsilius of Padua",
+            "kk": "Падуалық Марсилий"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 36,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ход истории в политическом учении Августина объясняет...",
+        "en": "The course of history in Augustine's political doctrine is explained by...",
+        "kk": "Августиннің саяси ілімінде тарих барысын қандай қағида түсіндіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 207",
+          "units": [
+            "p207"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Общественный договор",
+            "en": "The social contract",
+            "kk": "Қоғамдық шарт"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Божественное провидение",
+            "en": "Divine providence",
+            "kk": "Құдайлық тағдыр (провидение)"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Разделение государственной власти",
+            "en": "The separation of powers",
+            "kk": "Мемлекеттік биліктің бөлінуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Круговорот форм правления",
+            "en": "The cycle of forms of government",
+            "kk": "Басқару нысандарының айналымы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Материальное производство",
+            "en": "Material production",
+            "kk": "Материалдық өндіріс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 37,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сочинение «О правлении государей» принадлежит...",
+        "en": "The work \"On Kingship\" belongs to...",
+        "kk": "«Мемлекет билеушілерінің басқаруы туралы» шығармасы кімге тиесілі?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 210",
+          "units": [
+            "p210"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Фоме Аквинскому",
+            "en": "Thomas Aquinas",
+            "kk": "Фома Аквинскийге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Томмазо Кампанелле",
+            "en": "Tommaso Campanella",
+            "kk": "Томмазо Кампанеллаға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Никколо Макиавелли",
+            "en": "Niccolò Machiavelli",
+            "kk": "Никколо Макиавеллиге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Томасу Мору",
+            "en": "Thomas More",
+            "kk": "Томас Морға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Аврелию Августину",
+            "en": "Augustine of Hippo",
+            "kk": "Аврелий Августинге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 38,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "В учении Фомы Аквинского сопротивление светской власти допускается, если...",
+        "en": "In the teaching of Thomas Aquinas, resistance to secular authority is permitted in the event of...",
+        "kk": "Фома Аквинский ілімінде зайырлы билікке қарсы тұруға қандай жағдай мүмкіндік берді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 213-214",
+          "units": [
+            "p213",
+            "p214"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отказ монарха ввести прямую демократию",
+            "en": "The monarch's refusal to introduce direct democracy",
+            "kk": "Монархтың тікелей демократияны енгізуден бас тартуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любое увеличение имущественного неравенства",
+            "en": "Any increase in property inequality",
+            "kk": "Мүліктік теңсіздіктің кез келген артуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Действия власти вопреки божественному порядку",
+            "en": "Actions of the authorities contrary to the divine order",
+            "kk": "Биліктің құдайлық тәртіпке қайшы әрекеттері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Наследственный способ замещения престола",
+            "en": "The hereditary manner of succession to the throne",
+            "kk": "Тақты мұрагерлікпен ауыстыру тәсілі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непопулярность правителя среди купечества",
+            "en": "The ruler's unpopularity among the merchants",
+            "kk": "Билеушінің көпестер арасында танымал болмауы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 39,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите работы Никколо Макиавелли.",
+        "en": "Specify the works of Niccolò Machiavelli.",
+        "kk": "Никколо Макиавеллидің еңбектерін көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 219",
+          "units": [
+            "p219"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Рассуждения о первой декаде Тита Ливия",
+            "en": "Discourses on Livy",
+            "kk": "Тит Ливийдің алғашқы онкүндігі туралы пайымдаулар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Государь",
+            "en": "The Prince",
+            "kk": "Билеуші"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Размышления о Французской революции",
+            "en": "Reflections on the Revolution in France",
+            "kk": "Француз революциясы туралы ойлар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Политический трактат",
+            "en": "Political Treatise",
+            "kk": "Саяси трактат"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Шесть книг о государстве",
+            "en": "Six Books of the Commonwealth",
+            "kk": "Мемлекет туралы алты кітап"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": 40,
+      "topic_id": 2,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Республиканец Макиавелли допускал сильную монархическую власть в Италии своего времени, потому что...",
+        "en": "Machiavelli, a republican, allowed strong monarchical power in the Italy of his time because...",
+        "kk": "Республикашыл Макиавелли өз заманындағы Италияда күшті монархиялық билікке неліктен жол берді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 220-223",
+          "units": [
+            "p220",
+            "p221",
+            "p222",
+            "p223"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Он выводил наследственную монархию из божественного права",
+            "en": "He derived hereditary monarchy from divine right",
+            "kk": "Ол мұрагерлік монархияны құдайлық құқықтан шығарды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Он считал республику допустимой только для колоний",
+            "en": "He considered a republic permissible only for colonies",
+            "kk": "Ол республиканы тек отарлар үшін ғана жол берілетін нысан деп санады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Она могла обеспечить первоначальное государственное объединение",
+            "en": "It could secure the initial unification of the state",
+            "kk": "Ол мемлекеттің алғашқы бірігуін қамтамасыз ете алатын еді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Он рассматривал раздробленность как условие свободы",
+            "en": "He regarded fragmentation as a condition of freedom",
+            "kk": "Ол бытыраңқылықты бостандықтың шарты деп қарастырды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Он отрицал значение национального государства",
+            "en": "He denied the importance of the nation-state",
+            "kk": "Ол ұлттық мемлекеттің маңызын жоққа шығарды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 41,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В рассуждениях Макиавелли политическое оправдание чрезвычайным средствам придаёт...",
+        "en": "In Machiavelli's reasoning, the political justification of extraordinary means is provided by...",
+        "kk": "Макиавеллидің пайымдауларында төтенше құралдарға саяси ақтау беретін қандай мақсат болды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 222",
+          "units": [
+            "p222"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сохранение и укрепление общего государственного дела",
+            "en": "Preserving and strengthening the common affairs of the state",
+            "kk": "Жалпы мемлекеттік істі сақтау және нығайту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Безусловное расширение привилегий знати",
+            "en": "The unconditional expansion of the nobility's privileges",
+            "kk": "Дворяндардың жеңілдіктерін сөзсіз кеңейту"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Универсальное подчинение государства церкви",
+            "en": "The universal subordination of the state to the church",
+            "kk": "Мемлекеттің шіркеуге түгел бағынуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Личное обогащение правителя",
+            "en": "The ruler's personal enrichment",
+            "kk": "Билеушінің жеке байуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Устранение любого общественного конфликта",
+            "en": "The elimination of any social conflict",
+            "kk": "Кез келген қоғамдық қақтығысты жою"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 42,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Систематическая концепция суверенитета в «Шести книгах о государстве» принадлежит...",
+        "en": "The systematic concept of sovereignty in the \"Six Books of the Commonwealth\" belongs to...",
+        "kk": "«Мемлекет туралы алты кітапта» егемендіктің жүйелі тұжырымдамасы кімге тиесілі?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 225",
+          "units": [
+            "p225"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гуго Гроцию",
+            "en": "Hugo Grotius",
+            "kk": "Гуго Гроцийге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Жану Бодену",
+            "en": "Jean Bodin",
+            "kk": "Жан Бодендеге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Джону Локку",
+            "en": "John Locke",
+            "kk": "Джон Локкқа"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Бенедикту Спинозе",
+            "en": "Baruch Spinoza",
+            "kk": "Бенедикт Спинозаға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Томасу Гоббсу",
+            "en": "Thomas Hobbes",
+            "kk": "Томас Гоббсқа"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 43,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Свойства суверенитета по Жану Бодену:",
+        "en": "Properties of sovereignty according to Jean Bodin:",
+        "kk": "Жан Боден бойынша егемендіктің қасиеттері:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 226",
+          "units": [
+            "p226"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Распределение верховной власти между независимыми центрами",
+            "en": "The distribution of supreme power among independent centers",
+            "kk": "Жоғарғы биліктің тәуелсіз орталықтар арасында бөлінуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Зависимость полномочий суверена от очередного согласия подданных",
+            "en": "The dependence of the sovereign's powers on the subjects' repeated consent",
+            "kk": "Егемен өкілеттіктерінің бағыныштылардың кезекті келісіміне тәуелділігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Право каждого сословия сохранять собственное верховенство",
+            "en": "The right of each estate to retain its own supremacy",
+            "kk": "Әрбір таптың өз үстемдігін сақтау құқығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Неделимость",
+            "en": "Indivisibility",
+            "kk": "Бөлінбейтіндік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Постоянство",
+            "en": "Perpetuity",
+            "kk": "Тұрақтылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 44,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автором «Города солнца» является...",
+        "en": "The author of \"The City of the Sun\" is...",
+        "kk": "«Күн қаласын» кім жазды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 231-234",
+          "units": [
+            "p231",
+            "p232",
+            "p233",
+            "p234"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Томас Мюнцер",
+            "en": "Thomas Müntzer",
+            "kk": "Томас Мюнцер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гуго Гроций",
+            "en": "Hugo Grotius",
+            "kk": "Гуго Гроций"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Томмазо Кампанелла",
+            "en": "Tommaso Campanella",
+            "kk": "Томмазо Кампанелла"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Томас Мор",
+            "en": "Thomas More",
+            "kk": "Томас Мор"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эразм Роттердамский",
+            "en": "Erasmus of Rotterdam",
+            "kk": "Роттердамдық Эразм"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 45,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Идеальный островной общественный строй Томас Мор описал в произведении...",
+        "en": "Thomas More described an ideal island social order in the work...",
+        "kk": "Томас Мор мінсіз аралдық қоғамдық құрылысты қай шығармасында сипаттады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 231",
+          "units": [
+            "p231"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Политический трактат",
+            "en": "Political Treatise",
+            "kk": "Саяси трактат"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Город солнца",
+            "en": "The City of the Sun",
+            "kk": "Күн қаласы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Утопия",
+            "en": "Utopia",
+            "kk": "Утопия"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "О гражданине",
+            "en": "On the Citizen",
+            "kk": "Азамат туралы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Новая Атлантида",
+            "en": "New Atlantis",
+            "kk": "Жаңа Атлантида"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 46,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Естественное право Гуго Гроций выводил...",
+        "en": "Hugo Grotius derived natural law...",
+        "kk": "Гуго Гроций табиғи құқықты неден шығарды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 237-238",
+          "units": [
+            "p237",
+            "p238"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Из результатов народного голосования",
+            "en": "From the results of a popular vote",
+            "kk": "Халық дауыс беруінің нәтижелерінен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Из обычая господствующего сословия",
+            "en": "From the custom of the ruling estate",
+            "kk": "Үстем таптың әдет-ғұрпынан"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Из исключительной воли монарха",
+            "en": "From the exclusive will of the monarch",
+            "kk": "Монархтың жеке еркінен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Из международного признания государства",
+            "en": "From the international recognition of the state",
+            "kk": "Мемлекеттің халықаралық танылуынан"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Из разума и природы человека",
+            "en": "From reason and human nature",
+            "kk": "Ақыл мен адам табиғатынан"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 47,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автором «Левиафана» является...",
+        "en": "The author of \"Leviathan\" is...",
+        "kk": "«Левиафанның» авторы кім?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 239",
+          "units": [
+            "p239"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Жан-Жак Руссо",
+            "en": "Jean-Jacques Rousseau",
+            "kk": "Жан-Жак Руссо"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Бенедикт Спиноза",
+            "en": "Baruch Spinoza",
+            "kk": "Бенедикт Спиноза"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Томас Гоббс",
+            "en": "Thomas Hobbes",
+            "kk": "Томас Гоббс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Джон Локк",
+            "en": "John Locke",
+            "kk": "Джон Локк"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Жан Боден",
+            "en": "Jean Bodin",
+            "kk": "Жан Боден"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 48,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как соотносятся договор и суверенная власть у Гоббса?",
+        "en": "How are the contract and sovereign power related in Hobbes?",
+        "kk": "Гоббсте шарт пен егемен билік қалай арақатынаста болады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 240-241",
+          "units": [
+            "p240",
+            "p241"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Договор учреждает сильную власть для прекращения всеобщей вражды",
+            "en": "The contract establishes a strong power to put an end to universal enmity",
+            "kk": "Шарт жалпыға ортақ жауласуды тоқтату үшін күшті билікті құрады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Договор устанавливает обязательную выборность всех судей",
+            "en": "The contract establishes mandatory election of all judges",
+            "kk": "Шарт барлық судьялардың міндетті түрде сайлануын белгілейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Договор сохраняет независимые частные армии подданных",
+            "en": "The contract preserves the independent private armies of the subjects",
+            "kk": "Шарт бағыныштылардың тәуелсіз жеке әскерлерін сақтайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Договор делает суверена исполнителем частных поручений",
+            "en": "The contract makes the sovereign an executor of private commissions",
+            "kk": "Шарт егемендіні жеке тапсырмалардың орындаушысына айналдырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Договор устраняет необходимость принуждения",
+            "en": "The contract removes the need for coercion",
+            "kk": "Шарт мәжбүрлеу қажеттілігін жояды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 49,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "К ограничениям государственной власти, подчёркнутым Спинозой, относится...",
+        "en": "Among the limitations of state power emphasized by Spinoza is...",
+        "kk": "Спиноза мемлекеттік биліктің қандай шектелуін атап көрсетті?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 243",
+          "units": [
+            "p243"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Признание страха единственным основанием повиновения",
+            "en": "Recognition of fear as the sole basis of obedience",
+            "kk": "Қорқынышты бағынудың жалғыз негізі деп тану"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обязательное подчинение государства духовенству",
+            "en": "The mandatory subordination of the state to the clergy",
+            "kk": "Мемлекеттің дін иелеріне міндетті түрде бағынуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Недопустимость посягательства на свободу совести",
+            "en": "The impermissibility of infringing on freedom of conscience",
+            "kk": "Ар-ождан бостандығына қол сұғуға болмайтындығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Запрет демократического участия граждан",
+            "en": "A ban on democratic participation by citizens",
+            "kk": "Азаматтардың демократиялық қатысуына тыйым салу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отказ от рационального обоснования законов",
+            "en": "The rejection of a rational justification of laws",
+            "kk": "Заңдарды ақылға сүйеніп негіздеуден бас тарту"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 50,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Назовите естественные права, которые особо выделял Джон Локк.",
+        "en": "Name the natural rights that John Locke singled out in particular.",
+        "kk": "Джон Локк ерекше бөліп көрсеткен табиғи құқықтарды атаңыз."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 246",
+          "units": [
+            "p246"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "На участие в управлении государством",
+            "en": "To participate in the government of the state",
+            "kk": "Мемлекетті басқаруға қатысу құқығын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "На жизнь",
+            "en": "To life",
+            "kk": "Өмір сүру құқығын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "На равное распределение общественного имущества",
+            "en": "To an equal distribution of public property",
+            "kk": "Қоғамдық мүлікті тең бөлу құқығын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "На собственность",
+            "en": "To property",
+            "kk": "Меншік құқығын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "На свободу",
+            "en": "To liberty",
+            "kk": "Бостандық құқығын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 51,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чем локковская схема разделения властей отличается от позднейшей схемы Монтескье?",
+        "en": "How does Locke's scheme of the separation of powers differ from Montesquieu's later scheme?",
+        "kk": "Локк бойынша билікті бөлу сызбасы Монтескьенің кейінгі сызбасынан немен ерекшеленеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 247",
+          "units": [
+            "p247"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Запретом народного представительства",
+            "en": "A ban on popular representation",
+            "kk": "Халықтық өкілдікке тыйым салумен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Слиянием законодательной власти с исполнительной",
+            "en": "The merging of legislative power with executive power",
+            "kk": "Заң шығарушы биліктің атқарушы билікпен қосылуымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Выделением федеративной власти, ведающей внешними сношениями",
+            "en": "The identification of a federative power in charge of foreign relations",
+            "kk": "Сыртқы қатынастарды жүргізетін федеративтік билікті бөліп көрсетумен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Подчинением законодательства судебным прецедентам",
+            "en": "The subordination of legislation to judicial precedent",
+            "kk": "Заң шығаруды сот прецеденттеріне бағындырумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выделением партийной власти как четвёртой ветви",
+            "en": "The identification of party power as a fourth branch",
+            "kk": "Партиялық билікті төртінші тармақ ретінде бөліп көрсетумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 52,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автор «О духе законов»...",
+        "en": "The author of \"The Spirit of the Laws\" is...",
+        "kk": "«Заңдардың рухы туралы» еңбегінің авторы кім?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 250",
+          "units": [
+            "p250"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Джон Локк",
+            "en": "John Locke",
+            "kk": "Джон Локк"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Шарль Луи Монтескье",
+            "en": "Charles-Louis de Montesquieu",
+            "kk": "Шарль Луи Монтескье"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гуго Гроций",
+            "en": "Hugo Grotius",
+            "kk": "Гуго Гроций"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Жан-Жак Руссо",
+            "en": "Jean-Jacques Rousseau",
+            "kk": "Жан-Жак Руссо"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Дени Дидро",
+            "en": "Denis Diderot",
+            "kk": "Дени Дидро"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 53,
+      "topic_id": 2,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что объединяет обоснования разделения властей у Локка и Монтескье?",
+        "en": "What do Locke's and Montesquieu's justifications of the separation of powers have in common?",
+        "kk": "Локк пен Монтескьедегі билікті бөлуді негіздеулерді не біріктіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 247",
+          "units": [
+            "p247"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 251",
+          "units": [
+            "p251"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ограничение произвола через распределение государственных полномочий",
+            "en": "Limiting arbitrariness through the distribution of state powers",
+            "kk": "Мемлекеттік өкілеттіктерді бөлу арқылы өктемдікті шектеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Выведение власти из неотчуждаемой общей воли политического целого",
+            "en": "Deriving power from the inalienable general will of the political whole",
+            "kk": "Билікті саяси тұтастықтың ажырамас ортақ еркінен шығару"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Разделение верховенства между самостоятельными сословными корпорациями",
+            "en": "Dividing supremacy among independent corporate estates",
+            "kk": "Жоғары билікті дербес таптық корпорациялар арасында бөлу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Приоритет законодательного собрания, осуществляющего также окончательное правосудие",
+            "en": "The priority of a legislative assembly that also administers final justice",
+            "kk": "Түпкілікті сот төрелігін де жүзеге асыратын заң шығарушы жиналыстың басымдығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сохранение прав посредством передачи единому суверену всех полномочий",
+            "en": "Preserving rights by transferring all powers to a single sovereign",
+            "kk": "Құқықтарды сақтауды барлық өкілеттіктерді бір егемендіге беру арқылы қамтамасыз ету"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 54,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "В концепции Руссо народные депутаты не могут окончательно заменить народ в законодательстве, потому что...",
+        "en": "In Rousseau's concept, deputies of the people cannot finally replace the people in legislation because...",
+        "kk": "Руссо тұжырымдамасында халық депутаттары заң шығаруда халықты түпкілікті алмастыра алмайтыны неліктен?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 257-260",
+          "units": [
+            "p257",
+            "p258",
+            "p259",
+            "p260"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Договор передаёт гражданские права церковной организации",
+            "en": "The contract transfers civil rights to a church organization",
+            "kk": "Шарт азаматтық құқықтарды шіркеу ұйымына береді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Суверенная общая воля не подлежит представительству",
+            "en": "The sovereign general will cannot be represented",
+            "kk": "Егемен жалпы ерік өкілдікке жатпайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Народный суверенитет возникает только после отмены государства",
+            "en": "Popular sovereignty arises only after the abolition of the state",
+            "kk": "Халықтық егемендік тек мемлекет жойылғаннан кейін ғана пайда болады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Правительство обладает более высокой властью, чем народ",
+            "en": "The government has higher authority than the people",
+            "kk": "Үкімет халыққа қарағанда жоғары билікке ие"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Законодательство относится к естественным правам монарха",
+            "en": "Legislation belongs to the natural rights of the monarch",
+            "kk": "Заң шығару монархтың табиғи құқықтарына жатады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 55,
+      "topic_id": 2,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия между мыслителем и смыслом общественного договора:",
+        "en": "Correct correspondences between a thinker and the meaning of the social contract:",
+        "kk": "Ойшыл мен қоғамдық шарттың мағынасы арасындағы дұрыс сәйкестіктер:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 240",
+          "units": [
+            "p240"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 246",
+          "units": [
+            "p246"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 258",
+          "units": [
+            "p258"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Руссо: образование целого под руководством общей воли",
+            "en": "Rousseau: the formation of the whole under the guidance of the general will",
+            "kk": "Руссо: жалпы ерік басшылығымен тұтастың құрылуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гоббс: прекращение войны всех против всех",
+            "en": "Hobbes: the end of the war of all against all",
+            "kk": "Гоббс: барлығының барлығына қарсы соғысын тоқтату"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Локк: передача суверену неотчуждаемых прав без права сопротивления",
+            "en": "Locke: the transfer of inalienable rights to the sovereign without the right of resistance",
+            "kk": "Локк: ажырамас құқықтарды қарсылық көрсету құқығынсыз егемендіге беру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Руссо: признание депутатов окончательными выразителями общей воли",
+            "en": "Rousseau: recognition of deputies as the final exponents of the general will",
+            "kk": "Руссо: депутаттарды жалпы еріктің түпкілікті білдірушісі деп тану"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Локк: охрана сохраняющихся естественных прав",
+            "en": "Locke: the protection of the natural rights that are retained",
+            "kk": "Локк: сақталатын табиғи құқықтарды қорғау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ]
+    }
+  ]
+}

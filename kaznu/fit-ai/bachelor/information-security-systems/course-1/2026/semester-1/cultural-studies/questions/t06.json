@@ -1,0 +1,1642 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 126,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ключевое назначение культурного кода заключается в...",
+        "en": "The key purpose of a cultural code lies in...",
+        "kk": "Мәдени кодтың негізгі міндеті неде?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Закреплении единственного языка для всех культур",
+            "en": "Establishing a single language for all cultures",
+            "kk": "Барлық мәдениеттер үшін жалғыз тілді бекітуде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Устранении различий между текстом и обозначаемым предметом",
+            "en": "Eliminating the difference between a text and the object it denotes",
+            "kk": "Мәтін мен белгіленетін зат арасындағы айырмашылықты жоюда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сведении культурного сообщения к числу его символов",
+            "en": "Reducing a cultural message to the number of its symbols",
+            "kk": "Мәдени хабарламаны оның символдарының санына келтіруде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Замене любого значения физическим свойством носителя",
+            "en": "Replacing any meaning with a physical property of the carrier",
+            "kk": "Кез келген мағынаны тасымалдаушының физикалық қасиетімен алмастыруда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Связывании знака со значением и переводе обозначений в смыслы",
+            "en": "Linking a sign with its meaning and translating designations into senses",
+            "kk": "Таңбаны мағынамен байланыстыруда және белгілерді мағыналарға айналдыруда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 127,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Разные прочтения одного культурного текста при смене кода иллюстрируют положение:",
+        "en": "Different readings of a single cultural text when the code changes illustrate the proposition:",
+        "kk": "Бір мәдени мәтіннің кодты ауыстырғанда әртүрлі түсінілуі мына тұжырымды көрсетеді:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Код тождествен авторскому намерению во всех случаях",
+            "en": "The code is identical to the author's intention in all cases",
+            "kk": "Код барлық жағдайда авторлық ниетпен бірдей"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Смысл текста полностью определяется его объёмом",
+            "en": "The meaning of a text is entirely determined by its length",
+            "kk": "Мәтіннің мағынасы толығымен оның көлемімен айқындалады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Смысловая интерпретация зависит от применяемого кода",
+            "en": "The interpretation of meaning depends on the code applied",
+            "kk": "Мағыналық интерпретация қолданылатын кодқа тәуелді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Текст не имеет материально выраженных знаков",
+            "en": "A text has no materially expressed signs",
+            "kk": "Мәтінде материалдық көрінісі бар таңбалар жоқ"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Различие прочтений доказывает отсутствие культурного смысла",
+            "en": "The difference between readings proves the absence of cultural meaning",
+            "kk": "Түсіндірмелердің әртүрлілігі мәдени мағынаның жоқтығын дәлелдейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 7",
+          "units": [
+            "p7"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 128,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое утверждение о культурном коде ошибочно?",
+        "en": "Which statement about a cultural code is incorrect?",
+        "kk": "Мәдени код туралы қай тұжырым қате?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Помогает соотносить культурный знак с его значением",
+            "en": "It helps to relate a cultural sign to its meaning",
+            "kk": "Мәдени таңбаны оның мағынасымен салыстыруға көмектеседі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Влияет на прочтение одного и того же культурного текста",
+            "en": "It influences the reading of one and the same cultural text",
+            "kk": "Бір мәдени мәтіннің түсінілуіне әсер етеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Изменяет лишь материальный носитель, сохраняя неизменной систему смыслов",
+            "en": "It changes only the material carrier while leaving the system of meanings unchanged",
+            "kk": "Мағыналар жүйесін өзгертпей, тек материалдық тасымалдаушыны өзгертеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Помогает раскрывать смысл ритуала и символа",
+            "en": "It helps to reveal the meaning of a ritual and a symbol",
+            "kk": "Ғұрып пен символдың мағынасын ашуға көмектеседі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Может преобразовываться в ходе исторического развития",
+            "en": "It can be transformed in the course of historical development",
+            "kk": "Тарихи даму барысында өзгеруі мүмкін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзацы 5–8",
+          "units": [
+            "p5",
+            "p6",
+            "p7",
+            "p8"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 129,
+      "topic_id": 6,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Свойства культурного кода:",
+        "en": "Properties of a cultural code:",
+        "kk": "Мәдени кодтың қасиеттері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Биологическая наследуемость",
+            "en": "Biological heritability",
+            "kk": "Биологиялық тұқым қуалаушылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Самодостаточность",
+            "en": "Self-sufficiency",
+            "kk": "Өзін-өзі жеткіліктілік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Фиксированная историческая однозначность",
+            "en": "Fixed historical unambiguity",
+            "kk": "Бекітілген тарихи біржақтылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Открытость",
+            "en": "Openness",
+            "kk": "Ашықтық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Универсальность",
+            "en": "Universality",
+            "kk": "Әмбебаптық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзацы 10–13",
+          "units": [
+            "p10",
+            "p11",
+            "p12",
+            "p13"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 130,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему истинное имя могло скрываться за общеизвестным в древних культурах?",
+        "en": "Why could a true name be hidden behind a commonly known one in ancient cultures?",
+        "kk": "Ежелгі мәдениеттерде шын есім неліктен жалпыға мәлім есімнің артына жасырылуы мүмкін еді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Истинное имя обязательно обозначало профессию владельца",
+            "en": "The true name necessarily denoted the profession of its bearer",
+            "kk": "Шын есім міндетті түрде иесінің кәсібін білдірген"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Имя считалось неотделимым от предмета и позволяющим магическое воздействие",
+            "en": "A name was considered inseparable from the thing and as allowing magical influence over it",
+            "kk": "Есім заттан ажырамайтын және сиқырлы әсер етуге мүмкіндік беретін нәрсе деп саналған"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Два имени обозначали обязательную принадлежность двум государствам",
+            "en": "Two names denoted an obligatory affiliation with two states",
+            "kk": "Екі есім міндетті түрде екі мемлекетке тиесілілікті білдірген"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Общеизвестное имя применялось только в письменных законах",
+            "en": "The commonly known name was used only in written laws",
+            "kk": "Жалпыға мәлім есім тек жазбаша заңдарда қолданылған"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сакральный смысл приписывался исключительно родовому титулу",
+            "en": "Sacred meaning was ascribed exclusively to a clan title",
+            "kk": "Қасиетті мағына тек рулық атаққа ғана беріледі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 131,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Пример христианского отсчёта времени от пришествия Христа показывает, что...",
+        "en": "The example of the Christian reckoning of time from the coming of Christ shows that...",
+        "kk": "Христиандық уақыт санаудың Мәсіхтің келуінен басталуы мысалы мынаны көрсетеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Культурная картина мира определяется только географией",
+            "en": "The cultural picture of the world is determined only by geography",
+            "kk": "Мәдени дүниетаным тек географиямен айқындалады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любой код сводится к форме письменного алфавита",
+            "en": "Any code is reduced to the form of a written alphabet",
+            "kk": "Кез келген код жазба әліпби нысанына келтіріледі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Культурный код ограничивается личными именами",
+            "en": "A cultural code is limited to personal names",
+            "kk": "Мәдени код жеке есімдермен шектеледі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Временная организация может выступать кодом культурной картины мира",
+            "en": "The organization of time can act as a code of the cultural picture of the world",
+            "kk": "Уақытты ұйымдастыру мәдени дүниетанымның коды бола алады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Календарное время лишено религиозного значения",
+            "en": "Calendar time has no religious significance",
+            "kk": "Күнтізбелік уақыттың діни мәні жоқ"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 16",
+          "units": [
+            "p16"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 132,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему понятие кода может считаться шире понятия вербального языка?",
+        "en": "Why can the concept of a code be considered broader than the concept of verbal language?",
+        "kk": "Код ұғымы неліктен вербалды тіл ұғымынан кең деп есептелуі мүмкін?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Оно описывает только естественные симптомы",
+            "en": "It describes only natural symptoms",
+            "kk": "Ол тек табиғи симптомдарды сипаттайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Оно исключает правила организации сообщения",
+            "en": "It excludes the rules for organizing a message",
+            "kk": "Ол хабарламаны ұйымдастыру ережелерін жоққа шығарады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Оно не связано с передачей информации",
+            "en": "It is not connected with the transmission of information",
+            "kk": "Ол ақпарат беруге қатысы жоқ"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Оно применимо также к невербальным системам",
+            "en": "It is also applicable to non-verbal systems",
+            "kk": "Ол вербалды емес жүйелерге де қолданылады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Оно относится только к звуковому составу речи",
+            "en": "It relates only to the sound composition of speech",
+            "kk": "Ол тек сөйлеудің дыбыстық құрамына қатысты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 25",
+          "units": [
+            "p25"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 133,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ю. Лотман подчёркивает в понятии «код»...",
+        "en": "In the concept of \"code\", Yu. Lotman emphasizes...",
+        "kk": "Ю. Лотман «код» ұғымында мынаны атап көрсетеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Принципиальное отсутствие правил в искусственной коммуникации",
+            "en": "The fundamental absence of rules in artificial communication",
+            "kk": "Жасанды коммуникацияда ережелердің принципті түрде болмауын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Полное совпадение кода с многовековой историей естественного языка",
+            "en": "The complete coincidence of a code with the centuries-long history of a natural language",
+            "kk": "Кодтың табиғи тілдің ғасырлар бойғы тарихымен толық сәйкес келуін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ассоциацию с автоматической моделью общения в отличие от исторического языка",
+            "en": "Its association with an automatic model of communication, in contrast to a historical language",
+            "kk": "Тарихи тілден айырмашылығы ретінде қарым-қатынастың автоматты моделімен ассоциацияны"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательную многозначность любого машинного сообщения",
+            "en": "The obligatory polysemy of any machine message",
+            "kk": "Кез келген машиналық хабарламаның міндетті көпмағыналылығын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Невозможность применения понятия к техническим языкам",
+            "en": "The impossibility of applying the concept to technical languages",
+            "kk": "Ұғымды техникалық тілдерге қолдануға болмайтындығын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 27",
+          "units": [
+            "p27"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 134,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Специальный термин S-код предложен...",
+        "en": "The special term \"S-code\" was proposed by...",
+        "kk": "S-код деген арнайы терминді ұсынған..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ж. Лаканом",
+            "en": "J. Lacan",
+            "kk": "Ж. Лакан"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Р. Якобсоном",
+            "en": "R. Jakobson",
+            "kk": "Р. Якобсон"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "У. Эко",
+            "en": "U. Eco",
+            "kk": "У. Эко"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ф. де Соссюром",
+            "en": "F. de Saussure",
+            "kk": "Ф. де Соссюр"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ю. Лотманом",
+            "en": "Yu. Lotman",
+            "kk": "Ю. Лотман"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 29",
+          "units": [
+            "p29"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 135,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Особенность прочтения, связанная с S-кодом, — это...",
+        "en": "The feature of reading connected with the S-code is...",
+        "kk": "S-кодпен байланысты түсіндіру ерекшелігі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отказ от определённого угла зрения при интерпретации",
+            "en": "Renouncing a definite point of view in interpretation",
+            "kk": "Интерпретация кезінде белгілі бір көзқарастан бас тарту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Зависимость организации понимания от профессиональной и иной позиции человека",
+            "en": "The dependence of the organization of understanding on a person's professional and other position",
+            "kk": "Түсінуді ұйымдастырудың адамның кәсіби және өзге де ұстанымына тәуелділігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Независимость прочтения от образования и опыта",
+            "en": "The independence of reading from education and experience",
+            "kk": "Түсіндірменің білім мен тәжірибеге тәуелсіздігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сведение любого сообщения к одному буквальному значению",
+            "en": "Reducing any message to a single literal meaning",
+            "kk": "Кез келген хабарламаны бір сөзбе-сөз мағынаға келтіру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Устранение правил комбинаторики из высказывания",
+            "en": "The elimination of the rules of combinatorics from an utterance",
+            "kk": "Айтылымнан комбинаторика ережелерін жою"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 31",
+          "units": [
+            "p31"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 136,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие «субкод» для информационных систем с иерархией кодов связано с именем...",
+        "en": "The concept of the \"subcode\" for information systems with a hierarchy of codes is associated with the name of...",
+        "kk": "Кодтар иерархиясы бар ақпараттық жүйелер үшін «субкод» ұғымы кімнің есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Г. Гадамера",
+            "en": "H.-G. Gadamer",
+            "kk": "Г. Гадамер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "А. Кребера",
+            "en": "A. Kroeber",
+            "kk": "А. Кребер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Э. Кассирера",
+            "en": "E. Cassirer",
+            "kk": "Э. Кассирер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "К. Юнга",
+            "en": "C. Jung",
+            "kk": "К. Юнг"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Р. Якобсона",
+            "en": "R. Jakobson",
+            "kk": "Р. Якобсон"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 32",
+          "units": [
+            "p32"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 137,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Принцип иерархичности культурного кода означает...",
+        "en": "The principle of the hierarchy of a cultural code means...",
+        "kk": "Мәдени кодтың иерархиялылық қағидасы мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обязательное превосходство письменных знаков над устными",
+            "en": "The obligatory superiority of written signs over oral ones",
+            "kk": "Жазба таңбалардың ауызша таңбалардан міндетті түрде басымдығын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Равнозначность всех интерпретаций при отсутствии правил",
+            "en": "The equivalence of all interpretations in the absence of rules",
+            "kk": "Ережелер болмағанда барлық интерпретациялардың тең мәнділігін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Невозможность сочетать несколько кодов в одной системе",
+            "en": "The impossibility of combining several codes in a single system",
+            "kk": "Бір жүйеде бірнеше кодты үйлестірудің мүмкін еместігін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Прямую зависимость значения от длины высказывания",
+            "en": "A direct dependence of meaning on the length of an utterance",
+            "kk": "Мағынаның айтылым ұзындығына тікелей тәуелділігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Упорядоченное отношение главного и подчинённых субкодов",
+            "en": "An ordered relation between a principal subcode and subordinate subcodes",
+            "kk": "Басты және бағынышты субкодтардың реттелген қатынасын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 36",
+          "units": [
+            "p36"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 138,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой вывод об экономичности передачи сообщения предложен У. Эко?",
+        "en": "What conclusion about the economy of message transmission did U. Eco propose?",
+        "kk": "У. Эко хабарламаны беру үнемділігі туралы қандай қорытынды ұсынды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эффективность определяется только числом графических знаков",
+            "en": "Efficiency is determined only by the number of graphic signs",
+            "kk": "Тиімділік тек графикалық таңбалардың санымен айқындалады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любая избыточность автоматически уничтожает смысл",
+            "en": "Any redundancy automatically destroys meaning",
+            "kk": "Кез келген артықшылық мағынаны автоматты түрде жояды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ограниченность комбинаций облегчает кодирование и декодирование",
+            "en": "A limited number of combinations facilitates encoding and decoding",
+            "kk": "Комбинациялардың шектеулілігі кодтау мен декодтауды жеңілдетеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Неограниченный рост комбинаций всегда упрощает передачу",
+            "en": "An unlimited growth of combinations always simplifies transmission",
+            "kk": "Комбинациялардың шексіз өсуі әрдайым берілуді жеңілдетеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Экономичность требует полного отказа от правил сочетания",
+            "en": "Economy requires a complete renunciation of rules of combination",
+            "kk": "Үнемділік қосылу ережелерінен толық бас тартуды талап етеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 39",
+          "units": [
+            "p39"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 139,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какую психологическую задачу решает уподобление ребёнка родителям в концепции идентификации Фрейда?",
+        "en": "Which psychological task is solved by a child's likening of himself to his parents in Freud's concept of identification?",
+        "kk": "Фрейдтің сәйкестендіру тұжырымдамасында баланың ата-анасына ұқсауы қандай психологиялық міндетті шешеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Преодоление родительского авторитета посредством рациональной критики",
+            "en": "Overcoming parental authority by means of rational criticism",
+            "kk": "Парасатты сын арқылы ата-ана беделін еңсеру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Уменьшение страха через перенятие родительской силы",
+            "en": "Reducing fear by adopting the parents' power",
+            "kk": "Ата-ананың күшін қабылдау арқылы қорқынышты азайту"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Разделение сознательного образца поведения и фигуры значимого Другого",
+            "en": "Separating a conscious model of behaviour from the figure of a significant Other",
+            "kk": "Мінез-құлықтың саналы үлгісі мен маңызды Басқа адам бейнесін ажырату"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Освоение формализованного языка через сознательное соглашение",
+            "en": "Mastering a formalized language through a conscious agreement",
+            "kk": "Саналы келісім арқылы формалданған тілді игеру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Построение независимой системы ценностей до эмоционального отождествления",
+            "en": "Building an independent system of values before emotional identification",
+            "kk": "Эмоциялық теңестіруге дейін тәуелсіз құндылықтар жүйесін құру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 42",
+          "units": [
+            "p42"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 140,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Эмоциональное отождествление с киногероем первоначально приводит прежде всего к...",
+        "en": "Emotional identification with a film hero initially leads primarily to...",
+        "kk": "Кино кейіпкерімен эмоциялық теңестіру бастапқыда ең алдымен неге әкеледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Формированию единой для общества системы кодов",
+            "en": "The formation of a system of codes common to a society",
+            "kk": "Қоғам үшін ортақ кодтар жүйесінің қалыптасуына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Копированию внешних признаков деятельности",
+            "en": "The copying of the outward features of activity",
+            "kk": "Қызметтің сыртқы белгілерін көшіруге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательной смене национальной принадлежности",
+            "en": "An obligatory change of national affiliation",
+            "kk": "Ұлттық тиесілілікті міндетті түрде ауыстыруға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Полной утрате индивидуальной памяти",
+            "en": "A complete loss of individual memory",
+            "kk": "Жеке жадтың толық жоғалуына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Юридическому членству в реальной организации",
+            "en": "Legal membership in a real organization",
+            "kk": "Нақты ұйымның заңды мүшелігіне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 50",
+          "units": [
+            "p50"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 141,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Причисление себя к номинальной группе связывается с...",
+        "en": "Assigning oneself to a nominal group is associated with...",
+        "kk": "Өзін номиналды топқа жатқызу немен байланыстырылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключением эмоциональных образцов поведения",
+            "en": "The exclusion of emotional patterns of behaviour",
+            "kk": "Мінез-құлықтың эмоциялық үлгілерін жоққа шығарумен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наследованием физиологических признаков группы",
+            "en": "The inheritance of the group's physiological features",
+            "kk": "Топтың физиологиялық белгілерін мұралаумен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отказом от соотнесения себя с другими людьми",
+            "en": "A refusal to relate oneself to other people",
+            "kk": "Өзін басқа адамдармен салыстырудан бас тартумен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Получением формального удостоверения личности",
+            "en": "Obtaining a formal identity document",
+            "kk": "Ресми жеке куәлік алумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Усвоением социально-поведенческих стереотипов",
+            "en": "The acquisition of socio-behavioural stereotypes",
+            "kk": "Әлеуметтік-мінез-құлықтық стереотиптерді меңгерумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 51",
+          "units": [
+            "p51"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 142,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отличительный признак отождествления с реальной социальной группой — это...",
+        "en": "The distinguishing feature of identification with a real social group is...",
+        "kk": "Нақты әлеуметтік топпен теңестірудің ерекшелік белгісі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обязательное отсутствие общих ценностей",
+            "en": "The obligatory absence of shared values",
+            "kk": "Ортақ құндылықтардың міндетті түрде болмауы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Устойчивая убеждённость в сопричастности её нормам и требованиям",
+            "en": "A stable conviction of being involved in its norms and requirements",
+            "kk": "Оның нормалары мен талаптарына қатыстылыққа тұрақты сенім"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только кратковременное копирование внешности героя",
+            "en": "Only the short-term copying of a hero's appearance",
+            "kk": "Кейіпкер келбетін тек қысқа мерзімге көшіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительно знание названия группы",
+            "en": "Exclusively knowing the name of the group",
+            "kk": "Тек топтың атауын білу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сведение принадлежности к генетическому сходству",
+            "en": "Reducing belonging to genetic similarity",
+            "kk": "Тиесілілікті генетикалық ұқсастыққа келтіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 52",
+          "units": [
+            "p52"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 143,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Рефлексивное принятие культурных оценок характеризуется тем, что...",
+        "en": "Reflexive acceptance of cultural evaluations is characterized by the fact that...",
+        "kk": "Мәдени бағаларды рефлексиялық қабылдауға мына жағдай тән..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Оценки принимаются только по частоте повторения",
+            "en": "Evaluations are accepted only by the frequency of repetition",
+            "kk": "Бағалар тек қайталану жиілігі бойынша қабылданады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Оценки определяются исключительно престижем кумира",
+            "en": "Evaluations are determined exclusively by the prestige of an idol",
+            "kk": "Бағалар тек пір тұтқан тұлғаның беделімен айқындалады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Оценки признаются значимыми лишь при полном совпадении со всеми",
+            "en": "Evaluations are recognized as significant only when they fully coincide with everyone else's",
+            "kk": "Бағалар барлығымен толық сәйкес келгенде ғана маңызды деп танылады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Оценки заимствуются без внутреннего сопоставления",
+            "en": "Evaluations are borrowed without inner comparison",
+            "kk": "Бағалар ішкі салыстырусыз қарыз алынады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Оценки соотносятся с собственным опытом прежде, чем быть принятыми",
+            "en": "Evaluations are related to one's own experience before being accepted",
+            "kk": "Бағалар қабылдануынан бұрын өз тәжірибесімен салыстырылады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 55",
+          "units": [
+            "p55"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 144,
+      "topic_id": 6,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "При ускорении социального развития усиливаются следующие характеристики идентичностей:",
+        "en": "As social development accelerates, the following characteristics of identities are strengthened:",
+        "kk": "Әлеуметтік даму үдей түскенде бірегейліктің мына сипаттамалары күшейеді:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ситуационность",
+            "en": "Situationality",
+            "kk": "Жағдайға байланыстылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мобильность",
+            "en": "Mobility",
+            "kk": "Ұтқырлық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Неизменность межпоколенных образцов",
+            "en": "The immutability of intergenerational models",
+            "kk": "Ұрпақтан ұрпаққа берілетін үлгілердің өзгермейтіндігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Предопределённость одной наследуемой ролью",
+            "en": "Predetermination by a single inherited role",
+            "kk": "Бір мұраланатын рөлмен алдын ала белгіленуі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Пожизненная фиксация групповых границ",
+            "en": "Lifelong fixation of group boundaries",
+            "kk": "Топтық шекаралардың өмір бойы бекітілуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 72",
+          "units": [
+            "p72"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 145,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "При увеличении разнообразия культурных идентификаций сохраняется...",
+        "en": "As the diversity of cultural identifications increases, what persists is...",
+        "kk": "Мәдени сәйкестендірулердің алуан түрлілігі артқанда сақталатыны..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Полная зависимость идентичности от места рождения",
+            "en": "Complete dependence of identity on the place of birth",
+            "kk": "Бірегейліктің туған жерге толық тәуелділігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Единственная обязательная форма групповой принадлежности",
+            "en": "A single obligatory form of group belonging",
+            "kk": "Топтық тиесіліліктің жалғыз міндетті нысаны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отсутствие субкультурных различий",
+            "en": "The absence of subcultural differences",
+            "kk": "Субмәдени айырмашылықтардың болмауы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Идентификация как реализация экзистенциальной потребности",
+            "en": "Identification as the realization of an existential need",
+            "kk": "Сәйкестендіру экзистенциалдық қажеттілікті жүзеге асыру ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Неизменная система наследуемых социальных ролей",
+            "en": "An unchanging system of inherited social roles",
+            "kk": "Мұраланатын әлеуметтік рөлдердің өзгермейтін жүйесі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 73",
+          "units": [
+            "p73"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 146,
+      "topic_id": 6,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите обстоятельства, которые могут вызвать кризис идентичности.",
+        "en": "Indicate the circumstances that can cause an identity crisis.",
+        "kk": "Бірегейлік дағдарысын тудыруы мүмкін жағдайларды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Возрастной психологический кризис",
+            "en": "An age-related psychological crisis",
+            "kk": "Жасқа байланысты психологиялық дағдарыс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Само по себе устойчивое признание человека его группой",
+            "en": "A person's stable recognition by his group, in itself",
+            "kk": "Адамды тобының тұрақты мойындауының өзі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Быстрая смена социокультурной среды",
+            "en": "A rapid change of the sociocultural environment",
+            "kk": "Әлеуметтік-мәдени ортаның жылдам ауысуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Само по себе сохранение межпоколенных символических связей",
+            "en": "The preservation of intergenerational symbolic ties, in itself",
+            "kk": "Ұрпақтан ұрпаққа берілетін символдық байланыстарды сақтаудың өзі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Само по себе согласование ценностей с личным опытом",
+            "en": "The reconciliation of values with personal experience, in itself",
+            "kk": "Құндылықтарды жеке тәжірибемен үйлестірудің өзі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 75",
+          "units": [
+            "p75"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 147,
+      "topic_id": 6,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Переживания, соотнесённые с утратой идентичности:",
+        "en": "Experiences associated with the loss of identity:",
+        "kk": "Бірегейлікті жоғалтумен сәйкес келетін күйзелістер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Рефлексивная укоренённость",
+            "en": "Reflexive rootedness",
+            "kk": "Рефлексиялық тамырлану"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Деперсонализация",
+            "en": "Depersonalization",
+            "kk": "Деперсонализация"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отчуждение",
+            "en": "Alienation",
+            "kk": "Жат болу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устойчивая сопричастность",
+            "en": "Stable involvement",
+            "kk": "Тұрақты қатыстылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Диалогическое признание",
+            "en": "Dialogical recognition",
+            "kk": "Диалогтық мойындау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 76",
+          "units": [
+            "p76"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 148,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Идеал аутентичности отличается от фиксированной статусной идентичности традиционного общества...",
+        "en": "The ideal of authenticity differs from the fixed status identity of a traditional society...",
+        "kk": "Аутентикалық мұрат дәстүрлі қоғамның бекітілген мәртебелік бірегейлігінен мынамен ерекшеленеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Призывом открыть собственный оригинальный способ бытия",
+            "en": "By a call to discover one's own original way of being",
+            "kk": "Болмыстың өзіндік бірегей тәсілін ашуға шақыруымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Требованием полностью воспроизвести наследуемую сословную роль",
+            "en": "By a demand to reproduce fully an inherited estate role",
+            "kk": "Мұраланатын сословиелік рөлді толық қайталау талабымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сведением индивидуальности к профессии отца",
+            "en": "By reducing individuality to the father's profession",
+            "kk": "Даралықты әкесінің кәсібіне келтірумен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устранением потребности в признании другими",
+            "en": "By eliminating the need for recognition by others",
+            "kk": "Өзгелердің мойындауына деген қажеттілікті жоюмен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отказом от внутренних оснований самопонимания",
+            "en": "By a refusal of inner grounds of self-understanding",
+            "kk": "Өзін-өзі түсінудің ішкі негіздерінен бас тартумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 79",
+          "units": [
+            "p79"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 149,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Условие признания разных идентичностей, которое подчёркивает Чарльз Тейлор, — это...",
+        "en": "The condition for the recognition of different identities that Charles Taylor emphasizes is...",
+        "kk": "Чарльз Тейлор атап көрсететін әртүрлі бірегейліктерді мойындау шарты — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отсутствие любых общих критериев значимости",
+            "en": "The absence of any common criteria of significance",
+            "kk": "Маңыздылықтың кез келген ортақ өлшемдерінің болмауы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Общий нравственный фон выше отдельных идеалов аутентичности",
+            "en": "A common moral background standing above individual ideals of authenticity",
+            "kk": "Аутентикалықтың жекелеген мұраттарынан жоғары тұратын ортақ адамгершілік негіз"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Устранение всех различий культурного происхождения",
+            "en": "The elimination of all differences of cultural origin",
+            "kk": "Мәдени шығу тегінің барлық айырмашылықтарын жою"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Замена диалога административной классификацией",
+            "en": "The replacement of dialogue by administrative classification",
+            "kk": "Диалогты әкімшілік жіктеумен алмастыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Полное совпадение жизненного опыта всех групп",
+            "en": "A complete coincidence of the life experience of all groups",
+            "kk": "Барлық топтардың өмір тәжірибесінің толық сәйкес келуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 81",
+          "units": [
+            "p81"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 150,
+      "topic_id": 6,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как З. Бауман различает модерную и постмодерную проблемы идентичности?",
+        "en": "How does Z. Bauman distinguish the modern and the postmodern problems of identity?",
+        "kk": "З. Бауман модерндік және постмодерндік бірегейлік мәселелерін қалай ажыратады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Устранить традицию; отказаться от адаптации",
+            "en": "To eliminate tradition; to renounce adaptation",
+            "kk": "Дәстүрді жою; бейімделуден бас тарту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Скрыть происхождение; восстановить неизменный сословный статус",
+            "en": "To conceal one's origin; to restore an unchanging estate status",
+            "kk": "Шығу тегін жасыру; өзгермейтін сословиелік мәртебені қалпына келтіру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Создать и сохранить устойчивость; избежать фиксации и сохранить выбор",
+            "en": "To create and preserve stability; to avoid fixation and keep the freedom of choice",
+            "kk": "Тұрақтылықты құру және сақтау; бекітілуден аулақ болу және таңдауды сақтау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Выбрать профессию; приобрести генетическую общность",
+            "en": "To choose a profession; to acquire a genetic community",
+            "kk": "Мамандық таңдау; генетикалық ортақтықты иелену"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отказаться от выбора; установить единственную наследуемую роль",
+            "en": "To renounce choice; to establish a single inherited role",
+            "kk": "Таңдаудан бас тарту; жалғыз мұраланатын рөлді белгілеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6. Культурный код — понятие, принципы, история. Культурная идентификация.docx",
+          "location": "абзац 83",
+          "units": [
+            "p83"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    }
+  ]
+}

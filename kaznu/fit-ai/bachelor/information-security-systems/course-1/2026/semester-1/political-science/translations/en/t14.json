@@ -1,0 +1,158 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 14,
+  "topic_name": "Political Conflicts and Crises",
+  "questions": {
+    "291": {
+      "question": "The concept of positive-functional conflict is associated with the name of...",
+      "options": {
+        "A": "Kenneth Boulding",
+        "B": "Lewis Coser",
+        "C": "David Easton",
+        "D": "Maurice Duverger",
+        "E": "Ralf Dahrendorf"
+      }
+    },
+    "292": {
+      "question": "Which thesis most accurately expresses Dahrendorf's approach to social conflicts?",
+      "options": {
+        "A": "Only international contradictions have political content",
+        "B": "All conflicts boil down to the personal antipathy of leaders",
+        "C": "Societies differ in how they handle conflicts, not in their complete absence",
+        "D": "A stable society contains no opposing interests",
+        "E": "Conflict disappears after any legal ban"
+      }
+    },
+    "293": {
+      "question": "A general theory that explains conflicts through recurring patterns of their development is associated with...",
+      "options": {
+        "A": "Robert Dahl",
+        "B": "Joseph Schumpeter",
+        "C": "Kenneth Boulding",
+        "D": "Gabriel Almond",
+        "E": "Lewis Coser"
+      }
+    },
+    "294": {
+      "question": "Possible constructive consequences of a political conflict:",
+      "options": {
+        "A": "Stimulating the search for solutions",
+        "B": "The renewal of political ties",
+        "C": "Turning opposing interests into identical ones without changing the relations between the parties",
+        "D": "Replacing processes of reconciliation with a unilateral order by one of the parties",
+        "E": "Bringing hidden contradictions to light"
+      }
+    },
+    "295": {
+      "question": "A conflict that is not expressed in an openly observable public confrontation is called...",
+      "options": {
+        "A": "Antagonistic",
+        "B": "Latent",
+        "C": "Short-lived",
+        "D": "Horizontal",
+        "E": "Institutionalized"
+      }
+    },
+    "296": {
+      "question": "A dispute between the central leadership and subordinate regional authorities over the level of their relations is a ... conflict.",
+      "options": {
+        "A": "Interpersonal",
+        "B": "Vertical",
+        "C": "Interstate",
+        "D": "Intercivilizational",
+        "E": "Horizontal"
+      }
+    },
+    "297": {
+      "question": "An institutionalized conflict is distinguished by...",
+      "options": {
+        "A": "A mandatory armed clash",
+        "B": "Taking place within recognized normative and organizational frameworks",
+        "C": "The parties' complete renunciation of their own interests",
+        "D": "The mandatory absence of real contradictions",
+        "E": "An exclusively hidden character of the competition"
+      }
+    },
+    "298": {
+      "question": "New forces join a dispute, and the intensity of the confrontation rises. This is...",
+      "options": {
+        "A": "Institutionalization",
+        "B": "Routinization",
+        "C": "Segmentation",
+        "D": "De-ideologization",
+        "E": "Escalation"
+      }
+    },
+    "299": {
+      "question": "Why is it important to distinguish the cause from the pretext when analyzing a conflict?",
+      "options": {
+        "A": "Distinguishing the cause from the pretext rules out negotiations",
+        "B": "The event that triggers a clash may not coincide with the contradiction that gave rise to it",
+        "C": "Any public incident fully explains all the positions",
+        "D": "The cause exists only after the conflict has ended",
+        "E": "The pretext is always more important than any social interests"
+      }
+    },
+    "300": {
+      "question": "Unlike its complete resolution, the settlement of a conflict may...",
+      "options": {
+        "A": "Exclude any mutual concessions",
+        "B": "Change the behavior of the parties without exhausting the subject of the dispute",
+        "C": "Necessarily eliminate all grounds of the contradiction",
+        "D": "Occur only between states",
+        "E": "Mean only the physical destruction of the opponent"
+      }
+    },
+    "301": {
+      "question": "The parties end the confrontation and make mutual concessions, but their divergence of interests remains. How is the outcome most accurately described?",
+      "options": {
+        "A": "A settlement has been reached, without necessarily a complete resolution",
+        "B": "The disappearance of all sources of the conflict has been proven",
+        "C": "The conflict has automatically become interstate",
+        "D": "Only its uncontrolled escalation has been reached",
+        "E": "The parties have lost the ability to cooperate in any way"
+      }
+    },
+    "302": {
+      "question": "The tasks of managing a political conflict include...",
+      "options": {
+        "A": "Preventing uncontrolled growth",
+        "B": "Preferring the public denial of contradictions to including them in regulated procedures",
+        "C": "Reducing secondary social costs",
+        "D": "Bringing hidden contradictions into a regulated public form",
+        "E": "Raising the intensity of the dispute in order to draw in the maximum number of related groups"
+      }
+    },
+    "303": {
+      "question": "Productive negotiations are promoted by...",
+      "options": {
+        "A": "Reliance on objective criteria",
+        "B": "Shifting the assessment of the subject of the dispute to the participants' personal prestige",
+        "C": "Fixing the only permissible solution before alternatives are discussed",
+        "D": "Developing several options for a solution",
+        "E": "Judging the acceptability of concessions only by the opponent's party affiliation"
+      }
+    },
+    "304": {
+      "question": "Why does the administrative suppression of all manifestations of conflict not guarantee stability?",
+      "options": {
+        "A": "Hidden contradictions can accumulate and break out in a more destructive form",
+        "B": "Moving disagreements into a closed form removes the need to reconcile interests",
+        "C": "Banning the independent articulation of demands makes it possible to judge that public interests coincide",
+        "D": "Stability is achieved by replacing the procedure of compromise with a demonstration of unity",
+        "E": "The absence of open competition means that the subject of the disputed relations has been exhausted"
+      }
+    },
+    "305": {
+      "question": "Indicate the correct statements about the end of a conflict.",
+      "options": {
+        "A": "A compromise can change behavior without eliminating all contradictions",
+        "B": "Negotiations make it possible to clarify interests and possible concessions",
+        "C": "Mutual concessions mean an equal reduction of all the resources of both sides",
+        "D": "Signing an agreement shows that the original subject of the dispute has been eliminated",
+        "E": "Negotiations presuppose a prior coincidence of ultimate political goals"
+      }
+    }
+  }
+}

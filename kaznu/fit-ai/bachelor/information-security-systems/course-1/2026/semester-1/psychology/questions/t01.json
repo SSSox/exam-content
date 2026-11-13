@@ -1,0 +1,1719 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 1,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Главным методом психологии на этапе изучения сознания считалось...",
+        "en": "The main method of psychology during the stage of the study of consciousness was considered to be...",
+        "kk": "Сананы зерттеу кезеңінде психологияның басты әдісі қандай болып саналды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обобщение независимых характеристик",
+            "en": "Generalization of independent characteristics",
+            "kk": "Тәуелсіз сипаттамаларды жалпылау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Измерение безусловных реакций",
+            "en": "Measurement of unconditioned responses",
+            "kk": "Шартсыз реакцияларды өлшеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Моделирование группового взаимодействия",
+            "en": "Modeling of group interaction",
+            "kk": "Топтық өзара әрекеттесуді модельдеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Наблюдение двигательных навыков",
+            "en": "Observation of motor skills",
+            "kk": "Қозғалыс дағдыларын бақылау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Самонаблюдение с описанием переживаний",
+            "en": "Introspection with a description of experiences",
+            "kk": "Бастан кешкендерін сипаттай отырып өзін-өзі бақылау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 7",
+          "units": [
+            "p7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое ограничение раннего бихевиоризма затрудняло объяснение разных реакций на один стимул?",
+        "en": "Which limitation of early behaviorism made it difficult to explain different reactions to the same stimulus?",
+        "kk": "Ерте бихевиоризмнің қандай шектеуі бір тітіркендіргішке әртүрлі реакцияларды түсіндіруді қиындатты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отказ от наблюдения поведения",
+            "en": "Rejection of the observation of behavior",
+            "kk": "Мінез-құлықты бақылаудан бас тарту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Преобладание анализа самоотчётов",
+            "en": "Predominance of the analysis of self-reports",
+            "kk": "Өзін-өзі баяндауды талдаудың басымдығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Изучение неосознаваемых мотивов",
+            "en": "Study of unconscious motives",
+            "kk": "Саналанбайтын уәждерді зерттеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Приоритет исторического метода",
+            "en": "Priority of the historical method",
+            "kk": "Тарихи әдістің басымдығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Исключение внутренних побуждений из анализа",
+            "en": "Exclusion of internal drives from analysis",
+            "kk": "Ішкі қозғаушы күштерді талдаудан шығарып тастау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 8, 9",
+          "units": [
+            "p8",
+            "p9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Психика как форма отражения определяется прежде всего как...",
+        "en": "The psyche as a form of reflection is defined primarily as...",
+        "kk": "Психика шағылысу формасы ретінде ең алдымен қалай анықталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Субъективный образ объективного мира",
+            "en": "A subjective image of the objective world",
+            "kk": "Объективті дүниенің субъективті бейнесі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Совокупность осознаваемых ощущений",
+            "en": "A set of conscious sensations",
+            "kk": "Саналанатын түйсіктер жиынтығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сумма наследственных рефлексов",
+            "en": "A sum of inherited reflexes",
+            "kk": "Тұқым қуалайтын рефлекстер қосындысы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Система усвоенных речевых обозначений",
+            "en": "A system of acquired verbal designations",
+            "kk": "Меңгерілген сөздік белгілер жүйесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Объективная копия субъективного мира",
+            "en": "An objective copy of the subjective world",
+            "kk": "Субъективті дүниенің объективті көшірмесі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 11",
+          "units": [
+            "p11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исследователь участвует в работе команды и по заранее составленному плану регистрирует взаимодействия. Это...",
+        "en": "A researcher takes part in the work of a team and records interactions according to a pre-drawn plan. This is...",
+        "kk": "Зерттеуші топ жұмысына қатысып, алдын ала жасалған жоспар бойынша өзара әрекеттерді тіркейді. Бұл қандай әдіс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Невключённое научное наблюдение",
+            "en": "Non-participant scientific observation",
+            "kk": "Қосылмаған ғылыми бақылау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обобщение независимых характеристик",
+            "en": "Generalization of independent characteristics",
+            "kk": "Тәуелсіз сипаттамаларды жалпылау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Формирующий эксперимент",
+            "en": "A formative experiment",
+            "kk": "Қалыптастырушы эксперимент"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Включённое научное наблюдение",
+            "en": "Participant scientific observation",
+            "kk": "Қосылған ғылыми бақылау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Включённое житейское наблюдение",
+            "en": "Participant everyday observation",
+            "kk": "Қосылған күнделікті бақылау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 29",
+          "units": [
+            "p29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исследование не только фиксирует качество, но и целенаправленно развивает его при изменении условий. Это эксперимент...",
+        "en": "A study not only records a quality but deliberately develops it by changing conditions. This is a(n)... experiment.",
+        "kk": "Зерттеу сапаны тіркеп қана қоймай, жағдайларды өзгерте отырып, оны мақсатты түрде дамытады. Бұл қандай эксперимент?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Формирующий",
+            "en": "Formative",
+            "kk": "Қалыптастырушы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Контрольный",
+            "en": "Control",
+            "kk": "Бақылау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сравнительный",
+            "en": "Comparative",
+            "kk": "Салыстырмалы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Пилотажный",
+            "en": "Pilot",
+            "kk": "Пилоттық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Констатирующий",
+            "en": "Ascertaining",
+            "kk": "Анықтаушы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 30",
+          "units": [
+            "p30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сопоставление характеристик одного ученика, составленных несколькими педагогами независимо друг от друга, представляет собой...",
+        "en": "Comparing the characterizations of one student written by several teachers independently of one another is...",
+        "kk": "Бір оқушыға бірнеше педагог бір-бірінен тәуелсіз жасаған сипаттамаларды салыстыру қандай әдіс болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Включённое наблюдение",
+            "en": "Participant observation",
+            "kk": "Қосылған бақылау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальное интервью",
+            "en": "An individual interview",
+            "kk": "Жеке сұхбат"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обобщение независимых характеристик",
+            "en": "Generalization of independent characteristics",
+            "kk": "Тәуелсіз сипаттамаларды жалпылау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Проективное тестирование",
+            "en": "Projective testing",
+            "kk": "Проективті тестілеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Анализ продуктов деятельности",
+            "en": "Analysis of the products of activity",
+            "kk": "Әрекет өнімдерін талдау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 31",
+          "units": [
+            "p31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Изучение особенностей мышления по созданным человеком чертежам относится к методу...",
+        "en": "Studying the features of thinking from drawings made by a person belongs to the method of...",
+        "kk": "Адамның жасаған сызбалары бойынша ойлау ерекшеліктерін зерттеу қандай әдіске жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Анализа результатов деятельности",
+            "en": "Analysis of the products of activity",
+            "kk": "Әрекет нәтижелерін талдау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Констатирующего эксперимента",
+            "en": "The ascertaining experiment",
+            "kk": "Анықтаушы эксперимент"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обобщения независимых характеристик",
+            "en": "Generalization of independent characteristics",
+            "kk": "Тәуелсіз сипаттамаларды жалпылау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Невключённого наблюдения",
+            "en": "Non-participant observation",
+            "kk": "Қосылмаған бақылау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Психологической беседы",
+            "en": "The psychological conversation",
+            "kk": "Психологиялық әңгіме"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 32",
+          "units": [
+            "p32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Признаки, позволяющие различить эксперимент и научное наблюдение:",
+        "en": "Features that make it possible to distinguish an experiment from scientific observation:",
+        "kk": "Эксперимент пен ғылыми бақылауды ажыратуға мүмкіндік беретін белгілер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эксперимент обязательно требует лаборатории",
+            "en": "An experiment necessarily requires a laboratory",
+            "kk": "Экспериментке міндетті түрде зертхана қажет"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наблюдение исключает регистрацию результатов",
+            "en": "Observation excludes recording of results",
+            "kk": "Бақылау нәтижелерді тіркеуді жоққа шығарады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эксперимент предполагает активное изменение условий исследователем",
+            "en": "An experiment involves active change of conditions by the researcher",
+            "kk": "Эксперимент зерттеушінің жағдайларды белсенді түрде өзгертуін көздейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Научное наблюдение исключает предварительный план",
+            "en": "Scientific observation excludes a preliminary plan",
+            "kk": "Ғылыми бақылау алдын ала жоспардың болуын жоққа шығарады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наблюдение изучает течение явлений без вмешательства",
+            "en": "Observation studies the course of phenomena without intervention",
+            "kk": "Бақылау құбылыстардың барысын араласпай зерттейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 29, 30, 33",
+          "units": [
+            "p29",
+            "p30",
+            "p33"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Для раскрытия природы психической функции прослеживают её развитие от элементарных форм к сложным. Применён метод...",
+        "en": "To reveal the nature of a mental function, its development is traced from elementary forms to complex ones. The method used is the... method.",
+        "kk": "Психикалық функцияның табиғатын ашу үшін оның қарапайым түрлерден күрделі түрлерге дейінгі дамуын қадағалайды. Қандай әдіс қолданылған?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социометрический",
+            "en": "Sociometric",
+            "kk": "Социометриялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Проективный",
+            "en": "Projective",
+            "kk": "Проективті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Психометрический",
+            "en": "Psychometric",
+            "kk": "Психометриялық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исторический",
+            "en": "Historical",
+            "kk": "Тарихи"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интроспективный",
+            "en": "Introspective",
+            "kk": "Интроспективті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 57, 58",
+          "units": [
+            "p57",
+            "p58"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите положения, отражающие реальные связи психологии с другими науками.",
+        "en": "Identify the statements that reflect real links between psychology and other sciences.",
+        "kk": "Психологияның басқа ғылымдармен нақты байланыстарын бейнелейтін тұжырымдарды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Физиология исчерпывает содержание психологии",
+            "en": "Physiology exhausts the content of psychology",
+            "kk": "Физиология психологияның мазмұнын толық қамтиды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социальная история не влияет на психику",
+            "en": "Social history does not influence the psyche",
+            "kk": "Әлеуметтік тарих психикаға әсер етпейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Психические и соматические состояния взаимно влияют друг на друга",
+            "en": "Mental and somatic states influence each other",
+            "kk": "Психикалық және соматикалық жағдайлар бір-біріне өзара әсер етеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Проектирование техники учитывает возможности человека",
+            "en": "The design of technology takes human capabilities into account",
+            "kk": "Техниканы жобалау кезінде адамның мүмкіндіктері ескеріледі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Знаковые системы участвуют в развитии высших функций",
+            "en": "Sign systems participate in the development of higher functions",
+            "kk": "Таңбалық жүйелер жоғары функциялардың дамуына қатысады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L1",
+          "file": "Лекции/Лекция 1.docx",
+          "location": "Абзацы 57, 60, 61",
+          "units": [
+            "p57",
+            "p60",
+            "p61"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В деятельностном объяснении эволюции психики возникновению новой формы отражения непосредственно предшествует...",
+        "en": "In the activity-based explanation of the evolution of the psyche, the emergence of a new form of reflection is immediately preceded by...",
+        "kk": "Психика эволюциясын әрекеттік тұрғыдан түсіндіргенде, шағылысудың жаңа формасының пайда болуынан тікелей бұрын не болады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Появление речевого обобщения",
+            "en": "The appearance of verbal generalization",
+            "kk": "Тілдік жалпылаудың пайда болуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Завершение биологической эволюции",
+            "en": "The completion of biological evolution",
+            "kk": "Биологиялық эволюцияның аяқталуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Формирование самосознания",
+            "en": "The formation of self-awareness",
+            "kk": "Өзіндік сананың қалыптасуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исчезновение наследственных программ",
+            "en": "The disappearance of hereditary programs",
+            "kk": "Тұқым қуалайтын бағдарламалардың жоғалуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Усложнение деятельности",
+            "en": "An increase in the complexity of activity",
+            "kk": "Әрекеттің күрделенуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 5",
+          "units": [
+            "p5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "topic_id": 1,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему более высокое положение животного в зоологической систематике не гарантирует более развитую психику?",
+        "en": "Why does a higher position of an animal in zoological taxonomy not guarantee a more developed psyche?",
+        "kk": "Неге жануардың зоологиялық жүйелеудегі жоғарырақ орны психиканың неғұрлым дамығанын кепілдендірмейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Все виды обладают одинаковым уровнем отражения",
+            "en": "All species have the same level of reflection",
+            "kk": "Барлық түрлердің шағылысу деңгейі бірдей"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Психика определяется числом условных рефлексов",
+            "en": "The psyche is determined by the number of conditioned reflexes",
+            "kk": "Психика шартты рефлекстердің санымен анықталады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Среда определяет психику независимо от организма",
+            "en": "The environment determines the psyche independently of the organism",
+            "kk": "Орта организмге тәуелсіз психиканы анықтайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Психическое развитие зависит также от экологии и активности",
+            "en": "Mental development also depends on ecology and activity",
+            "kk": "Психикалық даму экологияға және белсенділікке де байланысты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Биологическое развитие не связано с морфологией",
+            "en": "Biological development is unrelated to morphology",
+            "kk": "Биологиялық даму морфологиямен байланысты емес"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 6, 7",
+          "units": [
+            "p6",
+            "p7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отражение отдельных свойств воздействий соответствует стадии...",
+        "en": "The reflection of individual properties of stimuli corresponds to the stage of...",
+        "kk": "Әсерлердің жекелеген қасиеттерін шағылыстыру қай сатыға сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Предметного сознания",
+            "en": "Object consciousness",
+            "kk": "Заттық сана"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Перцептивной психики",
+            "en": "The perceptual psyche",
+            "kk": "Перцептивті психика"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Интеллекта",
+            "en": "Intellect",
+            "kk": "Интеллект"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Элементарной сенсорной психики",
+            "en": "The elementary sensory psyche",
+            "kk": "Қарапайым сенсорлық психика"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Речевого обобщения",
+            "en": "Verbal generalization",
+            "kk": "Тілдік жалпылау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 14, 15",
+          "units": [
+            "p14",
+            "p15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чем стадия интеллекта отличается от перцептивной стадии в классификации А. Н. Леонтьева?",
+        "en": "How does the stage of intellect differ from the perceptual stage in A. N. Leontiev's classification?",
+        "kk": "А. Н. Леонтьев жіктемесінде интеллект сатысы перцептивті сатыдан немен ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отражением отношений между предметами",
+            "en": "By the reflection of relations between objects",
+            "kk": "Заттар арасындағы қатынастарды шағылыстырумен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Появлением наследуемых реакций",
+            "en": "By the appearance of inherited reactions",
+            "kk": "Тұқым қуалайтын реакциялардың пайда болуымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Возникновением целостного образа предмета",
+            "en": "By the emergence of a holistic image of an object",
+            "kk": "Заттың тұтас бейнесінің пайда болуымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Различением отдельных качеств раздражителя",
+            "en": "By the discrimination of separate qualities of a stimulus",
+            "kk": "Тітіркендіргіштің жекелеген сапаларын ажыратумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Первым появлением чувствительности",
+            "en": "By the first appearance of sensitivity",
+            "kk": "Сезімталдықтың алғаш пайда болуымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 16, 17",
+          "units": [
+            "p16",
+            "p17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Характеристики, отличающие навык от инстинкта:",
+        "en": "Characteristics that distinguish a skill from an instinct:",
+        "kk": "Дағдыны инстинктен ажырататын сипаттамалар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Передаётся как готовая наследственная программа",
+            "en": "It is transmitted as a ready-made hereditary program",
+            "kk": "Дайын тұқым қуалайтын бағдарлама ретінде беріледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обязательно включает словесное обобщение",
+            "en": "It necessarily includes verbal generalization",
+            "kk": "Міндетті түрде сөздік жалпылауды қамтиды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Не изменяется при повторении действия",
+            "en": "It does not change with repetition of the action",
+            "kk": "Әрекетті қайталағанда өзгермейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Приобретается в индивидуальном опыте",
+            "en": "It is acquired in individual experience",
+            "kk": "Жеке тәжірибеде жүре пайда болады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Закрепляется посредством упражнений",
+            "en": "It is consolidated through practice",
+            "kk": "Жаттығулар арқылы бекітіледі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 26, 27, 28",
+          "units": [
+            "p26",
+            "p27",
+            "p28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "topic_id": 1,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое суждение согласуется с системной организацией высших психических функций?",
+        "en": "Which statement is consistent with the systemic organization of higher mental functions?",
+        "kk": "Жоғары психикалық функциялардың жүйелі ұйымдасуына қандай пайымдау сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Локализация симптома тождественна локализации функции",
+            "en": "The localization of a symptom is identical to the localization of the function",
+            "kk": "Симптомның локализациясы функцияның локализациясымен бірдей"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Участие коры исключает участие стволовых структур",
+            "en": "Participation of the cortex excludes participation of brainstem structures",
+            "kk": "Қабықтың қатысуы діңдік құрылымдардың қатысуын жоққа шығарады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Речевая функция обеспечивается взаимодействием нескольких отделов мозга",
+            "en": "The speech function is provided by the interaction of several brain regions",
+            "kk": "Сөйлеу функциясын ми бөлімдерінің бірнешеуі өзара әрекеттесу арқылы қамтамасыз етеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Каждая функция полностью заключена в одном корковом центре",
+            "en": "Each function is wholly contained in a single cortical center",
+            "kk": "Әр функция толығымен бір қыртыстық орталықта шоғырланған"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Подкорковые образования не участвуют в сложных функциях",
+            "en": "Subcortical structures do not participate in complex functions",
+            "kk": "Қыртысасты түзілімдер күрделі функцияларға қатыспайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 46, 72",
+          "units": [
+            "p46",
+            "p72"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Специфическим раздражителем второй сигнальной системы является...",
+        "en": "The specific stimulus of the second signal system is...",
+        "kk": "Екінші сигналдық жүйенің өзіндік тітіркендіргіші не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Биологически значимый запах",
+            "en": "A biologically significant smell",
+            "kk": "Биологиялық маңызды иіс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Звук независимо от значения",
+            "en": "A sound regardless of its meaning",
+            "kk": "Мағынасына қарамастан дыбыс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Изменение положения тела",
+            "en": "A change in body position",
+            "kk": "Дене қалпының өзгеруі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Непосредственное действие света",
+            "en": "The direct action of light",
+            "kk": "Жарықтың тікелей әсері"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Слово в его обобщающем значении",
+            "en": "A word in its generalizing meaning",
+            "kk": "Жалпылаушы мағынасындағы сөз"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 58, 61, 62",
+          "units": [
+            "p58",
+            "p61",
+            "p62"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ребёнок обобщает одним словом несколько разновидностей предмета. Что свидетельствует о переходе ко второй сигнальной системе?",
+        "en": "A child uses one word to generalize several varieties of an object. What indicates a transition to the second signal system?",
+        "kk": "Бала заттың бірнеше түрін бір сөзбен жалпылайды. Екінші сигналдық жүйеге көшкенін не көрсетеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Реакция закрепляется подкреплением",
+            "en": "The reaction is consolidated by reinforcement",
+            "kk": "Реакцияның нығайтумен бекітілуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Слово сочетается с одной процедурой",
+            "en": "The word is combined with a single procedure",
+            "kk": "Сөздің бір рәсіммен ұштасуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Звук вызывает ориентировочную реакцию",
+            "en": "A sound evokes an orienting reaction",
+            "kk": "Дыбыстың бағдарлау реакциясын туғызуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Слово обозначает понятие",
+            "en": "The word denotes a concept",
+            "kk": "Сөздің ұғымды білдіруі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интонация приобретает условное значение",
+            "en": "Intonation acquires a conditioned meaning",
+            "kk": "Интонацияның шартты мағынаға ие болуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 59, 61, 64",
+          "units": [
+            "p59",
+            "p61",
+            "p64"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Преобладание чувственных образов над словесными обобщениями в павловской типологии соответствует типу...",
+        "en": "In Pavlov's typology, the predominance of sensory images over verbal generalizations corresponds to the... type.",
+        "kk": "Павлов типологиясында сезімдік бейнелердің сөздік жалпылаулардан басым болуы қандай типке сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Мыслительному",
+            "en": "Thinking",
+            "kk": "Ойшыл типке"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Среднему",
+            "en": "Intermediate",
+            "kk": "Орта типке"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Художественному",
+            "en": "Artistic",
+            "kk": "Көркемдік типке"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Слабому тормозному",
+            "en": "Weak inhibitory",
+            "kk": "Әлсіз тежелгіш типке"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сильному инертному",
+            "en": "Strong inert",
+            "kk": "Күшті инертті типке"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 67, 68, 69",
+          "units": [
+            "p67",
+            "p68",
+            "p69"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Свойства нервных процессов, положенные И. П. Павловым в основу типологии ВНД:",
+        "en": "Properties of nervous processes that I. P. Pavlov took as the basis of the typology of higher nervous activity:",
+        "kk": "И. П. Павлов жоғары жүйке әрекеті типологиясының негізіне алған жүйке процестерінің қасиеттері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Лабильность",
+            "en": "Lability",
+            "kk": "Лабильділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Подвижность",
+            "en": "Mobility",
+            "kk": "Қозғалғыштық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Уравновешенность",
+            "en": "Balance",
+            "kk": "Теңгерілгендік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сила",
+            "en": "Strength",
+            "kk": "Күш"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Динамичность",
+            "en": "Dynamism",
+            "kk": "Динамикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 86, 87, 88",
+          "units": [
+            "p86",
+            "p87",
+            "p88"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что отличает сознание как общественно-историческую форму психики?",
+        "en": "What distinguishes consciousness as a socio-historical form of the psyche?",
+        "kk": "Сананы психиканың қоғамдық-тарихи формасы ретінде не ерекшелейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отражение отдельных биологически значимых свойств",
+            "en": "Reflection of individual biologically significant properties",
+            "kk": "Биологиялық маңызды жекелеген қасиеттерді шағылыстыру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сохранение следов индивидуального опыта",
+            "en": "Preservation of traces of individual experience",
+            "kk": "Жеке тәжірибе іздерін сақтау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Регуляция поведения непосредственным сигналом",
+            "en": "Regulation of behavior by an immediate signal",
+            "kk": "Мінез-құлықты тікелей сигналмен реттеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Речевая опосредованность и целенаправленное преобразование мира",
+            "en": "Verbal mediation and purposeful transformation of the world",
+            "kk": "Сөзбен делдалдану және әлемді мақсатты түрде қайта құру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Формирование условных связей со средой",
+            "en": "Formation of conditioned connections with the environment",
+            "kk": "Қоршаған ортамен шартты байланыстар қалыптастыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 111, 112, 118",
+          "units": [
+            "p111",
+            "p112",
+            "p118"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К характеристикам сознания относятся:",
+        "en": "Characteristics that belong to consciousness:",
+        "kk": "Санаға жататын сипаттамалар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Различение субъекта и объекта",
+            "en": "Differentiation of subject and object",
+            "kk": "Субъект пен объектіні ажырату"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Регуляция исключительно наличными стимулами",
+            "en": "Regulation exclusively by present stimuli",
+            "kk": "Тек қолда бар тітіркендіргіштер арқылы реттеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обеспечение целеустремлённой деятельности",
+            "en": "Provision of goal-directed activity",
+            "kk": "Мақсатты әрекетті қамтамасыз ету"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эмоционально-оценочные отношения",
+            "en": "Emotional-evaluative attitudes",
+            "kk": "Эмоциялық-бағалаушылық қатынастар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствие опосредствования речью",
+            "en": "Absence of mediation by speech",
+            "kk": "Сөзбен делдалданудың болмауы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 115, 116, 118, 119",
+          "units": [
+            "p115",
+            "p116",
+            "p118",
+            "p119"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Опытный водитель осознаёт маршрут, а движения выполняет автоматически. Это показывает, что...",
+        "en": "An experienced driver is aware of the route but performs the movements automatically. This shows that...",
+        "kk": "Тәжірибелі жүргізуші бағытты саналы түрде ұғынады, ал қозғалыстарды автоматты түрде орындайды. Бұл нені көрсетеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Автоматическое действие недоступно контролю",
+            "en": "An automatic action is inaccessible to control",
+            "kk": "Автоматты әрекет бақылауға берілмейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Осознанная деятельность исключает неосознаваемые операции",
+            "en": "Conscious activity excludes unconscious operations",
+            "kk": "Саналы әрекет саналанбайтын операцияларды жоққа шығарады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Навык превращает цель в безусловный рефлекс",
+            "en": "A skill turns a goal into an unconditioned reflex",
+            "kk": "Дағды мақсатты шартсыз рефлекске айналдырады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Автоматизация устраняет сознательную регуляцию деятельности",
+            "en": "Automatization eliminates the conscious regulation of activity",
+            "kk": "Автоматтандыру әрекетті саналы реттеуді жояды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сознательная цель совместима с автоматизированными способами",
+            "en": "A conscious goal is compatible with automatized ways of acting",
+            "kk": "Саналы мақсат автоматтандырылған тәсілдермен үйлеседі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 128, 129, 130",
+          "units": [
+            "p128",
+            "p129",
+            "p130"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Быстрота смены возбуждения торможением характеризует...",
+        "en": "The speed with which excitation is replaced by inhibition characterizes the... of nervous processes.",
+        "kk": "Қозудың тежелумен ауысу шапшаңдығы нені сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Силу нервных процессов",
+            "en": "Strength",
+            "kk": "Жүйке процестерінің күшін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Уравновешенность нервных процессов",
+            "en": "Balance",
+            "kk": "Жүйке процестерінің теңгерілгендігін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Динамичность нервных процессов",
+            "en": "Dynamism",
+            "kk": "Жүйке процестерінің динамикалылығын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Лабильность нервных процессов",
+            "en": "Lability",
+            "kk": "Жүйке процестерінің лабильділігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Подвижность нервных процессов",
+            "en": "Mobility",
+            "kk": "Жүйке процестерінің қозғалғыштығын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 87, 88",
+          "units": [
+            "p87",
+            "p88"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое сочетание признаков соответствует высокому уровню сознательной регуляции?",
+        "en": "Which combination of features corresponds to a high level of conscious regulation?",
+        "kk": "Саналы реттеудің жоғары деңгейіне белгілердің қандай үйлесімі сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эмоциональная интенсивность и стереотипность поведения",
+            "en": "Emotional intensity and stereotyped behavior",
+            "kk": "Эмоциялық қарқындылық және мінез-құлықтың стереотиптілігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сила раздражителя и непроизвольность реакции",
+            "en": "Stimulus strength and involuntariness of response",
+            "kk": "Тітіркендіргіш күші және реакцияның еріксіздігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Количество навыков и отсутствие контроля",
+            "en": "Number of skills and absence of control",
+            "kk": "Дағдылар саны және бақылаудың болмауы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Яркость ощущений и скорость безусловных реакций",
+            "en": "Vividness of sensations and speed of unconditioned reactions",
+            "kk": "Түйсіктердің айқындығы және шартсыз реакциялардың жылдамдығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Общественно значимая цель и контроль способов действия",
+            "en": "A socially significant goal and control over the ways of acting",
+            "kk": "Қоғамдық маңызы бар мақсат және әрекет тәсілдерін бақылау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L2",
+          "file": "Лекции/Лекция 2.docx",
+          "location": "Абзацы 127, 128, 130",
+          "units": [
+            "p127",
+            "p128",
+            "p130"
+          ]
+        }
+      ]
+    }
+  ]
+}

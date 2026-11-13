@@ -1,0 +1,1639 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 101,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "В чём различается главный акцент герменевтики и семиотики?",
+        "en": "How does the main emphasis of hermeneutics differ from that of semiotics?",
+        "kk": "Герменевтика мен семиотиканың басты екпіні немен ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Герменевтика исследует понимание, семиотика — знаковую структуру",
+            "en": "Hermeneutics studies understanding, semiotics studies sign structure",
+            "kk": "Герменевтика түсінуді зерттейді, семиотика таңбалық құрылымды зерттейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Герменевтика исключает интерпретацию, семиотика исключает знаки",
+            "en": "Hermeneutics excludes interpretation, semiotics excludes signs",
+            "kk": "Герменевтика интерпретацияны жоққа шығарады, семиотика таңбаларды жоққа шығарады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Герменевтика исследует физику звука, семиотика — генеалогию",
+            "en": "Hermeneutics studies the physics of sound, semiotics studies genealogy",
+            "kk": "Герменевтика дыбыс физикасын зерттейді, семиотика генеалогияны зерттейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Герменевтика изучает нормы права, семиотика — нормы морали",
+            "en": "Hermeneutics studies the norms of law, semiotics studies the norms of morality",
+            "kk": "Герменевтика құқық нормаларын зерттейді, семиотика адамгершілік нормаларын зерттейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Герменевтика исследует только письмо, семиотика — только устную речь",
+            "en": "Hermeneutics studies only writing, semiotics studies only oral speech",
+            "kk": "Герменевтика тек жазбаны зерттейді, семиотика тек ауызша сөйлеуді зерттейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Язык культуры.pptx",
+          "location": "слайд 3",
+          "units": [
+            "s3"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 102,
+      "topic_id": 5,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К герменевтическому освоению культуры относятся процессы:",
+        "en": "The following processes belong to the hermeneutic mastery of culture:",
+        "kk": "Мәдениетті герменевтикалық игеруге мына процестер жатады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Познание",
+            "en": "Cognition",
+            "kk": "Тану"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Кодирование",
+            "en": "Encoding",
+            "kk": "Кодтау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Понимание",
+            "en": "Understanding",
+            "kk": "Түсіну"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Означивание",
+            "en": "Signification",
+            "kk": "Мағыналандыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Переживание",
+            "en": "Experiencing (lived experience)",
+            "kk": "Бастан кешіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Язык культуры.pptx",
+          "location": "слайд 4",
+          "units": [
+            "s4"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 103,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что объединяет различные средства языка культуры?",
+        "en": "What do the various means of the language of culture have in common?",
+        "kk": "Мәдениет тілінің әртүрлі құралдарын не біріктіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Они функционируют исключительно в письменной традиции",
+            "en": "They function exclusively in a written tradition",
+            "kk": "Олар тек жазба дәстүрде қызмет етеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Они обязательно имеют словесную форму",
+            "en": "They necessarily have a verbal form",
+            "kk": "Олар міндетті түрде сөз түрінде болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Они позволяют ориентироваться в культурном пространстве и передавать смыслы",
+            "en": "They make it possible to orient oneself in cultural space and to convey meanings",
+            "kk": "Олар мәдени кеңістікте бағдарлауға және мағыналарды жеткізуге мүмкіндік береді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Они предполагают единый для всех культур алфавит",
+            "en": "They presuppose a single alphabet common to all cultures",
+            "kk": "Олар барлық мәдениеттер үшін бірыңғай әліпбидің болуын көздейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Они устраняют необходимость интерпретации",
+            "en": "They eliminate the need for interpretation",
+            "kk": "Олар интерпретация қажеттілігін жояды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Язык культуры.pptx",
+          "location": "слайд 5",
+          "units": [
+            "s5"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 104,
+      "topic_id": 5,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите характеристики знака, которые выделял Ч. Пирс.",
+        "en": "Indicate the characteristics of the sign that C. S. Peirce singled out.",
+        "kk": "Ч. Пирс бөліп көрсеткен таңба сипаттамаларын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Врождённость связи носителя со значением",
+            "en": "An innate connection between the carrier and the meaning",
+            "kk": "Тасымалдаушының мағынамен байланысының тума болуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Связь с употреблением и пониманием",
+            "en": "A link with use and understanding",
+            "kk": "Қолданыспен және түсінумен байланысы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательное иконическое сходство",
+            "en": "Obligatory iconic resemblance",
+            "kk": "Міндетті иконалық ұқсастық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Материальная выраженность",
+            "en": "Material expression",
+            "kk": "Материалдық көрінісі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Самотождественность знака и обозначаемого объекта",
+            "en": "Self-identity of the sign and the object it denotes",
+            "kk": "Таңба мен белгіленетін объектінің өзімен-өзі тепе-теңдігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Язык культуры.pptx",
+          "location": "слайд 8",
+          "units": [
+            "s8"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 105,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Дым служит указанием на огонь благодаря причинной связи. К какому типу относится такой знак?",
+        "en": "Smoke serves as an indication of fire by virtue of a causal link. To which type does such a sign belong?",
+        "kk": "Түтін себептік байланыс арқылы отқа меңзейді. Мұндай таңба қай түрге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Естественному",
+            "en": "Natural",
+            "kk": "Табиғи"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Функциональному",
+            "en": "Functional",
+            "kk": "Функционалдық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вербальному",
+            "en": "Verbal",
+            "kk": "Вербалдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Конвенциональному",
+            "en": "Conventional",
+            "kk": "Конвенциялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Иконическому",
+            "en": "Iconic",
+            "kk": "Иконалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 8",
+          "units": [
+            "p8"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 106,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Деталь машины сообщает исследователю о технической системе благодаря своему практическому назначению. Это знак...",
+        "en": "A machine part tells a researcher about a technical system by virtue of its practical purpose. This is a ... sign.",
+        "kk": "Машина бөлшегі өзінің практикалық мақсаты арқылы зерттеушіге техникалық жүйе туралы хабар береді. Бұл қандай таңба?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вербальный",
+            "en": "Verbal",
+            "kk": "Вербалдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Функциональный",
+            "en": "Functional",
+            "kk": "Функционалдық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Иконический",
+            "en": "Iconic",
+            "kk": "Иконалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Элемент письменного алфавита",
+            "en": "Written-alphabet element",
+            "kk": "Жазба әліпби элементі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Конвенциональный сигнал",
+            "en": "Conventional signal",
+            "kk": "Конвенциялық сигнал"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 9",
+          "units": [
+            "p9"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 107,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Звуковая имитация морских волн в музыке выступает примером знака...",
+        "en": "The sound imitation of sea waves in music is an example of a(n) ... sign.",
+        "kk": "Музыкадағы теңіз толқындарына дыбыстық еліктеу қандай таңбаның мысалы болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Иконического",
+            "en": "Iconic",
+            "kk": "Иконалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Алфавитной записи",
+            "en": "Alphabetic notation",
+            "kk": "Әліпбилік жазба"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Функционального признака",
+            "en": "Functional indicator",
+            "kk": "Функционалдық белгі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Вербального",
+            "en": "Verbal",
+            "kk": "Вербалдық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Конвенционального индекса",
+            "en": "Conventional index",
+            "kk": "Конвенциялық индекс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 10",
+          "units": [
+            "p10"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 108,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "В основе значения конвенционального знака лежит...",
+        "en": "At the basis of the meaning of a conventional sign lies...",
+        "kk": "Конвенциялық таңба мағынасының негізінде мынау жатыр..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социальная договорённость о значении",
+            "en": "A social agreement about the meaning",
+            "kk": "Мағына туралы әлеуметтік келісім"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Внешнее подобие обозначаемому образцу",
+            "en": "An outward resemblance to the thing denoted",
+            "kk": "Белгіленетін үлгіге сыртқы ұқсастық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Природная причинная связь с объектом",
+            "en": "A natural causal connection with the object",
+            "kk": "Объектімен табиғи себептік байланыс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Практическая функция предмета в деятельности",
+            "en": "The practical function of an object in activity",
+            "kk": "Заттың іс-әрекеттегі практикалық функциясы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наследуемая психофизиологическая реакция",
+            "en": "An inherited psychophysiological reaction",
+            "kk": "Тұқым қуалайтын психофизиологиялық реакция"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 11",
+          "units": [
+            "p11"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 109,
+      "topic_id": 5,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К конвенциональным знакам относятся...",
+        "en": "Conventional signs include...",
+        "kk": "Конвенциялық таңбаларға мыналар жатады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Иконические знаки",
+            "en": "Iconic signs",
+            "kk": "Иконалық таңбалар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Функциональные знаки",
+            "en": "Functional signs",
+            "kk": "Функционалдық таңбалар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Индексы",
+            "en": "Indices",
+            "kk": "Индекстер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Символы",
+            "en": "Symbols",
+            "kk": "Символдар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сигналы",
+            "en": "Signals",
+            "kk": "Сигналдар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 11",
+          "units": [
+            "p11"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 110,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Знак, специально извещающий или предупреждающий, называется...",
+        "en": "A sign that is specifically meant to notify or warn is called a...",
+        "kk": "Арнайы хабарлайтын немесе ескертетін таңба қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Символом",
+            "en": "Symbol",
+            "kk": "Символ"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Функциональным знаком",
+            "en": "Functional sign",
+            "kk": "Функционалдық таңба"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Индексом",
+            "en": "Index",
+            "kk": "Индекс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Иконическим знаком",
+            "en": "Iconic sign",
+            "kk": "Иконалық таңба"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сигналом",
+            "en": "Signal",
+            "kk": "Сигнал"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 111,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Компактное условное обозначение объекта или ситуации на схеме является...",
+        "en": "A compact conventional designation of an object or situation on a diagram is a(n)...",
+        "kk": "Сызбада объектінің немесе жағдайдың ықшам шартты белгіленуі неге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Индексом",
+            "en": "Index",
+            "kk": "Индекске"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Функциональным знаком",
+            "en": "Functional sign",
+            "kk": "Функционалдық таңбаға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сигналом",
+            "en": "Signal",
+            "kk": "Сигналға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Символом",
+            "en": "Symbol",
+            "kk": "Символға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Иконическим знаком",
+            "en": "Iconic sign",
+            "kk": "Иконалық таңбаға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 13",
+          "units": [
+            "p13"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 112,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Признак, выделяющий символ среди знаков, — это...",
+        "en": "The feature that distinguishes a symbol among signs is...",
+        "kk": "Символды таңбалар арасында ерекшелейтін белгі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наличие исключительно звукового носителя",
+            "en": "The presence of an exclusively sound carrier",
+            "kk": "Тек дыбыстық тасымалдаушының болуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отсутствие связи с коллективным опытом",
+            "en": "The absence of a connection with collective experience",
+            "kk": "Ұжымдық тәжірибемен байланыстың болмауы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Выражение дополнительного ценностного смысла",
+            "en": "The expression of an additional value-laden meaning",
+            "kk": "Қосымша құндылықтық мағынаны білдіруі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательное буквальное сходство с предметом",
+            "en": "Obligatory literal resemblance to the object",
+            "kk": "Затқа міндетті түрде сөзбе-сөз ұқсастық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Единственная неизменная интерпретация",
+            "en": "A single unchanging interpretation",
+            "kk": "Жалғыз өзгермейтін түсіндірме"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 14",
+          "units": [
+            "p14"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 113,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему весы могут выражать идею справедливости?",
+        "en": "Why can a pair of scales express the idea of justice?",
+        "kk": "Таразы неліктен әділеттілік идеясын білдіре алады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Идея равновесия создаёт ассоциативную связь формы и ценностного смысла",
+            "en": "The idea of balance creates an associative link between the form and the value-laden meaning",
+            "kk": "Тепе-теңдік идеясы форма мен құндылықтық мағына арасында ассоциативтік байланыс туғызады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Между устройством весов и символическим значением исключена связь",
+            "en": "Any connection between the design of the scales and the symbolic meaning is ruled out",
+            "kk": "Таразының құрылымы мен символдық мағынасы арасында байланыс жоқ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Правовое значение выводится из материала чаш",
+            "en": "The legal meaning is derived from the material of the pans",
+            "kk": "Құқықтық мағына табақтардың материалынан шығарылады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Их масса физически равна нравственному достоинству",
+            "en": "Their mass is physically equal to moral worth",
+            "kk": "Олардың салмағы физикалық тұрғыдан адамгершілік қадір-қасиетке тең"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Любой измерительный прибор автоматически означает справедливость",
+            "en": "Any measuring instrument automatically signifies justice",
+            "kk": "Кез келген өлшеу құралы автоматты түрде әділеттілікті білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 114,
+      "topic_id": 5,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные пары «пример: вид символа».",
+        "en": "Indicate the correct \"example: type of symbol\" pairs.",
+        "kk": "«Мысал: символ түрі» жұптарының дұрыстарын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Крест: религиозный символ",
+            "en": "The cross: a religious symbol",
+            "kk": "Крест: діни символ"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Белый цвет как чистота: нравственный символ",
+            "en": "The colour white as purity: a moral symbol",
+            "kk": "Ақ түс тазалық ретінде: адамгершілік символ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Бородинское поле как воинская слава: вербальная система записи",
+            "en": "The field of Borodino as military glory: a verbal system of notation",
+            "kk": "Бородино даласы әскери даңқ ретінде: вербалдық жазба жүйесі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Весы как справедливость: исторический символ",
+            "en": "Scales as justice: a historical symbol",
+            "kk": "Таразы әділеттілік ретінде: тарихи символ"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Государственный лозунг: естественный знак-признак",
+            "en": "A state slogan: a natural indicative sign",
+            "kk": "Мемлекеттік ұран: табиғи белгі-таңба"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 115,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как соотносятся биологические предпосылки и социальная природа разговорного языка?",
+        "en": "How are the biological prerequisites and the social nature of spoken language related?",
+        "kk": "Ауызекі тілдің биологиялық алғышарттары мен әлеуметтік табиғаты өзара қалай байланысады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Совместная деятельность лишь сохраняет неизменную врождённую грамматику",
+            "en": "Joint activity merely preserves an unchanging innate grammar",
+            "kk": "Бірлескен іс-әрекет тек өзгермейтін тума грамматиканы сақтайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Биологическая организация передаёт готовый словарь по наследству",
+            "en": "The biological organization passes on a ready-made vocabulary by inheritance",
+            "kk": "Биологиялық ұйымдасу дайын сөздікті мұраға береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Язык возникает без общения как индивидуальный рефлекс",
+            "en": "Language arises without communication as an individual reflex",
+            "kk": "Тіл қарым-қатынассыз, жеке рефлекс ретінде туындайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Органы речи создают возможность языка, но развивается он в совместной деятельности",
+            "en": "The organs of speech create the possibility of language, but it develops in joint activity",
+            "kk": "Сөйлеу мүшелері тілдің мүмкіндігін жасайды, бірақ тіл бірлескен іс-әрекетте дамиды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Социальная природа языка исключает значение слуха и мозга",
+            "en": "The social nature of language excludes the significance of hearing and the brain",
+            "kk": "Тілдің әлеуметтік табиғаты есту мен мидың маңызын жоққа шығарады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 16",
+          "units": [
+            "p16"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 116,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Естественный язык назван открытой системой, поскольку...",
+        "en": "A natural language is called an open system because...",
+        "kk": "Табиғи тіл ашық жүйе деп аталады, өйткені..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Его словарь не зависит от истории культуры",
+            "en": "Its vocabulary does not depend on the history of culture",
+            "kk": "Оның сөздігі мәдениет тарихына тәуелсіз"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В нём отсутствуют устойчивые элементы",
+            "en": "It contains no stable elements",
+            "kk": "Онда тұрақты элементтер жоқ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Каждый знак имеет только одно допустимое значение",
+            "en": "Every sign has only one permissible meaning",
+            "kk": "Әрбір таңбаның тек бір ғана рұқсат етілген мағынасы бар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Правила его построения полностью формализованы",
+            "en": "The rules of its construction are fully formalized",
+            "kk": "Оны құру ережелері толық формалданған"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Он способен к неограниченному развитию",
+            "en": "It is capable of unlimited development",
+            "kk": "Ол шексіз дамуға қабілетті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 17",
+          "units": [
+            "p17"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 117,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Часть словаря, характеризующаяся сравнительно длительной устойчивостью, — это...",
+        "en": "The part of the vocabulary characterized by comparatively long-lasting stability is...",
+        "kk": "Салыстырмалы түрде ұзақ тұрақтылықпен сипатталатын сөздік бөлігі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Названия частей тела, светил и простейших действий",
+            "en": "Names of body parts, celestial bodies and the simplest actions",
+            "kk": "Дене мүшелерінің, жарық берушілердің және қарапайым әрекеттердің атаулары"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Названия актуальных модных направлений",
+            "en": "Names of current fashionable trends",
+            "kk": "Өзекті сәнді бағыттардың атаулары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обозначения последних технических устройств",
+            "en": "Designations of the latest technical devices",
+            "kk": "Соңғы техникалық құрылғылардың белгіленімдері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Лексика исчезнувших узких профессий",
+            "en": "The lexicon of vanished narrow professions",
+            "kk": "Жойылып кеткен тар мамандықтардың лексикасы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наименования кратковременных политических кампаний",
+            "en": "Names of short-lived political campaigns",
+            "kk": "Қысқа мерзімді саяси науқандардың атаулары"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 17",
+          "units": [
+            "p17"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 118,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Письмо и нотная запись названы вторичными знаковыми системами, потому что...",
+        "en": "Writing and musical notation are called secondary sign systems because...",
+        "kk": "Жазу мен нота жазбасы қайталама таңбалық жүйелер деп аталады, өйткені..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Они возникают на основе уже существующих языка и музыки",
+            "en": "They arise on the basis of already existing language and music",
+            "kk": "Олар бұрыннан бар тіл мен музыка негізінде пайда болады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Они имеют меньшую культурную ценность, чем устная речь",
+            "en": "They have less cultural value than oral speech",
+            "kk": "Олардың мәдени құндылығы ауызша сөйлеуден төмен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Они применимы исключительно к профессиональному искусству",
+            "en": "They are applicable exclusively to professional art",
+            "kk": "Олар тек кәсіби өнерге қолданылады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Их знаки лишены самостоятельного материального выражения",
+            "en": "Their signs lack an independent material expression",
+            "kk": "Олардың таңбалары дербес материалдық көрініске ие емес"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Они возникают раньше любых форм звуковой коммуникации",
+            "en": "They arise earlier than any forms of sound communication",
+            "kk": "Олар дыбыстық коммуникацияның кез келген түрінен бұрын пайда болады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 18",
+          "units": [
+            "p18"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 119,
+      "topic_id": 5,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Письменность создаёт для культурной памяти возможности:",
+        "en": "Writing creates the following possibilities for cultural memory:",
+        "kk": "Жазба мәдени жадқа мынадай мүмкіндіктер жасайды:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сохранение идей до появления заинтересованных потомков",
+            "en": "Preserving ideas until interested descendants appear",
+            "kk": "Идеяларды мүдделі ұрпақ пайда болғанға дейін сақтау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Автоматическое сохранение единственной авторской интерпретации",
+            "en": "The automatic preservation of a single authorial interpretation",
+            "kk": "Жалғыз авторлық түсіндірмені автоматты түрде сақтау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Передача готового значения независимо от культурного кода",
+            "en": "Transmission of a ready-made meaning independently of the cultural code",
+            "kk": "Дайын мағынаны мәдени кодқа тәуелсіз беру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Замена межпоколенного обучения генетическим наследованием",
+            "en": "Replacement of teaching between generations by genetic inheritance",
+            "kk": "Ұрпақтан ұрпаққа оқытуды генетикалық мұрагерлікпен алмастыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Накопление малоупотребительной лексики",
+            "en": "The accumulation of rarely used vocabulary",
+            "kk": "Аз қолданылатын лексиканы жинақтау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 20",
+          "units": [
+            "p20"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 120,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Строгая формализация правил построения наиболее характерна для...",
+        "en": "Strict formalization of the rules of construction is most characteristic of...",
+        "kk": "Құру ережелерін қатаң формалдау неге ең тән?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Искусственных языков логики и математики",
+            "en": "The artificial languages of logic and mathematics",
+            "kk": "Логика мен математиканың жасанды тілдеріне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Устного исполнения фольклора",
+            "en": "The oral performance of folklore",
+            "kk": "Фольклорды ауызша орындауға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Спонтанной жестовой выразительности",
+            "en": "Spontaneous gestural expressiveness",
+            "kk": "Өздігінен туындайтын ым-ишаралық бейнеленуге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Символической многозначности художественного образа",
+            "en": "The symbolic polysemy of an artistic image",
+            "kk": "Көркем бейненің символдық көпмағыналылығына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Разговорного языка повседневного общения",
+            "en": "The spoken language of everyday communication",
+            "kk": "Күнделікті қарым-қатынастың ауызекі тіліне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 5  язык культуры.docx",
+          "location": "абзац 20",
+          "units": [
+            "p20"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 121,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Миф, религия и искусство как коммуникационные структуры относятся...",
+        "en": "Myth, religion and art as communication structures belong...",
+        "kk": "Миф, дін және өнер коммуникациялық құрылымдар ретінде мыналарға жатады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "К формальным языкам вычисления",
+            "en": "To the formal languages of computation",
+            "kk": "Есептеудің формалды тілдеріне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "К естественным разговорным языкам",
+            "en": "To natural spoken languages",
+            "kk": "Табиғи ауызекі тілдерге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "К вторичным языкам",
+            "en": "To secondary languages",
+            "kk": "Қайталама тілдерге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "К биологическим сигналам",
+            "en": "To biological signals",
+            "kk": "Биологиялық сигналдарға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "К алфавитным системам записи",
+            "en": "To alphabetic systems of notation",
+            "kk": "Әліпбилік жазу жүйелеріне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Язык культуры.pptx",
+          "location": "слайд 9",
+          "units": [
+            "s9"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 122,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какую новую возможность обеспечивают письменные знаки в описании эволюции коммуникации?",
+        "en": "Which new possibility do written signs provide in the account of the evolution of communication?",
+        "kk": "Коммуникация эволюциясын сипаттауда жазба таңбалар қандай жаңа мүмкіндік береді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Передачу готовых культурных значений через ДНК",
+            "en": "Transmission of ready-made cultural meanings through DNA",
+            "kk": "Дайын мәдени мағыналарды ДНҚ арқылы беруді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исчезновение необходимости материального носителя",
+            "en": "The disappearance of the need for a material carrier",
+            "kk": "Материалдық тасымалдаушы қажеттілігінің жойылуын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отказ от накопления межпоколенного опыта",
+            "en": "The abandonment of the accumulation of intergenerational experience",
+            "kk": "Ұрпақтан ұрпаққа жиналған тәжірибені жинақтаудан бас тартуды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сохранение культуры во внегенетической памяти человечества",
+            "en": "The preservation of culture in the extragenetic memory of humankind",
+            "kk": "Мәдениетті адамзаттың генетикадан тыс жадында сақтауды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ограничение общения непосредственным устным контактом",
+            "en": "The restriction of communication to direct oral contact",
+            "kk": "Қарым-қатынасты тікелей ауызша байланыспен шектеуді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Язык культуры.pptx",
+          "location": "слайд 13",
+          "units": [
+            "s13"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 123,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Знак-модель в мифологическом культурном коде...",
+        "en": "It is true of the model sign in the mythological cultural code that...",
+        "kk": "Мифологиялық мәдени кодтағы таңба-модель..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Хранит сведения о смысле предмета и способах действия с ним",
+            "en": "It stores information about the meaning of an object and the ways of acting with it",
+            "kk": "Заттың мәні мен онымен әрекет ету тәсілдері туралы мәліметті сақтайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отрицает возможность замещения реального действия",
+            "en": "It denies the possibility of substituting for real action",
+            "kk": "Нақты әрекеттің орнын алмастыру мүмкіндігін жоққа шығарады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключает придание предмету магической силы",
+            "en": "It excludes the endowing of an object with magical power",
+            "kk": "Затқа сиқырлы күш беруді жоққа шығарады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательно представляет только естественный симптом",
+            "en": "It necessarily represents only a natural symptom",
+            "kk": "Міндетті түрде тек табиғи симптомды ғана білдіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сводится к буквальному перечислению частей предмета",
+            "en": "It is reduced to a literal enumeration of the parts of an object",
+            "kk": "Заттың бөліктерін сөзбе-сөз санамалауға саяды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Символы культуры.pdf",
+          "location": "страница PDF 3",
+          "units": [
+            "pg3"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 124,
+      "topic_id": 5,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "В культурологическое исследование символа входят задачи:",
+        "en": "The cultural-studies investigation of a symbol includes the following tasks:",
+        "kk": "Символды мәдениеттанулық зерттеуге мынадай міндеттер кіреді:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сведение всех символов к однозначным техническим сигналам",
+            "en": "Reducing all symbols to unambiguous technical signals",
+            "kk": "Барлық символдарды біржақты техникалық сигналдарға келтіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отождествление символической формы с физическим свойством носителя",
+            "en": "Identifying the symbolic form with a physical property of the carrier",
+            "kk": "Символдық нысанды тасымалдаушының физикалық қасиетімен теңестіру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исследование сознательно создаваемого символического сообщения",
+            "en": "Studying a deliberately created symbolic message",
+            "kk": "Саналы түрде жасалатын символдық хабарламаны зерттеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Интерпретация нецеленаправленно приданного объекту смысла",
+            "en": "Interpreting a meaning attributed to an object without deliberate intent",
+            "kk": "Объектіге мақсатсыз берілген мағынаны интерпретациялау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Установление неизменного природного значения любого образа",
+            "en": "Establishing an unchanging natural meaning of any image",
+            "kk": "Кез келген бейненің өзгермейтін табиғи мағынасын белгілеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Символы культуры.pdf",
+          "location": "страница PDF 4",
+          "units": [
+            "pg4"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 125,
+      "topic_id": 5,
+      "type": "single_choice",
+      "question": {
+        "ru": "Формула «единство намёка и утаивания», характеризующая символ, связана с именем...",
+        "en": "The formula \"the unity of allusion and concealment\", which characterizes the symbol, is associated with the name of...",
+        "kk": "Символды сипаттайтын «меңзеу мен жасыру бірлігі» формуласы кімнің есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Л. Витгенштейна",
+            "en": "L. Wittgenstein",
+            "kk": "Л. Витгенштейн"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ч. Пирса",
+            "en": "C. S. Peirce",
+            "kk": "Ч. Пирс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Э. Тайлора",
+            "en": "E. Tylor",
+            "kk": "Э. Тайлор"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "К. Леви-Строса",
+            "en": "C. Lévi-Strauss",
+            "kk": "К. Леви-Стросс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Г. Гадамера",
+            "en": "H.-G. Gadamer",
+            "kk": "Г. Гадамер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Символы культуры.pdf",
+          "location": "страница PDF 6",
+          "units": [
+            "pg6"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    }
+  ]
+}

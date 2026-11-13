@@ -1,0 +1,1467 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 166,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Основной критерий различения тоталитарного и авторитарного режимов состоит в...",
+        "en": "The main criterion for distinguishing totalitarian from authoritarian regimes is...",
+        "kk": "Тоталитарлық және авторитарлық режимдерді ажыратудың негізгі өлшемі неде?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1113",
+          "units": [
+            "p1113"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1149-1150",
+          "units": [
+            "p1149",
+            "p1150"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наличии руководителя государства",
+            "en": "The presence of a head of state",
+            "kk": "Мемлекет басшысының болуында"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Существовании аппарата принуждения",
+            "en": "The existence of an apparatus of coercion",
+            "kk": "Мәжбүрлеу аппаратының болуында"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Степени притязания власти на контроль общественной жизни",
+            "en": "The degree to which the authorities claim control over social life",
+            "kk": "Биліктің қоғамдық өмірді бақылауға талап ету дәрежесінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Использовании управленческой иерархии",
+            "en": "The use of a managerial hierarchy",
+            "kk": "Басқару иерархиясын пайдалануда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Издании общеобязательных решений",
+            "en": "The issuing of generally binding decisions",
+            "kk": "Жалпыға міндетті шешімдер шығаруда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 167,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Информационную сферу тоталитаризма характеризует...",
+        "en": "The information sphere of totalitarianism is characterized by...",
+        "kk": "Тоталитаризмнің ақпараттық саласын сипаттайтыны..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1116",
+          "units": [
+            "p1116"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Полная независимость прессы при запрете выборов",
+            "en": "Complete independence of the press combined with a ban on elections",
+            "kk": "Сайлауға тыйым салынғанда баспасөздің толық тәуелсіздігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Монополизация информации и подавление инакомыслия",
+            "en": "The monopolization of information and the suppression of dissent",
+            "kk": "Ақпаратты монополияландыру және басқаша ойлауды басу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нейтральность государства ко всем политическим доктринам",
+            "en": "The state's neutrality toward all political doctrines",
+            "kk": "Мемлекеттің барлық саяси доктриналарға бейтараптығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательное отсутствие любых средств массовой коммуникации",
+            "en": "The mandatory absence of any means of mass communication",
+            "kk": "Бұқаралық коммуникация құралдарының міндетті түрде болмауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Конкуренция независимых источников при общей правовой рамке",
+            "en": "Competition among independent sources within a common legal framework",
+            "kk": "Ортақ құқықтық шеңберде тәуелсіз ақпарат көздерінің бәсекелестігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 168,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Организационным ядром тоталитарной политической системы выступает...",
+        "en": "The organizational core of a totalitarian political system is...",
+        "kk": "Тоталитарлық саяси жүйенің ұйымдастырушылық өзегі болып не табылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1120",
+          "units": [
+            "p1120"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Конкуренция нескольких правительственных коалиций",
+            "en": "Competition among several government coalitions",
+            "kk": "Бірнеше үкіметтік коалицияның бәсекелестігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Независимая коллегия арбитражных судей",
+            "en": "An independent board of arbitration judges",
+            "kk": "Төрелік судьяларының тәуелсіз алқасы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Централизованная партия, связанная с государством",
+            "en": "A centralized party fused with the state",
+            "kk": "Мемлекетпен байланысты орталықтандырылған партия"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Автономная сеть независимых профсоюзов",
+            "en": "An autonomous network of independent trade unions",
+            "kk": "Тәуелсіз кәсіподақтардың автономды желісі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непосредственное собрание всех граждан",
+            "en": "A direct assembly of all citizens",
+            "kk": "Барлық азаматтардың тікелей жиналысы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 169,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В отношении силы при авторитаризме верно, что...",
+        "en": "Regarding force under authoritarianism, it is true that...",
+        "kk": "Авторитаризм кезінде күш туралы қандай тұжырым дұрыс?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1148",
+          "units": [
+            "p1148"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Режим может опираться на угрозу силы без постоянных массовых репрессий",
+            "en": "The regime may rely on the threat of force without constant mass repression",
+            "kk": "Режим тұрақты жаппай қуғын-сүргінсіз күш қолдану қаупіне сүйене алады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Режим исключает силовые ресурсы из управления",
+            "en": "The regime excludes coercive resources from governance",
+            "kk": "Режим күш ресурстарын басқарудан шеттетеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Насилие возможно только при всеобщем голосовании",
+            "en": "Violence is possible only under universal suffrage",
+            "kk": "Зорлық-зомбылық тек жалпыға бірдей дауыс беру кезінде ғана мүмкін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Силовые органы находятся вне политического руководства",
+            "en": "The security forces stand outside political leadership",
+            "kk": "Күштік органдар саяси басшылықтан тыс тұрады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Применение силы обязательно охватывает все сферы жизни",
+            "en": "The use of force necessarily extends to all spheres of life",
+            "kk": "Күш қолдану міндетті түрде өмірдің барлық салаларын қамтиды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 170,
+      "topic_id": 8,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "При запрете реальной политической конкуренции сохраняются частный бизнес и ограниченный культурный плюрализм. Это наиболее соответствует...",
+        "en": "Real political competition is banned, but private business and limited cultural pluralism are preserved. This corresponds most closely to...",
+        "kk": "Нақты саяси бәсекелестікке тыйым салынғанда жеке бизнес пен шектеулі мәдени плюрализм сақталады. Бұл неғұрлым нені көрсетеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1150",
+          "units": [
+            "p1150"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1159",
+          "units": [
+            "p1159"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прямой демократии",
+            "en": "Direct democracy",
+            "kk": "Тікелей демократияны"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Авторитарному режиму",
+            "en": "An authoritarian regime",
+            "kk": "Авторитарлық режимді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Тоталитарному режиму",
+            "en": "A totalitarian regime",
+            "kk": "Тоталитарлық режимді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Либеральному парламентаризму",
+            "en": "Liberal parliamentarism",
+            "kk": "Либералды парламентаризмді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Полиархической демократии",
+            "en": "Polyarchal democracy",
+            "kk": "Полиархиялық демократияны"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 171,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему само наличие выборов недостаточно для признания режима демократическим?",
+        "en": "Why is the mere existence of elections not enough to regard a regime as democratic?",
+        "kk": "Сайлаудың өзінің болуы режимді демократиялық деп тану үшін неліктен жеткіліксіз?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1154",
+          "units": [
+            "p1154"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Демократия требует только назначения руководителей",
+            "en": "Democracy requires only the appointment of leaders",
+            "kk": "Демократия тек басшыларды тағайындауды талап етеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любые выборы исключают народный суверенитет",
+            "en": "Any elections exclude popular sovereignty",
+            "kk": "Кез келген сайлау халықтық егемендікті жоққа шығарады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Выборность характерна только для тоталитаризма",
+            "en": "Electivity is characteristic only of totalitarianism",
+            "kk": "Сайлаудың болуы тек тоталитаризмге тән"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Выборы могут проводиться без реальной конкуренции",
+            "en": "Elections can be held without real competition",
+            "kk": "Сайлау нақты бәсекелестіксіз өткізілуі мүмкін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выборы не имеют отношения к доступу к власти",
+            "en": "Elections have no bearing on access to power",
+            "kk": "Сайлаудың билікке қолжетімділікке қатысы жоқ"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 172,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Кооптация политической элиты означает...",
+        "en": "Co-optation of the political elite means...",
+        "kk": "Саяси элитаны кооптациялау нені білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1151",
+          "units": [
+            "p1151"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Распределение постов по жребию",
+            "en": "The distribution of posts by lot",
+            "kk": "Лауазымдарды жеребе бойынша бөлуді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Передачу каждого мандата преемнику по наследству",
+            "en": "The hereditary transfer of every mandate to a successor",
+            "kk": "Әрбір мандатты мұрагерлікпен ізбасарға беруді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Распуск всех руководящих органов",
+            "en": "The dissolution of all governing bodies",
+            "kk": "Барлық басшы органдарды тарату"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Включение новых членов решением действующего руководящего круга",
+            "en": "The inclusion of new members by decision of the existing leading circle",
+            "kk": "Жаңа мүшелерді қолданыстағы басшылық шеңберінің шешімімен қосуды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Избрание всего аппарата на конкурентных выборах",
+            "en": "The election of the entire apparatus in competitive elections",
+            "kk": "Бүкіл аппаратты бәсекелі сайлауда сайлауды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 173,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие полиархии для анализа реально существующих демократий разработал...",
+        "en": "The concept of polyarchy for analyzing actually existing democracies was developed by...",
+        "kk": "Нақты өмір сүріп отырған демократияларды талдау үшін полиархия ұғымын кім әзірледі?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1179-1180",
+          "units": [
+            "p1179",
+            "p1180"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Карл Дойч",
+            "en": "Karl Deutsch",
+            "kk": "Карл Дойч"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Роберт Михельс",
+            "en": "Robert Michels",
+            "kk": "Роберт Михельс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Роберт Даль",
+            "en": "Robert Dahl",
+            "kk": "Роберт Даль"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гаэтано Моска",
+            "en": "Gaetano Mosca",
+            "kk": "Гаэтано Моска"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Иозеф Шумпетер",
+            "en": "Joseph Schumpeter",
+            "kk": "Йозеф Шумпетер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 174,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Различение демократии как идеала и полиархии позволяет...",
+        "en": "Distinguishing democracy as an ideal from polyarchy makes it possible to...",
+        "kk": "Демократияны мұрат ретінде және полиархияны ажырату нені мүмкін етеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1175",
+          "units": [
+            "p1175"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1178-1180",
+          "units": [
+            "p1178",
+            "p1179",
+            "p1180"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Доказать невозможность любых демократических институтов",
+            "en": "Prove the impossibility of any democratic institutions",
+            "kk": "Кез келген демократиялық институттардың мүмкін еместігін дәлелдеуді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Приравнять любой режим с парламентом к демократии",
+            "en": "Equate any regime with a parliament to a democracy",
+            "kk": "Парламенті бар кез келген режимді демократияға теңестіруді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключить выборы из анализа политических систем",
+            "en": "Exclude elections from the analysis of political systems",
+            "kk": "Сайлауды саяси жүйелерді талдаудан шығаруды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Свести демократию к личной добродетели руководителя",
+            "en": "Reduce democracy to the personal virtue of a leader",
+            "kk": "Демократияны басшының жеке ізгілігіне келтіруді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отделить нормативный образ народовластия от эмпирической организации конкуренции",
+            "en": "Separate the normative image of popular rule from the empirical organization of competition",
+            "kk": "Халық билігінің нормативтік бейнесін бәсекелестікті эмпирикалық ұйымдастырудан бөлуді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 175,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Минимальные характеристики демократического правления:",
+        "en": "The minimal characteristics of democratic government:",
+        "kk": "Демократиялық басқарудың ең төменгі сипаттамалары:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1186-1189",
+          "units": [
+            "p1186",
+            "p1187",
+            "p1188",
+            "p1189"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Юридическое признание народного суверенитета",
+            "en": "Legal recognition of popular sovereignty",
+            "kk": "Халықтық егемендікті заңды түрде мойындау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Периодическая выборность основных органов",
+            "en": "Periodic election of the main bodies",
+            "kk": "Негізгі органдардың мерзімді сайлануы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Подчинение политической конкуренции обязательной единой доктрине",
+            "en": "Subordination of political competition to a mandatory single doctrine",
+            "kk": "Саяси бәсекелестікті міндетті бірыңғай доктринаға бағындыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Закрепление руководящих постов за одной несменяемой группой",
+            "en": "Reservation of leading posts to one irremovable group",
+            "kk": "Басшы лауазымдарды ауыспайтын бір топқа бекіту"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Равенство политических прав граждан",
+            "en": "Equality of citizens' political rights",
+            "kk": "Азаматтардың саяси құқықтарының теңдігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 176,
+      "topic_id": 8,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Для либерально-демократической модели характерны...",
+        "en": "The liberal-democratic model is characterized by...",
+        "kk": "Либералды-демократиялық модельге тән..."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 575-586",
+          "units": [
+            "p575",
+            "p576",
+            "p577",
+            "p578",
+            "p579",
+            "p580",
+            "p581",
+            "p582",
+            "p583",
+            "p584",
+            "p585",
+            "p586"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Неразделённая власть, сословный статус, наследование",
+            "en": "Undivided power, estate status, inheritance",
+            "kk": "Бөлінбеген билік, таптық мәртебе, мұрагерлік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Органичное целое, императивный мандат, единство интересов",
+            "en": "An organic whole, an imperative mandate, unity of interests",
+            "kk": "Органикалық тұтастық, императивтік мандат, мүдделер бірлігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Единство общей воли, первенство общего блага, прямая демократия",
+            "en": "Unity of the general will, primacy of the common good, direct democracy",
+            "kk": "Жалпы еріктің бірлігі, жалпы игіліктің бастылығы, тікелей демократия"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Официальная идеология, мобилизация, партийная монополия",
+            "en": "An official ideology, mobilization, a party monopoly",
+            "kk": "Ресми идеология, жұмылдыру, партиялық монополия"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Суверенитет личности, представительство, защита меньшинства",
+            "en": "Sovereignty of the individual, representation, protection of the minority",
+            "kk": "Тұлғаның егемендігі, өкілдік, азшылықтың қорғалуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 177,
+      "topic_id": 8,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Для радикально-демократической модели в сравнительной типологии характерны...",
+        "en": "In a comparative typology, the radical-democratic model is characterized by...",
+        "kk": "Салыстырмалы типологияда радикалды-демократиялық модельге тән..."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 587-598",
+          "units": [
+            "p587",
+            "p588",
+            "p589",
+            "p590",
+            "p591",
+            "p592",
+            "p593",
+            "p594",
+            "p595",
+            "p596",
+            "p597",
+            "p598"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Политическая пассивность и автономия экономики",
+            "en": "Political passivity and the autonomy of the economy",
+            "kk": "Саяси енжарлық және экономиканың автономиясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Разделение властей и первенство частных интересов",
+            "en": "Separation of powers and the primacy of private interests",
+            "kk": "Билікті бөлу және жеке мүдделердің бастылығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наследственная легитимность и сословное представительство",
+            "en": "Hereditary legitimacy and estate representation",
+            "kk": "Мұрагерлік легитимділік және таптық өкілдік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Суверенитет личности и свободный депутатский мандат",
+            "en": "Sovereignty of the individual and a free parliamentary mandate",
+            "kk": "Тұлғаның егемендігі және еркін депутаттық мандат"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Суверенитет народа и непосредственное осуществление власти",
+            "en": "Sovereignty of the people and the direct exercise of power",
+            "kk": "Халықтың егемендігі және билікті тікелей жүзеге асыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 178,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Императивный мандат отличается от свободного...",
+        "en": "An imperative mandate differs from a free one in that...",
+        "kk": "Императивтік мандат еркін мандаттан немен ерекшеленеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 584",
+          "units": [
+            "p584"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 596",
+          "units": [
+            "p596"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Назначением депутата исполнительной властью",
+            "en": "The deputy is appointed by the executive",
+            "kk": "Депутаттың атқарушы билікпен тағайындалуымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Запретом избирателям контролировать представителя",
+            "en": "Voters are forbidden to oversee the representative",
+            "kk": "Сайлаушыларға өкілді бақылауға тыйым салумен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Независимостью депутата от любых наказов",
+            "en": "The deputy is independent of any instructions",
+            "kk": "Депутаттың кез келген тапсырмадан тәуелсіздігімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Связанностью депутата обязательными поручениями избирателей",
+            "en": "The deputy is bound by the binding instructions of the voters",
+            "kk": "Депутаттың сайлаушылардың міндетті тапсырмаларымен байланыстылығымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Пожизненным характером депутатского статуса",
+            "en": "The deputy's status is held for life",
+            "kk": "Депутаттық мәртебенің өмір бойы болуымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 179,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Прямая демократия предполагает...",
+        "en": "Direct democracy presupposes...",
+        "kk": "Тікелей демократия нені көздейді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1202",
+          "units": [
+            "p1202"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Передачу решений исключительно профессиональным депутатам",
+            "en": "The transfer of decisions exclusively to professional deputies",
+            "kk": "Шешімдерді тек кәсіби депутаттарға беруді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Непосредственное участие граждан в принятии решений",
+            "en": "The direct participation of citizens in decision-making",
+            "kk": "Азаматтардың шешім қабылдауға тікелей қатысуын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наследственную передачу высшей власти",
+            "en": "The hereditary transfer of supreme power",
+            "kk": "Жоғарғы биліктің мұрагерлікпен берілуін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Выборы посредников для последующего избрания главы государства",
+            "en": "The election of intermediaries who then elect the head of state",
+            "kk": "Мемлекет басшысын кейін сайлайтын делдалдарды сайлауды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отбор руководителей только судебными органами",
+            "en": "The selection of leaders by judicial bodies alone",
+            "kk": "Басшыларды тек сот органдарының іріктеуін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 180,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Референдум как форма политического участия отличается от выборов депутатов тем, что граждане...",
+        "en": "A referendum as a form of political participation differs from the election of deputies in that citizens...",
+        "kk": "Саяси қатысу нысаны ретінде референдумның депутаттарды сайлаудан айырмашылығы мынада: азаматтар..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1546",
+          "units": [
+            "p1546"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1202",
+          "units": [
+            "p1202"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Выражают мнение только через консультативный опрос",
+            "en": "Express an opinion only through a consultative poll",
+            "kk": "пікірін тек консультативтік сауалнама арқылы білдіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Голосуют непосредственно по вопросу, а не по составу представителей",
+            "en": "Vote directly on an issue rather than on the composition of representatives",
+            "kk": "өкілдердің құрамы бойынша емес, тікелей мәселе бойынша дауыс береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Передают право голосовать партийным руководителям",
+            "en": "Delegate the right to vote to party leaders",
+            "kk": "дауыс беру құқығын партия басшыларына береді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отказываются от собственного участия в принятии решения",
+            "en": "Give up their own participation in the decision",
+            "kk": "шешім қабылдауға өз қатысуынан бас тартады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательно утверждают правительственный список должностей",
+            "en": "Necessarily approve the government's list of appointments",
+            "kk": "лауазымдардың үкіметтік тізімін міндетті түрде бекітеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 181,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия модели и принципа.",
+        "en": "Indicate the correct correspondences between a model and a principle.",
+        "kk": "Модель мен қағида арасындағы дұрыс сәйкестіктерді көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 575-598",
+          "units": [
+            "p575",
+            "p576",
+            "p577",
+            "p578",
+            "p579",
+            "p580",
+            "p581",
+            "p582",
+            "p583",
+            "p584",
+            "p585",
+            "p586",
+            "p587",
+            "p588",
+            "p589",
+            "p590",
+            "p591",
+            "p592",
+            "p593",
+            "p594",
+            "p595",
+            "p596",
+            "p597",
+            "p598"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Либеральная демократия: первенство общего блага над автономией личности",
+            "en": "Liberal democracy: the primacy of the common good over individual autonomy",
+            "kk": "Либералды демократия: жалпы игіліктің тұлға автономиясынан бастылығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Радикальная демократия: императивный мандат",
+            "en": "Radical democracy: an imperative mandate",
+            "kk": "Радикалды демократия: императивтік мандат"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Радикальная демократия: представительство как окончательная передача суверенитета депутатам",
+            "en": "Radical democracy: representation as the final transfer of sovereignty to deputies",
+            "kk": "Радикалды демократия: өкілдік егемендікті депутаттарға түпкілікті беру ретінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Либеральная демократия: единство интересов как исходный принцип общества",
+            "en": "Liberal democracy: unity of interests as the starting principle of society",
+            "kk": "Либералды демократия: мүдделер бірлігі қоғамның бастапқы қағидасы ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Либеральная демократия: свободный мандат",
+            "en": "Liberal democracy: a free mandate",
+            "kk": "Либералды демократия: еркін мандат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 182,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Превращение власти большинства в произвол ограничивают:",
+        "en": "Conditions that limit the transformation of majority rule into arbitrariness:",
+        "kk": "Көпшілік билігінің озбырлыққа айналуын шектейтін жағдайлар:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1188-1189",
+          "units": [
+            "p1188",
+            "p1189"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 586",
+          "units": [
+            "p586"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Правовые ограничения принятия решений",
+            "en": "Legal limits on decision-making",
+            "kk": "Шешім қабылдауға құқықтық шектеулер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Равенство политических прав",
+            "en": "Equality of political rights",
+            "kk": "Саяси құқықтардың теңдігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Признание решения большинства достаточным основанием ограничения любых прав",
+            "en": "Recognition of a majority decision as a sufficient ground for restricting any rights",
+            "kk": "Көпшіліктің шешімін кез келген құқықтарды шектеуге жеткілікті негіз деп тану"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Предоставление правящей группе исключительного права толковать пределы своей власти",
+            "en": "Granting the ruling group the exclusive right to interpret the limits of its power",
+            "kk": "Билеуші топқа өз билігінің шегін түсіндірудің айрықша құқығын беру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Защита прав меньшинства",
+            "en": "Protection of minority rights",
+            "kk": "Азшылықтың құқықтарын қорғау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 183,
+      "topic_id": 8,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие сопоставления режимов обоснованы?",
+        "en": "Which comparisons of regimes are well founded?",
+        "kk": "Режимдерді салыстырудың қайсылары негізді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1116",
+          "units": [
+            "p1116"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1150",
+          "units": [
+            "p1150"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1187",
+          "units": [
+            "p1187"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наличие выборных учреждений служит достаточным критерием состязательности",
+            "en": "The existence of elected institutions is a sufficient criterion of competitiveness",
+            "kk": "Сайлау институттарының болуы бәсекелестіктің жеткілікті өлшемі болып табылады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сохранение частной экономики означает подконтрольность правителей населению",
+            "en": "The preservation of a private economy means that rulers are accountable to the population",
+            "kk": "Жеке экономиканың сақталуы билеушілердің халыққа есеп беруін білдіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Авторитаризм допускает автономию отдельных внеполитических сфер",
+            "en": "Authoritarianism allows the autonomy of certain non-political spheres",
+            "kk": "Авторитаризм жекелеген саясаттан тыс салалардың автономиясына жол береді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тоталитаризм стремится к всеобъемлющей идеологизации",
+            "en": "Totalitarianism strives for all-encompassing ideologization",
+            "kk": "Тоталитаризм жан-жақты идеологияландыруға ұмтылады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Демократия предполагает возможность смены руководства на выборах",
+            "en": "Democracy presupposes the possibility of changing the leadership through elections",
+            "kk": "Демократия басшылықтың сайлауда ауысу мүмкіндігін көздейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 184,
+      "topic_id": 8,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "На выборах разрешён только один заранее утверждённый список, а независимые объединения запрещены. Какое заключение верно?",
+        "en": "Only one pre-approved list is allowed in the elections, and independent associations are banned. Which conclusion is correct?",
+        "kk": "Сайлауда тек бір алдын ала бекітілген тізімге рұқсат етіледі, ал тәуелсіз бірлестіктерге тыйым салынған. Қандай қорытынды дұрыс?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1154",
+          "units": [
+            "p1154"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1187-1188",
+          "units": [
+            "p1187",
+            "p1188"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Единственный список означает прямую демократию",
+            "en": "A single list means direct democracy",
+            "kk": "Жалғыз тізім тікелей демократияны білдіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сам факт голосования гарантирует полиархию",
+            "en": "The mere fact of voting guarantees polyarchy",
+            "kk": "Дауыс берудің өзі полиархияға кепілдік береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Назначение кандидатов заменяет народный суверенитет",
+            "en": "The appointment of candidates replaces popular sovereignty",
+            "kk": "Кандидаттарды тағайындау халықтық егемендікті алмастырады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Электоральная процедура не обеспечивает политической конкуренции",
+            "en": "An electoral procedure does not ensure political competition",
+            "kk": "Сайлау рәсімі саяси бәсекелестікті қамтамасыз етпейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Запрет объединений обеспечивает равенство возможностей",
+            "en": "The ban on associations ensures equality of opportunity",
+            "kk": "Бірлестіктерге тыйым салу мүмкіндіктер теңдігін қамтамасыз етеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 185,
+      "topic_id": 8,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой исследовательский вывод требует различать нормативное и эмпирическое понимание демократии?",
+        "en": "Which research conclusion requires distinguishing the normative from the empirical understanding of democracy?",
+        "kk": "Қандай зерттеулік қорытынды демократияны нормативтік және эмпирикалық түсінуді ажыратуды талап етеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1175-1183",
+          "units": [
+            "p1175",
+            "p1176",
+            "p1177",
+            "p1178",
+            "p1179",
+            "p1180",
+            "p1181",
+            "p1182",
+            "p1183"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Декларации властей о целях правления эквивалентны наблюдению за реальной конкуренцией",
+            "en": "The authorities' declarations of the goals of government are equivalent to observing real competition",
+            "kk": "Билік өкілдерінің басқару мақсаттары туралы декларациялары нақты бәсекелестікті бақылауға тең"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исследование институтов позволяет не учитывать фактическую доступность политических прав",
+            "en": "The study of institutions makes it possible to disregard the actual availability of political rights",
+            "kk": "Институттарды зерттеу саяси құқықтардың нақты қолжетімділігін ескермеуге мүмкіндік береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Декларация народовластия не доказывает соответствия реальных институтов демократическим критериям",
+            "en": "A declaration of popular rule does not prove that real institutions meet democratic criteria",
+            "kk": "Халық билігі туралы декларация нақты институттардың демократиялық өлшемдерге сәйкестігін дәлелдемейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Процедурное оформление власти делает проверку сменяемости руководства избыточной",
+            "en": "The procedural formalization of power makes checking the turnover of leadership redundant",
+            "kk": "Билікті процедуралық ресімдеу басшылықтың ауысымдылығын тексеруді артық етеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствие полного совпадения с идеалом лишает эмпирические критерии значения",
+            "en": "The lack of a complete match with the ideal deprives empirical criteria of significance",
+            "kk": "Мұратпен толық сәйкес келмеу эмпирикалық өлшемдердің маңызын жояды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 10,
+  "topic_name": "Temperament and its theories",
+  "questions": {
+    "201": {
+      "question": "Temperament characterizes primarily...",
+      "options": {
+        "A": "The amount of professional knowledge",
+        "B": "The content of convictions and worldview",
+        "C": "The moral orientation of actions",
+        "D": "The dynamics of the intensity and tempo of responding",
+        "E": "The level of mastery of group norms"
+      }
+    },
+    "202": {
+      "question": "In Hippocrates' humoral theory, the phlegmatic temperament was associated with the predominance of...",
+      "options": {
+        "A": "Blood",
+        "B": "Lymph",
+        "C": "Yellow bile",
+        "D": "Black bile",
+        "E": "Phlegm"
+      }
+    },
+    "203": {
+      "question": "Correct correspondences in the historical humoral theory:",
+      "options": {
+        "A": "Phlegm: choleric temperament",
+        "B": "Yellow bile: choleric temperament",
+        "C": "Blood: phlegmatic temperament",
+        "D": "Blood: sanguine temperament",
+        "E": "Black bile: melancholic temperament"
+      }
+    },
+    "204": {
+      "question": "Constitutional theories of temperament were based on an assumed link between mental characteristics and...",
+      "options": {
+        "A": "The type of reinforcement",
+        "B": "Body build",
+        "C": "The organization of memory",
+        "D": "The position of a sensory filter",
+        "E": "The content of social norms"
+      }
+    },
+    "205": {
+      "question": "A slight build with narrow shoulders and long, thin limbs is designated in E. Kretschmer's typology as...",
+      "options": {
+        "A": "Endomorphic",
+        "B": "Dysplastic",
+        "C": "Athletic",
+        "D": "Pyknic",
+        "E": "Asthenic"
+      }
+    },
+    "206": {
+      "question": "In W. Sheldon's classification, a predominance of musculature and a strong skeleton characterizes the... component.",
+      "options": {
+        "A": "Endomorphic",
+        "B": "Mesomorphic",
+        "C": "Pyknic",
+        "D": "Dysplastic",
+        "E": "Ectomorphic"
+      }
+    },
+    "207": {
+      "question": "The components of physique in W. Sheldon's scheme include:",
+      "options": {
+        "A": "Endomorphic",
+        "B": "Mesomorphic",
+        "C": "Ectomorphic",
+        "D": "Hyperthymic",
+        "E": "Cyclothymic"
+      }
+    },
+    "208": {
+      "question": "A strong, balanced, mobile type of nervous system corresponds, in Pavlov's comparison, to...",
+      "options": {
+        "A": "The phlegmatic temperament",
+        "B": "The sanguine temperament",
+        "C": "The choleric temperament",
+        "D": "The thinking type",
+        "E": "The melancholic temperament"
+      }
+    },
+    "209": {
+      "question": "Strength of nervous processes with a predominance of excitation over inhibition corresponds to the Pavlovian type that is...",
+      "options": {
+        "A": "Phlegmatic",
+        "B": "Intermediate signaling",
+        "C": "Choleric",
+        "D": "Sanguine",
+        "E": "Melancholic"
+      }
+    },
+    "210": {
+      "question": "A strong, balanced, inert type corresponds, in Pavlov's comparison, to the... temperament.",
+      "options": {
+        "A": "Choleric",
+        "B": "Sanguine",
+        "C": "Melancholic",
+        "D": "Artistic",
+        "E": "Phlegmatic"
+      }
+    },
+    "211": {
+      "question": "A weak type of nervous system corresponds, in the classical Pavlovian comparison, to the... temperament.",
+      "options": {
+        "A": "Phlegmatic",
+        "B": "Thinking",
+        "C": "Choleric",
+        "D": "Sanguine",
+        "E": "Melancholic"
+      }
+    },
+    "212": {
+      "question": "Which property distinguishes the sanguine and phlegmatic types, given equal strength and balance?",
+      "options": {
+        "A": "The moral evaluation of character",
+        "B": "The mobility of nervous processes",
+        "C": "The presence of the inhibitory process",
+        "D": "The social orientation of convictions",
+        "E": "The ability to form skills"
+      }
+    },
+    "213": {
+      "question": "Justified conclusions about temperament:",
+      "options": {
+        "A": "Dynamic features are entirely equal to convictions",
+        "B": "Any external restraint proves a weak type",
+        "C": "Upbringing can change the outward manifestations of temperament",
+        "D": "A particular temperament guarantees high giftedness",
+        "E": "Temperament does not determine the moral content of personality"
+      }
+    },
+    "214": {
+      "question": "The two main dimensions of temperament in H. Eysenck's two-factor model are...",
+      "options": {
+        "A": "Introversion and strength of excitation",
+        "B": "Balance and neuroticism",
+        "C": "Extraversion and neuroticism",
+        "D": "Extraversion and mobility",
+        "E": "Neuroticism and sensitivity"
+      }
+    },
+    "215": {
+      "question": "Heightened neuroticism characterizes primarily...",
+      "options": {
+        "A": "The strength of convictions",
+        "B": "The novelty of a creative product",
+        "C": "Emotional instability",
+        "D": "The stability of concentration",
+        "E": "The capacity of long-term memory"
+      }
+    },
+    "216": {
+      "question": "Extraversion combined with emotional stability in H. Eysenck's model corresponds to the... type.",
+      "options": {
+        "A": "Melancholic",
+        "B": "Phlegmatic",
+        "C": "Choleric",
+        "D": "Sanguine",
+        "E": "Asthenic"
+      }
+    },
+    "217": {
+      "question": "Introversion combined with high neuroticism in H. Eysenck's model corresponds to the... type.",
+      "options": {
+        "A": "Phlegmatic",
+        "B": "Mesomorphic",
+        "C": "Choleric",
+        "D": "Melancholic",
+        "E": "Sanguine"
+      }
+    },
+    "218": {
+      "question": "Correct combinations in H. Eysenck's model of temperament:",
+      "options": {
+        "A": "Introversion and stability: phlegmatic",
+        "B": "Extraversion and stability: sanguine",
+        "C": "Extraversion and neuroticism: melancholic",
+        "D": "Extraversion and neuroticism: choleric",
+        "E": "Introversion and neuroticism: sanguine"
+      }
+    },
+    "219": {
+      "question": "Why can a person's moral worth not be inferred from his or her temperament?",
+      "options": {
+        "A": "Morality is determined only by the speed of reactions",
+        "B": "The dynamics of behavior do not determine its content",
+        "C": "The strength of excitation determines the value system",
+        "D": "Temperament is identical to social experience",
+        "E": "Temperament is unrelated to nervous activity"
+      }
+    },
+    "220": {
+      "question": "Which \"theory: basis of typology\" correspondence is correct?",
+      "options": {
+        "A": "Kretschmer: kinds of semantic generalizations",
+        "B": "Eysenck: the ratio of body fluids",
+        "C": "Pavlov: properties of nervous processes",
+        "D": "Sheldon: the distribution of attention",
+        "E": "Hippocrates: extraversion and neuroticism"
+      }
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 5,
+  "topic_name": "Attention: properties, types and models",
+  "questions": {
+    "86": {
+      "question": "A student at first forced himself to read, then became absorbed and continued effortlessly while keeping the goal in mind. His attention became...",
+      "options": {
+        "A": "Post-voluntary",
+        "B": "Reflexive orienting",
+        "C": "Voluntary motor",
+        "D": "Involuntary motor",
+        "E": "Involuntary sensory"
+      }
+    },
+    "87": {
+      "question": "The type of attention sustained by interest after an initial volitional effort was identified by...",
+      "options": {
+        "A": "D. N. Uznadze",
+        "B": "T. Ribot",
+        "C": "N. F. Dobrynin",
+        "D": "P. Ya. Galperin",
+        "E": "D. Broadbent"
+      }
+    },
+    "88": {
+      "question": "Features that distinguish involuntary attention from voluntary attention:",
+      "options": {
+        "A": "No special effort to concentrate",
+        "B": "Sustaining a required task in spite of interest",
+        "C": "Regular checking against an adopted plan",
+        "D": "Capture by the features of the stimulus itself",
+        "E": "A prior decision to be attentive"
+      }
+    },
+    "89": {
+      "question": "A participant takes in more objects during a brief presentation with the same level of concentration. What has primarily increased is the...",
+      "options": {
+        "A": "Span of attention",
+        "B": "Motor component of attention",
+        "C": "Stability of attention",
+        "D": "Switching of attention",
+        "E": "Concentration of attention"
+      }
+    },
+    "90": {
+      "question": "Monitoring the readings of several instruments at the same time characterizes...",
+      "options": {
+        "A": "Inertia of attention",
+        "B": "Sequential reproduction",
+        "C": "Fluctuation of attention",
+        "D": "Switching of attention",
+        "E": "Division of attention"
+      }
+    },
+    "91": {
+      "question": "Why do brief fluctuations of attention not necessarily mean a loss of stability?",
+      "options": {
+        "A": "Stability is equal to a motionless gaze",
+        "B": "Stability excludes any fluctuations",
+        "C": "During fluctuations attention becomes involuntary",
+        "D": "The overall direction toward the task can be maintained",
+        "E": "Fluctuations determine only the capacity of memory"
+      }
+    },
+    "92": {
+      "question": "Which correspondences between properties of attention are correct?",
+      "options": {
+        "A": "Stability: maintaining direction over time",
+        "B": "Switching: transfer to another task",
+        "C": "Division: alternating tasks in turn",
+        "D": "Span: duration of concentration",
+        "E": "Concentration: degree of focus"
+      }
+    },
+    "93": {
+      "question": "By the content of activity, control over the ways of performing work movements belongs to... attention.",
+      "options": {
+        "A": "Motor",
+        "B": "Intellectual",
+        "C": "Auditory perceptual",
+        "D": "Sensory",
+        "E": "Visual perceptual"
+      }
+    },
+    "94": {
+      "question": "The connection of attention with emotions and motor adjustments is emphasized in the theory of...",
+      "options": {
+        "A": "D. Broadbent",
+        "B": "P. Ya. Galperin",
+        "C": "T. Ribot",
+        "D": "D. Kahneman",
+        "E": "A. Treisman"
+      }
+    },
+    "95": {
+      "question": "A preliminary readiness that determines the response to a subsequent stimulus is the basis of the theory of...",
+      "options": {
+        "A": "D. Broadbent",
+        "B": "D. N. Uznadze",
+        "C": "N. F. Dobrynin",
+        "D": "D. Kahneman",
+        "E": "T. Ribot"
+      }
+    },
+    "96": {
+      "question": "Statements that correspond to P. Ya. Galperin's concept of attention:",
+      "options": {
+        "A": "Any control is automatically attention",
+        "B": "The executive part of an action is identical to attention",
+        "C": "Checking relies on a criterion or a standard",
+        "D": "Attention performs the function of control",
+        "E": "Attention creates a separate material product"
+      }
+    },
+    "97": {
+      "question": "In P. Ya. Galperin's concept, attention emerges as an independent act when control becomes...",
+      "options": {
+        "A": "Executive and material",
+        "B": "Mental and abbreviated",
+        "C": "Emotional and uncontrollable",
+        "D": "Receptor-based and involuntary",
+        "E": "External and expanded"
+      }
+    },
+    "98": {
+      "question": "Which kind of training corresponds to the formation of voluntary attention according to P. Ya. Galperin?",
+      "options": {
+        "A": "Excluding control from the main activity",
+        "B": "Repeatedly changing objects without a criterion",
+        "C": "Increasing the brightness of all stimuli",
+        "D": "Working out a plan for checking the course and result of an action",
+        "E": "Shortening the action until checking is mastered"
+      }
+    },
+    "99": {
+      "question": "The model of a filter limited in channel capacity is associated with the name of...",
+      "options": {
+        "A": "N. F. Dobrynin",
+        "B": "D. Kahneman",
+        "C": "A. Treisman",
+        "D": "D. Broadbent",
+        "E": "D. N. Uznadze"
+      }
+    },
+    "100": {
+      "question": "The idea of attenuating an irrelevant signal instead of blocking it completely was developed by...",
+      "options": {
+        "A": "A. Freud",
+        "B": "A. Treisman",
+        "C": "B. Zeigarnik",
+        "D": "M. Mead",
+        "E": "K. Horney"
+      }
+    },
+    "101": {
+      "question": "The assumption that information is selected at a late stage of processing belongs to the model of...",
+      "options": {
+        "A": "T. Ribot",
+        "B": "D. N. Uznadze",
+        "C": "P. Ya. Galperin",
+        "D": "Deutsch and Deutsch",
+        "E": "D. Broadbent"
+      }
+    },
+    "102": {
+      "question": "Statements that characterize the resource (capacity) explanation of attention:",
+      "options": {
+        "A": "Tasks compete for limited capacity",
+        "B": "Resources can be allocated flexibly",
+        "C": "Overload impairs performance on some tasks",
+        "D": "Allocation does not depend on task demands",
+        "E": "Any two tasks are performed without mutual interference"
+      }
+    },
+    "103": {
+      "question": "An operator performs the second task worse when the first requires more effort. This is directly explained by the model of...",
+      "options": {
+        "A": "D. Kahneman",
+        "B": "H. Helmholtz",
+        "C": "N. F. Dobrynin",
+        "D": "D. N. Uznadze",
+        "E": "T. Ribot"
+      }
+    },
+    "104": {
+      "question": "Which phenomenon did Anderson link to the decreasing probability of distraction as a person keeps watching a program?",
+      "options": {
+        "A": "Sensory concentration",
+        "B": "Attentional inertia",
+        "C": "Division of attention",
+        "D": "Objectification of a set",
+        "E": "Deliberate switching"
+      }
+    },
+    "105": {
+      "question": "Tachistoscopic presentation is used primarily to assess the...",
+      "options": {
+        "A": "Span of attention",
+        "B": "Stability of attention",
+        "C": "Speed of attention switching",
+        "D": "Divisibility of attention",
+        "E": "Selectivity of attention"
+      }
+    }
+  }
+}

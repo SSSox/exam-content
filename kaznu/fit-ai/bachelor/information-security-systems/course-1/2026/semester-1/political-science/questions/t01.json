@@ -1,0 +1,1346 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 1,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Объект политологии составляет...",
+        "en": "The object of political science is...",
+        "kk": "Саясаттанудың объектісін не құрайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 5",
+          "units": [
+            "p5"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Система общественного производства",
+            "en": "The system of social production",
+            "kk": "Қоғамдық өндіріс жүйесі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сфера политических отношений",
+            "en": "The sphere of political relations",
+            "kk": "Саяси қатынастар саласы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сфера нормативного регулирования",
+            "en": "The sphere of normative regulation",
+            "kk": "Нормативтік реттеу саласы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Область духовного воспроизводства",
+            "en": "The sphere of spiritual reproduction",
+            "kk": "Рухани қайта өндіру аймағы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Совокупность социальных взаимодействий",
+            "en": "The totality of social interactions",
+            "kk": "Әлеуметтік өзара әрекеттестіктер жиынтығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 2,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Включать экономические интересы в объект политологического анализа позволяет...",
+        "en": "Economic interests can be included in the object of political analysis thanks to...",
+        "kk": "Экономикалық мүдделерді саясаттану талдауының объектісіне енгізуге не мүмкіндік береді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Их измеримость в денежных единицах",
+            "en": "Their measurability in monetary units",
+            "kk": "Олардың ақшалай бірлікпен өлшенуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Их связь с хозяйственной эффективностью",
+            "en": "Their connection with economic efficiency",
+            "kk": "Олардың шаруашылық тиімділікпен байланысы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Их зависимость от распределения труда",
+            "en": "Their dependence on the division of labor",
+            "kk": "Олардың еңбек бөлінісіне тәуелділігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Их выражение во взаимодействии субъектов власти",
+            "en": "Their expression in the interaction of the subjects of power",
+            "kk": "Олардың билік субъектілерінің өзара әрекетінде көрінуі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Их закрепление в бухгалтерском учёте",
+            "en": "Their recording in accounting",
+            "kk": "Олардың бухгалтерлік есепте бекітілуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 3,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Использование общих закономерностей политики другими общественными науками выражает какую функцию политологии?",
+        "en": "The use of the general laws of politics by other social sciences expresses which function of political science?",
+        "kk": "Саясаттың жалпы заңдылықтарын басқа қоғамдық ғылымдардың пайдалануы саясаттанудың қандай функциясын білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 122",
+          "units": [
+            "p122"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Регулятивную",
+            "en": "Regulatory",
+            "kk": "Реттеушілік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Прогностическую",
+            "en": "Predictive",
+            "kk": "Болжамдық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Теоретико-познавательную",
+            "en": "Theoretical-cognitive",
+            "kk": "Теориялық-танымдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Методологическую",
+            "en": "Methodological",
+            "kk": "Әдіснамалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Аналитическую",
+            "en": "Analytical",
+            "kk": "Талдамалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 4,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Предварительная оценка последствий ещё не принятого политического решения относится прежде всего к функции...",
+        "en": "A preliminary assessment of the consequences of a political decision not yet taken belongs primarily to the ... function.",
+        "kk": "Әлі қабылданбаған саяси шешімнің салдарын алдын ала бағалау ең алдымен қандай функцияға жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 131",
+          "units": [
+            "p131"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Методологической",
+            "en": "Methodological",
+            "kk": "Әдіснамалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Регулятивной",
+            "en": "Regulatory",
+            "kk": "Реттеушілік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Описательной",
+            "en": "Descriptive",
+            "kk": "Сипаттамалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социализирующей",
+            "en": "Socializing",
+            "kk": "Әлеуметтендіруші"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прогностической",
+            "en": "Predictive",
+            "kk": "Болжамдық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 5,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Выработка ориентиров участия граждан и организаций в политических событиях относится к функции...",
+        "en": "Working out guidelines for the participation of citizens and organizations in political events belongs to the ... function.",
+        "kk": "Азаматтар мен ұйымдардың саяси оқиғаларға қатысу бағдарларын әзірлеу қандай функцияға жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 130",
+          "units": [
+            "p130"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Регулятивной",
+            "en": "Regulatory",
+            "kk": "Реттеушілік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Методологической",
+            "en": "Methodological",
+            "kk": "Әдіснамалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Прогностической",
+            "en": "Predictive",
+            "kk": "Болжамдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Историографической",
+            "en": "Historiographical",
+            "kk": "Тарихнамалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Диагностической",
+            "en": "Diagnostic",
+            "kk": "Диагностикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 6,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Непосредственный результат прикладного политологического исследования — это...",
+        "en": "The direct result of applied political research is...",
+        "kk": "Қолданбалы саясаттанулық зерттеудің тікелей нәтижесі қандай?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 133-134",
+          "units": [
+            "p133",
+            "p134"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Общая типология политических систем",
+            "en": "A general typology of political systems",
+            "kk": "Саяси жүйелердің жалпы типологиясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обоснование онтологических свойств политики",
+            "en": "A substantiation of the ontological properties of politics",
+            "kk": "Саясаттың онтологиялық қасиеттерін негіздеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Рекомендации конкретному участнику политического процесса",
+            "en": "Recommendations for a specific participant in the political process",
+            "kk": "Саяси үдерістің нақты қатысушысына арналған ұсынымдар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Универсальная модель происхождения публичной власти",
+            "en": "A universal model of the origin of public power",
+            "kk": "Жария биліктің шығуының әмбебап моделі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Систематизация категорий политической философии",
+            "en": "A systematization of the categories of political philosophy",
+            "kk": "Саяси философия категорияларын жүйелеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 7,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исследователь сопоставляет механизмы смены правительств в двух сходных странах. Какой вид сравнения он применяет?",
+        "en": "A researcher compares the mechanisms of government change in two similar countries. Which type of comparison is being used?",
+        "kk": "Зерттеуші ұқсас екі елдегі үкіметтердің ауысу тетіктерін салыстырады. Ол салыстырудың қандай түрін қолданады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 140",
+          "units": [
+            "p140"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Структурно-функциональный анализ",
+            "en": "Structural-functional analysis",
+            "kk": "Құрылымдық-функциялық талдау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Кросскультурный анализ",
+            "en": "Cross-cultural analysis",
+            "kk": "Мәдениетаралық талдау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Лонгитюдное наблюдение",
+            "en": "Longitudinal observation",
+            "kk": "Лонгитюдтік бақылау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Внутрислучайное описание",
+            "en": "Within-case description",
+            "kk": "Жеке жағдай ішіндегі сипаттау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Бинарный анализ",
+            "en": "Binary analysis",
+            "kk": "Бинарлық талдау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 8,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Кросснациональное сравнение предполагает сопоставление...",
+        "en": "Cross-national comparison involves comparing...",
+        "kk": "Елдер аралық салыстыру нені салыстыруды көздейді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 140",
+          "units": [
+            "p140"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Индивидуальных мотивов одного политика",
+            "en": "The individual motives of a single politician",
+            "kk": "Бір саясаткердің жеке уәждерін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Институтов внутри одного государства",
+            "en": "Institutions within a single state",
+            "kk": "Бір мемлекет ішіндегі институттарды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Поколений одной политической элиты",
+            "en": "Generations of a single political elite",
+            "kk": "Бір саяси элитаның ұрпақтарын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Стадий одной избирательной кампании",
+            "en": "Stages of a single election campaign",
+            "kk": "Бір сайлау науқанының кезеңдерін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Государств друг с другом",
+            "en": "States with one another",
+            "kk": "Мемлекеттерді бір-бірімен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 9,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Анализ государства сосредоточен на связях его органов между собой и с внешним окружением. Какой метод задаёт такую исследовательскую рамку?",
+        "en": "The analysis of a state focuses on the links of its bodies with one another and with the external environment. Which method sets such a research framework?",
+        "kk": "Мемлекетті талдау оның органдарының өзара және сыртқы ортамен байланыстарына бағытталған. Қандай әдіс осындай зерттеу шеңберін айқындайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 141",
+          "units": [
+            "p141"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Системный",
+            "en": "Systems",
+            "kk": "Жүйелік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Бихевиористский",
+            "en": "Behavioralist",
+            "kk": "Бихевиористік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нормативно-ценностный",
+            "en": "Normative-value",
+            "kk": "Нормативтік-құндылықтық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Историко-генетический",
+            "en": "Historical-genetic",
+            "kk": "Тарихи-генетикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Психоаналитический",
+            "en": "Psychoanalytic",
+            "kk": "Психоаналитикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 10,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Изучение сублимации бессознательных влечений как мотива политической активности связано прежде всего с...",
+        "en": "The study of the sublimation of unconscious drives as a motive for political activity is associated primarily with...",
+        "kk": "Саяси белсенділіктің уәжі ретінде санасыз құмарлықтардың сублимациясын зерттеу ең алдымен немен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 142",
+          "units": [
+            "p142"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теорией рационального выбора",
+            "en": "Rational choice theory",
+            "kk": "Рационалды таңдау теориясымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Структурным функционализмом",
+            "en": "Structural functionalism",
+            "kk": "Құрылымдық функционализммен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Институциональным подходом",
+            "en": "The institutional approach",
+            "kk": "Институционалдық тәсілмен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Географическим детерминизмом",
+            "en": "Geographical determinism",
+            "kk": "Географиялық детерминизммен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Психоаналитическим подходом",
+            "en": "The psychoanalytic approach",
+            "kk": "Психоаналитикалық тәсілмен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 11,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Единицей политического исследования в бихевиористском подходе выступает...",
+        "en": "In the behavioralist approach, the unit of political research is...",
+        "kk": "Бихевиористік тәсілде саяси зерттеудің бірлігі болып не табылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 148",
+          "units": [
+            "p148"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наблюдаемое поведение индивидов и групп",
+            "en": "The observable behavior of individuals and groups",
+            "kk": "Индивидтер мен топтардың бақыланатын мінез-құлқы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Нормативный идеал государственного устройства",
+            "en": "The normative ideal of state structure",
+            "kk": "Мемлекеттік құрылыстың нормативтік мұраты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Юридическая компетенция учреждения",
+            "en": "The legal competence of an institution",
+            "kk": "Мекеменің заңдық құзыреті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Логическая структура политической доктрины",
+            "en": "The logical structure of a political doctrine",
+            "kk": "Саяси доктринаның логикалық құрылымы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Геополитическое положение территории",
+            "en": "The geopolitical position of a territory",
+            "kk": "Аумақтың геосаяси жағдайы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 12,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Моделирование переговоров с распределением ролей участников относится к...",
+        "en": "Modeling negotiations with an assignment of roles to the participants belongs to...",
+        "kk": "Қатысушылардың рөлдерін бөле отырып келіссөздерді модельдеу қайсысына жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 149",
+          "units": [
+            "p149"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кросснациональному сравнению",
+            "en": "Cross-national comparison",
+            "kk": "Елдер аралық салыстыруға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Игровым методам",
+            "en": "Game-based methods",
+            "kk": "Ойын әдістеріне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Контент-анализу",
+            "en": "Content analysis",
+            "kk": "Контент-талдауға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Статистическому наблюдению",
+            "en": "Statistical observation",
+            "kk": "Статистикалық бақылауға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Экспертному интервью",
+            "en": "Expert interviews",
+            "kk": "Сарапшылық сұхбатқа"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 13,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Изучение партийных программ, парламентских стенограмм и политических мемуаров представляет собой...",
+        "en": "The study of party platforms, parliamentary transcripts and political memoirs is...",
+        "kk": "Партиялық бағдарламаларды, парламенттік стенограммаларды және саяси естеліктерді зерттеу қандай әдіс болып табылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 149",
+          "units": [
+            "p149"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Полевой эксперимент",
+            "en": "A field experiment",
+            "kk": "Далалық эксперимент"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Включённое наблюдение",
+            "en": "Participant observation",
+            "kk": "Қосылып бақылау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социометрический опрос",
+            "en": "A sociometric survey",
+            "kk": "Социометриялық сауалнама"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Анализ документов",
+            "en": "Document analysis",
+            "kk": "Құжаттарды талдау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Анкетирование",
+            "en": "A questionnaire survey",
+            "kk": "Анкета жүргізу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 14,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие научной парадигмы как образца постановки и решения исследовательских задач связано с именем...",
+        "en": "The concept of a scientific paradigm as a model for posing and solving research problems is associated with the name of...",
+        "kk": "Ғылыми парадигма ұғымы, яғни зерттеу міндеттерін қою мен шешудің үлгісі кімнің есімімен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 159",
+          "units": [
+            "p159"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Габриэля Алмонда",
+            "en": "Gabriel Almond",
+            "kk": "Габриэль Алмонд"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Дэвида Истона",
+            "en": "David Easton",
+            "kk": "Дэвид Истон"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Томаса Куна",
+            "en": "Thomas Kuhn",
+            "kk": "Томас Кун"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гарольда Лассуэлла",
+            "en": "Harold Lasswell",
+            "kk": "Гарольд Лассуэлл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Чарльза Мерриама",
+            "en": "Charles Merriam",
+            "kk": "Чарльз Мерриам"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 15,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Полипарадигмальность политологии означает...",
+        "en": "The multi-paradigm nature of political science means...",
+        "kk": "Саясаттанудың полипарадигмалылығы нені білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 159",
+          "units": [
+            "p159"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сосуществование разных концептуальных подходов",
+            "en": "The coexistence of different conceptual approaches",
+            "kk": "Әртүрлі тұжырымдамалық тәсілдердің қатар өмір сүруін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отождествление научных теорий с партийными программами",
+            "en": "The identification of scientific theories with party platforms",
+            "kk": "Ғылыми теорияларды партиялық бағдарламалармен теңестіруді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательное сведение всех объяснений к одной теории",
+            "en": "The mandatory reduction of all explanations to a single theory",
+            "kk": "Барлық түсіндірмелерді міндетті түрде бір теорияға келтіруді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Замещение теоретических моделей эмпирическими данными",
+            "en": "The replacement of theoretical models by empirical data",
+            "kk": "Теориялық модельдерді эмпирикалық деректермен алмастыруды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отказ от критериев научного обоснования",
+            "en": "The rejection of criteria of scientific validity",
+            "kk": "Ғылыми негіздеу өлшемдерінен бас тартуды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 16,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Виды моделей по их назначению:",
+        "en": "Types of models by their purpose:",
+        "kk": "Мақсатына қарай бөлінетін модельдердің түрлері:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 149",
+          "units": [
+            "p149"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дедуктивные",
+            "en": "Deductive",
+            "kk": "Дедуктивті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индуктивные",
+            "en": "Inductive",
+            "kk": "Индуктивті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Предсказательные",
+            "en": "Predictive",
+            "kk": "Болжамдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Объяснительные",
+            "en": "Explanatory",
+            "kk": "Түсіндірмелік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Измерительные",
+            "en": "Measurement",
+            "kk": "Өлшемдік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 17,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Методы конкретно-эмпирических политологических исследований:",
+        "en": "Methods of concrete empirical political research:",
+        "kk": "Саясаттанулық нақты-эмпирикалық зерттеулердің әдістері:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 148-149",
+          "units": [
+            "p148",
+            "p149"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Анализ статистических материалов",
+            "en": "Analysis of statistical materials",
+            "kk": "Статистикалық материалдарды талдау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Философское обоснование общего блага",
+            "en": "Philosophical substantiation of the common good",
+            "kk": "Жалпы игілікті философиялық негіздеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Опрос населения",
+            "en": "Public opinion surveys",
+            "kk": "Халыққа сауалнама жүргізу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Построение нормативного идеала государства",
+            "en": "Construction of a normative ideal of the state",
+            "kk": "Мемлекеттің нормативтік мұратын құру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выведение политики из природной сущности человека",
+            "en": "Deriving politics from the natural essence of man",
+            "kk": "Саясатты адамның табиғи болмысынан тарату"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": 18,
+      "topic_id": 1,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные утверждения о методах политологического исследования:",
+        "en": "Correct statements about the methods of political research:",
+        "kk": "Саясаттанулық зерттеу әдістері туралы дұрыс тұжырымдар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 140-142",
+          "units": [
+            "p140",
+            "p141",
+            "p142"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кросснациональное сравнение изучает институты внутри одной страны",
+            "en": "Cross-national comparison studies institutions within a single country",
+            "kk": "Елдер аралық салыстыру бір ел ішіндегі институттарды зерттейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сравнительный метод допускает сопоставление отдельных институтов",
+            "en": "The comparative method allows individual institutions to be compared",
+            "kk": "Салыстырмалы әдіс жекелеген институттарды салыстыруға мүмкіндік береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Бинарный анализ требует сопоставления не менее трёх государств",
+            "en": "Binary analysis requires comparing at least three states",
+            "kk": "Бинарлық талдау кемінде үш мемлекетті салыстыруды талап етеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Системный метод изучает связи целого с внешней средой",
+            "en": "The systems method studies the links of a whole with its external environment",
+            "kk": "Жүйелік әдіс тұтастың сыртқы ортамен байланыстарын зерттейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Психологический метод исследует субъективные механизмы поведения",
+            "en": "The psychological method investigates the subjective mechanisms of behavior",
+            "kk": "Психологиялық әдіс мінез-құлықтың субъективті тетіктерін зерттейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 19,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите задачи, непосредственно относящиеся к прикладной политологии.",
+        "en": "Specify the tasks that belong directly to applied political science.",
+        "kk": "Қолданбалы саясаттануға тікелей қатысты міндеттерді көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 133-134",
+          "units": [
+            "p133",
+            "p134"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Выведение общего закона смены политических режимов",
+            "en": "Deriving a general law of the change of political regimes",
+            "kk": "Саяси режимдердің ауысуының жалпы заңын тұжырымдау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Подготовка рекомендаций по конкретному решению правительства",
+            "en": "Preparing recommendations on a specific government decision",
+            "kk": "Үкіметтің нақты шешіміне ұсынымдар дайындау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Разработка стратегии избирательной кампании",
+            "en": "Developing an election campaign strategy",
+            "kk": "Сайлау науқанының стратегиясын әзірлеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обоснование универсальной типологии легитимного господства",
+            "en": "Substantiating a universal typology of legitimate domination",
+            "kk": "Заңды үстемдіктің әмбебап типологиясын негіздеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Концептуальная реконструкция природы государственного суверенитета",
+            "en": "A conceptual reconstruction of the nature of state sovereignty",
+            "kk": "Мемлекеттік егемендіктің табиғатын тұжырымдамалық қайта құру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": 20,
+      "topic_id": 1,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исследование сочетает сравнение стран, опрос избирателей и анализ партийных программ. Какое заключение методологически обосновано?",
+        "en": "A study combines a comparison of countries, a survey of voters and an analysis of party platforms. Which conclusion is methodologically sound?",
+        "kk": "Зерттеуде елдерді салыстыру, сайлаушылардан сауалнама алу және партиялық бағдарламаларды талдау біріктірілген. Қандай қорытынды әдіснамалық тұрғыдан негізді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 140-149",
+          "units": [
+            "p140",
+            "p141",
+            "p142",
+            "p143",
+            "p144",
+            "p145",
+            "p146",
+            "p147",
+            "p148",
+            "p149"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Опрос делает вывод о причинности независимым от теоретических предпосылок",
+            "en": "The survey makes conclusions about causality independent of theoretical premises",
+            "kk": "Сауалнама себеп-салдарлық байланыс туралы қорытындыны теориялық алғышарттардан тәуелсіз етеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Анализ программ устанавливает мотивы избирателей без обращения к их поведению",
+            "en": "The analysis of platforms establishes voters' motives without reference to their behavior",
+            "kk": "Бағдарламаларды талдау сайлаушылардың мінез-құлқына жүгінбей-ақ олардың уәждерін анықтайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сочетание методов заменяет проверку сопоставимости исходных данных",
+            "en": "Combining methods replaces checking the comparability of the original data",
+            "kk": "Әдістерді біріктіру бастапқы деректердің салыстырмалылығын тексеруді алмастырады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сравнение стран позволяет переносить выявленные связи без учёта контекста",
+            "en": "Comparing countries allows the identified relationships to be transferred without regard to context",
+            "kk": "Елдерді салыстыру анықталған байланыстарды контекстті ескермей көшіруге мүмкіндік береді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В одном исследовании сочетаются разные методы",
+            "en": "Different methods are combined within a single study",
+            "kk": "Бір зерттеуде әртүрлі әдістер біріктіріледі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    }
+  ]
+}

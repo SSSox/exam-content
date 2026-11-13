@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 9,
+  "topic_name": "Electoral Systems and Elections",
+  "questions": {
+    "186": {
+      "question": "Under a plurality (relative majority) system, the winner is the candidate who...",
+      "options": {
+        "A": "Received more votes than each rival",
+        "B": "Necessarily received more than half of all votes",
+        "C": "Heads the list of the largest party",
+        "D": "Represents the district with the highest turnout",
+        "E": "Received at least two thirds of the votes"
+      }
+    },
+    "187": {
+      "question": "The condition for winning under an absolute majority system is...",
+      "options": {
+        "A": "Any lead over the nearest rival",
+        "B": "At least half of the votes counted",
+        "C": "More than half of the votes counted",
+        "D": "At least one third of the votes counted",
+        "E": "The largest number of first and second preferences"
+      }
+    },
+    "188": {
+      "question": "Three candidates received 46%, 34% and 20% of the votes. What is the result under a plurality system?",
+      "options": {
+        "A": "The election is automatically declared invalid",
+        "B": "The seat is divided among the three candidates",
+        "C": "The candidate with 34% is elected as a compromise",
+        "D": "A second round between the two leaders is mandatory",
+        "E": "The candidate with 46% is elected"
+      }
+    },
+    "189": {
+      "question": "Under an absolute-majority requirement, the candidates received 49%, 32% and 19%; there are no other conditions for winning and no special rules. It follows that...",
+      "options": {
+        "A": "The third candidate's votes automatically transfer to the first",
+        "B": "The candidate with 32% receives a compensatory seat",
+        "C": "No candidate has yet met the condition for election",
+        "D": "The candidate with 49% is already elected",
+        "E": "The seat is divided in proportion to the votes"
+      }
+    },
+    "190": {
+      "question": "The defining principle of a proportional electoral system is...",
+      "options": {
+        "A": "Distributing seats by the area of territories",
+        "B": "The mandatory receipt by each deputy of an absolute majority",
+        "C": "The victory of one candidate in each district",
+        "D": "The distribution of seats in accordance with the votes for lists",
+        "E": "The transfer of seats in proportion to the number of party leaders"
+      }
+    },
+    "191": {
+      "question": "The advantage usually associated with the single-member majoritarian system is...",
+      "options": {
+        "A": "The result's independence from district boundaries",
+        "B": "An exact match between the shares of votes and seats for all parties",
+        "C": "A more direct link between the deputy and the voters of the district",
+        "D": "Guaranteed representation of every small party",
+        "E": "A mandatory multiparty governing coalition"
+      }
+    },
+    "192": {
+      "question": "Why can a party win more districts while receiving fewer votes nationwide?",
+      "options": {
+        "A": "Because the national count replaces the district results",
+        "B": "Because of the automatic transfer of the losers' votes to the winner",
+        "C": "Because of differences in the territorial distribution of support",
+        "D": "Because of the mandatory proportional compensation of all votes",
+        "E": "Because each vote has a different weight set in advance by law"
+      }
+    },
+    "193": {
+      "question": "The deliberate alteration of district boundaries to obtain a favorable party result is called...",
+      "options": {
+        "A": "Legitimation",
+        "B": "Absenteeism",
+        "C": "Panachage",
+        "D": "Gerrymandering",
+        "E": "Co-optation"
+      }
+    },
+    "194": {
+      "question": "In a hypothetical single nationwide district, 100 seats are distributed with no threshold and no rounding. The lists received 40%, 35% and 25%. The number of seats the second list receives is...",
+      "options": {
+        "A": "40",
+        "B": "25",
+        "C": "50",
+        "D": "34",
+        "E": "35"
+      }
+    },
+    "195": {
+      "question": "An electoral threshold is introduced primarily in order to...",
+      "options": {
+        "A": "Ensure the exact representation of every small group",
+        "B": "Eliminate all party coalitions",
+        "C": "Replace voting with the appointment of deputies",
+        "D": "Limit excessive fragmentation of the representative body",
+        "E": "Increase the number of independent candidates"
+      }
+    },
+    "196": {
+      "question": "In a hypothetical system with 100 seats, a 5% threshold and votes of 50%, 30%, 16% and 4%, seats are divided proportionally only among the parties that cleared the threshold. The second party's share of seats before rounding is...",
+      "options": {
+        "A": "33.33% of the seats",
+        "B": "31.25% of the seats",
+        "C": "34% of the seats",
+        "D": "30% of the seats",
+        "E": "28.8% of the seats"
+      }
+    },
+    "197": {
+      "question": "Under a closed (rigid) party list, the order in which seats are awarded is determined by...",
+      "options": {
+        "A": "The decision of the voters of an individual single-member district",
+        "B": "The age of the candidates after the votes are counted",
+        "C": "The order of candidates established in the list",
+        "D": "The number of personal preferences for each candidate",
+        "E": "A draw among all the candidates"
+      }
+    },
+    "198": {
+      "question": "Under a free (open) list in the typology described, the distribution of seats among candidates depends on...",
+      "options": {
+        "A": "A fixed position set in advance by the party apparatus",
+        "B": "The individual preferences of the voters",
+        "C": "The area of the candidate's home territory",
+        "D": "Each candidate's length of party membership",
+        "E": "The mandatory advantage of the head of the list alone"
+      }
+    },
+    "199": {
+      "question": "A semi-closed list is distinguished from a free one by...",
+      "options": {
+        "A": "The guaranteed receipt of a seat by the candidate at the top of the list",
+        "B": "The distribution of seats only by lot",
+        "C": "A ban on expressing preferences for other candidates",
+        "D": "The absence of voting for a party list",
+        "E": "The mandatory election of all candidates on the list"
+      }
+    },
+    "200": {
+      "question": "A mixed electoral system combines elements of...",
+      "options": {
+        "A": "Guild and nomenklatura selection",
+        "B": "Federation and confederation",
+        "C": "Majoritarian and proportional systems",
+        "D": "Direct and hereditary rule",
+        "E": "Traditional and charismatic legitimacy"
+      }
+    },
+    "201": {
+      "question": "In the described points-based model of consensus choice, the voter...",
+      "options": {
+        "A": "Votes exclusively against everyone",
+        "B": "Marks only one candidate",
+        "C": "Transfers the vote to the winner of the first round",
+        "D": "Ranks all the candidates by preference",
+        "E": "Chooses only a party program without candidates"
+      }
+    },
+    "202": {
+      "question": "In a hypothetical points-based model, five candidates receive 5, 4, 3, 2 and 1 points for first through fifth place. A candidate was ranked 1st, 3rd and 5th by three voters. His total is...",
+      "options": {
+        "A": "8 points",
+        "B": "10 points",
+        "C": "12 points",
+        "D": "9 points",
+        "E": "11 points"
+      }
+    },
+    "203": {
+      "question": "Indicate the actions that are part of the electoral process.",
+      "options": {
+        "A": "Compiling a public rating of the personal authority of future deputies",
+        "B": "Nomination and registration of candidates",
+        "C": "Election campaigning",
+        "D": "Agreeing on the appointment of deputies with the incumbent party leaders",
+        "E": "Voting and tabulation of results"
+      }
+    },
+    "204": {
+      "question": "Conditions that ensure the democratic character of the organization of elections:",
+      "options": {
+        "A": "Registration of candidates conditional on the executive branch approving their programs",
+        "B": "Impartial election management bodies",
+        "C": "Review of complaints by the very body whose decisions are being appealed, without independent oversight",
+        "D": "Non-discriminatory voter registration",
+        "E": "Independent adjudication of electoral disputes"
+      }
+    },
+    "205": {
+      "question": "All parties are allowed to nominate candidates, but only one has access to the main channels of campaigning. Which condition has been violated?",
+      "options": {
+        "A": "The requirement of the territorial organization of the state",
+        "B": "A fair distribution of election campaign resources",
+        "C": "The principle of hereditary legitimacy",
+        "D": "The principle of two-stage voting",
+        "E": "The right to a mandatory absolute majority"
+      }
+    },
+    "206": {
+      "question": "Risks associated with the majoritarian system:",
+      "options": {
+        "A": "Vulnerability to manipulation of district boundaries",
+        "B": "A weakening of the deputy's orientation to the local interests of the district",
+        "C": "More accurate proportional representation of small parties nationwide",
+        "D": "Distortion of the ratio of votes to seats",
+        "E": "A reduction in the importance of the territorial concentration of party support"
+      }
+    },
+    "207": {
+      "question": "Correct statements about proportional representation:",
+      "options": {
+        "A": "An electoral threshold restricts the access of small parties",
+        "B": "An electoral threshold increases the representation of parties that did not reach the established minimum",
+        "C": "Seats are allocated according to the number of single-member districts won",
+        "D": "It makes it possible to reflect the diversity of party preferences more accurately",
+        "E": "The seats of each candidate on the list are determined independently of the list model adopted"
+      }
+    },
+    "208": {
+      "question": "The campaign stage in the described sequence begins after...",
+      "options": {
+        "A": "The dissolution of the election commissions",
+        "B": "The announcement of the final results",
+        "C": "The formation of the new government",
+        "D": "The registration of candidates",
+        "E": "The deputies' assumption of office"
+      }
+    },
+    "209": {
+      "question": "Observation is necessary after voting has ended as well because...",
+      "options": {
+        "A": "Voting is automatically canceled after the polling stations close",
+        "B": "The observers themselves distribute the seats at their discretion",
+        "C": "Voters are obliged to disclose their choice publicly",
+        "D": "Observation replaces the legal procedure for counting votes",
+        "E": "Falsification is possible during the counting and transmission of results"
+      }
+    },
+    "210": {
+      "question": "Correct correspondences between a rule and a system:",
+      "options": {
+        "A": "Distribution of seats in accordance with votes for lists: proportional",
+        "B": "Distribution of seats in proportion to the number of district victories: list proportional",
+        "C": "Winning with the largest number of votes in a district: plurality",
+        "D": "A combination of district and list election: mixed",
+        "E": "A fixed order of the candidates on a party list: majoritarian"
+      }
+    }
+  }
+}

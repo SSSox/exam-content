@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 2,
+  "topic_name": "Theories of Culture",
+  "questions": {
+    "26": {
+      "question": "The circumstance that prepared the rejection of Eurocentrism in the theories of local cultures is...",
+      "options": {
+        "A": "Recognition of the social contract as the sole basis of cultural order",
+        "B": "The discovery of a distinctiveness of cultures that does not fit a single European scale",
+        "C": "The explanation of cultural differences by the unequal amount of energy harnessed",
+        "D": "The derivation of all institutions from a set of primary biological needs",
+        "E": "The establishment of a sequence of European stages common to all societies"
+      }
+    },
+    "27": {
+      "question": "The \"prime phenomenon\" (Urphänomen) of a culture in Spengler's theory means...",
+      "options": {
+        "A": "The leading way of satisfying needs",
+        "B": "A unique way of experiencing life",
+        "C": "The principal technology for using energy",
+        "D": "A common mechanism of symbolic substitution",
+        "E": "The original form of the social division of labour"
+      }
+    },
+    "28": {
+      "question": "The relationship between culture and civilization that is characteristic of Spengler:",
+      "options": {
+        "A": "Civilization and culture form two independent economic systems",
+        "B": "Civilization precedes the emergence of cultural individuality",
+        "C": "Civilization denotes the creative youth of a cultural organism",
+        "D": "Civilization means the mechanical ossification of the organic life of a culture",
+        "E": "Civilization is the common source of all local cultures"
+      }
+    },
+    "29": {
+      "question": "The author of the twelve-volume work \"A Study of History\" is...",
+      "options": {
+        "A": "A. Kroeber",
+        "B": "N. Danilevsky",
+        "C": "O. Spengler",
+        "D": "P. Sorokin",
+        "E": "A. Toynbee"
+      }
+    },
+    "30": {
+      "question": "A. Toynbee explains the dynamics of civilizations by the law of...",
+      "options": {
+        "A": "Sublimation of drives",
+        "B": "Succession of archetypes",
+        "C": "Cultural lag",
+        "D": "Challenge and response",
+        "E": "Accumulation of energy"
+      }
+    },
+    "31": {
+      "question": "According to Toynbee, the factor that turns a creative minority into a source of civilizational growth is...",
+      "options": {
+        "A": "An adequate response to a historical challenge",
+        "B": "The weakening of the sensate principle in favour of the ideational one",
+        "C": "The preservation of ethnographic material in its original form",
+        "D": "The completion of the transition from barbarism to civilization",
+        "E": "The maximum accumulation of energy by a cultural organism"
+      }
+    },
+    "32": {
+      "question": "The situation that characterizes the loss of its role by a creative elite in Toynbee is...",
+      "options": {
+        "A": "The elite's return to exclusively artistic activity",
+        "B": "The renunciation of coercion as a result of cultural renewal",
+        "C": "The disappearance of differences between local civilizations",
+        "D": "The replacement of lost authority by violent domination",
+        "E": "The strengthening of authority thanks to new responses to challenges"
+      }
+    },
+    "33": {
+      "question": "The sequence of the phases of a civilization's development in A. Toynbee's theory:",
+      "options": {
+        "A": "Growth, genesis, disintegration, breakdown",
+        "B": "Genesis, growth, breakdown, disintegration",
+        "C": "Genesis, growth, disintegration, breakdown",
+        "D": "Genesis, breakdown, growth, disintegration",
+        "E": "Breakdown, genesis, growth, disintegration"
+      }
+    },
+    "34": {
+      "question": "The principle that underlies P. Sorokin's cultural analysis is...",
+      "options": {
+        "A": "Systems of values and meanings as the basis of sociocultural processes",
+        "B": "A deep prime phenomenon as the unchanging destiny of a closed culture",
+        "C": "The technical base as the primary cause of any cultural change",
+        "D": "Imitation of the creative minority as the main mechanism of growth",
+        "E": "The needs of the organism as a sufficient explanation of cultural institutions"
+      }
+    },
+    "35": {
+      "question": "The propositions that correspond to classical evolutionism are...",
+      "options": {
+        "A": "The birth of a civilization through the response of a creative minority",
+        "B": "The transition from simple forms to complex ones",
+        "C": "The unity of the human race",
+        "D": "Independent life cycles of equivalent cultural organisms",
+        "E": "The functional indispensability of every institution of an existing culture"
+      }
+    },
+    "36": {
+      "question": "Ethnographic evolutionism differed from Enlightenment rationalism in that...",
+      "options": {
+        "A": "It rejected the systematization of empirical facts",
+        "B": "It explained all cultural forms exclusively by free reason",
+        "C": "It denied the possibility of a natural-scientific basis for the study of society",
+        "D": "It considered technical inventions outside cultural development",
+        "E": "It took into account habits, adaptation and probabilistic factors of change"
+      }
+    },
+    "37": {
+      "question": "The comprehensive (enumerative) character of E. Tylor's definition of culture consists in...",
+      "options": {
+        "A": "Explaining culture through a hierarchy of functionally connected institutions",
+        "B": "Listing the knowledge, beliefs, norms and habits acquired by a human being",
+        "C": "Constructing a periodization based on the amount of energy used by a society",
+        "D": "Distributing sign systems according to the ways of symbolic modelling",
+        "E": "Deriving the diverse cultural phenomena from a single prime phenomenon"
+      }
+    },
+    "38": {
+      "question": "Which \"author: work\" pair is given correctly?",
+      "options": {
+        "A": "E. Tylor: \"Ancient Society\"",
+        "B": "O. Spengler: \"Primitive Culture\"",
+        "C": "J. Frazer: \"The Golden Bough\"",
+        "D": "A. Toynbee: \"The Golden Bough\"",
+        "E": "L. Morgan: \"The Decline of the West\""
+      }
+    },
+    "39": {
+      "question": "The studies of the Iroquois and the work \"Ancient Society\" are associated with the name of...",
+      "options": {
+        "A": "J. Steward",
+        "B": "B. Malinowski",
+        "C": "A. Radcliffe-Brown",
+        "D": "F. Boas",
+        "E": "L. Morgan"
+      }
+    },
+    "40": {
+      "question": "The basis of Morgan's periodization of ancient culture is...",
+      "options": {
+        "A": "The succession of dominant religions",
+        "B": "Inventions and discoveries",
+        "C": "Changes in the ways of interpreting myth",
+        "D": "The degree of centralization of the state",
+        "E": "Transformations of artistic style"
+      }
+    },
+    "41": {
+      "question": "The anthropological approach directs the researcher towards...",
+      "options": {
+        "A": "A holistic understanding of the human being within a local culture valued in its own right",
+        "B": "Explaining spiritual forms by the magnitude of technical potential",
+        "C": "Reconstructing the autonomous life cycle of a cultural organism",
+        "D": "Determining a people's stage relative to a common European path",
+        "E": "Establishing a general scheme of the repression of primary drives"
+      }
+    },
+    "42": {
+      "question": "Indicate the groups of needs that Malinowski distinguishes.",
+      "options": {
+        "A": "Integrative",
+        "B": "Derived",
+        "C": "Primary (basic)",
+        "D": "Ideational",
+        "E": "Archetypal"
+      }
+    },
+    "43": {
+      "question": "In Malinowski, the need for the cohesion of people and for authority belongs to the needs that are...",
+      "options": {
+        "A": "Hedonistic",
+        "B": "Integrative",
+        "C": "Primary",
+        "D": "Derived",
+        "E": "Stylistic"
+      }
+    },
+    "44": {
+      "question": "The proposition that corresponds to Malinowski's functional analysis is...",
+      "options": {
+        "A": "The succession of cultures following an unchanging cycle of birth, maturity and death",
+        "B": "The contribution of interrelated elements to maintaining cultural integrity",
+        "C": "The successive passage of societies through common stages of evolution",
+        "D": "The migration of cultural forms from the original centres of their diffusion",
+        "E": "The dependence of symbolic creativity on the sublimation of drives"
+      }
+    },
+    "45": {
+      "question": "The use of the methods of structural linguistics in the study of culture is associated with the name of...",
+      "options": {
+        "A": "W. Ostwald",
+        "B": "C. Lévi-Strauss",
+        "C": "L. Morgan",
+        "D": "N. Danilevsky",
+        "E": "J. Huizinga"
+      }
+    },
+    "46": {
+      "question": "The theory of styles of the fundamental forms of culture is associated with...",
+      "options": {
+        "A": "F. Graebner",
+        "B": "L. Frobenius",
+        "C": "A. Kroeber",
+        "D": "M. Herskovits",
+        "E": "G. Murdock"
+      }
+    },
+    "47": {
+      "question": "In Freud, the redirection of the energy of drives into cognition and artistic creativity is called...",
+      "options": {
+        "A": "Introjection",
+        "B": "Identification",
+        "C": "Sublimation",
+        "D": "Projection",
+        "E": "Rationalization"
+      }
+    },
+    "48": {
+      "question": "The correct pairings of the elements of the psyche and their roles in Freud's theory:",
+      "options": {
+        "A": "The ego: the totality of collective archetypes",
+        "B": "The superego: direct satisfaction of primary drives",
+        "C": "The id: a system of conscious moral prohibitions",
+        "D": "The id: the source of primary drives",
+        "E": "The superego: the inner censor"
+      }
+    },
+    "49": {
+      "question": "In Jung, unlike a concrete cultural image, an archetype is...",
+      "options": {
+        "A": "A conscious value norm fixed by collective agreement",
+        "B": "A concrete mythological character with a stable biography",
+        "C": "An individual memory transformed by artistic fantasy",
+        "D": "A conventional sign whose meaning is established by the author of a work",
+        "E": "A deep structure that receives various symbolic embodiments"
+      }
+    },
+    "50": {
+      "question": "The propositions that correspond to the role of art in Jung:",
+      "options": {
+        "A": "Relief of neurosis by living out a personal childhood trauma",
+        "B": "The cultural and symbolic unfolding of an archetype",
+        "C": "A modern expression of an archaic image",
+        "D": "The renewed repression of collective images by means of rationalization",
+        "E": "The transfer of libido energy to a socially acceptable goal"
+      }
+    }
+  }
+}

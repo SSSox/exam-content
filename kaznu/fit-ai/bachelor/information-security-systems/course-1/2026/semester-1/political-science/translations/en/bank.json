@@ -1,0 +1,11 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "subject": "Political Science",
+  "difficulty_scale": {
+    "1": "Precise knowledge of terms and authorship",
+    "2": "Distinguishing relationships and classifications",
+    "3": "Application to a situation or calculation",
+    "4": "Comparing approaches and drawing complex conclusions"
+  }
+}

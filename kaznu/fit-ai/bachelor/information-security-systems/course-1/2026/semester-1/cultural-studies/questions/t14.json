@@ -1,0 +1,1681 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 326,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сборник «Стихи казахского поэта Ибрагима Кунанбаева» вышел в 1909 году...",
+        "en": "The collection \"Poems of the Kazakh Poet Ibrahim Kunanbayev\" was published in 1909...",
+        "kk": "«Қазақ ақыны Ибрагим Құнанбаевтың өлеңдері» жинағы 1909 жылы жарық көрді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В Оренбурге",
+            "en": "In Orenburg",
+            "kk": "Орынборда"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В Омске",
+            "en": "In Omsk",
+            "kk": "Омбыда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В Казани",
+            "en": "In Kazan",
+            "kk": "Қазанда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "В Семипалатинске",
+            "en": "In Semipalatinsk",
+            "kk": "Семейде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В Петербурге",
+            "en": "In St Petersburg",
+            "kk": "Петербургте"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Абай Кунанбаев Взгляд Токаева (1).docx",
+          "location": "абзац 3",
+          "units": [
+            "p3"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 327,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Число кратких притч и философских трактатов в «Книге слов» Абая равно...",
+        "en": "The number of short parables and philosophical treatises in Abai's \"Book of Words\" is...",
+        "kk": "Абайдың «Қара сөздеріндегі» қысқа астарлы әңгімелер мен философиялық трактаттардың саны..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "40",
+            "en": "40",
+            "kk": "40"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "46",
+            "en": "46",
+            "kk": "46"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "37",
+            "en": "37",
+            "kk": "37"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "56",
+            "en": "56",
+            "kk": "56"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "45",
+            "en": "45",
+            "kk": "45"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Абай Кунанбаев Взгляд Токаева (1).docx",
+          "location": "абзац 3",
+          "units": [
+            "p3"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 328,
+      "topic_id": 14,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Назовите русских авторов, которых Абай переводил на казахский язык.",
+        "en": "Name the Russian authors whom Abai translated into Kazakh.",
+        "kk": "Абай қазақ тіліне аударған орыс авторларын атаңыз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "М. Салтыкова-Щедрина",
+            "en": "M. Saltykov-Shchedrin",
+            "kk": "М. Салтыков-Щедрин"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "М. Лермонтова",
+            "en": "M. Lermontov",
+            "kk": "М. Лермонтов"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Н. Чернышевского",
+            "en": "N. Chernyshevsky",
+            "kk": "Н. Чернышевский"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "А. Пушкина",
+            "en": "A. Pushkin",
+            "kk": "А. Пушкин"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "И. Крылова",
+            "en": "I. Krylov",
+            "kk": "И. Крылов"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Абай Кунанбаев Взгляд Токаева (1).docx",
+          "location": "абзац 3",
+          "units": [
+            "p3"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 329,
+      "topic_id": 14,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите песни Абая.",
+        "en": "Specify the songs by Abai.",
+        "kk": "Абайға тиесілі әндерді көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "«Ақ сиса»",
+            "en": "\"Ak sisa\"",
+            "kk": "«Ақ сиса»"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "«Маңмаңгер»",
+            "en": "\"Manmanger\"",
+            "kk": "«Маңмаңгер»"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "«Көзімнің қарасы»",
+            "en": "\"Kozimnin karasy\"",
+            "kk": "«Көзімнің қарасы»"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "«Айттым сәлем, Қаламқас»",
+            "en": "\"Aitym salem, Kalamkas\"",
+            "kk": "«Айттым сәлем, Қаламқас»"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "«Галия»",
+            "en": "\"Galiya\"",
+            "kk": "«Ғалия»"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Абай Кунанбаев Взгляд Токаева (1).docx",
+          "location": "абзац 3",
+          "units": [
+            "p3"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 330,
+      "topic_id": 14,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Нравственные качества, раскрывающие понятие совести у Шакарима:",
+        "en": "Moral qualities that reveal the concept of conscience in Shakarim:",
+        "kk": "Шәкәрімдегі ар ұғымын ашатын адамгершілік қасиеттер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Неограниченная властность",
+            "en": "Unlimited domination",
+            "kk": "Шексіз өктемдік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Справедливость",
+            "en": "Justice",
+            "kk": "Әділеттілік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Доброта",
+            "en": "Kindness",
+            "kk": "Мейірімділік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Родовая исключительность",
+            "en": "Clan exclusiveness",
+            "kk": "Рулық айрықшалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непритязательность",
+            "en": "Unpretentiousness",
+            "kk": "Қарапайымдылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзац 28",
+          "units": [
+            "p28"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 331,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как Шакарим именует этику, центральной опорой которой считает совесть?",
+        "en": "What does Shakarim call the ethics whose central support he considers conscience to be?",
+        "kk": "Шәкәрім ары орталық тірегі болып табылатын этиканы қалай атайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теорией сверхсистем",
+            "en": "The theory of supersystems",
+            "kk": "Аса жүйелер теориясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Философией исторического вызова",
+            "en": "The philosophy of the historical challenge",
+            "kk": "Тарихи сын-қатер философиясы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наукой о знаковых структурах",
+            "en": "The science of sign structures",
+            "kk": "Таңбалық құрылымдар туралы ғылым"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Учением о чести",
+            "en": "The doctrine of honour",
+            "kk": "Ар-намыс туралы ілім"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Учением об энергии",
+            "en": "The doctrine of energy",
+            "kk": "Энергия туралы ілім"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзац 24",
+          "units": [
+            "p24"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 332,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Путь культурного обновления, связываемый с позицией Шакарима, — это...",
+        "en": "The path of cultural renewal associated with Shakarim's position is...",
+        "kk": "Шәкәрімнің ұстанымымен байланыстырылатын мәдени жаңғыру жолы — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отделение нравственности от культурного развития",
+            "en": "Separating morality from cultural development",
+            "kk": "Адамгершілікті мәдени дамудан бөлу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Изоляция наследия от новых образовательных запросов",
+            "en": "Isolating the heritage from new educational demands",
+            "kk": "Мұраны жаңа білім беру қажеттіліктерінен оқшаулау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Применение исторических ценностей народа соответственно требованиям эпохи",
+            "en": "Applying the historical values of the people in accordance with the demands of the age",
+            "kk": "Халықтың тарихи құндылықтарын дәуір талаптарына сай қолдану"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Возвращение к неизменной форме каждого обычая",
+            "en": "Returning to the unchanged form of every custom",
+            "kk": "Әрбір әдет-ғұрыптың өзгермейтін нысанына қайта оралу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Замена всего национального наследия внешними образцами",
+            "en": "Replacing the entire national heritage with external models",
+            "kk": "Бүкіл ұлттық мұраны сырттан алынған үлгілермен алмастыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 16–18",
+          "units": [
+            "p16",
+            "p17",
+            "p18"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 333,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Главой правительства Алашорды и исследователем казахского эпоса был...",
+        "en": "The head of the Alash Orda government and a researcher of the Kazakh epic was...",
+        "kk": "Алашорда үкіметінің басшысы және қазақ эпосын зерттеуші — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Жусупбек Аймауытов",
+            "en": "Zhusipbek Aimautov",
+            "kk": "Жүсіпбек Аймауытов"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Магжан Жумабаев",
+            "en": "Magzhan Zhumabayev",
+            "kk": "Мағжан Жұмабаев"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ахмет Байтурсынов",
+            "en": "Akhmet Baitursynov",
+            "kk": "Ахмет Байтұрсынұлы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Алихан Букейханов",
+            "en": "Alikhan Bukeikhanov",
+            "kk": "Әлихан Бөкейхан"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Миржакып Дулатов",
+            "en": "Mirzhakip Dulatov",
+            "kk": "Міржақып Дулатұлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзац 14",
+          "units": [
+            "p14"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 334,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автор произведения «Оян, қазақ!» («Проснись, казах!»)...",
+        "en": "The author of the work \"Oyan, Kazak!\" (\"Awake, Kazakh!\") is...",
+        "kk": "«Оян, қазақ!» шығармасының авторы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ахмет Байтурсынов",
+            "en": "Akhmet Baitursynov",
+            "kk": "Ахмет Байтұрсынұлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Магжан Жумабаев",
+            "en": "Magzhan Zhumabayev",
+            "kk": "Мағжан Жұмабаев"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Султанмахмут Торайгыров",
+            "en": "Sultanmakhmut Toraigyrov",
+            "kk": "Сұлтанмахмұт Торайғыров"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сакен Сейфуллин",
+            "en": "Saken Seifullin",
+            "kk": "Сәкен Сейфуллин"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Миржакып Дулатов",
+            "en": "Mirzhakip Dulatov",
+            "kk": "Міржақып Дулатұлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзац 14",
+          "units": [
+            "p14"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 335,
+      "topic_id": 14,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Образовательные положения программы «Алаш»:",
+        "en": "Educational provisions of the \"Alash\" programme:",
+        "kk": "«Алаш» бағдарламасындағы білім беруге қатысты ережелер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Бесплатное обучение",
+            "en": "Free education",
+            "kk": "Тегін оқыту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Запрет преподавания на родном языке",
+            "en": "A ban on teaching in the native language",
+            "kk": "Ана тілінде оқытуға тыйым салу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Средние и высшие учебные заведения с обучением на родном языке",
+            "en": "Secondary and higher educational institutions with instruction in the native language",
+            "kk": "Ана тілінде оқытатын орта және жоғары оқу орындары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отказ от университетского образования для казахов",
+            "en": "Refusal of university education for Kazakhs",
+            "kk": "Қазақтар үшін университеттік білімнен бас тарту"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ограничение обучения исключительно конфессиональными мектебами",
+            "en": "Limiting education exclusively to confessional mektebs",
+            "kk": "Оқытуды тек конфессиялық мектептермен шектеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 37–39",
+          "units": [
+            "p37",
+            "p38",
+            "p39"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 336,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сочетание религиозных принципов, содержавшееся в программе «Алаш», — это...",
+        "en": "The combination of religious principles contained in the \"Alash\" programme is...",
+        "kk": "«Алаш» бағдарламасында болған діни қағидалар тіркесі — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Запрет религиозного образования и подчинение суда духовенству",
+            "en": "A ban on religious education and the subordination of the courts to the clergy",
+            "kk": "Діни білім беруге тыйым салу және соттың дін қызметкерлеріне бағынуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обязательное единство религиозной и исполнительной власти",
+            "en": "The obligatory unity of religious and executive power",
+            "kk": "Діни және атқарушы биліктің міндетті бірлігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отделение религии от государства и равноправие религий",
+            "en": "The separation of religion from the state and the equality of religions",
+            "kk": "Дінді мемлекеттен бөлу және діндердің тең құқығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Государственная монополия одной религии и упразднение муфтията",
+            "en": "A state monopoly of one religion and the abolition of the muftiate",
+            "kk": "Бір діннің мемлекеттік монополиясы және муфтиятты тарату"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Замена всех конфессий одной общеобязательной доктриной",
+            "en": "The replacement of all confessions by a single universally binding doctrine",
+            "kk": "Барлық конфессияларды бір жалпыға міндетті доктринамен алмастыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 33–34",
+          "units": [
+            "p33",
+            "p34"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 337,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Формула соотношения содержания и формы, которую советская идеология применяла к национальной культуре, — это...",
+        "en": "The formula for the relation of content and form that Soviet ideology applied to national culture is...",
+        "kk": "Кеңестік идеология ұлттық мәдениетке қолданған мазмұн мен нысан арақатынасының формуласы — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социалистическое содержание и национальная форма",
+            "en": "Socialist content and national form",
+            "kk": "Мазмұны социалистік, нысаны ұлттық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сословное содержание и космополитическая форма",
+            "en": "Estate content and cosmopolitan form",
+            "kk": "Мазмұны сословиелік, нысаны космополиттік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Национальное содержание и исключительно религиозная форма",
+            "en": "National content and an exclusively religious form",
+            "kk": "Мазмұны ұлттық, нысаны тек діни"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Аристократическое содержание и цеховая форма",
+            "en": "Aristocratic content and a guild form",
+            "kk": "Мазмұны аристократиялық, нысаны цехтық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Фольклорное содержание и только руническая форма",
+            "en": "Folklore content and only a runic form",
+            "kk": "Мазмұны фольклорлық, нысаны тек руникалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 92–103",
+          "units": [
+            "p92",
+            "p93",
+            "p94",
+            "p95",
+            "p96",
+            "p97",
+            "p98",
+            "p99",
+            "p100",
+            "p101",
+            "p102",
+            "p103"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 338,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему язык произведения сам по себе не определяет его национально-культурную принадлежность?",
+        "en": "Why does the language of a work not in itself determine its national and cultural affiliation?",
+        "kk": "Шығарманың тілі неліктен оның ұлттық-мәдени тиесілілігін өзі-ақ айқындамайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Национальная принадлежность определяется только местом печати",
+            "en": "National affiliation is determined only by the place of printing",
+            "kk": "Ұлттық тиесілілік тек баспа орнымен айқындалады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любое русскоязычное произведение имеет одинаковое национальное содержание",
+            "en": "Any Russian-language work has the same national content",
+            "kk": "Кез келген орысша шығарманың ұлттық мазмұны бірдей"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Авторский язык полностью совпадает с родовой генеалогией",
+            "en": "The author's language coincides completely with clan genealogy",
+            "kk": "Авторлық тіл рулық шежіремен толық сәйкес келеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Национальные смыслы выражаются не только языком текста, но и культурной символикой",
+            "en": "National meanings are expressed not only by the language of the text but also by cultural symbolism",
+            "kk": "Ұлттық мағыналар мәтін тілімен ғана емес, мәдени символикамен де білдіріледі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Язык произведения автоматически устраняет связь с историей народа",
+            "en": "The language of a work automatically eliminates its link with the history of a people",
+            "kk": "Шығарма тілі халық тарихымен байланысты автоматты түрде жояды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 103–106",
+          "units": [
+            "p103",
+            "p104",
+            "p105",
+            "p106"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 339,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Работа А. Букейханова о женщине в эпосе «Кобыланды» в 1899 году опубликована в издании...",
+        "en": "A. Bukeikhanov's work on the woman in the epic \"Kobylandy\" was published in 1899 in...",
+        "kk": "А. Бөкейханның «Қобыланды» эпосындағы әйел туралы еңбегі 1899 жылы жарияланған басылым..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "«Серке»",
+            "en": "\"Serke\"",
+            "kk": "«Серке»"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "«Дала уалаятының газеті»",
+            "en": "\"Dala Walayatynyn Gazeti\"",
+            "kk": "«Дала уалаятының газеті»"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "«Айқап»",
+            "en": "\"Aikap\"",
+            "kk": "«Айқап»"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "«Туркестанские ведомости»",
+            "en": "\"Turkestanskie Vedomosti\"",
+            "kk": "«Түркістан уалаятының газеті»"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "«Қазақ»",
+            "en": "\"Kazak\"",
+            "kk": "«Қазақ»"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 14–15",
+          "units": [
+            "p14",
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 340,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Кто из названных деятелей искусства связан с казахской оперной вокальной школой?",
+        "en": "Which of the named figures of the arts is associated with the Kazakh operatic vocal school?",
+        "kk": "Аталған өнер қайраткерлерінің қайсысы қазақ опералық вокал мектебімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Амина Умурзакова",
+            "en": "Amina Umurzakova",
+            "kk": "Әмина Өмірзақова"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Шара Жиенкулова",
+            "en": "Shara Zhienkulova",
+            "kk": "Шара Жиенқұлова"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Шакен Айманов",
+            "en": "Shaken Aimanov",
+            "kk": "Шәкен Айманов"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Дина Нурпеисова",
+            "en": "Dina Nurpeisova",
+            "kk": "Дина Нүрпейісова"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Куляш Байсеитова",
+            "en": "Kulyash Baiseitova",
+            "kk": "Күләш Байсейітова"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 151–152",
+          "units": [
+            "p151",
+            "p152"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 341,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое соответствие деятеля искусства и его специализации верно?",
+        "en": "Which pairing of an artist and his or her specialization is correct?",
+        "kk": "Өнер қайраткері мен оның мамандығының қай сәйкестігі дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Куляш Байсеитова: кинорежиссура",
+            "en": "Kulyash Baiseitova: film directing",
+            "kk": "Күләш Байсейітова: кинорежиссура"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Калибек Куанышбаев: оперный вокал",
+            "en": "Kalibek Kuanyshbayev: operatic singing",
+            "kk": "Қалибек Қуанышбаев: опера вокалы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Серке Кожамкулов: симфоническое дирижирование",
+            "en": "Serke Kozhamkulov: symphonic conducting",
+            "kk": "Серке Қожамқұлов: симфониялық дирижерлік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Шара Жиенкулова: хореография",
+            "en": "Shara Zhienkulova: choreography",
+            "kk": "Шара Жиенқұлова: хореография"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Шакен Айманов: кобызовое исполнительство",
+            "en": "Shaken Aimanov: kobyz performance",
+            "kk": "Шәкен Айманов: қобыз орындаушылығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 152–155",
+          "units": [
+            "p152",
+            "p153",
+            "p154",
+            "p155"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 342,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Советский цензурный надзор в литературе и театре соответственно осуществляли...",
+        "en": "Soviet censorship supervision over literature and the theatre was exercised, respectively, by...",
+        "kk": "Кеңестік цензуралық бақылауды әдебиет пен театрда сәйкесінше жүзеге асырған органдар..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Главлит и Главрепертком",
+            "en": "Glavlit and Glavrepertkom",
+            "kk": "Главлит және Главрепертком"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Главрепертком и Главлит",
+            "en": "Glavrepertkom and Glavlit",
+            "kk": "Главрепертком және Главлит"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Краеведческий музей и нотное издательство",
+            "en": "The local-history museum and the music publishing house",
+            "kk": "Өлкетану музейі және нота баспасы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Муфтийство и совет биев",
+            "en": "The muftiate and the council of biys",
+            "kk": "Муфтият және билер кеңесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Учительская семинария и земская управа",
+            "en": "The teachers' seminary and the zemstvo board",
+            "kk": "Мұғалімдер семинариясы және земство басқармасы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 183–185",
+          "units": [
+            "p183",
+            "p184",
+            "p185"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 343,
+      "topic_id": 14,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите писателей казахской советской литературы.",
+        "en": "Specify the writers of Kazakh Soviet literature.",
+        "kk": "Қазақ кеңестік әдебиетінің жазушыларын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Мухтар Ауэзов",
+            "en": "Mukhtar Auezov",
+            "kk": "Мұхтар Әуезов"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Беимбет Майлин",
+            "en": "Beimbet Mailin",
+            "kk": "Бейімбет Майлин"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Бухар Калкаманулы",
+            "en": "Bukhar Kalkamanuly",
+            "kk": "Бұхар Қалқаманұлы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Шал Кулекеулы",
+            "en": "Shal Kulekeuly",
+            "kk": "Шал Құлекеұлы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Умбетай Тулеулы",
+            "en": "Umbetai Tuleuly",
+            "kk": "Үмбетей Тілеуұлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура в Советском Союзе.docx",
+          "location": "абзацы 158–162",
+          "units": [
+            "p158",
+            "p159",
+            "p160",
+            "p161",
+            "p162"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 344,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Теория защиты культурного многообразия внутри единой политической общности называется...",
+        "en": "The theory that defends cultural diversity within a single political community is called...",
+        "kk": "Бірыңғай саяси бірлестік ішіндегі мәдени алуан түрлілікті қорғау теориясы қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Этноцентрическим изоляционизмом",
+            "en": "Ethnocentric isolationism",
+            "kk": "Этноцентрикалық оқшаулану"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Универсальным эволюционизмом",
+            "en": "Universal evolutionism",
+            "kk": "Әмбебап эволюционизм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Либеральным мультикультурализмом",
+            "en": "Liberal multiculturalism",
+            "kk": "Либералды мультикультурализм"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Культурным ассимиляционизмом",
+            "en": "Cultural assimilationism",
+            "kk": "Мәдени ассимиляционизм"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Технологическим детерминизмом",
+            "en": "Technological determinism",
+            "kk": "Технологиялық детерминизм"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 14. Современная культура Казахстана 20-21века.docx",
+          "location": "абзацы 181–185",
+          "units": [
+            "p181",
+            "p182",
+            "p183",
+            "p184",
+            "p185"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 345,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Кто формулирует основной вопрос мультикультурализма как вопрос о несправедливостях для меньшинств при нациостроительстве большинства?",
+        "en": "Who formulates the main question of multiculturalism as a question of injustices to minorities in the nation-building of the majority?",
+        "kk": "Мультикультурализмнің негізгі сұрағын көпшіліктің ұлт құрылысы кезінде азшылықтарға қатысты әділетсіздіктер туралы сұрақ ретінде кім тұжырымдайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "У. Кимлика",
+            "en": "W. Kymlicka",
+            "kk": "У. Кимлика"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ч. Тейлор",
+            "en": "C. Taylor",
+            "kk": "Ч. Тейлор"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "С. Хантингтон",
+            "en": "S. Huntington",
+            "kk": "С. Хантингтон"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ю. Хабермас",
+            "en": "J. Habermas",
+            "kk": "Ю. Хабермас"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "З. Бауман",
+            "en": "Z. Bauman",
+            "kk": "З. Бауман"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 14. Современная культура Казахстана 20-21века.docx",
+          "location": "абзацы 186–190",
+          "units": [
+            "p186",
+            "p187",
+            "p188",
+            "p189",
+            "p190"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 346,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Принцип культурного взаимодействия, выдвигаемый как направление развития Казахстана наряду с преодолением односторонней вестернизации, — это...",
+        "en": "The principle of cultural interaction put forward as a direction of Kazakhstan's development alongside overcoming one-sided Westernization is...",
+        "kk": "Біржақты вестернизацияны жеңумен қатар Қазақстанның даму бағыты ретінде ұсынылатын мәдени өзара әрекеттестік қағидасы — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Унификация через отказ от национальных различий",
+            "en": "Unification through the abandonment of national differences",
+            "kk": "Ұлттық айырмашылықтардан бас тарту арқылы біріздендіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Самоизоляция от всех внешних художественных влияний",
+            "en": "Self-isolation from all external artistic influences",
+            "kk": "Барлық сыртқы көркемдік ықпалдардан өзін-өзі оқшаулау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Подчинение всех региональных традиций одному внешнему образцу",
+            "en": "The subordination of all regional traditions to a single external model",
+            "kk": "Барлық өңірлік дәстүрлерді бір сыртқы үлгіге бағындыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Диалог культур и равноправное сотрудничество",
+            "en": "Dialogue of cultures and equal cooperation",
+            "kk": "Мәдениеттер диалогы және тең құқықты ынтымақтастық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Замена культурного наследия исключительно рыночной продукцией",
+            "en": "Replacing the cultural heritage exclusively with market products",
+            "kk": "Мәдени мұраны тек нарықтық өніммен алмастыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 14. Современная культура Казахстана 20-21века.docx",
+          "location": "абзац 18",
+          "units": [
+            "p18"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 347,
+      "topic_id": 14,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Основания, соединяемые при рассмотрении культурной идентичности Казахстана:",
+        "en": "Bases combined in considering the cultural identity of Kazakhstan:",
+        "kk": "Қазақстанның мәдени бірегейлігін қарастырғанда біріктірілетін негіздер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только место рождения без культурного самосознания",
+            "en": "Only the place of birth without cultural self-awareness",
+            "kk": "Мәдени өзін-өзі танусыз тек туған жер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только принадлежность к одной профессиональной группе",
+            "en": "Only membership in a single professional group",
+            "kk": "Тек бір кәсіби топқа жату"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только конфессиональная принадлежность населения",
+            "en": "Only the confessional affiliation of the population",
+            "kk": "Тек халықтың конфессиялық тиесілігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Этническая идентичность казахов",
+            "en": "The ethnic identity of the Kazakhs",
+            "kk": "Қазақтардың этникалық бірегейлігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гражданская идентичность казахстанцев",
+            "en": "The civic identity of the citizens of Kazakhstan",
+            "kk": "Қазақстандықтардың азаматтық бірегейлігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 14. Современная культура Казахстана 20-21века.docx",
+          "location": "абзацы 154–158",
+          "units": [
+            "p154",
+            "p155",
+            "p156",
+            "p157",
+            "p158"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 348,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какую культурную задачу выполняет музей при сохранении этнического наследия?",
+        "en": "Which cultural task does a museum perform in preserving ethnic heritage?",
+        "kk": "Этникалық мұраны сақтауда мұражай қандай мәдени міндетті атқарады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сохраняет и транслирует историко-культурную память",
+            "en": "It preserves and transmits historical and cultural memory",
+            "kk": "Тарихи-мәдени жадты сақтайды және жеткізеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Устанавливает нормы административного гражданства",
+            "en": "It establishes the norms of administrative citizenship",
+            "kk": "Әкімшілік азаматтық нормаларын белгілейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Заменяет семейную передачу языка единым алфавитом",
+            "en": "It replaces the family transmission of language with a single alphabet",
+            "kk": "Тілді отбасында беруді бірыңғай әліпбимен алмастырады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Определяет исключительно рыночную стоимость экспонатов",
+            "en": "It determines exclusively the market value of exhibits",
+            "kk": "Экспонаттардың тек нарықтық құнын анықтайды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Устраняет необходимость интерпретации культурных предметов",
+            "en": "It eliminates the need to interpret cultural objects",
+            "kk": "Мәдени заттарды түсіндіру қажеттілігін жояды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 14. Современная культура Казахстана 20-21века.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 349,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Политическую культуру через ориентации по отношению к политической системе и собственной роли в ней определяли...",
+        "en": "Political culture was defined through orientations toward the political system and one's own role in it by...",
+        "kk": "Саяси мәдениетті саяси жүйеге және онда өз рөліне қатысты бағдарлар арқылы анықтаған зерттеушілер..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Й. Хёйзинга и Э. Кассирер",
+            "en": "J. Huizinga and E. Cassirer",
+            "kk": "Й. Хейзинга және Э. Кассирер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Э. Тайлор и Л. Морган",
+            "en": "E. Tylor and L. Morgan",
+            "kk": "Э. Тайлор және Л. Морган"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ф. Гребнер и Л. Фробениус",
+            "en": "F. Graebner and L. Frobenius",
+            "kk": "Ф. Гребнер және Л. Фробениус"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "О. Шпенглер и А. Тойнби",
+            "en": "O. Spengler and A. Toynbee",
+            "kk": "О. Шпенглер және А. Тойнби"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Г. Алмонд и С. Верба",
+            "en": "G. Almond and S. Verba",
+            "kk": "Г. Алмонд және С. Верба"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура и правительство.docx",
+          "location": "абзац 11",
+          "units": [
+            "p11"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 350,
+      "topic_id": 14,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сплочение общества посредством общих ценностей, идеалов и ориентиров выражает какую функцию политической культуры?",
+        "en": "The consolidation of society through shared values, ideals and guidelines expresses which function of political culture?",
+        "kk": "Қоғамды ортақ құндылықтар, мұраттар және бағдарлар арқылы біріктіру саяси мәдениеттің қандай функциясын білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Регулирующую",
+            "en": "The regulative",
+            "kk": "Реттеуші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Нормативно-ценностную",
+            "en": "The normative-value",
+            "kk": "Нормативтік-құндылықтық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Коммуникативную",
+            "en": "The communicative",
+            "kk": "Коммуникативтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социализирующую",
+            "en": "The socializing",
+            "kk": "Әлеуметтендіруші"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интегративную",
+            "en": "The integrative",
+            "kk": "Интегративтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Культура и правительство.docx",
+          "location": "абзац 152",
+          "units": [
+            "p152"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    }
+  ]
+}

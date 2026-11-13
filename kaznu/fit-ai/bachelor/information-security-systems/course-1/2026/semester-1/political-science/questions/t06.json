@@ -1,0 +1,1358 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 121,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Модель преобразования требований и поддержки в решения и действия разработал...",
+        "en": "The model of the conversion of demands and support into decisions and actions was developed by...",
+        "kk": "Талаптар мен қолдауды шешімдер мен әрекеттерге түрлендіру моделін кім әзірледі?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 542-549",
+          "units": [
+            "p542",
+            "p543",
+            "p544",
+            "p545",
+            "p546",
+            "p547",
+            "p548",
+            "p549"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Габриэль Алмонд",
+            "en": "Gabriel Almond",
+            "kk": "Габриэль Алмонд"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Энтони Гидденс",
+            "en": "Anthony Giddens",
+            "kk": "Энтони Гидденс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Карл Дойч",
+            "en": "Karl Deutsch",
+            "kk": "Карл Дойч"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Пьер Бурдье",
+            "en": "Pierre Bourdieu",
+            "kk": "Пьер Бурдье"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Дэвид Истон",
+            "en": "David Easton",
+            "kk": "Дэвид Истон"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 122,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что относится к «входу» политической системы у Истона?",
+        "en": "What belongs to the \"input\" of the political system in Easton's model?",
+        "kk": "Истон бойынша саяси жүйенің «кіруіне» не жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 543-544",
+          "units": [
+            "p543",
+            "p544"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Правительственные программы и бюджеты",
+            "en": "Government programs and budgets",
+            "kk": "Үкіметтік бағдарламалар мен бюджеттер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Законы и судебные акты",
+            "en": "Laws and judicial acts",
+            "kk": "Заңдар мен сот актілері"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нормы и санкции",
+            "en": "Norms and sanctions",
+            "kk": "Нормалар мен санкциялар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Решения и действия",
+            "en": "Decisions and actions",
+            "kk": "Шешімдер мен әрекеттер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Требования и поддержка",
+            "en": "Demands and support",
+            "kk": "Талаптар мен қолдау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 123,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Выход» политической системы в модели Истона образуют...",
+        "en": "The \"output\" of the political system in Easton's model consists of...",
+        "kk": "Истон моделінде саяси жүйенің «шығуын» не құрайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 547",
+          "units": [
+            "p547"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Все индивидуальные политические предпочтения",
+            "en": "All individual political preferences",
+            "kk": "Барлық жеке саяси қалаулар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключительно внешние международные воздействия",
+            "en": "Exclusively external international influences",
+            "kk": "Тек сыртқы халықаралық әсерлер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только неформальные нормы политической культуры",
+            "en": "Only the informal norms of political culture",
+            "kk": "Саяси мәдениеттің тек бейресми нормалары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только выражения недовольства населения",
+            "en": "Only expressions of public discontent",
+            "kk": "Халықтың тек наразылық білдірулері"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательные решения и действия власти",
+            "en": "The authorities' binding decisions and actions",
+            "kk": "Биліктің міндетті шешімдері мен әрекеттері"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 124,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "После непопулярного решения возникают новые требования к правительству. Какой механизм проявляется?",
+        "en": "After an unpopular decision, new demands on the government arise. Which mechanism is at work?",
+        "kk": "Танымал емес шешімнен кейін үкіметке жаңа талаптар туындайды. Қандай тетік көрінеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 548",
+          "units": [
+            "p548"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обратная связь",
+            "en": "Feedback",
+            "kk": "Кері байланыс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Первичная социализация",
+            "en": "Primary socialization",
+            "kk": "Бастапқы әлеуметтену"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Разделение властей",
+            "en": "Separation of powers",
+            "kk": "Билікті бөлу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Идеологическая унификация",
+            "en": "Ideological unification",
+            "kk": "Идеологиялық біріздендіру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Рекрутирование элит",
+            "en": "Elite recruitment",
+            "kk": "Элиталарды рекрутингтеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 125,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Политическая система у Истона считается открытой, потому что...",
+        "en": "In Easton's model, the political system is considered open because...",
+        "kk": "Истон бойынша саяси жүйе неліктен ашық деп саналады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 549",
+          "units": [
+            "p549"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Она не имеет границ между политикой и хозяйством",
+            "en": "It has no boundary between politics and the economy",
+            "kk": "Онда саясат пен шаруашылық арасында шекара жоқ"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Она получает воздействия среды и отвечает на них",
+            "en": "It receives influences from its environment and responds to them",
+            "kk": "Ол ортаның әсерін қабылдайды және оларға жауап береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В ней отсутствует механизм принуждения",
+            "en": "It has no mechanism of coercion",
+            "kk": "Онда мәжбүрлеу тетігі жоқ"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Её органы избираются только прямым голосованием",
+            "en": "Its bodies are elected only by direct vote",
+            "kk": "Оның органдары тек тікелей дауыс беру арқылы сайланады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Любое требование немедленно становится законом",
+            "en": "Any demand immediately becomes law",
+            "kk": "Кез келген талап дереу заңға айналады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 126,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Структурно-функциональную модель политической системы разработал...",
+        "en": "The structural-functional model of the political system was developed by...",
+        "kk": "Саяси жүйенің құрылымдық-функциялық моделін кім әзірледі?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 550-552",
+          "units": [
+            "p550",
+            "p551",
+            "p552"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вильфредо Парето",
+            "en": "Vilfredo Pareto",
+            "kk": "Вильфредо Парето"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Габриэль Алмонд",
+            "en": "Gabriel Almond",
+            "kk": "Габриэль Алмонд"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Роберт Михельс",
+            "en": "Robert Michels",
+            "kk": "Роберт Михельс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Карл Дойч",
+            "en": "Karl Deutsch",
+            "kk": "Карл Дойч"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Дэвид Истон",
+            "en": "David Easton",
+            "kk": "Дэвид Истон"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 127,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Неудачи механического переноса западных институтов в иную среду показывают, что...",
+        "en": "The failures of mechanically transplanting Western institutions into a different environment show that...",
+        "kk": "Батыс институттарын басқа ортаға механикалық көшірудің сәтсіздіктері нені көрсетеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 551",
+          "units": [
+            "p551"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Функции институтов не зависят от общественной среды",
+            "en": "The functions of institutions do not depend on the social environment",
+            "kk": "Институттардың функциялары қоғамдық ортаға тәуелді емес"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Политическая культура определяется только текстом конституции",
+            "en": "Political culture is determined only by the text of the constitution",
+            "kk": "Саяси мәдениет тек конституция мәтінімен айқындалады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Любое заимствование неизбежно устраняет нестабильность",
+            "en": "Any borrowing inevitably eliminates instability",
+            "kk": "Кез келген қарызға алу тұрақсыздықты сөзсіз жояды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Институциональная реформа тождественна демократизации",
+            "en": "Institutional reform is identical to democratization",
+            "kk": "Институционалдық реформа демократияландырумен бірдей"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Одинаковая формальная структура может выполнять разные функции",
+            "en": "The same formal structure can perform different functions",
+            "kk": "Бірдей ресми құрылым әртүрлі функцияларды атқара алады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 128,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Выражение интересов заинтересованными группами в модели Алмонда соответствует...",
+        "en": "The expression of interests by interested groups in Almond's model corresponds to...",
+        "kk": "Алмонд моделінде мүдделі топтардың өз мүдделерін білдіруі қандай функцияға сәйкес келеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 553",
+          "units": [
+            "p553"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Применению правил",
+            "en": "Rule application",
+            "kk": "Ережелерді қолдануға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Артикуляции интересов",
+            "en": "Interest articulation",
+            "kk": "Мүдделерді артикуляциялауға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Политическому рекрутированию",
+            "en": "Political recruitment",
+            "kk": "Саяси рекрутингке"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Судебному контролю",
+            "en": "Judicial review",
+            "kk": "Сот бақылауына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Агрегированию интересов",
+            "en": "Interest aggregation",
+            "kk": "Мүдделерді агрегациялауға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 129,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Объединение разнородных требований в политическую программу партиями соответствует...",
+        "en": "The combining of diverse demands into a political program by parties corresponds to...",
+        "kk": "Партиялардың әртүрлі талаптарды саяси бағдарламаға біріктіруі қандай функцияға сәйкес келеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 553",
+          "units": [
+            "p553"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Артикуляции интересов",
+            "en": "Interest articulation",
+            "kk": "Мүдделерді артикуляциялауға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Агрегированию интересов",
+            "en": "Interest aggregation",
+            "kk": "Мүдделерді агрегациялауға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Информационной селекции",
+            "en": "Information selection",
+            "kk": "Ақпараттық іріктеуге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Применению правил",
+            "en": "Rule application",
+            "kk": "Ережелерді қолдануға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Политической социализации",
+            "en": "Political socialization",
+            "kk": "Саяси әлеуметтенуге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 130,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Выработка общеобязательных правил в модели Алмонда связывается прежде всего с...",
+        "en": "The making of generally binding rules in Almond's model is associated primarily with...",
+        "kk": "Алмонд моделінде жалпыға міндетті ережелерді әзірлеу ең алдымен кіммен байланыстырылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 554",
+          "units": [
+            "p554"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исполнительными органами",
+            "en": "Executive bodies",
+            "kk": "Атқарушы органдармен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Законодательными органами",
+            "en": "Legislative bodies",
+            "kk": "Заң шығарушы органдармен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Судебными органами",
+            "en": "Judicial bodies",
+            "kk": "Сот органдарымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Группами интересов",
+            "en": "Interest groups",
+            "kk": "Мүдде топтарымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Средствами массовой информации",
+            "en": "The mass media",
+            "kk": "Бұқаралық ақпарат құралдарымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 131,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Реализация принятых правил относится преимущественно к функции...",
+        "en": "The implementation of adopted rules belongs chiefly to the function of...",
+        "kk": "Қабылданған ережелерді жүзеге асыру негізінен қай органның функциясына жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 554",
+          "units": [
+            "p554"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исполнительной власти",
+            "en": "The executive branch",
+            "kk": "Атқарушы биліктің"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Избирательного корпуса",
+            "en": "The electorate",
+            "kk": "Сайлаушылар корпусының"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Законодательной власти",
+            "en": "The legislative branch",
+            "kk": "Заң шығарушы биліктің"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Судебной власти",
+            "en": "The judiciary",
+            "kk": "Сот билігінің"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Партийной оппозиции",
+            "en": "The party opposition",
+            "kk": "Партиялық оппозицияның"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 132,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Коммуникативная модель политической системы связана с именем...",
+        "en": "The communication model of the political system is associated with the name of...",
+        "kk": "Саяси жүйенің коммуникативтік моделі кімнің есімімен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 555",
+          "units": [
+            "p555"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гаэтано Моски",
+            "en": "Gaetano Mosca",
+            "kk": "Гаэтано Моска"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Карла Дойча",
+            "en": "Karl Deutsch",
+            "kk": "Карл Дойч"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Габриэля Алмонда",
+            "en": "Gabriel Almond",
+            "kk": "Габриэль Алмонд"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Роберта Даля",
+            "en": "Robert Dahl",
+            "kk": "Роберт Даль"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Дэвида Истона",
+            "en": "David Easton",
+            "kk": "Дэвид Истон"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 133,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Работа «Нервы управления» принадлежит...",
+        "en": "The work \"The Nerves of Government\" belongs to...",
+        "kk": "«Басқару жүйкелері» еңбегі кімге тиесілі?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 555",
+          "units": [
+            "p555"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дэвиду Истону",
+            "en": "David Easton",
+            "kk": "Дэвид Истонға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Пьеру Бурдье",
+            "en": "Pierre Bourdieu",
+            "kk": "Пьер Бурдьеге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Энтони Гидденсу",
+            "en": "Anthony Giddens",
+            "kk": "Энтони Гидденске"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Карлу Дойчу",
+            "en": "Karl Deutsch",
+            "kk": "Карл Дойчқа"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Габриэлю Алмонду",
+            "en": "Gabriel Almond",
+            "kk": "Габриэль Алмондқа"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 134,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Правительство сопоставляет новые сведения с накопленными знаниями и оценивает их через ценности. Какая стадия информационного цикла описана?",
+        "en": "A government compares new information with accumulated knowledge and evaluates it through values. Which stage of the information cycle is described?",
+        "kk": "Үкімет жаңа мәліметтерді жинақталған білімдермен салыстырады және оларды құндылықтар арқылы бағалайды. Ақпараттық циклдің қандай сатысы сипатталған?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 556",
+          "units": [
+            "p556"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обработка и оценка информации",
+            "en": "Processing and evaluation of information",
+            "kk": "Ақпаратты өңдеу және бағалау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Непосредственное принятие решения",
+            "en": "The actual taking of the decision",
+            "kk": "Шешімді тікелей қабылдау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Получение и первичный отбор",
+            "en": "Reception and initial selection",
+            "kk": "Алу және алғашқы іріктеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Формирование общественного требования",
+            "en": "Formation of a public demand",
+            "kk": "Қоғамдық талапты қалыптастыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Исполнение решения",
+            "en": "Implementation of the decision",
+            "kk": "Шешімді орындау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 135,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Политическая система наиболее полно определяется как...",
+        "en": "A political system is most fully defined as...",
+        "kk": "Саяси жүйенің қандай анықтамасы неғұрлым толық?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 558",
+          "units": [
+            "p558"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключительно организация высших государственных должностей",
+            "en": "Exclusively the organization of the highest state offices",
+            "kk": "Тек жоғары мемлекеттік лауазымдар ұйымы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Совокупность всех хозяйственных отношений общества",
+            "en": "The totality of all economic relations of a society",
+            "kk": "Қоғамның барлық шаруашылық қатынастарының жиынтығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только юридически зарегистрированные партии и движения",
+            "en": "Only legally registered parties and movements",
+            "kk": "Тек заңды тіркелген партиялар мен қозғалыстар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отношения, институты, нормы и ценности воспроизводства политического порядка",
+            "en": "Relations, institutions, norms and values for the reproduction of political order",
+            "kk": "Саяси тәртіпті қайта өндірудің қатынастары, институттары, нормалары мен құндылықтары"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Совокупность только органов государственного принуждения",
+            "en": "The totality of the bodies of state coercion alone",
+            "kk": "Тек мемлекеттік мәжбүрлеу органдарының жиынтығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 136,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия между автором и подходом:",
+        "en": "Correct correspondences between an author and an approach:",
+        "kk": "Автор мен тәсіл арасындағы дұрыс сәйкестіктер:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 557",
+          "units": [
+            "p557"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дэвид Истон: новый институционализм",
+            "en": "David Easton: new institutionalism",
+            "kk": "Дэвид Истон: жаңа институционализм"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Габриэль Алмонд: структурация",
+            "en": "Gabriel Almond: structuration",
+            "kk": "Габриэль Алмонд: структурация"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Пьер Бурдье: политическое поле",
+            "en": "Pierre Bourdieu: the political field",
+            "kk": "Пьер Бурдье: саяси өріс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Карл Дойч: политическое поле",
+            "en": "Karl Deutsch: the political field",
+            "kk": "Карл Дойч: саяси өріс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Энтони Гидденс: структурация",
+            "en": "Anthony Giddens: structuration",
+            "kk": "Энтони Гидденс: структурация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 137,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Функции «входа» (а не «выхода») системы в модели Алмонда:",
+        "en": "Functions of the \"input\" (rather than the \"output\") of the system in Almond's model:",
+        "kk": "Алмонд моделіндегі жүйенің «шығуына» емес, «кіруіне» жататын функциялар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 553-554",
+          "units": [
+            "p553",
+            "p554"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Применение общеобязательных правил исполнительными органами",
+            "en": "Application of generally binding rules by executive bodies",
+            "kk": "Жалпыға міндетті ережелерді атқарушы органдардың қолдануы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Политическая социализация",
+            "en": "Political socialization",
+            "kk": "Саяси әлеуметтену"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нормотворчество законодательных органов",
+            "en": "Rule-making by legislative bodies",
+            "kk": "Заң шығарушы органдардың нормашығармашылығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Агрегирование интересов",
+            "en": "Interest aggregation",
+            "kk": "Мүдделерді агрегациялау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Артикуляция интересов",
+            "en": "Interest articulation",
+            "kk": "Мүдделерді артикуляциялау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 138,
+      "topic_id": 6,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Модели Истона и Дойча объединяет...",
+        "en": "The models of Easton and Deutsch are united by...",
+        "kk": "Истон мен Дойч модельдерін не біріктіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 548",
+          "units": [
+            "p548"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 556",
+          "units": [
+            "p556"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отождествление обратной связи с непосредственным принятием решения",
+            "en": "Identifying feedback with the actual taking of decisions",
+            "kk": "Кері байланысты шешімді тікелей қабылдаумен теңестіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Признание партий единственными передатчиками обратной связи",
+            "en": "Recognizing parties as the only transmitters of feedback",
+            "kk": "Партияларды кері байланыстың жалғыз берушісі деп тану"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Рассмотрение информационного отбора как исключительно правовой процедуры",
+            "en": "Treating information selection as an exclusively legal procedure",
+            "kk": "Ақпараттық іріктеуді тек құқықтық рәсім ретінде қарастыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Учёт воздействия информации о результатах деятельности",
+            "en": "Taking account of the impact of information about the results of activity",
+            "kk": "Қызмет нәтижелері туралы ақпараттың әсерін ескеру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Использование принципа обратной связи",
+            "en": "Using the principle of feedback",
+            "kk": "Кері байланыс қағидатын пайдалану"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 139,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какая последовательность соответствует информационному циклу Дойча?",
+        "en": "Which sequence corresponds to Deutsch's information cycle?",
+        "kk": "Қандай реттілік Дойчтың ақпараттық циклына сәйкес келеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 556",
+          "units": [
+            "p556"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Оценка → получение сведений → решение → исполнение с обратной связью",
+            "en": "Evaluation, then receiving information, then decision, then implementation with feedback",
+            "kk": "Бағалау → мәліметтерді алу → шешім → кері байланыспен орындау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Получение сведений → оценка → исполнение → принятие решения",
+            "en": "Receiving information, then evaluation, then implementation, then decision",
+            "kk": "Мәліметтерді алу → бағалау → орындау → шешім қабылдау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Получение сведений → оценка → решение → исполнение с обратной связью",
+            "en": "Receiving information, then evaluation, then decision, then implementation with feedback",
+            "kk": "Мәліметтерді алу → бағалау → шешім → кері байланыспен орындау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Получение сведений → решение → оценка → исполнение с обратной связью",
+            "en": "Receiving information, then decision, then evaluation, then implementation with feedback",
+            "kk": "Мәліметтерді алу → шешім → бағалау → кері байланыспен орындау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Решение → получение сведений → исполнение → оценка",
+            "en": "Decision, then receiving information, then implementation, then evaluation",
+            "kk": "Шешім → мәліметтерді алу → орындау → бағалау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 140,
+      "topic_id": 6,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Недовольство усилилось после переноса институтов без учёта среды; с системным и структурно-функциональным анализом согласуются выводы:",
+        "en": "Discontent increased after institutions were transplanted without regard for the environment; the conclusions consistent with systems and structural-functional analysis are:",
+        "kk": "Институттарды ортаны ескермей көшіргеннен кейін наразылық күшейді; жүйелік және құрылымдық-функциялық талдауға мына қорытындылар сәйкес келеді:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 548",
+          "units": [
+            "p548"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 551",
+          "units": [
+            "p551"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Нужно исследовать реальные функции заимствованных институтов",
+            "en": "The real functions of the borrowed institutions should be investigated",
+            "kk": "Қарызға алынған институттардың нақты функцияларын зерттеу керек"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Реакции населения следует считать только внешними помехами работе институтов",
+            "en": "The population's reactions should be regarded only as external interference with the work of the institutions",
+            "kk": "Халықтың реакциясын тек институттар жұмысына сыртқы кедергілер деп санау керек"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Необходимо учитывать обратную связь от общества",
+            "en": "Feedback from society must be taken into account",
+            "kk": "Қоғамнан келетін кері байланысты ескеру қажет"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Результаты деятельности объясняются юридическими названиями органов без анализа их функций",
+            "en": "The results of activity are explained by the legal names of the bodies without analyzing their functions",
+            "kk": "Қызмет нәтижелері органдардың заңдық атауларымен олардың функцияларын талдамай-ақ түсіндіріледі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Институциональное сходство достаточно для переноса ожидаемых результатов реформы",
+            "en": "Institutional similarity is sufficient to transfer the expected results of the reform",
+            "kk": "Институционалдық ұқсастық реформаның күтілетін нәтижелерін көшіру үшін жеткілікті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C"
+      ]
+    }
+  ]
+}

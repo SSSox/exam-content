@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 11,
+  "topic_name": "Character, accentuations and characterological typologies",
+  "questions": {
+    "221": {
+      "question": "A stable individual combination of traits that express a person's attitudes in his or her actions is called...",
+      "options": {
+        "A": "A social attitude",
+        "B": "An individual style of activity",
+        "C": "Character",
+        "D": "Temperament",
+        "E": "Orientation"
+      }
+    },
+    "222": {
+      "question": "What makes it possible to distinguish character from temperament when evaluating behavior?",
+      "options": {
+        "A": "Temperament unambiguously determines truthfulness",
+        "B": "Character determines tempo, temperament the value system",
+        "C": "Character is entirely innate, temperament is acquired through learning",
+        "D": "Character is not manifested in activity",
+        "E": "Character expresses the content of attitudes, temperament their dynamics"
+      }
+    },
+    "223": {
+      "question": "In Pavlov's explanation, the physiological basis of character includes primarily...",
+      "options": {
+        "A": "Only the strength of unconditioned reflexes",
+        "B": "An unchangeable constitutional program",
+        "C": "Only the innate mobility of nervous processes",
+        "D": "The isolated work of the second signal system",
+        "E": "Innate properties of higher nervous activity and acquired temporary connections"
+      }
+    },
+    "224": {
+      "question": "Correct statements about the formation of character:",
+      "options": {
+        "A": "It is formed in the interaction of the personality and the environment",
+        "B": "Self-education participates in its development",
+        "C": "A single chance action exhausts the description of a person",
+        "D": "It can change over the course of life",
+        "E": "All traits are entirely determined by temperament"
+      }
+    },
+    "225": {
+      "question": "Why is a single unusual action insufficient for drawing a conclusion about a character trait?",
+      "options": {
+        "A": "A trait presupposes the stability of typical manifestations",
+        "B": "Actions are completely independent of attitudes",
+        "C": "Traits are determined only by self-description",
+        "D": "Any situational state is a trait",
+        "E": "Character is not expressed in actions"
+      }
+    },
+    "226": {
+      "question": "In R. S. Nemov's classification, conscientiousness, responsibility and neatness belong to the... traits.",
+      "options": {
+        "A": "Intellectual",
+        "B": "Communicative",
+        "C": "Volitional",
+        "D": "Business",
+        "E": "Moral"
+      }
+    },
+    "227": {
+      "question": "In R. S. Nemov's classification, openness and attentiveness to people characterize the group of... traits.",
+      "options": {
+        "A": "Intellectual",
+        "B": "Business",
+        "C": "Communicative",
+        "D": "Moral",
+        "E": "Volitional"
+      }
+    },
+    "228": {
+      "question": "An excessive expression of particular traits that represents an extreme variant of the norm is called...",
+      "options": {
+        "A": "Character accentuation",
+        "B": "A situational characterological reaction",
+        "C": "A temperament type",
+        "D": "Psychopathy",
+        "E": "Compensation of a trait"
+      }
+    },
+    "229": {
+      "question": "Indicate the correct statements about accentuations.",
+      "options": {
+        "A": "They are always equivalent to a mental illness",
+        "B": "They rule out any change in the prominence of traits",
+        "C": "They may be temporary and age-related",
+        "D": "They represent extreme variants of the norm",
+        "E": "They are always manifested in the same way under any conditions"
+      }
+    },
+    "230": {
+      "question": "The term \"character accentuation\" is associated with the name of...",
+      "options": {
+        "A": "K. Leonhard",
+        "B": "H. Selye",
+        "C": "W. Sheldon",
+        "D": "D. Broadbent",
+        "E": "C. Spearman"
+      }
+    },
+    "231": {
+      "question": "A cyclical change in sociability together with ups and downs of mood describes the... accentuation type.",
+      "options": {
+        "A": "Cycloid",
+        "B": "Stuck",
+        "C": "Pedantic",
+        "D": "Demonstrative",
+        "E": "Dysthymic"
+      }
+    },
+    "232": {
+      "question": "The desire to be the center of attention at any cost characterizes, in the typology of accentuations, the... type.",
+      "options": {
+        "A": "Anxious",
+        "B": "Conformist",
+        "C": "Pedantic",
+        "D": "Dysthymic",
+        "E": "Demonstrative"
+      }
+    },
+    "233": {
+      "question": "Prolonged fixation on grievances and upsetting experiences is, in the typology of accentuations, characteristic primarily of the... type.",
+      "options": {
+        "A": "Conformist",
+        "B": "Pedantic",
+        "C": "Hyperthymic",
+        "D": "Stuck",
+        "E": "Demonstrative"
+      }
+    },
+    "234": {
+      "question": "Correct correspondences between accentuation types:",
+      "options": {
+        "A": "Stuck: quickly forgetting grievances",
+        "B": "Pedantic: excessive fixation on details",
+        "C": "Hyperthymic: elevated mood and activity",
+        "D": "Dysthymic: lowered mood and taciturnity",
+        "E": "Demonstrative: avoiding any attention"
+      }
+    },
+    "235": {
+      "question": "The attempt to derive abilities and character from the outer shape of the skull was historically called...",
+      "options": {
+        "A": "Phrenology",
+        "B": "Introspection",
+        "C": "Sociometry",
+        "D": "Psychophysics",
+        "E": "Pedology"
+      }
+    },
+    "236": {
+      "question": "The division of characters into intellectual, emotional and volitional was proposed by...",
+      "options": {
+        "A": "F. Gall",
+        "B": "E. Shostrom",
+        "C": "A. Bain",
+        "D": "C. G. Jung",
+        "E": "T. Ribot"
+      }
+    },
+    "237": {
+      "question": "In E. Shostrom's typology, an exaggerated need for control and an urge to outwit others characterize the...",
+      "options": {
+        "A": "Calculator",
+        "B": "Weakling",
+        "C": "Protector",
+        "D": "Judge",
+        "E": "Clinging Vine"
+      }
+    },
+    "238": {
+      "question": "In E. Shostrom's typology, demonstrative dependence and an urge to shift work onto others characterize the...",
+      "options": {
+        "A": "Calculator",
+        "B": "Protector",
+        "C": "Judge",
+        "D": "Dictator",
+        "E": "Clinging Vine"
+      }
+    },
+    "239": {
+      "question": "Correct correspondences between manipulation systems in E. Shostrom's typology:",
+      "options": {
+        "A": "Competitive: relationships as a struggle to win",
+        "B": "Active: a show of strength in order to control",
+        "C": "Passive: direct domination by command",
+        "D": "Passive: exploiting one's own helplessness",
+        "E": "Indifferent: open, equal dialogue"
+      }
+    },
+    "240": {
+      "question": "Strength of character, in its substantive sense, is determined primarily by...",
+      "options": {
+        "A": "The correspondence of behavior to convictions and worldview",
+        "B": "The maximum loudness of an emotional reaction",
+        "C": "A high speed of nervous excitation",
+        "D": "A refusal to reconsider any mistaken decision",
+        "E": "A constant readiness to argue with others"
+      }
+    }
+  }
+}

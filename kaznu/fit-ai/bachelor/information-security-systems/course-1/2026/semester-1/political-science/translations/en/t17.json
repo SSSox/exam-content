@@ -1,0 +1,108 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 17,
+  "topic_name": "The Electoral System of the Republic of Kazakhstan",
+  "questions": {
+    "331": {
+      "question": "As of November 9, 2026, the constitutional size and term of office of the deputies of the Kurultai are...",
+      "options": {
+        "A": "98 deputies, 5 years",
+        "B": "107 deputies, 5 years",
+        "C": "145 deputies, 6 years",
+        "D": "145 deputies, 5 years",
+        "E": "120 deputies, 4 years"
+      }
+    },
+    "332": {
+      "question": "As of November 9, 2026, the deputies of the Kurultai are elected...",
+      "options": {
+        "A": "By party lists with a separate presidential quota",
+        "B": "By indirect vote of the deputies of the maslikhats",
+        "C": "Under a mixed system in a nationwide district and single-member districts",
+        "D": "Only in single-member plurality districts",
+        "E": "Under a proportional system in a single nationwide district"
+      }
+    },
+    "333": {
+      "question": "As of November 9, 2026, to be elected a deputy of the Kurultai one must be at least 25 years old and have permanently resided in Kazakhstan for the last...",
+      "options": {
+        "A": "15 years",
+        "B": "12 years",
+        "C": "10 years",
+        "D": "7 years",
+        "E": "5 years"
+      }
+    },
+    "334": {
+      "question": "As of November 9, 2026, candidates to the Kurultai may be nominated by:",
+      "options": {
+        "A": "Registered political parties",
+        "B": "Any initiative group of voters",
+        "C": "Any public associations regardless of status",
+        "D": "Only sitting deputies of the maslikhats",
+        "E": "Candidates exclusively by self-nomination"
+      }
+    },
+    "335": {
+      "question": "The 30 percent requirement for women, young people and persons with disabilities in the 2026 Kurultai elections is applied...",
+      "options": {
+        "A": "Only to reserve candidates after the seats have been distributed",
+        "B": "Only to the candidates of single-member districts",
+        "C": "Separately, 30% for each category",
+        "D": "To the combined share of the three categories",
+        "E": "Only to women, without regard to the others"
+      }
+    },
+    "336": {
+      "question": "The electoral threshold established for the 2026 Kurultai elections was...",
+      "options": {
+        "A": "7%",
+        "B": "3%",
+        "C": "10%",
+        "D": "5%",
+        "E": "6%"
+      }
+    },
+    "337": {
+      "question": "Under the rules for the 2026 Kurultai elections, after the votes are counted a party retains the possibility of...",
+      "options": {
+        "A": "Transferring seats to the candidates of another party",
+        "B": "Converting party seats into single-member districts",
+        "C": "Replacing the votes received with the appointment of additional deputies",
+        "D": "Waiving the citizenship requirements for its candidates",
+        "E": "Setting the order of the recipients of seats, subject to the established quota"
+      }
+    },
+    "338": {
+      "question": "In the presidential elections in Kazakhstan, as of November 9, 2026, the condition for election in the first round of voting is...",
+      "options": {
+        "A": "Any lead over the nearest rival",
+        "B": "At least two thirds of the valid votes",
+        "C": "More than 50% of all registered voters",
+        "D": "More than 50% of the votes of the voters who took part",
+        "E": "At least 50% of the votes of the voters who took part"
+      }
+    },
+    "339": {
+      "question": "Principles of electing the Kurultai in force as of November 9, 2026:",
+      "options": {
+        "A": "Universal and equal suffrage",
+        "B": "Direct election",
+        "C": "Indirect election through deputies of local representative bodies",
+        "D": "Open recording of the individual voter's expressed will",
+        "E": "Secret ballot"
+      }
+    },
+    "340": {
+      "question": "Indicate the correct statements about the 2026 Kurultai elections.",
+      "options": {
+        "A": "A candidate outside a party list receives a seat in a separate district",
+        "B": "Candidates are nominated by registered parties",
+        "C": "Seats are distributed using a seven-percent threshold",
+        "D": "Some of the deputies are appointed under a separate presidential quota",
+        "E": "Proportional representation is applied"
+      }
+    }
+  }
+}

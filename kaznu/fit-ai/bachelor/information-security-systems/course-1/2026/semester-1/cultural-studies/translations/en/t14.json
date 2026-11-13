@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 14,
+  "topic_name": "Cultural Heritage and the Culture of Kazakhstan in the Twentieth and Twenty-First Centuries",
+  "questions": {
+    "326": {
+      "question": "The collection \"Poems of the Kazakh Poet Ibrahim Kunanbayev\" was published in 1909...",
+      "options": {
+        "A": "In Orenburg",
+        "B": "In Omsk",
+        "C": "In Kazan",
+        "D": "In Semipalatinsk",
+        "E": "In St Petersburg"
+      }
+    },
+    "327": {
+      "question": "The number of short parables and philosophical treatises in Abai's \"Book of Words\" is...",
+      "options": {
+        "A": "40",
+        "B": "46",
+        "C": "37",
+        "D": "56",
+        "E": "45"
+      }
+    },
+    "328": {
+      "question": "Name the Russian authors whom Abai translated into Kazakh.",
+      "options": {
+        "A": "M. Saltykov-Shchedrin",
+        "B": "M. Lermontov",
+        "C": "N. Chernyshevsky",
+        "D": "A. Pushkin",
+        "E": "I. Krylov"
+      }
+    },
+    "329": {
+      "question": "Specify the songs by Abai.",
+      "options": {
+        "A": "\"Ak sisa\"",
+        "B": "\"Manmanger\"",
+        "C": "\"Kozimnin karasy\"",
+        "D": "\"Aitym salem, Kalamkas\"",
+        "E": "\"Galiya\""
+      }
+    },
+    "330": {
+      "question": "Moral qualities that reveal the concept of conscience in Shakarim:",
+      "options": {
+        "A": "Unlimited domination",
+        "B": "Justice",
+        "C": "Kindness",
+        "D": "Clan exclusiveness",
+        "E": "Unpretentiousness"
+      }
+    },
+    "331": {
+      "question": "What does Shakarim call the ethics whose central support he considers conscience to be?",
+      "options": {
+        "A": "The theory of supersystems",
+        "B": "The philosophy of the historical challenge",
+        "C": "The science of sign structures",
+        "D": "The doctrine of honour",
+        "E": "The doctrine of energy"
+      }
+    },
+    "332": {
+      "question": "The path of cultural renewal associated with Shakarim's position is...",
+      "options": {
+        "A": "Separating morality from cultural development",
+        "B": "Isolating the heritage from new educational demands",
+        "C": "Applying the historical values of the people in accordance with the demands of the age",
+        "D": "Returning to the unchanged form of every custom",
+        "E": "Replacing the entire national heritage with external models"
+      }
+    },
+    "333": {
+      "question": "The head of the Alash Orda government and a researcher of the Kazakh epic was...",
+      "options": {
+        "A": "Zhusipbek Aimautov",
+        "B": "Magzhan Zhumabayev",
+        "C": "Akhmet Baitursynov",
+        "D": "Alikhan Bukeikhanov",
+        "E": "Mirzhakip Dulatov"
+      }
+    },
+    "334": {
+      "question": "The author of the work \"Oyan, Kazak!\" (\"Awake, Kazakh!\") is...",
+      "options": {
+        "A": "Akhmet Baitursynov",
+        "B": "Magzhan Zhumabayev",
+        "C": "Sultanmakhmut Toraigyrov",
+        "D": "Saken Seifullin",
+        "E": "Mirzhakip Dulatov"
+      }
+    },
+    "335": {
+      "question": "Educational provisions of the \"Alash\" programme:",
+      "options": {
+        "A": "Free education",
+        "B": "A ban on teaching in the native language",
+        "C": "Secondary and higher educational institutions with instruction in the native language",
+        "D": "Refusal of university education for Kazakhs",
+        "E": "Limiting education exclusively to confessional mektebs"
+      }
+    },
+    "336": {
+      "question": "The combination of religious principles contained in the \"Alash\" programme is...",
+      "options": {
+        "A": "A ban on religious education and the subordination of the courts to the clergy",
+        "B": "The obligatory unity of religious and executive power",
+        "C": "The separation of religion from the state and the equality of religions",
+        "D": "A state monopoly of one religion and the abolition of the muftiate",
+        "E": "The replacement of all confessions by a single universally binding doctrine"
+      }
+    },
+    "337": {
+      "question": "The formula for the relation of content and form that Soviet ideology applied to national culture is...",
+      "options": {
+        "A": "Socialist content and national form",
+        "B": "Estate content and cosmopolitan form",
+        "C": "National content and an exclusively religious form",
+        "D": "Aristocratic content and a guild form",
+        "E": "Folklore content and only a runic form"
+      }
+    },
+    "338": {
+      "question": "Why does the language of a work not in itself determine its national and cultural affiliation?",
+      "options": {
+        "A": "National affiliation is determined only by the place of printing",
+        "B": "Any Russian-language work has the same national content",
+        "C": "The author's language coincides completely with clan genealogy",
+        "D": "National meanings are expressed not only by the language of the text but also by cultural symbolism",
+        "E": "The language of a work automatically eliminates its link with the history of a people"
+      }
+    },
+    "339": {
+      "question": "A. Bukeikhanov's work on the woman in the epic \"Kobylandy\" was published in 1899 in...",
+      "options": {
+        "A": "\"Serke\"",
+        "B": "\"Dala Walayatynyn Gazeti\"",
+        "C": "\"Aikap\"",
+        "D": "\"Turkestanskie Vedomosti\"",
+        "E": "\"Kazak\""
+      }
+    },
+    "340": {
+      "question": "Which of the named figures of the arts is associated with the Kazakh operatic vocal school?",
+      "options": {
+        "A": "Amina Umurzakova",
+        "B": "Shara Zhienkulova",
+        "C": "Shaken Aimanov",
+        "D": "Dina Nurpeisova",
+        "E": "Kulyash Baiseitova"
+      }
+    },
+    "341": {
+      "question": "Which pairing of an artist and his or her specialization is correct?",
+      "options": {
+        "A": "Kulyash Baiseitova: film directing",
+        "B": "Kalibek Kuanyshbayev: operatic singing",
+        "C": "Serke Kozhamkulov: symphonic conducting",
+        "D": "Shara Zhienkulova: choreography",
+        "E": "Shaken Aimanov: kobyz performance"
+      }
+    },
+    "342": {
+      "question": "Soviet censorship supervision over literature and the theatre was exercised, respectively, by...",
+      "options": {
+        "A": "Glavlit and Glavrepertkom",
+        "B": "Glavrepertkom and Glavlit",
+        "C": "The local-history museum and the music publishing house",
+        "D": "The muftiate and the council of biys",
+        "E": "The teachers' seminary and the zemstvo board"
+      }
+    },
+    "343": {
+      "question": "Specify the writers of Kazakh Soviet literature.",
+      "options": {
+        "A": "Mukhtar Auezov",
+        "B": "Beimbet Mailin",
+        "C": "Bukhar Kalkamanuly",
+        "D": "Shal Kulekeuly",
+        "E": "Umbetai Tuleuly"
+      }
+    },
+    "344": {
+      "question": "The theory that defends cultural diversity within a single political community is called...",
+      "options": {
+        "A": "Ethnocentric isolationism",
+        "B": "Universal evolutionism",
+        "C": "Liberal multiculturalism",
+        "D": "Cultural assimilationism",
+        "E": "Technological determinism"
+      }
+    },
+    "345": {
+      "question": "Who formulates the main question of multiculturalism as a question of injustices to minorities in the nation-building of the majority?",
+      "options": {
+        "A": "W. Kymlicka",
+        "B": "C. Taylor",
+        "C": "S. Huntington",
+        "D": "J. Habermas",
+        "E": "Z. Bauman"
+      }
+    },
+    "346": {
+      "question": "The principle of cultural interaction put forward as a direction of Kazakhstan's development alongside overcoming one-sided Westernization is...",
+      "options": {
+        "A": "Unification through the abandonment of national differences",
+        "B": "Self-isolation from all external artistic influences",
+        "C": "The subordination of all regional traditions to a single external model",
+        "D": "Dialogue of cultures and equal cooperation",
+        "E": "Replacing the cultural heritage exclusively with market products"
+      }
+    },
+    "347": {
+      "question": "Bases combined in considering the cultural identity of Kazakhstan:",
+      "options": {
+        "A": "Only the place of birth without cultural self-awareness",
+        "B": "Only membership in a single professional group",
+        "C": "Only the confessional affiliation of the population",
+        "D": "The ethnic identity of the Kazakhs",
+        "E": "The civic identity of the citizens of Kazakhstan"
+      }
+    },
+    "348": {
+      "question": "Which cultural task does a museum perform in preserving ethnic heritage?",
+      "options": {
+        "A": "It preserves and transmits historical and cultural memory",
+        "B": "It establishes the norms of administrative citizenship",
+        "C": "It replaces the family transmission of language with a single alphabet",
+        "D": "It determines exclusively the market value of exhibits",
+        "E": "It eliminates the need to interpret cultural objects"
+      }
+    },
+    "349": {
+      "question": "Political culture was defined through orientations toward the political system and one's own role in it by...",
+      "options": {
+        "A": "J. Huizinga and E. Cassirer",
+        "B": "E. Tylor and L. Morgan",
+        "C": "F. Graebner and L. Frobenius",
+        "D": "O. Spengler and A. Toynbee",
+        "E": "G. Almond and S. Verba"
+      }
+    },
+    "350": {
+      "question": "The consolidation of society through shared values, ideals and guidelines expresses which function of political culture?",
+      "options": {
+        "A": "The regulative",
+        "B": "The normative-value",
+        "C": "The communicative",
+        "D": "The socializing",
+        "E": "The integrative"
+      }
+    }
+  }
+}

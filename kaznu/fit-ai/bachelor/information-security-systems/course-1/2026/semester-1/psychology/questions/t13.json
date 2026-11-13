@@ -1,0 +1,1378 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 266,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сознательная регуляция поведения при преодолении внутренних и внешних препятствий называется...",
+        "en": "The conscious regulation of behavior in overcoming internal and external obstacles is called...",
+        "kk": "Ішкі және сыртқы кедергілерді жеңу кезіндегі мінез-құлықты саналы реттеу не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Самооценкой",
+            "en": "Self-esteem",
+            "kk": "Өзін-өзі бағалау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Установкой",
+            "en": "A set (attitude)",
+            "kk": "Қондырма"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Самосознанием",
+            "en": "Self-awareness",
+            "kk": "Өзіндік сана"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мотивацией",
+            "en": "Motivation",
+            "kk": "Уәждеме"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Волей",
+            "en": "Will",
+            "kk": "Ерік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 3",
+          "units": [
+            "p3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Человек удерживается от импульсивного ответа, несовместимого с его убеждениями. Реализуется функция воли...",
+        "en": "A person refrains from an impulsive response that is incompatible with his or her convictions. Which function of will is realized?",
+        "kk": "Адам өз сенімдеріне сәйкес келмейтін импульсивті жауаптан тартынады. Ерiктiң қандай қызметі жүзеге асады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исполнительская",
+            "en": "Executive",
+            "kk": "Орындаушылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тормозная",
+            "en": "Inhibitory",
+            "kk": "Тежеуші"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Побудительная",
+            "en": "Motivating",
+            "kk": "Түрткі болушы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ориентировочная",
+            "en": "Orienting",
+            "kk": "Бағдарлаушы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Оценочная",
+            "en": "Evaluative",
+            "kk": "Бағалаушы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 5, 6",
+          "units": [
+            "p5",
+            "p6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Инициирование действия на основе актуального внутреннего побуждения выражает функцию воли...",
+        "en": "Initiating an action on the basis of a current internal impulse expresses the... function of will.",
+        "kk": "Өзекті ішкі түрткі негізінде әрекетті бастау ерiктiң қандай қызметін білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исполнительскую",
+            "en": "Executive",
+            "kk": "Орындаушылық қызметін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Оценочную",
+            "en": "Evaluative",
+            "kk": "Бағалаушы қызметін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Тормозную",
+            "en": "Inhibitory",
+            "kk": "Тежеуші қызметін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Побудительную",
+            "en": "Motivating",
+            "kk": "Түрткі болушы қызметін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ориентировочную",
+            "en": "Orienting",
+            "kk": "Бағдарлаушы қызметін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 5",
+          "units": [
+            "p5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения, характеризующие волевую регуляцию:",
+        "en": "Statements that characterize volitional regulation:",
+        "kk": "Ерікті реттеуді сипаттайтын тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сводится только к увеличению активности",
+            "en": "It is reduced solely to an increase in activity",
+            "kk": "Тек белсенділікті арттыруға келтіріледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Полностью независима от убеждений",
+            "en": "It is completely independent of convictions",
+            "kk": "Сенімдерден толық тәуелсіз"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключает торможение значимых побуждений",
+            "en": "It excludes the inhibition of significant drives",
+            "kk": "Маңызды түрткілерді тежеуді жоққа шығарады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Позволяет усиливать одни мотивы и сдерживать другие",
+            "en": "It makes it possible to strengthen some motives and restrain others",
+            "kk": "Бір мотивтерді күшейтуге, екіншілерін тежеуге мүмкіндік береді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Объединяет побудительную и тормозную функции",
+            "en": "It unites the motivating and inhibitory functions",
+            "kk": "Түрткі болушы және тежеуші қызметтерді біріктіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 4, 6, 7",
+          "units": [
+            "p4",
+            "p6",
+            "p7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой общий недостаток избалованности и чрезмерного подавления ребёнка препятствует развитию воли?",
+        "en": "What shortcoming do spoiling and excessive suppression of a child have in common that hinders the development of will?",
+        "kk": "Баланы еркелетудің және шамадан тыс басып-жаншудың ерік дамуына кедергі келтіретін қандай ортақ кемшілігі бар?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отсутствие практики самостоятельного решения и усилия",
+            "en": "A lack of practice in making decisions and exerting effort independently",
+            "kk": "Өз бетінше шешім қабылдау мен күш салу тәжірибесінің болмауы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Повышение разностной чувствительности",
+            "en": "Heightened difference sensitivity",
+            "kk": "Айырымдық сезімталдықтың артуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Избыточность самостоятельной ответственности",
+            "en": "An excess of independent responsibility",
+            "kk": "Өз бетінше жауапкершіліктің шамадан тыс болуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Преобладание послепроизвольного внимания",
+            "en": "A predominance of post-voluntary attention",
+            "kk": "Ерікті кейінгі зейіннің басым болуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Слишком частое объяснение смысла требований",
+            "en": "Explaining the meaning of demands too often",
+            "kk": "Талаптардың мағынасын тым жиі түсіндіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 9, 10",
+          "units": [
+            "p9",
+            "p10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой способ воспитания непосредственно поддерживает развитие воли?",
+        "en": "Which method of upbringing directly supports the development of will?",
+        "kk": "Тәрбиенің қандай тәсілі ерік дамуын тікелей қолдайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Немедленно исполнять каждое желание",
+            "en": "Fulfilling every wish immediately",
+            "kk": "Әрбір тілекті дереу орындау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Заранее выполнить за ребёнка трудную часть",
+            "en": "Doing the difficult part for the child in advance",
+            "kk": "Баланың орнына қиын бөлігін алдын ала орындау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Неукоснительно решать за ребёнка любые вопросы",
+            "en": "Unfailingly deciding any questions for the child",
+            "kk": "Баланың орнына кез келген мәселені қатаң түрде шешу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключить задания с преодолимыми трудностями",
+            "en": "Excluding tasks with surmountable difficulties",
+            "kk": "Жеңуге болатын қиындықтары бар тапсырмаларды шығарып тастау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Помочь найти решение и самостоятельно осуществить его",
+            "en": "Helping the child find a solution and carry it out independently",
+            "kk": "Шешімді табуға көмектесу және оны өз бетінше жүзеге асыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 11",
+          "units": [
+            "p11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сличение ожидаемого и достигнутого результата волевого действия связано прежде всего с участием...",
+        "en": "Comparing the expected and the achieved result of a volitional action is connected primarily with the participation of...",
+        "kk": "Ерікті әрекеттің күтілген және қол жеткізілген нәтижесін салыстыру ең алдымен қандай құрылымдардың қатысуымен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теменных долей мозга",
+            "en": "The parietal lobes of the brain",
+            "kk": "Ми төбе бөліктерінің"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Височных долей мозга",
+            "en": "The temporal lobes of the brain",
+            "kk": "Ми самай бөліктерінің"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Затылочных долей мозга",
+            "en": "The occipital lobes of the brain",
+            "kk": "Ми шүйде бөліктерінің"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мозжечковых структур",
+            "en": "The cerebellar structures",
+            "kk": "Мишық құрылымдарының"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Лобных долей мозга",
+            "en": "The frontal lobes of the brain",
+            "kk": "Ми маңдай бөліктерінің"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое сочетание включает именно волевые качества?",
+        "en": "Which combination consists specifically of volitional qualities?",
+        "kk": "Қандай үйлесім дәл ерікті қасиеттерді қамтиды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Образность, сенсорность, эпизодичность",
+            "en": "Imagery, sensoriness, episodicity",
+            "kk": "Бейнелілік, сенсорлық, эпизодтық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Решительность, настойчивость, выдержка",
+            "en": "Resolve, persistence, self-control",
+            "kk": "Шешімділік, табандылық, төзімділік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Константность, предметность, целостность",
+            "en": "Constancy, objectivity, wholeness",
+            "kk": "Тұрақтылық, заттылық, тұтастық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Качество, интенсивность, длительность",
+            "en": "Quality, intensity, duration",
+            "kk": "Сапа, қарқындылық, ұзақтық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Экстраверсия, нейротизм, эндоморфность",
+            "en": "Extraversion, neuroticism, endomorphy",
+            "kk": "Экстраверсия, нейротизм, эндоморфтылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 8",
+          "units": [
+            "p8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "topic_id": 13,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения, различающие интеллектуалистическую и периферическую теории эмоций:",
+        "en": "Statements that distinguish the intellectualist and the peripheral theories of emotion:",
+        "kk": "Эмоциялардың интеллектуалистік және шеткі теорияларын ажырататын тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Оба подхода объясняли эмоции только подкреплением",
+            "en": "Both approaches explained emotions only by reinforcement",
+            "kk": "Екі тәсіл де эмоцияларды тек нығайтумен түсіндірді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гербарт связывал чувства с отношениями представлений",
+            "en": "Herbart linked feelings with the relations among mental representations",
+            "kk": "Гербарт сезімдерді елестер қатынастарымен байланыстырды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вундт считал эмоцию только реакцией периферического органа",
+            "en": "Wundt considered emotion only a reaction of a peripheral organ",
+            "kk": "Вундт эмоцияны тек шеткі мүшенің реакциясы деп санады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Джемс и Ланге отводили первичную роль телесным изменениям",
+            "en": "James and Lange assigned the primary role to bodily changes",
+            "kk": "Джемс пен Ланге алғашқы рөлді дене өзгерістеріне берді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Джемс полностью отрицал телесную обратную связь",
+            "en": "James completely denied bodily feedback",
+            "kk": "Джемс дене кері байланысын толық жоққа шығарды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 71, 72, 76, 77",
+          "units": [
+            "p71",
+            "p72",
+            "p76",
+            "p77"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автор труда «Выражение эмоций у человека и животных», развивавший эволюционное объяснение эмоций...",
+        "en": "The author of The Expression of the Emotions in Man and Animals, who developed an evolutionary explanation of emotions, was...",
+        "kk": "«Адам мен жануарлардағы эмоциялардың көрінісі» еңбегінің авторы, эмоцияларды эволюциялық тұрғыдан түсіндіруді дамытқан кім?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "С. Шехтер",
+            "en": "S. Schachter",
+            "kk": "С. Шехтер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Л. Фестингер",
+            "en": "L. Festinger",
+            "kk": "Л. Фестингер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "П. В. Симонов",
+            "en": "P. V. Simonov",
+            "kk": "П. В. Симонов"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ч. Дарвин",
+            "en": "C. Darwin",
+            "kk": "Ч. Дарвин"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "У. Джемс",
+            "en": "W. James",
+            "kk": "У. Джемс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 73, 74",
+          "units": [
+            "p73",
+            "p74"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какова последовательность возникновения эмоции в теории Джемса и Ланге?",
+        "en": "What is the sequence in which an emotion arises in the James-Lange theory?",
+        "kk": "Джемс пен Ланге теориясында эмоцияның пайда болу реттілігі қандай?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Стимул, одновременное переживание и телесная реакция",
+            "en": "Stimulus, simultaneous experience and bodily reaction",
+            "kk": "Тітіркендіргіш, бір мезгілде толғаныс және дене реакциясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Стимул, сопоставление ожиданий, устранение диссонанса",
+            "en": "Stimulus, comparison of expectations, elimination of dissonance",
+            "kk": "Тітіркендіргіш, күтулерді салыстыру, диссонансты жою"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Стимул, оценка потребности, возникновение намерения",
+            "en": "Stimulus, appraisal of a need, emergence of an intention",
+            "kk": "Тітіркендіргіш, қажеттілікті бағалау, ниеттің пайда болуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Стимул, эмоциональное переживание, телесные изменения",
+            "en": "Stimulus, emotional experience, bodily changes",
+            "kk": "Тітіркендіргіш, эмоциялық толғаныс, дене өзгерістері"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Стимул, телесные изменения, их переживание",
+            "en": "Stimulus, bodily changes, experience of them",
+            "kk": "Тітіркендіргіш, дене өзгерістері, оларды бастан кешіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 76, 77",
+          "units": [
+            "p76",
+            "p77"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое возражение У. Кэннон выдвигал против периферической теории эмоций?",
+        "en": "Which objection did W. Cannon raise against the peripheral theory of emotion?",
+        "kk": "У. Кэннон эмоциялардың шеткі теориясына қандай қарсылық білдірді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Разные эмоции всегда имеют уникальный висцеральный рисунок",
+            "en": "Different emotions always have a unique visceral pattern",
+            "kk": "Әртүрлі эмоциялардың әрдайым ерекше висцералдық бейнесі болады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Переживание возможно только после сознательного решения",
+            "en": "Experience is possible only after a conscious decision",
+            "kk": "Толғаныс тек саналы шешімнен кейін ғана мүмкін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сходные телесные изменения сопровождают разные эмоции",
+            "en": "Similar bodily changes accompany different emotions",
+            "kk": "Ұқсас дене өзгерістері әртүрлі эмоцияларға ілеседі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эмоциональное выражение не связано с организмом",
+            "en": "Emotional expression is unrelated to the organism",
+            "kk": "Эмоциялық көрініс организммен байланысты емес"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Органические изменения всегда полностью отсутствуют",
+            "en": "Organic changes are always completely absent",
+            "kk": "Органикалық өзгерістер әрдайым толығымен болмайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 78, 117, 118, 119",
+          "units": [
+            "p78",
+            "p117",
+            "p118",
+            "p119"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Возникновение эмоционального переживания и телесных изменений почти одновременно соответствует подходу...",
+        "en": "The occurrence of emotional experience and bodily changes almost simultaneously corresponds to the approach of...",
+        "kk": "Эмоциялық толғаныс пен дене өзгерістерінің дерлік бір мезгілде пайда болуы қай тәсілге сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Джемса и Ланге",
+            "en": "James and Lange",
+            "kk": "Джемс пен Лангенің тәсіліне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Кэннона и Барда",
+            "en": "Cannon and Bard",
+            "kk": "Кэннон мен Бардтың тәсіліне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Когнитивно-физиологическому подходу Шехтера",
+            "en": "Schachter's cognitive-physiological approach",
+            "kk": "Шехтердің когнитивті-физиологиялық тәсіліне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гербарта и Вундта",
+            "en": "Herbart and Wundt",
+            "kk": "Гербарт пен Вундттың тәсіліне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Линдсея и Хебба",
+            "en": "Lindsley and Hebb",
+            "kk": "Линдсей мен Хеббтің тәсіліне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 79, 80",
+          "units": [
+            "p79",
+            "p80"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия теорий эмоций.",
+        "en": "Indicate the correct correspondences between theories of emotion.",
+        "kk": "Эмоция теорияларының дұрыс сәйкестіктерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дарвин: приспособительное происхождение экспрессии",
+            "en": "Darwin: the adaptive origin of expression",
+            "kk": "Дарвин: экспрессияның бейімделушілік тегі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Фестингер: баланс телесных жидкостей",
+            "en": "Festinger: the balance of body fluids",
+            "kk": "Фестингер: дене сұйықтықтарының тепе-теңдігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Линдсей и Хебб: уровень нервной активации",
+            "en": "Lindsley and Hebb: the level of neural activation",
+            "kk": "Линдсей мен Хебб: жүйке белсенденуінің деңгейі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Шехтер: полное исключение оценки ситуации",
+            "en": "Schachter: complete exclusion of the appraisal of the situation",
+            "kk": "Шехтер: жағдайды бағалауды толық жоққа шығару"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Джемс и Ланге: переживание телесных изменений",
+            "en": "James and Lange: the experience of bodily changes",
+            "kk": "Джемс пен Ланге: дене өзгерістерін бастан кешіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 74, 77, 85",
+          "units": [
+            "p74",
+            "p77",
+            "p85"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "С ретикулярной формацией и уровнем активности нервной системы эмоциональные состояния связывает теория...",
+        "en": "Emotional states are linked with the reticular formation and the level of activity of the nervous system by the...",
+        "kk": "Эмоциялық күйлерді торлы түзіліммен (ретикулярлық формациямен) және жүйке жүйесінің белсенділік деңгейімен қай теория байланыстырады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Конституциональная Кречмера",
+            "en": "Constitutional theory of Kretschmer",
+            "kk": "Кречмердің конституциялық теориясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гуморальная Гиппократа",
+            "en": "Humoral theory of Hippocrates",
+            "kk": "Гиппократтың гуморальдық теориясы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ассоциативная Эббингауза",
+            "en": "Associative theory of Ebbinghaus",
+            "kk": "Эббингаузның ассоциативтік теориясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Двухфакторная Спирмена",
+            "en": "Two-factor theory of Spearman",
+            "kk": "Спирменнің екі факторлы теориясы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Активационная Линдсея и Хебба",
+            "en": "Activation theory of Lindsley and Hebb",
+            "kk": "Линдсей мен Хеббтің активациялық теориясы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 81, 85",
+          "units": [
+            "p81",
+            "p85"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое соотношение возбуждения и эффективности деятельности описано Д. О. Хеббом?",
+        "en": "Which relationship between arousal and the effectiveness of activity did D. O. Hebb describe?",
+        "kk": "Д. О. Хебб сипаттаған қозу мен әрекет тиімділігінің қандай арақатынасы?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Любое повышение возбуждения полностью блокирует деятельность",
+            "en": "Any increase in arousal completely blocks activity",
+            "kk": "Қозудың кез келген артуы әрекетті толығымен бөгейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Чем сильнее возбуждение, тем выше результат без ограничений",
+            "en": "The stronger the arousal, the better the result, without limit",
+            "kk": "Қозу неғұрлым күшті болса, нәтиже шектеусіз жоғары болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Уровень возбуждения не связан с выполнением задачи",
+            "en": "The level of arousal is unrelated to task performance",
+            "kk": "Қозу деңгейі тапсырманы орындаумен байланысты емес"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Чрезмерно слабое и сильное возбуждение могут снижать эффективность",
+            "en": "Excessively weak and excessively strong arousal can reduce effectiveness",
+            "kk": "Тым әлсіз және тым күшті қозу тиімділікті төмендетуі мүмкін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эффективность всегда максимальна при полном отсутствии возбуждения",
+            "en": "Effectiveness is always at its maximum when there is no arousal at all",
+            "kk": "Қозу толық болмағанда тиімділік әрдайым ең жоғары болады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 86",
+          "units": [
+            "p86"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Дискомфорт из-за психологически противоречивых сведений об объекте объясняется понятием...",
+        "en": "Discomfort caused by psychologically contradictory information about an object is explained by the concept of...",
+        "kk": "Нысан туралы психологиялық тұрғыдан қарама-қайшы мәліметтерден туындайтын жайсыздық қандай ұғыммен түсіндіріледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гуморального дисбаланса",
+            "en": "Humoral imbalance",
+            "kk": "Гуморальдық тепе-теңдіксіздік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Перцептивного изоморфизма",
+            "en": "Perceptual isomorphism",
+            "kk": "Перцептивті изоморфизм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Когнитивного диссонанса",
+            "en": "Cognitive dissonance",
+            "kk": "Когнитивті диссонанс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сенсорной адаптации",
+            "en": "Sensory adaptation",
+            "kk": "Сенсорлық бейімделу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Моторной инерции",
+            "en": "Motor inertia",
+            "kk": "Моторлық инерция"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 88, 89",
+          "units": [
+            "p88",
+            "p89"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Учёт телесного возбуждения вместе с субъективной оценкой ситуации характерен для теории эмоций...",
+        "en": "Taking bodily arousal into account together with a subjective appraisal of the situation is characteristic of the theory of emotion of...",
+        "kk": "Дене қозуын жағдайды субъективті бағалаумен бірге ескеру эмоцияның қай теориясына тән?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ч. Спирмена",
+            "en": "C. Spearman",
+            "kk": "Ч. Спирмен теориясына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "С. Шехтера",
+            "en": "S. Schachter",
+            "kk": "С. Шехтер теориясына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Э. Кречмера",
+            "en": "E. Kretschmer",
+            "kk": "Э. Кречмер теориясына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Т. Цигена",
+            "en": "T. Ziehen",
+            "kk": "Т. Циген теориясына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Д. Бродбента",
+            "en": "D. Broadbent",
+            "kk": "Д. Бродбент теориясына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 91",
+          "units": [
+            "p91"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "topic_id": 13,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные положения когнитивных теорий эмоций:",
+        "en": "Correct statements about cognitive theories of emotion:",
+        "kk": "Эмоциялардың когнитивті теорияларының дұрыс тұжырымдары:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Пересмотр ожиданий может уменьшать диссонанс",
+            "en": "Revising expectations can reduce dissonance",
+            "kk": "Күтулерді қайта қарау диссонансты азайтуы мүмкін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Потребность и доступная информация учитываются у Симонова",
+            "en": "Need and available information are taken into account in Simonov's theory",
+            "kk": "Симонов теориясында қажеттілік пен қолжетімді ақпарат ескеріледі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Контекст исключён из модели Шехтера",
+            "en": "Context is excluded from Schachter's model",
+            "kk": "Контекст Шехтер моделінен шығарылған"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Субъективная оценка может менять переживание",
+            "en": "A subjective appraisal can change the experience",
+            "kk": "Субъективті бағалау толғанысты өзгерте алады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Симонов объясняет эмоцию только телосложением",
+            "en": "Simonov explains emotion only by body build",
+            "kk": "Симонов эмоцияны тек дене бітімімен түсіндіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 89, 91, 97, 101, 102, 103",
+          "units": [
+            "p89",
+            "p91",
+            "p97",
+            "p101",
+            "p102",
+            "p103"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В информационной концепции П. В. Симонова существенна связь эмоции с...",
+        "en": "In P. V. Simonov's information theory, the essential link is between emotion and...",
+        "kk": "П. В. Симоновтың ақпараттық тұжырымдамасында эмоцияның немен байланысы маңызды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Пропорцией эндоморфного и мезоморфного компонентов",
+            "en": "The proportion of the endomorphic and mesomorphic components",
+            "kk": "Эндоморфты және мезоморфты компоненттердің пропорциясымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключительно количеством ранее повторённых реакций",
+            "en": "Exclusively the number of previously repeated reactions",
+            "kk": "Бұрын қайталанған реакциялардың санымен ғана"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только абсолютной силой физического раздражителя",
+            "en": "Only the absolute strength of a physical stimulus",
+            "kk": "Тек физикалық тітіркендіргіштің абсолюттік күшімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Актуальной потребностью и соотношением необходимой и наличной информации",
+            "en": "A current need and the ratio of necessary to available information",
+            "kk": "Өзекті қажеттілікпен және қажетті мен қолда бар ақпараттың арақатынасымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Неподвижной врождённой схемой эмоциональной экспрессии",
+            "en": "A fixed innate scheme of emotional expression",
+            "kk": "Эмоциялық экспрессияның қозғалмайтын туа біткен схемасымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 97, 101, 102, 103, 104",
+          "units": [
+            "p97",
+            "p101",
+            "p102",
+            "p103",
+            "p104"
+          ]
+        }
+      ]
+    }
+  ]
+}

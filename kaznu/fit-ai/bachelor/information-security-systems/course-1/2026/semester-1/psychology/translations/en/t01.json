@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 1,
+  "topic_name": "Subject, methods, development of the psyche, higher nervous activity and consciousness",
+  "questions": {
+    "1": {
+      "question": "The main method of psychology during the stage of the study of consciousness was considered to be...",
+      "options": {
+        "A": "Generalization of independent characteristics",
+        "B": "Measurement of unconditioned responses",
+        "C": "Modeling of group interaction",
+        "D": "Observation of motor skills",
+        "E": "Introspection with a description of experiences"
+      }
+    },
+    "2": {
+      "question": "Which limitation of early behaviorism made it difficult to explain different reactions to the same stimulus?",
+      "options": {
+        "A": "Rejection of the observation of behavior",
+        "B": "Predominance of the analysis of self-reports",
+        "C": "Study of unconscious motives",
+        "D": "Priority of the historical method",
+        "E": "Exclusion of internal drives from analysis"
+      }
+    },
+    "3": {
+      "question": "The psyche as a form of reflection is defined primarily as...",
+      "options": {
+        "A": "A subjective image of the objective world",
+        "B": "A set of conscious sensations",
+        "C": "A sum of inherited reflexes",
+        "D": "A system of acquired verbal designations",
+        "E": "An objective copy of the subjective world"
+      }
+    },
+    "4": {
+      "question": "A researcher takes part in the work of a team and records interactions according to a pre-drawn plan. This is...",
+      "options": {
+        "A": "Non-participant scientific observation",
+        "B": "Generalization of independent characteristics",
+        "C": "A formative experiment",
+        "D": "Participant scientific observation",
+        "E": "Participant everyday observation"
+      }
+    },
+    "5": {
+      "question": "A study not only records a quality but deliberately develops it by changing conditions. This is a(n)... experiment.",
+      "options": {
+        "A": "Formative",
+        "B": "Control",
+        "C": "Comparative",
+        "D": "Pilot",
+        "E": "Ascertaining"
+      }
+    },
+    "6": {
+      "question": "Comparing the characterizations of one student written by several teachers independently of one another is...",
+      "options": {
+        "A": "Participant observation",
+        "B": "An individual interview",
+        "C": "Generalization of independent characteristics",
+        "D": "Projective testing",
+        "E": "Analysis of the products of activity"
+      }
+    },
+    "7": {
+      "question": "Studying the features of thinking from drawings made by a person belongs to the method of...",
+      "options": {
+        "A": "Analysis of the products of activity",
+        "B": "The ascertaining experiment",
+        "C": "Generalization of independent characteristics",
+        "D": "Non-participant observation",
+        "E": "The psychological conversation"
+      }
+    },
+    "8": {
+      "question": "Features that make it possible to distinguish an experiment from scientific observation:",
+      "options": {
+        "A": "An experiment necessarily requires a laboratory",
+        "B": "Observation excludes recording of results",
+        "C": "An experiment involves active change of conditions by the researcher",
+        "D": "Scientific observation excludes a preliminary plan",
+        "E": "Observation studies the course of phenomena without intervention"
+      }
+    },
+    "9": {
+      "question": "To reveal the nature of a mental function, its development is traced from elementary forms to complex ones. The method used is the... method.",
+      "options": {
+        "A": "Sociometric",
+        "B": "Projective",
+        "C": "Psychometric",
+        "D": "Historical",
+        "E": "Introspective"
+      }
+    },
+    "10": {
+      "question": "Identify the statements that reflect real links between psychology and other sciences.",
+      "options": {
+        "A": "Physiology exhausts the content of psychology",
+        "B": "Social history does not influence the psyche",
+        "C": "Mental and somatic states influence each other",
+        "D": "The design of technology takes human capabilities into account",
+        "E": "Sign systems participate in the development of higher functions"
+      }
+    },
+    "11": {
+      "question": "In the activity-based explanation of the evolution of the psyche, the emergence of a new form of reflection is immediately preceded by...",
+      "options": {
+        "A": "The appearance of verbal generalization",
+        "B": "The completion of biological evolution",
+        "C": "The formation of self-awareness",
+        "D": "The disappearance of hereditary programs",
+        "E": "An increase in the complexity of activity"
+      }
+    },
+    "12": {
+      "question": "Why does a higher position of an animal in zoological taxonomy not guarantee a more developed psyche?",
+      "options": {
+        "A": "All species have the same level of reflection",
+        "B": "The psyche is determined by the number of conditioned reflexes",
+        "C": "The environment determines the psyche independently of the organism",
+        "D": "Mental development also depends on ecology and activity",
+        "E": "Biological development is unrelated to morphology"
+      }
+    },
+    "13": {
+      "question": "The reflection of individual properties of stimuli corresponds to the stage of...",
+      "options": {
+        "A": "Object consciousness",
+        "B": "The perceptual psyche",
+        "C": "Intellect",
+        "D": "The elementary sensory psyche",
+        "E": "Verbal generalization"
+      }
+    },
+    "14": {
+      "question": "How does the stage of intellect differ from the perceptual stage in A. N. Leontiev's classification?",
+      "options": {
+        "A": "By the reflection of relations between objects",
+        "B": "By the appearance of inherited reactions",
+        "C": "By the emergence of a holistic image of an object",
+        "D": "By the discrimination of separate qualities of a stimulus",
+        "E": "By the first appearance of sensitivity"
+      }
+    },
+    "15": {
+      "question": "Characteristics that distinguish a skill from an instinct:",
+      "options": {
+        "A": "It is transmitted as a ready-made hereditary program",
+        "B": "It necessarily includes verbal generalization",
+        "C": "It does not change with repetition of the action",
+        "D": "It is acquired in individual experience",
+        "E": "It is consolidated through practice"
+      }
+    },
+    "16": {
+      "question": "Which statement is consistent with the systemic organization of higher mental functions?",
+      "options": {
+        "A": "The localization of a symptom is identical to the localization of the function",
+        "B": "Participation of the cortex excludes participation of brainstem structures",
+        "C": "The speech function is provided by the interaction of several brain regions",
+        "D": "Each function is wholly contained in a single cortical center",
+        "E": "Subcortical structures do not participate in complex functions"
+      }
+    },
+    "17": {
+      "question": "The specific stimulus of the second signal system is...",
+      "options": {
+        "A": "A biologically significant smell",
+        "B": "A sound regardless of its meaning",
+        "C": "A change in body position",
+        "D": "The direct action of light",
+        "E": "A word in its generalizing meaning"
+      }
+    },
+    "18": {
+      "question": "A child uses one word to generalize several varieties of an object. What indicates a transition to the second signal system?",
+      "options": {
+        "A": "The reaction is consolidated by reinforcement",
+        "B": "The word is combined with a single procedure",
+        "C": "A sound evokes an orienting reaction",
+        "D": "The word denotes a concept",
+        "E": "Intonation acquires a conditioned meaning"
+      }
+    },
+    "19": {
+      "question": "In Pavlov's typology, the predominance of sensory images over verbal generalizations corresponds to the... type.",
+      "options": {
+        "A": "Thinking",
+        "B": "Intermediate",
+        "C": "Artistic",
+        "D": "Weak inhibitory",
+        "E": "Strong inert"
+      }
+    },
+    "20": {
+      "question": "Properties of nervous processes that I. P. Pavlov took as the basis of the typology of higher nervous activity:",
+      "options": {
+        "A": "Lability",
+        "B": "Mobility",
+        "C": "Balance",
+        "D": "Strength",
+        "E": "Dynamism"
+      }
+    },
+    "21": {
+      "question": "What distinguishes consciousness as a socio-historical form of the psyche?",
+      "options": {
+        "A": "Reflection of individual biologically significant properties",
+        "B": "Preservation of traces of individual experience",
+        "C": "Regulation of behavior by an immediate signal",
+        "D": "Verbal mediation and purposeful transformation of the world",
+        "E": "Formation of conditioned connections with the environment"
+      }
+    },
+    "22": {
+      "question": "Characteristics that belong to consciousness:",
+      "options": {
+        "A": "Differentiation of subject and object",
+        "B": "Regulation exclusively by present stimuli",
+        "C": "Provision of goal-directed activity",
+        "D": "Emotional-evaluative attitudes",
+        "E": "Absence of mediation by speech"
+      }
+    },
+    "23": {
+      "question": "An experienced driver is aware of the route but performs the movements automatically. This shows that...",
+      "options": {
+        "A": "An automatic action is inaccessible to control",
+        "B": "Conscious activity excludes unconscious operations",
+        "C": "A skill turns a goal into an unconditioned reflex",
+        "D": "Automatization eliminates the conscious regulation of activity",
+        "E": "A conscious goal is compatible with automatized ways of acting"
+      }
+    },
+    "24": {
+      "question": "The speed with which excitation is replaced by inhibition characterizes the... of nervous processes.",
+      "options": {
+        "A": "Strength",
+        "B": "Balance",
+        "C": "Dynamism",
+        "D": "Lability",
+        "E": "Mobility"
+      }
+    },
+    "25": {
+      "question": "Which combination of features corresponds to a high level of conscious regulation?",
+      "options": {
+        "A": "Emotional intensity and stereotyped behavior",
+        "B": "Stimulus strength and involuntariness of response",
+        "C": "Number of skills and absence of control",
+        "D": "Vividness of sensations and speed of unconditioned reactions",
+        "E": "A socially significant goal and control over the ways of acting"
+      }
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 7,
+  "topic_name": "The State and Civil Society",
+  "questions": {
+    "141": {
+      "question": "State public power is distinguished from tribal self-government by...",
+      "options": {
+        "A": "The existence of public sanctions",
+        "B": "The use of collective decisions",
+        "C": "The existence of common rules of conduct",
+        "D": "Recognition of the authority of elders",
+        "E": "The separation of a professional administrative apparatus"
+      }
+    },
+    "142": {
+      "question": "The territorial principle of state organization means...",
+      "options": {
+        "A": "The extension of jurisdiction over a defined space",
+        "B": "The possibility of a state having no permanent population",
+        "C": "The right of each region to repeal common laws independently",
+        "D": "The union of only persons of common origin",
+        "E": "The mandatory coincidence of borders with a single religious confession"
+      }
+    },
+    "143": {
+      "question": "The sovereignty of a state expresses...",
+      "options": {
+        "A": "The supremacy of power within its territory",
+        "B": "The immutability of state territory",
+        "C": "The economic independence of every citizen",
+        "D": "The precedence of the executive bodies over the court",
+        "E": "The moral authority of the ruling political leader"
+      }
+    },
+    "144": {
+      "question": "The state's monopoly on legitimate coercion means...",
+      "options": {
+        "A": "The impossibility of voluntary compliance with decisions",
+        "B": "The actual absence of any non-state violence",
+        "C": "The mandatory use of force for every violation",
+        "D": "The exclusive right to authorize the lawful use of force",
+        "E": "The exemption of the security forces from the rule of law"
+      }
+    },
+    "145": {
+      "question": "The financing of the apparatus and of state functions is connected with the state's right to...",
+      "options": {
+        "A": "Set a single wage for all citizens",
+        "B": "Replace all forms of private credit",
+        "C": "Levy taxes and mandatory charges",
+        "D": "Establish membership fees for a voluntary association",
+        "E": "Obtain income exclusively from donations"
+      }
+    },
+    "146": {
+      "question": "Correct correspondences between a theory of the origin of the state and its explanatory factor:",
+      "options": {
+        "A": "Theological: divine power",
+        "B": "Materialist: socio-economic changes",
+        "C": "Psychological: features of the human psyche",
+        "D": "Organic: a conscious agreement of equal participants",
+        "E": "Contractual: the development of the patriarchal family"
+      }
+    },
+    "147": {
+      "question": "The formation of the state is explained by the subjugation of one community by another. Which theory is being used?",
+      "options": {
+        "A": "Contract theory",
+        "B": "Theological theory",
+        "C": "Patriarchal theory",
+        "D": "Theory of violence",
+        "E": "Psychological theory"
+      }
+    },
+    "148": {
+      "question": "The functions of the state are...",
+      "options": {
+        "A": "Types of personal liability of civil servants",
+        "B": "Exclusively forms of state coercion",
+        "C": "The main directions in which state tasks are addressed",
+        "D": "Ways of recruiting the ruling class",
+        "E": "Only the competences of the supreme legislative body"
+      }
+    },
+    "149": {
+      "question": "Changing tax rates to stimulate investment expresses primarily the ... function of the state.",
+      "options": {
+        "A": "Economic",
+        "B": "Defense",
+        "C": "Law enforcement",
+        "D": "Social",
+        "E": "Cultural and educational"
+      }
+    },
+    "150": {
+      "question": "Support for the unemployed and the provision of social guarantees characterize the ... function.",
+      "options": {
+        "A": "Constituent",
+        "B": "Economic",
+        "C": "Foreign policy",
+        "D": "Judicial",
+        "E": "Social"
+      }
+    },
+    "151": {
+      "question": "The external functions of the state include:",
+      "options": {
+        "A": "Protection of internal law and order",
+        "B": "Regulation of the national labor market",
+        "C": "Social insurance of citizens",
+        "D": "Defense against external threats",
+        "E": "Mutually beneficial interstate cooperation"
+      }
+    },
+    "152": {
+      "question": "The defining feature of a parliamentary republic is...",
+      "options": {
+        "A": "The formation of the cabinet by the monarch while it remains politically unaccountable to parliament",
+        "B": "The formation of the government on a parliamentary basis and its accountability to parliament",
+        "C": "The extra-parliamentary formation of the cabinet while it is accountable to the president",
+        "D": "The independent election of the president, to whom the head of government is subordinate",
+        "E": "The dual accountability of the government to the president and parliament"
+      }
+    },
+    "153": {
+      "question": "A classical presidential republic is characterized by...",
+      "options": {
+        "A": "The cabinet's tenure depending on the current confidence of parliament",
+        "B": "The formation of the government only by the upper chamber",
+        "C": "The president's combination of leadership of the state and executive power",
+        "D": "The absence of an independent executive power",
+        "E": "The hereditary character of the presidential office"
+      }
+    },
+    "154": {
+      "question": "A strong elected president coexists with a government accountable to parliament. This is a typical feature of...",
+      "options": {
+        "A": "A classical presidential republic",
+        "B": "A confederation",
+        "C": "A mixed (semi-presidential) republic",
+        "D": "A dualist monarchy",
+        "E": "A parliamentary monarchy"
+      }
+    },
+    "155": {
+      "question": "The form of state structure characterizes primarily...",
+      "options": {
+        "A": "The methods of interaction between a leader and voters",
+        "B": "The degree of ideological control over citizens",
+        "C": "The balance of parties in a governing coalition",
+        "D": "The procedure for filling the office of head of state",
+        "E": "The relationship between the central authority and the territorial parts"
+      }
+    },
+    "156": {
+      "question": "Which difference between a federation and a confederation is the defining one?",
+      "options": {
+        "A": "A federation is a single state, whereas a confederation unites sovereign states",
+        "B": "A federation has no common bodies, whereas a confederation has only local bodies",
+        "C": "In a federation there is no distribution of competence between the center and the parts",
+        "D": "A federation is always monarchical, whereas a confederation is always republican",
+        "E": "A federation excludes a constitution, whereas a confederation presupposes a single constitution"
+      }
+    },
+    "157": {
+      "question": "Why does the existence of local self-government not in itself turn a state into a federation?",
+      "options": {
+        "A": "Unitarity excludes any local elections",
+        "B": "A federation is defined exclusively by the number of regions",
+        "C": "Self-government is compatible with a unitary organization",
+        "D": "Self-government always means separate state sovereignty",
+        "E": "Under any form, local bodies are subject to foreign jurisdiction"
+      }
+    },
+    "158": {
+      "question": "Civil society in the broad sense encompasses...",
+      "options": {
+        "A": "Only registered political parties",
+        "B": "Only state social service institutions",
+        "C": "Social relations that are autonomous from direct state administration",
+        "D": "Exclusively associations of professional politicians",
+        "E": "The entire body of the state's orders of authority"
+      }
+    },
+    "159": {
+      "question": "Conditions that promote the development of civil society:",
+      "options": {
+        "A": "The priority of state duties over autonomous civil rights",
+        "B": "The development of a public culture",
+        "C": "The subordination of public associations to the current orders of executive bodies",
+        "D": "The transformation of subjects into free citizens",
+        "E": "The rule-of-law character of the state"
+      }
+    },
+    "160": {
+      "question": "The organizational and legal component of the rule-of-law state is expressed in...",
+      "options": {
+        "A": "The unity of political ideology",
+        "B": "The existence of common cultural traditions",
+        "C": "The predominance of the public sector",
+        "D": "The hereditary transfer of offices",
+        "E": "The separation of state power"
+      }
+    },
+    "161": {
+      "question": "The government restricts a right by citing a subordinate act that contradicts the constitution. Which principle has been directly violated?",
+      "options": {
+        "A": "The territorial integrity of the state",
+        "B": "Foreign policy neutrality",
+        "C": "The proportionality of party representation",
+        "D": "The hierarchy of legal acts and the supremacy of the constitution",
+        "E": "The voluntary nature of membership in a public association"
+      }
+    },
+    "162": {
+      "question": "The welfare state supplements the rule-of-law state primarily by...",
+      "options": {
+        "A": "Eliminating legal guarantees of individual freedom",
+        "B": "Creating the material conditions for a decent life and social protection",
+        "C": "Replacing civil rights with mandatory party membership",
+        "D": "Transferring legislation exclusively to trade unions",
+        "E": "Abandoning the redistribution of national income"
+      }
+    },
+    "163": {
+      "question": "Indicate the measures that correspond to the activity of a welfare state.",
+      "options": {
+        "A": "Regulating employment without recognizing the worker's right to judicial protection",
+        "B": "Granting social benefits only depending on party loyalty",
+        "C": "Developing accessible education",
+        "D": "Social insurance",
+        "E": "Support for the family and motherhood"
+      }
+    },
+    "164": {
+      "question": "Correct statements about the rule-of-law state and the welfare state:",
+      "options": {
+        "A": "Having extensive legislation is in itself sufficient for a rule-of-law state",
+        "B": "Social obligations give the executive branch priority over constitutional limits",
+        "C": "Rights require real guarantees of protection",
+        "D": "The formal enshrinement of a right is equivalent to providing material and judicial guarantees",
+        "E": "Social goals are implemented in legal forms"
+      }
+    },
+    "165": {
+      "question": "The expansion of independent associations is accompanied by stronger judicial guarantees. Which conclusion is best founded?",
+      "options": {
+        "A": "Judicial protection makes public oversight of the authorities redundant",
+        "B": "The expansion of civil associations replaces the constitutional separation of state functions",
+        "C": "The rule-of-law state presupposes that every civic initiative is cleared with the apparatus",
+        "D": "Growing autonomy of associations transfers state sovereignty to their leaders",
+        "E": "The development of civil society can strengthen the rule-of-law state"
+      }
+    }
+  }
+}

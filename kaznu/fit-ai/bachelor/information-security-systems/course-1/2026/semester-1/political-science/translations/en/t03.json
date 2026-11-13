@@ -1,0 +1,158 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 3,
+  "topic_name": "Politics in the System of Social Life",
+  "questions": {
+    "56": {
+      "question": "The explanation of politics primarily by climate and the geographical environment belongs to the ... paradigm.",
+      "options": {
+        "A": "Theological",
+        "B": "Sociological",
+        "C": "Naturalistic",
+        "D": "Normative-value",
+        "E": "Institutional"
+      }
+    },
+    "57": {
+      "question": "The interpretation of state power as an expression of the divine will characterizes the ... paradigm.",
+      "options": {
+        "A": "Naturalistic",
+        "B": "Theological",
+        "C": "Sociocultural",
+        "D": "Behavioralist",
+        "E": "Rational-critical"
+      }
+    },
+    "58": {
+      "question": "Which approach links political behavior primarily with individual motives, character and unconscious mechanisms?",
+      "options": {
+        "A": "Psychological",
+        "B": "Structural-functional",
+        "C": "Legal-institutional",
+        "D": "Geopolitical",
+        "E": "Marxist economic"
+      }
+    },
+    "59": {
+      "question": "The \"geographical pivot of history\" is associated with the geopolitical ideas of...",
+      "options": {
+        "A": "Karl Deutsch",
+        "B": "Halford Mackinder",
+        "C": "David Easton",
+        "D": "Harold Lasswell",
+        "E": "Gabriel Almond"
+      }
+    },
+    "60": {
+      "question": "The relationship between politics and the economy is most accurately described as...",
+      "options": {
+        "A": "The unconditional subordination of the economy to any political will",
+        "B": "The identity of economic and political relations",
+        "C": "The independence of political decisions from production",
+        "D": "Mutual influence, with material constraints on politics",
+        "E": "The one-sided determination of politics by current prices"
+      }
+    },
+    "61": {
+      "question": "When a redistribution program ignores production capacities and causes an economic crisis, the following constraint on politics manifests itself:",
+      "options": {
+        "A": "The state's lack of distributive functions",
+        "B": "The impossibility of political influence on distribution",
+        "C": "The inevitability of direct democracy during an economic downturn",
+        "D": "The dependence of decisions on the material conditions of their implementation",
+        "E": "The fundamental independence of law from the economy"
+      }
+    },
+    "62": {
+      "question": "Compared with interpersonal morality, political relations directly express primarily...",
+      "options": {
+        "A": "Religious asceticism",
+        "B": "Individual virtue",
+        "C": "Personal sympathies",
+        "D": "Group interests",
+        "E": "Aesthetic preferences"
+      }
+    },
+    "63": {
+      "question": "A particular tension between political decisions and moral requirements is created by...",
+      "options": {
+        "A": "The possibility of using coercion",
+        "B": "The impossibility of discussing the consequences of decisions",
+        "C": "The complete coincidence of law with moral judgment",
+        "D": "Politics having no social goals",
+        "E": "The incompatibility of morality with group interests in general"
+      }
+    },
+    "64": {
+      "question": "With regard to political domination, the legal sphere directly establishes...",
+      "options": {
+        "A": "The moral impeccability of officials",
+        "B": "The psychological motives of every voter",
+        "C": "The economic efficiency of every decision",
+        "D": "The basic principles of its organization in legislation",
+        "E": "The immutability of the composition of the ruling elite"
+      }
+    },
+    "65": {
+      "question": "The law sets limits on the activity of both the government and the opposition. Which relationship between politics and law does this illustrate?",
+      "options": {
+        "A": "The legal definition of the boundaries of political activity",
+        "B": "The coincidence of legality with the popularity of the authorities",
+        "C": "The substitution of economic interests for political ones",
+        "D": "The independence of power from normative restrictions",
+        "E": "The elimination of political conflict by a legal act"
+      }
+    },
+    "66": {
+      "question": "Explanations that belong to the naturalistic paradigm:",
+      "options": {
+        "A": "The link between the political order and climate",
+        "B": "Explaining behavior by innate biological properties",
+        "C": "Explaining decisions by the distribution of competence among bodies",
+        "D": "Explaining institutions by citizens' recognition of their normative value",
+        "E": "Deriving order from the prevailing class relations"
+      }
+    },
+    "67": {
+      "question": "Statements that characterize the normative-value explanation of politics:",
+      "options": {
+        "A": "Political behavior is linked with value preferences",
+        "B": "Political institutions are assessed by the degree of their conformity to the natural hierarchy",
+        "C": "A preference for a leader is explained by a set of inherited physiological traits",
+        "D": "Sociocultural characteristics influence the choice of political values",
+        "E": "Values are regarded as a consequence of the geographical position of the state"
+      }
+    },
+    "68": {
+      "question": "Specify the instruments through which politics influences production and distribution.",
+      "options": {
+        "A": "Changing forms of ownership",
+        "B": "Setting political goals independently of production potential",
+        "C": "Changing legal norms",
+        "D": "Replacing economic incentives with a mere change in political rhetoric",
+        "E": "Changing the mechanisms that manage distribution"
+      }
+    },
+    "69": {
+      "question": "Well-founded conclusions about politics, morality and law:",
+      "options": {
+        "A": "Legal permissibility does not exhaust the moral assessment of a decision",
+        "B": "Coercion can give rise to a contradiction between politics and morality",
+        "C": "Law sets constraints on the opposition, whereas the ruling group acts on grounds of expediency",
+        "D": "The legislative formalization of a decision settles the question of its moral justification",
+        "E": "The use of coercion allows a political decision to be removed from legal assessment"
+      }
+    },
+    "70": {
+      "question": "Reducing all of politics to a single factor is methodologically insufficient because...",
+      "options": {
+        "A": "A description of cultural values replaces the analysis of the distribution of power resources",
+        "B": "A factor that explains the emergence of institutions also explains individual behavior with sufficient accuracy",
+        "C": "The legal order determines political behavior regardless of the participants' motives",
+        "D": "Political processes are connected with several interdependent spheres",
+        "E": "Established economic links make it possible to disregard the political mechanisms of their implementation"
+      }
+    }
+  }
+}

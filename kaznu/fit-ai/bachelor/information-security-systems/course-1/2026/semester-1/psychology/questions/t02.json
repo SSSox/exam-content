@@ -1,0 +1,2243 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 26,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Непосредственное отражение отдельного свойства предмета при его воздействии на орган чувств называется...",
+        "en": "The direct reflection of an individual property of an object when it acts on a sense organ is called...",
+        "kk": "Заттың жеке қасиетінің сезім мүшесіне әсер ету кезіндегі тікелей шағылысуы қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Восприятием",
+            "en": "Perception",
+            "kk": "Қабылдау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ощущением",
+            "en": "Sensation",
+            "kk": "Түйсік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Узнаванием",
+            "en": "Recognition",
+            "kk": "Тану"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Представлением",
+            "en": "Mental representation",
+            "kk": "Елес"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Воображением",
+            "en": "Imagination",
+            "kk": "Қиял"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 5",
+          "units": [
+            "p5"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "B",
+            "accept": {
+              "ru": [
+                "ощущение"
+              ],
+              "en": [
+                "sensation"
+              ],
+              "kk": [
+                "түйсік"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Признак, отличающий слуховое ощущение от вкусового, выражает его...",
+        "en": "The feature that distinguishes an auditory sensation from a gustatory one expresses its...",
+        "kk": "Есту түйсігін дәм түйсігінен ажырататын белгі оның қандай қасиетін білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Разностный порог",
+            "en": "Difference threshold",
+            "kk": "Айырым табалдырығын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интенсивность",
+            "en": "Intensity",
+            "kk": "Қарқындылығын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Чувственный тон",
+            "en": "Hedonic tone",
+            "kk": "Сезімдік тонын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Длительность",
+            "en": "Duration",
+            "kk": "Ұзақтығын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Качество",
+            "en": "Quality",
+            "kk": "Сапасын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "E",
+            "accept": {
+              "ru": [
+                "качество"
+              ],
+              "en": [
+                "quality"
+              ],
+              "kk": [
+                "сапасы",
+                "сапа"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одинаковый по силе запах одному человеку приятен, другому неприятен. Различается прежде всего...",
+        "en": "An odor of equal strength is pleasant to one person and unpleasant to another. What differs primarily is the...",
+        "kk": "Күші бірдей иіс бір адамға жағымды, екіншісіне жағымсыз. Түйсіктің қандай қасиеті ең алдымен ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Абсолютная чувствительность",
+            "en": "Absolute sensitivity",
+            "kk": "Абсолюттік сезімталдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Чувственный тон",
+            "en": "Hedonic tone",
+            "kk": "Сезімдік тон"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Латентный период",
+            "en": "Latent period",
+            "kk": "Жасырын кезең"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Пространственная локализация",
+            "en": "Spatial localization",
+            "kk": "Кеңістіктік локализация"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сенсорная модальность",
+            "en": "Sensory modality",
+            "kk": "Сенсорлық модальділік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "free_input": {
+        "question": {
+          "ru": "Одинаковый по силе запах одному человеку приятен, другому неприятен. Какое свойство ощущения различается прежде всего?",
+          "en": "An odor of equal strength is pleasant to one person and unpleasant to another. Which property of sensation differs primarily?",
+          "kk": "Күші бірдей иіс бір адамға жағымды, екіншісіне жағымсыз. Түйсіктің қандай қасиеті ең алдымен ерекшеленеді?"
+        },
+        "answers": [
+          {
+            "for": "B",
+            "accept": {
+              "ru": [
+                "чувственный тон",
+                "эмоциональный тон"
+              ],
+              "en": [
+                "hedonic tone",
+                "emotional tone",
+                "affective tone",
+                "feeling tone"
+              ],
+              "kk": [
+                "сезімдік тон",
+                "эмоциялық тон",
+                "түйсіктің сезімдік реңкі"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Звенья, входящие в состав анализатора:",
+        "en": "Components that make up an analyzer:",
+        "kk": "Анализатордың құрамына кіретін буындар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Периферический двигательный нейрон",
+            "en": "A peripheral motor neuron",
+            "kk": "Шеткі қозғалтқыш нейрон"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Периферический рецептор",
+            "en": "A peripheral receptor",
+            "kk": "Шеткі рецептор"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эффекторная мышца",
+            "en": "An effector muscle",
+            "kk": "Эффекторлық бұлшықет"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Афферентный проводящий путь",
+            "en": "An afferent conducting pathway",
+            "kk": "Афферентті өткізгіш жол"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Центральный корковый отдел",
+            "en": "A central cortical section",
+            "kk": "Орталық қыртыстық бөлім"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 8, 9, 10",
+          "units": [
+            "p8",
+            "p9",
+            "p10"
+          ]
+        }
+      ],
+      "free_input": {
+        "question": {
+          "ru": "Назовите три звена, входящие в состав анализатора.",
+          "en": "Name the three components that make up an analyzer.",
+          "kk": "Анализатордың құрамына кіретін үш буынды атаңыз."
+        },
+        "answers": [
+          {
+            "for": "B",
+            "accept": {
+              "ru": [
+                "рецептор",
+                "периферический рецептор",
+                "периферический отдел",
+                "рецепторный отдел"
+              ],
+              "en": [
+                "receptor",
+                "peripheral receptor",
+                "peripheral section",
+                "receptor section"
+              ],
+              "kk": [
+                "рецептор",
+                "шеткі рецептор",
+                "шеткі бөлім",
+                "рецепторлық бөлім"
+              ]
+            }
+          },
+          {
+            "for": "D",
+            "accept": {
+              "ru": [
+                "проводящий путь",
+                "афферентный проводящий путь",
+                "афферентный путь",
+                "проводниковый отдел",
+                "проводящие пути"
+              ],
+              "en": [
+                "conducting pathway",
+                "afferent pathway",
+                "afferent conducting pathway",
+                "conductive section",
+                "afferent nerve"
+              ],
+              "kk": [
+                "өткізгіш жол",
+                "афферентті өткізгіш жол",
+                "афферентті жол",
+                "өткізгіш бөлім",
+                "өткізгіш жолдар"
+              ]
+            }
+          },
+          {
+            "for": "E",
+            "accept": {
+              "ru": [
+                "центральный отдел",
+                "корковый отдел",
+                "центральный корковый отдел",
+                "корковый центр"
+              ],
+              "en": [
+                "central section",
+                "cortical section",
+                "central cortical section",
+                "cortical center",
+                "cortical area"
+              ],
+              "kk": [
+                "орталық бөлім",
+                "қыртыстық бөлім",
+                "орталық қыртыстық бөлім",
+                "қыртыстық орталық"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Повреждение афферентного пути прежде всего нарушает...",
+        "en": "Damage to an afferent pathway primarily disrupts...",
+        "kk": "Афферентті жолдың зақымдалуы ең алдымен нені бұзады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Преобразование энергии раздражителя в рецепторе",
+            "en": "The transformation of stimulus energy in the receptor",
+            "kk": "Тітіркендіргіш энергиясының рецепторда түрленуін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Формирование двигательного ответа мышцей",
+            "en": "The formation of a motor response by the muscle",
+            "kk": "Бұлшықеттің қозғалыстық жауабының қалыптасуын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Корковое сопоставление сенсорных сигналов",
+            "en": "The cortical comparison of sensory signals",
+            "kk": "Сенсорлық сигналдардың қыртыста салыстырылуын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Передачу команды от центра к эффектору",
+            "en": "The transmission of a command from the center to the effector",
+            "kk": "Орталықтан эффекторға команданың берілуін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Передачу возбуждения от рецептора к центру",
+            "en": "The transmission of excitation from the receptor to the center",
+            "kk": "Қозудың рецептордан орталыққа берілуін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 9, 10",
+          "units": [
+            "p9",
+            "p10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Центральный отдел зрительного анализатора расположен преимущественно в долях...",
+        "en": "The central section of the visual analyzer is located mainly in the... lobes.",
+        "kk": "Көру анализаторының орталық бөлімі негізінен қай бөліктерде орналасқан?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Височных",
+            "en": "Temporal",
+            "kk": "Самай бөліктерінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Островковых",
+            "en": "Insular",
+            "kk": "Аралшық бөліктерінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Теменных",
+            "en": "Parietal",
+            "kk": "Төбе бөліктерінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Лобных",
+            "en": "Frontal",
+            "kk": "Маңдай бөліктерінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Затылочных",
+            "en": "Occipital",
+            "kk": "Шүйде бөліктерінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "E",
+            "accept": {
+              "ru": [
+                "затылочных",
+                "затылочные доли"
+              ],
+              "en": [
+                "occipital",
+                "occipital lobes",
+                "occipital lobe"
+              ],
+              "kk": [
+                "шүйде бөліктері",
+                "шүйде"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Постепенное ослабление ощущения постоянного запаха в помещении представляет собой...",
+        "en": "The gradual weakening of the sensation of a constant odor in a room is...",
+        "kk": "Бөлмедегі тұрақты иіс түйсігінің біртіндеп әлсіреуі не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Пороговое различение",
+            "en": "Threshold discrimination",
+            "kk": "Табалдырықтық ажырату"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сенсибилизацию",
+            "en": "Sensitization",
+            "kk": "Сенсибилизация"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Последовательный образ",
+            "en": "An afterimage",
+            "kk": "Дәйекті бейне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Апперцепцию",
+            "en": "Apperception",
+            "kk": "Апперцепция"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сенсорную адаптацию",
+            "en": "Sensory adaptation",
+            "kk": "Сенсорлық бейімделу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 16",
+          "units": [
+            "p16"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "E",
+            "accept": {
+              "ru": [
+                "сенсорная адаптация",
+                "адаптация"
+              ],
+              "en": [
+                "sensory adaptation",
+                "adaptation"
+              ],
+              "kk": [
+                "сенсорлық бейімделу",
+                "бейімделу",
+                "адаптация"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Возможные проявления сенсорной адаптации:",
+        "en": "Possible manifestations of sensory adaptation:",
+        "kk": "Сенсорлық бейімделудің ықтимал көріністері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Понижение чувствительности при длительном раздражении",
+            "en": "A decrease in sensitivity under prolonged stimulation",
+            "kk": "Ұзақ тітіркендіру кезінде сезімталдықтың төмендеуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сохранение ощущения после прекращения раздражения",
+            "en": "Persistence of the sensation after the stimulation has ceased",
+            "kk": "Тітіркендіру тоқтағаннан кейін түйсіктің сақталуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Создание образа несуществующего предмета",
+            "en": "Creation of an image of a nonexistent object",
+            "kk": "Жоқ заттың бейнесін жасау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Развитие чувствительности вследствие специальных упражнений",
+            "en": "Development of sensitivity as a result of special exercises",
+            "kk": "Арнайы жаттығулардың нәтижесінде сезімталдықтың дамуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Повышение чувствительности при изменении сенсорных условий",
+            "en": "An increase in sensitivity when sensory conditions change",
+            "kk": "Сенсорлық жағдайлар өзгергенде сезімталдықтың артуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 16, 21, 22",
+          "units": [
+            "p16",
+            "p21",
+            "p22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Минимальная интенсивность раздражителя, достаточная для возникновения ощущения, составляет...",
+        "en": "The minimum stimulus intensity sufficient for a sensation to arise is the...",
+        "kk": "Түйсік пайда болуы үшін жеткілікті тітіркендіргіштің ең аз қарқындылығы не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Верхний абсолютный порог",
+            "en": "Upper absolute threshold",
+            "kk": "Жоғарғы абсолюттік табалдырық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Предел адаптации",
+            "en": "Limit of adaptation",
+            "kk": "Бейімделу шегі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нижний абсолютный порог",
+            "en": "Lower absolute threshold",
+            "kk": "Төменгі абсолюттік табалдырық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Разностный порог",
+            "en": "Difference threshold",
+            "kk": "Айырым табалдырығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Порог узнавания",
+            "en": "Recognition threshold",
+            "kk": "Тану табалдырығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 18",
+          "units": [
+            "p18"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "C",
+            "accept": {
+              "ru": [
+                "нижний абсолютный порог",
+                "нижний порог",
+                "абсолютный порог",
+                "нижний абсолютный порог чувствительности",
+                "нижний порог чувствительности",
+                "абсолютный порог чувствительности",
+                "нижний порог ощущений",
+                "абсолютный порог ощущений"
+              ],
+              "en": [
+                "lower absolute threshold",
+                "absolute threshold",
+                "lower threshold",
+                "detection threshold",
+                "absolute threshold of sensitivity"
+              ],
+              "kk": [
+                "төменгі абсолюттік табалдырық",
+                "төменгі табалдырық",
+                "абсолюттік табалдырық",
+                "төменгі абсолюттік сезімталдық табалдырығы",
+                "түйсіктің төменгі табалдырығы"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "У испытуемого снизился нижний абсолютный порог. Это означает, что его чувствительность...",
+        "en": "A participant's lower absolute threshold has decreased. This means that his sensitivity has...",
+        "kk": "Зерттелушінің төменгі абсолюттік табалдырығы төмендеді. Бұл оның сезімталдығы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Понизилась",
+            "en": "Decreased",
+            "kk": "Төмендегенін білдіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Утратила связь с интенсивностью",
+            "en": "Lost its connection with intensity",
+            "kk": "Қарқындылықпен байланысын жоғалтқанын білдіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Осталась прежней",
+            "en": "Remained the same",
+            "kk": "Бұрынғыдай қалғанын білдіреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Повысилась",
+            "en": "Increased",
+            "kk": "Артқанын білдіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Стала исключительно разностной",
+            "en": "Become exclusively differential",
+            "kk": "Тек айырымдық сипатқа ие болғанын білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 18",
+          "units": [
+            "p18"
+          ]
+        }
+      ],
+      "free_input": {
+        "question": {
+          "ru": "У испытуемого снизился нижний абсолютный порог. Как изменилась его чувствительность?",
+          "en": "A participant's lower absolute threshold has decreased. How has his sensitivity changed?",
+          "kk": "Зерттелушінің төменгі абсолюттік табалдырығы төмендеді. Оның сезімталдығы қалай өзгерді?"
+        },
+        "answers": [
+          {
+            "for": "D",
+            "accept": {
+              "ru": [
+                "повысилась",
+                "выросла",
+                "возросла",
+                "увеличилась",
+                "стала выше",
+                "повышается"
+              ],
+              "en": [
+                "increased",
+                "grown",
+                "risen",
+                "become higher",
+                "improved"
+              ],
+              "kk": [
+                "артты",
+                "жоғарылады",
+                "өсті",
+                "күшейді",
+                "жоғары болды"
+              ]
+            }
+          }
+        ],
+        "reject": {
+          "ru": [
+            "снизилась",
+            "уменьшилась",
+            "упала",
+            "стала ниже",
+            "не изменилась"
+          ],
+          "en": [
+            "decreased",
+            "declined",
+            "dropped",
+            "become lower",
+            "did not change"
+          ],
+          "kk": [
+            "төмендеді",
+            "азайды",
+            "түсті",
+            "төмен болды",
+            "өзгерген жоқ"
+          ]
+        }
+      }
+    },
+    {
+      "id": 36,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Минимальное различие интенсивностей двух однородных стимулов, которое удаётся обнаружить, называется...",
+        "en": "The minimum difference in intensity between two homogeneous stimuli that can still be detected is called the...",
+        "kk": "Анықтауға болатын екі біртекті тітіркендіргіш қарқындылығының ең аз айырмасы не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Верхним абсолютным порогом",
+            "en": "Upper absolute threshold",
+            "kk": "Жоғарғы абсолюттік табалдырық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сенсорным последействием",
+            "en": "Sensory aftereffect",
+            "kk": "Сенсорлық кейінгі әсер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нижним абсолютным порогом",
+            "en": "Lower absolute threshold",
+            "kk": "Төменгі абсолюттік табалдырық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Латентным периодом",
+            "en": "Latent period",
+            "kk": "Жасырын кезең"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Разностным порогом",
+            "en": "Difference threshold",
+            "kk": "Айырым табалдырығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 20",
+          "units": [
+            "p20"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "E",
+            "accept": {
+              "ru": [
+                "разностный порог",
+                "дифференциальный порог",
+                "порог различения"
+              ],
+              "en": [
+                "difference threshold",
+                "differential threshold",
+                "just noticeable difference",
+                "discrimination threshold"
+              ],
+              "kk": [
+                "айырым табалдырығы",
+                "дифференциалдық табалдырық",
+                "ажырату табалдырығы"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "topic_id": 2,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Испытуемый обнаруживает очень тихий звук, но плохо различает близкие по силе звуки. Как это описать?",
+        "en": "A participant detects a very quiet sound but discriminates poorly between sounds of similar loudness. How can this be described?",
+        "kk": "Зерттелуші өте тыныш дыбысты байқайды, бірақ күші жақын дыбыстарды нашар ажыратады. Мұны қалай сипаттауға болады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Низкий абсолютный и высокий разностный порог",
+            "en": "A low absolute threshold and a high difference threshold",
+            "kk": "Төмен абсолюттік және жоғары айырым табалдырығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Высокие абсолютный и разностный пороги",
+            "en": "High absolute and difference thresholds",
+            "kk": "Жоғары абсолюттік және айырым табалдырықтары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Низкие абсолютный и разностный пороги",
+            "en": "Low absolute and difference thresholds",
+            "kk": "Төмен абсолюттік және айырым табалдырықтары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Одинаковые абсолютный и разностный пороги",
+            "en": "Identical absolute and difference thresholds",
+            "kk": "Абсолюттік және айырым табалдырықтарының бірдей болуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Высокий абсолютный и низкий разностный порог",
+            "en": "A high absolute threshold and a low difference threshold",
+            "kk": "Жоғары абсолюттік және төмен айырым табалдырығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 18, 20",
+          "units": [
+            "p18",
+            "p20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Рост точности вкусового различения у дегустатора после многолетних упражнений является...",
+        "en": "The increase in the accuracy of taste discrimination in a taster after many years of practice is...",
+        "kk": "Дегустатордың көпжылдық жаттығудан кейін дәм ажыратудағы дәлдігінің артуы не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сенсибилизацией",
+            "en": "Sensitization",
+            "kk": "Сенсибилизация"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Иллюзией контраста",
+            "en": "A contrast illusion",
+            "kk": "Контраст иллюзиясы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Перцептивной константностью",
+            "en": "Perceptual constancy",
+            "kk": "Перцептивті тұрақтылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ослаблением рецепции",
+            "en": "A weakening of reception",
+            "kk": "Рецепцияның әлсіреуі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сенсорным последействием",
+            "en": "Sensory aftereffect",
+            "kk": "Сенсорлық кейінгі әсер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 21",
+          "units": [
+            "p21"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "A",
+            "accept": {
+              "ru": [
+                "сенсибилизация"
+              ],
+              "en": [
+                "sensitization"
+              ],
+              "kk": [
+                "сенсибилизация"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Признаки сенсибилизации:",
+        "en": "Features of sensitization:",
+        "kk": "Сенсибилизацияның белгілері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Неизменность чувствительности после тренировки",
+            "en": "Unchanged sensitivity after training",
+            "kk": "Жаттығудан кейін сезімталдықтың өзгермеуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Утрата ощущения при постоянном раздражителе",
+            "en": "Loss of sensation under a constant stimulus",
+            "kk": "Тұрақты тітіркендіргіш кезінде түйсіктің жоғалуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Повышение чувствительности при взаимодействии анализаторов",
+            "en": "Increased sensitivity through the interaction of analyzers",
+            "kk": "Анализаторлар өзара әрекеттескенде сезімталдықтың артуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Повышение чувствительности вследствие упражнений",
+            "en": "Increased sensitivity as a result of exercise",
+            "kk": "Жаттығулар нәтижесінде сезімталдықтың артуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сохранение ощущения после выключения стимула",
+            "en": "Persistence of the sensation after the stimulus is switched off",
+            "kk": "Тітіркендіргіш өшірілгеннен кейін түйсіктің сақталуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 16, 21",
+          "units": [
+            "p16",
+            "p21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "После прекращения воздействия раздражителя ощущение некоторое время сохраняется. Это...",
+        "en": "After a stimulus has stopped acting, the sensation persists for some time. This is a(n)...",
+        "kk": "Тітіркендіргіштің әсері тоқтағаннан кейін түйсік біраз уақыт сақталады. Бұл не?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Апперцептивный образ",
+            "en": "Apperceptive image",
+            "kk": "Апперцептивті бейне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Воссоздающее воображение",
+            "en": "Reproductive imagination",
+            "kk": "Қайта жасаушы қиял"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Перцептивная категоризация",
+            "en": "Perceptual categorization",
+            "kk": "Перцептивті категориялау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сенсорная депривация",
+            "en": "Sensory deprivation",
+            "kk": "Сенсорлық депривация"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Последовательный образ",
+            "en": "Afterimage",
+            "kk": "Дәйекті бейне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 22",
+          "units": [
+            "p22"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "E",
+            "accept": {
+              "ru": [
+                "последовательный образ",
+                "последействие",
+                "сенсорное последействие"
+              ],
+              "en": [
+                "afterimage",
+                "aftereffect",
+                "sensory aftereffect",
+                "after-image",
+                "sensory afterimage"
+              ],
+              "kk": [
+                "дәйекті бейне",
+                "кейінгі әсер",
+                "сенсорлық кейінгі әсер",
+                "іздік бейне"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "По источнику раздражения зрительные, слуховые и вкусовые ощущения относятся к...",
+        "en": "By source of stimulation, visual, auditory and gustatory sensations belong to the... sensations.",
+        "kk": "Тітіркендіргіш көзі бойынша көру, есту және дәм түйсіктері қандай түйсіктерге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кинестетическим",
+            "en": "Kinesthetic",
+            "kk": "Кинестетикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Экстерорецептивным",
+            "en": "Exteroceptive",
+            "kk": "Экстероцептивті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Интерорецептивным",
+            "en": "Interoceptive",
+            "kk": "Интероцептивті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Органическим",
+            "en": "Organic",
+            "kk": "Органикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Проприоцептивным",
+            "en": "Proprioceptive",
+            "kk": "Проприоцептивті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 24, 25",
+          "units": [
+            "p24",
+            "p25"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "B",
+            "accept": {
+              "ru": [
+                "экстероцептивные",
+                "экстерорецептивные"
+              ],
+              "en": [
+                "exteroceptive",
+                "exteroception"
+              ],
+              "kk": [
+                "экстероцептивті",
+                "экстерорецептивті"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ощущения голода и жажды по источнику раздражения относятся к...",
+        "en": "By source of stimulation, the sensations of hunger and thirst belong to the... sensations.",
+        "kk": "Аштық пен шөлдеу түйсіктері тітіркендіргіш көзі бойынша қандай түйсіктерге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Проприоцептивным",
+            "en": "Proprioceptive",
+            "kk": "Проприоцептивті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Экстероцептивным",
+            "en": "Exteroceptive",
+            "kk": "Экстероцептивті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кинестетическим",
+            "en": "Kinesthetic",
+            "kk": "Кинестетикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Контактным тактильным",
+            "en": "Contact tactile",
+            "kk": "Жанасу тактильді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интероцептивным",
+            "en": "Interoceptive",
+            "kk": "Интероцептивті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 23, 26",
+          "units": [
+            "p23",
+            "p26"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "E",
+            "accept": {
+              "ru": [
+                "интероцептивные",
+                "интерорецептивные"
+              ],
+              "en": [
+                "interoceptive",
+                "interoception"
+              ],
+              "kk": [
+                "интероцептивті",
+                "интерорецептивті"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Информация о сокращении и растяжении мышц поступает благодаря ощущениям...",
+        "en": "Information about muscle contraction and stretching is provided by... sensations.",
+        "kk": "Бұлшықеттердің жиырылуы мен созылуы туралы ақпарат қандай түйсіктер арқылы келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интероцептивным",
+            "en": "Interoceptive",
+            "kk": "Интероцептивті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Проприоцептивным",
+            "en": "Proprioceptive",
+            "kk": "Проприоцептивті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Зрительным",
+            "en": "Visual",
+            "kk": "Көру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Температурным",
+            "en": "Temperature",
+            "kk": "Температуралық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обонятельным",
+            "en": "Olfactory",
+            "kk": "Иіс сезу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 27",
+          "units": [
+            "p27"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "B",
+            "accept": {
+              "ru": [
+                "проприоцептивные",
+                "проприорецептивные"
+              ],
+              "en": [
+                "proprioceptive",
+                "proprioception"
+              ],
+              "kk": [
+                "проприоцептивті",
+                "проприорецептивті"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Человек с закрытыми глазами определяет положение согнутой руки. Главный источник информации...",
+        "en": "A person with closed eyes determines the position of a bent arm. The main source of information is...",
+        "kk": "Көзі жабық адам бүгілген қолының қалпын анықтайды. Ақпараттың басты көзі қандай?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Остаточная зрительная чувствительность",
+            "en": "Residual visual sensitivity",
+            "kk": "Қалдық көру сезімталдығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мышечно-суставная чувствительность",
+            "en": "Muscle-joint sensitivity",
+            "kk": "Бұлшықет-буын сезімталдығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кожная температурная чувствительность",
+            "en": "Cutaneous temperature sensitivity",
+            "kk": "Терінің температуралық сезімталдығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Чувствительность внутренних органов",
+            "en": "The sensitivity of the internal organs",
+            "kk": "Ішкі ағзалардың сезімталдығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Слуховая пространственная локализация",
+            "en": "Auditory spatial localization",
+            "kk": "Дыбыстың кеңістіктік локализациясы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 27",
+          "units": [
+            "p27"
+          ]
+        }
+      ],
+      "free_input": {
+        "question": {
+          "ru": "Человек с закрытыми глазами определяет положение согнутой руки. Какая чувствительность служит главным источником информации?",
+          "en": "A person with closed eyes determines the position of a bent arm. Which kind of sensitivity is the main source of information?",
+          "kk": "Көзі жабық адам бүгілген қолының қалпын анықтайды. Қандай сезімталдық ақпараттың басты көзі болады?"
+        },
+        "answers": [
+          {
+            "for": "B",
+            "accept": {
+              "ru": [
+                "мышечно-суставная чувствительность",
+                "мышечно-суставная",
+                "проприоцептивная чувствительность",
+                "проприоцептивная",
+                "проприоцепция",
+                "проприорецепция",
+                "мышечно-суставное чувство"
+              ],
+              "en": [
+                "muscle-joint sensitivity",
+                "proprioceptive sensitivity",
+                "proprioception",
+                "kinesthetic sensitivity",
+                "kinesthesia"
+              ],
+              "kk": [
+                "бұлшықет-буын сезімталдығы",
+                "бұлшықет-буын",
+                "проприоцептивті сезімталдық",
+                "проприоцептивті",
+                "проприоцепция"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите компоненты, совместно обеспечивающие осязательное обследование предмета.",
+        "en": "Identify the components that jointly provide the tactile exploration of an object.",
+        "kk": "Затты сипап-сезіп зерттеуді бірге қамтамасыз ететін құрамдастарды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Органические ощущения голода",
+            "en": "Organic sensations of hunger",
+            "kk": "Аштықтың органикалық түйсіктері"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мышечно-двигательные ощущения",
+            "en": "Muscle-motor sensations",
+            "kk": "Бұлшықет-қозғалыс түйсіктері"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Интероцептивные сигналы жажды",
+            "en": "Interoceptive signals of thirst",
+            "kk": "Шөлдеудің интероцептивті сигналдары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тактильные ощущения",
+            "en": "Tactile sensations",
+            "kk": "Тактильді түйсіктер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обонятельные ощущения",
+            "en": "Olfactory sensations",
+            "kk": "Иіс сезу түйсіктері"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 25, 27",
+          "units": [
+            "p25",
+            "p27"
+          ]
+        }
+      ],
+      "free_input": {
+        "question": {
+          "ru": "Какие два вида ощущений совместно обеспечивают осязательное обследование предмета?",
+          "en": "Which two kinds of sensations jointly provide the tactile exploration of an object?",
+          "kk": "Затты сипап-сезіп зерттеуді бірге қамтамасыз ететін түйсіктің қандай екі түрі бар?"
+        },
+        "answers": [
+          {
+            "for": "B",
+            "accept": {
+              "ru": [
+                "мышечно-двигательные",
+                "двигательные",
+                "кинестетические"
+              ],
+              "en": [
+                "muscle-motor",
+                "motor",
+                "kinesthetic"
+              ],
+              "kk": [
+                "бұлшықет-қозғалыс",
+                "қозғалыс",
+                "кинестетикалық"
+              ]
+            }
+          },
+          {
+            "for": "D",
+            "accept": {
+              "ru": [
+                "тактильные",
+                "кожные"
+              ],
+              "en": [
+                "tactile",
+                "cutaneous"
+              ],
+              "kk": [
+                "тактильді",
+                "терілік"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ощущение мышечного напряжения и усилия связано, в частности, с рецепторами...",
+        "en": "The sensation of muscle tension and effort is connected, in particular, with the receptors of the...",
+        "kk": "Бұлшықет кернеуі мен күш салу түйсігі, атап айтқанда, қандай рецепторлармен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Суставных поверхностей",
+            "en": "Joint surfaces",
+            "kk": "Буын беттерінің"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сухожилий",
+            "en": "Tendons",
+            "kk": "Сіңірлердің"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кожных покровов",
+            "en": "Skin",
+            "kk": "Тері жабындарының"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Вестибулярного аппарата",
+            "en": "Vestibular apparatus",
+            "kk": "Вестибулярлық аппараттың"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Внутренних органов",
+            "en": "Internal organs",
+            "kk": "Ішкі ағзалардың"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 27",
+          "units": [
+            "p27"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "B",
+            "accept": {
+              "ru": [
+                "сухожилий",
+                "сухожильные"
+              ],
+              "en": [
+                "tendons",
+                "tendon receptors",
+                "tendon"
+              ],
+              "kk": [
+                "сіңірлер",
+                "сіңір рецепторлары"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "При неизменной модальности раздражитель начинает ощущаться сильнее. Изменилось свойство...",
+        "en": "With the modality unchanged, a stimulus begins to be felt as stronger. The property that has changed is...",
+        "kk": "Модальділік өзгермегенде тітіркендіргіш күштірек сезіле бастады. Түйсіктің қандай қасиеті өзгерді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Пространственная локализация",
+            "en": "Spatial localization",
+            "kk": "Кеңістіктік локализация"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Длительность",
+            "en": "Duration",
+            "kk": "Ұзақтық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Интенсивность",
+            "en": "Intensity",
+            "kk": "Қарқындылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Чувственный тон",
+            "en": "Hedonic tone",
+            "kk": "Сезімдік тон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Качество",
+            "en": "Quality",
+            "kk": "Сапа"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "free_input": {
+        "answers": [
+          {
+            "for": "C",
+            "accept": {
+              "ru": [
+                "интенсивность",
+                "сила"
+              ],
+              "en": [
+                "intensity",
+                "strength"
+              ],
+              "kk": [
+                "қарқындылық",
+                "күш"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "topic_id": 2,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие соответствия между порогом и чувствительностью верны?",
+        "en": "Which correspondences between threshold and sensitivity are correct?",
+        "kk": "Табалдырық пен сезімталдық арасындағы қандай сәйкестіктер дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Больше разностный порог: выше точность различения",
+            "en": "The larger the difference threshold, the higher the accuracy of discrimination",
+            "kk": "Айырым табалдырығы неғұрлым үлкен болса, ажырату дәлдігі соғұрлым жоғары"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Меньше абсолютный порог: слабее чувствительность",
+            "en": "The smaller the absolute threshold, the weaker the sensitivity",
+            "kk": "Абсолюттік табалдырық неғұрлым төмен болса, сезімталдық соғұрлым әлсіз"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Разностный порог определяет сенсорную модальность",
+            "en": "The difference threshold determines sensory modality",
+            "kk": "Айырым табалдырығы сенсорлық модальділікті анықтайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Меньше разностный порог: точнее различение стимулов",
+            "en": "The smaller the difference threshold, the more precise the discrimination of stimuli",
+            "kk": "Айырым табалдырығы неғұрлым төмен болса, тітіркендіргіштерді ажырату соғұрлым дәл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Меньше абсолютный порог: выше абсолютная чувствительность",
+            "en": "The smaller the absolute threshold, the higher the absolute sensitivity",
+            "kk": "Абсолюттік табалдырық неғұрлым төмен болса, абсолюттік сезімталдық соғұрлым жоғары"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 18, 20",
+          "units": [
+            "p18",
+            "p20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чем улучшение слухового различения после тренировки отличается от привыкания к постоянному шуму?",
+        "en": "How does the improvement of auditory discrimination after training differ from habituation to constant noise?",
+        "kk": "Жаттығудан кейін есту ажыратуының жақсаруы тұрақты шуға үйренуден немен ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Первое выражает последействие, второе апперцепцию",
+            "en": "The first expresses an aftereffect, the second apperception",
+            "kk": "Біріншісі кейінгі әсерді, екіншісі апперцепцияны білдіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Оба изменения выражают последовательный образ",
+            "en": "Both changes express an afterimage",
+            "kk": "Екі өзгеріс те дәйекті бейнені білдіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Первое выражает сенсибилизацию, второе адаптацию",
+            "en": "The first expresses sensitization, the second adaptation",
+            "kk": "Біріншісі сенсибилизацияны, екіншісі бейімделуді білдіреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Первое выражает контраст, второе последействие",
+            "en": "The first expresses contrast, the second an aftereffect",
+            "kk": "Біріншісі контрастты, екіншісі кейінгі әсерді білдіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Первое выражает адаптацию, второе сенсибилизацию",
+            "en": "The first expresses adaptation, the second sensitization",
+            "kk": "Біріншісі бейімделуді, екіншісі сенсибилизацияны білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 16, 21",
+          "units": [
+            "p16",
+            "p21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Физиологический смысл рефлекторного кольца состоит прежде всего в...",
+        "en": "The physiological meaning of the reflex ring consists primarily in...",
+        "kk": "Рефлекторлық сақинаның физиологиялық мәні ең алдымен неде?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прекращении анализа после первого импульса",
+            "en": "Ending the analysis after the first impulse",
+            "kk": "Бірінші импульстен кейін талдаудың тоқтауында"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обеспечении обратной связи при взаимодействии со средой",
+            "en": "Providing feedback in interaction with the environment",
+            "kk": "Ортамен өзара әрекеттесу кезінде кері байланысты қамтамасыз етуде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Замене сенсорного входа речевым сигналом",
+            "en": "Replacing sensory input with a speech signal",
+            "kk": "Сенсорлық кірісті сөздік сигналмен алмастыруда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Изоляции корковых отделов от периферии",
+            "en": "Isolating cortical sections from the periphery",
+            "kk": "Қыртыстық бөлімдерді шеткі бөлімдерден оқшаулауда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Односторонней передаче команды от коры к рецептору",
+            "en": "One-way transmission of a command from the cortex to the receptor",
+            "kk": "Команданы қыртыстан рецепторға бір бағытта беруде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L3",
+          "file": "Лекции/Лекция 3.docx",
+          "location": "Абзацы 13, 14",
+          "units": [
+            "p13",
+            "p14"
+          ]
+        }
+      ]
+    }
+  ]
+}

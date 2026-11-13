@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 4,
+  "topic_name": "Perception: properties, types and theories",
+  "questions": {
+    "66": {
+      "question": "The main difference between perception and sensation lies in the reflection of...",
+      "options": {
+        "A": "A whole object in the totality of its properties",
+        "B": "An individual quality under direct stimulation",
+        "C": "An image of a desired future",
+        "D": "Generalized essential relations",
+        "E": "An object only outside direct contact"
+      }
+    },
+    "67": {
+      "question": "Attributing a perceived image to a specific object of the external world expresses...",
+      "options": {
+        "A": "Objectivity",
+        "B": "Selectivity",
+        "C": "Constancy",
+        "D": "Apperception",
+        "E": "Structuredness"
+      }
+    },
+    "68": {
+      "question": "A perceived fragment is completed into the image of a whole object. Which property is manifested?",
+      "options": {
+        "A": "Wholeness",
+        "B": "Structuredness",
+        "C": "Objectivity",
+        "D": "Constancy",
+        "E": "Meaningfulness"
+      }
+    },
+    "69": {
+      "question": "Recognizing a melody when perceiving a sequence of separate notes is explained by...",
+      "options": {
+        "A": "Constancy",
+        "B": "Objectivity",
+        "C": "Apperception",
+        "D": "Selectivity",
+        "E": "Structuredness"
+      }
+    },
+    "70": {
+      "question": "A receding bus is perceived as retaining its size. This is a manifestation of...",
+      "options": {
+        "A": "Constancy",
+        "B": "Apperception",
+        "C": "Meaningfulness",
+        "D": "Selectivity",
+        "E": "Structuredness"
+      }
+    },
+    "71": {
+      "question": "A specialist notices things in a technical drawing that a novice does not pick out. The dependence of perception on experience is called...",
+      "options": {
+        "A": "Constancy",
+        "B": "Objectivity",
+        "C": "Apperception",
+        "D": "Structuredness",
+        "E": "Meaningfulness"
+      }
+    },
+    "72": {
+      "question": "Identify the correct \"property of perception: characteristic\" pairs.",
+      "options": {
+        "A": "Constancy: relative stability of properties",
+        "B": "Structuredness: perception of the organization of elements",
+        "C": "Wholeness: completion of the image from incomplete data",
+        "D": "Apperception: independence from past experience",
+        "E": "Objectivity: reflection of only one quality"
+      }
+    },
+    "73": {
+      "question": "A distorted perception of an object that is actually acting on the senses is...",
+      "options": {
+        "A": "An illusion",
+        "B": "Recall",
+        "C": "A mental representation",
+        "D": "A fantasy",
+        "E": "A concept"
+      }
+    },
+    "74": {
+      "question": "On recognizing an object, a person assigns it to a familiar category and refines its features. What is manifested is...",
+      "options": {
+        "A": "Hedonic tone",
+        "B": "Intensity",
+        "C": "Meaningfulness",
+        "D": "The duration of a sensation",
+        "E": "Sensory adaptation"
+      }
+    },
+    "75": {
+      "question": "In a busy square, a person singles out the person they need to talk to, and the other people become background. This is...",
+      "options": {
+        "A": "Selectivity of perception",
+        "B": "Constancy of perception",
+        "C": "Wholeness of perception",
+        "D": "Objectivity of perception",
+        "E": "Structuredness of perception"
+      }
+    },
+    "76": {
+      "question": "Bases used to classify the types of perception:",
+      "options": {
+        "A": "The degree of nervous balance",
+        "B": "The level of character development",
+        "C": "The form of existence of matter",
+        "D": "The leading analyzer",
+        "E": "The strength of the achievement motive"
+      }
+    },
+    "77": {
+      "question": "What does the Gestalt approach oppose to the structuralist explanation of perception?",
+      "options": {
+        "A": "Refusal to study relations between parts",
+        "B": "Exclusion of the perceptual process from research",
+        "C": "Priority of holistic organization over the sum of elements",
+        "D": "Priority of separate sensations over organization",
+        "E": "Reduction of the image to traces of past sensations"
+      }
+    },
+    "78": {
+      "question": "The perceptual cycle and the cognitive schema are central concepts of the theory of...",
+      "options": {
+        "A": "J. Gibson",
+        "B": "E. Titchener",
+        "C": "H. Helmholtz",
+        "D": "U. Neisser",
+        "E": "J. Bruner"
+      }
+    },
+    "79": {
+      "question": "Functions of the schema in U. Neisser's perceptual cycle:",
+      "options": {
+        "A": "It directs exploratory activity",
+        "B": "It is modified by the information obtained",
+        "C": "It replaces exploration of the environment with a ready-made sensation",
+        "D": "It remains unchanged with new experience",
+        "E": "It functions independently of what is perceived"
+      }
+    },
+    "80": {
+      "question": "The concept of unconscious inferences is associated with the theory of perception of...",
+      "options": {
+        "A": "J. Bruner",
+        "B": "J. Gibson",
+        "C": "H. Helmholtz",
+        "D": "U. Neisser",
+        "E": "K. Lewin"
+      }
+    },
+    "81": {
+      "question": "Perception as a process of categorization is considered by...",
+      "options": {
+        "A": "I. P. Pavlov",
+        "B": "J. Bruner",
+        "C": "J. Gibson",
+        "D": "A. N. Leontiev",
+        "E": "H. Helmholtz"
+      }
+    },
+    "82": {
+      "question": "The pickup of information from the environment and texture gradients characterize the approach of...",
+      "options": {
+        "A": "J. Bruner",
+        "B": "E. Titchener",
+        "C": "J. Gibson",
+        "D": "U. Neisser",
+        "E": "H. Helmholtz"
+      }
+    },
+    "83": {
+      "question": "Identify the correct \"author: concept\" correspondences.",
+      "options": {
+        "A": "Gibson: analytic introspection",
+        "B": "Neisser: the perceptual cycle",
+        "C": "Gibson: ecological optics",
+        "D": "Helmholtz: unconscious inferences",
+        "E": "Bruner: summation of pure sensations"
+      }
+    },
+    "84": {
+      "question": "A person lists in detail the small elements of a picture, missing the overall meaning. The prevailing type of perception is...",
+      "options": {
+        "A": "Synthetic",
+        "B": "Explanatory",
+        "C": "Holistic",
+        "D": "Objective",
+        "E": "Analytic"
+      }
+    },
+    "85": {
+      "question": "A person describes accurately what they saw and does not try to explain the causes of the event. This is a combination of the... types.",
+      "options": {
+        "A": "Explanatory and objective",
+        "B": "Synthetic and explanatory",
+        "C": "Descriptive and objective",
+        "D": "Explanatory and subjective",
+        "E": "Analytic and subjective"
+      }
+    }
+  }
+}

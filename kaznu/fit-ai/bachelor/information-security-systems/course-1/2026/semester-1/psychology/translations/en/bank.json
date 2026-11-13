@@ -1,0 +1,10 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "subject": "Psychology",
+  "difficulty_scale": {
+    "1": "Knowledge and understanding",
+    "2": "Application and analysis of an example",
+    "3": "Comparison, evaluation and conclusion"
+  }
+}

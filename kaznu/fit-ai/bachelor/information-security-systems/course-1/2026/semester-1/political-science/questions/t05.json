@@ -1,0 +1,1705 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 96,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Политическая элита отличается от более широкой властвующей элиты...",
+        "en": "The political elite differs from the broader ruling elite by...",
+        "kk": "Саяси элита неғұрлым кең билеуші элитадан немен ерекшеленеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 504-506",
+          "units": [
+            "p504",
+            "p505",
+            "p506"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обязательной принадлежностью к крупнейшим собственникам",
+            "en": "Mandatory membership among the largest property owners",
+            "kk": "Ең ірі меншік иелеріне міндетті түрде жатуымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Непосредственным участием в осуществлении политической власти",
+            "en": "Direct participation in the exercise of political power",
+            "kk": "Саяси биліктің жүзеге асырылуына тікелей қатысуымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключительным обладанием культурным престижем",
+            "en": "The exclusive possession of cultural prestige",
+            "kk": "Мәдени беделге айрықша ие болуымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отсутствием формальных государственных полномочий",
+            "en": "The absence of formal state powers",
+            "kk": "Ресми мемлекеттік өкілеттіктердің болмауымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непременным происхождением из наследственного сословия",
+            "en": "Necessary origin from a hereditary estate",
+            "kk": "Міндетті түрде мұрагерлік таптан шығуымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 97,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Высший слой профессионального государственного чиновничества образует элиту...",
+        "en": "The highest stratum of the professional state bureaucracy forms the ... elite.",
+        "kk": "Кәсіби мемлекеттік шенеуніктердің жоғарғы қабаты қандай элитаны құрайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 512",
+          "units": [
+            "p512"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Электоральную",
+            "en": "Electoral",
+            "kk": "Сайлаулық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Экономическую",
+            "en": "Economic",
+            "kk": "Экономикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Контрэлиту",
+            "en": "Counter-",
+            "kk": "Контрэлита"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Культурную",
+            "en": "Cultural",
+            "kk": "Мәдени"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Административную",
+            "en": "Administrative",
+            "kk": "Әкімшілік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 98,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Подготовка долгосрочной программы развития общества выражает какую функцию политической элиты?",
+        "en": "Preparing a long-term program for the development of society expresses which function of the political elite?",
+        "kk": "Қоғамды дамытудың ұзақ мерзімді бағдарламасын дайындау саяси элитаның қандай функциясын білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 517",
+          "units": [
+            "p517"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Контрольную",
+            "en": "Supervisory",
+            "kk": "Бақылау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Стратегическую",
+            "en": "Strategic",
+            "kk": "Стратегиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Коммуникативную",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рекрутационную",
+            "en": "Recruitment",
+            "kk": "Рекрутингтік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интегративную",
+            "en": "Integrative",
+            "kk": "Интегративтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 99,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Связь руководства с социальными группами и получение сведений об их интересах относятся прежде всего к функции элиты...",
+        "en": "The link between the leadership and social groups and the gathering of information about their interests belong primarily to the ... function of the elite.",
+        "kk": "Басшылықтың әлеуметтік топтармен байланысы және олардың мүдделері туралы мәліметтер алу ең алдымен элитаның қандай функциясына жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 516",
+          "units": [
+            "p516"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 519-520",
+          "units": [
+            "p519",
+            "p520"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Коммуникативной",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Стратегической",
+            "en": "Strategic",
+            "kk": "Стратегиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Селекционной",
+            "en": "Selective",
+            "kk": "Іріктеушілік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Номенклатурной",
+            "en": "Nomenklatura",
+            "kk": "Номенклатуралық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Регламентирующей",
+            "en": "Regulatory",
+            "kk": "Регламенттеуші"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 100,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Концепцию организованного политического класса как правящего меньшинства разработал...",
+        "en": "The concept of an organized political class as a ruling minority was developed by...",
+        "kk": "Ұйымдасқан саяси тап ретінде билеуші азшылық тұжырымдамасын кім әзірледі?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 824-826",
+          "units": [
+            "p824",
+            "p825",
+            "p826"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вильфредо Парето",
+            "en": "Vilfredo Pareto",
+            "kk": "Вильфредо Парето"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гаэтано Моска",
+            "en": "Gaetano Mosca",
+            "kk": "Гаэтано Моска"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Иозеф Шумпетер",
+            "en": "Joseph Schumpeter",
+            "kk": "Йозеф Шумпетер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Роберт Михельс",
+            "en": "Robert Michels",
+            "kk": "Роберт Михельс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Чарльз Райт Миллс",
+            "en": "C. Wright Mills",
+            "kk": "Чарльз Райт Миллс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 101,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В концепции Парето «лисы» отличаются преимущественной ориентацией на...",
+        "en": "In Pareto's concept, the \"foxes\" are distinguished by a primary orientation toward...",
+        "kk": "Парето тұжырымдамасында «түлкілер» неге басымдықпен бағдарлануымен ерекшеленеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 832",
+          "units": [
+            "p832"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прямое силовое принуждение",
+            "en": "Direct coercion by force",
+            "kk": "Тікелей күшпен мәжбүрлеуге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наследственное закрепление должностей",
+            "en": "The hereditary entrenchment of offices",
+            "kk": "Лауазымдарды мұрагерлікпен бекітуге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Безусловное соблюдение религиозной догмы",
+            "en": "Unconditional observance of religious dogma",
+            "kk": "Діни догманы сөзсіз сақтауға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гибкость, переговоры и маневрирование",
+            "en": "Flexibility, negotiation and maneuvering",
+            "kk": "Икемділікке, келіссөздерге және маневр жасауға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Правление посредством народного жребия",
+            "en": "Rule by popular lot",
+            "kk": "Халықтық жеребе арқылы басқаруға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 102,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Циркуляция элит в концепции Парето означает...",
+        "en": "The circulation of elites in Pareto's concept means...",
+        "kk": "Парето тұжырымдамасындағы элиталар айналымы нені білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 832-833",
+          "units": [
+            "p832",
+            "p833"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Распределение должностей пропорционально численности сословий",
+            "en": "The distribution of offices in proportion to the size of the estates",
+            "kk": "Лауазымдарды таптар санына пропорционалды бөлуді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ротацию всех государственных служащих через равные интервалы",
+            "en": "The rotation of all civil servants at equal intervals",
+            "kk": "Барлық мемлекеттік қызметшілерді тең аралықтармен ротациялауды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отмену различий между руководителями и управляемыми",
+            "en": "The abolition of the distinction between leaders and the governed",
+            "kk": "Басшылар мен басқарылатындар арасындағы айырмашылықтарды жоюды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Передачу суверенитета международным организациям",
+            "en": "The transfer of sovereignty to international organizations",
+            "kk": "Егемендікті халықаралық ұйымдарға беруді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Смену типов правящего меньшинства и обновление его состава",
+            "en": "A change in the types of the ruling minority and the renewal of its membership",
+            "kk": "Билеуші азшылық типтерінің ауысуы мен оның құрамының жаңаруын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 103,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Железный закон олигархии» связан с именем...",
+        "en": "The \"iron law of oligarchy\" is associated with the name of...",
+        "kk": "«Олигархияның темір заңы» кімнің есімімен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 834",
+          "units": [
+            "p834"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вильфредо Парето",
+            "en": "Vilfredo Pareto",
+            "kk": "Вильфредо Парето"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Роберта Даля",
+            "en": "Robert Dahl",
+            "kk": "Роберт Даль"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гарольда Лассуэлла",
+            "en": "Harold Lasswell",
+            "kk": "Гарольд Лассуэлл"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гаэтано Моски",
+            "en": "Gaetano Mosca",
+            "kk": "Гаэтано Моска"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Роберта Михельса",
+            "en": "Robert Michels",
+            "kk": "Роберт Михельс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 104,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Концентрацию информации и фактического руководства у профессионального аппарата массовой партии непосредственно описывает...",
+        "en": "The concentration of information and de facto leadership in the hands of the professional apparatus of a mass party is directly described by...",
+        "kk": "Бұқаралық партияда кәсіби аппараттың ақпарат пен нақты басшылықты шоғырландыруын қандай теория тікелей сипаттайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 834-835",
+          "units": [
+            "p834",
+            "p835"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теория географического детерминизма",
+            "en": "The theory of geographical determinism",
+            "kk": "Географиялық детерминизм теориясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Концепция непосредственной демократии",
+            "en": "The concept of direct democracy",
+            "kk": "Тікелей демократия тұжырымдамасы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Теория политического обмена",
+            "en": "The theory of political exchange",
+            "kk": "Саяси алмасу теориясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Теория общественного договора",
+            "en": "The social contract theory",
+            "kk": "Қоғамдық шарт теориясы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Закон олигархических тенденций",
+            "en": "The law of oligarchic tendencies",
+            "kk": "Олигархиялық үрдістер заңы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 105,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В демократическом элитизме Шумпетера демократия понимается прежде всего как...",
+        "en": "In Schumpeter's democratic elitism, democracy is understood primarily as...",
+        "kk": "Шумпетердің демократиялық элитизмінде демократия ең алдымен нені білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 857",
+          "units": [
+            "p857"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Представительство единой непогрешимой общей воли",
+            "en": "The representation of a single infallible general will",
+            "kk": "Бірыңғай қателеспейтін жалпы еріктің өкілдігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Непрерывное непосредственное управление всех граждан",
+            "en": "Continuous direct government by all citizens",
+            "kk": "Барлық азаматтардың үздіксіз тікелей басқаруын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наследование власти наиболее компетентными семьями",
+            "en": "The inheritance of power by the most competent families",
+            "kk": "Билікті неғұрлым құзыретті әулеттердің мұралауын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устранение профессиональных политических руководителей",
+            "en": "The elimination of professional political leaders",
+            "kk": "Кәсіби саяси басшыларды жоюды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Конкуренция руководителей за голоса избирателей",
+            "en": "Competition among leaders for the votes of the electorate",
+            "kk": "Басшылардың сайлаушылардың дауыстары үшін бәсекелестігін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 106,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой тезис соответствует плюралистическим теориям элит?",
+        "en": "Which thesis corresponds to pluralist theories of elites?",
+        "kk": "Қандай тезис элиталардың плюралистік теорияларына сәйкес келеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 865",
+          "units": [
+            "p865"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Конкурирующие элиты связаны с представляющими их социальными группами",
+            "en": "Competing elites are linked with the social groups they represent",
+            "kk": "Бәсекелес элиталар өздерін білдіретін әлеуметтік топтармен байланысты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любая элита формируется исключительно по наследству",
+            "en": "Any elite is formed exclusively by heredity",
+            "kk": "Кез келген элита тек мұрагерлік арқылы қалыптасады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Единая замкнутая элита полностью свободна от контроля",
+            "en": "A single closed elite is completely free from control",
+            "kk": "Бірыңғай тұйық элита бақылаудан толық тәуелсіз"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Все центры общественного влияния совпадают с правительством",
+            "en": "All centers of social influence coincide with the government",
+            "kk": "Қоғамдық ықпалдың барлық орталықтары үкіметпен сәйкес келеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Разделение элиты и массы исключает отношения представительства",
+            "en": "The division into elite and masses rules out relations of representation",
+            "kk": "Элита мен бұқараның бөлінуі өкілдік қатынастарын жоққа шығарады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 107,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Круг лиц, непосредственно осуществляющих отбор претендентов в элиту, называется...",
+        "en": "The circle of persons who directly select candidates for the elite is called the...",
+        "kk": "Элитаға үміткерлерді тікелей іріктеуді жүзеге асыратын адамдар шеңбері қалай аталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 925",
+          "units": [
+            "p925"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Контрэлитой",
+            "en": "Counter-elite",
+            "kk": "Контрэлита"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Истеблишментом",
+            "en": "Establishment",
+            "kk": "Истеблишмент"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Бюрократией",
+            "en": "Bureaucracy",
+            "kk": "Бюрократия"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Электоратом",
+            "en": "Electorate",
+            "kk": "Электорат"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Селекторатом",
+            "en": "Selectorate",
+            "kk": "Селекторат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 108,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Продвижение определяется стажем, последовательным прохождением должностей и решением узкого руководящего круга. Это признаки системы...",
+        "en": "Advancement is determined by seniority, successive progression through posts and the decision of a narrow leading circle. These are features of the ... system.",
+        "kk": "Жылжу еңбек өтілімен, лауазымдарды дәйекті өтумен және тар басшылар шеңберінің шешімімен айқындалады. Бұл қандай жүйенің белгілері?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 928-929",
+          "units": [
+            "p928",
+            "p929"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Антрепренерской",
+            "en": "Entrepreneurial",
+            "kk": "Антрепренерлік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Патриархальной",
+            "en": "Patriarchal",
+            "kk": "Патриархалдық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гильдий",
+            "en": "Guild",
+            "kk": "Гильдиялар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Плебисцитарной",
+            "en": "Plebiscitary",
+            "kk": "Плебисциттік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Пропорциональной",
+            "en": "Proportional",
+            "kk": "Пропорционалды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 109,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Признаки антрепренерской системы рекрутирования элит:",
+        "en": "Features of the entrepreneurial system of elite recruitment:",
+        "kk": "Элиталарды рекрутингтеудің антрепренерлік жүйесінің белгілері:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 932",
+          "units": [
+            "p932"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Предварительное согласование кандидатуры замкнутым руководящим кругом",
+            "en": "Prior agreement on the candidate by a closed leading circle",
+            "kk": "Кандидатураны тұйық басшылық шеңберімен алдын ала келісу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Широкий круг селектората",
+            "en": "A broad selectorate",
+            "kk": "Селектораттың кең шеңбері"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Последовательное прохождение всех ступеней служебной иерархии",
+            "en": "Successive progression through all the levels of the service hierarchy",
+            "kk": "Қызметтік иерархияның барлық сатыларын дәйекті өту"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Высокая конкуренция претендентов",
+            "en": "High competition among candidates",
+            "kk": "Үміткерлердің жоғары бәсекелестігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Решающее значение институциональных требований к стажу",
+            "en": "The decisive importance of institutional seniority requirements",
+            "kk": "Еңбек өтіліне қойылатын институционалдық талаптардың шешуші маңызы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": 110,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите признаки системы гильдий.",
+        "en": "Specify the features of the guild system.",
+        "kk": "Гильдиялар жүйесінің белгілерін көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 928-929",
+          "units": [
+            "p928",
+            "p929"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Приоритет способности привлечь внешнюю общественную поддержку",
+            "en": "Priority given to the ability to attract external public support",
+            "kk": "Сыртқы қоғамдық қолдауды тарту қабілетінің басымдығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Широкая конкуренция претендентов за поддержку избирателей",
+            "en": "Broad competition among candidates for the support of voters",
+            "kk": "Үміткерлердің сайлаушылар қолдауы үшін кең бәсекелестігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Постепенное продвижение внутри иерархии",
+            "en": "Gradual advancement within the hierarchy",
+            "kk": "Иерархия ішінде біртіндеп жылжу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Многочисленные формальные фильтры",
+            "en": "Numerous formal filters",
+            "kk": "Көптеген ресми сүзгілер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Относительно закрытый селекторат",
+            "en": "A relatively closed selectorate",
+            "kk": "Салыстырмалы түрде тұйық селекторат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 111,
+      "topic_id": 5,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое сопоставление рисков систем рекрутирования наиболее точно?",
+        "en": "Which comparison of the risks of the recruitment systems is the most accurate?",
+        "kk": "Рекрутинг жүйелерінің тәуекелдерін салыстырудың қайсысы неғұрлым дәл?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 933-934",
+          "units": [
+            "p933",
+            "p934"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Антрепренерская уменьшает значение личной инициативы, гильдейская делает её основным фильтром",
+            "en": "The entrepreneurial system reduces the importance of personal initiative, while the guild system makes it the main filter",
+            "kk": "Антрепренерлік жүйе жеке бастаманың маңызын төмендетеді, гильдиялық жүйе оны негізгі сүзгіге айналдырады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гильдейская ставит публичную популярность выше стажа, антрепренерская отдаёт приоритет иерархии",
+            "en": "The guild system places public popularity above seniority, while the entrepreneurial system gives priority to hierarchy",
+            "kk": "Гильдиялық жүйе көпшілік алдындағы танымалдықты еңбек өтілінен жоғары қояды, антрепренерлік жүйе иерархияға басымдық береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гильдейская препятствует бюрократизации, антрепренерская закрепляет замкнутость селектората",
+            "en": "The guild system hinders bureaucratization, while the entrepreneurial system entrenches the closed nature of the selectorate",
+            "kk": "Гильдиялық жүйе бюрократияландыруға кедергі жасайды, антрепренерлік жүйе селектораттың тұйықтығын бекітеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Антрепренерская усиливает предсказуемость преемственности, гильдейская усиливает внешнюю конкуренцию",
+            "en": "The entrepreneurial system increases the predictability of succession, while the guild system increases external competition",
+            "kk": "Антрепренерлік жүйе сабақтастықтың болжамдылығын күшейтеді, гильдиялық жүйе сыртқы бәсекелестікті күшейтеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Антрепренерская допускает непрофессионализм, гильдейская склонна к застою",
+            "en": "The entrepreneurial system allows unprofessionalism, while the guild system tends toward stagnation",
+            "kk": "Антрепренерлік жүйе кәсіби еместікке жол береді, гильдиялық жүйе тоқырауға бейім"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 112,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Назовите функции лидерства, выделенные Робертом Такером.",
+        "en": "Name the functions of leadership identified by Robert Tucker.",
+        "kk": "Роберт Такер бөліп көрсеткен көшбасшылық функцияларын атаңыз."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 466-473",
+          "units": [
+            "p466",
+            "p467",
+            "p468",
+            "p469",
+            "p470",
+            "p471",
+            "p472",
+            "p473"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Директивную",
+            "en": "Directive",
+            "kk": "Директивтік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мобилизационную",
+            "en": "Mobilizing",
+            "kk": "Жұмылдырушы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Интегративную",
+            "en": "Integrative",
+            "kk": "Интегративтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Диагностическую",
+            "en": "Diagnostic",
+            "kk": "Диагностикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Коммуникативную",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": 113,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Лидер определяет ключевую проблему и причины ухудшения ситуации. Какую функцию по Такеру он выполняет?",
+        "en": "A leader identifies the key problem and the causes of the worsening situation. Which function according to Tucker is he performing?",
+        "kk": "Көшбасшы негізгі мәселені және жағдайдың нашарлау себептерін анықтайды. Такер бойынша ол қандай функцияны орындайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 468",
+          "units": [
+            "p468"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интегративную",
+            "en": "Integrative",
+            "kk": "Интегративтік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Представительскую",
+            "en": "Representative",
+            "kk": "Өкілдік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Директивную",
+            "en": "Directive",
+            "kk": "Директивтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мобилизационную",
+            "en": "Mobilizing",
+            "kk": "Жұмылдырушы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Диагностическую",
+            "en": "Diagnostic",
+            "kk": "Диагностикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 114,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Выбор конкретного направления действий для решения выявленной проблемы относится к функции лидерства...",
+        "en": "The choice of a specific course of action to solve an identified problem belongs to the ... function of leadership.",
+        "kk": "Анықталған мәселені шешу үшін әрекеттің нақты бағытын таңдау көшбасшылықтың қандай функциясына жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 471",
+          "units": [
+            "p471"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Мобилизационной",
+            "en": "Mobilizing",
+            "kk": "Жұмылдырушы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социализирующей",
+            "en": "Socializing",
+            "kk": "Әлеуметтендіруші"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Коммуникативной",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Диагностической",
+            "en": "Diagnostic",
+            "kk": "Диагностикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Директивной",
+            "en": "Directive",
+            "kk": "Директивтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 115,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Лидеров-агитаторов, организаторов и теоретиков выделял...",
+        "en": "Leaders as agitators, organizers and theorists were distinguished by...",
+        "kk": "Көшбасшы-үгітшілерді, ұйымдастырушыларды және теоретиктерді кім бөліп көрсетті?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 490",
+          "units": [
+            "p490"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сидни Хук",
+            "en": "Sidney Hook",
+            "kk": "Сидни Хук"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Роберт Такер",
+            "en": "Robert Tucker",
+            "kk": "Роберт Такер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гарольд Лассуэлл",
+            "en": "Harold Lasswell",
+            "kk": "Гарольд Лассуэлл"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ральф Стогдилл",
+            "en": "Ralph Stogdill",
+            "kk": "Ральф Стогдилл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Макс Вебер",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 116,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Для лидера-организатора в типологии Лассуэлла наиболее характерно...",
+        "en": "For the organizer leader in Lasswell's typology, the most characteristic feature is...",
+        "kk": "Лассуэлл типологиясында көшбасшы-ұйымдастырушыға ең тән нәрсе не?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 490",
+          "units": [
+            "p490"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Создание отвлечённых теоретических концепций",
+            "en": "Creating abstract theoretical concepts",
+            "kk": "Дерексіз теориялық тұжырымдамалар жасау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Преимущественное воздействие ораторским искусством",
+            "en": "Influencing mainly through oratory",
+            "kk": "Шешендік өнермен басымдықпен ықпал ету"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наследование ритуального авторитета",
+            "en": "Inheriting ritual authority",
+            "kk": "Салттық беделді мұралау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отказ от организационных механизмов",
+            "en": "Rejecting organizational mechanisms",
+            "kk": "Ұйымдастырушылық тетіктерден бас тарту"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Использование аппарата и работа с кадрами",
+            "en": "Using the apparatus and working with personnel",
+            "kk": "Аппаратты пайдалану және кадрлармен жұмыс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 117,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Критерий различения лидеров, использующих события, и лидеров, создающих события, предложил...",
+        "en": "The criterion distinguishing leaders who use events from leaders who create events was proposed by...",
+        "kk": "Оқиғаларды пайдаланатын көшбасшылар мен оқиғаларды жасайтын көшбасшыларды ажырату өлшемін кім ұсынды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 491",
+          "units": [
+            "p491"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Роберт Такер",
+            "en": "Robert Tucker",
+            "kk": "Роберт Такер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гюстав Лебон",
+            "en": "Gustave Le Bon",
+            "kk": "Гюстав Лебон"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гарольд Лассуэлл",
+            "en": "Harold Lasswell",
+            "kk": "Гарольд Лассуэлл"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сидни Хук",
+            "en": "Sidney Hook",
+            "kk": "Сидни Хук"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гаэтано Моска",
+            "en": "Gaetano Mosca",
+            "kk": "Гаэтано Моска"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 118,
+      "topic_id": 5,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Из ограниченности универсальной «теории черт» лидерства следует, что...",
+        "en": "The limitations of the universal \"trait theory\" of leadership imply that...",
+        "kk": "Көшбасшылықтың әмбебап «қасиеттер теориясының» шектеулілігінен қандай қорытынды шығады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 482-485",
+          "units": [
+            "p482",
+            "p483",
+            "p484",
+            "p485"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Любая ситуация автоматически создаёт одного лидера",
+            "en": "Any situation automatically produces a single leader",
+            "kk": "Кез келген жағдай автоматты түрде бір көшбасшыны туғызады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Лидерство полностью определяется юридическим статусом",
+            "en": "Leadership is entirely determined by legal status",
+            "kk": "Көшбасшылық толығымен заңдық мәртебемен айқындалады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Личные качества вообще не влияют на лидерство",
+            "en": "Personal qualities have no influence on leadership at all",
+            "kk": "Жеке қасиеттер көшбасшылыққа мүлде әсер етпейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Значение личных качеств зависит от ситуации и среды",
+            "en": "The importance of personal qualities depends on the situation and environment",
+            "kk": "Жеке қасиеттердің маңызы жағдай мен ортаға тәуелді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Одинаковый набор качеств эффективен при любом режиме",
+            "en": "The same set of qualities is effective under any regime",
+            "kk": "Қасиеттердің бірдей жиынтығы кез келген режимде тиімді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 119,
+      "topic_id": 5,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Условия, ограничивающие превращение харизматического лидерства во вождизм:",
+        "en": "Conditions that limit the transformation of charismatic leadership into a leader cult:",
+        "kk": "Харизмалық көшбасшылықтың көсемшілдікке айналуын шектейтін жағдайлар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 484",
+          "units": [
+            "p484"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 499-500",
+          "units": [
+            "p499",
+            "p500"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Зависимость юридической оценки решений от авторитета самого руководителя",
+            "en": "The dependence of the legal assessment of decisions on the authority of the leader himself",
+            "kk": "Шешімдердің заңдық бағасының басшының өз беделіне тәуелділігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Соединение личного авторитета с исключительным контролем над силовыми ресурсами",
+            "en": "The combination of personal authority with exclusive control over coercive resources",
+            "kk": "Жеке беделді күш ресурстарын айрықша бақылаумен ұштастыру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Действующие сдержки и противовесы",
+            "en": "Functioning checks and balances",
+            "kk": "Қолданыстағы тежемелер мен тепе-теңдіктер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ограничение личного контроля над силовыми структурами",
+            "en": "Limits on personal control over the security forces",
+            "kk": "Күштік құрылымдарды жеке бақылауды шектеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Устойчивая правовая культура",
+            "en": "A stable legal culture",
+            "kk": "Тұрақты құқықтық мәдениет"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 120,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "За пределами непосредственно политической элиты во властвующую элиту могут входить:",
+        "en": "Beyond the directly political elite, the ruling elite may include:",
+        "kk": "Тікелей саяси элитадан тыс билеуші элитаның құрамына кіре алатын топтар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 532-535",
+          "units": [
+            "p532",
+            "p533",
+            "p534",
+            "p535"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Крупные собственники",
+            "en": "Large property owners",
+            "kk": "Ірі меншік иелері"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Все политически активные граждане независимо от объёма влияния",
+            "en": "All politically active citizens regardless of the extent of their influence",
+            "kk": "Ықпалының көлеміне қарамастан барлық саяси белсенді азаматтар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Носители высокого образования независимо от положения в принятии решений",
+            "en": "People with higher education regardless of their position in decision-making",
+            "kk": "Шешім қабылдаудағы жағдайына қарамастан жоғары білім иелері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Руководители информационной сферы",
+            "en": "Heads of the information sphere",
+            "kk": "Ақпарат саласының басшылары"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Влиятельные деятели науки",
+            "en": "Influential figures in science",
+            "kk": "Ғылымның ықпалды қайраткерлері"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D",
+        "E"
+      ]
+    }
+  ]
+}

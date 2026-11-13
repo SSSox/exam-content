@@ -1,0 +1,1385 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 311,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чувство принадлежности, выражаемое словом «мы», представляет собой...",
+        "en": "A sense of belonging, expressed by the word \"we\", is...",
+        "kk": "«Біз» сөзімен білдірілетін тиесілілік сезімі не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Показатель только морфологического сходства",
+            "en": "An indicator of only morphological similarity",
+            "kk": "Тек морфологиялық ұқсастықтың көрсеткіші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Психологическую характеристику группы",
+            "en": "A psychological characteristic of a group",
+            "kk": "Топтың психологиялық сипаттамасы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Признак исключительно номинальной категории",
+            "en": "A sign of an exclusively nominal category",
+            "kk": "Тек номиналды категорияның белгісі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Критерий только численности группы",
+            "en": "A criterion of only the size of a group",
+            "kk": "Тек топ санының өлшемі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Свидетельство отсутствия групповых норм",
+            "en": "Evidence of the absence of group norms",
+            "kk": "Топтық нормалардың жоқтығының дәлелі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Возрастной и профессиональный состав объединения характеризует его...",
+        "en": "The age and occupational makeup of an association characterizes its...",
+        "kk": "Бірлестіктің жас және кәсіби құрамы оның нені сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ролевые ожидания",
+            "en": "Role expectations",
+            "kk": "Рөлдік күтулерін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Групповой процесс",
+            "en": "Group process",
+            "kk": "Топтық процесін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Структуру коммуникаций",
+            "en": "Communication structure",
+            "kk": "Коммуникациялар құрылымын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Систему санкций",
+            "en": "System of sanctions",
+            "kk": "Санкциялар жүйесін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Композицию",
+            "en": "Composition",
+            "kk": "Композициясын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 13, 14, 15, 16",
+          "units": [
+            "p13",
+            "p14",
+            "p15",
+            "p16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Распределение предпочтений, власти и коммуникационных связей относится к...",
+        "en": "The distribution of preferences, power and communication ties belongs to the...",
+        "kk": "Қалаулардың, билік пен коммуникациялық байланыстардың бөлінуі нені көрсетеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Структуре группы",
+            "en": "Structure of the group",
+            "kk": "Топ құрылымын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Видовой принадлежности",
+            "en": "Species membership",
+            "kk": "Түрлік тиесілілікті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сенсорной организации",
+            "en": "Sensory organization",
+            "kk": "Сенсорлық ұйымдасуды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Численности группы",
+            "en": "Size of the group",
+            "kk": "Топтың санын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Композиции группы",
+            "en": "Composition of the group",
+            "kk": "Топ композициясын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 14",
+          "units": [
+            "p14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Параметры, входящие в характеристику группы:",
+        "en": "Parameters included in the characterization of a group:",
+        "kk": "Топ сипаттамасына кіретін параметрлер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только сумма темпераментов",
+            "en": "Only the sum of the temperaments",
+            "kk": "Тек темпераменттердің қосындысы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только совпадение возраста",
+            "en": "Only the similarity of age",
+            "kk": "Тек жастың сәйкес келуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Композиция и структура",
+            "en": "Composition and structure",
+            "kk": "Композиция және құрылым"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Система санкций",
+            "en": "A system of sanctions",
+            "kk": "Санкциялар жүйесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Нормы и ценности",
+            "en": "Norms and values",
+            "kk": "Нормалар мен құндылықтар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 13, 14, 17, 18",
+          "units": [
+            "p13",
+            "p14",
+            "p17",
+            "p18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одобрение соблюдения правил и порицание нарушений в группе являются...",
+        "en": "Approval of compliance with rules and censure of violations in a group are...",
+        "kk": "Топта ережелерді сақтауды құптау және бұзушылықты айыптау не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ролевыми ожиданиями",
+            "en": "Role expectations",
+            "kk": "Рөлдік күтулер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Санкциями",
+            "en": "Sanctions",
+            "kk": "Санкциялар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нормами",
+            "en": "Norms",
+            "kk": "Нормалар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Статусными позициями",
+            "en": "Status positions",
+            "kk": "Мәртебелік ұстанымдар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ценностями",
+            "en": "Values",
+            "kk": "Құндылықтар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 17, 18",
+          "units": [
+            "p17",
+            "p18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой признак особенно важен для разграничения большой и малой группы?",
+        "en": "Which feature is especially important for distinguishing a large group from a small one?",
+        "kk": "Үлкен және шағын топты ажырату үшін қандай белгі ерекше маңызды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наличие системы статусов в малой группе",
+            "en": "The presence of a system of statuses in a small group",
+            "kk": "Шағын топта мәртебелер жүйесінің болуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наличие общих норм поведения у членов малой группы",
+            "en": "The presence of common norms of behavior among the members of a small group",
+            "kk": "Шағын топ мүшелерінде ортақ мінез-құлық нормаларының болуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Осознание своей принадлежности к малой группе",
+            "en": "Awareness of belonging to a small group",
+            "kk": "Шағын топқа тиесілі екенін ұғыну"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Непосредственные личные контакты членов малой группы",
+            "en": "Direct personal contacts among the members of a small group",
+            "kk": "Шағын топ мүшелерінің тікелей жеке байланыстары"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Участие членов малой группы в социальной деятельности",
+            "en": "Participation of the members of a small group in social activity",
+            "kk": "Шағын топ мүшелерінің әлеуметтік әрекетке қатысуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 38, 41",
+          "units": [
+            "p38",
+            "p41"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Люди находятся в одном вагоне и не осуществляют сознательного взаимодействия. Такое объединение называется...",
+        "en": "People are in the same railway carriage and do not interact consciously. Such an association is called...",
+        "kk": "Адамдар бір вагонда отыр және саналы өзара әрекеттеспейді. Мұндай бірлестік қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Агрегацией",
+            "en": "An aggregation",
+            "kk": "Агрегация"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Первичной группой",
+            "en": "A primary group",
+            "kk": "Алғашқы топ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Референтной группой",
+            "en": "A reference group",
+            "kk": "Референттік топ"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Группой совместной деятельности",
+            "en": "A joint-activity group",
+            "kk": "Бірлескен әрекет тобы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Реальной организованной группой",
+            "en": "A real organized group",
+            "kk": "Нақты ұйымдасқан топ"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 31, 32",
+          "units": [
+            "p31",
+            "p32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Спонтанное неустойчивое образование с кратковременным взаимодействием одного вида называется...",
+        "en": "A spontaneous, unstable formation with short-term interaction of a single kind is called...",
+        "kk": "Бір түрлі қысқа мерзімді өзара әрекеттесуі бар стихиялы тұрақсыз құрылым қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Статусной позицией",
+            "en": "A status position",
+            "kk": "Мәртебелік ұстаным"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Референтной группой",
+            "en": "A reference group",
+            "kk": "Референттік топ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ролевой структурой",
+            "en": "A role structure",
+            "kk": "Рөлдік құрылым"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Квазигруппой",
+            "en": "A quasi-group",
+            "kk": "Квазитоп"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Первичной группой",
+            "en": "A primary group",
+            "kk": "Алғашқы топ"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 34, 35",
+          "units": [
+            "p34",
+            "p35"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия общностей.",
+        "en": "Indicate the correct correspondences between communities.",
+        "kk": "Қауымдастықтардың дұрыс сәйкестіктерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Агрегация: совместное нахождение без взаимодействия",
+            "en": "Aggregation: being together without interaction",
+            "kk": "Агрегация: өзара әрекеттесусіз бірге болу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Квазигруппа: кратковременное спонтанное взаимодействие",
+            "en": "Quasi-group: short-term spontaneous interaction",
+            "kk": "Квазитоп: қысқа мерзімді стихиялы өзара әрекеттесу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Малая группа: личные контакты и общая деятельность",
+            "en": "Small group: personal contacts and joint activity",
+            "kk": "Шағын топ: жеке байланыстар мен ортақ әрекет"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Референтная группа: только пространственное соседство",
+            "en": "Reference group: only spatial proximity",
+            "kk": "Референттік топ: тек кеңістіктік көршілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Первичная группа: только статистическая категория",
+            "en": "Primary group: only a statistical category",
+            "kk": "Алғашқы топ: тек статистикалық категория"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 31, 35, 41",
+          "units": [
+            "p31",
+            "p35",
+            "p41"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Людей выделили в категорию по условному признаку исключительно для анализа. Это группа...",
+        "en": "People were placed in a category by a conventional criterion solely for the purposes of analysis. This is a... group.",
+        "kk": "Адамдар тек талдау үшін шартты белгі бойынша категорияға бөлінген. Бұл қандай топ?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Реальная организованная",
+            "en": "Real organized",
+            "kk": "Нақты ұйымдасқан"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Кооперативная",
+            "en": "Cooperative",
+            "kk": "Кооперативті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Контактная деятельностная",
+            "en": "Contact activity-based",
+            "kk": "Байланыстық әрекеттік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Первичная",
+            "en": "Primary",
+            "kk": "Алғашқы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Номинальная",
+            "en": "Nominal",
+            "kk": "Номиналды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 38, 40",
+          "units": [
+            "p38",
+            "p40"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Способность общности действовать как целое ради осознаваемых общих целей характеризует группу...",
+        "en": "The capacity of a community to act as a whole for the sake of shared goals of which it is aware characterizes a... group.",
+        "kk": "Қауымдастықтың саналы ортақ мақсаттар үшін тұтас ретінде әрекет ету қабілеті қандай топты сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Воображаемую референтную",
+            "en": "Imaginary reference",
+            "kk": "Қиялдағы референттік топты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Случайно-агрегированную",
+            "en": "Randomly aggregated",
+            "kk": "Кездейсоқ агрегацияланған топты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Чисто номинальную",
+            "en": "Purely nominal",
+            "kk": "Таза номиналды топты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Реальную",
+            "en": "Real",
+            "kk": "Нақты топты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Условно-статистическую",
+            "en": "Conventionally statistical",
+            "kk": "Шартты статистикалық топты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 39, 40",
+          "units": [
+            "p39",
+            "p40"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Термин «первичная группа» ввёл...",
+        "en": "The term \"primary group\" was introduced by...",
+        "kk": "«Алғашқы топ» терминін кім енгізді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Г. Келли",
+            "en": "H. Kelley",
+            "kk": "Г. Келли"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ч. Х. Кули",
+            "en": "C. H. Cooley",
+            "kk": "Ч. Х. Кули"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Г. Лассуэлл",
+            "en": "H. Lasswell",
+            "kk": "Г. Лассуэлл"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Э. Шостром",
+            "en": "E. Shostrom",
+            "kk": "Э. Шостром"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "К. Леонгард",
+            "en": "K. Leonhard",
+            "kk": "К. Леонгард"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 43",
+          "units": [
+            "p43"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Неформальный контроль, близость и высокая солидарность отличают прежде всего группу...",
+        "en": "Informal control, closeness and high solidarity distinguish primarily the... group.",
+        "kk": "Бейресми бақылау, жақындық және жоғары ынтымақтастық ең алдымен қай топты ерекшелейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вторичную",
+            "en": "Secondary",
+            "kk": "Екінші реттік топты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Первичную",
+            "en": "Primary",
+            "kk": "Алғашқы топты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Статистическую",
+            "en": "Statistical",
+            "kk": "Статистикалық топты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Номинальную",
+            "en": "Nominal",
+            "kk": "Номиналды топты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Агрегированную",
+            "en": "Aggregated",
+            "kk": "Агрегацияланған топты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 43, 45",
+          "units": [
+            "p43",
+            "p45"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верно указанные признаки типов групп:",
+        "en": "Correctly stated features of types of groups:",
+        "kk": "Топ түрлерінің дұрыс көрсетілген белгілері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вторичная: обязательная интимная близость",
+            "en": "Secondary: obligatory intimate closeness",
+            "kk": "Екінші реттік: міндетті интимдік жақындық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Первичная: эмоциональная близость",
+            "en": "Primary: emotional closeness",
+            "kk": "Алғашқы: эмоциялық жақындық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Референтная: эталон норм и самооценки",
+            "en": "Reference: a standard for norms and self-esteem",
+            "kk": "Референттік: нормалар мен өзін-өзі бағалаудың эталоны"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Вторичная: приоритет выполнения функции",
+            "en": "Secondary: priority of performing a function",
+            "kk": "Екінші реттік: функцияны орындаудың басымдығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Первичная: исключительно безличные отношения",
+            "en": "Primary: exclusively impersonal relations",
+            "kk": "Алғашқы: тек бейтұлғалық қатынастар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 43, 45, 51",
+          "units": [
+            "p43",
+            "p45",
+            "p51"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Студент ориентируется на ценности профессионального сообщества, в которое ещё не входит. Оно для него...",
+        "en": "A student is guided by the values of a professional community he does not yet belong to. For him it is a...",
+        "kk": "Студент әлі мүше болмаған кәсіби қауымдастықтың құндылықтарына бағдарланады. Ол оның үшін қандай топ?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Референтная группа",
+            "en": "Reference group",
+            "kk": "Референттік топ"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Квазигруппа",
+            "en": "Quasi-group",
+            "kk": "Квазитоп"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Агрегация",
+            "en": "Aggregation",
+            "kk": "Агрегация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Первичная контактная группа",
+            "en": "Primary contact group",
+            "kk": "Алғашқы байланыстық топ"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Группа членства",
+            "en": "Membership group",
+            "kk": "Мүшелік тобы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 51, 52",
+          "units": [
+            "p51",
+            "p52"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему группа членства может не совпадать с референтной?",
+        "en": "Why may a membership group fail to coincide with a reference group?",
+        "kk": "Неге мүшелік тобы референттік топпен сәйкес келмеуі мүмкін?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Референтность определяется только числом участников",
+            "en": "Reference status is determined only by the number of participants",
+            "kk": "Референттілік тек қатысушылар санымен анықталады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Референтная группа всегда только воображаемая",
+            "en": "A reference group is always only imaginary",
+            "kk": "Референттік топ әрдайым тек қиялдағы болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В группе членства никогда не бывает ценностей",
+            "en": "A membership group never has any values",
+            "kk": "Мүшелік тобында құндылықтар ешқашан болмайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Реальная принадлежность отличается от нормативной ориентации",
+            "en": "Actual belonging differs from normative orientation",
+            "kk": "Нақты тиесілілік нормативтік бағдардан өзгеше"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Человек может состоять только в одной группе",
+            "en": "A person can belong to only one group",
+            "kk": "Адам тек бір топтың мүшесі бола алады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 51, 52",
+          "units": [
+            "p51",
+            "p52"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 327,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В структуре психологии больших групп более подвижный эмоциональный компонент включает прежде всего...",
+        "en": "In the structure of the psychology of large groups, the more mobile emotional component includes primarily...",
+        "kk": "Үлкен топтар психологиясының құрылымында неғұрлым қозғалмалы эмоциялық компонентке ең алдымен не кіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Устойчивые нравы и типичные вкусы",
+            "en": "Stable mores and typical tastes",
+            "kk": "Тұрақты әдеп-ғұрыптар мен типтік талғамдар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Традиции и привычные способы мышления",
+            "en": "Traditions and habitual ways of thinking",
+            "kk": "Дәстүрлер мен ойлаудың үйреншікті тәсілдері"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Настроения, чувства и интересы",
+            "en": "Moods, feelings and interests",
+            "kk": "Көңіл-күйлер, сезімдер мен қызығушылықтар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социальный характер, обычаи и традиции",
+            "en": "Social character, customs and traditions",
+            "kk": "Әлеуметтік мінез, салт-дәстүрлер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Социальный характер и устойчивые нравы",
+            "en": "Social character and stable mores",
+            "kk": "Әлеуметтік мінез және тұрақты әдеп-ғұрыптар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 21",
+          "units": [
+            "p21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Каким образом общие условия жизни большой группы влияют на её представителей?",
+        "en": "How do the common living conditions of a large group influence its representatives?",
+        "kk": "Үлкен топтың жалпы өмір жағдайлары оның өкілдеріне қалай әсер етеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только через непосредственный контакт каждого с каждым",
+            "en": "Only through direct contact of everyone with everyone",
+            "kk": "Тек әркімнің әркіммен тікелей байланысы арқылы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Независимо от культуры и условий существования",
+            "en": "Independently of culture and conditions of existence",
+            "kk": "Мәдениет пен өмір сүру жағдайларынан тәуелсіз"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Через личный опыт и общение в социальной среде",
+            "en": "Through personal experience and communication in the social environment",
+            "kk": "Әлеуметтік ортадағы жеке тәжірибе мен қарым-қатынас арқылы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительно через наследование готовых норм",
+            "en": "Exclusively through the inheritance of ready-made norms",
+            "kk": "Тек дайын нормаларды мұралау арқылы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Через полное устранение индивидуальных различий",
+            "en": "Through the complete elimination of individual differences",
+            "kk": "Жеке айырмашылықтарды толық жою арқылы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 21, 22, 23, 24",
+          "units": [
+            "p21",
+            "p22",
+            "p23",
+            "p24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "topic_id": 15,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные положения о согласовании интересов и конфликтах.",
+        "en": "Indicate the correct statements about the reconciliation of interests and about conflicts.",
+        "kk": "Мүдделерді келісу мен қақтығыстар туралы дұрыс тұжырымдарды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Консенсус предполагает обязательное применение силы",
+            "en": "Consensus presupposes the mandatory use of force",
+            "kk": "Консенсус күшті міндетті түрде қолдануды көздейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Доверие и беспристрастное посредничество поддерживают согласование",
+            "en": "Trust and impartial mediation support reconciliation",
+            "kk": "Сенім мен бейтарап делдалдық келісуді қолдайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Оперативное управление включает разовые ограничительные действия",
+            "en": "Operational management includes one-off restrictive actions",
+            "kk": "Жедел басқару біржолғы шектеу әрекеттерін қамтиды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Оперативные меры равны только долгосрочному прогнозу",
+            "en": "Operational measures are equal to only long-term forecasting",
+            "kk": "Жедел шаралар тек ұзақ мерзімді болжаммен тең"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Стратегическое управление предусматривает предупреждение конфликтов",
+            "en": "Strategic management provides for the prevention of conflicts",
+            "kk": "Стратегиялық басқару қақтығыстардың алдын алуды көздейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 54, 62, 63, 64, 73, 74, 75, 76",
+          "units": [
+            "p54",
+            "p62",
+            "p63",
+            "p64",
+            "p73",
+            "p74",
+            "p75",
+            "p76"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "topic_id": 15,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Член команды соблюдает её санкции, но в самооценке опирается на ценности другой общности. Какой вывод точнее?",
+        "en": "A team member complies with its sanctions but relies on the values of another community in his self-esteem. Which conclusion is more accurate?",
+        "kk": "Команда мүшесі оның санкцияларын сақтайды, бірақ өзін-өзі бағалауда басқа қауымдастықтың құндылықтарына сүйенеді. Қандай қорытынды дәлірек?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Референтность означает формальное руководство",
+            "en": "Reference status means formal leadership",
+            "kk": "Референттілік ресми басшылықты білдіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Группа членства и референтная группа различаются",
+            "en": "The membership group and the reference group are different",
+            "kk": "Мүшелік тобы мен референттік топ бір-бірінен ерекшеленеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Членство автоматически исключает иную ориентацию",
+            "en": "Membership automatically excludes any other orientation",
+            "kk": "Мүшелік басқа бағдарды автоматты түрде жоққа шығарады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Санкции превращают любую группу в номинальную",
+            "en": "Sanctions turn any group into a nominal one",
+            "kk": "Санкциялар кез келген топты номиналды топқа айналдырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Групповое влияние исключает личную самооценку",
+            "en": "Group influence excludes personal self-esteem",
+            "kk": "Топтық ықпал жеке өзін-өзі бағалауды жоққа шығарады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L15",
+          "file": "Лекции/Лекция 15.docx",
+          "location": "Абзацы 18, 51, 52",
+          "units": [
+            "p18",
+            "p51",
+            "p52"
+          ]
+        }
+      ]
+    }
+  ]
+}

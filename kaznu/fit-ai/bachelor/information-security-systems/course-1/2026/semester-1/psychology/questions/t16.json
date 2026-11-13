@@ -1,0 +1,1364 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 331,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В разграничении Б. Д. Парыгина основное отличие руководства от лидерства связано с...",
+        "en": "In B. D. Parygin's distinction, the main difference between management (headship) and leadership is connected with...",
+        "kk": "Б. Д. Парыгиннің ажыратуында басшылықтың көшбасшылықтан басты айырмашылығы неге байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обязательной зависимостью только от настроения группы",
+            "en": "An obligatory dependence only on the mood of the group",
+            "kk": "Тек топтың көңіл-күйіне міндетті тәуелділікке"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Регуляцией официальных отношений и формальными полномочиями",
+            "en": "The regulation of official relations and formal authority",
+            "kk": "Ресми қатынастарды реттеуге және формалды өкілеттіктерге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключительно стихийным выдвижением",
+            "en": "Exclusively spontaneous emergence",
+            "kk": "Тек стихиялы ұсынылуға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отсутствием влияния на совместную деятельность",
+            "en": "The absence of any influence on joint activity",
+            "kk": "Бірлескен әрекетке ықпалдың болмауына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствием санкций у руководителя",
+            "en": "The absence of sanctions on the part of the manager",
+            "kk": "Басшыда санкциялардың болмауына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 4",
+          "units": [
+            "p4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "topic_id": 16,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Человек влияет на команду благодаря признанию и добровольному следованию, не имея должности. Это прежде всего...",
+        "en": "A person influences a team thanks to recognition and voluntary following, without holding a position. This is primarily...",
+        "kk": "Адам лауазымы болмаса да, мойындау мен ерікті ілесу арқылы командаға ықпал етеді. Бұл ең алдымен не?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Должностной контроль",
+            "en": "Positional control",
+            "kk": "Лауазымдық бақылау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Административное подчинение",
+            "en": "Administrative subordination",
+            "kk": "Әкімшілік бағыну"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Лидерство",
+            "en": "Leadership",
+            "kk": "Көшбасшылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Формальное руководство",
+            "en": "Formal management",
+            "kk": "Формалды басшылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Правовая санкция",
+            "en": "A legal sanction",
+            "kk": "Құқықтық санкция"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 4",
+          "units": [
+            "p4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Объяснение лидерства определённым набором врождённых личностных качеств характерно для...",
+        "en": "Explaining leadership by a certain set of innate personal qualities is characteristic of the...",
+        "kk": "Көшбасшылықты туа біткен тұлғалық қасиеттердің белгілі жиынтығымен түсіндіру қайсысына тән?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Синтетической концепции",
+            "en": "Synthetic concept",
+            "kk": "Синтетикалық тұжырымдамаға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ситуационной теории",
+            "en": "Situational theory",
+            "kk": "Жағдаяттық теорияға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Поведенческого подхода к обучению лидерству",
+            "en": "Behavioral approach to leadership training",
+            "kk": "Көшбасшылыққа оқытудың мінез-құлықтық тәсіліне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Теории черт",
+            "en": "Trait theory",
+            "kk": "Қасиеттер теориясына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Группового объяснения лидерского влияния",
+            "en": "Group explanation of leadership influence",
+            "kk": "Көшбасшылық ықпалды топтық түсіндіруге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 4",
+          "units": [
+            "p4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "topic_id": 16,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения синтетической концепции лидерства:",
+        "en": "Statements of the synthetic concept of leadership:",
+        "kk": "Көшбасшылықтың синтетикалық тұжырымдамасына жататын тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Лидерство полностью сводится к врождённой харизме",
+            "en": "Leadership is entirely reducible to innate charisma",
+            "kk": "Көшбасшылық толығымен туа біткен харизмаға келтіріледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Учитывается характер ситуации",
+            "en": "The nature of the situation is taken into account",
+            "kk": "Жағдайдың сипаты ескеріледі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Группа исключается из анализа влияния",
+            "en": "The group is excluded from the analysis of influence",
+            "kk": "Топ ықпалды талдаудан шығарылады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Учитываются качества лидера",
+            "en": "The qualities of the leader are taken into account",
+            "kk": "Көшбасшының қасиеттері ескеріледі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Учитываются особенности последователей",
+            "en": "The characteristics of the followers are taken into account",
+            "kk": "Ізбасарлардың ерекшеліктері ескеріледі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 4",
+          "units": [
+            "p4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "topic_id": 16,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Один и тот же человек лидирует в одной деятельности и следует за другими в иной. Это особенно подчёркивает подход...",
+        "en": "The same person leads in one activity and follows others in another. This especially supports the... approach.",
+        "kk": "Бір адам бір әрекетте көшбасшы болады, ал басқасында өзгелерге ереді. Бұл қай тәсілде ерекше атап өтіледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теории универсального лидерского профиля",
+            "en": "Universal leadership profile",
+            "kk": "Әмбебап көшбасшылық бейін теориясында"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ситуационный",
+            "en": "Situational",
+            "kk": "Жағдаяттық тәсілде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Харизматический",
+            "en": "Charismatic",
+            "kk": "Харизматикалық тәсілде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Конституциональный",
+            "en": "Constitutional",
+            "kk": "Конституциялық тәсілде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Теории врождённых черт",
+            "en": "Innate traits",
+            "kk": "Туа біткен қасиеттер теориясында"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 4",
+          "units": [
+            "p4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Классическое различение авторитарного, демократического и либерального стилей связано с...",
+        "en": "The classic distinction between the authoritarian, democratic and laissez-faire styles is associated with...",
+        "kk": "Авторитарлық, демократиялық және либералдық стильдердің классикалық ажыратылуы кіммен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Л. Фестингером",
+            "en": "L. Festinger",
+            "kk": "Л. Фестингермен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ч. Спирменом",
+            "en": "C. Spearman",
+            "kk": "Ч. Спирменмен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В. Штерном",
+            "en": "W. Stern",
+            "kk": "В. Штернмен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Г. Лассуэллом",
+            "en": "H. Lasswell",
+            "kk": "Г. Лассуэллмен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "К. Левиным",
+            "en": "K. Lewin",
+            "kk": "К. Левинмен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 4",
+          "units": [
+            "p4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "topic_id": 16,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой вывод о выборе стиля руководства соответствует учёту условий деятельности?",
+        "en": "Which conclusion about the choice of a leadership style is consistent with taking the conditions of the activity into account?",
+        "kk": "Басшылық стилін таңдау туралы қандай қорытынды әрекет жағдайларын ескеруге сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Один стиль неизменно оптимален во всех обстоятельствах",
+            "en": "One style is invariably optimal in all circumstances",
+            "kk": "Бір стиль барлық жағдайда әрдайым оңтайлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Характер задач не связан со способом руководства",
+            "en": "The nature of the tasks is unrelated to the way of leading",
+            "kk": "Міндеттердің сипаты басшылық тәсілімен байланысты емес"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ожидания группы никогда не влияют на управление",
+            "en": "The expectations of the group never influence management",
+            "kk": "Топтың күтулері басқаруға ешқашан әсер етпейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Стиль определяется исключительно возрастом руководителя",
+            "en": "Style is determined exclusively by the age of the manager",
+            "kk": "Стиль тек басшының жасымен анықталады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Стиль зависит от задачи, группы и особенностей руководителя",
+            "en": "Style depends on the task, the group and the characteristics of the manager",
+            "kk": "Стиль міндетке, топқа және басшының ерекшеліктеріне байланысты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 6, 7",
+          "units": [
+            "p6",
+            "p7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "topic_id": 16,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой фактор выбора стиля руководства относится к субъективным?",
+        "en": "Which factor in the choice of a leadership style is subjective?",
+        "kk": "Басшылық стилін таңдаудың қандай факторы субъективті факторларға жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Срочность производственной задачи",
+            "en": "The urgency of a production task",
+            "kk": "Өндірістік міндеттің шұғылдығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Управленческий опыт руководителя",
+            "en": "The manager's managerial experience",
+            "kk": "Басшының басқару тәжірибесі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ступень управленческой иерархии",
+            "en": "The level of the management hierarchy",
+            "kk": "Басқару иерархиясының сатысы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тип организации",
+            "en": "The type of organization",
+            "kk": "Ұйымның түрі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Специфика основной деятельности",
+            "en": "The specific nature of the main activity",
+            "kk": "Негізгі әрекеттің ерекшелігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 7",
+          "units": [
+            "p7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "topic_id": 16,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные положения о руководстве и лидерстве:",
+        "en": "Correct statements about management and leadership:",
+        "kk": "Басшылық пен көшбасшылық туралы дұрыс тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Должность автоматически гарантирует психологическое лидерство",
+            "en": "A position automatically guarantees psychological leadership",
+            "kk": "Лауазым психологиялық көшбасшылыққа автоматты түрде кепілдік береді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "На стиль влияет подготовленность руководителя",
+            "en": "Style is influenced by the manager's preparedness",
+            "kk": "Стильге басшының даярлығы әсер етеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Лидер обязательно обладает дисциплинарными полномочиями",
+            "en": "A leader necessarily has disciplinary authority",
+            "kk": "Көшбасшы міндетті түрде тәртіптік өкілеттікке ие болады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Стиль полностью независим от ситуации",
+            "en": "Style is completely independent of the situation",
+            "kk": "Стиль жағдайдан толық тәуелсіз"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Формальное руководство и лидерство могут совмещаться",
+            "en": "Formal management and leadership can coincide",
+            "kk": "Формалды басшылық пен көшбасшылық қатар жүруі мүмкін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 4, 7",
+          "units": [
+            "p4",
+            "p7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одновременное действие на человека противоположно направленных сил примерно равной величины определяет конфликт у...",
+        "en": "The simultaneous action on a person of oppositely directed forces of approximately equal magnitude defines conflict according to...",
+        "kk": "Адамға шамасы шамамен тең, қарама-қарсы бағытталған күштердің бір мезгілде әсер етуін кім қақтығыс деп анықтайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Г. Айзенка",
+            "en": "H. Eysenck",
+            "kk": "Г. Айзенк"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "М. Дойча",
+            "en": "M. Deutsch",
+            "kk": "М. Дойч"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "К. Левина",
+            "en": "K. Lewin",
+            "kk": "К. Левин"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Г. Лассуэлла",
+            "en": "H. Lasswell",
+            "kk": "Г. Лассуэлл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Л. Козера",
+            "en": "L. Coser",
+            "kk": "Л. Козер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 17",
+          "units": [
+            "p17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Несовместимые ожидания, предъявляемые человеку как исполнителю социальной роли, описывают конфликт...",
+        "en": "Incompatible expectations addressed to a person as the performer of a social role describe a(n)... conflict.",
+        "kk": "Әлеуметтік рөлді орындаушы ретінде адамға қойылатын үйлеспейтін күтулер қандай қақтығысты сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Межгрупповой",
+            "en": "Intergroup",
+            "kk": "Топаралық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Внутригрупповой",
+            "en": "Intragroup",
+            "kk": "Топ ішілік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Межличностный",
+            "en": "Interpersonal",
+            "kk": "Тұлғааралық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мотивационный",
+            "en": "Motivational",
+            "kk": "Мотивациялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ролевой",
+            "en": "Role",
+            "kk": "Рөлдік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 18",
+          "units": [
+            "p18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Конфликт сотрудников, не находящихся в подчинении друг у друга, по направленности является...",
+        "en": "A conflict between employees who are not in a subordinate relationship to one another is, by direction, a... conflict.",
+        "kk": "Бір-біріне бағынбайтын қызметкерлердің қақтығысы бағыты бойынша қандай қақтығыс болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вертикальным",
+            "en": "Vertical",
+            "kk": "Тігінен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Горизонтальным",
+            "en": "Horizontal",
+            "kk": "Көлденең"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Латентным",
+            "en": "Latent",
+            "kk": "Латентті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Смешанным",
+            "en": "Mixed",
+            "kk": "Аралас"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Внутриличностным",
+            "en": "Intrapersonal",
+            "kk": "Тұлға ішілік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 44",
+          "units": [
+            "p44"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "По направленности конфликт, включающий отношения коллег и отношения подчинения, называется...",
+        "en": "By direction, a conflict that involves both the relations between colleagues and relations of subordination is called...",
+        "kk": "Әріптестер қатынасы мен бағыныстылық қатынастарын қамтитын қақтығыс бағыты бойынша қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Внутригрупповым",
+            "en": "Intragroup",
+            "kk": "Топ ішілік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Горизонтальным",
+            "en": "Horizontal",
+            "kk": "Көлденең"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Межгрупповым",
+            "en": "Intergroup",
+            "kk": "Топаралық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Смешанным",
+            "en": "Mixed",
+            "kk": "Аралас"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Вертикальным",
+            "en": "Vertical",
+            "kk": "Тігінен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 44",
+          "units": [
+            "p44"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "topic_id": 16,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия типов конфликтов.",
+        "en": "Indicate the correct correspondences between types of conflicts.",
+        "kk": "Қақтығыс түрлерінің дұрыс сәйкестіктерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Конструктивный: способствует полезному изменению",
+            "en": "Constructive: promotes useful change",
+            "kk": "Конструктивті: пайдалы өзгеріске ықпал етеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Подлинный: существует объективно и воспринимается адекватно",
+            "en": "Veridical: exists objectively and is perceived accurately",
+            "kk": "Шынайы: объективті түрде бар және адекватты қабылданады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Деструктивный: обязательно улучшает доверие",
+            "en": "Destructive: necessarily improves trust",
+            "kk": "Деструктивті: сенімді міндетті түрде жақсартады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ложный: возникает без объективного основания",
+            "en": "False: arises without an objective basis",
+            "kk": "Жалған: объективті негізсіз туындайды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Латентный: обязательно открыто осознан всеми",
+            "en": "Latent: necessarily openly recognized by everyone",
+            "kk": "Латентті: барлығы міндетті түрде ашық ұғынған"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 45, 48, 52, 53",
+          "units": [
+            "p45",
+            "p48",
+            "p52",
+            "p53"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "topic_id": 16,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Конфликт зависит от легко изменяемых обстоятельств, чего стороны не замечают. В классификации М. Дойча он...",
+        "en": "A conflict depends on easily changed circumstances, which the parties do not notice. In M. Deutsch's classification it is...",
+        "kk": "Қақтығыс жақтар байқамайтын, оңай өзгеретін жағдайларға байланысты. М. Дойч жіктемесінде ол қандай қақтығыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Латентный",
+            "en": "Latent",
+            "kk": "Латентті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Смещённый",
+            "en": "Displaced",
+            "kk": "Ығыстырылған"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Условный",
+            "en": "Contingent",
+            "kk": "Шартты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Подлинный",
+            "en": "Veridical",
+            "kk": "Шынайы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ложный",
+            "en": "False",
+            "kk": "Жалған"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 49",
+          "units": [
+            "p49"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "topic_id": 16,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Открытый спор скрывает другой конфликт, который служит его реальным основанием. По М. Дойчу это конфликт...",
+        "en": "An open dispute conceals another conflict, which is its real basis. According to M. Deutsch, this is a... conflict.",
+        "kk": "Ашық дау нақты негіз болып табылатын басқа қақтығысты жасырады. М. Дойч бойынша бұл қандай қақтығыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ложный",
+            "en": "False",
+            "kk": "Жалған"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Условный",
+            "en": "Contingent",
+            "kk": "Шартты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Подлинный",
+            "en": "Veridical",
+            "kk": "Шынайы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Смещённый",
+            "en": "Displaced",
+            "kk": "Ығыстырылған"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Латентный",
+            "en": "Latent",
+            "kk": "Латентті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 50",
+          "units": [
+            "p50"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "topic_id": 16,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Объективные основания столкновения существуют, но стороны их ещё не осознают. По М. Дойчу конфликт...",
+        "en": "The objective grounds for a clash exist, but the parties are not yet aware of them. According to M. Deutsch, the conflict is...",
+        "kk": "Қақтығыстың объективті негіздері бар, бірақ жақтар оларды әлі ұғынбайды. М. Дойч бойынша бұл қандай қақтығыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Латентный",
+            "en": "Latent",
+            "kk": "Латентті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Смещённый",
+            "en": "Displaced",
+            "kk": "Ығыстырылған"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Условный",
+            "en": "Contingent",
+            "kk": "Шартты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ложный",
+            "en": "False",
+            "kk": "Жалған"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Неверно приписанный",
+            "en": "Misattributed",
+            "kk": "Қате жатқызылған"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 52",
+          "units": [
+            "p52"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "topic_id": 16,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Противоречие мотивов и потребностей у одного и того же человека по объёму взаимодействия является конфликтом...",
+        "en": "A contradiction between motives and needs within one and the same person is, by the scope of interaction, a... conflict.",
+        "kk": "Бір адамдағы мотивтер мен қажеттіліктердің қайшылығы өзара әрекеттесу көлемі бойынша қандай қақтығыс болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вертикальным",
+            "en": "Vertical",
+            "kk": "Тігінен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Внутригрупповым",
+            "en": "Intragroup",
+            "kk": "Топ ішілік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Межгрупповым",
+            "en": "Intergroup",
+            "kk": "Топаралық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Внутриличностным",
+            "en": "Intrapersonal",
+            "kk": "Тұлға ішілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Межличностным",
+            "en": "Interpersonal",
+            "kk": "Тұлғааралық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 58, 62",
+          "units": [
+            "p58",
+            "p62"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "topic_id": 16,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Последствия, которые могут отражать конструктивный потенциал конфликта:",
+        "en": "Consequences that may reflect the constructive potential of a conflict:",
+        "kk": "Қақтығыстың конструктивті әлеуетін көрсете алатын салдарлар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прояснение значимых ценностей",
+            "en": "Clarification of significant values",
+            "kk": "Маңызды құндылықтардың айқындалуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Выявление проблем, требующих обсуждения",
+            "en": "Identification of problems that need to be discussed",
+            "kk": "Талқылауды қажет ететін мәселелердің анықталуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Неизбежное разрушение доверия",
+            "en": "The inevitable destruction of trust",
+            "kk": "Сенімнің сөзсіз бұзылуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Объединение единомышленников",
+            "en": "Bringing like-minded people together",
+            "kk": "Ойлас адамдардың бірігуі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательный распад всех рабочих связей",
+            "en": "The obligatory breakdown of all working ties",
+            "kk": "Барлық жұмыс байланыстарының міндетті түрде үзілуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 20, 21, 24, 28, 38, 39",
+          "units": [
+            "p20",
+            "p21",
+            "p24",
+            "p28",
+            "p38",
+            "p39"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "topic_id": 16,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какие отношения повышают устойчивость группы к разрушительному конфликту?",
+        "en": "Which relations increase a group's resilience to destructive conflict?",
+        "kk": "Қандай қатынастар топтың жойқын қақтығысқа тұрақтылығын арттырады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кооперация, открытая коммуникация и взаимная поддержка",
+            "en": "Cooperation, open communication and mutual support",
+            "kk": "Кооперация, ашық коммуникация және өзара қолдау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Предотвращение любого обсуждения разногласий",
+            "en": "Preventing any discussion of disagreements",
+            "kk": "Келіспеушіліктерді кез келген талқылаудың алдын алу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отсутствие согласованных целей и ролей",
+            "en": "The absence of agreed goals and roles",
+            "kk": "Келісілген мақсаттар мен рөлдердің болмауы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Изоляция участников и закрытость информации",
+            "en": "Isolation of participants and secrecy of information",
+            "kk": "Қатысушылардың оқшаулануы және ақпараттың жабықтығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Взаимное ожидание обмана и конкуренция",
+            "en": "Mutual expectation of deceit and competition",
+            "kk": "Өзара алдау күтуі және бәсеке"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L16",
+          "file": "Лекции/лекция№15.docx",
+          "location": "Абзацы 61",
+          "units": [
+            "p61"
+          ]
+        }
+      ]
+    }
+  ]
+}

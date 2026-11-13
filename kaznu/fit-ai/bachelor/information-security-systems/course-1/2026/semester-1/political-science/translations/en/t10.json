@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 10,
+  "topic_name": "Political Parties, Party Systems and Movements",
+  "questions": {
+    "211": {
+      "question": "The defining goal of a political party, as compared with an interest group, is...",
+      "options": {
+        "A": "Mandatory representation of a single profession",
+        "B": "Participation in winning and exercising state power",
+        "C": "The direct resolution of judicial disputes",
+        "D": "Supplying exclusively expert information",
+        "E": "Defending any private interest without aspiring to power"
+      }
+    },
+    "212": {
+      "question": "The transformation of a social group's vague discontent into specific demands on the authorities is...",
+      "options": {
+        "A": "The routinization of charisma",
+        "B": "Interest articulation",
+        "C": "Political co-optation",
+        "D": "Electoral geography",
+        "E": "Elite recruitment"
+      }
+    },
+    "213": {
+      "question": "A professional association provides expert information to a parliamentary committee in order to have a bill amended. This is an example of...",
+      "options": {
+        "A": "An election commission taking the place of a political party",
+        "B": "The direct exercise of state sovereignty",
+        "C": "An interest group influencing decision-making",
+        "D": "An association independently adopting a law",
+        "E": "An association turning into a judicial body"
+      }
+    },
+    "214": {
+      "question": "Voluntary associations created specifically to represent interests are classified as ... groups.",
+      "options": {
+        "A": "Charismatic",
+        "B": "Associational",
+        "C": "Patrimonial",
+        "D": "Non-associational",
+        "E": "Spontaneous"
+      }
+    },
+    "215": {
+      "question": "An institutional interest group is distinguished from a spontaneous association chiefly by...",
+      "options": {
+        "A": "The mandatory illegality of its methods of influence",
+        "B": "A refusal of regular interaction with the authorities",
+        "C": "A stable organization and a professional apparatus",
+        "D": "An exclusively emotional bond among the participants",
+        "E": "The mandatory absence of leaders"
+      }
+    },
+    "216": {
+      "question": "A party's electorate differs from its formal membership in that it includes...",
+      "options": {
+        "A": "Only deputies elected on the party list",
+        "B": "Voters who vote for the party regardless of membership",
+        "C": "All residents of the territory irrespective of how they vote",
+        "D": "Only the staff of the paid party apparatus",
+        "E": "Exclusively the members of the highest party body"
+      }
+    },
+    "217": {
+      "question": "The functions of a political party:",
+      "options": {
+        "A": "Political socialization of citizens",
+        "B": "Recruitment of political leaders",
+        "C": "Adopting generally binding laws by the party's own decision",
+        "D": "Representation of group interests",
+        "E": "Passing legally binding judgments in political disputes"
+      }
+    },
+    "218": {
+      "question": "A party that gives priority to defending ideological purity is defined as...",
+      "options": {
+        "A": "Patronage-based",
+        "B": "Electoral",
+        "C": "Cadre",
+        "D": "Doctrinal",
+        "E": "Pragmatic"
+      }
+    },
+    "219": {
+      "question": "The members of a charismatic party are united by...",
+      "options": {
+        "A": "A common property qualification",
+        "B": "A shared profession",
+        "C": "Devotion to a particular leader",
+        "D": "Equal representation of territories",
+        "E": "A mandatory secular doctrine"
+      }
+    },
+    "220": {
+      "question": "The classification of cadre and mass parties is associated with the name of...",
+      "options": {
+        "A": "Maurice Duverger",
+        "B": "Karl Deutsch",
+        "C": "Gaetano Mosca",
+        "D": "Robert Dahl",
+        "E": "Giovanni Sartori"
+      }
+    },
+    "221": {
+      "question": "An organization operates around a committee of influential politicians, has free membership and becomes active in the run-up to elections. This is a ... party.",
+      "options": {
+        "A": "Religious-doctrinal",
+        "B": "Cadre",
+        "C": "Totalitarian",
+        "D": "Mass",
+        "E": "Strictly centralized"
+      }
+    },
+    "222": {
+      "question": "Features of a mass party in Duverger's typology:",
+      "options": {
+        "A": "Stable organization",
+        "B": "Formal (statutory) membership",
+        "C": "The importance of ideological commonality",
+        "D": "Predominantly free membership with no statutory recording",
+        "E": "An amorphous structure around a committee of professional politicians"
+      }
+    },
+    "223": {
+      "question": "In the typology described, a strictly centralized party is distinguished by...",
+      "options": {
+        "A": "Handing all decisions over to outside independent experts",
+        "B": "A chance coalescence around a single bill",
+        "C": "The absence of mandatory party discipline",
+        "D": "Free membership without organizational obligations",
+        "E": "A combination of ideological unity with a rigid hierarchy"
+      }
+    },
+    "224": {
+      "question": "A party system is...",
+      "options": {
+        "A": "Only the procedure for compiling party lists",
+        "B": "Exclusively the structure of the ruling party's apparatus",
+        "C": "The sum of registered parties without regard to their interaction",
+        "D": "Stable relations of parties among themselves and with the institutions of power",
+        "E": "Any gathering of participants in an election campaign"
+      }
+    },
+    "225": {
+      "question": "The number of parties alone is not enough to characterize a party system because...",
+      "options": {
+        "A": "It does not reveal the real competition and the nature of relations with the state",
+        "B": "The number of parties cannot be established empirically",
+        "C": "Legal conditions do not affect party activity",
+        "D": "A party system exists only when there are two parties",
+        "E": "All multiparty systems are equally democratic"
+      }
+    },
+    "226": {
+      "question": "The classification of party systems by the ideological distance between parties is associated with...",
+      "options": {
+        "A": "Alexis de Tocqueville",
+        "B": "Max Weber",
+        "C": "Giovanni Sartori",
+        "D": "Robert Michels",
+        "E": "Maurice Duverger"
+      }
+    },
+    "227": {
+      "question": "Factors that influence the formation of a party system:",
+      "options": {
+        "A": "Electoral legislation",
+        "B": "Sociocultural traditions",
+        "C": "Social structure",
+        "D": "Only the number of parties, regardless of the rules of access to seats",
+        "E": "Only the formal names of parties, regardless of social cleavages"
+      }
+    },
+    "228": {
+      "question": "A party reconsiders its means and coalitions in light of the practical attainability of its goals. Which style predominates?",
+      "options": {
+        "A": "Messianic",
+        "B": "Ritualistic",
+        "C": "Charismatic",
+        "D": "Pragmatic",
+        "E": "Doctrinal"
+      }
+    },
+    "229": {
+      "question": "The growth of the independent power of the party apparatus in relation to rank-and-file members expresses the tendency toward...",
+      "options": {
+        "A": "The withering away of the organization",
+        "B": "The decentralization of sovereignty",
+        "C": "The expansion of direct popular rule",
+        "D": "The bureaucratization of the party",
+        "E": "The disappearance of political leadership"
+      }
+    },
+    "230": {
+      "question": "A party seeks to broaden its support beyond a stable social base and builds its work around elections. This is a sign of its transformation into...",
+      "options": {
+        "A": "A single-issue association",
+        "B": "An estate corporation",
+        "C": "An electoral party",
+        "D": "A tribal association",
+        "E": "An underground group"
+      }
+    },
+    "231": {
+      "question": "The process of the formation and development of political parties is denoted by the term...",
+      "options": {
+        "A": "Sociogenesis",
+        "B": "Anthropogenesis",
+        "C": "Politogenesis",
+        "D": "Ethnogenesis",
+        "E": "Partogenesis"
+      }
+    },
+    "232": {
+      "question": "Officials who have obtained state posts by virtue of belonging to a party make up which element of its structure?",
+      "options": {
+        "A": "The party apparatus as an internal governing body",
+        "B": "The rank-and-file party membership",
+        "C": "An external group of political supporters",
+        "D": "The party in government",
+        "E": "The mass electoral base"
+      }
+    },
+    "233": {
+      "question": "Which statements about parties and interest groups are correct?",
+      "options": {
+        "A": "Winning parliamentary seats exhausts the intermediary role of a party",
+        "B": "Influencing a particular bill is sufficient for an association to be recognized as a party",
+        "C": "Expert participation by an interest group means that it exercises state competence",
+        "D": "Influencing a decision is not the same as directly exercising power",
+        "E": "Both can mediate between citizens and the authorities"
+      }
+    },
+    "234": {
+      "question": "Several parties are registered, but access to government is in practice closed to the rivals of the ruling group. What should be examined first?",
+      "options": {
+        "A": "The real competitiveness of inter-party relations",
+        "B": "Only the size of the state's territory",
+        "C": "Exclusively the age of the party leaders",
+        "D": "Only the number of party emblems",
+        "E": "Only the number of participants at party congresses"
+      }
+    },
+    "235": {
+      "question": "Indicate the correct correspondences between a type of party and an organizational feature.",
+      "options": {
+        "A": "Strictly centralized: a rigid ideological hierarchy",
+        "B": "Cadre: regular statutory membership as the basis of the organizational structure",
+        "C": "Mass: statutory membership and a stable organization",
+        "D": "Cadre: a committee of influential politicians",
+        "E": "Mass: a committee of elites that is active mainly during elections"
+      }
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 3,
+  "topic_name": "Emotions, feelings and emotional states",
+  "questions": {
+    "51": {
+      "question": "A short-lived, violent emotional outburst of high intensity is called...",
+      "options": {
+        "A": "Affect",
+        "B": "Mood",
+        "C": "A sthenic attitude",
+        "D": "Passion",
+        "E": "A feeling"
+      }
+    },
+    "52": {
+      "question": "During an affect, it is hard for a person to shift attention from the source of the experience to another task. Which attentional property is reduced?",
+      "options": {
+        "A": "Intensity",
+        "B": "Involuntary attractiveness",
+        "C": "Concentration",
+        "D": "Switching",
+        "E": "Selectivity"
+      }
+    },
+    "53": {
+      "question": "A stable emotional attitude toward a specific object, as distinct from the general emotional background, is...",
+      "options": {
+        "A": "A feeling",
+        "B": "An affective outburst",
+        "C": "An orienting reaction",
+        "D": "Hedonic tone",
+        "E": "Mood"
+      }
+    },
+    "54": {
+      "question": "Which correspondences between emotional phenomena are correct?",
+      "options": {
+        "A": "Passion: an exclusively weak reaction",
+        "B": "Affect: an intense, brief outburst",
+        "C": "Mood: a general, long-lasting emotional background",
+        "D": "Feeling: a stable attitude toward an object",
+        "E": "Hedonic tone: a generalized system of convictions"
+      }
+    },
+    "55": {
+      "question": "Emotions that mobilize energy and stimulate activity are called...",
+      "options": {
+        "A": "Dysthymic",
+        "B": "Sthenic",
+        "C": "Asthenic",
+        "D": "Ambivalent",
+        "E": "Interoceptive"
+      }
+    },
+    "56": {
+      "question": "An experience accompanied by a decline in activity and a weakening of strength belongs, by its effect on activity, to the... emotions.",
+      "options": {
+        "A": "Sthenic",
+        "B": "Asthenic",
+        "C": "Intellectual",
+        "D": "Moral-political",
+        "E": "Perceptual"
+      }
+    },
+    "57": {
+      "question": "The simultaneous experience of conflicting feelings toward one object is called...",
+      "options": {
+        "A": "Emotional lability",
+        "B": "Emotional stability",
+        "C": "Affectivity",
+        "D": "Emotional rigidity",
+        "E": "Ambivalence"
+      }
+    },
+    "58": {
+      "question": "An emotional reaction to a sudden circumstance, with no clearly positive or negative sign, is...",
+      "options": {
+        "A": "Surprise",
+        "B": "Disgust",
+        "C": "Shame",
+        "D": "Fear",
+        "E": "Contempt"
+      }
+    },
+    "59": {
+      "question": "Identify the correct correspondences between higher feelings.",
+      "options": {
+        "A": "Intellectual: only the sensation of hunger",
+        "B": "Aesthetic: attitude toward the beautiful",
+        "C": "Intellectual: experiences in the process of cognition",
+        "D": "Moral: evaluation of actions by social norms",
+        "E": "Aesthetic: only overcoming a volitional obstacle"
+      }
+    },
+    "60": {
+      "question": "Awareness that one's own action does not match one's personal ideal and the expectations of others primarily evokes...",
+      "options": {
+        "A": "Surprise",
+        "B": "Joy",
+        "C": "Shame",
+        "D": "Contempt",
+        "E": "Disgust"
+      }
+    },
+    "61": {
+      "question": "The emotional state that arises on receiving information about a real or imagined danger is called...",
+      "options": {
+        "A": "Fear",
+        "B": "Intellectual doubt",
+        "C": "Surprise",
+        "D": "Shame",
+        "E": "Contempt"
+      }
+    },
+    "62": {
+      "question": "An emotional reaction to an obstacle to the satisfaction of a significant need is defined as...",
+      "options": {
+        "A": "Affect",
+        "B": "Cognitive dissonance",
+        "C": "Emotional lability",
+        "D": "Anxiety",
+        "E": "Frustration"
+      }
+    },
+    "63": {
+      "question": "Conveying an experience to others by means of facial expression and pantomime realizes the... function of emotions.",
+      "options": {
+        "A": "Reinforcing",
+        "B": "Adaptive",
+        "C": "Communicative",
+        "D": "Evaluative",
+        "E": "Switching"
+      }
+    },
+    "64": {
+      "question": "In a holistic analysis of an emotion, the following should be taken into account:",
+      "options": {
+        "A": "Only the size of the sensory threshold",
+        "B": "The external expression of the experience",
+        "C": "The subjective experience",
+        "D": "The physiological reaction of the organism",
+        "E": "Only the reported name of the feeling"
+      }
+    },
+    "65": {
+      "question": "Singling out the dominant need when motives compete expresses the... function of emotions.",
+      "options": {
+        "A": "Communicative",
+        "B": "Switching",
+        "C": "Motivating",
+        "D": "Evaluative",
+        "E": "Reinforcing"
+      }
+    }
+  }
+}

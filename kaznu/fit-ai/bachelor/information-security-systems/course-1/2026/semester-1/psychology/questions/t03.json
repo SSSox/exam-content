@@ -1,0 +1,1032 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 51,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Кратковременная бурная эмоциональная вспышка с высокой интенсивностью называется...",
+        "en": "A short-lived, violent emotional outburst of high intensity is called...",
+        "kk": "Қарқындылығы жоғары, қысқа мерзімді екпінді эмоциялық серпіліс не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Аффектом",
+            "en": "Affect",
+            "kk": "Аффект"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Настроением",
+            "en": "Mood",
+            "kk": "Көңіл-күй"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Стенической установкой",
+            "en": "A sthenic attitude",
+            "kk": "Стениялық бағдар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Страстью",
+            "en": "Passion",
+            "kk": "Құмарлық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Чувством",
+            "en": "A feeling",
+            "kk": "Сезім"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 27, 32",
+          "units": [
+            "p27",
+            "p32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "При аффекте человеку трудно перевести внимание с источника переживания на другую задачу. Снижается его...",
+        "en": "During an affect, it is hard for a person to shift attention from the source of the experience to another task. Which attentional property is reduced?",
+        "kk": "Аффект кезінде адамға зейінін толғаныс көзінен басқа міндетке ауыстыру қиын. Оның қай қасиеті төмендейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интенсивность",
+            "en": "Intensity",
+            "kk": "Қарқындылығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Непроизвольная привлекаемость",
+            "en": "Involuntary attractiveness",
+            "kk": "Еріксіз тартылымдылығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Концентрация",
+            "en": "Concentration",
+            "kk": "Шоғырлануы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Переключаемость",
+            "en": "Switching",
+            "kk": "Ауыстырымдылығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Избирательность",
+            "en": "Selectivity",
+            "kk": "Талғампаздығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 30",
+          "units": [
+            "p30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Устойчивое эмоциональное отношение к конкретному объекту, в отличие от общего эмоционального фона, представляет собой...",
+        "en": "A stable emotional attitude toward a specific object, as distinct from the general emotional background, is...",
+        "kk": "Жалпы эмоциялық фоннан айырмашылығы бар, нақты нысанға деген тұрақты эмоциялық қатынас не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Чувство",
+            "en": "A feeling",
+            "kk": "Сезім"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Аффективную вспышку",
+            "en": "An affective outburst",
+            "kk": "Аффективті серпіліс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ориентировочную реакцию",
+            "en": "An orienting reaction",
+            "kk": "Бағдарлау реакциясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Чувственный тон",
+            "en": "Hedonic tone",
+            "kk": "Сезімдік тон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Настроение",
+            "en": "Mood",
+            "kk": "Көңіл-күй"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 48, 58",
+          "units": [
+            "p48",
+            "p58"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие соответствия эмоциональных явлений верны?",
+        "en": "Which correspondences between emotional phenomena are correct?",
+        "kk": "Эмоциялық құбылыстардың қандай сәйкестіктері дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Страсть: исключительно слабая реакция",
+            "en": "Passion: an exclusively weak reaction",
+            "kk": "Құмарлық: тек әлсіз реакция"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Аффект: интенсивная краткая вспышка",
+            "en": "Affect: an intense, brief outburst",
+            "kk": "Аффект: қарқынды қысқа серпіліс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Настроение: общий длительный эмоциональный фон",
+            "en": "Mood: a general, long-lasting emotional background",
+            "kk": "Көңіл-күй: жалпы ұзақ эмоциялық фон"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Чувство: устойчивое предметное отношение",
+            "en": "Feeling: a stable attitude toward an object",
+            "kk": "Сезім: тұрақты заттық қатынас"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Чувственный тон: обобщённая система убеждений",
+            "en": "Hedonic tone: a generalized system of convictions",
+            "kk": "Сезімдік тон: нанымдардың жалпыланған жүйесі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 27, 48, 58",
+          "units": [
+            "p27",
+            "p48",
+            "p58"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Эмоции, мобилизующие энергию и стимулирующие активность, называются...",
+        "en": "Emotions that mobilize energy and stimulate activity are called...",
+        "kk": "Энергияны жұмылдыратын және белсенділікті ынталандыратын эмоциялар қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дистимическими",
+            "en": "Dysthymic",
+            "kk": "Дистимиялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Стеническими",
+            "en": "Sthenic",
+            "kk": "Стениялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Астеническими",
+            "en": "Asthenic",
+            "kk": "Астениялық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Амбивалентными",
+            "en": "Ambivalent",
+            "kk": "Амбивалентті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интероцептивными",
+            "en": "Interoceptive",
+            "kk": "Интероцептивті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 36",
+          "units": [
+            "p36"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Переживание, сопровождаемое снижением активности и ослаблением сил, по влиянию на деятельность относится к эмоциям...",
+        "en": "An experience accompanied by a decline in activity and a weakening of strength belongs, by its effect on activity, to the... emotions.",
+        "kk": "Белсенділіктің төмендеуі мен күштің әлсіреуімен қатар жүретін толғаныс әрекетке әсері жөнінен қандай эмоцияларға жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Стеническим",
+            "en": "Sthenic",
+            "kk": "Стениялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Астеническим",
+            "en": "Asthenic",
+            "kk": "Астениялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Интеллектуальным",
+            "en": "Intellectual",
+            "kk": "Интеллектуалдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Морально-политическим",
+            "en": "Moral-political",
+            "kk": "Моральдық-саяси"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Перцептивным",
+            "en": "Perceptual",
+            "kk": "Перцептивті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 36",
+          "units": [
+            "p36"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одновременное переживание противоречивых чувств к одному объекту обозначается как...",
+        "en": "The simultaneous experience of conflicting feelings toward one object is called...",
+        "kk": "Бір нысанға қарама-қайшы сезімдерді бір мезгілде бастан кешіру қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эмоциональная лабильность",
+            "en": "Emotional lability",
+            "kk": "Эмоциялық лабильділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эмоциональная устойчивость",
+            "en": "Emotional stability",
+            "kk": "Эмоциялық тұрақтылық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Аффективность",
+            "en": "Affectivity",
+            "kk": "Аффективтілік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эмоциональная ригидность",
+            "en": "Emotional rigidity",
+            "kk": "Эмоциялық ригидтілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Амбивалентность",
+            "en": "Ambivalence",
+            "kk": "Амбиваленттілік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 46",
+          "units": [
+            "p46"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Эмоциональная реакция на внезапное обстоятельство без однозначного положительного или отрицательного знака — это...",
+        "en": "An emotional reaction to a sudden circumstance, with no clearly positive or negative sign, is...",
+        "kk": "Күтпеген жағдайға нақты оң немесе теріс таңбасы жоқ эмоциялық реакция қандай?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Удивление",
+            "en": "Surprise",
+            "kk": "Таңдану"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отвращение",
+            "en": "Disgust",
+            "kk": "Жиіркену"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Стыд",
+            "en": "Shame",
+            "kk": "Ұят"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Страх",
+            "en": "Fear",
+            "kk": "Қорқыныш"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Презрение",
+            "en": "Contempt",
+            "kk": "Менсінбеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 39",
+          "units": [
+            "p39"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия высших чувств.",
+        "en": "Identify the correct correspondences between higher feelings.",
+        "kk": "Жоғары сезімдердің дұрыс сәйкестіктерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интеллектуальные: только ощущение голода",
+            "en": "Intellectual: only the sensation of hunger",
+            "kk": "Интеллектуалдық: тек аштық түйсігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эстетические: отношение к прекрасному",
+            "en": "Aesthetic: attitude toward the beautiful",
+            "kk": "Эстетикалық: әсемдікке деген қатынас"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Интеллектуальные: переживания в процессе познания",
+            "en": "Intellectual: experiences in the process of cognition",
+            "kk": "Интеллектуалдық: танымдық үдерістегі толғаныстар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Моральные: оценка поступков по общественным нормам",
+            "en": "Moral: evaluation of actions by social norms",
+            "kk": "Моральдық: қылықтарды қоғамдық нормалар бойынша бағалау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эстетические: только преодоление волевого препятствия",
+            "en": "Aesthetic: only overcoming a volitional obstacle",
+            "kk": "Эстетикалық: тек ерік кедергісін жеңу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 52, 54, 55",
+          "units": [
+            "p52",
+            "p54",
+            "p55"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Осознание несоответствия собственного поступка личному идеалу и ожиданиям других вызывает прежде всего...",
+        "en": "Awareness that one's own action does not match one's personal ideal and the expectations of others primarily evokes...",
+        "kk": "Өз қылығының жеке мұратқа және өзгелердің үмітіне сәйкес келмейтінін ұғыну ең алдымен нені туғызады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Удивление",
+            "en": "Surprise",
+            "kk": "Таңдануды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Радость",
+            "en": "Joy",
+            "kk": "Қуанышты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Стыд",
+            "en": "Shame",
+            "kk": "Ұятты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Презрение",
+            "en": "Contempt",
+            "kk": "Менсінбеуді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отвращение",
+            "en": "Disgust",
+            "kk": "Жиіркенуді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 45",
+          "units": [
+            "p45"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Эмоциональное состояние при получении информации о реальной или воображаемой опасности называется...",
+        "en": "The emotional state that arises on receiving information about a real or imagined danger is called...",
+        "kk": "Нақты немесе қиялдағы қауіп туралы ақпарат алғандағы эмоциялық күй не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Страхом",
+            "en": "Fear",
+            "kk": "Қорқыныш"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интеллектуальным сомнением",
+            "en": "Intellectual doubt",
+            "kk": "Интеллектуалдық күмән"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Удивлением",
+            "en": "Surprise",
+            "kk": "Таңдану"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Стыдом",
+            "en": "Shame",
+            "kk": "Ұят"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Презрением",
+            "en": "Contempt",
+            "kk": "Менсінбеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 44",
+          "units": [
+            "p44"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Эмоциональная реакция на препятствие удовлетворению значимой потребности определяется как...",
+        "en": "An emotional reaction to an obstacle to the satisfaction of a significant need is defined as...",
+        "kk": "Маңызды қажеттілікті қанағаттандыруға кедергіге эмоциялық реакция қалай анықталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Аффект",
+            "en": "Affect",
+            "kk": "Аффект"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Когнитивный диссонанс",
+            "en": "Cognitive dissonance",
+            "kk": "Когнитивті диссонанс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эмоциональная лабильность",
+            "en": "Emotional lability",
+            "kk": "Эмоциялық лабильділік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тревога",
+            "en": "Anxiety",
+            "kk": "Мазасыздық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Фрустрация",
+            "en": "Frustration",
+            "kk": "Фрустрация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 135",
+          "units": [
+            "p135"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Передача переживания окружающим посредством мимики и пантомимики реализует функцию эмоций...",
+        "en": "Conveying an experience to others by means of facial expression and pantomime realizes the... function of emotions.",
+        "kk": "Толғанысты мимика мен пантомимика арқылы өзгелерге жеткізу эмоциялардың қандай қызметін жүзеге асырады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Подкрепляющую",
+            "en": "Reinforcing",
+            "kk": "Нығайтушы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Приспособительную",
+            "en": "Adaptive",
+            "kk": "Бейімдеуші"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Коммуникативную",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Оценочную",
+            "en": "Evaluative",
+            "kk": "Бағалаушы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Переключательную",
+            "en": "Switching",
+            "kk": "Ауыстырушы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 150, 153, 154, 155, 159",
+          "units": [
+            "p150",
+            "p153",
+            "p154",
+            "p155",
+            "p159"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "topic_id": 3,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "При целостном анализе эмоции следует учитывать:",
+        "en": "In a holistic analysis of an emotion, the following should be taken into account:",
+        "kk": "Эмоцияны тұтас талдағанда мыналарды ескеру керек:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только величину сенсорного порога",
+            "en": "Only the size of the sensory threshold",
+            "kk": "Тек сенсорлық табалдырықтың шамасын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Внешнее выражение переживания",
+            "en": "The external expression of the experience",
+            "kk": "Толғаныстың сыртқы көрінісін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Субъективное переживание",
+            "en": "The subjective experience",
+            "kk": "Субъективті толғанысты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Физиологическую реакцию организма",
+            "en": "The physiological reaction of the organism",
+            "kk": "Организмнің физиологиялық реакциясын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только сообщённое название чувства",
+            "en": "Only the reported name of the feeling",
+            "kk": "Тек сезімнің хабарланған атауын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 108, 109",
+          "units": [
+            "p108",
+            "p109"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "topic_id": 3,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Выделение доминирующей потребности при конкуренции мотивов выражает функцию эмоций...",
+        "en": "Singling out the dominant need when motives compete expresses the... function of emotions.",
+        "kk": "Мотивтер бәсекесі кезінде басым қажеттілікті бөліп көрсету эмоциялардың қандай қызметін білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Коммуникативную",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Переключательную",
+            "en": "Switching",
+            "kk": "Ауыстырушы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Побудительную",
+            "en": "Motivating",
+            "kk": "Түрткі болушы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Оценочную",
+            "en": "Evaluative",
+            "kk": "Бағалаушы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Подкрепляющую",
+            "en": "Reinforcing",
+            "kk": "Нығайтушы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L13",
+          "file": "Лекции/Лекция 13.docx",
+          "location": "Абзацы 150, 151, 153, 154, 159",
+          "units": [
+            "p150",
+            "p151",
+            "p153",
+            "p154",
+            "p159"
+          ]
+        }
+      ]
+    }
+  ]
+}

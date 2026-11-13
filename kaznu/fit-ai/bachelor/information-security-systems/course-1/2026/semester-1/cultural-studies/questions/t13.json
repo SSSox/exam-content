@@ -1,0 +1,1649 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 301,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Жырау, участвовавший в возвращении казахов на отвоёванные у джунгар земли в 1750-х годах...",
+        "en": "The zhyrau who took part in the return of the Kazakhs to the lands reconquered from the Dzungars in the 1750s was...",
+        "kk": "1750-жылдары қазақтардың жоңғарлардан қайтарып алынған жерлерге оралуына қатысқан жырау..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Шал Кулекеулы",
+            "en": "Shal Kulekeuly",
+            "kk": "Шал Құлекеұлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Дулат Бабатайулы",
+            "en": "Dulat Babatayuly",
+            "kk": "Дулат Бабатайұлы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Актамберды Сарыулы",
+            "en": "Aktamberdy Saryuly",
+            "kk": "Ақтамберді Сарыұлы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Шортанбай Канайулы",
+            "en": "Shortanbai Kanayuly",
+            "kk": "Шортанбай Қанайұлы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Мурат Монкеулы",
+            "en": "Murat Monkeuly",
+            "kk": "Мұрат Мөңкеұлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 10",
+          "units": [
+            "p10"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 302,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ближайшим советником Абылай-хана, знатоком обычного права и шежире был...",
+        "en": "The closest adviser of Abylai Khan, an expert in customary law and in shezhire, was...",
+        "kk": "Абылай ханның жақын кеңесшісі, әдет-ғұрып құқығы мен шежіренің білгірі кім болды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Шоже Каржаубайулы",
+            "en": "Shozhe Karzhaubayuly",
+            "kk": "Шоже Қаржаубайұлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Бухар Калкаманулы",
+            "en": "Bukhar Kalkamanuly",
+            "kk": "Бұхар Қалқаманұлы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Котеш Райымбекулы",
+            "en": "Kotesh Raiymbekuly",
+            "kk": "Көтеш Райымбекұлы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Махамбет Утемисулы",
+            "en": "Makhambet Utemisuly",
+            "kk": "Махамбет Өтемісұлы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Жанак Сагындыкулы",
+            "en": "Zhanak Sagyndykuly",
+            "kk": "Жанақ Сағындықұлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 303,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Жоктау и естірту о смерти батыра Канжыгалы Богенбая создал...",
+        "en": "The zhoktau and estirtu (laments and announcements of death) on the death of the batyr Kanzhygaly Bogenbai were composed by...",
+        "kk": "Қанжығалы Бөгенбай батырдың өліміне арналған жоқтау мен естіртудің авторы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Шал Кулекеулы",
+            "en": "Shal Kulekeuly",
+            "kk": "Шал Құлекеұлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Умбетай Тулеулы",
+            "en": "Umbetai Tuleuly",
+            "kk": "Үмбетей Тілеуұлы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Актамберды Сарыулы",
+            "en": "Aktamberdy Saryuly",
+            "kk": "Ақтамберді Сарыұлы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Бухар Калкаманулы",
+            "en": "Bukhar Kalkamanuly",
+            "kk": "Бұхар Қалқаманұлы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Таттикара",
+            "en": "Tattikara",
+            "kk": "Таттіқара"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 304,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Кюи «Толгау», «Аллам жар», «Баксы» связаны с именем кобызшы...",
+        "en": "The kuis \"Tolgau\", \"Allam zhar\" and \"Baksy\" are associated with the name of the kobyz player...",
+        "kk": "«Толғау», «Аллам жар», «Бақсы» күйлері қай қобызшының есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Курмангазы Сагырбайулы",
+            "en": "Kurmangazy Sagyrbayuly",
+            "kk": "Құрманғазы Сағырбайұлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тлепа Аспантайулы",
+            "en": "Tlep Aspantayuly",
+            "kk": "Тілеп Аспантайұлы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Даулеткерея Шигайулы",
+            "en": "Dauletkerei Shigayuly",
+            "kk": "Дәулеткерей Шығайұлы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Таттимбета Казангапулы",
+            "en": "Tattimbet Kazangapuly",
+            "kk": "Таттімбет Қазанғапұлы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Казангапа Тилеппергенулы",
+            "en": "Kazangap Tileppergenuly",
+            "kk": "Қазанғап Тілеппергенұлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 35",
+          "units": [
+            "p35"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 305,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автором кюев «Ақтабан шұбырынды» и «Қайың сауған» является...",
+        "en": "The author of the kuis \"Aktaban Shubyryndy\" and \"Kaiyn Saugan\" is...",
+        "kk": "«Ақтабан шұбырынды» және «Қайың сауған» күйлерінің авторы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Биржан-сал",
+            "en": "Birzhan-sal",
+            "kk": "Біржан сал"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Балуан Шолак",
+            "en": "Baluan Sholak",
+            "kk": "Балуан Шолақ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Жаяу Муса",
+            "en": "Zhayau Musa",
+            "kk": "Жаяу Мұса"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Акан-серэ",
+            "en": "Akan-sere",
+            "kk": "Ақан сері"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Байжигит",
+            "en": "Baizhigit",
+            "kk": "Байжігіт"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 37",
+          "units": [
+            "p37"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 306,
+      "topic_id": 13,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Функции шежире в традиционном обществе:",
+        "en": "Functions of the shezhire in traditional society:",
+        "kk": "Дәстүрлі қоғамдағы шежіренің функциялары:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Определение единой системы письменной орфографии",
+            "en": "Establishing a single system of written orthography",
+            "kk": "Жазба орфографияның бірыңғай жүйесін белгілеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Утверждение единой общеобязательной конфессиональной догматики",
+            "en": "Affirming a single, universally binding confessional doctrine",
+            "kk": "Бірыңғай жалпыға міндетті конфессиялық догматиканы бекіту"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Регулирование браков и распределения пастбищ",
+            "en": "Regulating marriages and the distribution of pastures",
+            "kk": "Неке мен жайылымды бөлуді реттеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сохранение исторической памяти",
+            "en": "Preserving historical memory",
+            "kk": "Тарихи жадты сақтау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Регистрация авторства профессиональных кюев",
+            "en": "Registering the authorship of professional kuis",
+            "kk": "Кәсіби күйлердің авторлығын тіркеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзацы 28–30",
+          "units": [
+            "p28",
+            "p29",
+            "p30"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 307,
+      "topic_id": 13,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Качества, обеспечивавшие признание человека бием:",
+        "en": "Qualities that ensured a person was recognized as a bi:",
+        "kk": "Адамның би ретінде мойындалуына негіз болған қасиеттер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Знание обычного права",
+            "en": "Knowledge of customary law",
+            "kk": "Әдет-ғұрып құқығын білу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Репутация честности и беспристрастности",
+            "en": "A reputation for honesty and impartiality",
+            "kk": "Адалдық пен бейтараптық беделі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наследование должности от отца",
+            "en": "Inheriting the office from one's father",
+            "kk": "Қызметті әкеден мұралау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательное окончание кадетского корпуса",
+            "en": "Obligatory graduation from a cadet corps",
+            "kk": "Кадет корпусын міндетті түрде бітіру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Красноречие",
+            "en": "Eloquence",
+            "kk": "Шешендік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзацы 54–55",
+          "units": [
+            "p54",
+            "p55"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 308,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что непосредственно лишало бия общественного признания в традиционной системе?",
+        "en": "What directly deprived a bi of public recognition in the traditional system?",
+        "kk": "Дәстүрлі жүйеде биді қоғамдық мойындаудан тікелей не айырды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Утрата места в очереди родового наследования",
+            "en": "The loss of one's place in the line of clan succession",
+            "kk": "Рулық мұрагерлік кезегіндегі орнынан айырылу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Прекращение обращений к нему со стороны жителей",
+            "en": "People ceasing to turn to him for judgment",
+            "kk": "Халықтың оған жүгінуін тоқтатуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Истечение обязательного четырёхлетнего срока",
+            "en": "The expiry of a mandatory four-year term",
+            "kk": "Міндетті төрт жылдық мерзімнің өтуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Достижение заранее установленного предельного возраста",
+            "en": "Reaching a predetermined age limit",
+            "kk": "Алдын ала белгіленген шекті жасқа жету"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Назначение другого бия письменным школьным советом",
+            "en": "The appointment of another bi by a written school council",
+            "kk": "Басқа биді жазбаша мектеп кеңесінің тағайындауы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 55",
+          "units": [
+            "p55"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 309,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое соответствие бия и жуза верно?",
+        "en": "Which pairing of a bi and a zhuz is correct?",
+        "kk": "Би мен жүздің қай сәйкестігі дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Толе: Старший; Казыбек: Младший; Айтеке: Средний",
+            "en": "Tole: Senior; Kazybek: Junior; Aiteke: Middle",
+            "kk": "Төле: Үлкен; Қазыбек: Кіші; Әйтеке: Орта"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Толе: Средний; Казыбек: Младший; Айтеке: Старший",
+            "en": "Tole: Middle; Kazybek: Junior; Aiteke: Senior",
+            "kk": "Төле: Орта; Қазыбек: Кіші; Әйтеке: Үлкен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Толе: Младший; Казыбек: Средний; Айтеке: Старший",
+            "en": "Tole: Junior; Kazybek: Middle; Aiteke: Senior",
+            "kk": "Төле: Кіші; Қазыбек: Орта; Әйтеке: Үлкен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Толе: Средний; Казыбек: Старший; Айтеке: Младший",
+            "en": "Tole: Middle; Kazybek: Senior; Aiteke: Junior",
+            "kk": "Төле: Орта; Қазыбек: Үлкен; Әйтеке: Кіші"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Толе: Старший; Казыбек: Средний; Айтеке: Младший",
+            "en": "Tole: Senior; Kazybek: Middle; Aiteke: Junior",
+            "kk": "Төле: Үлкен; Қазыбек: Орта; Әйтеке: Кіші"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 66",
+          "units": [
+            "p66"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 310,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как проявлялся принцип состязательности в суде биев?",
+        "en": "How was the adversarial principle manifested in the court of the biys?",
+        "kk": "Билер сотында жарыспалылық қағидасы қалай көрініс тапты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Стороны могли привести своего бия, выполнявшего защитную функцию",
+            "en": "The parties could bring their own bi, who performed a function of defence",
+            "kk": "Тараптар қорғаушы қызмет атқаратын өз биін әкелуі мүмкін еді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Разбирательство исключало участие самих спорящих",
+            "en": "The proceedings excluded the participation of the disputants themselves",
+            "kk": "Талқылауға дауласушылардың өздері қатыспайтын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Решение определялось заранее порядком родового старшинства",
+            "en": "The decision was determined in advance by the order of clan seniority",
+            "kk": "Шешім рулық үлкендік тәртібімен алдын ала айқындалатын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Стороны передавали спор только хану без устного разбирательства",
+            "en": "The parties referred the dispute only to the khan, without oral proceedings",
+            "kk": "Тараптар дауды ауызша талқылаусыз тек ханға беретін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обвинение и защита допускались исключительно в письменной форме",
+            "en": "Accusation and defence were permitted exclusively in written form",
+            "kk": "Айыптау мен қорғау тек жазбаша түрде ғана жол берілетін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 58",
+          "units": [
+            "p58"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 311,
+      "topic_id": 13,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Особенности процедуры традиционного суда биев:",
+        "en": "Features of the procedure of the traditional court of the biys:",
+        "kk": "Билер сотының дәстүрлі рәсімінің ерекшеліктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Постоянное тюремное заключение как основа исполнения решений",
+            "en": "Permanent imprisonment as the basis for enforcing decisions",
+            "kk": "Шешімдерді орындаудың негізі ретінде тұрақты түрмеге қамау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключение свидетелей",
+            "en": "The exclusion of witnesses",
+            "kk": "Куәгерлерді қатыстырмау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Публичность",
+            "en": "Publicity (openness)",
+            "kk": "Жариялылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устная форма",
+            "en": "Oral form",
+            "kk": "Ауызша түрі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательное тайное голосование письменного жюри",
+            "en": "Obligatory secret voting by a written jury",
+            "kk": "Жазбаша қазылар алқасының міндетті құпия дауыс беруі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 60",
+          "units": [
+            "p60"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 312,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Возмещение за убийство или увечье человека называлось...",
+        "en": "The compensation for the killing or maiming of a person was called...",
+        "kk": "Адамды өлтіргені немесе мертіктіргені үшін өтемнің атауы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кун",
+            "en": "Kun",
+            "kk": "Құн"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Дуре",
+            "en": "Dure",
+            "kk": "Дүре"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Айып",
+            "en": "Aiyp",
+            "kk": "Айып"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ушур",
+            "en": "Ushur",
+            "kk": "Ұшыр"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Зекет",
+            "en": "Zeket",
+            "kk": "Зекет"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 80",
+          "units": [
+            "p80"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 313,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие «барымта» в контексте обычного права первоначально обозначало...",
+        "en": "The concept of \"barymta\" in the context of customary law originally denoted...",
+        "kk": "Әдет-ғұрып құқығы тұрғысынан «барымта» ұғымы бастапқыда білдірді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Устное объявление нового ханского указа",
+            "en": "The oral proclamation of a new khan's decree",
+            "kk": "Жаңа хан жарлығын ауызша жариялауды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сбор подарков для проводов невесты",
+            "en": "The collection of gifts for the send-off of a bride",
+            "kk": "Қалыңдықты ұзатуға сыйлықтар жинауды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательное пожертвование в пользу религиозной общины",
+            "en": "An obligatory donation to a religious community",
+            "kk": "Діни қауымның пайдасына міндетті садақа беруді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Состязание ораторов при выборе родового старшины",
+            "en": "A contest of orators in the choice of a clan elder",
+            "kk": "Рулық старшинаны сайлағандағы шешендер жарысын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Захват скота или собственности в связи с неуплаченным долгом",
+            "en": "The seizure of livestock or property in connection with an unpaid debt",
+            "kk": "Өтелмеген борышқа байланысты мал мен мүлікті тартып алуды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 98",
+          "units": [
+            "p98"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 314,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какая пара медресе и города указана верно?",
+        "en": "Which pair of madrasa and city is given correctly?",
+        "kk": "Медресе мен қаланың қай жұбы дұрыс көрсетілген?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "«Галия»: Оренбург",
+            "en": "\"Galiya\": Orenburg",
+            "kk": "«Ғалия»: Орынбор"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "«Расулия»: Семипалатинск",
+            "en": "\"Rasulia\": Semipalatinsk",
+            "kk": "«Расулия»: Семей"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "«Хусания»: Уфа",
+            "en": "\"Khusainia\": Ufa",
+            "kk": "«Хұсаиния»: Уфа"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "«Расулия»: Троицк",
+            "en": "\"Rasulia\": Troitsk",
+            "kk": "«Расулия»: Троицк"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "«Галия»: Ташкент",
+            "en": "\"Galiya\": Tashkent",
+            "kk": "«Ғалия»: Ташкент"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 112",
+          "units": [
+            "p112"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 315,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "В первоначальном обучении чтению джадидисты предлагали замену...",
+        "en": "In initial reading instruction, the Jadidists proposed:",
+        "kk": "Жәдидшілер оқуға үйретудің бастапқы кезеңінде мынадай әдістемелік алмастыруды ұсынды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Чтения по звукам заучиванием родословных",
+            "en": "Replacing reading by sounds with the memorizing of genealogies",
+            "kk": "Дыбыс бойынша оқуды шежіре жаттаумен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Звукового метода буквослагательным",
+            "en": "Replacing the phonetic (sound) method with the letter-spelling method",
+            "kk": "Дыбыстық әдісті әріп қосып оқу әдісімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Буквослагательного метода звуковым",
+            "en": "Replacing the letter-spelling method with the phonetic (sound) method",
+            "kk": "Әріп қосып оқу әдісін дыбыстық әдіспен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Арифметики только каллиграфическими упражнениями",
+            "en": "Replacing arithmetic with calligraphic exercises alone",
+            "kk": "Арифметиканы тек каллиграфиялық жаттығулармен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Устного обучения исключительно руническим письмом",
+            "en": "Replacing oral instruction exclusively with runic writing",
+            "kk": "Ауызша оқытуды тек руникалық жазумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 113",
+          "units": [
+            "p113"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 316,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Становление новометодного обучения связано с просветителем...",
+        "en": "The formation of the new-method (usul-i jadid) schooling is associated with the educator...",
+        "kk": "Жаңа әдісті оқытудың қалыптасуымен байланысты ағартушы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "А. Янушкевичем",
+            "en": "A. Yanushkevich",
+            "kk": "А. Янушкевич"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "А. Левшиным",
+            "en": "A. Levshin",
+            "kk": "А. Левшин"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Н. Ядринцевым",
+            "en": "N. Yadrintsev",
+            "kk": "Н. Ядринцев"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Г. Потаниным",
+            "en": "G. Potanin",
+            "kk": "Г. Потанин"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "И. Гаспринским",
+            "en": "I. Gasprinsky",
+            "kk": "И. Гаспринский"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 113",
+          "units": [
+            "p113"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 317,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "По чьей инициативе в 1841 году открылась школа в Бокеевском ханстве?",
+        "en": "On whose initiative was a school opened in the Bukey Khanate in 1841?",
+        "kk": "1841 жылы Бөкей хандығында мектеп кімнің бастамасымен ашылды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "И. Алтынсарина",
+            "en": "I. Altynsarin's",
+            "kk": "Ы. Алтынсарин"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "А. Байтурсынова",
+            "en": "A. Baitursynov's",
+            "kk": "А. Байтұрсынұлы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ч. Валиханова",
+            "en": "Ch. Valikhanov's",
+            "kk": "Ш. Уәлиханов"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Хана Абылая",
+            "en": "Khan Abylai's",
+            "kk": "Абылай хан"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Хана Жангира",
+            "en": "Khan Zhangir's",
+            "kk": "Жәңгір хан"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 122",
+          "units": [
+            "p122"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 318,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чокан Валиханов окончил...",
+        "en": "Chokan Valikhanov graduated from...",
+        "kk": "Шоқан Уәлиханов бітірді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Учительский институт в Ташкенте",
+            "en": "The teachers' institute in Tashkent",
+            "kk": "Ташкенттегі мұғалімдер институтын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Медресе «Галия» в Уфе",
+            "en": "The \"Galiya\" madrasa in Ufa",
+            "kk": "Уфадағы «Ғалия» медресесін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Учительскую школу в Орске",
+            "en": "The teachers' school in Orsk",
+            "kk": "Орскідегі мұғалімдер мектебін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Неплюевский кадетский корпус в Оренбурге",
+            "en": "The Neplyuev Cadet Corps in Orenburg",
+            "kk": "Орынбордағы Неплюев кадет корпусын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сибирский кадетский корпус в Омске",
+            "en": "The Siberian Cadet Corps in Omsk",
+            "kk": "Омбыдағы Сібір кадет корпусын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 120",
+          "units": [
+            "p120"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 319,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "С участием И. Алтынсарина в 1883 году для казахов открылась учительская школа...",
+        "en": "A teachers' school for Kazakhs was opened in 1883 with the participation of I. Altynsarin...",
+        "kk": "1883 жылы Ы. Алтынсариннің қатысуымен қазақтарға арналған мұғалімдер мектебі ашылды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В Троицке",
+            "en": "In Troitsk",
+            "kk": "Троицкіде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В Орске",
+            "en": "In Orsk",
+            "kk": "Орскіде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В Иргизе",
+            "en": "In Irgiz",
+            "kk": "Ырғызда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "В Туркестане",
+            "en": "In Turkestan",
+            "kk": "Түркістанда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В Омске",
+            "en": "In Omsk",
+            "kk": "Омбыда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 130",
+          "units": [
+            "p130"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 320,
+      "topic_id": 13,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите учебные пособия Ибрая Алтынсарина.",
+        "en": "Specify the textbooks by Ybyrai Altynsarin.",
+        "kk": "Ыбырай Алтынсариннің оқу құралдарын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "«Начальное руководство в обучении киргизов русскому языку»",
+            "en": "\"A Primary Guide to Teaching the Kirghiz the Russian Language\"",
+            "kk": "«Қырғыздарға орыс тілін үйретудің бастауыш нұсқаулығы»"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "«Слова назидания»",
+            "en": "\"The Words of Edification\"",
+            "kk": "«Қара сөздер»"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "«Три истины»",
+            "en": "\"Three Truths\"",
+            "kk": "«Үш анық»"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "«Киргизская хрестоматия»",
+            "en": "\"The Kirghiz Chrestomathy\"",
+            "kk": "«Қырғыз хрестоматиясы»"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "«Очерки Джунгарии»",
+            "en": "\"Essays on Dzungaria\"",
+            "kk": "«Жоңғария очерктері»"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 315",
+          "units": [
+            "p315"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 321,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Открытие женской школы при поддержке И. Алтынсарина связано с городом...",
+        "en": "The opening of a girls' school with the support of I. Altynsarin is associated with the town of...",
+        "kk": "Ы. Алтынсариннің қолдауымен қыздар мектебінің ашылуымен байланысты қала..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сыгнак",
+            "en": "Syghanaq",
+            "kk": "Сығанақ"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Яссы",
+            "en": "Yasy",
+            "kk": "Ясы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сауран",
+            "en": "Sauran",
+            "kk": "Сауран"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Баласагун",
+            "en": "Balasagun",
+            "kk": "Баласағұн"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Иргиз",
+            "en": "Irgiz",
+            "kk": "Ырғыз"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 320",
+          "units": [
+            "p320"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 322,
+      "topic_id": 13,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К направлению «зар заман» относятся поэты:",
+        "en": "Poets belonging to the \"zar zaman\" (time of sorrow) trend:",
+        "kk": "«Зар заман» бағытына жататын ақындар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Мурат Монкеулы",
+            "en": "Murat Monkeuly",
+            "kk": "Мұрат Мөңкеұлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Дулат Бабатайулы",
+            "en": "Dulat Babatayuly",
+            "kk": "Дулат Бабатайұлы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Махамбет Утемисулы",
+            "en": "Makhambet Utemisuly",
+            "kk": "Махамбет Өтемісұлы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Шернияз Жарылгасынулы",
+            "en": "Sherniyaz Zharylgasynuly",
+            "kk": "Шернияз Жарылғасынұлы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Шортанбай Канайулы",
+            "en": "Shortanbai Kanayuly",
+            "kk": "Шортанбай Қанайұлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 193",
+          "units": [
+            "p193"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 323,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Песня «Ақ сиса», выражающая протест против социальной несправедливости, принадлежит...",
+        "en": "The song \"Ak sisa\", which expresses a protest against social injustice, belongs to...",
+        "kk": "Әлеуметтік әділетсіздікке қарсы наразылықты білдіретін «Ақ сиса» әні кімдікі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Биржану Кожагулулы",
+            "en": "Birzhan Kozhagululy",
+            "kk": "Біржан Қожағұлұлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Жаяу Мусе Байжанулы",
+            "en": "Zhayau Musa Baizhanuly",
+            "kk": "Жаяу Мұса Байжанұлы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Акану-серэ Корамсаулы",
+            "en": "Akan-sere Koramsauly",
+            "kk": "Ақан сері Қорамсаұлы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мади Бапиулы",
+            "en": "Madi Bapiuly",
+            "kk": "Мәди Бапиұлы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Балуану Шолаку Баймырзаулы",
+            "en": "Baluan Sholak Baimyrzauly",
+            "kk": "Балуан Шолақ Баймырзаұлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 199",
+          "units": [
+            "p199"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 324,
+      "topic_id": 13,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие соответствия композитора и кюя верны?",
+        "en": "Which pairings of a composer and a kui are correct?",
+        "kk": "Композитор мен күйдің қай сәйкестіктері дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Даулеткерей: «Жигер»",
+            "en": "Dauletkerei: \"Zhiger\"",
+            "kk": "Дәулеткерей: «Жігер»"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Таттимбет: «Жез киік»",
+            "en": "Tattimbet: \"Zhez Kiik\"",
+            "kk": "Таттімбет: «Жез киік»"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Таттимбет: «Саржайляу»",
+            "en": "Tattimbet: \"Sarzhailau\"",
+            "kk": "Таттімбет: «Сарыжайлау»"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Даулеткерей: «Ақ сиса»",
+            "en": "Dauletkerei: \"Ak sisa\"",
+            "kk": "Дәулеткерей: «Ақ сиса»"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Курмангазы: «Саржайляу»",
+            "en": "Kurmangazy: \"Sarzhailau\"",
+            "kk": "Құрманғазы: «Сарыжайлау»"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 214",
+          "units": [
+            "p214"
+          ]
+        },
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 216",
+          "units": [
+            "p216"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 325,
+      "topic_id": 13,
+      "type": "single_choice",
+      "question": {
+        "ru": "Кюи «Жез киік», «Ерден» и «Қорқыт-күй» связаны с творчеством...",
+        "en": "The kuis \"Zhez Kiik\", \"Erden\" and \"Korkyt-kui\" are associated with the work of...",
+        "kk": "«Жез киік», «Ерден» және «Қорқыт-күй» күйлері кімнің шығармашылығымен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Таттимбета Казангапулы",
+            "en": "Tattimbet Kazangapuly",
+            "kk": "Таттімбет Қазанғапұлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Казангапа Тилеппергенулы",
+            "en": "Kazangap Tileppergenuly",
+            "kk": "Қазанғап Тілеппергенұлы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Даулеткерея Шигайулы",
+            "en": "Dauletkerei Shigayuly",
+            "kk": "Дәулеткерей Шығайұлы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Курмангазы Сагырбайулы",
+            "en": "Kurmangazy Sagyrbayuly",
+            "kk": "Құрманғазы Сағырбайұлы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ыкыласа Дукенбайулы",
+            "en": "Ykylas Dukenbayuly",
+            "kk": "Ықылас Дүкенбайұлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Казахская культура 18-19 века.docx",
+          "location": "абзац 218",
+          "units": [
+            "p218"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 16,
+  "topic_name": "Leadership, management and conflicts",
+  "questions": {
+    "331": {
+      "question": "In B. D. Parygin's distinction, the main difference between management (headship) and leadership is connected with...",
+      "options": {
+        "A": "An obligatory dependence only on the mood of the group",
+        "B": "The regulation of official relations and formal authority",
+        "C": "Exclusively spontaneous emergence",
+        "D": "The absence of any influence on joint activity",
+        "E": "The absence of sanctions on the part of the manager"
+      }
+    },
+    "332": {
+      "question": "A person influences a team thanks to recognition and voluntary following, without holding a position. This is primarily...",
+      "options": {
+        "A": "Positional control",
+        "B": "Administrative subordination",
+        "C": "Leadership",
+        "D": "Formal management",
+        "E": "A legal sanction"
+      }
+    },
+    "333": {
+      "question": "Explaining leadership by a certain set of innate personal qualities is characteristic of the...",
+      "options": {
+        "A": "Synthetic concept",
+        "B": "Situational theory",
+        "C": "Behavioral approach to leadership training",
+        "D": "Trait theory",
+        "E": "Group explanation of leadership influence"
+      }
+    },
+    "334": {
+      "question": "Statements of the synthetic concept of leadership:",
+      "options": {
+        "A": "Leadership is entirely reducible to innate charisma",
+        "B": "The nature of the situation is taken into account",
+        "C": "The group is excluded from the analysis of influence",
+        "D": "The qualities of the leader are taken into account",
+        "E": "The characteristics of the followers are taken into account"
+      }
+    },
+    "335": {
+      "question": "The same person leads in one activity and follows others in another. This especially supports the... approach.",
+      "options": {
+        "A": "Universal leadership profile",
+        "B": "Situational",
+        "C": "Charismatic",
+        "D": "Constitutional",
+        "E": "Innate traits"
+      }
+    },
+    "336": {
+      "question": "The classic distinction between the authoritarian, democratic and laissez-faire styles is associated with...",
+      "options": {
+        "A": "L. Festinger",
+        "B": "C. Spearman",
+        "C": "W. Stern",
+        "D": "H. Lasswell",
+        "E": "K. Lewin"
+      }
+    },
+    "337": {
+      "question": "Which conclusion about the choice of a leadership style is consistent with taking the conditions of the activity into account?",
+      "options": {
+        "A": "One style is invariably optimal in all circumstances",
+        "B": "The nature of the tasks is unrelated to the way of leading",
+        "C": "The expectations of the group never influence management",
+        "D": "Style is determined exclusively by the age of the manager",
+        "E": "Style depends on the task, the group and the characteristics of the manager"
+      }
+    },
+    "338": {
+      "question": "Which factor in the choice of a leadership style is subjective?",
+      "options": {
+        "A": "The urgency of a production task",
+        "B": "The manager's managerial experience",
+        "C": "The level of the management hierarchy",
+        "D": "The type of organization",
+        "E": "The specific nature of the main activity"
+      }
+    },
+    "339": {
+      "question": "Correct statements about management and leadership:",
+      "options": {
+        "A": "A position automatically guarantees psychological leadership",
+        "B": "Style is influenced by the manager's preparedness",
+        "C": "A leader necessarily has disciplinary authority",
+        "D": "Style is completely independent of the situation",
+        "E": "Formal management and leadership can coincide"
+      }
+    },
+    "340": {
+      "question": "The simultaneous action on a person of oppositely directed forces of approximately equal magnitude defines conflict according to...",
+      "options": {
+        "A": "H. Eysenck",
+        "B": "M. Deutsch",
+        "C": "K. Lewin",
+        "D": "H. Lasswell",
+        "E": "L. Coser"
+      }
+    },
+    "341": {
+      "question": "Incompatible expectations addressed to a person as the performer of a social role describe a(n)... conflict.",
+      "options": {
+        "A": "Intergroup",
+        "B": "Intragroup",
+        "C": "Interpersonal",
+        "D": "Motivational",
+        "E": "Role"
+      }
+    },
+    "342": {
+      "question": "A conflict between employees who are not in a subordinate relationship to one another is, by direction, a... conflict.",
+      "options": {
+        "A": "Vertical",
+        "B": "Horizontal",
+        "C": "Latent",
+        "D": "Mixed",
+        "E": "Intrapersonal"
+      }
+    },
+    "343": {
+      "question": "By direction, a conflict that involves both the relations between colleagues and relations of subordination is called...",
+      "options": {
+        "A": "Intragroup",
+        "B": "Horizontal",
+        "C": "Intergroup",
+        "D": "Mixed",
+        "E": "Vertical"
+      }
+    },
+    "344": {
+      "question": "Indicate the correct correspondences between types of conflicts.",
+      "options": {
+        "A": "Constructive: promotes useful change",
+        "B": "Veridical: exists objectively and is perceived accurately",
+        "C": "Destructive: necessarily improves trust",
+        "D": "False: arises without an objective basis",
+        "E": "Latent: necessarily openly recognized by everyone"
+      }
+    },
+    "345": {
+      "question": "A conflict depends on easily changed circumstances, which the parties do not notice. In M. Deutsch's classification it is...",
+      "options": {
+        "A": "Latent",
+        "B": "Displaced",
+        "C": "Contingent",
+        "D": "Veridical",
+        "E": "False"
+      }
+    },
+    "346": {
+      "question": "An open dispute conceals another conflict, which is its real basis. According to M. Deutsch, this is a... conflict.",
+      "options": {
+        "A": "False",
+        "B": "Contingent",
+        "C": "Veridical",
+        "D": "Displaced",
+        "E": "Latent"
+      }
+    },
+    "347": {
+      "question": "The objective grounds for a clash exist, but the parties are not yet aware of them. According to M. Deutsch, the conflict is...",
+      "options": {
+        "A": "Latent",
+        "B": "Displaced",
+        "C": "Contingent",
+        "D": "False",
+        "E": "Misattributed"
+      }
+    },
+    "348": {
+      "question": "A contradiction between motives and needs within one and the same person is, by the scope of interaction, a... conflict.",
+      "options": {
+        "A": "Vertical",
+        "B": "Intragroup",
+        "C": "Intergroup",
+        "D": "Intrapersonal",
+        "E": "Interpersonal"
+      }
+    },
+    "349": {
+      "question": "Consequences that may reflect the constructive potential of a conflict:",
+      "options": {
+        "A": "Clarification of significant values",
+        "B": "Identification of problems that need to be discussed",
+        "C": "The inevitable destruction of trust",
+        "D": "Bringing like-minded people together",
+        "E": "The obligatory breakdown of all working ties"
+      }
+    },
+    "350": {
+      "question": "Which relations increase a group's resilience to destructive conflict?",
+      "options": {
+        "A": "Cooperation, open communication and mutual support",
+        "B": "Preventing any discussion of disagreements",
+        "C": "The absence of agreed goals and roles",
+        "D": "Isolation of participants and secrecy of information",
+        "E": "Mutual expectation of deceit and competition"
+      }
+    }
+  }
+}

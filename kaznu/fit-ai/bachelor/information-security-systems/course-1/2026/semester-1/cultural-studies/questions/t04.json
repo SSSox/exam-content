@@ -1,0 +1,1636 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 76,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как соотносятся внутренний и внешний подходы в целостном философском исследовании человека?",
+        "en": "How are the internal and external approaches related in a holistic philosophical study of the human being?",
+        "kk": "Адамды тұтас философиялық зерттеуде ішкі және сыртқы тәсілдер өзара қалай байланысады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Разделяют людей на культурные и внекультурные категории",
+            "en": "They divide people into cultural and non-cultural categories",
+            "kk": "Адамдарды мәдени және мәдениеттен тыс санаттарға бөледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Последовательно сменяются при переходе от античности к современности",
+            "en": "They replace each other in succession from antiquity to the present",
+            "kk": "Антикалық дәуірден қазіргі заманға өту барысында бірінен соң бірі ауысады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Внутренний подход полностью заменяет внешний",
+            "en": "The internal approach completely replaces the external one",
+            "kk": "Ішкі тәсіл сыртқы тәсілді толық алмастырады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Внешний подход полностью заменяет внутренний",
+            "en": "The external approach completely replaces the internal one",
+            "kk": "Сыртқы тәсіл ішкі тәсілді толық алмастырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Взаимно корректируют друг друга в целостном исследовании",
+            "en": "They correct each other in a holistic study",
+            "kk": "Тұтас зерттеуде бір-бірін өзара түзетіп отырады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4. культурная деятельность человека. культурные образования.docx",
+          "location": "абзац 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 77,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "С происхождением понятия persona связывают первоначально...",
+        "en": "The origin of the concept of persona is originally associated with...",
+        "kk": "Persona ұғымының шығуы бастапқыда нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Маску и социальный образ, обращённый к окружающим",
+            "en": "A mask and a social image turned toward others",
+            "kk": "Маска мен айналадағыларға бағытталған әлеуметтік бейнені"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Внутреннее переживание абсолютной свободы",
+            "en": "The inner experience of absolute freedom",
+            "kk": "Абсолютті еркіндікті ішкі бастан кешіруді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наследственный тип эмоциональной реакции",
+            "en": "An inherited type of emotional response",
+            "kk": "Эмоциялық реакцияның тұқым қуалайтын түрін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Уникальный генетический набор организма",
+            "en": "The unique genetic makeup of an organism",
+            "kk": "Организмнің бірегей генетикалық жиынтығын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Совокупность универсальных архетипов",
+            "en": "The totality of universal archetypes",
+            "kk": "Әмбебап архетиптер жиынтығын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4. культурная деятельность человека. культурные образования.docx",
+          "location": "абзац 20",
+          "units": [
+            "p20"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 78,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие, выделяющее конкретного носителя психофизических и социальных черт человеческого рода, — это...",
+        "en": "The concept that singles out a concrete bearer of the psychophysical and social traits of the human race is...",
+        "kk": "Адам тегіне тән психофизикалық және әлеуметтік белгілердің нақты тасымалдаушысын айқындайтын ұғым — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ценностная установка",
+            "en": "Value attitude",
+            "kk": "Құндылықтық бағдар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Культурный тип",
+            "en": "Cultural type",
+            "kk": "Мәдени тип"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Индивидуальность",
+            "en": "Individuality",
+            "kk": "Даралық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Индивид",
+            "en": "The individual",
+            "kk": "Индивид"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Социальная роль",
+            "en": "Social role",
+            "kk": "Әлеуметтік рөл"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4. культурная деятельность человека. культурные образования.docx",
+          "location": "абзац 36",
+          "units": [
+            "p36"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 79,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Неповторимое сочетание психических, физиологических и социальных особенностей характеризует...",
+        "en": "A unique combination of mental, physiological and social characteristics describes...",
+        "kk": "Психикалық, физиологиялық және әлеуметтік ерекшеліктердің қайталанбас үйлесімін қандай ұғым сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социальный статус",
+            "en": "Social status",
+            "kk": "Әлеуметтік мәртебе"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальность",
+            "en": "Individuality",
+            "kk": "Даралық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Общественный институт",
+            "en": "A social institution",
+            "kk": "Қоғамдық институт"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Родовую сущность",
+            "en": "Species essence",
+            "kk": "Тектік мән"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Культурную норму",
+            "en": "A cultural norm",
+            "kk": "Мәдени норма"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4. культурная деятельность человека. культурные образования.docx",
+          "location": "абзац 52",
+          "units": [
+            "p52"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 80,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Личность рассматривается как результат становления, поскольку...",
+        "en": "The personality is regarded as the result of becoming because...",
+        "kk": "Тұлға қалыптасу нәтижесі ретінде қарастырылады, өйткені..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Её формирование определяется исключительно строением организма",
+            "en": "Its formation is determined exclusively by the structure of the organism",
+            "kk": "Оның қалыптасуы тек организмнің құрылысымен айқындалады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Её развитие завершается до первого общения",
+            "en": "Its development is completed before the first communication",
+            "kk": "Оның дамуы алғашқы қарым-қатынасқа дейін аяқталады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Её свойства существуют независимо от исторической среды",
+            "en": "Its properties exist independently of the historical environment",
+            "kk": "Оның қасиеттері тарихи ортаға тәуелсіз өмір сүреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Её качества полностью заданы темпераментом при рождении",
+            "en": "Its qualities are fully predetermined by the temperament at birth",
+            "kk": "Оның қасиеттері туғанда темпераментпен толық белгіленген"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Её социальные качества формируются в деятельности и общении",
+            "en": "Its social qualities are formed in activity and communication",
+            "kk": "Оның әлеуметтік қасиеттері іс-әрекет пен қарым-қатынаста қалыптасады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4. культурная деятельность человека. культурные образования.docx",
+          "location": "абзац 48",
+          "units": [
+            "p48"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 81,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Самоопределение и оформление неповторимости человека раскрывают процесс...",
+        "en": "The self-determination and shaping of a person's uniqueness reveal the process of...",
+        "kk": "Адамның өзін-өзі айқындауы мен қайталанбастығының қалыптасуы қандай процесті ашады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ролевой типизации",
+            "en": "Role typification",
+            "kk": "Рөлдік типтеуді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Биологической адаптации",
+            "en": "Biological adaptation",
+            "kk": "Биологиялық бейімделуді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нормативной унификации",
+            "en": "Normative unification",
+            "kk": "Нормативтік біріздендіруді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Индивидуализации",
+            "en": "Individualization",
+            "kk": "Даралануды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Институционализации",
+            "en": "Institutionalization",
+            "kk": "Институттандыруды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4. культурная деятельность человека. культурные образования.docx",
+          "location": "абзац 70",
+          "units": [
+            "p70"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 82,
+      "topic_id": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Качества, характеризующие личность как субъект социального поведения:",
+        "en": "The qualities that characterize the personality as a subject of social behaviour:",
+        "kk": "Тұлғаны әлеуметтік мінез-құлық субъектісі ретінде сипаттайтын қасиеттер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Психофизическая целостность организма как таковая",
+            "en": "The psychophysical integrity of the organism as such",
+            "kk": "Организмнің психофизикалық тұтастығы өз алдына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Самостоятельность",
+            "en": "Independence",
+            "kk": "Дербестік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Устойчивость биологического типа как таковая",
+            "en": "The stability of the biological type as such",
+            "kk": "Биологиялық типтің тұрақтылығы өз алдына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ответственность",
+            "en": "Responsibility",
+            "kk": "Жауапкершілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Морфологическое своеобразие как таковое",
+            "en": "Morphological distinctiveness as such",
+            "kk": "Морфологиялық ерекшелік өз алдына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4. культурная деятельность человека. культурные образования.docx",
+          "location": "абзац 68",
+          "units": [
+            "p68"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 83,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое ограничение необходимо учитывать при географическом объяснении национального характера?",
+        "en": "Which limitation must be taken into account in a geographical explanation of national character?",
+        "kk": "Ұлттық мінезді географиялық тұрғыдан түсіндіргенде қандай шектеуді ескеру қажет?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Природные условия нельзя напрямую отождествлять с национальным характером",
+            "en": "Natural conditions cannot be directly equated with national character",
+            "kk": "Табиғи жағдайларды ұлттық мінезбен тікелей теңестіруге болмайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Природные условия не влияют ни на одну сторону человеческой жизни",
+            "en": "Natural conditions do not affect any aspect of human life",
+            "kk": "Табиғи жағдайлар адам өмірінің ешбір жағына әсер етпейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Культурное своеобразие исчерпывается доступными пищевыми ресурсами",
+            "en": "Cultural distinctiveness is exhausted by the available food resources",
+            "kk": "Мәдени ерекшелік қолжетімді азық-түлік ресурстарымен шектеледі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Одинаковый климат неизбежно создаёт один художественный стиль",
+            "en": "An identical climate inevitably produces one artistic style",
+            "kk": "Бірдей климат міндетті түрде бір көркемдік стильді тудырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Взаимодействие народов не изменяет сложившиеся формы практики",
+            "en": "The interaction of peoples does not change established forms of practice",
+            "kk": "Халықтардың өзара әрекеттесуі қалыптасқан тәжірибе түрлерін өзгертпейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4. культурная деятельность человека. культурные образования.docx",
+          "location": "абзац 79",
+          "units": [
+            "p79"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 84,
+      "topic_id": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "На формирование повседневных культурных практик влияют...",
+        "en": "The formation of everyday cultural practices is influenced by...",
+        "kk": "Күнделікті мәдени тәжірибелердің қалыптасуына мыналар әсер етеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Способы добывания пищи",
+            "en": "The ways of obtaining food",
+            "kk": "Азық-түлік табу тәсілдері"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только формальная схема письменного алфавита",
+            "en": "Only the formal scheme of a written alphabet",
+            "kk": "Жазба әліпбидің тек ресми схемасы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Характер контактов с другими народами",
+            "en": "The nature of contacts with other peoples",
+            "kk": "Басқа халықтармен байланыстардың сипаты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только универсальная последовательность художественных стилей",
+            "en": "Only the universal sequence of artistic styles",
+            "kk": "Көркемдік стильдердің тек әмбебап жүйелілігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только наследуемая типология эмоциональных реакций",
+            "en": "Only the inherited typology of emotional responses",
+            "kk": "Эмоциялық реакциялардың тек тұқым қуалайтын типологиясы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4. культурная деятельность человека. культурные образования.docx",
+          "location": "абзац 80",
+          "units": [
+            "p80"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 85,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вхождение индивида в родную культурную среду обозначается понятием...",
+        "en": "The entry of an individual into his native cultural environment is denoted by the concept of...",
+        "kk": "Индивидтің өзінің төл мәдени ортасына енуі қандай ұғыммен белгіленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кодификацией",
+            "en": "Codification",
+            "kk": "Кодификация"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Культурацией",
+            "en": "Enculturation",
+            "kk": "Мәдениеттену"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сублимацией",
+            "en": "Sublimation",
+            "kk": "Сублимация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Диффузией",
+            "en": "Diffusion",
+            "kk": "Диффузия"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Секуляризацией",
+            "en": "Secularization",
+            "kk": "Секуляризация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 86,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что означает понимание культуры как адаптивной системы?",
+        "en": "What does the understanding of culture as an adaptive system mean?",
+        "kk": "Мәдениетті бейімделу жүйесі ретінде түсіну нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Адаптация исключает преобразование человеком природы",
+            "en": "Adaptation excludes the transformation of nature by the human being",
+            "kk": "Бейімделу адамның табиғатты қайта өзгертуін жоққа шығарады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Культура заменяет взаимодействие со средой изоляцией",
+            "en": "Culture replaces interaction with the environment with isolation",
+            "kk": "Мәдениет ортамен өзара әрекеттесуді оқшаулаумен алмастырады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Культурные формы не зависят от способов жизнедеятельности",
+            "en": "Cultural forms do not depend on the ways of life activity",
+            "kk": "Мәдени нысандар тіршілік ету тәсілдеріне тәуелді емес"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Посредством культуры человек приспосабливается к окружающей среде",
+            "en": "Through culture the human being adapts to the environment",
+            "kk": "Адам мәдениет арқылы қоршаған ортаға бейімделеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Культура передаёт приспособления исключительно генетически",
+            "en": "Culture transmits adaptations exclusively genetically",
+            "kk": "Мәдениет бейімделулерді тек генетикалық жолмен береді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 5",
+          "units": [
+            "p5"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 87,
+      "topic_id": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Примеры, соответствующие образу «неорганического тела цивилизации»:",
+        "en": "The examples that correspond to the image of the \"inorganic body of civilization\":",
+        "kk": "«Өркениеттің бейорганикалық денесі» бейнесіне сәйкес келетін мысалдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Экскаватор как усиление человеческой руки",
+            "en": "An excavator as an enhancement of the human hand",
+            "kk": "Адам қолын күшейтетін экскаватор"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наследуемая форма кисти",
+            "en": "The inherited shape of the hand",
+            "kk": "Қол басының тұқым қуалайтын пішіні"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Темперамент как тип нервной системы",
+            "en": "Temperament as a type of nervous system",
+            "kk": "Жүйке жүйесінің түрі ретіндегі темперамент"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Возрастная перестройка организма",
+            "en": "The age-related restructuring of the organism",
+            "kk": "Организмнің жасқа байланысты қайта құрылуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Велосипед как расширение возможностей передвижения",
+            "en": "A bicycle as an extension of the possibilities of movement",
+            "kk": "Қозғалу мүмкіндігін кеңейтетін велосипед"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 72",
+          "units": [
+            "p72"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 88,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Идеальные представления при характеристике духовности человека получают выражение...",
+        "en": "In the characterization of human spirituality, ideal notions are expressed...",
+        "kk": "Адамның рухани болмысын сипаттағанда идеалды түсініктер мынада көрініс табады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В языке и речи",
+            "en": "In language and speech",
+            "kk": "Тіл мен сөзде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В непосредственном копировании природного объекта",
+            "en": "In the direct copying of a natural object",
+            "kk": "Табиғи нысанды тікелей көшіруде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В наследовании приобретённых навыков",
+            "en": "In the inheritance of acquired skills",
+            "kk": "Жиналған дағдыларды мұралауда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только в особенностях телосложения",
+            "en": "Only in the features of physique",
+            "kk": "Тек дене бітімінің ерекшеліктерінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только в биологических рефлексах",
+            "en": "Only in biological reflexes",
+            "kk": "Тек биологиялық рефлекстерде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 86",
+          "units": [
+            "p86"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 89,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Целостная духовность человека включает...",
+        "en": "The integral spirituality of the human being includes...",
+        "kk": "Адамның тұтас рухани болмысы мыналарды қамтиды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ритуальные, генеалогические и исключительно конфессиональные стороны",
+            "en": "Ritual, genealogical and exclusively confessional aspects",
+            "kk": "Ғұрыптық, генеалогиялық және тек конфессиялық жақтарды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эмоциональные впечатления, телесную адаптацию и хозяйственную специализацию",
+            "en": "Emotional impressions, bodily adaptation and economic specialization",
+            "kk": "Эмоциялық әсерлерді, дене бейімделуін және шаруашылық мамандануды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Профессиональные навыки, социальный ранг и юридические полномочия",
+            "en": "Professional skills, social rank and legal powers",
+            "kk": "Кәсіби дағдыларды, әлеуметтік дәрежені және құқықтық өкілеттіктерді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рациональные, эмоциональные и ценностно-мотивационные стороны",
+            "en": "Rational, emotional and value-motivational aspects",
+            "kk": "Парасаттық, эмоциялық және құндылықтық-уәжділік жақтарды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Рациональные, морфологические и наследственно-физиологические стороны",
+            "en": "Rational, morphological and hereditary-physiological aspects",
+            "kk": "Парасаттық, морфологиялық және тұқым қуалайтын-физиологиялық жақтарды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 81",
+          "units": [
+            "p81"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 90,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "С чем связывается духовность как форма самоидентификации?",
+        "en": "With what is spirituality as a form of self-identification associated?",
+        "kk": "Рухани болмыс өзін-өзі сәйкестендіру нысаны ретінде неге байланыстырылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "С исключительно биологическим установлением происхождения",
+            "en": "With an exclusively biological establishment of origin",
+            "kk": "Тектің тек биологиялық тұрғыдан айқындалуына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "С отрицанием связи между личным выбором и ответственностью",
+            "en": "With the denial of a connection between personal choice and responsibility",
+            "kk": "Жеке таңдау мен жауапкершілік арасындағы байланысты жоққа шығаруға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "С отождествлением личности только с её профессией",
+            "en": "With the identification of the personality only with its profession",
+            "kk": "Тұлғаны тек оның мамандығымен теңестіруге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "С устранением любого чувства долга перед другими",
+            "en": "With the elimination of any sense of duty to others",
+            "kk": "Өзгелер алдындағы кез келген борыш сезімін жоюға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отношением к миру и себе через принадлежность к общезначимому целому",
+            "en": "With one's attitude to the world and to oneself through belonging to a universally significant whole",
+            "kk": "Жалпыға ортақ мәні бар тұтастыққа жататындығы арқылы дүниеге және өзіне қатынасқа"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 89",
+          "units": [
+            "p89"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 91,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Статус человеческого достоинства в этической оценке личности — это...",
+        "en": "The status of human dignity in the ethical evaluation of a personality is...",
+        "kk": "Тұлғаны этикалық бағалауда адамның қадір-қасиетінің мәртебесі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эквивалент наследуемой сословной чести",
+            "en": "The equivalent of inherited class honour",
+            "kk": "Тұқым қуалайтын тектік намысқа баламалы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Условный престиж социальной роли",
+            "en": "The conventional prestige of a social role",
+            "kk": "Әлеуметтік рөлдің шартты беделі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Абсолютная этическая ценность",
+            "en": "An absolute ethical value",
+            "kk": "Абсолютті этикалық құндылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Показатель профессионального признания",
+            "en": "An indicator of professional recognition",
+            "kk": "Кәсіби танылудың көрсеткіші"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эстетическая мера внешнего совершенства",
+            "en": "An aesthetic measure of outward perfection",
+            "kk": "Сыртқы кемелдіктің эстетикалық өлшемі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 98",
+          "units": [
+            "p98"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 92,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Устойчивое представление о некотором объекте как о предпочитаемом благе относится к...",
+        "en": "A stable notion of an object as a preferred good belongs to...",
+        "kk": "Белгілі бір объект туралы артықшылық берілетін игілік ретіндегі тұрақты түсінік нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ценности",
+            "en": "A value",
+            "kk": "Құндылықты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Навыку",
+            "en": "A skill",
+            "kk": "Дағдыны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Знаковому носителю",
+            "en": "A sign carrier",
+            "kk": "Таңбалық тасымалдаушыны"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Физическому свойству",
+            "en": "A physical property",
+            "kk": "Физикалық қасиетті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Рефлекторной реакции",
+            "en": "A reflex reaction",
+            "kk": "Рефлекторлық реакцияны"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 132",
+          "units": [
+            "p132"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 93,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как соотносятся личностное переживание и общечеловеческий характер ценностей?",
+        "en": "How are personal experience and the universal human character of values related?",
+        "kk": "Жеке бастан кешіру мен құндылықтардың жалпыадамзаттық сипаты өзара қалай байланысады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Общечеловеческие ценности получают личностное переживание у конкретного человека",
+            "en": "Universal human values receive personal experience in a particular individual",
+            "kk": "Жалпыадамзаттық құндылықтар нақты адамда жеке бастан кешіру арқылы көрініс табады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Личное переживание всегда отменяет значимость ценности для других",
+            "en": "Personal experience always cancels the significance of a value for others",
+            "kk": "Жеке бастан кешіру құндылықтың өзгелер үшін маңызын әрдайым жояды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Любая личная ценность лишена связи с культурной традицией",
+            "en": "Any personal value has no connection with cultural tradition",
+            "kk": "Кез келген жеке құндылықтың мәдени дәстүрмен байланысы жоқ"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ценность становится общей только после утраты личного смысла",
+            "en": "A value becomes common only after losing its personal meaning",
+            "kk": "Құндылық жеке мағынасын жоғалтқаннан кейін ғана ортақ болады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Общечеловеческая ценность исключает индивидуальное отношение к ней",
+            "en": "A universal human value excludes an individual attitude toward it",
+            "kk": "Жалпыадамзаттық құндылық оған деген жеке қатынасты жоққа шығарады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 135",
+          "units": [
+            "p135"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 94,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Знание об общечеловеческой ценности отличается от её личностного принятия тем, что...",
+        "en": "Knowledge of a universal human value differs from its personal acceptance in that...",
+        "kk": "Жалпыадамзаттық құндылық туралы білімнің оны жеке қабылдаудан ерекшелігі мынада..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Личностное принятие возможно исключительно без знания",
+            "en": "Personal acceptance is possible exclusively without knowledge",
+            "kk": "Жеке қабылдау тек білімсіз ғана мүмкін болады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Различие сводится к наличию письменного определения",
+            "en": "The difference comes down to the existence of a written definition",
+            "kk": "Айырмашылық жазбаша анықтаманың болуына саяды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Значимость для других исключает значимость для себя",
+            "en": "Significance for others excludes significance for oneself",
+            "kk": "Өзгелер үшін маңыздылық өзі үшін маңыздылықты жоққа шығарады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Знание ещё не гарантирует переживания ценности как значимой для себя",
+            "en": "Knowledge does not yet guarantee the experience of a value as significant for oneself",
+            "kk": "Білім құндылықты өзі үшін маңызды деп бастан кешіруге әлі кепілдік бермейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Знание автоматически формирует устойчивое нравственное поведение",
+            "en": "Knowledge automatically forms stable moral behaviour",
+            "kk": "Білім тұрақты имандылық мінез-құлықты автоматты түрде қалыптастырады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 150",
+          "units": [
+            "p150"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 95,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Начало разработки аксиологии в XIX веке связывают с...",
+        "en": "The beginning of the development of axiology in the nineteenth century is associated with...",
+        "kk": "XIX ғасырда аксиологияны әзірлеудің басталуымен байланыстырылатын философ — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Р. Г. Лотце",
+            "en": "R. H. Lotze",
+            "kk": "Р. Г. Лотце"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "М. Вебером",
+            "en": "M. Weber",
+            "kk": "М. Вебер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В. Библером",
+            "en": "V. Bibler",
+            "kk": "В. Библер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "М. Фуко",
+            "en": "M. Foucault",
+            "kk": "М. Фуко"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Э. Кассирером",
+            "en": "E. Cassirer",
+            "kk": "Э. Кассирер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 151",
+          "units": [
+            "p151"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 96,
+      "topic_id": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К основным областям аксиологического исследования относятся различения:",
+        "en": "The main areas of axiological inquiry include the following distinctions:",
+        "kk": "Аксиологиялық зерттеудің негізгі салаларына мына айырымдар жатады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Субъект и объект как формальные элементы познания",
+            "en": "Subject and object as formal elements of cognition",
+            "kk": "Субъект және объект таным элементтері ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Синтагма и парадигма",
+            "en": "Syntagm and paradigm",
+            "kk": "Синтагма және парадигма"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Прекрасное и безобразное",
+            "en": "The beautiful and the ugly",
+            "kk": "Әсем және ұсқынсыз"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Добро и зло",
+            "en": "Good and evil",
+            "kk": "Жақсылық және жамандық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Означающее и означаемое",
+            "en": "Signifier and signified",
+            "kk": "Белгілеуші және белгіленуші"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 152",
+          "units": [
+            "p152"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 97,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как различаются профессиональная и академическая этика?",
+        "en": "How do professional ethics and academic ethics differ?",
+        "kk": "Кәсіби және академиялық этика қалай ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Первая изучает прекрасное, вторая — правила передачи знаков",
+            "en": "The former studies the beautiful, the latter the rules of sign transmission",
+            "kk": "Біріншісі әсемді зерттейді, екіншісі таңбалардың берілу ережелерін зерттейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Первая исследует реально-должное, вторая — идеально-должное",
+            "en": "The former studies what ought to be in reality, the latter what ought to be ideally",
+            "kk": "Біріншісі нақты-тиістіні зерттейді, екіншісі мұратты-тиістіні зерттейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Первая зависит только от закона, вторая — только от обычая",
+            "en": "The former depends only on law, the latter only on custom",
+            "kk": "Біріншісі тек заңға, екіншісі тек әдет-ғұрыпқа тәуелді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Первая исследует идеально-должное, вторая — реально-должное",
+            "en": "The former studies what ought to be ideally, the latter what ought to be in reality",
+            "kk": "Біріншісі мұратты-тиістіні зерттейді, екіншісі нақты-тиістіні зерттейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Первая исключает оценку поступка, вторая ограничивается этикетом",
+            "en": "The former excludes the evaluation of an act, the latter is limited to etiquette",
+            "kk": "Біріншісі іс-әрекетті бағалауды жоққа шығарады, екіншісі тек этикетпен шектеледі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 178",
+          "units": [
+            "p178"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 98,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Назначение корпоративной этики для пространственно разделённых подразделений состоит в...",
+        "en": "The purpose of corporate ethics for spatially separated units is...",
+        "kk": "Корпоративтік этиканың кеңістікте бөлінген бөлімшелер үшін мақсаты неде?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Замене всех профессиональных норм местными обычаями",
+            "en": "To replace all professional norms with local customs",
+            "kk": "Барлық кәсіби нормаларды жергілікті әдет-ғұрыптармен алмастыруда"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Формировании общего духа на основе разделяемых ценностей",
+            "en": "To form a common spirit based on shared values",
+            "kk": "Ортақ құндылықтар негізінде ортақ рухты қалыптастыруда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Изоляции подразделений от общих нравственных требований",
+            "en": "To isolate the units from common moral requirements",
+            "kk": "Бөлімшелерді жалпы имандылық талаптардан оқшаулауда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сведении ответственности к единству внешнего оформления",
+            "en": "To reduce responsibility to uniformity of outward appearance",
+            "kk": "Жауапкершілікті сыртқы рәсімдеудің бірлігіне келтіруде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Устранении моральных оценок из деловых отношений",
+            "en": "To eliminate moral judgments from business relations",
+            "kk": "Іскерлік қатынастардан адамгершілік бағаларды жоюда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 176",
+          "units": [
+            "p176"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 99,
+      "topic_id": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите характеристики, которые относятся к рациональной стороне красоты.",
+        "en": "Indicate the characteristics that relate to the rational side of beauty.",
+        "kk": "Сұлулықтың парасаттық жағына жататын сипаттамаларды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ассоциативное предчувствие и фантазия",
+            "en": "Associative anticipation and fantasy",
+            "kk": "Ассоциативтік сезім және қиял"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Пропорция и симметрия",
+            "en": "Proportion and symmetry",
+            "kk": "Пропорция және симметрия"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Долг и совесть",
+            "en": "Duty and conscience",
+            "kk": "Борыш және ар-ұждан"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Катарсис и эмоциональное сопереживание",
+            "en": "Catharsis and emotional empathy",
+            "kk": "Катарсис және эмоциялық жанашырлық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Соразмерность и гармонические отношения",
+            "en": "Commensurability and harmonious relations",
+            "kk": "Үйлесімділік және гармониялық қатынастар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 186",
+          "units": [
+            "p186"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 100,
+      "topic_id": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Искусство как способ духовно-практического освоения действительности опирается прежде всего на...",
+        "en": "Art as a way of the spiritual and practical mastery of reality relies primarily on...",
+        "kk": "Өнер шындықты рухани-практикалық игеру тәсілі ретінде ең алдымен неге сүйенеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Формальное юридическое предписание",
+            "en": "A formal legal prescription",
+            "kk": "Ресми заңды нұсқауға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Генеалогическую фиксацию происхождения",
+            "en": "A genealogical record of origin",
+            "kk": "Тектің шығуын генеалогиялық тіркеуге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Административное распределение культурных ролей",
+            "en": "The administrative distribution of cultural roles",
+            "kk": "Мәдени рөлдерді әкімшілік бөлуге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Воображение и фантазию",
+            "en": "Imagination and fantasy",
+            "kk": "Қиял мен қиялдауға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Экспериментальную воспроизводимость измерения",
+            "en": "The experimental reproducibility of measurement",
+            "kk": "Өлшемнің эксперименттік қайталануына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8. Человек и культура.docx",
+          "location": "абзац 189",
+          "units": [
+            "p189"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    }
+  ]
+}

@@ -1,0 +1,1683 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 71,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Определение власти через способность достигать намеченных целей относится к трактовке...",
+        "en": "Defining power as the ability to achieve intended goals belongs to the ... interpretation.",
+        "kk": "Билікті белгіленген мақсаттарға қол жеткізу қабілеті арқылы анықтау қандай түсіндіруге жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 625",
+          "units": [
+            "p625"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Структурно-функциональной",
+            "en": "Structural-functional",
+            "kk": "Құрылымдық-функциялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Телеологической",
+            "en": "Teleological",
+            "kk": "Телеологиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Реляционистской",
+            "en": "Relational",
+            "kk": "Реляционистік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Психоаналитической",
+            "en": "Psychoanalytic",
+            "kk": "Психоаналитикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Бихевиористской",
+            "en": "Behavioralist",
+            "kk": "Бихевиористік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 72,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Реляционистское понимание власти акцентирует...",
+        "en": "The relational understanding of power emphasizes...",
+        "kk": "Биліктің реляционистік түсінігі нені атап көрсетеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 631",
+          "units": [
+            "p631"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Разделение функций управления внутри организации",
+            "en": "The division of management functions within an organization",
+            "kk": "Ұйым ішінде басқару функцияларының бөлінуін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Совпадение результатов деятельности с поставленной целью",
+            "en": "The match between the results of activity and the goal set",
+            "kk": "Қызмет нәтижелерінің қойылған мақсатпен сәйкес келуін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Проекцию вытесненных влечений на политические институты",
+            "en": "The projection of repressed drives onto political institutions",
+            "kk": "Басылып қалған құмарлықтардың саяси институттарға проекциясын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Способность системы сохранять собственную целостность",
+            "en": "The ability of a system to preserve its own integrity",
+            "kk": "Жүйенің өз тұтастығын сақтау қабілетін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отношение определяющего влияния между субъектом и объектом",
+            "en": "A relationship of determining influence between subject and object",
+            "kk": "Субъект пен объект арасындағы айқындаушы ықпал қатынасын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 73,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Системная трактовка власти отличается от индивидуализирующей бихевиористской тем, что...",
+        "en": "The systemic interpretation of power differs from the individualizing behavioralist one in that...",
+        "kk": "Биліктің жүйелік түсіндірмесі жекелеуші бихевиористік түсіндірмеден немен ерекшеленеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 629",
+          "units": [
+            "p629"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сводит власть к врождённому стремлению к престижу",
+            "en": "It reduces power to an innate striving for prestige",
+            "kk": "Билікті мәртебеге деген туа біткен ұмтылысқа келтіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отождествляет власть с формальным должностным статусом",
+            "en": "It identifies power with formal official status",
+            "kk": "Билікті ресми лауазымдық мәртебемен теңестіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключает коллективные цели из анализа",
+            "en": "It excludes collective goals from analysis",
+            "kk": "Талдаудан ұжымдық мақсаттарды шығарып тастайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исходит из потребностей социальной системы",
+            "en": "It proceeds from the needs of the social system",
+            "kk": "Әлеуметтік жүйенің қажеттіліктерінен шығады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Объясняет любое подчинение исключительно наказанием",
+            "en": "It explains any submission exclusively by punishment",
+            "kk": "Кез келген бағынуды тек жазамен түсіндіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 74,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Компоненты, непосредственно образующие структуру властного отношения:",
+        "en": "Components that directly make up the structure of a power relationship:",
+        "kk": "Билік қатынасының құрылымын тікелей құрайтын құрамдастар:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 632",
+          "units": [
+            "p632"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Статус и престиж как единственные средства исполнения приказа",
+            "en": "Status and prestige as the only means of carrying out an order",
+            "kk": "Мәртебе мен бедел бұйрықты орындаудың жалғыз құралы ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Субъект и объект",
+            "en": "Subject and object",
+            "kk": "Субъект және объект"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Средства и процесс осуществления",
+            "en": "Means and process of exercise",
+            "kk": "Жүзеге асыру құралдары мен үдерісі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Легальность и легитимность как два непосредственных агента власти",
+            "en": "Legality and legitimacy as the two direct agents of power",
+            "kk": "Легалдылық пен легитимділік билікті тікелей жүзеге асырушы екі агент ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интерес и ценность как исчерпывающая пара элементов отношения",
+            "en": "Interest and value as an exhaustive pair of elements of the relationship",
+            "kk": "Мүдде мен құндылық қатынастың түгел элементтер жұбы ретінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": 75,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое сочетание качеств наиболее полно характеризует способного к осуществлению власти субъекта?",
+        "en": "Which combination of qualities most fully characterizes a subject capable of exercising power?",
+        "kk": "Қандай қасиеттер үйлесімі билікті жүзеге асыра алатын субъектіні неғұрлым толық сипаттайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 635-636",
+          "units": [
+            "p635",
+            "p636"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Популярность, богатство и социальная однородность",
+            "en": "Popularity, wealth and social homogeneity",
+            "kk": "Танымалдық, байлық және әлеуметтік біртектілік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Харизма, наследственный статус и религиозность",
+            "en": "Charisma, hereditary status and religiosity",
+            "kk": "Харизма, тұқым қуалайтын мәртебе және діншілдік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Воля к руководству, компетентность и организованность",
+            "en": "The will to lead, competence and organization",
+            "kk": "Басшылыққа ерік, құзыреттілік және ұйымшылдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Численное превосходство, территориальность и оседлость",
+            "en": "Numerical superiority, territoriality and sedentariness",
+            "kk": "Сандық басымдық, аумақтылық және отырықшылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Лояльность, конформизм и исполнительность",
+            "en": "Loyalty, conformism and diligence",
+            "kk": "Адалдық, конформизм және орындаушылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 76,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Зависимость группы, получающей редкие блага в обмен на исполнение распоряжений их владельца, объясняет...",
+        "en": "The dependence of a group that receives scarce goods in exchange for carrying out the instructions of their owner is explained by...",
+        "kk": "Сирек игіліктерді олардың иесінің өкімдерін орындау үшін айырбас ретінде алатын топтың тәуелділігін қандай тәсіл түсіндіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 660",
+          "units": [
+            "p660"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теория циркуляции элит",
+            "en": "The theory of the circulation of elites",
+            "kk": "Элиталар айналымы теориясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Теория разделения властей",
+            "en": "The theory of the separation of powers",
+            "kk": "Билікті бөлу теориясы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Теория политической социализации",
+            "en": "The theory of political socialization",
+            "kk": "Саяси әлеуметтену теориясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Теория общественного договора",
+            "en": "The social contract theory",
+            "kk": "Қоғамдық шарт теориясы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Теория социального обмена",
+            "en": "Social exchange theory",
+            "kk": "Әлеуметтік алмасу теориясы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 77,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Назовите категории ресурсов, выделенные Амитаем Этциони.",
+        "en": "Name the categories of resources identified by Amitai Etzioni.",
+        "kk": "Амитай Этциони бөліп көрсеткен ресурс санаттарын атаңыз."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 662",
+          "units": [
+            "p662"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Принудительные",
+            "en": "Coercive",
+            "kk": "Мәжбүрлеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социальные",
+            "en": "Social",
+            "kk": "Әлеуметтік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Культурно-информационные",
+            "en": "Cultural-informational",
+            "kk": "Мәдени-ақпараттық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Нормативные",
+            "en": "Normative",
+            "kk": "Нормативтік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Утилитарные",
+            "en": "Utilitarian",
+            "kk": "Утилитарлық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 78,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Поддержку политическому решению обеспечивают предоставлением материальных льгот. Какой ресурс используется по классификации Этциони?",
+        "en": "Support for a political decision is secured by granting material benefits. Which resource is being used according to Etzioni's classification?",
+        "kk": "Саяси шешімге қолдау материалдық жеңілдіктер беру арқылы қамтамасыз етіледі. Этциони жіктемесі бойынша қандай ресурс пайдаланылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 662",
+          "units": [
+            "p662"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Принудительный",
+            "en": "Coercive",
+            "kk": "Мәжбүрлеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Нормативный",
+            "en": "Normative",
+            "kk": "Нормативтік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Институциональный",
+            "en": "Institutional",
+            "kk": "Институционалдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Харизматический",
+            "en": "Charismatic",
+            "kk": "Харизмалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Утилитарный",
+            "en": "Utilitarian",
+            "kk": "Утилитарлық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 79,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Власть добивается согласия, апеллируя к убеждениям и признанным ценностям. Какой ресурс используется по классификации Этциони?",
+        "en": "The authorities win consent by appealing to convictions and recognized values. Which resource is being used according to Etzioni's classification?",
+        "kk": "Билік сенімдерге және мойындалған құндылықтарға жүгіну арқылы келісімге қол жеткізеді. Этциони жіктемесі бойынша қандай ресурс пайдаланылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 662",
+          "units": [
+            "p662"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Принудительный",
+            "en": "Coercive",
+            "kk": "Мәжбүрлеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Нормативный",
+            "en": "Normative",
+            "kk": "Нормативтік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Демографический",
+            "en": "Demographic",
+            "kk": "Демографиялық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Экономический",
+            "en": "Economic",
+            "kk": "Экономикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Утилитарный",
+            "en": "Utilitarian",
+            "kk": "Утилитарлық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 80,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой ресурс власти Олвин Тоффлер связывал с возрастающей ролью постиндустриального общества?",
+        "en": "Which resource of power did Alvin Toffler associate with the growing role of post-industrial society?",
+        "kk": "Элвин Тоффлер биліктің қандай ресурсын постиндустриалдық қоғамның өсіп келе жатқан рөлімен байланыстырды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 664",
+          "units": [
+            "p664"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наследственные привилегии",
+            "en": "Hereditary privileges",
+            "kk": "Тұқым қуалайтын артықшылықтар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Земельная собственность",
+            "en": "Landed property",
+            "kk": "Жер меншігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Военная мобилизация",
+            "en": "Military mobilization",
+            "kk": "Әскери жұмылдыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Знания и информация",
+            "en": "Knowledge and information",
+            "kk": "Білім мен ақпарат"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сословная солидарность",
+            "en": "Estate solidarity",
+            "kk": "Таптық ынтымақтастық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 81,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социальная власть в отличие от экономической непосредственно связана с распределением...",
+        "en": "Unlike economic power, social power is directly connected with the distribution of...",
+        "kk": "Экономикалық билікке қарағанда әлеуметтік билік тікелей нені бөлумен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 677",
+          "units": [
+            "p677"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Материальных запасов государства",
+            "en": "The state's material reserves",
+            "kk": "Мемлекеттің материалдық қорларын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Финансовых активов предприятий",
+            "en": "The financial assets of enterprises",
+            "kk": "Кәсіпорындардың қаржылық активтерін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Статусов, должностей и привилегий",
+            "en": "Statuses, positions and privileges",
+            "kk": "Мәртебелерді, лауазымдарды және артықшылықтарды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Товаров производственного назначения",
+            "en": "Goods intended for production",
+            "kk": "Өндірістік мақсаттағы тауарларды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Денежных доходов от собственности",
+            "en": "Monetary income from property",
+            "kk": "Меншіктен түсетін ақшалай табыстарды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 82,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Недопущение руководством обсуждения проблемы, способной изменить распределение благ, — это такое проявление власти, как...",
+        "en": "A leadership's refusal to allow discussion of a problem that could change the distribution of benefits is such a manifestation of power as...",
+        "kk": "Басшылықтың игіліктердің бөлінуін өзгерте алатын мәселені талқылауға жол бермеуі биліктің қандай көрінісі болып табылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 670",
+          "units": [
+            "p670"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Плебисцитарная легитимация",
+            "en": "Plebiscitary legitimation",
+            "kk": "Плебисциттік легитимациялау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Контроль политической повестки",
+            "en": "Control of the political agenda",
+            "kk": "Саяси күн тәртібін бақылау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нормативная социализация",
+            "en": "Normative socialization",
+            "kk": "Нормативтік әлеуметтендіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Электоральное делегирование",
+            "en": "Electoral delegation",
+            "kk": "Сайлаулық делегациялау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Институциональная дифференциация",
+            "en": "Institutional differentiation",
+            "kk": "Институционалдық саралану"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 83,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Концепция «второго лица власти» связана с именами...",
+        "en": "The concept of the \"second face of power\" is associated with the names of...",
+        "kk": "«Биліктің екінші жүзі» тұжырымдамасы кімдердің есімдерімен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 670",
+          "units": [
+            "p670"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Петера Бахраха и Мортона Баратца",
+            "en": "Peter Bachrach and Morton Baratz",
+            "kk": "Петер Бахрах және Мортон Баратц"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Карла Маркса и Фридриха Энгельса",
+            "en": "Karl Marx and Friedrich Engels",
+            "kk": "Карл Маркс және Фридрих Энгельс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Томаса Гоббса и Джона Локка",
+            "en": "Thomas Hobbes and John Locke",
+            "kk": "Томас Гоббс және Джон Локк"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Габриэля Алмонда и Сиднея Вербы",
+            "en": "Gabriel Almond and Sidney Verba",
+            "kk": "Габриэль Алмонд және Сидней Верба"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гаэтано Моски и Вильфредо Парето",
+            "en": "Gaetano Mosca and Vilfredo Pareto",
+            "kk": "Гаэтано Моска және Вильфредо Парето"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 84,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Принудительную власть нельзя полностью отождествлять с политической, потому что...",
+        "en": "Coercive power cannot be completely identified with political power because...",
+        "kk": "Мәжбүрлеуге негізделген билікті саяси билікпен толық теңестіруге болмайтыны неліктен?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 680",
+          "units": [
+            "p680"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Силовые ресурсы исключают организацию управления",
+            "en": "Coercive resources preclude the organization of governance",
+            "kk": "Күш ресурстары басқаруды ұйымдастыруды жоққа шығарады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Физическое принуждение возможно и во внеполитических отношениях",
+            "en": "Physical coercion is also possible in non-political relations",
+            "kk": "Физикалық мәжбүрлеу саяси емес қатынастарда да мүмкін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Политическая власть существует только как моральный авторитет",
+            "en": "Political power exists only as moral authority",
+            "kk": "Саяси билік тек моральдық бедел ретінде ғана өмір сүреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Любое принуждение основано на всенародном голосовании",
+            "en": "Any coercion is based on a nationwide vote",
+            "kk": "Кез келген мәжбүрлеу бүкілхалықтық дауыс беруге негізделген"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Политическая власть вообще не использует силу",
+            "en": "Political power does not use force at all",
+            "kk": "Саяси билік күшті мүлде пайдаланбайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 85,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Механизм власти представляет собой...",
+        "en": "The mechanism of power is...",
+        "kk": "Билік тетігі дегеніміз не?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 673",
+          "units": [
+            "p673"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Совокупность личных качеств политического руководителя",
+            "en": "The totality of the personal qualities of a political leader",
+            "kk": "Саяси басшының жеке қасиеттерінің жиынтығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Систему организаций и норм их устройства и деятельности",
+            "en": "A system of organizations and the norms of their structure and activity",
+            "kk": "Ұйымдар мен олардың құрылымы мен қызметінің нормаларының жүйесі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Иерархию престижности профессиональных занятий",
+            "en": "A hierarchy of the prestige of occupations",
+            "kk": "Кәсіптік қызмет түрлерінің беделділік иерархиясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Численное соотношение сторон политического конфликта",
+            "en": "The numerical ratio of the sides in a political conflict",
+            "kk": "Саяси қақтығыс тараптарының сандық арақатынасы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Набор индивидуальных политических предпочтений",
+            "en": "A set of individual political preferences",
+            "kk": "Жеке саяси қалаулардың жиынтығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 86,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Признаки политической власти:",
+        "en": "Features of political power:",
+        "kk": "Саяси биліктің белгілері:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 682",
+          "units": [
+            "p682"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Регулирование поведения только посредством личного авторитета",
+            "en": "Regulating behavior solely through personal authority",
+            "kk": "Мінез-құлықты тек жеке бедел арқылы реттеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Преимущественное использование родственных, а не публичных каналов",
+            "en": "Predominant use of kinship rather than public channels",
+            "kk": "Жария емес, туыстық арналарды басымдықпен пайдалану"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Верховенство в пределах политического сообщества",
+            "en": "Supremacy within the political community",
+            "kk": "Саяси қауымдастық шегінде үстемдік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тождество субъекта власти всей совокупности управляемых граждан",
+            "en": "Identity of the subject of power with the entire body of governed citizens",
+            "kk": "Билік субъектісінің барлық басқарылатын азаматтар жиынтығымен бірдейлігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Публичность и обязательность решений",
+            "en": "Publicity and binding force of decisions",
+            "kk": "Шешімдердің жариялылығы және міндеттілігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 87,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Признание гражданами правомерности власти обозначается понятием...",
+        "en": "Citizens' recognition of the rightfulness of power is denoted by the concept of...",
+        "kk": "Азаматтардың биліктің құқықтылығын мойындауы қандай ұғыммен белгіленеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 697-698",
+          "units": [
+            "p697",
+            "p698"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Легитимность",
+            "en": "Legitimacy",
+            "kk": "Легитимділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Легальность",
+            "en": "Legality",
+            "kk": "Легалдылық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эффективность",
+            "en": "Effectiveness",
+            "kk": "Тиімділік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Суверенность",
+            "en": "Sovereignty",
+            "kk": "Егемендік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Компетенция",
+            "en": "Competence",
+            "kk": "Құзыреттілік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 88,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что непосредственно характеризует легальность власти?",
+        "en": "What directly characterizes the legality of power?",
+        "kk": "Биліктің легалдылығын тікелей не сипаттайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 698",
+          "units": [
+            "p698"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Устойчивость экономического роста",
+            "en": "The stability of economic growth",
+            "kk": "Экономикалық өсудің тұрақтылығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Популярность внешнеполитического курса",
+            "en": "The popularity of the foreign policy course",
+            "kk": "Сыртқы саяси бағыттың танымалдығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вера в исключительные качества руководителя",
+            "en": "Belief in the exceptional qualities of the leader",
+            "kk": "Басшының ерекше қасиеттеріне сену"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Соответствие установленным правовым нормам",
+            "en": "Conformity to established legal norms",
+            "kk": "Белгіленген құқықтық нормаларға сәйкестік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Положительная нравственная оценка большинством",
+            "en": "A positive moral assessment by the majority",
+            "kk": "Көпшіліктің оң адамгершілік бағасы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 89,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Правительство действует по закону, но большинство отказывает ему в праве управлять. Какое сочетание характеристик возможно?",
+        "en": "A government acts in accordance with the law, but the majority denies it the right to govern. Which combination of characteristics is possible?",
+        "kk": "Үкімет заң бойынша әрекет етеді, бірақ көпшілік оған басқару құқығын бермейді. Сипаттамалардың қандай үйлесімі мүмкін?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 697-698",
+          "units": [
+            "p697",
+            "p698"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Легальность при дефиците легитимности",
+            "en": "Legality with a deficit of legitimacy",
+            "kk": "Легитимділік жетіспегендегі легалдылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Харизматичность при отсутствии публичности",
+            "en": "Charisma in the absence of publicity",
+            "kk": "Жариялылық болмағандағы харизмалылық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Суверенность при отсутствии институтов",
+            "en": "Sovereignty in the absence of institutions",
+            "kk": "Институттар болмағандағы егемендік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Легитимность при отсутствии легальности",
+            "en": "Legitimacy in the absence of legality",
+            "kk": "Легалдылық болмағандағы легитимділік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Нормативность при отсутствии политической власти",
+            "en": "Normativity in the absence of political power",
+            "kk": "Саяси билік болмағандағы нормативтілік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 90,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Повиновение, основанное на священности издавна существующего порядка, характеризует легитимность...",
+        "en": "Obedience based on the sanctity of a long-established order characterizes ... legitimacy.",
+        "kk": "Ұзақ уақыт бойы өмір сүріп келе жатқан тәртіптің киелілігіне негізделген бағыну қандай легитимділікті сипаттайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 700",
+          "units": [
+            "p700"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Идеологическую",
+            "en": "Ideological",
+            "kk": "Идеологиялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рационально-правовую",
+            "en": "Rational-legal",
+            "kk": "Рационалды-құқықтық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Харизматическую",
+            "en": "Charismatic",
+            "kk": "Харизмалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Традиционную",
+            "en": "Traditional",
+            "kk": "Дәстүрлі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Технократическую",
+            "en": "Technocratic",
+            "kk": "Технократиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 91,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Признание особого личного дара правителя составляет основу легитимности...",
+        "en": "Recognition of the ruler's special personal gift is the basis of ... legitimacy.",
+        "kk": "Билеушінің ерекше жеке сыйының мойындалуы қандай легитимділіктің негізін құрайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 701",
+          "units": [
+            "p701"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Рационально-правовой",
+            "en": "Rational-legal",
+            "kk": "Рационалды-құқықтық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Харизматической",
+            "en": "Charismatic",
+            "kk": "Харизмалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Процедурной",
+            "en": "Procedural",
+            "kk": "Рәсімдік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Традиционной",
+            "en": "Traditional",
+            "kk": "Дәстүрлі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Корпоративной",
+            "en": "Corporate",
+            "kk": "Корпоративтік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 92,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "При рационально-правовом господстве подчиняются прежде всего...",
+        "en": "Under rational-legal domination, people obey primarily...",
+        "kk": "Рационалды-құқықтық үстемдік кезінде ең алдымен неге бағынады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 702-703",
+          "units": [
+            "p702",
+            "p703"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключительности национальной миссии лидера",
+            "en": "The uniqueness of the leader's national mission",
+            "kk": "Көшбасшының ұлттық миссиясының айрықшалығына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Священному происхождению правящей династии",
+            "en": "The sacred origin of the ruling dynasty",
+            "kk": "Билеуші әулеттің қасиетті тегіне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Героическому прошлому политического вождя",
+            "en": "The heroic past of the political leader",
+            "kk": "Саяси жетекшінің ерлік өткеніне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Безличному порядку и полномочиям должности",
+            "en": "The impersonal order and the powers of the office",
+            "kk": "Тұлғасыз тәртіпке және лауазымның өкілеттіктеріне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Личным добродетелям обладателя должности",
+            "en": "The personal virtues of the officeholder",
+            "kk": "Лауазым иесінің жеке ізгіліктеріне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 93,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения, характеризующие идеологическую легитимацию:",
+        "en": "Statements that characterize ideological legitimation:",
+        "kk": "Идеологиялық легитимациялауға тән ережелер:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 704-706",
+          "units": [
+            "p704",
+            "p705",
+            "p706"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Оправдание власти через политическую доктрину",
+            "en": "Justification of power through a political doctrine",
+            "kk": "Билікті саяси доктрина арқылы ақтау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Признание за всеми конкурирующими доктринами одинакового официального статуса",
+            "en": "Recognition of the same official status for all competing doctrines",
+            "kk": "Барлық бәсекелес доктриналарға бірдей ресми мәртебе беру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обоснование повиновения исключительно формальной процедурой замещения должностей",
+            "en": "Grounding obedience solely in the formal procedure for filling offices",
+            "kk": "Бағынуды тек лауазымдарды алмастырудың ресми рәсімімен негіздеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Выведение права управлять из непрерывности наследственной преемственности",
+            "en": "Deriving the right to govern from the continuity of hereditary succession",
+            "kk": "Басқару құқығын мұрагерлік сабақтастықтың үздіксіздігінен шығару"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Апелляция к интересам нации или класса",
+            "en": "An appeal to the interests of the nation or class",
+            "kk": "Ұлт немесе тап мүдделеріне жүгіну"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ]
+    },
+    {
+      "id": 94,
+      "topic_id": 4,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия между основанием повиновения и типом легитимности:",
+        "en": "Correct correspondences between the basis of obedience and the type of legitimacy:",
+        "kk": "Бағыну негізі мен легитимділік түрі арасындағы дұрыс сәйкестіктер:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 697-703",
+          "units": [
+            "p697",
+            "p698",
+            "p699",
+            "p700",
+            "p701",
+            "p702",
+            "p703"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обычай: традиционная",
+            "en": "Custom: traditional",
+            "kk": "Әдет-ғұрып: дәстүрлі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Признанные правила: рационально-правовая",
+            "en": "Recognized rules: rational-legal",
+            "kk": "Мойындалған ережелер: рационалды-құқықтық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Личный исключительный дар: харизматическая",
+            "en": "A personal exceptional gift: charismatic",
+            "kk": "Жеке айрықша сый: харизмалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Повиновение установленной должности: традиционная",
+            "en": "Obedience to an established office: traditional",
+            "kk": "Белгіленген лауазымға бағыну: дәстүрлі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Признание исключительной миссии лидера: рационально-правовая",
+            "en": "Recognition of the leader's exceptional mission: rational-legal",
+            "kk": "Көшбасшының айрықша миссиясын мойындау: рационалды-құқықтық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": 95,
+      "topic_id": 4,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Власть повышает материальные выплаты, но граждане продолжают отвергать её право управлять. Какой вывод обоснован?",
+        "en": "The authorities increase material payments, but citizens continue to reject their right to govern. Which conclusion is well founded?",
+        "kk": "Билік материалдық төлемдерді көбейтеді, бірақ азаматтар оның басқару құқығын мойындамай келеді. Қандай қорытынды негізді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 662",
+          "units": [
+            "p662"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 697",
+          "units": [
+            "p697"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Увеличение социальных расходов свидетельствует о смене субъекта суверенитета",
+            "en": "Increased social spending indicates a change in the subject of sovereignty",
+            "kk": "Әлеуметтік шығыстардың артуы егемендік субъектісінің ауысқанын көрсетеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Материальное вознаграждение позволяет судить о законности процедуры назначения",
+            "en": "Material rewards make it possible to judge the lawfulness of the appointment procedure",
+            "kk": "Материалдық сыйақы тағайындау рәсімінің заңдылығы туралы шешім шығаруға мүмкіндік береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Утилитарные ресурсы сами по себе не гарантируют легитимности",
+            "en": "Utilitarian resources alone do not guarantee legitimacy",
+            "kk": "Утилитарлық ресурстардың өзі легитимділікке кепілдік бермейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рост утилитарных ресурсов переводит господство в рационально-правовой тип",
+            "en": "The growth of utilitarian resources transforms domination into the rational-legal type",
+            "kk": "Утилитарлық ресурстардың өсуі үстемдікті рационалды-құқықтық түрге ауыстырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Снижение поддержки означает прежде всего утрату формально установленных полномочий",
+            "en": "A decline in support primarily means the loss of formally established powers",
+            "kk": "Қолдаудың төмендеуі ең алдымен ресми белгіленген өкілеттіктердің жоғалуын білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    }
+  ]
+}

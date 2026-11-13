@@ -1,0 +1,1641 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 276,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какая последовательность сезонных пастбищ соответствует зиме, весне, лету и осени?",
+        "en": "Which sequence of seasonal pastures corresponds to winter, spring, summer and autumn?",
+        "kk": "Маусымдық жайылымдардың қандай тізбегі қыс, көктем, жаз және күзге сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Күзеу, жайлау, көктеу, қыстау",
+            "en": "Kuzeu, zhailau, kokteu, kystau",
+            "kk": "Күзеу, жайлау, көктеу, қыстау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Көктеу, қыстау, күзеу, жайлау",
+            "en": "Kokteu, kystau, kuzeu, zhailau",
+            "kk": "Көктеу, қыстау, күзеу, жайлау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Қыстау, көктеу, жайлау, күзеу",
+            "en": "Kystau, kokteu, zhailau, kuzeu",
+            "kk": "Қыстау, көктеу, жайлау, күзеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Қыстау, күзеу, жайлау, көктеу",
+            "en": "Kystau, kuzeu, zhailau, kokteu",
+            "kk": "Қыстау, күзеу, жайлау, көктеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Жайлау, көктеу, қыстау, күзеу",
+            "en": "Zhailau, kokteu, kystau, kuzeu",
+            "kk": "Жайлау, көктеу, қыстау, күзеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 277,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как соотносились темпы переходов на летние пастбища и возвращения на зимовки?",
+        "en": "How did the pace of the moves to the summer pastures and of the return to the winter quarters compare?",
+        "kk": "Жайлауға көшу мен қыстауға қайту қарқыны өзара қалай байланысты болды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "На летние пастбища двигались медленнее, на зимовки — быстрее",
+            "en": "They moved more slowly to the summer pastures and faster to the winter quarters",
+            "kk": "Жайлауға баяу, қыстауға жылдам көшті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "На летние пастбища двигались быстрее, на зимовки — медленнее",
+            "en": "They moved faster to the summer pastures and more slowly to the winter quarters",
+            "kk": "Жайлауға жылдам, қыстауға баяу көшті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Возвращение на зимовки не входило в ежегодный маршрут",
+            "en": "The return to the winter quarters was not part of the annual route",
+            "kk": "Қыстауға қайту жыл сайынғы маршрутқа кірмеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Темп определялся только числом приглашённых гостей",
+            "en": "The pace was determined only by the number of invited guests",
+            "kk": "Қарқын тек шақырылған қонақтардың санымен айқындалды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Оба перехода совершались с одинаковой предельной скоростью",
+            "en": "Both moves were made at the same maximum speed",
+            "kk": "Екі көш те бірдей шекті жылдамдықпен жасалды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 7",
+          "units": [
+            "p7"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 278,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Войлочный ковёр с аппликацией называется...",
+        "en": "A felt carpet with appliqué is called...",
+        "kk": "Аппликациясы бар киіз кілемнің атауы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Такыр кілем",
+            "en": "Takyr kilem",
+            "kk": "Такыр кілем"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тукті кілем",
+            "en": "Tukti kilem",
+            "kk": "Тукті кілем"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Текемет",
+            "en": "Tekemet",
+            "kk": "Текемет"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Алаша ши",
+            "en": "Alasha shi",
+            "kk": "Алаша ши"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сырмак",
+            "en": "Syrmak",
+            "kk": "Сырмак"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 14",
+          "units": [
+            "p14"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 279,
+      "topic_id": 12,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия видов ковров их особенностям:",
+        "en": "Correct pairings of types of carpets with their features:",
+        "kk": "Кілем түрлері мен олардың ерекшеліктерінің дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сырмак: исключительно тканый шёлковый ковёр",
+            "en": "Syrmak: exclusively a woven silk carpet",
+            "kk": "Сырмак: тек тоқылған жібек кілем"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Такыр кілем: безворсовый ковёр",
+            "en": "Takyr kilem: a pileless carpet",
+            "kk": "Такыр кілем: түксіз кілем"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Тукті кілем: ворсовый ковёр",
+            "en": "Tukti kilem: a pile carpet",
+            "kk": "Тукті кілем: түкті кілем"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Текемет: деревянная резная подставка",
+            "en": "Tekemet: a carved wooden stand",
+            "kk": "Текемет: ағаштан ою-өрнекпен жасалған тірек"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Тус киіз: перемётная сумка с двумя карманами",
+            "en": "Tus kiiz: a saddlebag with two pockets",
+            "kk": "Тус киіз: екі қалтасы бар қоржын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 14",
+          "units": [
+            "p14"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 280,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ковровая перемётная сумка с двумя равными карманами называется...",
+        "en": "A woven saddlebag with two equal pockets is called...",
+        "kk": "Екі тең қалтасы бар кілемнен жасалған қоржын қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Қоржын",
+            "en": "Korzhyn",
+            "kk": "Қоржын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сандық",
+            "en": "Sandyk",
+            "kk": "Сандық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кебеже",
+            "en": "Kebezhe",
+            "kk": "Кебеже"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Шабадан",
+            "en": "Shabadan",
+            "kk": "Шабадан"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Аяқ қап",
+            "en": "Ayak kap",
+            "kk": "Аяқ қап"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 281,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Деревянный предмет, предназначавшийся для хранения продуктов, — это...",
+        "en": "The wooden object intended for storing food is...",
+        "kk": "Азық-түлікті сақтауға арналған ағаш бұйым — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кебеже",
+            "en": "Kebezhe",
+            "kk": "Кебеже"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Жүк аяқ",
+            "en": "Zhuk ayak",
+            "kk": "Жүк аяқ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Бақан",
+            "en": "Bakan",
+            "kk": "Бақан"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Адалбақан",
+            "en": "Adalbakan",
+            "kk": "Адалбақан"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сықырлауық",
+            "en": "Sykyrlauyk",
+            "kk": "Сықырлауық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 282,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Длинный плащ из верблюжьей шерсти называется...",
+        "en": "A long cloak made of camel wool is called...",
+        "kk": "Түйе жүнінен жасалған ұзын сырт киім қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Шекпен",
+            "en": "Shekpen",
+            "kk": "Шекпен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Камзол",
+            "en": "Kamzol",
+            "kk": "Камзол"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Каттау",
+            "en": "Kattau",
+            "kk": "Каттау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Кебенек",
+            "en": "Kebenek",
+            "kk": "Кебенек"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Шапан",
+            "en": "Shapan",
+            "kk": "Шапан"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 18",
+          "units": [
+            "p18"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 283,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Зимняя шапка-треух называется...",
+        "en": "A winter earflap hat is called...",
+        "kk": "Қысқы құлақшын бас киімнің атауы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кимешек",
+            "en": "Kimeshek",
+            "kk": "Кимешек"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тымақ",
+            "en": "Tymak",
+            "kk": "Тымақ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сәукеле",
+            "en": "Saukele",
+            "kk": "Сәукеле"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Бөрік",
+            "en": "Borik",
+            "kk": "Бөрік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Тақия",
+            "en": "Takiya",
+            "kk": "Тақия"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 21",
+          "units": [
+            "p21"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 284,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Головной убор, который женщина традиционно начинала носить после рождения первого ребёнка, — это...",
+        "en": "The headdress that a woman traditionally began to wear after the birth of her first child is...",
+        "kk": "Әйел тұңғыш баласын туғаннан кейін дәстүр бойынша кие бастаған бас киім — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Алтын бөрік",
+            "en": "Altyn borik",
+            "kk": "Алтын бөрік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Камшат бөрік",
+            "en": "Kamshat borik",
+            "kk": "Камшат бөрік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кимешек",
+            "en": "Kimeshek",
+            "kk": "Кимешек"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сәукеле",
+            "en": "Saukele",
+            "kk": "Сәукеле"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Айыр қалпақ",
+            "en": "Aiyr kalpak",
+            "kk": "Айыр қалпақ"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 23",
+          "units": [
+            "p23"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 285,
+      "topic_id": 12,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К накосным украшениям относятся:",
+        "en": "Braid ornaments include:",
+        "kk": "Бұрымға тағылатын әшекейлерге мыналар жатады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Шолпы",
+            "en": "Sholpy",
+            "kk": "Шолпы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Білезік",
+            "en": "Bilezik",
+            "kk": "Білезік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Түйреуіш",
+            "en": "Tuireuish",
+            "kk": "Түйреуіш"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Шашбау",
+            "en": "Shashbau",
+            "kk": "Шашбау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ілгек",
+            "en": "Ilgek",
+            "kk": "Ілгек"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 28",
+          "units": [
+            "p28"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 286,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Обычай вознаграждения человека, принёсшего добрую весть, называется...",
+        "en": "The custom of rewarding a person who has brought good news is called...",
+        "kk": "Қуанышты хабар әкелген адамды сыйлау әдеті қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Асар",
+            "en": "Asar",
+            "kk": "Асар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Қонақкәде",
+            "en": "Konakkade",
+            "kk": "Қонақкәде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Жылу",
+            "en": "Zhylu",
+            "kk": "Жылу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ерулік",
+            "en": "Yeruli",
+            "kk": "Ерулік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сүйінші",
+            "en": "Suyinshi",
+            "kk": "Сүйінші"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 86",
+          "units": [
+            "p86"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 287,
+      "topic_id": 12,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Назовите предметы, входящие в состав подарка «бес жақсы».",
+        "en": "Name the items that make up the \"bes zhaksy\" gift.",
+        "kk": "«Бес жақсы» сыйының құрамына кіретін заттарды атаңыз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Серебряная чаша",
+            "en": "A silver bowl",
+            "kk": "Күміс тостаған"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Алмазная сабля",
+            "en": "A diamond sabre",
+            "kk": "Алмас қылыш"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Соболья шуба",
+            "en": "A sable fur coat",
+            "kk": "Бұлғын ішік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Быстроногий скакун",
+            "en": "A swift steed",
+            "kk": "Жүйрік тұлпар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Расписная люлька",
+            "en": "A painted cradle",
+            "kk": "Өрнектелген бесік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 88",
+          "units": [
+            "p88"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 288,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Обычай совместной помощи родственников и соседей при срочной тяжёлой работе называется...",
+        "en": "The custom of joint help by relatives and neighbours with urgent, heavy work is called...",
+        "kk": "Шұғыл ауыр жұмыста туыстар мен көршілердің бірлесіп көмектесу әдетінің атауы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Асар",
+            "en": "Asar",
+            "kk": "Асар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ерулік",
+            "en": "Yeruli",
+            "kk": "Ерулік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Қонақасы",
+            "en": "Konakasy",
+            "kk": "Қонақасы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Жылу",
+            "en": "Zhylu",
+            "kk": "Жылу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Белкөтерер",
+            "en": "Belkoterer",
+            "kk": "Белкөтерер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 91",
+          "units": [
+            "p91"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 289,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Помощь пострадавшим от пожара или наводнения предусматривает обычай...",
+        "en": "Help for people affected by a fire or a flood is provided for by the custom of...",
+        "kk": "Өрттен немесе су тасқынынан зардап шеккендерге көмек көрсетуді көздейтін әдет..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Асар",
+            "en": "Asar",
+            "kk": "Асар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Бесік той",
+            "en": "Besik toy",
+            "kk": "Бесік той"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Жылу",
+            "en": "Zhylu",
+            "kk": "Жылу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сүйінші",
+            "en": "Suyinshi",
+            "kk": "Сүйінші"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Қонақкәде",
+            "en": "Konakkade",
+            "kk": "Қонақкәде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 92",
+          "units": [
+            "p92"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 290,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Приготовление мягких питательных угощений для пожилых людей связано с традицией...",
+        "en": "The preparation of soft, nourishing treats for elderly people is connected with the tradition of...",
+        "kk": "Егде жастағы адамдарға жұмсақ, қоректі тағамдар дайындау қандай дәстүрмен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Белкөтерер",
+            "en": "Belkoterer",
+            "kk": "Белкөтерер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Той дастархан",
+            "en": "Toy dastarkhan",
+            "kk": "Той дастархан"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Құйрық бауыр",
+            "en": "Kuyryk-bauyr",
+            "kk": "Құйрық бауыр"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Қонақасы",
+            "en": "Konakasy",
+            "kk": "Қонақасы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Қыз ұзату",
+            "en": "Kyz uzatu",
+            "kk": "Қыз ұзату"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 93",
+          "units": [
+            "p93"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 291,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Обычай просить гостя исполнить песню или сыграть на инструменте называется...",
+        "en": "The custom of asking a guest to sing a song or play an instrument is called...",
+        "kk": "Қонақтан ән айтуды немесе аспапта ойнауды сұрау әдетінің атауы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Қонақасы",
+            "en": "Konakasy",
+            "kk": "Қонақасы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Шеге шапан",
+            "en": "Shege shapan",
+            "kk": "Шеге шапан"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сүйінші",
+            "en": "Suyinshi",
+            "kk": "Сүйінші"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ерулік",
+            "en": "Yeruli",
+            "kk": "Ерулік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Қонақкәде",
+            "en": "Konakkade",
+            "kk": "Қонақкәде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 96",
+          "units": [
+            "p96"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 292,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Праздник в честь новосёлов с помощью в их бытовом обустройстве называется...",
+        "en": "A celebration in honour of newly settled people, with help in setting up their household, is called...",
+        "kk": "Жаңа қоныстанғандардың құрметіне, олардың тұрмыстық жайғасуына көмектесе отырып, жасалатын мереке қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Асар",
+            "en": "Asar",
+            "kk": "Асар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ерулік",
+            "en": "Yeruli",
+            "kk": "Ерулік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Шілдехана",
+            "en": "Shildekhana",
+            "kk": "Шілдехана"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Құдалық",
+            "en": "Kudalyk",
+            "kk": "Құдалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Тұсау кесу",
+            "en": "Tusau kesu",
+            "kk": "Тұсау кесу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 97",
+          "units": [
+            "p97"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 293,
+      "topic_id": 12,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие пары обряда и события верны?",
+        "en": "Which pairs of ritual and event are correct?",
+        "kk": "Ғұрып пен оқиғаның қай жұптары дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Есім қою: имянаречение",
+            "en": "Esim koyu: the naming of a child",
+            "kk": "Есім қою: есім беру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Бесікке салу: сороковой день после рождения",
+            "en": "Besikke salu: the fortieth day after birth",
+            "kk": "Бесікке салу: босанғаннан кейінгі қырқыншы күн"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Қырқынан шығару: первые шаги",
+            "en": "Kyrkynan shygaru: the first steps",
+            "kk": "Қырқынан шығару: алғашқы қадамдар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тұсау кесу: укладывание в люльку",
+            "en": "Tusau kesu: placing the child in the cradle",
+            "kk": "Тұсау кесу: бесікке бөлеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Шілдехана: рождение ребёнка",
+            "en": "Shildekhana: the birth of a child",
+            "kk": "Шілдехана: баланың туылуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзацы 100–104",
+          "units": [
+            "p100",
+            "p101",
+            "p102",
+            "p103",
+            "p104"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 294,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Купание в сорока ложках воды и первая стрижка волос и ногтей входят в обряд...",
+        "en": "Bathing in forty spoonfuls of water and the first cutting of the hair and nails are part of the rite of...",
+        "kk": "Қырық қасық суға шомылдыру және шаш пен тырнақты алғаш алу қай ғұрыптың құрамына кіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Тұсау кесу",
+            "en": "Tusau kesu",
+            "kk": "Тұсау кесу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Қырқынан шығару",
+            "en": "Kyrkynan shygaru",
+            "kk": "Қырқынан шығару"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Есім қою",
+            "en": "Esim koyu",
+            "kk": "Есім қою"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сүндетке отырғызу",
+            "en": "Sundetke otyrgyzu",
+            "kk": "Сүндетке отырғызу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Бесікке салу",
+            "en": "Besikke salu",
+            "kk": "Бесікке салу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 103",
+          "units": [
+            "p103"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 295,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вручение главным сватам халата отцом невесты после успешных переговоров называется...",
+        "en": "The presentation of a robe by the bride's father to the chief matchmakers after successful negotiations is called...",
+        "kk": "Келіссөздер сәтті аяқталғаннан кейін қалыңдықтың әкесінің басты құдаларға шапан тапсыруы қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Шеге шапан",
+            "en": "Shege shapan",
+            "kk": "Шеге шапан"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Қыз ұзату",
+            "en": "Kyz uzatu",
+            "kk": "Қыз ұзату"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Қонақкәде",
+            "en": "Konakkade",
+            "kk": "Қонақкәде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ат мінгізіп шапан жабу",
+            "en": "At mingizip shapan zhabu",
+            "kk": "Ат мінгізіп шапан жабу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Келін түсіру",
+            "en": "Kelin tusiru",
+            "kk": "Келін түсіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 109",
+          "units": [
+            "p109"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 296,
+      "topic_id": 12,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия войлочных покрытий частям юрты:",
+        "en": "Correct pairings of felt coverings with parts of the yurt:",
+        "kk": "Киіз жабындар мен киіз үй бөліктерінің дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Үзік: войлочная дверь",
+            "en": "Uzik: the felt door",
+            "kk": "Үзік: киіз есік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Үзік: покрытие купольных жердей",
+            "en": "Uzik: the covering of the dome poles",
+            "kk": "Үзік: күмбез уықтарының жабыны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Түңлік: покрытие нижней половины кереге",
+            "en": "Tunlik: the covering of the lower half of the kerege",
+            "kk": "Түңлік: кереге төменгі жартысының жабыны"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Туырлық: покрытие только верхнего круга",
+            "en": "Tuyrlyk: the covering of the upper circle only",
+            "kk": "Туырлық: тек жоғарғы шеңбердің жабыны"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Туырлық: покрытие решётчатого основания",
+            "en": "Tuyrlyk: the covering of the lattice base",
+            "kk": "Туырлық: торкөз негіздің жабыны"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 114",
+          "units": [
+            "p114"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 297,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Верхняя рама и нижняя кромка дверного проёма юрты называются...",
+        "en": "The upper frame and the lower threshold of the yurt's doorway are called...",
+        "kk": "Киіз үйдің есік қуысының жоғарғы жақтауы мен төменгі жиегінің атаулары..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Бақан и кереге",
+            "en": "Bakan and kerege",
+            "kk": "Бақан және кереге"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сықырлауық и уық",
+            "en": "Sykyrlauyk and uyk",
+            "kk": "Сықырлауық және уық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Табалдырық и маңдайша",
+            "en": "Tabaldyryk and mandaysha",
+            "kk": "Табалдырық және маңдайша"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Маңдайша и табалдырық",
+            "en": "Mandaysha and tabaldyryk",
+            "kk": "Маңдайша және табалдырық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Шаңырақ и жақтау",
+            "en": "Shanyrak and zhaktau",
+            "kk": "Шаңырақ және жақтау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 137",
+          "units": [
+            "p137"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 298,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Деталь юрты, символизирующая Мировое Древо, — это...",
+        "en": "The part of the yurt that symbolizes the World Tree is...",
+        "kk": "Әлем ағашын бейнелейтін киіз үйдің бөлшегі — ..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Бақан",
+            "en": "Bakan",
+            "kk": "Бақан"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Үзік",
+            "en": "Uzik",
+            "kk": "Үзік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Түңлік",
+            "en": "Tunlik",
+            "kk": "Түңлік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Кереге",
+            "en": "Kerege",
+            "kk": "Кереге"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Табалдырық",
+            "en": "Tabaldyryk",
+            "kk": "Табалдырық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 113",
+          "units": [
+            "p113"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 299,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "Верёвка или лента, используемая для скрепления стыков кереге, называется...",
+        "en": "The rope or band used to fasten the joints of the kerege is called...",
+        "kk": "Керегенің түйіскен жерлерін бекітуге пайдаланылатын жіп немесе таспаның атауы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Аяқ бау",
+            "en": "Ayak bau",
+            "kk": "Аяқ бау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Құр",
+            "en": "Kur",
+            "kk": "Құр"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Уық бау",
+            "en": "Uyk bau",
+            "kk": "Уық бау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Түнлік бау",
+            "en": "Tunlik bau",
+            "kk": "Түнлік бау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Жел бау",
+            "en": "Zhel bau",
+            "kk": "Жел бау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 139",
+          "units": [
+            "p139"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 300,
+      "topic_id": 12,
+      "type": "single_choice",
+      "question": {
+        "ru": "По какому признаку определяется шести-, восьми- или двенадцатиканатный размер юрты?",
+        "en": "By what feature is the six-, eight- or twelve-wing size of a yurt determined?",
+        "kk": "Киіз үйдің алты, сегіз немесе он екі қанатты өлшемі қандай белгі бойынша анықталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "По числу купольных жердей",
+            "en": "By the number of dome poles",
+            "kk": "Күмбез уықтарының санымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "По числу войлочных покрытий",
+            "en": "By the number of felt coverings",
+            "kk": "Киіз жабындардың санымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "По числу секций кереге",
+            "en": "By the number of kerege sections",
+            "kk": "Кереге бөліктерінің санымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "По числу узорных лент шанырака",
+            "en": "By the number of patterned bands of the shanyrak",
+            "kk": "Шаңырақтың өрнекті таспаларының санымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "По числу дверных опор",
+            "en": "By the number of door supports",
+            "kk": "Есік тіректерінің санымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12. Традиционная казахаская культура.docx",
+          "location": "абзац 141",
+          "units": [
+            "p141"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    }
+  ]
+}

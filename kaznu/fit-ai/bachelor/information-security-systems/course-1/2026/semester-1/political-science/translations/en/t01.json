@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 1,
+  "topic_name": "Political Science as a Science and an Academic Discipline",
+  "questions": {
+    "1": {
+      "question": "The object of political science is...",
+      "options": {
+        "A": "The system of social production",
+        "B": "The sphere of political relations",
+        "C": "The sphere of normative regulation",
+        "D": "The sphere of spiritual reproduction",
+        "E": "The totality of social interactions"
+      }
+    },
+    "2": {
+      "question": "Economic interests can be included in the object of political analysis thanks to...",
+      "options": {
+        "A": "Their measurability in monetary units",
+        "B": "Their connection with economic efficiency",
+        "C": "Their dependence on the division of labor",
+        "D": "Their expression in the interaction of the subjects of power",
+        "E": "Their recording in accounting"
+      }
+    },
+    "3": {
+      "question": "The use of the general laws of politics by other social sciences expresses which function of political science?",
+      "options": {
+        "A": "Regulatory",
+        "B": "Predictive",
+        "C": "Theoretical-cognitive",
+        "D": "Methodological",
+        "E": "Analytical"
+      }
+    },
+    "4": {
+      "question": "A preliminary assessment of the consequences of a political decision not yet taken belongs primarily to the ... function.",
+      "options": {
+        "A": "Methodological",
+        "B": "Regulatory",
+        "C": "Descriptive",
+        "D": "Socializing",
+        "E": "Predictive"
+      }
+    },
+    "5": {
+      "question": "Working out guidelines for the participation of citizens and organizations in political events belongs to the ... function.",
+      "options": {
+        "A": "Regulatory",
+        "B": "Methodological",
+        "C": "Predictive",
+        "D": "Historiographical",
+        "E": "Diagnostic"
+      }
+    },
+    "6": {
+      "question": "The direct result of applied political research is...",
+      "options": {
+        "A": "A general typology of political systems",
+        "B": "A substantiation of the ontological properties of politics",
+        "C": "Recommendations for a specific participant in the political process",
+        "D": "A universal model of the origin of public power",
+        "E": "A systematization of the categories of political philosophy"
+      }
+    },
+    "7": {
+      "question": "A researcher compares the mechanisms of government change in two similar countries. Which type of comparison is being used?",
+      "options": {
+        "A": "Structural-functional analysis",
+        "B": "Cross-cultural analysis",
+        "C": "Longitudinal observation",
+        "D": "Within-case description",
+        "E": "Binary analysis"
+      }
+    },
+    "8": {
+      "question": "Cross-national comparison involves comparing...",
+      "options": {
+        "A": "The individual motives of a single politician",
+        "B": "Institutions within a single state",
+        "C": "Generations of a single political elite",
+        "D": "Stages of a single election campaign",
+        "E": "States with one another"
+      }
+    },
+    "9": {
+      "question": "The analysis of a state focuses on the links of its bodies with one another and with the external environment. Which method sets such a research framework?",
+      "options": {
+        "A": "Systems",
+        "B": "Behavioralist",
+        "C": "Normative-value",
+        "D": "Historical-genetic",
+        "E": "Psychoanalytic"
+      }
+    },
+    "10": {
+      "question": "The study of the sublimation of unconscious drives as a motive for political activity is associated primarily with...",
+      "options": {
+        "A": "Rational choice theory",
+        "B": "Structural functionalism",
+        "C": "The institutional approach",
+        "D": "Geographical determinism",
+        "E": "The psychoanalytic approach"
+      }
+    },
+    "11": {
+      "question": "In the behavioralist approach, the unit of political research is...",
+      "options": {
+        "A": "The observable behavior of individuals and groups",
+        "B": "The normative ideal of state structure",
+        "C": "The legal competence of an institution",
+        "D": "The logical structure of a political doctrine",
+        "E": "The geopolitical position of a territory"
+      }
+    },
+    "12": {
+      "question": "Modeling negotiations with an assignment of roles to the participants belongs to...",
+      "options": {
+        "A": "Cross-national comparison",
+        "B": "Game-based methods",
+        "C": "Content analysis",
+        "D": "Statistical observation",
+        "E": "Expert interviews"
+      }
+    },
+    "13": {
+      "question": "The study of party platforms, parliamentary transcripts and political memoirs is...",
+      "options": {
+        "A": "A field experiment",
+        "B": "Participant observation",
+        "C": "A sociometric survey",
+        "D": "Document analysis",
+        "E": "A questionnaire survey"
+      }
+    },
+    "14": {
+      "question": "The concept of a scientific paradigm as a model for posing and solving research problems is associated with the name of...",
+      "options": {
+        "A": "Gabriel Almond",
+        "B": "David Easton",
+        "C": "Thomas Kuhn",
+        "D": "Harold Lasswell",
+        "E": "Charles Merriam"
+      }
+    },
+    "15": {
+      "question": "The multi-paradigm nature of political science means...",
+      "options": {
+        "A": "The coexistence of different conceptual approaches",
+        "B": "The identification of scientific theories with party platforms",
+        "C": "The mandatory reduction of all explanations to a single theory",
+        "D": "The replacement of theoretical models by empirical data",
+        "E": "The rejection of criteria of scientific validity"
+      }
+    },
+    "16": {
+      "question": "Types of models by their purpose:",
+      "options": {
+        "A": "Deductive",
+        "B": "Inductive",
+        "C": "Predictive",
+        "D": "Explanatory",
+        "E": "Measurement"
+      }
+    },
+    "17": {
+      "question": "Methods of concrete empirical political research:",
+      "options": {
+        "A": "Analysis of statistical materials",
+        "B": "Philosophical substantiation of the common good",
+        "C": "Public opinion surveys",
+        "D": "Construction of a normative ideal of the state",
+        "E": "Deriving politics from the natural essence of man"
+      }
+    },
+    "18": {
+      "question": "Correct statements about the methods of political research:",
+      "options": {
+        "A": "Cross-national comparison studies institutions within a single country",
+        "B": "The comparative method allows individual institutions to be compared",
+        "C": "Binary analysis requires comparing at least three states",
+        "D": "The systems method studies the links of a whole with its external environment",
+        "E": "The psychological method investigates the subjective mechanisms of behavior"
+      }
+    },
+    "19": {
+      "question": "Specify the tasks that belong directly to applied political science.",
+      "options": {
+        "A": "Deriving a general law of the change of political regimes",
+        "B": "Preparing recommendations on a specific government decision",
+        "C": "Developing an election campaign strategy",
+        "D": "Substantiating a universal typology of legitimate domination",
+        "E": "A conceptual reconstruction of the nature of state sovereignty"
+      }
+    },
+    "20": {
+      "question": "A study combines a comparison of countries, a survey of voters and an analysis of party platforms. Which conclusion is methodologically sound?",
+      "options": {
+        "A": "The survey makes conclusions about causality independent of theoretical premises",
+        "B": "The analysis of platforms establishes voters' motives without reference to their behavior",
+        "C": "Combining methods replaces checking the comparability of the original data",
+        "D": "Comparing countries allows the identified relationships to be transferred without regard to context",
+        "E": "Different methods are combined within a single study"
+      }
+    }
+  }
+}

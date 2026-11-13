@@ -1,0 +1,9 @@
+{
+  "kind": "specialty",
+  "title": {
+    "ru": "Системы информационной безопасности",
+    "kk": "Ақпараттық қауіпсіздік жүйелері",
+    "en": "Information Security Systems"
+  },
+  "order": 10
+}

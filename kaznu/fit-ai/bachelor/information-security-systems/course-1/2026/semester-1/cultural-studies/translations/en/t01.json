@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 1,
+  "topic_name": "The Concept, Essence and Functions of Culture",
+  "questions": {
+    "1": {
+      "question": "The original meaning of the Latin cultura that explains the shift from the tilling of land to the cultivation of the human being is...",
+      "options": {
+        "A": "Cultivation and improvement",
+        "B": "Preservation and remembering",
+        "C": "Imitation and depiction",
+        "D": "Arrangement and ordering",
+        "E": "Dwelling and settling of space"
+      }
+    },
+    "2": {
+      "question": "The transfer of the notion of cultivation to the \"culture of the soul\" is associated with the name of...",
+      "options": {
+        "A": "Quintilian",
+        "B": "Epictetus",
+        "C": "Seneca",
+        "D": "Cicero",
+        "E": "Lucretius"
+      }
+    },
+    "3": {
+      "question": "The ancient Greek concept of \"paideia\" is closest to culture primarily in the sense of...",
+      "options": {
+        "A": "Education and learnedness",
+        "B": "Artistic imitation",
+        "C": "Economic calculation",
+        "D": "Ritual purification",
+        "E": "Civil legislation"
+      }
+    },
+    "4": {
+      "question": "The statement that conveys J.-J. Rousseau's assessment of culture:",
+      "options": {
+        "A": "The development of culture is derived from the stylistic unity of an era",
+        "B": "The development of culture necessarily improves morals",
+        "C": "The development of culture is an alternation of closed organisms",
+        "D": "The development of culture may destroy natural human bonds",
+        "E": "The development of culture is determined by the amount of energy harnessed"
+      }
+    },
+    "5": {
+      "question": "The thinker with whom the use of \"culture\" as an independent concept is associated is...",
+      "options": {
+        "A": "W. von Humboldt",
+        "B": "J. G. Fichte",
+        "C": "S. Pufendorf",
+        "D": "J. G. Herder",
+        "E": "W. Ostwald"
+      }
+    },
+    "6": {
+      "question": "The correct pairing of a thinker and his position on culture and civilization:",
+      "options": {
+        "A": "Tylor draws a boundary between them; Humboldt equates the concepts",
+        "B": "Spengler draws a boundary between them; Kant equates the concepts",
+        "C": "Herder draws a boundary between them; Tylor opposes the concepts",
+        "D": "Kant draws a boundary between them; Spengler opposes the concepts",
+        "E": "Fichte draws a boundary between them; Pufendorf opposes the concepts"
+      }
+    },
+    "7": {
+      "question": "The image of culture as a critical mirror in which a person recognizes himself belongs to...",
+      "options": {
+        "A": "G. Marcel",
+        "B": "J.-P. Sartre",
+        "C": "A. Camus",
+        "D": "M. Heidegger",
+        "E": "K. Jaspers"
+      }
+    },
+    "8": {
+      "question": "The interpretation of culture as \"the veneration of light\" is presented as an interpretation by...",
+      "options": {
+        "A": "V. Solovyov",
+        "B": "P. Florensky",
+        "C": "N. Berdyaev",
+        "D": "S. Bulgakov",
+        "E": "N. Roerich"
+      }
+    },
+    "9": {
+      "question": "What makes it possible to reconcile the natural prerequisites of culture with its supernatural character?",
+      "options": {
+        "A": "Social organization reproduces the structure of a biological organism",
+        "B": "The division of labour in itself abolishes human dependence on nature",
+        "C": "A natural creator goes beyond instinct in his activity",
+        "D": "Cultural norms represent inherited forms of species behaviour",
+        "E": "The transformation of the environment changes tools while preserving natural motivation"
+      }
+    },
+    "10": {
+      "question": "Why can the ashes and broken branches left behind by an expedition be regarded as cultural phenomena?",
+      "options": {
+        "A": "They possess shared symbolism fixed by the expedition's ritual",
+        "B": "They record human intervention in the natural environment",
+        "C": "They are a documentary message with an established code",
+        "D": "They constitute a deliberately created artistic statement",
+        "E": "They embody value models specially selected by society"
+      }
+    },
+    "11": {
+      "question": "How are education, upbringing and culture related?",
+      "options": {
+        "A": "Education replaces cultural continuity with individual experience",
+        "B": "Mastery of culture precedes any interaction with society",
+        "C": "Education produces culture, while upbringing reproduces biological properties",
+        "D": "Upbringing transmits culture, while education operates outside it",
+        "E": "Education and upbringing ensure the mastery of previously created culture"
+      }
+    },
+    "12": {
+      "question": "The main function of culture, from which all the others are derived, is called the...",
+      "options": {
+        "A": "Regulative function",
+        "B": "Informational function",
+        "C": "Axiological function",
+        "D": "Semiotic function",
+        "E": "Humanistic (human-shaping) function"
+      }
+    },
+    "13": {
+      "question": "Which name is identified with the function of historical continuity?",
+      "options": {
+        "A": "Evaluative",
+        "B": "Informational",
+        "C": "Normative",
+        "D": "Cognitive",
+        "E": "Semiotic"
+      }
+    },
+    "14": {
+      "question": "Cultural memory differs from a passive store of information...",
+      "options": {
+        "A": "By the complete reproduction of the original form of any custom",
+        "B": "By the predominant recording of events in official documents",
+        "C": "By the obligatory replacement of oral inheritance with written archives",
+        "D": "By the selection and active transmission of significant models",
+        "E": "By the preservation of all information with equal social priority"
+      }
+    },
+    "15": {
+      "question": "The accumulation of the experience of many generations creates the conditions for knowing the world. Which function of culture is revealed in this statement?",
+      "options": {
+        "A": "Regulative",
+        "B": "Evaluative",
+        "C": "Cognitive",
+        "D": "Humanistic (human-shaping)",
+        "E": "Informational"
+      }
+    },
+    "16": {
+      "question": "Name the normative systems on which the regulative function of culture primarily relies.",
+      "options": {
+        "A": "The scientific paradigm",
+        "B": "The aesthetic canon",
+        "C": "The mythological plot",
+        "D": "Morality",
+        "E": "Law"
+      }
+    },
+    "17": {
+      "question": "The condition for mastering art and science that the semiotic function of culture emphasizes is...",
+      "options": {
+        "A": "Accumulation of knowledge about the historical environment of a work",
+        "B": "Command of specific sign systems",
+        "C": "Reconciling personal experience with the social ideal",
+        "D": "Acceptance of a shared hierarchy of artistic values",
+        "E": "Recognition of the normative authority of a cultural institution"
+      }
+    },
+    "18": {
+      "question": "The formation of a person's value needs and orientations expresses the ... function.",
+      "options": {
+        "A": "Cognitive",
+        "B": "Axiological",
+        "C": "Semiotic",
+        "D": "Informational",
+        "E": "Communicative"
+      }
+    },
+    "19": {
+      "question": "The object of assessment that corresponds to the evaluative function is...",
+      "options": {
+        "A": "The conformity of personal preferences to a hierarchy of recognized values",
+        "B": "The reliability of a report on events of the cultural past",
+        "C": "The influence of cultural forms on a person's social and spiritual qualities",
+        "D": "The consistency of a person's behaviour with prevailing norms",
+        "E": "The effectiveness of the transmission of social experience between generations"
+      }
+    },
+    "20": {
+      "question": "The general regularities of cultural development include...",
+      "options": {
+        "A": "The dependence of a cultural event on preceding events",
+        "B": "The possible mismatch between the rhythms of economic and cultural life",
+        "C": "A single sequence of strategic factors among all peoples",
+        "D": "The same speed of transformation of material and spiritual forms",
+        "E": "A direct correspondence between technical growth and moral improvement"
+      }
+    },
+    "21": {
+      "question": "The \"strategic variable\" in the development of culture means...",
+      "options": {
+        "A": "A sum of random changes devoid of cultural consequences",
+        "B": "An individual preference unconnected with the life of society",
+        "C": "A factor that acquires special significance under given historical conditions",
+        "D": "A single cause acting equally among all peoples",
+        "E": "An unchanging set of values of all cultural-historical types"
+      }
+    },
+    "22": {
+      "question": "The most stable side of culture includes:",
+      "options": {
+        "A": "Artistic manifestos of new schools",
+        "B": "Programmatic projects for social reconstruction",
+        "C": "Rites and customs",
+        "D": "Habitual values and norms",
+        "E": "Experimental technical methods"
+      }
+    },
+    "23": {
+      "question": "Which pairing of a cultural bearer and a line of development is incorrect?",
+      "options": {
+        "A": "Scientific creativity: the innovative line of culture",
+        "B": "The peasantry: preservation of stable traditional models",
+        "C": "The popular mentality: resistance to external influences",
+        "D": "The peasantry: the leading bearer of scientific and technological innovation",
+        "E": "The city: a centre of scientific and technological innovation"
+      }
+    },
+    "24": {
+      "question": "The ideal of the human being that corresponds to the Renaissance is...",
+      "options": {
+        "A": "A fully developed personality with freedom to choose a path in life",
+        "B": "A performer of an inherited function within an unchanging order",
+        "C": "A person who has achieved success through personal merit",
+        "D": "A religious ascetic who rejects sensual pleasures",
+        "E": "A citizen of physical perfection and joyful knowledge of the world"
+      }
+    },
+    "25": {
+      "question": "Indicate the correct pairings of a cultural-studies discipline and its task.",
+      "options": {
+        "A": "History of culture: description of concrete historical development",
+        "B": "Theory of culture: exclusively the dating of archaeological finds",
+        "C": "Philosophy of culture: exclusively statistics of cultural consumption",
+        "D": "History of culture: establishing universal biological laws",
+        "E": "Philosophy of culture: choosing general cognitive orientations"
+      }
+    }
+  }
+}

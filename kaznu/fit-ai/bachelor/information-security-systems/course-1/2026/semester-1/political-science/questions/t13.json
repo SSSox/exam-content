@@ -1,0 +1,1049 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 276,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Политическая модернизация в общей модели перехода означает движение...",
+        "en": "In the general model of transition, political modernization means movement...",
+        "kk": "Жалпы өтпелі модельде саяси жаңғырту қайда қарай қозғалысты білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 681",
+          "units": [
+            "p681"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "От любого государства к безгосударственному обществу",
+            "en": "From any state to a stateless society",
+            "kk": "Кез келген мемлекеттен мемлекетсіз қоғамға қарай"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "От территориального устройства к исключительно родовому",
+            "en": "From a territorial organization to an exclusively kinship-based one",
+            "kk": "Аумақтық құрылыстан тек рулық құрылысқа қарай"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "От традиционных структур к более рационально организованным",
+            "en": "From traditional structures to more rationally organized ones",
+            "kk": "Дәстүрлі құрылымдардан неғұрлым ұтымды ұйымдастырылған құрылымдарға қарай"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "От представительства к обязательной наследственности",
+            "en": "From representation to mandatory heredity",
+            "kk": "Өкілдіктен міндетті мұрагерлікке қарай"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "От профессионального управления к отказу от институтов",
+            "en": "From professional administration to a rejection of institutions",
+            "kk": "Кәсіби басқарудан институттардан бас тартуға қарай"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 277,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Модернизация, развивающаяся постепенно за счёт внутренних процессов, называется...",
+        "en": "Modernization that develops gradually through internal processes is called...",
+        "kk": "Ішкі үдерістер есебінен біртіндеп дамитын жаңғырту қалай аталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 683",
+          "units": [
+            "p683"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Реверсивной, или восстановительной",
+            "en": "Reversive, or restorative",
+            "kk": "Реверсивті немесе қалпына келтіруші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мобилизационной, или внешней",
+            "en": "Mobilizational, or external",
+            "kk": "Жұмылдырушы немесе сыртқы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вторичной, или отражённой",
+            "en": "Secondary, or reflected",
+            "kk": "Қайталама немесе шағылысқан"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Колониальной, или административной",
+            "en": "Colonial, or administrative",
+            "kk": "Отарлық немесе әкімшілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Оригинальной, или спонтанной",
+            "en": "Original, or spontaneous",
+            "kk": "Бастапқы немесе стихиялы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 278,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Главный признак вторичной модернизации состоит в...",
+        "en": "The main feature of secondary modernization is...",
+        "kk": "Қайталама жаңғыртудың басты белгісі неде?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 684",
+          "units": [
+            "p684"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Догоняющем развитии с использованием внешнего опыта",
+            "en": "Catch-up development drawing on external experience",
+            "kk": "Сыртқы тәжірибені пайдаланумен қуып жету дамуында"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отказе от политического участия населения",
+            "en": "A rejection of political participation by the population",
+            "kk": "Халықтың саяси қатысуынан бас тартуда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательном совпадении реформ с революцией",
+            "en": "A mandatory coincidence of reforms with revolution",
+            "kk": "Реформалардың революциямен міндетті түрде сәйкес келуінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительном воспроизводстве традиционных порядков",
+            "en": "The exclusive reproduction of traditional orders",
+            "kk": "Дәстүрлі тәртіптерді тек қайта жаңғыртуда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствии контакта с более развитыми обществами",
+            "en": "The absence of contact with more developed societies",
+            "kk": "Неғұрлым дамыған қоғамдармен байланыстың болмауында"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 279,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Институционализация означает приобретение организациями и процедурами...",
+        "en": "Institutionalization means that organizations and procedures acquire...",
+        "kk": "Институционализация ұйымдар мен рәсімдердің нені иеленуін білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 685",
+          "units": [
+            "p685"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Полного отсутствия внутренних правил",
+            "en": "A complete absence of internal rules",
+            "kk": "Ішкі ережелердің толық болмауын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Неподконтрольности любым общественным нормам",
+            "en": "Immunity from any public norms",
+            "kk": "Кез келген қоғамдық нормаларға бағынбауды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Устойчивости и способности изменяться без разрушения",
+            "en": "Stability and the capacity to change without being destroyed",
+            "kk": "Тұрақтылықты және бұзылмай өзгеру қабілетін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Неизменности персонального состава руководства",
+            "en": "An unchanging personal composition of the leadership",
+            "kk": "Басшылық құрамының өзгермейтіндігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Способности заменять любые права личной лояльностью",
+            "en": "The ability to replace any rights with personal loyalty",
+            "kk": "Кез келген құқықты жеке адалдықпен алмастыру қабілетін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 280,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Процессы, входящие в политическую модернизацию:",
+        "en": "Processes that are part of political modernization:",
+        "kk": "Саяси жаңғыртуға кіретін үдерістер:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 686",
+          "units": [
+            "p686"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дифференциация и упорядочение властных функций",
+            "en": "Differentiation and ordering of the functions of power",
+            "kk": "Билік функцияларының саралануы мен жүйеленуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обоснование легитимности преимущественно неизменностью сакрального порядка",
+            "en": "Grounding legitimacy mainly in the immutability of a sacred order",
+            "kk": "Легитимділікті негізінен қасиетті тәртіптің өзгермейтіндігімен негіздеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Повышение способности к структурным изменениям",
+            "en": "An increased capacity for structural change",
+            "kk": "Құрылымдық өзгерістерге қабілетті арттыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сохранение прежних политических ролей при формальном обновлении учреждений",
+            "en": "Retaining the former political roles while institutions are formally renewed",
+            "kk": "Мекемелерді ресми жаңартқанда бұрынғы саяси рөлдерді сақтау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Расширение политического участия",
+            "en": "Expansion of political participation",
+            "kk": "Саяси қатысуды кеңейту"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 281,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "После распада прежних идеалов граждане не могут определить принадлежность к политическому сообществу. Это кризис...",
+        "en": "After the earlier ideals have collapsed, citizens cannot determine their belonging to the political community. This is a crisis of...",
+        "kk": "Бұрынғы мұраттар ыдыраған соң азаматтар саяси қауымдастыққа тиесілілігін анықтай алмайды. Бұл қандай дағдарыс?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2370-2375",
+          "units": [
+            "p2370",
+            "p2371",
+            "p2372",
+            "p2373",
+            "p2374",
+            "p2375"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Идентичности",
+            "en": "Identity",
+            "kk": "Сәйкестілік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Преемственности должностей",
+            "en": "Continuity of offices",
+            "kk": "Лауазымдар сабақтастығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Проникновения",
+            "en": "Penetration",
+            "kk": "Ену"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Участия",
+            "en": "Participation",
+            "kk": "Қатысу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Распределения",
+            "en": "Distribution",
+            "kk": "Бөлу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 282,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Число желающих влиять на решения растёт, а каналы представительства остаются закрытыми. Это кризис...",
+        "en": "The number of people wishing to influence decisions is growing, while the channels of representation remain closed. This is a crisis of...",
+        "kk": "Шешімдерге ықпал еткісі келетіндер саны өсуде, ал өкілдік арналары жабық күйінде қалып отыр. Бұл қандай дағдарыс?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2382-2384",
+          "units": [
+            "p2382",
+            "p2383",
+            "p2384"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Идентичности",
+            "en": "Identity",
+            "kk": "Сәйкестілік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Распределения",
+            "en": "Distribution",
+            "kk": "Бөлу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Внешнеполитического баланса",
+            "en": "Foreign policy balance",
+            "kk": "Сыртқы саяси тепе-теңдік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Проникновения",
+            "en": "Penetration",
+            "kk": "Ену"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Участия",
+            "en": "Participation",
+            "kk": "Қатысу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 283,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Центральная власть принимает решения, но они систематически не исполняются на местах. Это проявление кризиса...",
+        "en": "The central authority makes decisions, but they are systematically not carried out locally. This is a manifestation of the crisis of...",
+        "kk": "Орталық билік шешім қабылдайды, бірақ олар жергілікті жерлерде жүйелі түрде орындалмайды. Бұл қандай дағдарыстың көрінісі?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2387-2388",
+          "units": [
+            "p2387",
+            "p2388"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Распределения",
+            "en": "Distribution",
+            "kk": "Бөлу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Проникновения",
+            "en": "Penetration",
+            "kk": "Ену"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Идеологического представительства",
+            "en": "Ideological representation",
+            "kk": "Идеологиялық өкілдік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Идентичности",
+            "en": "Identity",
+            "kk": "Сәйкестілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Участия",
+            "en": "Participation",
+            "kk": "Қатысу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 284,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ценности правящего режима расходятся с представлениями большинства о справедливом правлении. Это кризис...",
+        "en": "The values of the ruling regime diverge from the majority's ideas of just government. This is a crisis of...",
+        "kk": "Билеуші режимнің құндылықтары көпшіліктің әділ басқару туралы түсінігімен сәйкес келмейді. Бұл қандай дағдарыс?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2391",
+          "units": [
+            "p2391"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Рекрутирования",
+            "en": "Recruitment",
+            "kk": "Рекрутинг"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Легитимности",
+            "en": "Legitimacy",
+            "kk": "Легитимділік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Проникновения",
+            "en": "Penetration",
+            "kk": "Ену"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Участия",
+            "en": "Participation",
+            "kk": "Қатысу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Территориальной дифференциации",
+            "en": "Territorial differentiation",
+            "kk": "Аумақтық саралану"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 285,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Напряжение вокруг доступа к благам и издержек реформ относится прежде всего к кризису...",
+        "en": "Tension over access to benefits and over the costs of reform belongs primarily to the crisis of...",
+        "kk": "Игіліктерге қолжетімділік пен реформалардың шығындары төңірегіндегі шиеленіс ең алдымен қандай дағдарысқа жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2377-2380",
+          "units": [
+            "p2377",
+            "p2378",
+            "p2379",
+            "p2380"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Распределения",
+            "en": "Distribution",
+            "kk": "Бөлу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Проникновения",
+            "en": "Penetration",
+            "kk": "Ену"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Политического рекрутирования",
+            "en": "Political recruitment",
+            "kk": "Саяси рекрутинг"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Идентичности",
+            "en": "Identity",
+            "kk": "Сәйкестілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Информационного отбора",
+            "en": "Information selection",
+            "kk": "Ақпараттық іріктеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 286,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Главное противоречие модернизации связано с...",
+        "en": "The main contradiction of modernization is connected with...",
+        "kk": "Жаңғыртудың басты қайшылығы неге байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2358-2360",
+          "units": [
+            "p2358",
+            "p2359",
+            "p2360"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отсутствием различий между традиционным и современным обществом",
+            "en": "The absence of differences between traditional and modern society",
+            "kk": "Дәстүрлі және қазіргі қоғам арасында айырмашылықтың болмауына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Невозможностью сочетать политическое участие и институты",
+            "en": "The impossibility of combining political participation and institutions",
+            "kk": "Саяси қатысу мен институттарды ұштастырудың мүмкін еместігіне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательным совпадением любых реформ с культурными традициями",
+            "en": "The mandatory coincidence of any reforms with cultural traditions",
+            "kk": "Кез келген реформаның мәдени дәстүрлермен міндетті түрде сәйкес келуіне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Универсальными целями преобразований и национально-традиционными условиями",
+            "en": "Universal goals of transformation versus national-traditional conditions",
+            "kk": "Қайта құрулардың әмбебап мақсаттары мен ұлттық-дәстүрлі жағдайлардың арасындағы алшақтыққа"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Неизменностью социальных ролей при любых преобразованиях",
+            "en": "The immutability of social roles under any transformation",
+            "kk": "Кез келген қайта құруларда әлеуметтік рөлдердің өзгермейтіндігіне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 287,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите меры, способные смягчить кризис участия.",
+        "en": "Indicate the measures that can alleviate the crisis of participation.",
+        "kk": "Қатысу дағдарысын жұмсарта алатын шараларды көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2383-2385",
+          "units": [
+            "p2383",
+            "p2384",
+            "p2385"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сдерживание новых ассоциаций как основное средство институционального обновления",
+            "en": "Restraining new associations as the main means of institutional renewal",
+            "kk": "Жаңа ассоциацияларды ұстап тұру институционалдық жаңарудың негізгі құралы ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Преимущественное использование назначения вместо равного доступа к участию",
+            "en": "Preferring appointment to equal access to participation",
+            "kk": "Қатысуға тең қолжетімділіктің орнына негізінен тағайындауды пайдалану"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Соблюдение равенства политического участия",
+            "en": "Observing equality of political participation",
+            "kk": "Саяси қатысу теңдігін сақтау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Развитие представительства новых интересов",
+            "en": "Developing the representation of new interests",
+            "kk": "Жаңа мүдделердің өкілдігін дамыту"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Закрепление прежних каналов представительства независимо от изменения групповых запросов",
+            "en": "Entrenching the former channels of representation regardless of changes in group demands",
+            "kk": "Топтық сұраныстардың өзгеруіне қарамастан бұрынғы өкілдік арналарын бекіту"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 288,
+      "topic_id": 13,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Требования быстро растут, представительство слабо, исполнение решений ухудшается. Какие кризисы непосредственно сочетаются?",
+        "en": "Demands are growing rapidly, representation is weak, and the implementation of decisions is deteriorating. Which crises are directly combined here?",
+        "kk": "Талаптар тез өсуде, өкілдік әлсіз, шешімдердің орындалуы нашарлауда. Қандай дағдарыстар тікелей ұштасады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 685",
+          "units": [
+            "p685"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2382-2388",
+          "units": [
+            "p2382",
+            "p2383",
+            "p2384",
+            "p2385",
+            "p2386",
+            "p2387",
+            "p2388"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Идентичности при отсутствии признаков кризиса участия",
+            "en": "Identity, with no signs of a crisis of participation",
+            "kk": "Қатысу дағдарысының белгілері болмағанда сәйкестілік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Легитимности без противоречий представительства и исполнения",
+            "en": "Legitimacy, with no contradictions in representation and implementation",
+            "kk": "Өкілдік пен орындаудың қайшылықтарынсыз легитимділік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Проникновения",
+            "en": "Penetration",
+            "kk": "Ену"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Участия",
+            "en": "Participation",
+            "kk": "Қатысу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Распределения при отсутствии признаков кризиса проникновения",
+            "en": "Distribution, with no signs of a crisis of penetration",
+            "kk": "Ену дағдарысының белгілері болмағанда бөлу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 289,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Преодолению кризисов модернизации соответствуют...",
+        "en": "Directions that correspond to overcoming the crises of modernization include...",
+        "kk": "Жаңғырту дағдарыстарын еңсеруге мыналар сәйкес келеді:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2375",
+          "units": [
+            "p2375"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2389",
+          "units": [
+            "p2389"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Замена горизонтальных связей односторонним административным информированием",
+            "en": "Replacing horizontal links with one-way administrative communication",
+            "kk": "Көлденең байланыстарды біржақты әкімшілік ақпараттандырумен алмастыру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Унификация организационных форм без оценки их фактической устойчивости",
+            "en": "Unifying organizational forms without assessing their actual stability",
+            "kk": "Ұйымдық нысандарды олардың нақты тұрақтылығын бағаламай біріздендіру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Развитие политических коммуникаций",
+            "en": "Developing political communications",
+            "kk": "Саяси коммуникацияларды дамыту"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рациональная организация исполнения решений",
+            "en": "Rational organization of the implementation of decisions",
+            "kk": "Шешімдердің орындалуын ұтымды ұйымдастыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Централизация решения местных вопросов без разграничения исполнимых полномочий",
+            "en": "Centralizing the resolution of local issues without delimiting enforceable powers",
+            "kk": "Жергілікті мәселелерді орындалуы мүмкін өкілеттіктерді шектемей орталықтандыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 290,
+      "topic_id": 13,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему быстрое заимствование формальных институтов само по себе не гарантирует успешной модернизации?",
+        "en": "Why does the rapid borrowing of formal institutions not in itself guarantee successful modernization?",
+        "kk": "Ресми институттарды тез қарызға алудың өзі табысты жаңғыртуға неліктен кепілдік бермейді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 685",
+          "units": [
+            "p685"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2362-2365",
+          "units": [
+            "p2362",
+            "p2363",
+            "p2364",
+            "p2365"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Необходимы устойчивые процедуры, общественное согласование и учёт местных условий",
+            "en": "Stable procedures, public consensus-building and attention to local conditions are needed",
+            "kk": "Тұрақты рәсімдер, қоғамдық келісім және жергілікті жағдайларды ескеру қажет"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Установление конституционных норм само по себе обеспечивает навыки политического участия",
+            "en": "Establishing constitutional norms in itself provides the skills of political participation",
+            "kk": "Конституциялық нормаларды орнатудың өзі саяси қатысу дағдыларын қамтамасыз етеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Скорость принятия новых норм является достаточным показателем институциональной устойчивости",
+            "en": "The speed with which new norms are adopted is a sufficient indicator of institutional stability",
+            "kk": "Жаңа нормаларды қабылдау жылдамдығы институционалдық тұрақтылықтың жеткілікті көрсеткіші болып табылады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Согласование реформ с оппозицией равнозначно сохранению прежних политических функций",
+            "en": "Agreeing reforms with the opposition is equivalent to preserving the former political functions",
+            "kk": "Реформаларды оппозициямен келісу бұрынғы саяси функцияларды сақтауға тең"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Заимствованные формы заранее определяют функции независимо от социальной среды",
+            "en": "Borrowed forms determine their functions in advance, regardless of the social environment",
+            "kk": "Қарызға алынған нысандар әлеуметтік ортаға қарамастан функцияларды алдын ала айқындайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    }
+  ]
+}

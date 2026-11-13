@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 6,
+  "topic_name": "The Political System of Society",
+  "questions": {
+    "121": {
+      "question": "The model of the conversion of demands and support into decisions and actions was developed by...",
+      "options": {
+        "A": "Gabriel Almond",
+        "B": "Anthony Giddens",
+        "C": "Karl Deutsch",
+        "D": "Pierre Bourdieu",
+        "E": "David Easton"
+      }
+    },
+    "122": {
+      "question": "What belongs to the \"input\" of the political system in Easton's model?",
+      "options": {
+        "A": "Government programs and budgets",
+        "B": "Laws and judicial acts",
+        "C": "Norms and sanctions",
+        "D": "Decisions and actions",
+        "E": "Demands and support"
+      }
+    },
+    "123": {
+      "question": "The \"output\" of the political system in Easton's model consists of...",
+      "options": {
+        "A": "All individual political preferences",
+        "B": "Exclusively external international influences",
+        "C": "Only the informal norms of political culture",
+        "D": "Only expressions of public discontent",
+        "E": "The authorities' binding decisions and actions"
+      }
+    },
+    "124": {
+      "question": "After an unpopular decision, new demands on the government arise. Which mechanism is at work?",
+      "options": {
+        "A": "Feedback",
+        "B": "Primary socialization",
+        "C": "Separation of powers",
+        "D": "Ideological unification",
+        "E": "Elite recruitment"
+      }
+    },
+    "125": {
+      "question": "In Easton's model, the political system is considered open because...",
+      "options": {
+        "A": "It has no boundary between politics and the economy",
+        "B": "It receives influences from its environment and responds to them",
+        "C": "It has no mechanism of coercion",
+        "D": "Its bodies are elected only by direct vote",
+        "E": "Any demand immediately becomes law"
+      }
+    },
+    "126": {
+      "question": "The structural-functional model of the political system was developed by...",
+      "options": {
+        "A": "Vilfredo Pareto",
+        "B": "Gabriel Almond",
+        "C": "Robert Michels",
+        "D": "Karl Deutsch",
+        "E": "David Easton"
+      }
+    },
+    "127": {
+      "question": "The failures of mechanically transplanting Western institutions into a different environment show that...",
+      "options": {
+        "A": "The functions of institutions do not depend on the social environment",
+        "B": "Political culture is determined only by the text of the constitution",
+        "C": "Any borrowing inevitably eliminates instability",
+        "D": "Institutional reform is identical to democratization",
+        "E": "The same formal structure can perform different functions"
+      }
+    },
+    "128": {
+      "question": "The expression of interests by interested groups in Almond's model corresponds to...",
+      "options": {
+        "A": "Rule application",
+        "B": "Interest articulation",
+        "C": "Political recruitment",
+        "D": "Judicial review",
+        "E": "Interest aggregation"
+      }
+    },
+    "129": {
+      "question": "The combining of diverse demands into a political program by parties corresponds to...",
+      "options": {
+        "A": "Interest articulation",
+        "B": "Interest aggregation",
+        "C": "Information selection",
+        "D": "Rule application",
+        "E": "Political socialization"
+      }
+    },
+    "130": {
+      "question": "The making of generally binding rules in Almond's model is associated primarily with...",
+      "options": {
+        "A": "Executive bodies",
+        "B": "Legislative bodies",
+        "C": "Judicial bodies",
+        "D": "Interest groups",
+        "E": "The mass media"
+      }
+    },
+    "131": {
+      "question": "The implementation of adopted rules belongs chiefly to the function of...",
+      "options": {
+        "A": "The executive branch",
+        "B": "The electorate",
+        "C": "The legislative branch",
+        "D": "The judiciary",
+        "E": "The party opposition"
+      }
+    },
+    "132": {
+      "question": "The communication model of the political system is associated with the name of...",
+      "options": {
+        "A": "Gaetano Mosca",
+        "B": "Karl Deutsch",
+        "C": "Gabriel Almond",
+        "D": "Robert Dahl",
+        "E": "David Easton"
+      }
+    },
+    "133": {
+      "question": "The work \"The Nerves of Government\" belongs to...",
+      "options": {
+        "A": "David Easton",
+        "B": "Pierre Bourdieu",
+        "C": "Anthony Giddens",
+        "D": "Karl Deutsch",
+        "E": "Gabriel Almond"
+      }
+    },
+    "134": {
+      "question": "A government compares new information with accumulated knowledge and evaluates it through values. Which stage of the information cycle is described?",
+      "options": {
+        "A": "Processing and evaluation of information",
+        "B": "The actual taking of the decision",
+        "C": "Reception and initial selection",
+        "D": "Formation of a public demand",
+        "E": "Implementation of the decision"
+      }
+    },
+    "135": {
+      "question": "A political system is most fully defined as...",
+      "options": {
+        "A": "Exclusively the organization of the highest state offices",
+        "B": "The totality of all economic relations of a society",
+        "C": "Only legally registered parties and movements",
+        "D": "Relations, institutions, norms and values for the reproduction of political order",
+        "E": "The totality of the bodies of state coercion alone"
+      }
+    },
+    "136": {
+      "question": "Correct correspondences between an author and an approach:",
+      "options": {
+        "A": "David Easton: new institutionalism",
+        "B": "Gabriel Almond: structuration",
+        "C": "Pierre Bourdieu: the political field",
+        "D": "Karl Deutsch: the political field",
+        "E": "Anthony Giddens: structuration"
+      }
+    },
+    "137": {
+      "question": "Functions of the \"input\" (rather than the \"output\") of the system in Almond's model:",
+      "options": {
+        "A": "Application of generally binding rules by executive bodies",
+        "B": "Political socialization",
+        "C": "Rule-making by legislative bodies",
+        "D": "Interest aggregation",
+        "E": "Interest articulation"
+      }
+    },
+    "138": {
+      "question": "The models of Easton and Deutsch are united by...",
+      "options": {
+        "A": "Identifying feedback with the actual taking of decisions",
+        "B": "Recognizing parties as the only transmitters of feedback",
+        "C": "Treating information selection as an exclusively legal procedure",
+        "D": "Taking account of the impact of information about the results of activity",
+        "E": "Using the principle of feedback"
+      }
+    },
+    "139": {
+      "question": "Which sequence corresponds to Deutsch's information cycle?",
+      "options": {
+        "A": "Evaluation, then receiving information, then decision, then implementation with feedback",
+        "B": "Receiving information, then evaluation, then implementation, then decision",
+        "C": "Receiving information, then evaluation, then decision, then implementation with feedback",
+        "D": "Receiving information, then decision, then evaluation, then implementation with feedback",
+        "E": "Decision, then receiving information, then implementation, then evaluation"
+      }
+    },
+    "140": {
+      "question": "Discontent increased after institutions were transplanted without regard for the environment; the conclusions consistent with systems and structural-functional analysis are:",
+      "options": {
+        "A": "The real functions of the borrowed institutions should be investigated",
+        "B": "The population's reactions should be regarded only as external interference with the work of the institutions",
+        "C": "Feedback from society must be taken into account",
+        "D": "The results of activity are explained by the legal names of the bodies without analyzing their functions",
+        "E": "Institutional similarity is sufficient to transfer the expected results of the reform"
+      }
+    }
+  }
+}

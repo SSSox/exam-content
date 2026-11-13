@@ -1,0 +1,9 @@
+{
+  "kind": "university",
+  "title": {
+    "ru": "КазНУ имени аль-Фараби",
+    "kk": "Әл-Фараби атындағы ҚазҰУ",
+    "en": "Al-Farabi Kazakh National University"
+  },
+  "order": 10
+}

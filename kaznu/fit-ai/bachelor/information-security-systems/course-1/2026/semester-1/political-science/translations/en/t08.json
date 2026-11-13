@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 8,
+  "topic_name": "Political Regimes and Models of Democracy",
+  "questions": {
+    "166": {
+      "question": "The main criterion for distinguishing totalitarian from authoritarian regimes is...",
+      "options": {
+        "A": "The presence of a head of state",
+        "B": "The existence of an apparatus of coercion",
+        "C": "The degree to which the authorities claim control over social life",
+        "D": "The use of a managerial hierarchy",
+        "E": "The issuing of generally binding decisions"
+      }
+    },
+    "167": {
+      "question": "The information sphere of totalitarianism is characterized by...",
+      "options": {
+        "A": "Complete independence of the press combined with a ban on elections",
+        "B": "The monopolization of information and the suppression of dissent",
+        "C": "The state's neutrality toward all political doctrines",
+        "D": "The mandatory absence of any means of mass communication",
+        "E": "Competition among independent sources within a common legal framework"
+      }
+    },
+    "168": {
+      "question": "The organizational core of a totalitarian political system is...",
+      "options": {
+        "A": "Competition among several government coalitions",
+        "B": "An independent board of arbitration judges",
+        "C": "A centralized party fused with the state",
+        "D": "An autonomous network of independent trade unions",
+        "E": "A direct assembly of all citizens"
+      }
+    },
+    "169": {
+      "question": "Regarding force under authoritarianism, it is true that...",
+      "options": {
+        "A": "The regime may rely on the threat of force without constant mass repression",
+        "B": "The regime excludes coercive resources from governance",
+        "C": "Violence is possible only under universal suffrage",
+        "D": "The security forces stand outside political leadership",
+        "E": "The use of force necessarily extends to all spheres of life"
+      }
+    },
+    "170": {
+      "question": "Real political competition is banned, but private business and limited cultural pluralism are preserved. This corresponds most closely to...",
+      "options": {
+        "A": "Direct democracy",
+        "B": "An authoritarian regime",
+        "C": "A totalitarian regime",
+        "D": "Liberal parliamentarism",
+        "E": "Polyarchal democracy"
+      }
+    },
+    "171": {
+      "question": "Why is the mere existence of elections not enough to regard a regime as democratic?",
+      "options": {
+        "A": "Democracy requires only the appointment of leaders",
+        "B": "Any elections exclude popular sovereignty",
+        "C": "Electivity is characteristic only of totalitarianism",
+        "D": "Elections can be held without real competition",
+        "E": "Elections have no bearing on access to power"
+      }
+    },
+    "172": {
+      "question": "Co-optation of the political elite means...",
+      "options": {
+        "A": "The distribution of posts by lot",
+        "B": "The hereditary transfer of every mandate to a successor",
+        "C": "The dissolution of all governing bodies",
+        "D": "The inclusion of new members by decision of the existing leading circle",
+        "E": "The election of the entire apparatus in competitive elections"
+      }
+    },
+    "173": {
+      "question": "The concept of polyarchy for analyzing actually existing democracies was developed by...",
+      "options": {
+        "A": "Karl Deutsch",
+        "B": "Robert Michels",
+        "C": "Robert Dahl",
+        "D": "Gaetano Mosca",
+        "E": "Joseph Schumpeter"
+      }
+    },
+    "174": {
+      "question": "Distinguishing democracy as an ideal from polyarchy makes it possible to...",
+      "options": {
+        "A": "Prove the impossibility of any democratic institutions",
+        "B": "Equate any regime with a parliament to a democracy",
+        "C": "Exclude elections from the analysis of political systems",
+        "D": "Reduce democracy to the personal virtue of a leader",
+        "E": "Separate the normative image of popular rule from the empirical organization of competition"
+      }
+    },
+    "175": {
+      "question": "The minimal characteristics of democratic government:",
+      "options": {
+        "A": "Legal recognition of popular sovereignty",
+        "B": "Periodic election of the main bodies",
+        "C": "Subordination of political competition to a mandatory single doctrine",
+        "D": "Reservation of leading posts to one irremovable group",
+        "E": "Equality of citizens' political rights"
+      }
+    },
+    "176": {
+      "question": "The liberal-democratic model is characterized by...",
+      "options": {
+        "A": "Undivided power, estate status, inheritance",
+        "B": "An organic whole, an imperative mandate, unity of interests",
+        "C": "Unity of the general will, primacy of the common good, direct democracy",
+        "D": "An official ideology, mobilization, a party monopoly",
+        "E": "Sovereignty of the individual, representation, protection of the minority"
+      }
+    },
+    "177": {
+      "question": "In a comparative typology, the radical-democratic model is characterized by...",
+      "options": {
+        "A": "Political passivity and the autonomy of the economy",
+        "B": "Separation of powers and the primacy of private interests",
+        "C": "Hereditary legitimacy and estate representation",
+        "D": "Sovereignty of the individual and a free parliamentary mandate",
+        "E": "Sovereignty of the people and the direct exercise of power"
+      }
+    },
+    "178": {
+      "question": "An imperative mandate differs from a free one in that...",
+      "options": {
+        "A": "The deputy is appointed by the executive",
+        "B": "Voters are forbidden to oversee the representative",
+        "C": "The deputy is independent of any instructions",
+        "D": "The deputy is bound by the binding instructions of the voters",
+        "E": "The deputy's status is held for life"
+      }
+    },
+    "179": {
+      "question": "Direct democracy presupposes...",
+      "options": {
+        "A": "The transfer of decisions exclusively to professional deputies",
+        "B": "The direct participation of citizens in decision-making",
+        "C": "The hereditary transfer of supreme power",
+        "D": "The election of intermediaries who then elect the head of state",
+        "E": "The selection of leaders by judicial bodies alone"
+      }
+    },
+    "180": {
+      "question": "A referendum as a form of political participation differs from the election of deputies in that citizens...",
+      "options": {
+        "A": "Express an opinion only through a consultative poll",
+        "B": "Vote directly on an issue rather than on the composition of representatives",
+        "C": "Delegate the right to vote to party leaders",
+        "D": "Give up their own participation in the decision",
+        "E": "Necessarily approve the government's list of appointments"
+      }
+    },
+    "181": {
+      "question": "Indicate the correct correspondences between a model and a principle.",
+      "options": {
+        "A": "Liberal democracy: the primacy of the common good over individual autonomy",
+        "B": "Radical democracy: an imperative mandate",
+        "C": "Radical democracy: representation as the final transfer of sovereignty to deputies",
+        "D": "Liberal democracy: unity of interests as the starting principle of society",
+        "E": "Liberal democracy: a free mandate"
+      }
+    },
+    "182": {
+      "question": "Conditions that limit the transformation of majority rule into arbitrariness:",
+      "options": {
+        "A": "Legal limits on decision-making",
+        "B": "Equality of political rights",
+        "C": "Recognition of a majority decision as a sufficient ground for restricting any rights",
+        "D": "Granting the ruling group the exclusive right to interpret the limits of its power",
+        "E": "Protection of minority rights"
+      }
+    },
+    "183": {
+      "question": "Which comparisons of regimes are well founded?",
+      "options": {
+        "A": "The existence of elected institutions is a sufficient criterion of competitiveness",
+        "B": "The preservation of a private economy means that rulers are accountable to the population",
+        "C": "Authoritarianism allows the autonomy of certain non-political spheres",
+        "D": "Totalitarianism strives for all-encompassing ideologization",
+        "E": "Democracy presupposes the possibility of changing the leadership through elections"
+      }
+    },
+    "184": {
+      "question": "Only one pre-approved list is allowed in the elections, and independent associations are banned. Which conclusion is correct?",
+      "options": {
+        "A": "A single list means direct democracy",
+        "B": "The mere fact of voting guarantees polyarchy",
+        "C": "The appointment of candidates replaces popular sovereignty",
+        "D": "An electoral procedure does not ensure political competition",
+        "E": "The ban on associations ensures equality of opportunity"
+      }
+    },
+    "185": {
+      "question": "Which research conclusion requires distinguishing the normative from the empirical understanding of democracy?",
+      "options": {
+        "A": "The authorities' declarations of the goals of government are equivalent to observing real competition",
+        "B": "The study of institutions makes it possible to disregard the actual availability of political rights",
+        "C": "A declaration of popular rule does not prove that real institutions meet democratic criteria",
+        "D": "The procedural formalization of power makes checking the turnover of leadership redundant",
+        "E": "The lack of a complete match with the ideal deprives empirical criteria of significance"
+      }
+    }
+  }
+}

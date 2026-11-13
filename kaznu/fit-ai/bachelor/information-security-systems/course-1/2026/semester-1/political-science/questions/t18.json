@@ -1,0 +1,687 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 341,
+      "topic_id": 18,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В каком месяце и году Казахстан вступил в ООН?",
+        "en": "In which month and year did Kazakhstan join the United Nations?",
+        "kk": "Қазақстан БҰҰ-ға қай айда және қай жылы мүше болды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 890",
+          "units": [
+            "p890"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В марте 1992 года",
+            "en": "March 1992",
+            "kk": "1992 жылғы наурызда"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В январе 1992 года",
+            "en": "January 1992",
+            "kk": "1992 жылғы қаңтарда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В декабре 1991 года",
+            "en": "December 1991",
+            "kk": "1991 жылғы желтоқсанда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "В мае 1992 года",
+            "en": "May 1992",
+            "kk": "1992 жылғы мамырда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В сентябре 1993 года",
+            "en": "September 1993",
+            "kk": "1993 жылғы қыркүйекте"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 342,
+      "topic_id": 18,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Евразийское экономическое сообщество (ЕврАзЭС) было создано...",
+        "en": "The Eurasian Economic Community (EurAsEC) was established in...",
+        "kk": "Еуразиялық экономикалық қоғамдастық — ЕурАзЭҚ қай жылы құрылды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 791",
+          "units": [
+            "p791"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В 1995 году",
+            "en": "1995",
+            "kk": "1995 жылы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В 1991 году",
+            "en": "1991",
+            "kk": "1991 жылы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В 2000 году",
+            "en": "2000",
+            "kk": "2000 жылы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "В 2001 году",
+            "en": "2001",
+            "kk": "2001 жылы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В 2007 году",
+            "en": "2007",
+            "kk": "2007 жылы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 343,
+      "topic_id": 18,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Документы о формировании единой таможенной территории и Таможенного союза в Душанбе в октябре 2007 года подписали:",
+        "en": "Documents on forming a single customs territory and a Customs Union were signed in Dushanbe in October 2007 by:",
+        "kk": "2007 жылғы қазанда Душанбеде бірыңғай кедендік аумақ пен Кеден одағын құру туралы құжаттарға мына мемлекеттер қол қойды:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 793",
+          "units": [
+            "p793"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Беларусь, Казахстан и Россия",
+            "en": "Belarus, Kazakhstan and Russia",
+            "kk": "Беларусь, Қазақстан және Ресей"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Казахстан, Китай и Россия",
+            "en": "Kazakhstan, China and Russia",
+            "kk": "Қазақстан, Қытай және Ресей"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Беларусь, Украина и Россия",
+            "en": "Belarus, Ukraine and Russia",
+            "kk": "Беларусь, Украина және Ресей"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Казахстан, Кыргызстан и Таджикистан",
+            "en": "Kazakhstan, Kyrgyzstan and Tajikistan",
+            "kk": "Қазақстан, Қырғызстан және Тәжікстан"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Россия, Узбекистан и Казахстан",
+            "en": "Russia, Uzbekistan and Kazakhstan",
+            "kk": "Ресей, Өзбекстан және Қазақстан"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 344,
+      "topic_id": 18,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Договор о коллективной безопасности в мае 1992 года был подписан...",
+        "en": "The Collective Security Treaty of May 1992 was signed...",
+        "kk": "Ұжымдық қауіпсіздік туралы шарт 1992 жылғы мамырда қайда қол қойылды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 794",
+          "units": [
+            "p794"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В Бишкеке",
+            "en": "In Bishkek",
+            "kk": "Бішкекте"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В Минске",
+            "en": "In Minsk",
+            "kk": "Минскіде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В Душанбе",
+            "en": "In Dushanbe",
+            "kk": "Душанбеде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "В Ташкенте",
+            "en": "In Tashkent",
+            "kk": "Ташкентте"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В Алматы",
+            "en": "In Almaty",
+            "kk": "Алматыда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 345,
+      "topic_id": 18,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Направления сотрудничества Казахстана с ОБСЕ в описанной модели середины 2000-х годов:",
+        "en": "Areas of Kazakhstan's cooperation with the OSCE in the mid-2000s model described:",
+        "kk": "2000-жылдардың ортасындағы сипатталған модельде Қазақстанның ЕҚЫҰ-мен ынтымақтастық бағыттары:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 895",
+          "units": [
+            "p895"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Единая эмиссионная политика центрального банка",
+            "en": "A single issuing policy of the central bank",
+            "kk": "Орталық банктің бірыңғай эмиссиялық саясаты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Демократия и права человека",
+            "en": "Democracy and human rights",
+            "kk": "Демократия және адам құқықтары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Согласование обязательных догматов религиозных организаций",
+            "en": "Coordinating the binding dogmas of religious organizations",
+            "kk": "Діни ұйымдардың міндетті догмаларын келісу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Политика и безопасность",
+            "en": "Politics and security",
+            "kk": "Саясат және қауіпсіздік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Экономика и экология",
+            "en": "Economy and ecology",
+            "kk": "Экономика және экология"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 346,
+      "topic_id": 18,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Государства СВМДА принимали выполнение Каталога мер доверия в середине 2000-х годов на принципе...",
+        "en": "The states of CICA accepted the implementation of the Catalogue of Confidence-Building Measures in the mid-2000s on the principle of...",
+        "kk": "АӨСШК қатысушы мемлекеттері 2000-жылдардың ортасында Сенім шаралары каталогын орындауды қандай принцип негізінде қабылдады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 790",
+          "units": [
+            "p790"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Добровольности",
+            "en": "Voluntariness",
+            "kk": "Ерікті болу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Автоматического военного вмешательства",
+            "en": "Automatic military intervention",
+            "kk": "Автоматты әскери араласу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наднационального принуждения",
+            "en": "Supranational coercion",
+            "kk": "Жоғарыұлттық мәжбүрлеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительного решения внешнего арбитра",
+            "en": "The exclusive decision of an outside arbiter",
+            "kk": "Сыртқы төрешінің ерекше шешімі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательной передачи суверенитета",
+            "en": "The mandatory transfer of sovereignty",
+            "kk": "Егемендікті міндетті түрде беру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 347,
+      "topic_id": 18,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Когда Казахстан подписал рамочный документ программы НАТО «Партнёрство во имя мира»?",
+        "en": "When did Kazakhstan sign the framework document of NATO's Partnership for Peace program?",
+        "kk": "Қазақстан НАТО-ның «Бейбітшілік үшін әріптестік» бағдарламасының негіздемелік құжатына қашан қол қойды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 902",
+          "units": [
+            "p902"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "23 декабря 2002 года",
+            "en": "December 23, 2002",
+            "kk": "2002 жылғы 23 желтоқсанда"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "16 августа 2007 года",
+            "en": "August 16, 2007",
+            "kk": "2007 жылғы 16 тамызда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "15 мая 1992 года",
+            "en": "May 15, 1992",
+            "kk": "1992 жылғы 15 мамырда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "2 марта 1992 года",
+            "en": "March 2, 1992",
+            "kk": "1992 жылғы 2 наурызда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "27 мая 1994 года",
+            "en": "May 27, 1994",
+            "kk": "1994 жылғы 27 мамырда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 348,
+      "topic_id": 18,
+      "difficulty_level": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К финансовым институтам в структуре международного сотрудничества относятся...",
+        "en": "Financial institutions in the structure of international cooperation include...",
+        "kk": "Халықаралық ынтымақтастық құрылымындағы қаржы институттарына мыналар жатады:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 893",
+          "units": [
+            "p893"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "ЮНИСЕФ",
+            "en": "UNICEF",
+            "kk": "ЮНИСЕФ"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Международный валютный фонд",
+            "en": "The International Monetary Fund",
+            "kk": "Халықаралық валюта қоры"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "ЮНЕСКО",
+            "en": "UNESCO",
+            "kk": "ЮНЕСКО"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Управление Верховного комиссара ООН по делам беженцев",
+            "en": "The Office of the UN High Commissioner for Refugees",
+            "kk": "БҰҰ Босқындар істері жөніндегі Жоғарғы комиссарының басқармасы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Европейский банк реконструкции и развития",
+            "en": "The European Bank for Reconstruction and Development",
+            "kk": "Еуропалық қайта құру және даму банкі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 349,
+      "topic_id": 18,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Последовательность экономической интеграции, предложенная Казахстаном для Центральной Азии в середине 2000-х годов:",
+        "en": "The sequence of economic integration proposed by Kazakhstan for Central Asia in the mid-2000s:",
+        "kk": "Қазақстан 2000-жылдардың ортасында Орталық Азия үшін ұсынған экономикалық интеграция реттілігі:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 784",
+          "units": [
+            "p784"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Единое экономическое пространство → таможенный союз → зона свободной торговли",
+            "en": "Single economic space → customs union → free trade zone",
+            "kk": "Бірыңғай экономикалық кеңістік → кеден одағы → еркін сауда аймағы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Таможенный союз → зона свободной торговли → единое экономическое пространство",
+            "en": "Customs union → free trade zone → single economic space",
+            "kk": "Кеден одағы → еркін сауда аймағы → бірыңғай экономикалық кеңістік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Единое экономическое пространство → зона свободной торговли → таможенный союз",
+            "en": "Single economic space → free trade zone → customs union",
+            "kk": "Бірыңғай экономикалық кеңістік → еркін сауда аймағы → кеден одағы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Зона свободной торговли → единое экономическое пространство → таможенный союз",
+            "en": "Free trade zone → single economic space → customs union",
+            "kk": "Еркін сауда аймағы → бірыңғай экономикалық кеңістік → кеден одағы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Зона свободной торговли → таможенный союз → единое экономическое пространство",
+            "en": "Free trade zone → customs union → single economic space",
+            "kk": "Еркін сауда аймағы → кеден одағы → бірыңғай экономикалық кеңістік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 350,
+      "topic_id": 18,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия организаций и направлений сотрудничества.",
+        "en": "Indicate the correct correspondences between organizations and areas of cooperation.",
+        "kk": "Ұйымдар мен ынтымақтастық бағыттарының дұрыс сәйкестіктерін көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 787",
+          "units": [
+            "p787"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 794",
+          "units": [
+            "p794"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 799",
+          "units": [
+            "p799"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "СВМДА: выработка мер доверия в Азии",
+            "en": "CICA: developing confidence-building measures in Asia",
+            "kk": "АӨСШК: Азиядағы сенім шараларын әзірлеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "ШОС: многостороннее сотрудничество в сфере безопасности и развития",
+            "en": "SCO: multilateral cooperation in the spheres of security and development",
+            "kk": "ШЫҰ: қауіпсіздік және даму саласындағы көпжақты ынтымақтастық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "ОДКБ: коллективная безопасность",
+            "en": "CSTO: collective security",
+            "kk": "ҰҚШҰ: ұжымдық қауіпсіздік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "ЕврАзЭС: коллективное военно-политическое командование",
+            "en": "EurAsEC: a collective military-political command",
+            "kk": "ЕурАзЭҚ: ұжымдық әскери-саяси қолбасшылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "ОБСЕ: предоставление стабилизационных кредитов центральным банкам",
+            "en": "OSCE: providing stabilization loans to central banks",
+            "kk": "ЕҚЫҰ: орталық банктерге тұрақтандыру кредиттерін беру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ]
+    }
+  ]
+}

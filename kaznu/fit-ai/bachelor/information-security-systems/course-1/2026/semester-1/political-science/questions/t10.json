@@ -1,0 +1,1705 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 211,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Определяющая цель политической партии по сравнению с группой интересов заключается в...",
+        "en": "The defining goal of a political party, as compared with an interest group, is...",
+        "kk": "Саяси партияның мүдде тобымен салыстырғандағы айқындаушы мақсаты неде?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1594-1595",
+          "units": [
+            "p1594",
+            "p1595"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обязательном представительстве одной профессии",
+            "en": "Mandatory representation of a single profession",
+            "kk": "Бір кәсіптің міндетті өкілдігінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Участии в завоевании и осуществлении государственной власти",
+            "en": "Participation in winning and exercising state power",
+            "kk": "Мемлекеттік билікті жаулап алуға және жүзеге асыруға қатысуда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Непосредственном разрешении судебных споров",
+            "en": "The direct resolution of judicial disputes",
+            "kk": "Сот дауларын тікелей шешуде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Предоставлении исключительно экспертной информации",
+            "en": "Supplying exclusively expert information",
+            "kk": "Тек сараптамалық ақпарат беруде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Защите любого частного интереса без властных притязаний",
+            "en": "Defending any private interest without aspiring to power",
+            "kk": "Билікке талапсыз кез келген жеке мүддені қорғауда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 212,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Преобразование неопределённого недовольства социальной группы в конкретные требования к власти представляет собой...",
+        "en": "The transformation of a social group's vague discontent into specific demands on the authorities is...",
+        "kk": "Әлеуметтік топтың белгісіз наразылығын билікке қойылатын нақты талаптарға айналдыру нені білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1573-1575",
+          "units": [
+            "p1573",
+            "p1574",
+            "p1575"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Рутинизацию харизмы",
+            "en": "The routinization of charisma",
+            "kk": "Харизманың рутинизациясын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Артикуляцию интересов",
+            "en": "Interest articulation",
+            "kk": "Мүдделерді артикуляциялауды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Политическую кооптацию",
+            "en": "Political co-optation",
+            "kk": "Саяси кооптацияны"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Электоральную географию",
+            "en": "Electoral geography",
+            "kk": "Сайлау географиясын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Рекрутирование элиты",
+            "en": "Elite recruitment",
+            "kk": "Элитаны рекрутингтеуді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 213,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Профессиональная ассоциация передаёт парламентскому комитету экспертные сведения, добиваясь изменения законопроекта. Это пример...",
+        "en": "A professional association provides expert information to a parliamentary committee in order to have a bill amended. This is an example of...",
+        "kk": "Кәсіби қауымдастық заң жобасын өзгертуге қол жеткізу үшін парламент комитетіне сараптамалық мәліметтер береді. Бұл қандай жағдайдың мысалы?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1576-1578",
+          "units": [
+            "p1576",
+            "p1577",
+            "p1578"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Замещения политической партии избирательной комиссией",
+            "en": "An election commission taking the place of a political party",
+            "kk": "Саяси партияны сайлау комиссиясымен алмастырудың"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Непосредственного осуществления государственного суверенитета",
+            "en": "The direct exercise of state sovereignty",
+            "kk": "Мемлекеттік егемендікті тікелей жүзеге асырудың"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Воздействия группы интересов на принятие решения",
+            "en": "An interest group influencing decision-making",
+            "kk": "Мүдде тобының шешім қабылдауға ықпал етуінің"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Самостоятельного принятия ассоциацией закона",
+            "en": "An association independently adopting a law",
+            "kk": "Қауымдастықтың заңды өз бетінше қабылдауының"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Превращения ассоциации в судебный орган",
+            "en": "An association turning into a judicial body",
+            "kk": "Қауымдастықтың сот органына айналуының"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 214,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Добровольные объединения, специально созданные для представительства интересов, относятся к группам...",
+        "en": "Voluntary associations created specifically to represent interests are classified as ... groups.",
+        "kk": "Мүдделерді білдіру үшін арнайы құрылған ерікті бірлестіктер қандай топтарға жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1582",
+          "units": [
+            "p1582"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Харизматическим",
+            "en": "Charismatic",
+            "kk": "Харизмалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ассоциативным",
+            "en": "Associational",
+            "kk": "Ассоциативтік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Патримониальным",
+            "en": "Patrimonial",
+            "kk": "Патримониалдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Неассоциативным",
+            "en": "Non-associational",
+            "kk": "Ассоциативтік емес"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Стихийным",
+            "en": "Spontaneous",
+            "kk": "Стихиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 215,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Институциональную группу интересов от спонтанного объединения прежде всего отличает...",
+        "en": "An institutional interest group is distinguished from a spontaneous association chiefly by...",
+        "kk": "Мүдделердің институционалдық тобын стихиялық бірлестіктен ең алдымен ерекшелейтіні..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1580-1581",
+          "units": [
+            "p1580",
+            "p1581"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обязательная незаконность методов воздействия",
+            "en": "The mandatory illegality of its methods of influence",
+            "kk": "Ықпал ету әдістерінің міндетті заңсыздығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отказ от регулярного взаимодействия с властью",
+            "en": "A refusal of regular interaction with the authorities",
+            "kk": "Билікпен тұрақты өзара әрекеттен бас тарту"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Устойчивая организация и профессиональный аппарат",
+            "en": "A stable organization and a professional apparatus",
+            "kk": "Тұрақты ұйымдастырылу және кәсіби аппарат"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительно эмоциональная связь участников",
+            "en": "An exclusively emotional bond among the participants",
+            "kk": "Қатысушылардың тек эмоциялық байланысы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательное отсутствие руководителей",
+            "en": "The mandatory absence of leaders",
+            "kk": "Басшылардың міндетті түрде болмауы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 216,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Партийный электорат отличается от формального членства тем, что включает...",
+        "en": "A party's electorate differs from its formal membership in that it includes...",
+        "kk": "Партиялық электорат ресми мүшеліктен мынасымен ерекшеленеді: ол..."
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 663-666",
+          "units": [
+            "p663",
+            "p664",
+            "p665",
+            "p666"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только депутатов, избранных по партийному списку",
+            "en": "Only deputies elected on the party list",
+            "kk": "тек партиялық тізім бойынша сайланған депутаттарды қамтиды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Избирателей, голосующих за партию, независимо от членства",
+            "en": "Voters who vote for the party regardless of membership",
+            "kk": "мүшелігіне қарамастан партияға дауыс беретін сайлаушыларды қамтиды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Всех жителей территории безотносительно голосования",
+            "en": "All residents of the territory irrespective of how they vote",
+            "kk": "дауыс беруіне қарамастан аумақтың барлық тұрғындарын қамтиды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только работников оплачиваемого партийного аппарата",
+            "en": "Only the staff of the paid party apparatus",
+            "kk": "тек ақылы партиялық аппарат қызметкерлерін қамтиды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Исключительно участников высшего партийного органа",
+            "en": "Exclusively the members of the highest party body",
+            "kk": "тек жоғары партиялық органның қатысушыларын қамтиды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 217,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Функции политической партии:",
+        "en": "The functions of a political party:",
+        "kk": "Саяси партияның функциялары:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1600-1602",
+          "units": [
+            "p1600",
+            "p1601",
+            "p1602"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Политическая социализация граждан",
+            "en": "Political socialization of citizens",
+            "kk": "Азаматтарды саяси әлеуметтендіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рекрутирование политических лидеров",
+            "en": "Recruitment of political leaders",
+            "kk": "Саяси көшбасшыларды рекрутингтеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Принятие общеобязательных законов собственным партийным решением",
+            "en": "Adopting generally binding laws by the party's own decision",
+            "kk": "Жалпыға міндетті заңдарды өз партиялық шешімімен қабылдау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Представительство групповых интересов",
+            "en": "Representation of group interests",
+            "kk": "Топтық мүдделерді білдіру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Вынесение юридически обязательных приговоров по политическим спорам",
+            "en": "Passing legally binding judgments in political disputes",
+            "kk": "Саяси дауларға заңды міндетті үкімдер шығару"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "id": 218,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Партия, отдающая приоритет защите идеологической чистоты, определяется как...",
+        "en": "A party that gives priority to defending ideological purity is defined as...",
+        "kk": "Идеологиялық тазалықты қорғауға басымдық беретін партия қалай анықталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1613",
+          "units": [
+            "p1613"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Патронажная",
+            "en": "Patronage-based",
+            "kk": "Патронаждық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Электоральная",
+            "en": "Electoral",
+            "kk": "Сайлаулық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кадровая",
+            "en": "Cadre",
+            "kk": "Кадрлық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Доктринальная",
+            "en": "Doctrinal",
+            "kk": "Доктриналық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прагматическая",
+            "en": "Pragmatic",
+            "kk": "Прагматикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 219,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Участников харизматической партии объединяет...",
+        "en": "The members of a charismatic party are united by...",
+        "kk": "Харизмалық партияның қатысушыларын біріктіретіні..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1613",
+          "units": [
+            "p1613"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Единый имущественный ценз",
+            "en": "A common property qualification",
+            "kk": "Бірыңғай мүліктік цензі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Общность профессии",
+            "en": "A shared profession",
+            "kk": "Кәсіптің ортақтығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Приверженность конкретному лидеру",
+            "en": "Devotion to a particular leader",
+            "kk": "Нақты көшбасшыға берілгендік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Равное представительство территорий",
+            "en": "Equal representation of territories",
+            "kk": "Аумақтардың тең өкілдігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательная светская доктрина",
+            "en": "A mandatory secular doctrine",
+            "kk": "Міндетті зайырлы доктрина"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 220,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Классификация кадровых и массовых партий связана с именем...",
+        "en": "The classification of cadre and mass parties is associated with the name of...",
+        "kk": "Кадрлық және бұқаралық партиялардың жіктемесі кімнің есімімен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1615",
+          "units": [
+            "p1615"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Мориса Дюверже",
+            "en": "Maurice Duverger",
+            "kk": "Морис Дюверже"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Карла Дойча",
+            "en": "Karl Deutsch",
+            "kk": "Карл Дойч"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гаэтано Моски",
+            "en": "Gaetano Mosca",
+            "kk": "Гаэтано Моска"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Роберта Даля",
+            "en": "Robert Dahl",
+            "kk": "Роберт Даль"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Джованни Сартори",
+            "en": "Giovanni Sartori",
+            "kk": "Джованни Сартори"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 221,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Организация действует вокруг комитета влиятельных политиков, имеет свободное членство и активизируется к выборам. Это партия...",
+        "en": "An organization operates around a committee of influential politicians, has free membership and becomes active in the run-up to elections. This is a ... party.",
+        "kk": "Ұйым ықпалды саясаткерлер комитетінің айналасында әрекет етеді, мүшелігі еркін және сайлау кезінде жандана түседі. Бұл қандай партия?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1615",
+          "units": [
+            "p1615"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Религиозно-доктринальная",
+            "en": "Religious-doctrinal",
+            "kk": "Діни-доктриналық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Кадровая",
+            "en": "Cadre",
+            "kk": "Кадрлық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Тоталитарная",
+            "en": "Totalitarian",
+            "kk": "Тоталитарлық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Массовая",
+            "en": "Mass",
+            "kk": "Бұқаралық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Строго централизованная",
+            "en": "Strictly centralized",
+            "kk": "Қатаң орталықтандырылған"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 222,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Признаки массовой партии в типологии Дюверже:",
+        "en": "Features of a mass party in Duverger's typology:",
+        "kk": "Дюверже типологиясындағы бұқаралық партияның белгілері:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1616",
+          "units": [
+            "p1616"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Устойчивая организованность",
+            "en": "Stable organization",
+            "kk": "Тұрақты ұйымдасушылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Уставное членство",
+            "en": "Formal (statutory) membership",
+            "kk": "Жарғылық мүшелік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Значение идейной общности",
+            "en": "The importance of ideological commonality",
+            "kk": "Идеялық ортақтықтың маңызы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Преимущественно свободное членство без уставной фиксации",
+            "en": "Predominantly free membership with no statutory recording",
+            "kk": "Жарғыда бекітілмеген, негізінен еркін мүшелік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Аморфная структура вокруг комитета профессиональных политиков",
+            "en": "An amorphous structure around a committee of professional politicians",
+            "kk": "Кәсіби саясаткерлер комитетінің айналасындағы аморфты құрылым"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": 223,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Строго централизованную партию в описанной типологии отличает...",
+        "en": "In the typology described, a strictly centralized party is distinguished by...",
+        "kk": "Сипатталған типологияда қатаң орталықтандырылған партияны ерекшелейтіні..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1617",
+          "units": [
+            "p1617"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Передача всех решений внешним независимым экспертам",
+            "en": "Handing all decisions over to outside independent experts",
+            "kk": "Барлық шешімдерді сыртқы тәуелсіз сарапшыларға беру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Случайное объединение вокруг отдельного законопроекта",
+            "en": "A chance coalescence around a single bill",
+            "kk": "Жеке заң жобасының айналасында кездейсоқ бірігу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отсутствие обязательной партийной дисциплины",
+            "en": "The absence of mandatory party discipline",
+            "kk": "Міндетті партиялық тәртіптің болмауы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Свободное членство без организационных обязательств",
+            "en": "Free membership without organizational obligations",
+            "kk": "Ұйымдастырушылық міндеттемелерсіз еркін мүшелік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сочетание идеологического единства с жёсткой иерархией",
+            "en": "A combination of ideological unity with a rigid hierarchy",
+            "kk": "Идеологиялық бірлік пен қатаң иерархияның үйлесуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 224,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Партийная система представляет собой...",
+        "en": "A party system is...",
+        "kk": "Партиялық жүйе дегеніміз не?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1619",
+          "units": [
+            "p1619"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только порядок составления партийных списков",
+            "en": "Only the procedure for compiling party lists",
+            "kk": "Тек партиялық тізімдерді жасау тәртібі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключительно структуру аппарата правящей партии",
+            "en": "Exclusively the structure of the ruling party's apparatus",
+            "kk": "Тек билеуші партия аппаратының құрылымы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сумму зарегистрированных партий без учёта взаимодействия",
+            "en": "The sum of registered parties without regard to their interaction",
+            "kk": "Өзара әрекетті ескермей тіркелген партиялардың қосындысы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устойчивые отношения партий между собой и с институтами власти",
+            "en": "Stable relations of parties among themselves and with the institutions of power",
+            "kk": "Партиялардың өзара және билік институттарымен тұрақты қатынастары"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Любое собрание участников избирательной кампании",
+            "en": "Any gathering of participants in an election campaign",
+            "kk": "Сайлау науқанына қатысушылардың кез келген жиналысы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 225,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одного числа партий недостаточно для характеристики партийной системы, потому что...",
+        "en": "The number of parties alone is not enough to characterize a party system because...",
+        "kk": "Партиялар санының өзі партиялық жүйені сипаттау үшін жеткіліксіз, өйткені..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1621-1622",
+          "units": [
+            "p1621",
+            "p1622"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Оно не раскрывает реальную конкуренцию и характер отношений с государством",
+            "en": "It does not reveal the real competition and the nature of relations with the state",
+            "kk": "Ол нақты бәсекелестікті және мемлекетпен қатынастардың сипатын ашпайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Численность партий не может быть установлена эмпирически",
+            "en": "The number of parties cannot be established empirically",
+            "kk": "Партиялар санын эмпирикалық түрде анықтау мүмкін емес"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Правовые условия не влияют на партийную деятельность",
+            "en": "Legal conditions do not affect party activity",
+            "kk": "Құқықтық жағдайлар партиялық қызметке әсер етпейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Партийная система существует только при двух партиях",
+            "en": "A party system exists only when there are two parties",
+            "kk": "Партиялық жүйе тек екі партия болғанда ғана бар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Все системы с несколькими партиями одинаково демократичны",
+            "en": "All multiparty systems are equally democratic",
+            "kk": "Бірнеше партиясы бар барлық жүйелер бірдей демократиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 226,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Классификация партийных систем по идеологической дистанции между партиями связана с...",
+        "en": "The classification of party systems by the ideological distance between parties is associated with...",
+        "kk": "Партиялардың арасындағы идеологиялық қашықтық бойынша партиялық жүйелерді жіктеу кіммен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1623",
+          "units": [
+            "p1623"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Алексисом Токвилем",
+            "en": "Alexis de Tocqueville",
+            "kk": "Алексис Токвиль"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Максом Вебером",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Джованни Сартори",
+            "en": "Giovanni Sartori",
+            "kk": "Джованни Сартори"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Робертом Михельсом",
+            "en": "Robert Michels",
+            "kk": "Роберт Михельс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Морисом Дюверже",
+            "en": "Maurice Duverger",
+            "kk": "Морис Дюверже"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 227,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "На формирование партийной системы влияют:",
+        "en": "Factors that influence the formation of a party system:",
+        "kk": "Партиялық жүйенің қалыптасуына әсер ететін факторлар:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1624-1626",
+          "units": [
+            "p1624",
+            "p1625",
+            "p1626"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Избирательное законодательство",
+            "en": "Electoral legislation",
+            "kk": "Сайлау заңнамасы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социокультурные традиции",
+            "en": "Sociocultural traditions",
+            "kk": "Әлеуметтік-мәдени дәстүрлер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социальная структура",
+            "en": "Social structure",
+            "kk": "Әлеуметтік құрылым"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только численность партий независимо от правил доступа к мандатам",
+            "en": "Only the number of parties, regardless of the rules of access to seats",
+            "kk": "Мандаттарға қолжетімділік ережелеріне қарамастан тек партиялар саны"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только формальные названия партий независимо от социальных расколов",
+            "en": "Only the formal names of parties, regardless of social cleavages",
+            "kk": "Әлеуметтік жіктелістерге қарамастан тек партиялардың ресми атаулары"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "id": 228,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Партия пересматривает средства и коалиции с учётом практической достижимости целей. Какой стиль преобладает?",
+        "en": "A party reconsiders its means and coalitions in light of the practical attainability of its goals. Which style predominates?",
+        "kk": "Партия мақсаттарға іс жүзінде қол жеткізу мүмкіндігін ескеріп, құралдар мен коалицияларды қайта қарайды. Қандай стиль басым?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1613",
+          "units": [
+            "p1613"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1606-1607",
+          "units": [
+            "p1606",
+            "p1607"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Мессианский",
+            "en": "Messianic",
+            "kk": "Мессиандық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ритуальный",
+            "en": "Ritualistic",
+            "kk": "Салттық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Харизматический",
+            "en": "Charismatic",
+            "kk": "Харизмалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Прагматический",
+            "en": "Pragmatic",
+            "kk": "Прагматикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Доктринальный",
+            "en": "Doctrinal",
+            "kk": "Доктриналық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 229,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Рост самостоятельной власти партийного аппарата по отношению к рядовым членам выражает тенденцию...",
+        "en": "The growth of the independent power of the party apparatus in relation to rank-and-file members expresses the tendency toward...",
+        "kk": "Партия аппаратының қатардағы мүшелерге қатысты дербес билігінің өсуі қандай үрдісті білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1632",
+          "units": [
+            "p1632"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отмирания организации",
+            "en": "The withering away of the organization",
+            "kk": "Ұйымның жойылуын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Децентрализации суверенитета",
+            "en": "The decentralization of sovereignty",
+            "kk": "Егемендіктің орталықсыздануын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Расширения прямого народовластия",
+            "en": "The expansion of direct popular rule",
+            "kk": "Тікелей халық билігінің кеңеюін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Бюрократизации партии",
+            "en": "The bureaucratization of the party",
+            "kk": "Партияның бюрократияландырылуын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Исчезновения политического лидерства",
+            "en": "The disappearance of political leadership",
+            "kk": "Саяси көшбасшылықтың жоғалуын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 230,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Партия стремится расширить поддержку за пределами устойчивой социальной базы и строит работу вокруг выборов. Это признак её превращения в...",
+        "en": "A party seeks to broaden its support beyond a stable social base and builds its work around elections. This is a sign of its transformation into...",
+        "kk": "Партия тұрақты әлеуметтік базадан тыс қолдауды кеңейтуге ұмтылады және жұмысын сайлау төңірегінде құрады. Бұл оның қандай партияға айналуының белгісі?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1633",
+          "units": [
+            "p1633"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Одноцелевую ассоциацию",
+            "en": "A single-issue association",
+            "kk": "Бір мақсатты бірлестікке"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сословную корпорацию",
+            "en": "An estate corporation",
+            "kk": "Таптық корпорацияға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Электоральную партию",
+            "en": "An electoral party",
+            "kk": "Сайлаулық партияға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Родоплеменное объединение",
+            "en": "A tribal association",
+            "kk": "Рулық-тайпалық бірлестікке"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Подпольную группу",
+            "en": "An underground group",
+            "kk": "Астыртын топқа"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 231,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Процесс формирования и развития политических партий обозначается термином...",
+        "en": "The process of the formation and development of political parties is denoted by the term...",
+        "kk": "Саяси партиялардың қалыптасуы мен даму үдерісі қандай терминмен белгіленеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1590",
+          "units": [
+            "p1590"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социогенез",
+            "en": "Sociogenesis",
+            "kk": "Социогенез"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Антропогенез",
+            "en": "Anthropogenesis",
+            "kk": "Антропогенез"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Политогенез",
+            "en": "Politogenesis",
+            "kk": "Политогенез"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Этногенез",
+            "en": "Ethnogenesis",
+            "kk": "Этногенез"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Партогенез",
+            "en": "Partogenesis",
+            "kk": "Партогенез"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 232,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Должностные лица, получившие государственные посты в силу принадлежности к партии, образуют какой элемент её структуры?",
+        "en": "Officials who have obtained state posts by virtue of belonging to a party make up which element of its structure?",
+        "kk": "Партияға жататындығына байланысты мемлекеттік қызметтер алған лауазымды тұлғалар оның құрылымының қандай элементін құрайды?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 661-666",
+          "units": [
+            "p661",
+            "p662",
+            "p663",
+            "p664",
+            "p665",
+            "p666"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Партийный аппарат как внутренний руководящий орган",
+            "en": "The party apparatus as an internal governing body",
+            "kk": "Партия аппараты ішкі басшы орган ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рядовое партийное членство",
+            "en": "The rank-and-file party membership",
+            "kk": "Қатардағы партиялық мүшелік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Внешнюю группу политической поддержки",
+            "en": "An external group of political supporters",
+            "kk": "Саяси қолдаудың сыртқы тобы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Партию в системе властных органов",
+            "en": "The party in government",
+            "kk": "Билік органдары жүйесіндегі партия"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Массовую электоральную базу",
+            "en": "The mass electoral base",
+            "kk": "Бұқаралық сайлау базасы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 233,
+      "topic_id": 10,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие утверждения о партиях и группах интересов верны?",
+        "en": "Which statements about parties and interest groups are correct?",
+        "kk": "Партиялар мен мүдде топтары туралы қандай тұжырымдар дұрыс?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1578",
+          "units": [
+            "p1578"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1595",
+          "units": [
+            "p1595"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Получение депутатских мандатов исчерпывает посредническую роль партии",
+            "en": "Winning parliamentary seats exhausts the intermediary role of a party",
+            "kk": "Депутаттық мандаттарды алу партияның делдалдық рөлін толық қамтиды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Влияние на конкретный законопроект достаточно для признания объединения партией",
+            "en": "Influencing a particular bill is sufficient for an association to be recognized as a party",
+            "kk": "Нақты заң жобасына ықпал ету бірлестікті партия деп тану үшін жеткілікті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Экспертное участие группы интересов означает осуществление ею государственной компетенции",
+            "en": "Expert participation by an interest group means that it exercises state competence",
+            "kk": "Мүдде тобының сараптамалық қатысуы оның мемлекеттік құзыретті жүзеге асыруын білдіреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Воздействие на решение не тождественно непосредственному осуществлению власти",
+            "en": "Influencing a decision is not the same as directly exercising power",
+            "kk": "Шешімге ықпал ету биліктің тікелей жүзеге асырылуымен бірдей емес"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обе могут посредничать между гражданами и властью",
+            "en": "Both can mediate between citizens and the authorities",
+            "kk": "Екеуі де азаматтар мен билік арасында делдал бола алады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 234,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Несколько партий зарегистрированы, но доступ к правительству для соперников правящей группы фактически закрыт. Что следует проверить прежде всего?",
+        "en": "Several parties are registered, but access to government is in practice closed to the rivals of the ruling group. What should be examined first?",
+        "kk": "Бірнеше партия тіркелген, бірақ билеуші топтың қарсыластарына үкіметке қолжетімділік іс жүзінде жабық. Ең алдымен нені тексеру керек?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1621-1623",
+          "units": [
+            "p1621",
+            "p1622",
+            "p1623"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Реальную состязательность межпартийных отношений",
+            "en": "The real competitiveness of inter-party relations",
+            "kk": "Партияаралық қатынастардың нақты бәсекелестігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только размер территории государства",
+            "en": "Only the size of the state's territory",
+            "kk": "Тек мемлекет аумағының көлемін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключительно возраст партийных руководителей",
+            "en": "Exclusively the age of the party leaders",
+            "kk": "Тек партия басшыларының жасын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только число партийных эмблем",
+            "en": "Only the number of party emblems",
+            "kk": "Тек партиялық эмблемалар санын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только число участников партийных съездов",
+            "en": "Only the number of participants at party congresses",
+            "kk": "Тек партиялық съездер қатысушыларының санын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 235,
+      "topic_id": 10,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия типа партии и организационного признака.",
+        "en": "Indicate the correct correspondences between a type of party and an organizational feature.",
+        "kk": "Партия типі мен ұйымдастырушылық белгі арасындағы дұрыс сәйкестіктерді көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 1615-1617",
+          "units": [
+            "p1615",
+            "p1616",
+            "p1617"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Строго централизованная: жёсткая идеологическая иерархия",
+            "en": "Strictly centralized: a rigid ideological hierarchy",
+            "kk": "Қатаң орталықтандырылған: қатаң идеологиялық иерархия"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Кадровая: регулярное уставное членство как основа организационной структуры",
+            "en": "Cadre: regular statutory membership as the basis of the organizational structure",
+            "kk": "Кадрлық: ұйымдық құрылымның негізі ретінде тұрақты жарғылық мүшелік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Массовая: уставное членство и устойчивая организация",
+            "en": "Mass: statutory membership and a stable organization",
+            "kk": "Бұқаралық: жарғылық мүшелік және тұрақты ұйымдасу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Кадровая: комитет влиятельных политиков",
+            "en": "Cadre: a committee of influential politicians",
+            "kk": "Кадрлық: ықпалды саясаткерлер комитеті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Массовая: комитет элит с преимущественной активностью в период выборов",
+            "en": "Mass: a committee of elites that is active mainly during elections",
+            "kk": "Бұқаралық: негізінен сайлау кезеңінде белсенді элиталар комитеті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ]
+    }
+  ]
+}

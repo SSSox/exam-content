@@ -1,0 +1,358 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 2,
+  "topic_name": "The Main Stages in the Formation and Development of Political Science",
+  "questions": {
+    "21": {
+      "question": "In Socrates' classification, power based on the will of the people and on the laws of the state is called...",
+      "options": {
+        "A": "Aristocracy",
+        "B": "Kingship",
+        "C": "Timocracy",
+        "D": "Polity",
+        "E": "Plutocracy"
+      }
+    },
+    "22": {
+      "question": "Socrates criticized the appointment of officials by lot because...",
+      "options": {
+        "A": "Lot eliminates citizens' participation in government",
+        "B": "Lot implies the unconditional rule of philosophers",
+        "C": "Lot makes office hereditary",
+        "D": "Lot does not ensure the selection of competent administrators",
+        "E": "Lot hands power exclusively to the wealthy"
+      }
+    },
+    "23": {
+      "question": "Specify the works of Plato.",
+      "options": {
+        "A": "Laws",
+        "B": "On Kingship",
+        "C": "The Constitution of the Athenians",
+        "D": "Statesman",
+        "E": "Republic"
+      }
+    },
+    "24": {
+      "question": "Which link between the division of social functions and rule is expressed in Plato's project?",
+      "options": {
+        "A": "Government is entrusted to philosophers as the bearers of wisdom",
+        "B": "All estates in turn receive identical offices",
+        "C": "Government is handed to the producers as the owners of property",
+        "D": "Political powers are distributed by lot",
+        "E": "The military function gives the guardians the exclusive right to make laws"
+      }
+    },
+    "25": {
+      "question": "Plato assigned the direct defenders of the state...",
+      "options": {
+        "A": "To the people's commissars",
+        "B": "To the artisans",
+        "C": "To the farmers",
+        "D": "To the philosophers",
+        "E": "To the guardians"
+      }
+    },
+    "26": {
+      "question": "Speaking of political degeneration, Plato emphasized that...",
+      "options": {
+        "A": "Unbridled democracy turns into tyranny",
+        "B": "Aristocracy inevitably turns into polity",
+        "C": "Tyranny directly gives rise to the kingship of philosophers",
+        "D": "Timocracy restores the community of property of all citizens",
+        "E": "Oligarchy eliminates the possibility of democracy"
+      }
+    },
+    "27": {
+      "question": "The idea of the rule of law over rulers was developed by Plato in the work...",
+      "options": {
+        "A": "The Republic",
+        "B": "Leviathan",
+        "C": "Laws",
+        "D": "The Spirit of the Laws",
+        "E": "Politics"
+      }
+    },
+    "28": {
+      "question": "In the strictly political sense, Aristotle recognized as a citizen...",
+      "options": {
+        "A": "Any person subject to the laws of the polis",
+        "B": "A participant in legislative and judicial activity",
+        "C": "The head of every household regardless of status",
+        "D": "Any free participant in commodity exchange",
+        "E": "Any permanent resident of the territory of the polis"
+      }
+    },
+    "29": {
+      "question": "Aristotle linked the stability of a political order with the predominance of...",
+      "options": {
+        "A": "The middle strata",
+        "B": "The propertyless majority",
+        "C": "The military estate",
+        "D": "Large property owners",
+        "E": "The professional priesthood"
+      }
+    },
+    "30": {
+      "question": "Aristotle regarded as the correct rule of the majority for the sake of the common good...",
+      "options": {
+        "A": "Democracy",
+        "B": "Polity",
+        "C": "Oligarchy",
+        "D": "Plutocracy",
+        "E": "Timocracy"
+      }
+    },
+    "31": {
+      "question": "A few wealthy people rule for their own benefit. How is this form defined in Aristotle's classification?",
+      "options": {
+        "A": "Aristocracy",
+        "B": "Timocracy",
+        "C": "Polity",
+        "D": "Democracy",
+        "E": "Oligarchy"
+      }
+    },
+    "32": {
+      "question": "Correct forms of government in Aristotle's classification:",
+      "options": {
+        "A": "Monarchy",
+        "B": "Timocracy",
+        "C": "Polity",
+        "D": "Aristocracy",
+        "E": "Democracy"
+      }
+    },
+    "33": {
+      "question": "The work that belongs to Aristotle is...",
+      "options": {
+        "A": "On the Laws",
+        "B": "The City of God",
+        "C": "Statesman",
+        "D": "The Constitution of the Athenians",
+        "E": "Six Books of the Commonwealth"
+      }
+    },
+    "34": {
+      "question": "Cicero saw the advantage of a mixed constitution in...",
+      "options": {
+        "A": "The combination of the merits of different forms and the distribution of powers",
+        "B": "The elimination of the aristocratic element from government",
+        "C": "The transfer of all power to the popular assembly",
+        "D": "The rejection of the binding force of laws for magistrates",
+        "E": "The hereditary entrenchment of all public offices"
+      }
+    },
+    "35": {
+      "question": "The author of the treatise \"The City of God\" is...",
+      "options": {
+        "A": "Thomas Aquinas",
+        "B": "Erasmus of Rotterdam",
+        "C": "Jean Bodin",
+        "D": "Augustine of Hippo",
+        "E": "Marsilius of Padua"
+      }
+    },
+    "36": {
+      "question": "The course of history in Augustine's political doctrine is explained by...",
+      "options": {
+        "A": "The social contract",
+        "B": "Divine providence",
+        "C": "The separation of powers",
+        "D": "The cycle of forms of government",
+        "E": "Material production"
+      }
+    },
+    "37": {
+      "question": "The work \"On Kingship\" belongs to...",
+      "options": {
+        "A": "Thomas Aquinas",
+        "B": "Tommaso Campanella",
+        "C": "Niccolò Machiavelli",
+        "D": "Thomas More",
+        "E": "Augustine of Hippo"
+      }
+    },
+    "38": {
+      "question": "In the teaching of Thomas Aquinas, resistance to secular authority is permitted in the event of...",
+      "options": {
+        "A": "The monarch's refusal to introduce direct democracy",
+        "B": "Any increase in property inequality",
+        "C": "Actions of the authorities contrary to the divine order",
+        "D": "The hereditary manner of succession to the throne",
+        "E": "The ruler's unpopularity among the merchants"
+      }
+    },
+    "39": {
+      "question": "Specify the works of Niccolò Machiavelli.",
+      "options": {
+        "A": "Discourses on Livy",
+        "B": "The Prince",
+        "C": "Reflections on the Revolution in France",
+        "D": "Political Treatise",
+        "E": "Six Books of the Commonwealth"
+      }
+    },
+    "40": {
+      "question": "Machiavelli, a republican, allowed strong monarchical power in the Italy of his time because...",
+      "options": {
+        "A": "He derived hereditary monarchy from divine right",
+        "B": "He considered a republic permissible only for colonies",
+        "C": "It could secure the initial unification of the state",
+        "D": "He regarded fragmentation as a condition of freedom",
+        "E": "He denied the importance of the nation-state"
+      }
+    },
+    "41": {
+      "question": "In Machiavelli's reasoning, the political justification of extraordinary means is provided by...",
+      "options": {
+        "A": "Preserving and strengthening the common affairs of the state",
+        "B": "The unconditional expansion of the nobility's privileges",
+        "C": "The universal subordination of the state to the church",
+        "D": "The ruler's personal enrichment",
+        "E": "The elimination of any social conflict"
+      }
+    },
+    "42": {
+      "question": "The systematic concept of sovereignty in the \"Six Books of the Commonwealth\" belongs to...",
+      "options": {
+        "A": "Hugo Grotius",
+        "B": "Jean Bodin",
+        "C": "John Locke",
+        "D": "Baruch Spinoza",
+        "E": "Thomas Hobbes"
+      }
+    },
+    "43": {
+      "question": "Properties of sovereignty according to Jean Bodin:",
+      "options": {
+        "A": "The distribution of supreme power among independent centers",
+        "B": "The dependence of the sovereign's powers on the subjects' repeated consent",
+        "C": "The right of each estate to retain its own supremacy",
+        "D": "Indivisibility",
+        "E": "Perpetuity"
+      }
+    },
+    "44": {
+      "question": "The author of \"The City of the Sun\" is...",
+      "options": {
+        "A": "Thomas Müntzer",
+        "B": "Hugo Grotius",
+        "C": "Tommaso Campanella",
+        "D": "Thomas More",
+        "E": "Erasmus of Rotterdam"
+      }
+    },
+    "45": {
+      "question": "Thomas More described an ideal island social order in the work...",
+      "options": {
+        "A": "Political Treatise",
+        "B": "The City of the Sun",
+        "C": "Utopia",
+        "D": "On the Citizen",
+        "E": "New Atlantis"
+      }
+    },
+    "46": {
+      "question": "Hugo Grotius derived natural law...",
+      "options": {
+        "A": "From the results of a popular vote",
+        "B": "From the custom of the ruling estate",
+        "C": "From the exclusive will of the monarch",
+        "D": "From the international recognition of the state",
+        "E": "From reason and human nature"
+      }
+    },
+    "47": {
+      "question": "The author of \"Leviathan\" is...",
+      "options": {
+        "A": "Jean-Jacques Rousseau",
+        "B": "Baruch Spinoza",
+        "C": "Thomas Hobbes",
+        "D": "John Locke",
+        "E": "Jean Bodin"
+      }
+    },
+    "48": {
+      "question": "How are the contract and sovereign power related in Hobbes?",
+      "options": {
+        "A": "The contract establishes a strong power to put an end to universal enmity",
+        "B": "The contract establishes mandatory election of all judges",
+        "C": "The contract preserves the independent private armies of the subjects",
+        "D": "The contract makes the sovereign an executor of private commissions",
+        "E": "The contract removes the need for coercion"
+      }
+    },
+    "49": {
+      "question": "Among the limitations of state power emphasized by Spinoza is...",
+      "options": {
+        "A": "Recognition of fear as the sole basis of obedience",
+        "B": "The mandatory subordination of the state to the clergy",
+        "C": "The impermissibility of infringing on freedom of conscience",
+        "D": "A ban on democratic participation by citizens",
+        "E": "The rejection of a rational justification of laws"
+      }
+    },
+    "50": {
+      "question": "Name the natural rights that John Locke singled out in particular.",
+      "options": {
+        "A": "To participate in the government of the state",
+        "B": "To life",
+        "C": "To an equal distribution of public property",
+        "D": "To property",
+        "E": "To liberty"
+      }
+    },
+    "51": {
+      "question": "How does Locke's scheme of the separation of powers differ from Montesquieu's later scheme?",
+      "options": {
+        "A": "A ban on popular representation",
+        "B": "The merging of legislative power with executive power",
+        "C": "The identification of a federative power in charge of foreign relations",
+        "D": "The subordination of legislation to judicial precedent",
+        "E": "The identification of party power as a fourth branch"
+      }
+    },
+    "52": {
+      "question": "The author of \"The Spirit of the Laws\" is...",
+      "options": {
+        "A": "John Locke",
+        "B": "Charles-Louis de Montesquieu",
+        "C": "Hugo Grotius",
+        "D": "Jean-Jacques Rousseau",
+        "E": "Denis Diderot"
+      }
+    },
+    "53": {
+      "question": "What do Locke's and Montesquieu's justifications of the separation of powers have in common?",
+      "options": {
+        "A": "Limiting arbitrariness through the distribution of state powers",
+        "B": "Deriving power from the inalienable general will of the political whole",
+        "C": "Dividing supremacy among independent corporate estates",
+        "D": "The priority of a legislative assembly that also administers final justice",
+        "E": "Preserving rights by transferring all powers to a single sovereign"
+      }
+    },
+    "54": {
+      "question": "In Rousseau's concept, deputies of the people cannot finally replace the people in legislation because...",
+      "options": {
+        "A": "The contract transfers civil rights to a church organization",
+        "B": "The sovereign general will cannot be represented",
+        "C": "Popular sovereignty arises only after the abolition of the state",
+        "D": "The government has higher authority than the people",
+        "E": "Legislation belongs to the natural rights of the monarch"
+      }
+    },
+    "55": {
+      "question": "Correct correspondences between a thinker and the meaning of the social contract:",
+      "options": {
+        "A": "Rousseau: the formation of the whole under the guidance of the general will",
+        "B": "Hobbes: the end of the war of all against all",
+        "C": "Locke: the transfer of inalienable rights to the sovereign without the right of resistance",
+        "D": "Rousseau: recognition of deputies as the final exponents of the general will",
+        "E": "Locke: the protection of the natural rights that are retained"
+      }
+    }
+  }
+}

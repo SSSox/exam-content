@@ -1,0 +1,1721 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 241,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Индивидуальные особенности, связанные с успешностью выполнения деятельности, обозначаются как...",
+        "en": "Individual characteristics connected with the success of performing an activity are called...",
+        "kk": "Әрекеттің сәтті орындалуымен байланысты жеке ерекшеліктер қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Способности",
+            "en": "Abilities",
+            "kk": "Қабілет"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Задатки",
+            "en": "Predispositions",
+            "kk": "Бейімділік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Знания",
+            "en": "Knowledge",
+            "kk": "Білім"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Навыки",
+            "en": "Skills",
+            "kk": "Дағды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Умения",
+            "en": "Proficiencies",
+            "kk": "Білік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 31",
+          "units": [
+            "p31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Природную анатомо-физиологическую основу развития способностей составляют...",
+        "en": "The natural anatomical and physiological basis for the development of abilities is made up of...",
+        "kk": "Қабілеттердің дамуының табиғи анатомиялық-физиологиялық негізін не құрайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Убеждения",
+            "en": "Convictions",
+            "kk": "Сенімдер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Задатки",
+            "en": "Predispositions",
+            "kk": "Бейімділіктер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Навыки",
+            "en": "Skills",
+            "kk": "Дағдылар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Умения",
+            "en": "Proficiencies",
+            "kk": "Біліктер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Идеалы",
+            "en": "Ideals",
+            "kk": "Мұраттар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 35",
+          "units": [
+            "p35"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные положения о задатках:",
+        "en": "Correct statements about predispositions:",
+        "kk": "Бейімділіктер туралы дұрыс тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гарантируют высокий результат без обучения",
+            "en": "They guarantee a high result without training",
+            "kk": "Оқусыз жоғары нәтижеге кепілдік береді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Однозначно предписывают конкретную профессию",
+            "en": "They unambiguously prescribe a particular profession",
+            "kk": "Нақты кәсіпті біржақты белгілейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Могут стать основой разных способностей",
+            "en": "They can become the basis of different abilities",
+            "kk": "Әртүрлі қабілеттердің негізі бола алады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Служат предпосылками развития способностей",
+            "en": "They serve as prerequisites for the development of abilities",
+            "kk": "Қабілеттердің дамуына алғышарт болады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Тождественны готовым профессиональным навыкам",
+            "en": "They are identical to ready-made professional skills",
+            "kk": "Дайын кәсіби дағдылармен бірдей"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 35, 50, 53",
+          "units": [
+            "p35",
+            "p50",
+            "p53"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Один и тот же тонкий слух может развиваться в разных профессиональных направлениях. Это выражает...",
+        "en": "The same keen hearing can develop in different professional directions. This expresses...",
+        "kk": "Бірдей нәзік есту әртүрлі кәсіби бағытта дами алады. Бұл нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Неспецифичность задатков",
+            "en": "The non-specificity of predispositions",
+            "kk": "Бейімділіктердің спецификалық еместігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Независимость способностей от деятельности",
+            "en": "The independence of abilities from activity",
+            "kk": "Қабілеттердің әрекеттен тәуелсіздігін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключительно количественную природу одарённости",
+            "en": "The exclusively quantitative nature of giftedness",
+            "kk": "Дарындылықтың тек сандық табиғатын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Неизменность специальных способностей",
+            "en": "The unchangeability of special abilities",
+            "kk": "Арнайы қабілеттердің өзгермейтіндігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Тождество задатка и таланта",
+            "en": "The identity of a predisposition and a talent",
+            "kk": "Бейімділік пен таланттың бірдейлігін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 50, 53",
+          "units": [
+            "p50",
+            "p53"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как соотносятся способности и деятельность?",
+        "en": "How are abilities and activity related?",
+        "kk": "Қабілеттер мен әрекет қалай арақатынаста болады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Способности возникают независимо от требований деятельности",
+            "en": "Abilities arise independently of the demands of activity",
+            "kk": "Қабілеттер әрекет талаптарынан тәуелсіз пайда болады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Деятельность только выявляет неизменные врождённые способности",
+            "en": "Activity merely reveals unchangeable innate abilities",
+            "kk": "Әрекет тек өзгермейтін туа біткен қабілеттерді анықтайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Способности формируются и проявляются в деятельности",
+            "en": "Abilities are formed and manifested in activity",
+            "kk": "Қабілеттер әрекетте қалыптасады және көрінеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Специальная деятельность исключает общее развитие",
+            "en": "Specialized activity excludes general development",
+            "kk": "Арнайы әрекет жалпы дамуды жоққа шығарады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Повторение деятельности гарантирует любой уровень развития",
+            "en": "Repetition of an activity guarantees any level of development",
+            "kk": "Әрекетті қайталау кез келген даму деңгейіне кепілдік береді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 15, 17",
+          "units": [
+            "p15",
+            "p17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Возможности, пока не реализованные, но способные проявиться при изменении социальных условий, называются способностями...",
+        "en": "Possibilities that are not yet realized but can manifest themselves when social conditions change are called... abilities.",
+        "kk": "Әзірге жүзеге аспаған, бірақ әлеуметтік жағдайлар өзгергенде көріне алатын мүмкіндіктер қандай қабілеттер деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Потенциальными",
+            "en": "Potential",
+            "kk": "Потенциалды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Общими",
+            "en": "General",
+            "kk": "Жалпы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Актуальными",
+            "en": "Actual",
+            "kk": "Актуалды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Вспомогательными",
+            "en": "Auxiliary",
+            "kk": "Көмекші"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ведущими",
+            "en": "Leading",
+            "kk": "Жетекші"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 55",
+          "units": [
+            "p55"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "По степени реализации способность, необходимая сейчас и используемая в выполняемой деятельности, является...",
+        "en": "By degree of realization, an ability that is needed now and used in the activity being performed is...",
+        "kk": "Жүзеге асу дәрежесі бойынша қазір қажетті және орындалып жатқан әрекетте қолданылатын қабілет қандай қабілет болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вспомогательной",
+            "en": "Auxiliary",
+            "kk": "Көмекші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Специальной",
+            "en": "Special",
+            "kk": "Арнайы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ведущей",
+            "en": "Leading",
+            "kk": "Жетекші"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Актуальной",
+            "en": "Actual",
+            "kk": "Актуалды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Потенциальной",
+            "en": "Potential",
+            "kk": "Потенциалды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 55",
+          "units": [
+            "p55"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "topic_id": 12,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Обоснованные выводы о развитии способностей:",
+        "en": "Justified conclusions about the development of abilities:",
+        "kk": "Қабілеттердің дамуы туралы негізді қорытындылар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Изменение деятельности может открыть новые возможности",
+            "en": "A change of activity can open new possibilities",
+            "kk": "Әрекеттің өзгеруі жаңа мүмкіндіктерді аша алады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отсутствие проявления доказывает отсутствие потенциала",
+            "en": "The absence of manifestation proves the absence of potential",
+            "kk": "Көріністің болмауы әлеуеттің жоқтығын дәлелдейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социальные условия могут способствовать актуализации",
+            "en": "Social conditions can promote actualization",
+            "kk": "Әлеуметтік жағдайлар актуализациялануға ықпал ете алады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Выраженный задаток не гарантирует развития способности",
+            "en": "A pronounced predisposition does not guarantee the development of an ability",
+            "kk": "Айқын бейімділік қабілеттің дамуына кепілдік бермейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Развитие завершается формированием анализаторов",
+            "en": "Development ends with the formation of the analyzers",
+            "kk": "Даму анализаторлардың қалыптасуымен аяқталады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 50, 51, 55, 56",
+          "units": [
+            "p50",
+            "p51",
+            "p55",
+            "p56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "По широте применимости наблюдательность, полезная писателю, врачу и исследователю, относится к способностям...",
+        "en": "By breadth of applicability, powers of observation, useful to a writer, a physician and a researcher, belong to... abilities.",
+        "kk": "Қолданылу ауқымы бойынша жазушыға, дәрігерге және зерттеушіге пайдалы бақылағыштық қандай қабілеттерге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Специальным",
+            "en": "Special",
+            "kk": "Арнайы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Общим",
+            "en": "General",
+            "kk": "Жалпы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ведущим",
+            "en": "Leading",
+            "kk": "Жетекші"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Потенциальным",
+            "en": "Potential",
+            "kk": "Потенциалды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Вспомогательным",
+            "en": "Auxiliary",
+            "kk": "Көмекші"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 58, 59, 60",
+          "units": [
+            "p58",
+            "p59",
+            "p60"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Специальные способности определяются прежде всего...",
+        "en": "Special abilities are determined primarily by...",
+        "kk": "Арнайы қабілеттер ең алдымен немен анықталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только общей скоростью реакций",
+            "en": "Only the overall speed of reactions",
+            "kk": "Тек реакциялардың жалпы жылдамдығымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Требованиями определённого вида деятельности",
+            "en": "The requirements of a particular kind of activity",
+            "kk": "Белгілі бір әрекет түрінің талаптарымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наличием любой сильной эмоции",
+            "en": "The presence of any strong emotion",
+            "kk": "Кез келген күшті эмоцияның болуымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Преобладанием одного телесного компонента",
+            "en": "The predominance of one bodily component",
+            "kk": "Дененің бір құрамдас бөлігінің басымдығымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только количеством усвоенных слов",
+            "en": "Only the number of words learned",
+            "kk": "Тек меңгерілген сөздер санымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 14, 58",
+          "units": [
+            "p14",
+            "p58"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одарённость понимается как своеобразное сочетание способностей, обеспечивающее...",
+        "en": "Giftedness is understood as a distinctive combination of abilities that provides...",
+        "kk": "Дарындылық нені қамтамасыз ететін қабілеттердің өзіндік үйлесімі ретінде түсініледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Возможность успешного выполнения деятельности",
+            "en": "The possibility of successfully performing an activity",
+            "kk": "Әрекетті сәтті орындау мүмкіндігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Полную замену знаний и навыков",
+            "en": "A complete replacement of knowledge and skills",
+            "kk": "Білім мен дағдыны толық алмастыруды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательное историческое открытие",
+            "en": "An obligatory historical discovery",
+            "kk": "Міндетті тарихи жаңалық ашуды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гарантию успеха независимо от подготовки",
+            "en": "A guarantee of success regardless of preparation",
+            "kk": "Дайындыққа қарамастан табысқа кепілдікті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наследование готовой профессии",
+            "en": "The inheritance of a ready-made profession",
+            "kk": "Дайын кәсіпті мұралап алуды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 63",
+          "units": [
+            "p63"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "topic_id": 12,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одарённый ученик не справляется с профессиональной задачей без подготовки. Какой вывод обоснован?",
+        "en": "A gifted student cannot cope with a professional task without preparation. Which conclusion is justified?",
+        "kk": "Дарынды оқушы дайындықсыз кәсіби міндетті орындай алмайды. Қандай қорытынды негізді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Успех определяется только общей одарённостью",
+            "en": "Success is determined only by general giftedness",
+            "kk": "Табыс тек жалпы дарындылықпен анықталады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Одарённость автоматически обеспечивает профессионализм",
+            "en": "Giftedness automatically ensures professionalism",
+            "kk": "Дарындылық кәсібилікті автоматты түрде қамтамасыз етеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Подготовка не влияет на реализацию способностей",
+            "en": "Preparation does not affect the realization of abilities",
+            "kk": "Дайындық қабілеттердің жүзеге асуына әсер етпейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Возможности требуют овладения знаниями и навыками",
+            "en": "Potential requires the mastery of knowledge and skills",
+            "kk": "Мүмкіндіктер білім мен дағдыны меңгеруді талап етеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Неудача доказывает отсутствие любых способностей",
+            "en": "Failure proves the absence of any abilities",
+            "kk": "Сәтсіздік кез келген қабілеттің жоқтығын дәлелдейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 63, 67, 69",
+          "units": [
+            "p63",
+            "p67",
+            "p69"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Общий фактор и специальные факторы в объяснении умственной одарённости выделял...",
+        "en": "A general factor and specific factors in the explanation of intellectual giftedness were identified by...",
+        "kk": "Ақыл-ой дарындылығын түсіндіруде жалпы фактор мен арнайы факторларды кім бөліп көрсетті?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ч. Спирмен",
+            "en": "C. Spearman",
+            "kk": "Ч. Спирмен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Д. Н. Узнадзе",
+            "en": "D. N. Uznadze",
+            "kk": "Д. Н. Узнадзе"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Т. Циген",
+            "en": "T. Ziehen",
+            "kk": "Т. Циген"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "К. Леонгард",
+            "en": "K. Leonhard",
+            "kk": "К. Леонгард"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Э. Кречмер",
+            "en": "E. Kretschmer",
+            "kk": "Э. Кречмер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 10, 11",
+          "units": [
+            "p10",
+            "p11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия исследователей и положений:",
+        "en": "Correct correspondences between researchers and their propositions:",
+        "kk": "Зерттеушілер мен тұжырымдардың дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Спирмен: общий и специальные факторы",
+            "en": "Spearman: a general factor and specific factors",
+            "kk": "Спирмен: жалпы және арнайы факторлар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Павлов: автор понятия интеллектуального коэффициента",
+            "en": "Pavlov: the author of the concept of the intelligence quotient",
+            "kk": "Павлов: интеллектуалдық коэффициент ұғымының авторы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кречмер: двухфакторная модель интеллекта",
+            "en": "Kretschmer: a two-factor model of intelligence",
+            "kk": "Кречмер: интеллекттің екі факторлы моделі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Циген: критика единой общей способности",
+            "en": "Ziehen: a critique of a single general ability",
+            "kk": "Циген: бірыңғай жалпы қабілет идеясын сынау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Штерн: соотношение умственного и хронологического возраста",
+            "en": "Stern: the ratio of mental age to chronological age",
+            "kk": "Штерн: ақыл-ой жасы мен хронологиялық жастың арақатынасы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 10, 11, 12",
+          "units": [
+            "p10",
+            "p11",
+            "p12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сознательную ориентацию мышления на новые требования в определении одарённости подчёркивал...",
+        "en": "The conscious orientation of thinking toward new demands in the definition of giftedness was emphasized by...",
+        "kk": "Дарындылықты анықтауда ойлаудың жаңа талаптарға саналы бағдарлануын кім атап көрсетті?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В. Штерн",
+            "en": "W. Stern",
+            "kk": "В. Штерн"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "У. Шелдон",
+            "en": "W. Sheldon",
+            "kk": "У. Шелдон"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "К. Левин",
+            "en": "K. Lewin",
+            "kk": "К. Левин"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ф. Галль",
+            "en": "F. Gall",
+            "kk": "Ф. Галль"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Э. Шостром",
+            "en": "E. Shostrom",
+            "kk": "Э. Шостром"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 2, 3",
+          "units": [
+            "p2",
+            "p3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Качественный анализ одарённости прежде всего отвечает на вопрос...",
+        "en": "A qualitative analysis of giftedness primarily answers the question...",
+        "kk": "Дарындылықты сапалық талдау ең алдымен қандай сұраққа жауап береді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "На каком единственном месте находится человек в рейтинге",
+            "en": "What single rank a person occupies in a ranking",
+            "kk": "Адам рейтингте қай жалғыз орында тұр"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Как исключить влияние условий развития",
+            "en": "How to exclude the influence of the conditions of development",
+            "kk": "Даму жағдайларының әсерін қалай жоюға болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Как устроено своеобразное сочетание способностей человека",
+            "en": "How a person's distinctive combination of abilities is structured",
+            "kk": "Адамның қабілеттерінің өзіндік үйлесімі қалай құрылған"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Какую профессию гарантирует его наследственность",
+            "en": "Which profession a person's heredity guarantees",
+            "kk": "Оның тұқым қуалаушылығы қандай кәсіпке кепілдік береді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сколько у человека врождённых профессиональных навыков",
+            "en": "How many innate professional skills a person has",
+            "kk": "Адамда туа біткен кәсіби дағдылар қанша"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 20, 21",
+          "units": [
+            "p20",
+            "p21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Высокий уровень специальных способностей, реализующийся в оригинальных общественно значимых продуктах, называется...",
+        "en": "A high level of special abilities that is realized in original, socially significant products is called...",
+        "kk": "Түпнұсқа, қоғамдық маңызы бар өнімдерде жүзеге асатын арнайы қабілеттердің жоғары деңгейі қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Задатком",
+            "en": "A predisposition",
+            "kk": "Бейімділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Актуальной сенсорной способностью",
+            "en": "An actual sensory ability",
+            "kk": "Актуалды сенсорлық қабілет"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Потенциальной одарённостью",
+            "en": "Potential giftedness",
+            "kk": "Потенциалды дарындылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Общей обученностью",
+            "en": "General educability",
+            "kk": "Жалпы оқылғыштық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Талантом",
+            "en": "Talent",
+            "kk": "Талант"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 22, 23, 76",
+          "units": [
+            "p22",
+            "p23",
+            "p76"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Творческие достижения, открывающие исторически новую эпоху в определённой области, характеризуют...",
+        "en": "Creative achievements that open a historically new epoch in a particular field characterize...",
+        "kk": "Белгілі бір салада тарихи жаңа дәуірді ашатын шығармашылық жетістіктер нені сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Талантливость",
+            "en": "Talent",
+            "kk": "Таланттылықты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Высокую общую обученность",
+            "en": "A high level of general educability",
+            "kk": "Жоғары жалпы оқылғыштықты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Специальную одарённость",
+            "en": "Special giftedness",
+            "kk": "Арнайы дарындылықты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гениальность",
+            "en": "Genius",
+            "kk": "Данышпандықты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Актуальную профессиональную способность",
+            "en": "An actual professional ability",
+            "kk": "Актуалды кәсіби қабілетті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 27, 28, 79",
+          "units": [
+            "p27",
+            "p28",
+            "p79"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "topic_id": 12,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные положения об одарённости и таланте.",
+        "en": "Indicate the correct statements about giftedness and talent.",
+        "kk": "Дарындылық пен талант туралы дұрыс тұжырымдарды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Талант предполагает сочетание способностей",
+            "en": "Talent presupposes a combination of abilities",
+            "kk": "Талант қабілеттердің үйлесімін көздейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Знания излишни при высокой одарённости",
+            "en": "Knowledge is superfluous given high giftedness",
+            "kk": "Жоғары дарындылық кезінде білімнің қажеті жоқ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Одарённость создаёт возможность, а не гарантию успеха",
+            "en": "Giftedness creates a possibility, not a guarantee of success",
+            "kk": "Дарындылық табысқа мүмкіндік жасайды, бірақ кепілдік бермейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Один изолированный навык всегда равен таланту",
+            "en": "A single isolated skill always equals talent",
+            "kk": "Бір оқшау дағды әрдайым таланттың өзі болып табылады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Социальная должность автоматически делает человека гением",
+            "en": "A social position automatically makes a person a genius",
+            "kk": "Әлеуметтік лауазым адамды автоматты түрде данышпан етеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 63, 77, 79",
+          "units": [
+            "p63",
+            "p77",
+            "p79"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "По значимости для деятельности компоненты способности, занимающие центральное положение в её выполнении, называются...",
+        "en": "By their importance for an activity, the components of an ability that occupy the central place in performing it are called...",
+        "kk": "Әрекет үшін маңыздылығы бойынша қабілеттің оны орындауда орталық орын алатын құраушылары қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ведущими",
+            "en": "Leading",
+            "kk": "Жетекші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Общими",
+            "en": "General",
+            "kk": "Жалпы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Актуальными",
+            "en": "Actual",
+            "kk": "Актуалды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Вспомогательными",
+            "en": "Auxiliary",
+            "kk": "Көмекші"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Потенциальными",
+            "en": "Potential",
+            "kk": "Потенциалды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 71, 72",
+          "units": [
+            "p71",
+            "p72"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "О наличии таланта обоснованнее судить прежде всего по...",
+        "en": "The presence of talent is most justifiably judged primarily by...",
+        "kk": "Таланттың бар екендігі туралы ең алдымен нені негізге алу дұрысырақ?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только внешним особенностям телосложения",
+            "en": "Only external features of body build",
+            "kk": "Тек дене бітімінің сыртқы ерекшеліктерін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Раннему присвоению почётного статуса",
+            "en": "The early award of an honorary status",
+            "kk": "Құрметті мәртебенің ерте берілуін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Одному высокому показателю памяти",
+            "en": "A single high memory score",
+            "kk": "Естің бір жоғары көрсеткішін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Результатам самостоятельной оригинальной деятельности",
+            "en": "The results of independent, original activity",
+            "kk": "Өз бетінше орындалған түпнұсқа әрекеттің нәтижелерін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Любому сильному профессиональному интересу",
+            "en": "Any strong professional interest",
+            "kk": "Кез келген күшті кәсіби қызығушылықты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 24, 25, 26",
+          "units": [
+            "p24",
+            "p25",
+            "p26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Двенадцатимерную модель свойств нервной системы, включающую первичные и вторичные свойства, предложил...",
+        "en": "The twelve-dimensional model of properties of the nervous system, including primary and secondary properties, was proposed by...",
+        "kk": "Жүйке жүйесі қасиеттерінің алғашқы және екінші қатарлы қасиеттерді қамтитын он екі өлшемді моделін кім ұсынды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Г. Айзенк",
+            "en": "H. Eysenck",
+            "kk": "Г. Айзенк"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В. Д. Небылицын",
+            "en": "V. D. Nebylitsyn",
+            "kk": "В. Д. Небылицын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "А. Бине",
+            "en": "A. Binet",
+            "kk": "А. Бине"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ч. Спирмен",
+            "en": "C. Spearman",
+            "kk": "Ч. Спирмен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "К. К. Платонов",
+            "en": "K. K. Platonov",
+            "kk": "К. К. Платонов"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 41",
+          "units": [
+            "p41"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "По уровню распространения свойства отдельного анализатора, а не всей нервной системы, называются...",
+        "en": "By level of generality, properties of an individual analyzer, rather than of the whole nervous system, are called...",
+        "kk": "Таралу деңгейі бойынша тұтас жүйке жүйесінің емес, жеке анализатордың қасиеттері қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Парциальными",
+            "en": "Partial",
+            "kk": "Парциалды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Общими",
+            "en": "General",
+            "kk": "Жалпы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Первичными",
+            "en": "Primary",
+            "kk": "Алғашқы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Динамическими",
+            "en": "Dynamic",
+            "kk": "Динамикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Вторичными",
+            "en": "Secondary",
+            "kk": "Екінші қатарлы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 40, 42",
+          "units": [
+            "p40",
+            "p42"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "При оценке одарённости следует учитывать:",
+        "en": "When assessing giftedness, one should take into account:",
+        "kk": "Дарындылықты бағалау кезінде мыналарды ескеру керек:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Работу над совершенствованием способностей",
+            "en": "Work on improving abilities",
+            "kk": "Қабілеттерді жетілдіру бойынша жұмысты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только наличие природного задатка",
+            "en": "Only the presence of a natural predisposition",
+            "kk": "Тек табиғи бейімділіктің болуын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Требования конкретной деятельности",
+            "en": "The requirements of a specific activity",
+            "kk": "Нақты әрекеттің талаптарын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Полную независимость результата от обучения",
+            "en": "The complete independence of the result from instruction",
+            "kk": "Нәтиженің оқытудан толық тәуелсіздігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Условия развития личности",
+            "en": "The conditions of the person's development",
+            "kk": "Тұлғаның даму жағдайларын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 6, 7, 15, 67",
+          "units": [
+            "p6",
+            "p7",
+            "p15",
+            "p67"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему оценка одной способности недостаточна для прогноза профессионального успеха?",
+        "en": "Why is the assessment of a single ability insufficient for predicting professional success?",
+        "kk": "Неге бір қабілетті бағалау кәсіби табысты болжау үшін жеткіліксіз?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Одна способность не связана ни с какой деятельностью",
+            "en": "A single ability is not related to any activity",
+            "kk": "Бір қабілет ешқандай әрекетпен байланыспайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Все способности развиваются строго одинаково",
+            "en": "All abilities develop in strictly the same way",
+            "kk": "Барлық қабілеттер қатаң бірдей дамиды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Общие способности заменяют специальные требования",
+            "en": "General abilities replace special requirements",
+            "kk": "Жалпы қабілеттер арнайы талаптарды алмастырады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Результат зависит от сочетания компонентов и подготовки",
+            "en": "The result depends on the combination of components and on preparation",
+            "kk": "Нәтиже құрамдастардың үйлесімі мен дайындыққа байланысты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Любой успех полностью предопределён возрастом",
+            "en": "Any success is entirely predetermined by age",
+            "kk": "Кез келген табыс жаспен толық алдын ала белгіленген"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L12",
+          "file": "Лекции/Лекция 12.docx",
+          "location": "Абзацы 17, 63, 71",
+          "units": [
+            "p17",
+            "p63",
+            "p71"
+          ]
+        }
+      ]
+    }
+  ]
+}

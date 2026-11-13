@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 6,
+  "topic_name": "Memory: processes, types and theories",
+  "questions": {
+    "106": {
+      "question": "A sensory image of an object that was perceived earlier and is now absent is called...",
+      "options": {
+        "A": "A sensation",
+        "B": "A perceptual image",
+        "C": "A concept",
+        "D": "A mental representation",
+        "E": "A judgment"
+      }
+    },
+    "107": {
+      "question": "Correct bases for classifying types of memory:",
+      "options": {
+        "A": "The degree of group cohesion",
+        "B": "The type of interpersonal conflict",
+        "C": "The nature of the goals of activity",
+        "D": "The duration of information retention",
+        "E": "The nature of mental activity"
+      }
+    },
+    "108": {
+      "question": "Which property distinguishes sensory memory from short-term memory?",
+      "options": {
+        "A": "Conscious recollection of life events",
+        "B": "Systematic voluntary memorization",
+        "C": "Long-term storage of professional knowledge",
+        "D": "Obligatory semantic categorization of material",
+        "E": "A link with the inertial persistence of a sensory trace"
+      }
+    },
+    "109": {
+      "question": "A person cannot quickly recall a surname they know. Which conclusion is justified?",
+      "options": {
+        "A": "A retrieval failure rules out recognition",
+        "B": "Long-term storage ensures instant access",
+        "C": "Failure of retrieval does not prove that storage has been lost",
+        "D": "Failure of retrieval proves that no trace exists",
+        "E": "The organization of material does not affect accessibility"
+      }
+    },
+    "110": {
+      "question": "Memory for the meanings of concepts and for the content of acquired knowledge is called... memory.",
+      "options": {
+        "A": "Episodic",
+        "B": "Motor",
+        "C": "Sensory",
+        "D": "Semantic",
+        "E": "Emotional"
+      }
+    },
+    "111": {
+      "question": "The recollection of one's own first day at university belongs mainly to... memory.",
+      "options": {
+        "A": "Motor",
+        "B": "Sensory",
+        "C": "Semantic",
+        "D": "Episodic",
+        "E": "Genetic"
+      }
+    },
+    "112": {
+      "question": "Correct correspondences between types of memory:",
+      "options": {
+        "A": "Semantic: exclusively muscular effort",
+        "B": "Verbal-logical: thoughts and semantic connections",
+        "C": "Imaginal: only hereditary programs",
+        "D": "Motor: a sequence of mastered movements",
+        "E": "Emotional: experienced states"
+      }
+    },
+    "113": {
+      "question": "Memorizing material by understanding the connections between its parts is... memorization.",
+      "options": {
+        "A": "Genetic",
+        "B": "Sensory",
+        "C": "Logical",
+        "D": "Rote (mechanical)",
+        "E": "Involuntary motor"
+      }
+    },
+    "114": {
+      "question": "Stored experience influences performance on a task although the person is not aware of retrieving it. This is a manifestation of... memory.",
+      "options": {
+        "A": "Implicit",
+        "B": "Voluntary episodic",
+        "C": "Explicit",
+        "D": "Reflective autobiographical",
+        "E": "Voluntary verbal-logical"
+      }
+    },
+    "115": {
+      "question": "A student sets himself the goal of learning terms in advance and uses special techniques. By the goal of activity, this is... memory.",
+      "options": {
+        "A": "Emotional",
+        "B": "Imaginal",
+        "C": "Implicit",
+        "D": "Voluntary",
+        "E": "Involuntary"
+      }
+    },
+    "116": {
+      "question": "The retrieval of past experience when the object itself is presented again is called...",
+      "options": {
+        "A": "Abstraction",
+        "B": "Generalization",
+        "C": "Recall",
+        "D": "Imagination",
+        "E": "Recognition"
+      }
+    },
+    "117": {
+      "question": "Identify the correct statements about memory processes.",
+      "options": {
+        "A": "Reproduction is possible without the object itself being presented",
+        "B": "Encoding begins only after forgetting",
+        "C": "Storage is identical to conscious recall",
+        "D": "Forgetting rules out any subsequent recognition",
+        "E": "Recognition presupposes the presence of the perceived object"
+      }
+    },
+    "118": {
+      "question": "Arranging concepts by levels of \"genus: species: subspecies\" implements... organization of memory.",
+      "options": {
+        "A": "Spatial",
+        "B": "Associative by contiguity",
+        "C": "Chronological",
+        "D": "Serial",
+        "E": "Hierarchical"
+      }
+    },
+    "119": {
+      "question": "Using a familiar route and landmark places for memorization implements... organization.",
+      "options": {
+        "A": "Chronological",
+        "B": "Spatial",
+        "C": "Associative by similarity",
+        "D": "Hierarchical",
+        "E": "Generic categorical"
+      }
+    },
+    "120": {
+      "question": "Nonsense syllables in H. Ebbinghaus's experiments made it possible primarily to...",
+      "options": {
+        "A": "Reduce the influence of earlier semantic connections",
+        "B": "Replace memorization with a recognition procedure",
+        "C": "Test only the understanding of connected text",
+        "D": "Investigate exclusively motor memory",
+        "E": "Strengthen the influence of autobiographical memories"
+      }
+    },
+    "121": {
+      "question": "Which limitation of explaining memory solely through associations is revealed by the advantage of meaningful text?",
+      "options": {
+        "A": "The impossibility of studying forgetting experimentally",
+        "B": "The exclusively hereditary nature of memorization",
+        "C": "Insufficient account of content-based organization and of the activity of the subject",
+        "D": "The complete independence of memory from past experience",
+        "E": "The absence of a link between repetition and retention"
+      }
+    },
+    "122": {
+      "question": "The better memory for interrupted tasks in classic studies is known as the... effect.",
+      "options": {
+        "A": "Interference",
+        "B": "Recency",
+        "C": "Plateau",
+        "D": "Zeigarnik",
+        "E": "Reminiscence"
+      }
+    },
+    "123": {
+      "question": "Statements that reflect the Gestalt approach to memory:",
+      "options": {
+        "A": "The meaning of material is entirely reducible to the number of repetitions",
+        "B": "The incompleteness of an action is of no importance",
+        "C": "The organization of material influences memorization",
+        "D": "Each element is stored independently of structure",
+        "E": "The whole is determined by the interdependence of its parts"
+      }
+    },
+    "124": {
+      "question": "The role of semantic content in memorization was especially emphasized by...",
+      "options": {
+        "A": "H. Helmholtz and J. Gibson",
+        "B": "A. Binet and K. Bühler",
+        "C": "W. Sheldon and E. Kretschmer",
+        "D": "K. Thomas and R. Kilmann",
+        "E": "D. Broadbent and A. Treisman"
+      }
+    },
+    "125": {
+      "question": "The study of memory in connection with the motives, goals and operations of activity belongs to the... approach.",
+      "options": {
+        "A": "Associative",
+        "B": "Information-cybernetic",
+        "C": "Activity-based",
+        "D": "Gestalt",
+        "E": "Psychoanalytic"
+      }
+    },
+    "126": {
+      "question": "Pavlov's explanation of the physiological act of memorization rests on...",
+      "options": {
+        "A": "The combining of material into a holistic gestalt",
+        "B": "The formation of a temporary neural connection",
+        "C": "The organization of acts of memorization",
+        "D": "Two-stage biochemical fixation",
+        "E": "The rearrangement of protein molecules"
+      }
+    },
+    "127": {
+      "question": "In the behaviorist explanation of the consolidation of material, special importance is attached to...",
+      "options": {
+        "A": "Wholeness and structural reorganization",
+        "B": "Repression and defense processes",
+        "C": "Practice and reinforcement",
+        "D": "The motivational structure of activity",
+        "E": "Comprehension and semantic organization"
+      }
+    },
+    "128": {
+      "question": "Conditions that can support the retention of information in long-term memory:",
+      "options": {
+        "A": "Meaningful work with the material",
+        "B": "Only the physical brightness of the stimulus",
+        "C": "Context and features of encoding",
+        "D": "Motivation to memorize",
+        "E": "Complete exclusion of semantic organization"
+      }
+    },
+    "129": {
+      "question": "Why can forgetting perform a useful function?",
+      "options": {
+        "A": "It makes the organization of experience unnecessary",
+        "B": "It frees us from an excess of detail and facilitates generalization",
+        "C": "It removes the need to repeat material",
+        "D": "It replaces storage with ready-made hereditary programs",
+        "E": "It guarantees the accuracy of all recollections"
+      }
+    },
+    "130": {
+      "question": "Restoring a disrupted sequence of stimuli in its original form characterizes... memory.",
+      "options": {
+        "A": "Sensory",
+        "B": "Genetic",
+        "C": "Reproductive",
+        "D": "Reconstructive",
+        "E": "Motor"
+      }
+    }
+  }
+}

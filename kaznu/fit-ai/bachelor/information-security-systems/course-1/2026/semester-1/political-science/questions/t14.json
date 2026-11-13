@@ -1,0 +1,1044 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 291,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Концепция позитивно-функционального конфликта связана с именем...",
+        "en": "The concept of positive-functional conflict is associated with the name of...",
+        "kk": "Позитивті-функционалдық қақтығыс тұжырымдамасы кімнің есімімен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 691",
+          "units": [
+            "p691"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кеннета Боулдинга",
+            "en": "Kenneth Boulding",
+            "kk": "Кеннет Боулдинг"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Льюиса Козера",
+            "en": "Lewis Coser",
+            "kk": "Льюис Козер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Дэвида Истона",
+            "en": "David Easton",
+            "kk": "Дэвид Истон"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мориса Дюверже",
+            "en": "Maurice Duverger",
+            "kk": "Морис Дюверже"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ральфа Дарендорфа",
+            "en": "Ralf Dahrendorf",
+            "kk": "Ральф Дарендорф"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 292,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой тезис наиболее точно выражает подход Дарендорфа к общественным конфликтам?",
+        "en": "Which thesis most accurately expresses Dahrendorf's approach to social conflicts?",
+        "kk": "Қандай тезис Дарендорфтың қоғамдық қақтығыстарға көзқарасын неғұрлым дәл білдіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 691",
+          "units": [
+            "p691"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только международные противоречия обладают политическим содержанием",
+            "en": "Only international contradictions have political content",
+            "kk": "Тек халықаралық қайшылықтардың ғана саяси мазмұны бар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Все конфликты сводятся к личной неприязни лидеров",
+            "en": "All conflicts boil down to the personal antipathy of leaders",
+            "kk": "Барлық қақтығыстар көшбасшылардың жеке жеккөрушілігіне келтіріледі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Общества различаются способами отношения к конфликтам, а не их полным отсутствием",
+            "en": "Societies differ in how they handle conflicts, not in their complete absence",
+            "kk": "Қоғамдар қақтығыстардың толық болмауымен емес, оларға қарым-қатынас тәсілдерімен ерекшеленеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устойчивое общество не содержит противоположных интересов",
+            "en": "A stable society contains no opposing interests",
+            "kk": "Тұрақты қоғамда қарама-қарсы мүдделер болмайды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Конфликт исчезает после любого юридического запрета",
+            "en": "Conflict disappears after any legal ban",
+            "kk": "Қақтығыс кез келген заңдық тыйымнан кейін жоғалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 293,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Общая теория, объясняющая конфликты через повторяющиеся модели их развития, связана с...",
+        "en": "A general theory that explains conflicts through recurring patterns of their development is associated with...",
+        "kk": "Қақтығыстарды олардың даму қайталанатын модельдері арқылы түсіндіретін жалпы теория кіммен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 691",
+          "units": [
+            "p691"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Робертом Далем",
+            "en": "Robert Dahl",
+            "kk": "Роберт Даль"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Иозефом Шумпетером",
+            "en": "Joseph Schumpeter",
+            "kk": "Йозеф Шумпетер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кеннетом Боулдингом",
+            "en": "Kenneth Boulding",
+            "kk": "Кеннет Боулдинг"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Габриэлем Алмондом",
+            "en": "Gabriel Almond",
+            "kk": "Габриэль Алмонд"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Льюисом Козером",
+            "en": "Lewis Coser",
+            "kk": "Льюис Козер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 294,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Возможные конструктивные последствия политического конфликта:",
+        "en": "Possible constructive consequences of a political conflict:",
+        "kk": "Саяси қақтығыстың мүмкін жасампаз салдарлары:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2048-2050",
+          "units": [
+            "p2048",
+            "p2049",
+            "p2050"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Стимулирование поиска решений",
+            "en": "Stimulating the search for solutions",
+            "kk": "Шешімдер іздеуді ынталандыру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обновление политических связей",
+            "en": "The renewal of political ties",
+            "kk": "Саяси байланыстарды жаңарту"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Превращение противоположных интересов в одинаковые без изменения отношений сторон",
+            "en": "Turning opposing interests into identical ones without changing the relations between the parties",
+            "kk": "Қарама-қарсы мүдделерді тараптардың қарым-қатынасын өзгертпей бірдей мүдделерге айналдыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Подмена процессов согласования односторонним распоряжением одной из сторон",
+            "en": "Replacing processes of reconciliation with a unilateral order by one of the parties",
+            "kk": "Келісу үдерістерін тараптардың бірінің біржақты өкімімен алмастыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выявление скрытых противоречий",
+            "en": "Bringing hidden contradictions to light",
+            "kk": "Жасырын қайшылықтарды анықтау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 295,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Конфликт, не выраженный в явно наблюдаемом публичном противоборстве, называется...",
+        "en": "A conflict that is not expressed in an openly observable public confrontation is called...",
+        "kk": "Айқын бақыланатын жария қарама-қайшылықта көрінбейтін қақтығыс қалай аталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2063",
+          "units": [
+            "p2063"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Антагонистическим",
+            "en": "Antagonistic",
+            "kk": "Антагонистік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Латентным",
+            "en": "Latent",
+            "kk": "Латентті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кратковременным",
+            "en": "Short-lived",
+            "kk": "Қысқа мерзімді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Горизонтальным",
+            "en": "Horizontal",
+            "kk": "Көлденең"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Институционализированным",
+            "en": "Institutionalized",
+            "kk": "Институционалдандырылған"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 296,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Спор между центральным руководством и нижестоящими региональными властями по уровню отношений относится к конфликту...",
+        "en": "A dispute between the central leadership and subordinate regional authorities over the level of their relations is a ... conflict.",
+        "kk": "Орталық басшылық пен төмен тұрған аймақтық билік арасындағы дау қатынастар деңгейі бойынша қандай қақтығысқа жатады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2065",
+          "units": [
+            "p2065"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Межличностному",
+            "en": "Interpersonal",
+            "kk": "Тұлғааралық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Вертикальному",
+            "en": "Vertical",
+            "kk": "Тік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Межгосударственному",
+            "en": "Interstate",
+            "kk": "Мемлекетаралық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Межцивилизационному",
+            "en": "Intercivilizational",
+            "kk": "Өркениетаралық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Горизонтальному",
+            "en": "Horizontal",
+            "kk": "Көлденең"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 297,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Институционализированный конфликт отличается...",
+        "en": "An institutionalized conflict is distinguished by...",
+        "kk": "Институционалдандырылған қақтығыс немен ерекшеленеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2061",
+          "units": [
+            "p2061"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обязательным вооружённым столкновением",
+            "en": "A mandatory armed clash",
+            "kk": "Міндетті қарулы қақтығыспен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Протеканием в признанных нормативных и организационных рамках",
+            "en": "Taking place within recognized normative and organizational frameworks",
+            "kk": "Мойындалған нормативтік және ұйымдастырушылық шеңберде өтуімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Полным отказом сторон от собственных интересов",
+            "en": "The parties' complete renunciation of their own interests",
+            "kk": "Тараптардың өз мүдделерінен толық бас тартуымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательным отсутствием реальных противоречий",
+            "en": "The mandatory absence of real contradictions",
+            "kk": "Нақты қайшылықтардың міндетті түрде болмауымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Исключительно скрытым характером конкуренции",
+            "en": "An exclusively hidden character of the competition",
+            "kk": "Бәсекелестіктің тек жасырын сипатымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 298,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "К спору присоединяются новые силы, а интенсивность противоборства возрастает. Это...",
+        "en": "New forces join a dispute, and the intensity of the confrontation rises. This is...",
+        "kk": "Дауға жаңа күштер қосылады, ал қарама-қайшылықтың қарқындылығы артады. Бұл не?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 691",
+          "units": [
+            "p691"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Институционализация",
+            "en": "Institutionalization",
+            "kk": "Институционализация"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Рутинизация",
+            "en": "Routinization",
+            "kk": "Рутинизация"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сегментация",
+            "en": "Segmentation",
+            "kk": "Сегментация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Деидеологизация",
+            "en": "De-ideologization",
+            "kk": "Деидеологизация"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эскалация",
+            "en": "Escalation",
+            "kk": "Эскалация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 299,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему при анализе конфликта важно различать причину и повод?",
+        "en": "Why is it important to distinguish the cause from the pretext when analyzing a conflict?",
+        "kk": "Қақтығысты талдау кезінде себеп пен сылтауды ажырату неліктен маңызды?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2081-2083",
+          "units": [
+            "p2081",
+            "p2082",
+            "p2083"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Различение причины и повода исключает переговоры",
+            "en": "Distinguishing the cause from the pretext rules out negotiations",
+            "kk": "Себеп пен сылтауды ажырату келіссөздерді жоққа шығарады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Событие, запускающее столкновение, может не совпадать с породившим его противоречием",
+            "en": "The event that triggers a clash may not coincide with the contradiction that gave rise to it",
+            "kk": "Қақтығысты бастайтын оқиға оны туғызған қайшылықпен сәйкес келмеуі мүмкін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Любой публичный инцидент полностью объясняет все позиции",
+            "en": "Any public incident fully explains all the positions",
+            "kk": "Кез келген жария оқиға барлық ұстанымдарды толық түсіндіреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Причина существует только после завершения конфликта",
+            "en": "The cause exists only after the conflict has ended",
+            "kk": "Себеп тек қақтығыс аяқталғаннан кейін ғана бар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Повод всегда важнее любых социальных интересов",
+            "en": "The pretext is always more important than any social interests",
+            "kk": "Сылтау әрқашан кез келген әлеуметтік мүдделерден маңыздырақ"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 300,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Урегулирование конфликта в отличие от его полного разрешения может...",
+        "en": "Unlike its complete resolution, the settlement of a conflict may...",
+        "kk": "Қақтығысты реттеу оны толық шешумен салыстырғанда нені істей алады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2101",
+          "units": [
+            "p2101"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключать любые взаимные уступки",
+            "en": "Exclude any mutual concessions",
+            "kk": "Кез келген өзара жол беруді жоққа шығара алады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Изменить поведение сторон без исчерпания предмета спора",
+            "en": "Change the behavior of the parties without exhausting the subject of the dispute",
+            "kk": "Дау нысанын сарқымай-ақ тараптардың мінез-құлқын өзгерте алады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обязательно устранить все основания противоречия",
+            "en": "Necessarily eliminate all grounds of the contradiction",
+            "kk": "Қайшылықтың барлық негіздерін міндетті түрде жоя алады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Происходить только между государствами",
+            "en": "Occur only between states",
+            "kk": "Тек мемлекеттер арасында жүзеге асуы мүмкін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Означать только физическое уничтожение противника",
+            "en": "Mean only the physical destruction of the opponent",
+            "kk": "Тек қарсыластың физикалық жойылуын білдіре алады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 301,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Стороны прекращают противоборство и принимают взаимные уступки, но сохраняют расхождение интересов. Как точнее описать результат?",
+        "en": "The parties end the confrontation and make mutual concessions, but their divergence of interests remains. How is the outcome most accurately described?",
+        "kk": "Тараптар қарама-қайшылықты тоқтатады және өзара жол береді, бірақ мүдделердегі алшақтық сақталады. Нәтиже қалай дәлірек сипатталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2101",
+          "units": [
+            "p2101"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2104",
+          "units": [
+            "p2104"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Достигнуто урегулирование без обязательного полного разрешения",
+            "en": "A settlement has been reached, without necessarily a complete resolution",
+            "kk": "Міндетті толық шешусіз реттеуге қол жеткізілді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Доказано исчезновение всех источников конфликта",
+            "en": "The disappearance of all sources of the conflict has been proven",
+            "kk": "Қақтығыстың барлық көздерінің жойылғаны дәлелденді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Конфликт автоматически стал межгосударственным",
+            "en": "The conflict has automatically become interstate",
+            "kk": "Қақтығыс автоматты түрде мемлекетаралық болып кетті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Достигнута только его неконтролируемая эскалация",
+            "en": "Only its uncontrolled escalation has been reached",
+            "kk": "Оның бақыланбайтын эскалациясына ғана қол жеткізілді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Стороны утратили способность к любому сотрудничеству",
+            "en": "The parties have lost the ability to cooperate in any way",
+            "kk": "Тараптар кез келген ынтымақтастыққа қабілетінен айырылды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 302,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К задачам управления политическим конфликтом относятся...",
+        "en": "The tasks of managing a political conflict include...",
+        "kk": "Саяси қақтығысты басқару міндеттеріне мыналар жатады:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2073-2075",
+          "units": [
+            "p2073",
+            "p2074",
+            "p2075"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Предотвращение неконтролируемого разрастания",
+            "en": "Preventing uncontrolled growth",
+            "kk": "Бақыланбайтын өршудің алдын алу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Предпочтение публичного отрицания противоречий их включению в регулируемые процедуры",
+            "en": "Preferring the public denial of contradictions to including them in regulated procedures",
+            "kk": "Қайшылықтарды реттелетін рәсімдерге қосудан гөрі оларды жария жоққа шығаруды артық көру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Снижение побочных социальных издержек",
+            "en": "Reducing secondary social costs",
+            "kk": "Қосымша әлеуметтік шығындарды азайту"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Выведение скрытых противоречий в регулируемую публичную форму",
+            "en": "Bringing hidden contradictions into a regulated public form",
+            "kk": "Жасырын қайшылықтарды реттелетін жария нысанға шығару"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Повышение интенсивности спора ради привлечения максимального числа смежных групп",
+            "en": "Raising the intensity of the dispute in order to draw in the maximum number of related groups",
+            "kk": "Көршілес топтардың барынша көп санын тарту үшін дау қарқындылығын арттыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": 303,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Продуктивным переговорам способствуют...",
+        "en": "Productive negotiations are promoted by...",
+        "kk": "Нәтижелі келіссөздерге мыналар ықпал етеді:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2113-2115",
+          "units": [
+            "p2113",
+            "p2114",
+            "p2115"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Опора на объективные критерии",
+            "en": "Reliance on objective criteria",
+            "kk": "Объективті өлшемдерге сүйену"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Перенос оценки предмета спора на личный престиж участников",
+            "en": "Shifting the assessment of the subject of the dispute to the participants' personal prestige",
+            "kk": "Дау нысанын бағалауды қатысушылардың жеке беделіне көшіру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Фиксация единственного допустимого решения до обсуждения альтернатив",
+            "en": "Fixing the only permissible solution before alternatives are discussed",
+            "kk": "Балама нұсқаларды талқыламай жалғыз жол берілетін шешімді бекіту"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Разработка нескольких вариантов решения",
+            "en": "Developing several options for a solution",
+            "kk": "Шешімнің бірнеше нұсқасын әзірлеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Оценка приемлемости уступок только по партийной принадлежности оппонента",
+            "en": "Judging the acceptability of concessions only by the opponent's party affiliation",
+            "kk": "Жеңілдіктердің қолайлылығын тек оппонент тиесілі партиясы бойынша бағалау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "id": 304,
+      "topic_id": 14,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему административное подавление всех проявлений конфликта не гарантирует устойчивости?",
+        "en": "Why does the administrative suppression of all manifestations of conflict not guarantee stability?",
+        "kk": "Қақтығыстың барлық көріністерін әкімшілік жолмен басу тұрақтылыққа неліктен кепілдік бермейді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 691",
+          "units": [
+            "p691"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2061",
+          "units": [
+            "p2061"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2074",
+          "units": [
+            "p2074"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Скрытые противоречия могут накапливаться и прорываться в более разрушительной форме",
+            "en": "Hidden contradictions can accumulate and break out in a more destructive form",
+            "kk": "Жасырын қайшылықтар жинақталып, неғұрлым бұзушы нысанда жарылуы мүмкін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Перевод разногласий в закрытую форму устраняет необходимость согласования интересов",
+            "en": "Moving disagreements into a closed form removes the need to reconcile interests",
+            "kk": "Келіспеушіліктерді жабық нысанға ауыстыру мүдделерді келісу қажеттілігін жояды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Запрет самостоятельной артикуляции требований позволяет судить о совпадении общественных интересов",
+            "en": "Banning the independent articulation of demands makes it possible to judge that public interests coincide",
+            "kk": "Талаптарды өз бетінше артикуляциялауға тыйым салу қоғамдық мүдделердің сәйкес келуі туралы қорытынды жасауға мүмкіндік береді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устойчивость достигается заменой процедуры компромисса демонстрацией единства",
+            "en": "Stability is achieved by replacing the procedure of compromise with a demonstration of unity",
+            "kk": "Тұрақтылыққа бірлікті көрсету арқылы компромисс рәсімін алмастыру нәтижесінде қол жеткізіледі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствие открытой конкуренции означает исчерпание предмета спорных отношений",
+            "en": "The absence of open competition means that the subject of the disputed relations has been exhausted",
+            "kk": "Ашық бәсекелестіктің болмауы дау қатынастары нысанының сарқылғанын білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 305,
+      "topic_id": 14,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные утверждения о завершении конфликта.",
+        "en": "Indicate the correct statements about the end of a conflict.",
+        "kk": "Қақтығыстың аяқталуы туралы дұрыс тұжырымдарды көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2101",
+          "units": [
+            "p2101"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2113-2115",
+          "units": [
+            "p2113",
+            "p2114",
+            "p2115"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Компромисс может изменить поведение без устранения всех противоречий",
+            "en": "A compromise can change behavior without eliminating all contradictions",
+            "kk": "Компромисс барлық қайшылықтарды жоймай-ақ мінез-құлықты өзгерте алады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Переговоры позволяют уточнить интересы и возможные уступки",
+            "en": "Negotiations make it possible to clarify interests and possible concessions",
+            "kk": "Келіссөздер мүдделер мен ықтимал жеңілдіктерді нақтылауға мүмкіндік береді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Взаимные уступки означают равное уменьшение всех ресурсов обеих сторон",
+            "en": "Mutual concessions mean an equal reduction of all the resources of both sides",
+            "kk": "Өзара жеңілдіктер екі тараптың барлық ресурстарының тең азаюын білдіреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Подписание соглашения свидетельствует об устранении исходного предмета спора",
+            "en": "Signing an agreement shows that the original subject of the dispute has been eliminated",
+            "kk": "Келісімге қол қою бастапқы дау нысанының жойылғанын көрсетеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Переговоры предполагают предварительное совпадение конечных политических целей",
+            "en": "Negotiations presuppose a prior coincidence of ultimate political goals",
+            "kk": "Келіссөздер түпкі саяси мақсаттардың алдын ала сәйкес келуін көздейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B"
+      ]
+    }
+  ]
+}

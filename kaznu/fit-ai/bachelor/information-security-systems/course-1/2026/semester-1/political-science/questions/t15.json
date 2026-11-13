@@ -1,0 +1,1033 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 306,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Работа «Политические отношения между нациями: борьба за власть и мир» принадлежит...",
+        "en": "The work \"Politics Among Nations: The Struggle for Power and Peace\" belongs to...",
+        "kk": "«Ұлттар арасындағы саяси қатынастар: билік пен бейбітшілік үшін күрес» еңбегі кімдікі?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 707",
+          "units": [
+            "p707"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Джеймсу Розенау",
+            "en": "James Rosenau",
+            "kk": "Джеймс Розенау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Джозефу Наю",
+            "en": "Joseph Nye",
+            "kk": "Джозеф Най"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кеннету Уолтцу",
+            "en": "Kenneth Waltz",
+            "kk": "Кеннет Уолтц"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Роберту Кеохейну",
+            "en": "Robert Keohane",
+            "kk": "Роберт Кеохейн"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гансу Моргентау",
+            "en": "Hans Morgenthau",
+            "kk": "Ганс Моргентау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 307,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Классический политический реализм объясняет поведение государств прежде всего через...",
+        "en": "Classical political realism explains the behavior of states primarily through...",
+        "kk": "Классикалық саяси реализм мемлекеттердің мінез-құлқын ең алдымен нелер арқылы түсіндіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 707",
+          "units": [
+            "p707"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только действие универсальной нравственной нормы",
+            "en": "Only the operation of a universal moral norm",
+            "kk": "Тек әмбебап адамгершілік нормасының әрекеті арқылы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключительно культурные контакты неправительственных объединений",
+            "en": "Exclusively the cultural contacts of non-governmental associations",
+            "kk": "Тек үкіметтік емес бірлестіктердің мәдени байланыстары арқылы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Полное подчинение внутренней политики мировой администрации",
+            "en": "The complete subordination of domestic politics to a world administration",
+            "kk": "Ішкі саясаттың әлемдік әкімшілікке толық бағынуы арқылы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Интересы, силу и баланс сил",
+            "en": "Interests, power and the balance of power",
+            "kk": "Мүдделер, күш және күштер тепе-теңдігі арқылы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отсутствие конкуренции за безопасность",
+            "en": "The absence of competition for security",
+            "kk": "Қауіпсіздік үшін бәсекенің болмауы арқылы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 308,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Структуралистский анализ международных отношений ориентирован на движение...",
+        "en": "A structuralist analysis of international relations is oriented toward movement...",
+        "kk": "Халықаралық қатынастарды құрылымдық талдау қандай бағытта жүреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 713",
+          "units": [
+            "p713"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключительно от биографии лидера к любому международному событию",
+            "en": "Exclusively from a leader's biography to any international event",
+            "kk": "Тек көшбасшының өмірбаянынан кез келген халықаралық оқиғаға қарай"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только от юридического названия организации к её эффективности",
+            "en": "Only from an organization's legal name to its effectiveness",
+            "kk": "Тек ұйымның заңдық атауынан оның тиімділігіне қарай"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "От системы как целого к её отдельным участникам",
+            "en": "From the system as a whole to its individual participants",
+            "kk": "Бүтін ретіндегі жүйеден оның жекелеген қатысушыларына қарай"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "От случайного эпизода к отрицанию системных связей",
+            "en": "From a chance episode to a denial of systemic links",
+            "kk": "Кездейсоқ эпизодтан жүйелік байланыстарды жоққа шығаруға қарай"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "От личных эмоций дипломата к общечеловеческой морали",
+            "en": "From a diplomat's personal emotions to universal human morality",
+            "kk": "Дипломаттың жеке эмоцияларынан жалпыадамзаттық адамгершілікке қарай"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 309,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Эволюционный подход к международным отношениям акцентирует...",
+        "en": "The evolutionary approach to international relations emphasizes...",
+        "kk": "Халықаралық қатынастарға эволюциялық тәсіл нені баса көрсетеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 714",
+          "units": [
+            "p714"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Полную неизменность международного порядка",
+            "en": "The complete immutability of the international order",
+            "kk": "Халықаралық тәртіптің толық өзгермейтіндігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отсутствие повторяющихся процессов",
+            "en": "The absence of recurring processes",
+            "kk": "Қайталанатын үдерістердің болмауын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключительно одномоментную структуру союзов",
+            "en": "Exclusively the one-time structure of alliances",
+            "kk": "Одақтардың тек бір сәттік құрылымын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сведение всех изменений к тексту одного договора",
+            "en": "Reducing all changes to the text of a single treaty",
+            "kk": "Барлық өзгерістерді жалғыз шарттың мәтініне келтіруді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Динамику и исторические изменения международных систем",
+            "en": "The dynamics and historical changes of international systems",
+            "kk": "Халықаралық жүйелердің динамикасы мен тарихи өзгерістерін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 310,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Мир-системная теория различает...",
+        "en": "World-systems theory distinguishes...",
+        "kk": "Әлем-жүйелік теория мыналарды ажыратады:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 719",
+          "units": [
+            "p719"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ядро",
+            "en": "The core",
+            "kk": "Ядро"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Колонию как отдельный от периферии обязательный уровень системы",
+            "en": "The colony as a mandatory level of the system separate from the periphery",
+            "kk": "Колонияны перифериядан бөлек жүйенің міндетті деңгейі ретінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Периферию",
+            "en": "The periphery",
+            "kk": "Периферия"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Метрополию как четвёртый равноправный элемент наряду с ядром",
+            "en": "The metropolis as a fourth equal element alongside the core",
+            "kk": "Метрополияны ядромен қатар төртінші тең элемент ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Полупериферию",
+            "en": "The semi-periphery",
+            "kk": "Жартылай периферия"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 311,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ключевое объяснение неравенства в мир-системном и зависимостном подходах связано с...",
+        "en": "The key explanation of inequality in the world-systems and dependency approaches is connected with...",
+        "kk": "Әлем-жүйелік және тәуелділік тәсілдеріндегі теңсіздіктің негізгі түсіндірмесі нелермен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 719-722",
+          "units": [
+            "p719",
+            "p720",
+            "p721",
+            "p722"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключительно формой государственного флага",
+            "en": "Exclusively the form of the state flag",
+            "kk": "Тек мемлекеттік ту нысанымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отсутствием политических границ как таковых",
+            "en": "The absence of political borders as such",
+            "kk": "Саяси шекаралардың жалпы болмауымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Положением обществ в неравных мировых экономических связях",
+            "en": "The position of societies in unequal world economic ties",
+            "kk": "Қоғамдардың теңсіз әлемдік экономикалық байланыстардағы жағдайымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только климатическими особенностями территорий",
+            "en": "Only the climatic features of territories",
+            "kk": "Тек аумақтардың климаттық ерекшеліктерімен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Неизменными психологическими чертами отдельных народов",
+            "en": "The unchanging psychological traits of individual peoples",
+            "kk": "Жекелеген халықтардың өзгермейтін психологиялық белгілерімен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 312,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Теория зависимости, представленная Андре Гундером Франком, рассматривает отсталость как...",
+        "en": "Dependency theory, as represented by Andre Gunder Frank, regards underdevelopment as...",
+        "kk": "Андре Гундер Франк ұсынған тәуелділік теориясы кенжелікті қалай қарастырады?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 721",
+          "units": [
+            "p721"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключительно отсутствие контактов с мировой экономикой",
+            "en": "Exclusively the absence of contacts with the world economy",
+            "kk": "Тек әлемдік экономикамен байланыстың болмауы ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обязательное следствие малой площади государства",
+            "en": "The inevitable consequence of a state's small area",
+            "kk": "Мемлекет аумағының аз болуының міндетті салдары ретінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только временную нехватку дипломатических представительств",
+            "en": "Only a temporary shortage of diplomatic missions",
+            "kk": "Тек дипломатиялық өкілдіктердің уақытша жетіспеуі ретінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Результат исторически сложившихся отношений зависимости",
+            "en": "The result of historically formed relations of dependence",
+            "kk": "Тарихи қалыптасқан тәуелділік қатынастарының нәтижесі ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прямой результат пропорциональной системы выборов",
+            "en": "The direct result of a proportional electoral system",
+            "kk": "Сайлаудың пропорционалды жүйесінің тікелей нәтижесі ретінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 313,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что отличает анализ мировой политики от сведения международных связей только к дипломатии государств?",
+        "en": "What distinguishes the analysis of world politics from reducing international ties to the diplomacy of states alone?",
+        "kk": "Әлемдік саясатты талдауды халықаралық байланыстарды тек мемлекеттердің дипломатиясына келтіруден не ерекшелендіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 732-734",
+          "units": [
+            "p732",
+            "p733",
+            "p734"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отрицание существования национальных государств",
+            "en": "Denying the existence of nation-states",
+            "kk": "Ұлттық мемлекеттердің бар екенін жоққа шығару"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключение экономических процессов из анализа",
+            "en": "Excluding economic processes from the analysis",
+            "kk": "Экономикалық үдерістерді талдаудан шығарып тастау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Признание суверенитета любой коммерческой корпорации",
+            "en": "Recognizing the sovereignty of any commercial corporation",
+            "kk": "Кез келген коммерциялық корпорацияның егемендігін мойындау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Замена всех интересов единым мировым правительством",
+            "en": "Replacing all interests with a single world government",
+            "kk": "Барлық мүдделерді бірыңғай әлемдік үкіметпен алмастыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Учёт негосударственных транснациональных акторов",
+            "en": "Taking non-state transnational actors into account",
+            "kk": "Мемлекеттік емес трансұлттық акторларды ескеру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 314,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Идея сосуществования государственно-центричного и транснационального миров связана с именем...",
+        "en": "The idea of the coexistence of a state-centric world and a transnational world is associated with the name of...",
+        "kk": "Мемлекетцентристік және трансұлттық әлемдердің қатар өмір сүру идеясы кімнің есімімен байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 734",
+          "units": [
+            "p734"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Джеймса Розенау",
+            "en": "James Rosenau",
+            "kk": "Джеймс Розенау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Хэлфорда Маккиндера",
+            "en": "Halford Mackinder",
+            "kk": "Хэлфорд Маккиндер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кеннета Боулдинга",
+            "en": "Kenneth Boulding",
+            "kk": "Кеннет Боулдинг"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ганса Моргентау",
+            "en": "Hans Morgenthau",
+            "kk": "Ганс Моргентау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Мортона Каплана",
+            "en": "Morton Kaplan",
+            "kk": "Мортон Каплан"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 315,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что отличает жёсткую биполярность от гибкой в типологии Каплана?",
+        "en": "What distinguishes tight bipolarity from loose bipolarity in Kaplan's typology?",
+        "kk": "Каплан типологиясында қатаң биполярлықты икемдіден не ерекшелендіреді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 741-744",
+          "units": [
+            "p741",
+            "p742",
+            "p743",
+            "p744"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Превращение всех государств в одинаково суверенные арбитражные центры",
+            "en": "The transformation of all states into equally sovereign arbitration centers",
+            "kk": "Барлық мемлекеттердің бірдей егеменді төрелік орталықтарына айналуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Переход к единому мировому государству",
+            "en": "A transition to a single world state",
+            "kk": "Бірыңғай әлемдік мемлекетке көшу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Более жёсткая иерархия блоков и исчезновение неприсоединившихся",
+            "en": "A more rigid hierarchy of blocs and the disappearance of the non-aligned",
+            "kk": "Блоктар иерархиясының неғұрлым қатаң болуы және қосылмағандардың жойылуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Увеличение числа равносильных независимых центров",
+            "en": "An increase in the number of equally powerful independent centers",
+            "kk": "Тең күшті тәуелсіз орталықтар санының артуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Исчезновение любых блоковых отношений",
+            "en": "The disappearance of any bloc relations",
+            "kk": "Кез келген блоктық қатынастардың жойылуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 316,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "В типологии Каплана глобальные международные организации играют определяющую роль при сохранении национальных государств. Это система...",
+        "en": "In Kaplan's typology, global international organizations play the decisive role while nation-states are preserved. This is the ... system.",
+        "kk": "Каплан типологиясында ұлттық мемлекеттер сақталған кезде жаһандық халықаралық ұйымдар шешуші рөл атқарады. Бұл қандай жүйе?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 745",
+          "units": [
+            "p745"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 747",
+          "units": [
+            "p747"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Единичного вето",
+            "en": "Unit-veto",
+            "kk": "Жекелей вето"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Иерархическая",
+            "en": "Hierarchical",
+            "kk": "Иерархиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Баланса сил",
+            "en": "Balance-of-power",
+            "kk": "Күштер тепе-теңдігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Универсальная",
+            "en": "Universal",
+            "kk": "Әмбебап"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Жёсткая биполярная",
+            "en": "Tight bipolar",
+            "kk": "Қатаң биполярлық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 317,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К международным процессам относятся:",
+        "en": "International processes include:",
+        "kk": "Халықаралық үдерістерге мыналар жатады:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 755",
+          "units": [
+            "p755"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Конфликт",
+            "en": "Conflict",
+            "kk": "Қақтығыс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Переговоры",
+            "en": "Negotiation",
+            "kk": "Келіссөздер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только формирование личных представлений о внутреннем общественном порядке",
+            "en": "Only the formation of personal ideas about the domestic social order",
+            "kk": "Тек ішкі қоғамдық тәртіп туралы жеке көзқарастардың қалыптасуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только деятельность местных объединений без трансграничных связей",
+            "en": "Only the activity of local associations without cross-border ties",
+            "kk": "Тек трансшекаралық байланыстары жоқ жергілікті бірлестіктердің қызметі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сотрудничество",
+            "en": "Cooperation",
+            "kk": "Ынтымақтастық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 318,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вооружённые противники согласуют обмен пленными. Какое свойство международного конфликта проявляется?",
+        "en": "Armed adversaries agree on an exchange of prisoners. Which property of international conflict is manifested?",
+        "kk": "Қарулы қарсыластар тұтқындармен алмасуға келіседі. Халықаралық қақтығыстың қандай қасиеті көрінеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 758",
+          "units": [
+            "p758"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Замена государственного суверенитета частным договором",
+            "en": "The replacement of state sovereignty by a private agreement",
+            "kk": "Мемлекеттік егемендікті жеке келісіммен алмастыру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сосуществование противоборства с отдельными элементами сотрудничества",
+            "en": "The coexistence of confrontation with individual elements of cooperation",
+            "kk": "Қарама-қарсылықтың ынтымақтастықтың жекелеген элементтерімен қатар өмір сүруі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Автоматическое прекращение политических противоречий",
+            "en": "The automatic end of political contradictions",
+            "kk": "Саяси қайшылықтардың автоматты түрде тоқтатылуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Полное исчезновение международной системы",
+            "en": "The complete disappearance of the international system",
+            "kk": "Халықаралық жүйенің толық жойылуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Невозможность различать конфликт и интеграцию",
+            "en": "The impossibility of distinguishing conflict from integration",
+            "kk": "Қақтығыс пен интеграцияны ажырату мүмкін еместігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 319,
+      "topic_id": 15,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные выводы об акторах и процессах мировой политики:",
+        "en": "Correct conclusions about the actors and processes of world politics:",
+        "kk": "Әлемдік саясаттың акторлары мен үдерістері туралы дұрыс тұжырымдар:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 733-734",
+          "units": [
+            "p733",
+            "p734"
+          ]
+        },
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 755-759",
+          "units": [
+            "p755",
+            "p756",
+            "p757",
+            "p758",
+            "p759"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Начало вооружённого противоборства исключает согласование ограниченных взаимных интересов",
+            "en": "The outbreak of armed confrontation rules out agreement on limited mutual interests",
+            "kk": "Қарулы қарама-қарсылықтың басталуы шектеулі өзара мүдделерді келісуді жоққа шығарады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Государства сохраняют особую роль, связанную с суверенитетом",
+            "en": "States retain a special role connected with sovereignty",
+            "kk": "Мемлекеттер егемендікке байланысты ерекше рөлін сақтайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Негосударственные участники могут влиять на международную повестку",
+            "en": "Non-state participants can influence the international agenda",
+            "kk": "Мемлекеттік емес қатысушылар халықаралық күн тәртібіне әсер ете алады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Наличие транснациональных связей у корпорации означает приобретение ею суверенитета",
+            "en": "A corporation's having transnational ties means that it acquires sovereignty",
+            "kk": "Корпорацияның трансұлттық байланыстарының болуы оның егемендік алғанын білдіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сотрудничество не требует полного совпадения всех интересов",
+            "en": "Cooperation does not require a complete coincidence of all interests",
+            "kk": "Ынтымақтастық барлық мүдделердің толық сәйкес келуін талап етпейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 320,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Последовательность, соответствующая полному переговорному процессу:",
+        "en": "The sequence that corresponds to a complete negotiation process:",
+        "kk": "Толық келіссөз үдерісіне сәйкес келетін реттілік:"
+      },
+      "source_references": [
+        {
+          "source_id": "L",
+          "file": "Лекции/Лекции Политология (3).doc",
+          "location": "Абзац 762-764",
+          "units": [
+            "p762",
+            "p763",
+            "p764"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Подготовка → ведение переговоров → анализ результатов и исполнение договорённостей",
+            "en": "Preparation → conducting the negotiations → analysis of results and implementation of the agreements",
+            "kk": "Дайындық → келіссөздер жүргізу → нәтижелерді талдау және уағдаластықтарды орындау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Подготовка → исполнение предварительных условий → ведение переговоров без итогового контроля",
+            "en": "Preparation → fulfilling preliminary conditions → conducting negotiations without final monitoring",
+            "kk": "Дайындық → алдын ала шарттарды орындау → түпкілікті бақылаусыз келіссөздер жүргізу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Анализ результатов → подготовка → ведение переговоров и исполнение",
+            "en": "Analysis of results → preparation → conducting negotiations and implementation",
+            "kk": "Нәтижелерді талдау → дайындық → келіссөздер жүргізу және орындау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исполнение договорённостей → согласование позиций → оценка результатов",
+            "en": "Implementation of agreements → reconciling positions → evaluation of results",
+            "kk": "Уағдаластықтарды орындау → ұстанымдарды келісу → нәтижелерді бағалау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ведение переговоров → подготовка позиций → исполнение договорённостей и оценка",
+            "en": "Conducting negotiations → preparing positions → implementation of agreements and evaluation",
+            "kk": "Келіссөздер жүргізу → ұстанымдарды дайындау → уағдаластықтарды орындау және бағалау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 14,
+  "topic_name": "Communication and interpersonal cognition",
+  "questions": {
+    "286": {
+      "question": "Conveying to the interlocutor an impulse toward new activity is, by content, a... communication.",
+      "options": {
+        "A": "Conditioning",
+        "B": "Cognitive",
+        "C": "Material",
+        "D": "Activity-based",
+        "E": "Motivational"
+      }
+    },
+    "287": {
+      "question": "The calming effect of one participant in a conversation on the emotional state of another belongs, by content, to... communication.",
+      "options": {
+        "A": "Material",
+        "B": "Activity-based",
+        "C": "Conditioning",
+        "D": "Motivational",
+        "E": "Cognitive"
+      }
+    },
+    "288": {
+      "question": "Conveying to another person information about an object is, by content, a... communication.",
+      "options": {
+        "A": "Conditioning",
+        "B": "Cognitive",
+        "C": "Material",
+        "D": "Activity-based",
+        "E": "Motivational"
+      }
+    },
+    "289": {
+      "question": "Correct correspondences between types of communication by content:",
+      "options": {
+        "A": "Activity-based: exchange of actions and skills",
+        "B": "Cognitive: exchange of only impulses",
+        "C": "Material: exchange of products of activity",
+        "D": "Motivational: exchange of only objects",
+        "E": "Conditioning: exchange of states"
+      }
+    },
+    "290": {
+      "question": "Communication that serves to achieve a goal other than satisfying the need for communication itself is called...",
+      "options": {
+        "A": "Goal-oriented",
+        "B": "Spontaneous affective",
+        "C": "Personal self-valuable",
+        "D": "Referent",
+        "E": "Instrumental"
+      }
+    },
+    "291": {
+      "question": "Communication as a means of bringing people together realizes the... function.",
+      "options": {
+        "A": "Self-expression",
+        "B": "Integrative",
+        "C": "Socialization",
+        "D": "Transmission",
+        "E": "Instrumental"
+      }
+    },
+    "292": {
+      "question": "Passing a message through another person as an intermediary characterizes... communication.",
+      "options": {
+        "A": "Face-to-face contact",
+        "B": "Direct",
+        "C": "Immediate",
+        "D": "Intrapersonal",
+        "E": "Indirect"
+      }
+    },
+    "293": {
+      "question": "The main difference between imperative and manipulative influence lies in...",
+      "options": {
+        "A": "The number of participants in the communication",
+        "B": "The use of only speech or only gestures",
+        "C": "The presence or absence of any psychological influence",
+        "D": "The openness or concealment of the intention to control the partner",
+        "E": "The obligatory presence of a technical intermediary"
+      }
+    },
+    "294": {
+      "question": "Conditions that correspond to dialogic communication:",
+      "options": {
+        "A": "Recognition of the partner's equality",
+        "B": "Replacing the partner's position with a mandatory order",
+        "C": "Expressing one's own feelings in one's own name",
+        "D": "Concealing the goal in order to control the interlocutor",
+        "E": "Discussing a real unresolved problem"
+      }
+    },
+    "295": {
+      "question": "The organization of joint actions constitutes the... side of communication.",
+      "options": {
+        "A": "Perceptual",
+        "B": "Extralinguistic",
+        "C": "Interactive",
+        "D": "Paralinguistic",
+        "E": "Communicative"
+      }
+    },
+    "296": {
+      "question": "Perceiving and understanding the interlocutor and forming an attitude toward him or her constitutes the... side of communication.",
+      "options": {
+        "A": "Instrumental",
+        "B": "Interactive",
+        "C": "Perceptual",
+        "D": "Transmissive",
+        "E": "Communicative"
+      }
+    },
+    "297": {
+      "question": "Which message corresponds more closely to psychological feedback?",
+      "options": {
+        "A": "\"I think you are an inattentive person\"",
+        "B": "\"I feel that you are deliberately disrespecting me\"",
+        "C": "\"I understand that you want to hurt me on purpose\"",
+        "D": "\"When you interrupt, I lose my train of thought and get irritated\"",
+        "E": "\"Our team thinks you need to be more tactful\""
+      }
+    },
+    "298": {
+      "question": "The sequence \"who, says what, through which channel, to whom, with what effect\" belongs to the model of...",
+      "options": {
+        "A": "E. Hall",
+        "B": "C. Rogers",
+        "C": "H. Kelley",
+        "D": "D. Kahneman",
+        "E": "H. Lasswell"
+      }
+    },
+    "299": {
+      "question": "Indicate the correct correspondences between sides of communication.",
+      "options": {
+        "A": "Interactive: the organization of interaction",
+        "B": "Communicative: the exchange of information",
+        "C": "Perceptual: only the transmission of text",
+        "D": "Perceptual: understanding the partner",
+        "E": "Interactive: only the timbre of the voice"
+      }
+    },
+    "300": {
+      "question": "The range, quality and tonality of the voice belong to the... system of communication.",
+      "options": {
+        "A": "Optical-kinetic",
+        "B": "Proxemic",
+        "C": "Paralinguistic",
+        "D": "Extralinguistic",
+        "E": "Lexical-semantic"
+      }
+    },
+    "301": {
+      "question": "Pauses, laughter and coughing as insertions into speech belong to the... system.",
+      "options": {
+        "A": "Paralinguistic",
+        "B": "Visual-contact",
+        "C": "Extralinguistic",
+        "D": "Proxemic",
+        "E": "Lexical-grammatical"
+      }
+    },
+    "302": {
+      "question": "The spatial organization of communication and the norms of distance are studied by...",
+      "options": {
+        "A": "Mnemonics",
+        "B": "Proxemics",
+        "C": "Phrenology",
+        "D": "Psychophysics",
+        "E": "Introspection"
+      }
+    },
+    "303": {
+      "question": "Awareness of how one is perceived by a communication partner is called...",
+      "options": {
+        "A": "Causal attribution",
+        "B": "Reflection",
+        "C": "Identification",
+        "D": "Projection",
+        "E": "Empathy"
+      }
+    },
+    "304": {
+      "question": "Correct correspondences between mechanisms of interpersonal understanding:",
+      "options": {
+        "A": "Identification: likening oneself to another",
+        "B": "Reflection: awareness of how the partner perceives oneself",
+        "C": "Identification: reassessing the role of the situation",
+        "D": "Empathy: attributing one's own qualities to another",
+        "E": "Empathy: emotional understanding of another's state"
+      }
+    },
+    "305": {
+      "question": "A good overall impression of a person leads one to evaluate even his or her unknown qualities positively. This is the... effect.",
+      "options": {
+        "A": "Projection",
+        "B": "Halo",
+        "C": "Primacy",
+        "D": "Recency",
+        "E": "Completed action"
+      }
+    },
+    "306": {
+      "question": "An observer attributes his or her own emotional states and motives to the interlocutor. This is the... effect.",
+      "options": {
+        "A": "Projection",
+        "B": "Social facilitation",
+        "C": "Primacy",
+        "D": "Halo",
+        "E": "Recency"
+      }
+    },
+    "307": {
+      "question": "An observer explains someone else's lateness by irresponsibility, ignoring a transport disruption. This is an example of...",
+      "options": {
+        "A": "The halo effect",
+        "B": "The fundamental attribution error",
+        "C": "Projection",
+        "D": "The primacy effect",
+        "E": "The recency effect"
+      }
+    },
+    "308": {
+      "question": "In similar circumstances a person's behavior is consistent, in other circumstances it differs, and most people react in the same way. Which attribution is most likely?",
+      "options": {
+        "A": "Special personal motivation",
+        "B": "Innate temperament",
+        "C": "A stable personality trait",
+        "D": "Individual character",
+        "E": "External circumstances"
+      }
+    },
+    "309": {
+      "question": "The three-component structure of a social attitude includes:",
+      "options": {
+        "A": "Behavioral",
+        "B": "Motivational-goal",
+        "C": "Reflective-evaluative",
+        "D": "Affective",
+        "E": "Cognitive"
+      }
+    },
+    "310": {
+      "question": "How does prejudice differ from a stereotype in the distinction given?",
+      "options": {
+        "A": "A stereotype is necessarily based on personal investigation",
+        "B": "A stereotype cannot refer to a group of people",
+        "C": "Prejudice contains an emotional evaluation, a stereotype a simplified representation",
+        "D": "Prejudice is only a motor reaction",
+        "E": "Prejudice is always the result of full knowledge of the person"
+      }
+    }
+  }
+}

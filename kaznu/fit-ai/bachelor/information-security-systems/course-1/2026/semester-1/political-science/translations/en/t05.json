@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 5,
+  "topic_name": "Political Elites and Political Leadership",
+  "questions": {
+    "96": {
+      "question": "The political elite differs from the broader ruling elite by...",
+      "options": {
+        "A": "Mandatory membership among the largest property owners",
+        "B": "Direct participation in the exercise of political power",
+        "C": "The exclusive possession of cultural prestige",
+        "D": "The absence of formal state powers",
+        "E": "Necessary origin from a hereditary estate"
+      }
+    },
+    "97": {
+      "question": "The highest stratum of the professional state bureaucracy forms the ... elite.",
+      "options": {
+        "A": "Electoral",
+        "B": "Economic",
+        "C": "Counter-",
+        "D": "Cultural",
+        "E": "Administrative"
+      }
+    },
+    "98": {
+      "question": "Preparing a long-term program for the development of society expresses which function of the political elite?",
+      "options": {
+        "A": "Supervisory",
+        "B": "Strategic",
+        "C": "Communicative",
+        "D": "Recruitment",
+        "E": "Integrative"
+      }
+    },
+    "99": {
+      "question": "The link between the leadership and social groups and the gathering of information about their interests belong primarily to the ... function of the elite.",
+      "options": {
+        "A": "Communicative",
+        "B": "Strategic",
+        "C": "Selective",
+        "D": "Nomenklatura",
+        "E": "Regulatory"
+      }
+    },
+    "100": {
+      "question": "The concept of an organized political class as a ruling minority was developed by...",
+      "options": {
+        "A": "Vilfredo Pareto",
+        "B": "Gaetano Mosca",
+        "C": "Joseph Schumpeter",
+        "D": "Robert Michels",
+        "E": "C. Wright Mills"
+      }
+    },
+    "101": {
+      "question": "In Pareto's concept, the \"foxes\" are distinguished by a primary orientation toward...",
+      "options": {
+        "A": "Direct coercion by force",
+        "B": "The hereditary entrenchment of offices",
+        "C": "Unconditional observance of religious dogma",
+        "D": "Flexibility, negotiation and maneuvering",
+        "E": "Rule by popular lot"
+      }
+    },
+    "102": {
+      "question": "The circulation of elites in Pareto's concept means...",
+      "options": {
+        "A": "The distribution of offices in proportion to the size of the estates",
+        "B": "The rotation of all civil servants at equal intervals",
+        "C": "The abolition of the distinction between leaders and the governed",
+        "D": "The transfer of sovereignty to international organizations",
+        "E": "A change in the types of the ruling minority and the renewal of its membership"
+      }
+    },
+    "103": {
+      "question": "The \"iron law of oligarchy\" is associated with the name of...",
+      "options": {
+        "A": "Vilfredo Pareto",
+        "B": "Robert Dahl",
+        "C": "Harold Lasswell",
+        "D": "Gaetano Mosca",
+        "E": "Robert Michels"
+      }
+    },
+    "104": {
+      "question": "The concentration of information and de facto leadership in the hands of the professional apparatus of a mass party is directly described by...",
+      "options": {
+        "A": "The theory of geographical determinism",
+        "B": "The concept of direct democracy",
+        "C": "The theory of political exchange",
+        "D": "The social contract theory",
+        "E": "The law of oligarchic tendencies"
+      }
+    },
+    "105": {
+      "question": "In Schumpeter's democratic elitism, democracy is understood primarily as...",
+      "options": {
+        "A": "The representation of a single infallible general will",
+        "B": "Continuous direct government by all citizens",
+        "C": "The inheritance of power by the most competent families",
+        "D": "The elimination of professional political leaders",
+        "E": "Competition among leaders for the votes of the electorate"
+      }
+    },
+    "106": {
+      "question": "Which thesis corresponds to pluralist theories of elites?",
+      "options": {
+        "A": "Competing elites are linked with the social groups they represent",
+        "B": "Any elite is formed exclusively by heredity",
+        "C": "A single closed elite is completely free from control",
+        "D": "All centers of social influence coincide with the government",
+        "E": "The division into elite and masses rules out relations of representation"
+      }
+    },
+    "107": {
+      "question": "The circle of persons who directly select candidates for the elite is called the...",
+      "options": {
+        "A": "Counter-elite",
+        "B": "Establishment",
+        "C": "Bureaucracy",
+        "D": "Electorate",
+        "E": "Selectorate"
+      }
+    },
+    "108": {
+      "question": "Advancement is determined by seniority, successive progression through posts and the decision of a narrow leading circle. These are features of the ... system.",
+      "options": {
+        "A": "Entrepreneurial",
+        "B": "Patriarchal",
+        "C": "Guild",
+        "D": "Plebiscitary",
+        "E": "Proportional"
+      }
+    },
+    "109": {
+      "question": "Features of the entrepreneurial system of elite recruitment:",
+      "options": {
+        "A": "Prior agreement on the candidate by a closed leading circle",
+        "B": "A broad selectorate",
+        "C": "Successive progression through all the levels of the service hierarchy",
+        "D": "High competition among candidates",
+        "E": "The decisive importance of institutional seniority requirements"
+      }
+    },
+    "110": {
+      "question": "Specify the features of the guild system.",
+      "options": {
+        "A": "Priority given to the ability to attract external public support",
+        "B": "Broad competition among candidates for the support of voters",
+        "C": "Gradual advancement within the hierarchy",
+        "D": "Numerous formal filters",
+        "E": "A relatively closed selectorate"
+      }
+    },
+    "111": {
+      "question": "Which comparison of the risks of the recruitment systems is the most accurate?",
+      "options": {
+        "A": "The entrepreneurial system reduces the importance of personal initiative, while the guild system makes it the main filter",
+        "B": "The guild system places public popularity above seniority, while the entrepreneurial system gives priority to hierarchy",
+        "C": "The guild system hinders bureaucratization, while the entrepreneurial system entrenches the closed nature of the selectorate",
+        "D": "The entrepreneurial system increases the predictability of succession, while the guild system increases external competition",
+        "E": "The entrepreneurial system allows unprofessionalism, while the guild system tends toward stagnation"
+      }
+    },
+    "112": {
+      "question": "Name the functions of leadership identified by Robert Tucker.",
+      "options": {
+        "A": "Directive",
+        "B": "Mobilizing",
+        "C": "Integrative",
+        "D": "Diagnostic",
+        "E": "Communicative"
+      }
+    },
+    "113": {
+      "question": "A leader identifies the key problem and the causes of the worsening situation. Which function according to Tucker is he performing?",
+      "options": {
+        "A": "Integrative",
+        "B": "Representative",
+        "C": "Directive",
+        "D": "Mobilizing",
+        "E": "Diagnostic"
+      }
+    },
+    "114": {
+      "question": "The choice of a specific course of action to solve an identified problem belongs to the ... function of leadership.",
+      "options": {
+        "A": "Mobilizing",
+        "B": "Socializing",
+        "C": "Communicative",
+        "D": "Diagnostic",
+        "E": "Directive"
+      }
+    },
+    "115": {
+      "question": "Leaders as agitators, organizers and theorists were distinguished by...",
+      "options": {
+        "A": "Sidney Hook",
+        "B": "Robert Tucker",
+        "C": "Harold Lasswell",
+        "D": "Ralph Stogdill",
+        "E": "Max Weber"
+      }
+    },
+    "116": {
+      "question": "For the organizer leader in Lasswell's typology, the most characteristic feature is...",
+      "options": {
+        "A": "Creating abstract theoretical concepts",
+        "B": "Influencing mainly through oratory",
+        "C": "Inheriting ritual authority",
+        "D": "Rejecting organizational mechanisms",
+        "E": "Using the apparatus and working with personnel"
+      }
+    },
+    "117": {
+      "question": "The criterion distinguishing leaders who use events from leaders who create events was proposed by...",
+      "options": {
+        "A": "Robert Tucker",
+        "B": "Gustave Le Bon",
+        "C": "Harold Lasswell",
+        "D": "Sidney Hook",
+        "E": "Gaetano Mosca"
+      }
+    },
+    "118": {
+      "question": "The limitations of the universal \"trait theory\" of leadership imply that...",
+      "options": {
+        "A": "Any situation automatically produces a single leader",
+        "B": "Leadership is entirely determined by legal status",
+        "C": "Personal qualities have no influence on leadership at all",
+        "D": "The importance of personal qualities depends on the situation and environment",
+        "E": "The same set of qualities is effective under any regime"
+      }
+    },
+    "119": {
+      "question": "Conditions that limit the transformation of charismatic leadership into a leader cult:",
+      "options": {
+        "A": "The dependence of the legal assessment of decisions on the authority of the leader himself",
+        "B": "The combination of personal authority with exclusive control over coercive resources",
+        "C": "Functioning checks and balances",
+        "D": "Limits on personal control over the security forces",
+        "E": "A stable legal culture"
+      }
+    },
+    "120": {
+      "question": "Beyond the directly political elite, the ruling elite may include:",
+      "options": {
+        "A": "Large property owners",
+        "B": "All politically active citizens regardless of the extent of their influence",
+        "C": "People with higher education regardless of their position in decision-making",
+        "D": "Heads of the information sphere",
+        "E": "Influential figures in science"
+      }
+    }
+  }
+}

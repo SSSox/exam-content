@@ -1,0 +1,2072 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 131,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Опосредованность мышления означает познание свойств объекта...",
+        "en": "The mediated nature of thinking means cognition of the properties of an object...",
+        "kk": "Ойлаудың жанамалығы нысанның қасиеттерін қалай тануды білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Без обращения к знаниям и отношениям",
+            "en": "Without reference to knowledge and relations",
+            "kk": "Білім мен қатынастарға жүгінбей тануды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Посредством сохранения неизменного чувственного следа",
+            "en": "By retaining an unchanged sensory trace",
+            "kk": "Өзгермейтін сезімдік ізді сақтау арқылы тануды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только при непосредственном раздражении рецептора",
+            "en": "Only under direct stimulation of a receptor",
+            "kk": "Тек рецепторды тікелей тітіркендіру кезінде тануды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительно через эмоциональную оценку",
+            "en": "Exclusively through emotional evaluation",
+            "kk": "Тек эмоциялық бағалау арқылы тануды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Через другие свойства и дополнительные средства",
+            "en": "Through other properties and additional means",
+            "kk": "Басқа қасиеттер мен қосымша құралдар арқылы тануды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 8, 43, 44",
+          "units": [
+            "p8",
+            "p43",
+            "p44"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия форм мышления:",
+        "en": "Correct correspondences between forms of thinking:",
+        "kk": "Ойлау формаларының дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Суждение: утверждение или отрицание связи",
+            "en": "Judgment: affirmation or denial of a connection",
+            "kk": "Пайым: байланысты растау немесе терістеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ощущение: отвлечённое обобщение класса объектов",
+            "en": "Sensation: an abstract generalization of a class of objects",
+            "kk": "Түйсік: нысандар класын абстрактілі жалпылау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Представление: система логических посылок",
+            "en": "Mental representation: a system of logical premises",
+            "kk": "Елес: логикалық алғышарттар жүйесі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Умозаключение: новое знание из суждений",
+            "en": "Inference: new knowledge derived from judgments",
+            "kk": "Қорытынды: пайымдардан жаңа білім алу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Понятие: отражение существенных признаков",
+            "en": "Concept: reflection of essential features",
+            "kk": "Ұғым: маңызды белгілерді шағылыстыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 7, 47, 48",
+          "units": [
+            "p7",
+            "p47",
+            "p48"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Инженер мысленно выделяет узлы механизма, чтобы изучить их функции. Это операция...",
+        "en": "An engineer mentally singles out the components of a mechanism in order to study their functions. This is the operation of...",
+        "kk": "Инженер механизм түйіндерінің қызметтерін зерттеу үшін оларды ойша бөліп көрсетеді. Бұл қандай операция?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Синтеза",
+            "en": "Synthesis",
+            "kk": "Синтез"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Типизации",
+            "en": "Typification",
+            "kk": "Типтеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Конкретизации",
+            "en": "Concretization",
+            "kk": "Нақтылау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Анализа",
+            "en": "Analysis",
+            "kk": "Талдау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обобщения",
+            "en": "Generalization",
+            "kk": "Жалпылау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 61, 62",
+          "units": [
+            "p61",
+            "p62"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Объединение изученных компонентов в мысленную модель работающего устройства представляет собой...",
+        "en": "Combining the components that have been studied into a mental model of a working device is...",
+        "kk": "Зерттелген құрамдастарды жұмыс істейтін құрылғының ойша моделіне біріктіру не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Абстрагирование",
+            "en": "Abstraction",
+            "kk": "Абстракциялау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Синтез",
+            "en": "Synthesis",
+            "kk": "Синтез"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Анализ",
+            "en": "Analysis",
+            "kk": "Талдау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сравнение",
+            "en": "Comparison",
+            "kk": "Салыстыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Классификацию",
+            "en": "Classification",
+            "kk": "Жіктеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 62, 63",
+          "units": [
+            "p62",
+            "p63"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Установление сходства и различий двух решений по заранее выделенным признакам является...",
+        "en": "Establishing the similarities and differences between two solutions on the basis of previously identified features is...",
+        "kk": "Екі шешімнің ұқсастығы мен айырмашылығын алдын ала бөлініп алынған белгілер бойынша анықтау не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Типизацией",
+            "en": "Typification",
+            "kk": "Типтеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Конкретизацией",
+            "en": "Concretization",
+            "kk": "Нақтылау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Реконструкцией",
+            "en": "Reconstruction",
+            "kk": "Реконструкция"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сравнением",
+            "en": "Comparison",
+            "kk": "Салыстыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Синтезом",
+            "en": "Synthesis",
+            "kk": "Синтез"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 66, 67",
+          "units": [
+            "p66",
+            "p67"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Мысленное выделение формы предмета с отвлечением от его материала и цвета называется...",
+        "en": "Mentally singling out the shape of an object while setting aside its material and color is called...",
+        "kk": "Заттың материалы мен түсінен алшақтап, оның пішінін ойша бөліп алу не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Абстрагированием",
+            "en": "Abstraction",
+            "kk": "Абстракциялау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Узнаванием",
+            "en": "Recognition",
+            "kk": "Тану"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Агглютинацией",
+            "en": "Agglutination",
+            "kk": "Агглютинация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Репродукцией",
+            "en": "Reproduction",
+            "kk": "Репродукция"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Конкретизацией",
+            "en": "Concretization",
+            "kk": "Нақтылау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 70, 71",
+          "units": [
+            "p70",
+            "p71"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные примеры операций мышления.",
+        "en": "Identify the correct examples of thinking operations.",
+        "kk": "Ойлау операцияларының дұрыс мысалдарын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Выделение общего признака: сенсорная адаптация",
+            "en": "Singling out a common feature: sensory adaptation",
+            "kk": "Ортақ белгіні бөліп алу: сенсорлық бейімделу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Соединение частей в целое: синтез",
+            "en": "Joining parts into a whole: synthesis",
+            "kk": "Бөліктерді тұтасқа қосу: синтез"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отвлечение от цвета: механическое запоминание",
+            "en": "Setting aside color: rote memorization",
+            "kk": "Түстен алшақтау: механикалық есте сақтау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Переход от правила к примеру: конкретизация",
+            "en": "Moving from a rule to an example: concretization",
+            "kk": "Ережеден мысалға көшу: нақтылау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выделение сторон целого: анализ",
+            "en": "Singling out the aspects of a whole: analysis",
+            "kk": "Тұтастың жақтарын бөліп көрсету: талдау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 61, 62, 74",
+          "units": [
+            "p61",
+            "p62",
+            "p74"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Преподаватель поясняет общее положение разбором отдельного случая. Это прежде всего...",
+        "en": "A teacher explains a general principle by working through a particular case. This is primarily...",
+        "kk": "Оқытушы жалпы тұжырымды жеке жағдайды талдау арқылы түсіндіреді. Бұл ең алдымен не?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Классификация",
+            "en": "Classification",
+            "kk": "Жіктеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сравнение",
+            "en": "Comparison",
+            "kk": "Салыстыру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Конкретизация",
+            "en": "Concretization",
+            "kk": "Нақтылау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Абстрагирование",
+            "en": "Abstraction",
+            "kk": "Абстракциялау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Синтез",
+            "en": "Synthesis",
+            "kk": "Синтез"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 74",
+          "units": [
+            "p74"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Выделение общего в предметах с выражением результата в понятии или правиле является...",
+        "en": "Singling out what objects have in common and expressing the result in a concept or a rule is...",
+        "kk": "Нысандардағы ортақты бөліп алып, нәтижені ұғымда немесе ережеде тұжырымдау не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обобщением",
+            "en": "Generalization",
+            "kk": "Жалпылау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Абстрагированием",
+            "en": "Abstraction",
+            "kk": "Абстракциялау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Классификацией",
+            "en": "Classification",
+            "kk": "Жіктеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сравнением",
+            "en": "Comparison",
+            "kk": "Салыстыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Конкретизацией",
+            "en": "Concretization",
+            "kk": "Нақтылау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 76",
+          "units": [
+            "p76"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Получение нового суждения на основании нескольких исходных суждений представляет собой...",
+        "en": "Obtaining a new judgment on the basis of several initial judgments is...",
+        "kk": "Бірнеше бастапқы пайымға сүйеніп жаңа пайым алу не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Конкретизацию",
+            "en": "Concretization",
+            "kk": "Нақтылау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Понятие",
+            "en": "A concept",
+            "kk": "Ұғым"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Синтез",
+            "en": "Synthesis",
+            "kk": "Синтез"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сравнение",
+            "en": "Comparison",
+            "kk": "Салыстыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Умозаключение",
+            "en": "Inference",
+            "kk": "Қорытынды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 48, 86",
+          "units": [
+            "p48",
+            "p86"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Решение задачи путём реального переставления деталей характеризует мышление...",
+        "en": "Solving a problem by physically rearranging parts characterizes... thinking.",
+        "kk": "Бөлшектерді нақты қайта орналастыру арқылы есепті шешу ойлаудың қай түрін сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теоретически-отвлечённое",
+            "en": "Theoretical-abstract",
+            "kk": "Теориялық-абстрактілі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Словесно-логическое",
+            "en": "Verbal-logical",
+            "kk": "Сөздік-логикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наглядно-действенное",
+            "en": "Visual-active",
+            "kk": "Көрнекі-әрекеттік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Интуитивно-понятийное",
+            "en": "Intuitive-conceptual",
+            "kk": "Интуитивті-ұғымдық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наглядно-образное",
+            "en": "Visual-imaginal",
+            "kk": "Көрнекі-бейнелі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 119, 120, 136",
+          "units": [
+            "p119",
+            "p120",
+            "p136"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия видов мышления:",
+        "en": "Correct correspondences between types of thinking:",
+        "kk": "Ойлау түрлерінің дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Словесно-логическое: операции с понятиями",
+            "en": "Verbal-logical: operations with concepts",
+            "kk": "Сөздік-логикалық: ұғымдармен операциялар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наглядно-образное: оперирование образами",
+            "en": "Visual-imaginal: operating with images",
+            "kk": "Көрнекі-бейнелі: бейнелермен әрекет ету"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наглядно-действенное: преобразование предметной ситуации",
+            "en": "Visual-active: transformation of a practical situation",
+            "kk": "Көрнекі-әрекеттік: заттық жағдайды қайта түрлендіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Образное: исключительно словесные определения",
+            "en": "Imaginal: exclusively verbal definitions",
+            "kk": "Бейнелі: тек сөздік анықтамалар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Абстрактное: только непосредственные движения",
+            "en": "Abstract: only direct movements",
+            "kk": "Абстрактілі: тек тікелей қозғалыстар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 105, 106, 136",
+          "units": [
+            "p105",
+            "p106",
+            "p136"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Архитектор мысленно меняет расположение помещений, опираясь на зрительный образ проекта. Мышление преимущественно...",
+        "en": "An architect mentally changes the arrangement of rooms relying on a visual image of the design. The thinking is predominantly...",
+        "kk": "Сәулетші жобаның көру бейнесіне сүйеніп, үй-жайлардың орналасуын ойша өзгертеді. Бұл негізінен қандай ойлау?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Предметно-действенное",
+            "en": "Object-active",
+            "kk": "Заттық-әрекеттік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наглядно-образное",
+            "en": "Visual-imaginal",
+            "kk": "Көрнекі-бейнелі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Словесно-логическое",
+            "en": "Verbal-logical",
+            "kk": "Сөздік-логикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сенсомоторное непосредственное",
+            "en": "Direct sensorimotor",
+            "kk": "Тікелей сенсомоторлық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Механически-репродуктивное",
+            "en": "Mechanically reproductive",
+            "kk": "Механикалық-репродуктивті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 120",
+          "units": [
+            "p120"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Структурной единицей научного мышления при сопоставлении с художественным является...",
+        "en": "The structural unit of scientific thinking, as compared with artistic thinking, is...",
+        "kk": "Көркем ойлаумен салыстырғанда ғылыми ойлаудың құрылымдық бірлігі не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Установка",
+            "en": "A set",
+            "kk": "Қондырма"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Переживание",
+            "en": "An experience",
+            "kk": "Толғаныс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Движение",
+            "en": "A movement",
+            "kk": "Қозғалыс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Понятие",
+            "en": "A concept",
+            "kk": "Ұғым"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Образ",
+            "en": "An image",
+            "kk": "Бейне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 111",
+          "units": [
+            "p111"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чем теоретическое обобщение отличается от первичного эмпирического?",
+        "en": "How does theoretical generalization differ from primary empirical generalization?",
+        "kk": "Теориялық жалпылау бастапқы эмпирикалық жалпылаудан немен ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключает использование понятий",
+            "en": "It excludes the use of concepts",
+            "kk": "Ұғымдарды қолдануды жоққа шығарады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сводится к накоплению впечатлений",
+            "en": "It is reduced to the accumulation of impressions",
+            "kk": "Әсерлерді жинақтауға келтіріледі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ограничивается внешним сходством случаев",
+            "en": "It is limited to the external similarity of cases",
+            "kk": "Жағдайлардың сыртқы ұқсастығымен шектеледі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Требует отказа от моделей",
+            "en": "It requires the rejection of models",
+            "kk": "Модельдерден бас тартуды талап етеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выявляет необходимые отношения и закономерности",
+            "en": "It reveals necessary relations and laws",
+            "kk": "Қажетті қатынастар мен заңдылықтарды ашады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 113, 123, 124",
+          "units": [
+            "p113",
+            "p123",
+            "p124"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Последовательное решение типовой задачи по заранее заданным правилам характеризует мышление...",
+        "en": "Solving a standard problem step by step according to rules given in advance characterizes... thinking.",
+        "kk": "Типтік есепті алдын ала берілген ережелер бойынша дәйекті шешу ойлаудың қай түрін сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интуитивное",
+            "en": "Intuitive",
+            "kk": "Интуитивті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Синкретическое",
+            "en": "Syncretic",
+            "kk": "Синкретикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Продуктивно-творческое",
+            "en": "Productive-creative",
+            "kk": "Өнімді-шығармашылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Алгоритмическое",
+            "en": "Algorithmic",
+            "kk": "Алгоритмдік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эвристическое",
+            "en": "Heuristic",
+            "kk": "Эвристикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 127, 128, 129",
+          "units": [
+            "p127",
+            "p128",
+            "p129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные определения видов мышления:",
+        "en": "Correct definitions of types of thinking:",
+        "kk": "Ойлау түрлерінің дұрыс анықтамалары:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эвристическое: поиск решения нестандартной задачи",
+            "en": "Heuristic: a search for a solution to a non-standard problem",
+            "kk": "Эвристикалық: стандартты емес есептің шешімін іздеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Алгоритмическое: следование установленным правилам",
+            "en": "Algorithmic: following established rules",
+            "kk": "Алгоритмдік: белгіленген ережелерді ұстану"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Интуитивное: обязательное осознание каждого этапа",
+            "en": "Intuitive: each stage is necessarily conscious",
+            "kk": "Интуитивті: әр кезеңді міндетті түрде ұғыну"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Репродуктивное: принципиально новое открытие",
+            "en": "Reproductive: a fundamentally new discovery",
+            "kk": "Репродуктивті: принципті жаңа жаңалық ашу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Дискурсивное: система связанных умозаключений",
+            "en": "Discursive: a system of connected inferences",
+            "kk": "Дискурсивті: өзара байланысты қорытындылар жүйесі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 127, 128, 129",
+          "units": [
+            "p127",
+            "p128",
+            "p129"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Критерий различения продуктивного и репродуктивного мышления состоит в...",
+        "en": "The criterion for distinguishing productive from reproductive thinking is...",
+        "kk": "Өнімді және репродуктивті ойлауды ажырату өлшемі неде?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Преобладающем темпераменте",
+            "en": "The predominant temperament",
+            "kk": "Басым темперамент түрінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Скорости смены нервных процессов",
+            "en": "The speed with which nervous processes alternate",
+            "kk": "Жүйке процестерінің ауысу жылдамдығында"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Новизне получаемого результата",
+            "en": "The novelty of the result obtained",
+            "kk": "Алынатын нәтиженің жаңалығында"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Длительности сенсорного следа",
+            "en": "The duration of the sensory trace",
+            "kk": "Сенсорлық ізтің ұзақтығында"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Количестве действующих рецепторов",
+            "en": "The number of active receptors",
+            "kk": "Әрекет етуші рецепторлар санында"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 132, 133, 143",
+          "units": [
+            "p132",
+            "p133",
+            "p143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Развёрнутость во времени, отчётливость этапов и их осознание характеризуют мышление...",
+        "en": "Extension in time, distinct stages and awareness of those stages characterize... thinking.",
+        "kk": "Уақыт бойынша жайылуы, кезеңдердің айқындығы және оларды ұғыну ойлаудың қай түрін сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Синкретическое",
+            "en": "Syncretic",
+            "kk": "Синкретикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Аутическое",
+            "en": "Autistic",
+            "kk": "Аутистік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Аналитическое",
+            "en": "Analytical",
+            "kk": "Аналитикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Интуитивное",
+            "en": "Intuitive",
+            "kk": "Интуитивті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непроизвольно-образное",
+            "en": "Involuntary-imaginal",
+            "kk": "Еріксіз-бейнелі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 140, 141",
+          "units": [
+            "p140",
+            "p141"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Речь, направленная на самого себя и занимающая промежуточное положение между внешней и внутренней, называется...",
+        "en": "Speech directed at oneself and occupying an intermediate position between external and inner speech is called...",
+        "kk": "Өзіне бағытталған және сыртқы мен ішкі сөйлеудің аралығында орын алатын сөйлеу не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Коммуникативной адресной",
+            "en": "Communicative addressed speech",
+            "kk": "Коммуникативтік мекенжайлы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Диалогической",
+            "en": "Dialogic speech",
+            "kk": "Диалогтік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Монологической публичной",
+            "en": "Public monologic speech",
+            "kk": "Монологтік көпшілік алдындағы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эгоцентрической",
+            "en": "Egocentric speech",
+            "kk": "Эгоцентрлік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Письменной экспрессивной",
+            "en": "Written expressive speech",
+            "kk": "Жазбаша экспрессивті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 39, 41, 53",
+          "units": [
+            "p39",
+            "p41",
+            "p53"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "topic_id": 7,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие положения о связи речи и мышления верны?",
+        "en": "Which statements about the relationship between speech and thinking are correct?",
+        "kk": "Сөйлеу мен ойлаудың байланысы туралы қандай тұжырымдар дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Любое произнесение слов тождественно мышлению",
+            "en": "Any utterance of words is identical to thinking",
+            "kk": "Кез келген сөздерді айту ойлаумен бірдей"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Внутренняя речь дословно копирует внешнюю",
+            "en": "Inner speech copies external speech word for word",
+            "kk": "Ішкі сөйлеу сыртқы сөйлеуді сөзбе-сөз көшіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Мышление не сводится к речевому процессу",
+            "en": "Thinking cannot be reduced to a speech process",
+            "kk": "Ойлау сөйлеу процесіне келтірілмейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Внутренняя речь отличается от развёрнутой внешней",
+            "en": "Inner speech differs from expanded external speech",
+            "kk": "Ішкі сөйлеу жайылған сыртқы сөйлеуден ерекшеленеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Связь с речью устраняет связь с практикой",
+            "en": "The link with speech eliminates the link with practice",
+            "kk": "Сөйлеумен байланыс практикамен байланысты жояды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 39, 40, 53, 54",
+          "units": [
+            "p39",
+            "p40",
+            "p53",
+            "p54"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Перестройку отношений мышления и речи, при которой речь становится интеллектуальной, исследовал...",
+        "en": "The restructuring of the relations between thinking and speech, whereby speech becomes intellectual, was studied by...",
+        "kk": "Ойлау мен сөйлеу қатынастарының сөйлеу интеллектуалды болатын қайта құрылуын кім зерттеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Э. Кречмер",
+            "en": "E. Kretschmer",
+            "kk": "Э. Кречмер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "К. Томас",
+            "en": "K. Thomas",
+            "kk": "К. Томас"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Л. С. Выготский",
+            "en": "L. S. Vygotsky",
+            "kk": "Л. С. Выготский"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "У. Шелдон",
+            "en": "W. Sheldon",
+            "kk": "У. Шелдон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Г. Селье",
+            "en": "H. Selye",
+            "kk": "Г. Селье"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 32, 33, 34",
+          "units": [
+            "p32",
+            "p33",
+            "p34"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Слияние слов в сокращённые смысловые образования во внутренней речи называется...",
+        "en": "The merging of words into abbreviated semantic formations in inner speech is called...",
+        "kk": "Ішкі сөйлеуде сөздердің қысқартылған мағыналық түзілімдерге бірігуі не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Категоризацией",
+            "en": "Categorization",
+            "kk": "Категориялау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Синкретизмом",
+            "en": "Syncretism",
+            "kk": "Синкретизм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вербализацией",
+            "en": "Verbalization",
+            "kk": "Вербализация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Предикативностью",
+            "en": "Predicativity",
+            "kk": "Предикативтілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Агглютинацией",
+            "en": "Agglutination",
+            "kk": "Агглютинация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 40",
+          "units": [
+            "p40"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исследование мышления как внутреннего акта, относительно обособленного от чувственных образов, характерно для...",
+        "en": "The study of thinking as an inner act relatively separate from sensory images is characteristic of the...",
+        "kk": "Ойлауды сезімдік бейнелерден салыстырмалы түрде оқшауланған ішкі акт ретінде зерттеу қай бағытқа тән?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вюрцбургской школы",
+            "en": "Würzburg school",
+            "kk": "Вюрцбург мектебіне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Экологической теории",
+            "en": "Ecological theory",
+            "kk": "Экологиялық теорияға"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гуморальной концепции",
+            "en": "Humoral concept",
+            "kk": "Гуморальдық тұжырымдамаға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Культурно-исторической теории",
+            "en": "Cultural-historical theory",
+            "kk": "Мәдени-тарихи теорияға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Конституционального подхода",
+            "en": "Constitutional approach",
+            "kk": "Конституциялық тәсілге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 149, 150",
+          "units": [
+            "p149",
+            "p150"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В гештальтпсихологии решение мыслительной задачи объясняется прежде всего...",
+        "en": "In Gestalt psychology, the solution of a thinking task is explained primarily by...",
+        "kk": "Гештальтпсихологияда ойлау есебінің шешілуі ең алдымен немен түсіндіріледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Переструктурированием проблемной ситуации",
+            "en": "Restructuring of the problem situation",
+            "kk": "Проблемалық жағдайды қайта құрылымдаумен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Изменением пропорции телесных жидкостей",
+            "en": "A change in the proportion of body fluids",
+            "kk": "Дене сұйықтықтары пропорциясының өзгеруімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Механическим накоплением парных ассоциаций",
+            "en": "Mechanical accumulation of paired associations",
+            "kk": "Жұптасқан ассоциациялардың механикалық жинақталуымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Фиксацией неизменных сенсорных элементов",
+            "en": "Fixation of unchanging sensory elements",
+            "kk": "Өзгермейтін сенсорлық элементтерді бекітумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Повторением готовой двигательной реакции",
+            "en": "Repetition of a ready-made motor response",
+            "kk": "Дайын қозғалыс реакциясын қайталаумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 154, 156",
+          "units": [
+            "p154",
+            "p156"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Операциональная концепция интеллекта и различение конкретных и формальных операций связаны с...",
+        "en": "The operational concept of intelligence and the distinction between concrete and formal operations are associated with...",
+        "kk": "Интеллекттің операциялық тұжырымдамасы және нақты мен формалды операцияларды ажырату кіммен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Д. Канеманом",
+            "en": "D. Kahneman",
+            "kk": "Д. Канеман"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "К. Левином",
+            "en": "K. Lewin",
+            "kk": "К. Левин"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ж. Пиаже",
+            "en": "J. Piaget",
+            "kk": "Ж. Пиаже"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Д. Н. Узнадзе",
+            "en": "D. N. Uznadze",
+            "kk": "Д. Н. Узнадзе"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Т. Рибо",
+            "en": "T. Ribot",
+            "kk": "Т. Рибо"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 170, 174, 175",
+          "units": [
+            "p170",
+            "p174",
+            "p175"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия «подход: основное понятие».",
+        "en": "Identify the correct \"approach: key concept\" correspondences.",
+        "kk": "«Тәсіл: негізгі ұғым» сәйкестіктерінің дұрыстарын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Информационный подход: обработка информации",
+            "en": "Information-processing approach: processing of information",
+            "kk": "Ақпараттық тәсіл: ақпаратты өңдеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Психоанализ: только внешние стимулы",
+            "en": "Psychoanalysis: only external stimuli",
+            "kk": "Психоанализ: тек сыртқы тітіркендіргіштер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гештальтпсихология: переструктурирование ситуации",
+            "en": "Gestalt psychology: restructuring of the situation",
+            "kk": "Гештальтпсихология: жағдайды қайта құрылымдау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Вюрцбургская школа: гуморальный баланс",
+            "en": "Würzburg school: humoral balance",
+            "kk": "Вюрцбург мектебі: гуморальдық тепе-теңдік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ж. Пиаже: интеллектуальные операции",
+            "en": "J. Piaget: intellectual operations",
+            "kk": "Ж. Пиаже: интеллектуалдық операциялар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 149, 154, 170, 178",
+          "units": [
+            "p149",
+            "p154",
+            "p170",
+            "p178"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ребёнок переходит от одного частного случая к другому, минуя общее правило. Это особенность мышления...",
+        "en": "A child moves from one particular case to another, bypassing the general rule. This is a feature of... thinking.",
+        "kk": "Бала жалпы ережені айналып өтіп, бір жеке жағдайдан екіншісіне көшеді. Бұл ойлаудың қандай түрінің ерекшелігі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Формально-операционального",
+            "en": "Formal-operational",
+            "kk": "Формалды-операциялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Алгоритмического",
+            "en": "Algorithmic",
+            "kk": "Алгоритмдік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Дискурсивно-аналитического",
+            "en": "Discursive-analytical",
+            "kk": "Дискурсивті-аналитикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Допонятийного",
+            "en": "Preconceptual",
+            "kk": "Ұғымға дейінгі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Теоретически-обобщённого",
+            "en": "Theoretical-generalized",
+            "kk": "Теориялық-жалпыланған"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 13, 16, 17",
+          "units": [
+            "p13",
+            "p16",
+            "p17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "topic_id": 7,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему формулирование решения словами может углублять его понимание?",
+        "en": "Why can putting a solution into words deepen the understanding of it?",
+        "kk": "Неге шешімді сөзбен тұжырымдау оны түсінуді тереңдетуі мүмкін?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исключает влияние чувственного опыта",
+            "en": "It excludes the influence of sensory experience",
+            "kk": "Сезімдік тәжірибенің әсерін жояды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Закрепляет мысль и делает связи более отчётливыми",
+            "en": "It fixes the thought and makes the connections more distinct",
+            "kk": "Ойды бекітеді және байланыстарды айқынырақ етеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Освобождает мысль от необходимости обоснования",
+            "en": "It frees thought from the need for justification",
+            "kk": "Ойды негіздеу қажеттілігінен босатады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Автоматически заменяет анализ повторением",
+            "en": "It automatically replaces analysis with repetition",
+            "kk": "Талдауды автоматты түрде қайталаумен алмастырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Превращает любое суждение в безусловный рефлекс",
+            "en": "It turns any judgment into an unconditioned reflex",
+            "kk": "Кез келген пайымды шартсыз рефлекске айналдырады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 28, 29, 30",
+          "units": [
+            "p28",
+            "p29",
+            "p30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "topic_id": 7,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему практическое мышление нельзя считать заведомо проще теоретического?",
+        "en": "Why can practical thinking not be considered simpler than theoretical thinking by default?",
+        "kk": "Неге практикалық ойлауды теориялықтан әлдеқайда қарапайым деп санауға болмайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Оно исключает использование общих знаний",
+            "en": "It excludes the use of general knowledge",
+            "kk": "Ол жалпы білімді пайдалануды жоққа шығарады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Оно решает задачи в условиях реальных ограничений и ответственности",
+            "en": "It solves problems under real constraints and responsibility",
+            "kk": "Ол есептерді нақты шектеулер мен жауапкершілік жағдайында шешеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Оно не требует анализа ситуации",
+            "en": "It does not require analysis of the situation",
+            "kk": "Ол жағдайды талдауды қажет етпейді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Оно существует без участия воли",
+            "en": "It exists without the participation of will",
+            "kk": "Ол ерік-жігерсіз өмір сүреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Оно ограничено только воспроизведением навыка",
+            "en": "It is limited to the reproduction of a skill",
+            "kk": "Ол тек дағдыны қайта жаңғыртумен шектеледі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L7",
+          "file": "Лекции/Лекция 7.docx",
+          "location": "Абзацы 115, 116, 117, 138",
+          "units": [
+            "p115",
+            "p116",
+            "p117",
+            "p138"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 11,
+  "topic_name": "Political Culture and Behavior",
+  "questions": {
+    "236": {
+      "question": "A person's need to determine their group affiliation expresses the ... function of political culture.",
+      "options": {
+        "A": "Communication",
+        "B": "Identification",
+        "C": "Adaptation",
+        "D": "Recruitment",
+        "E": "Orientation"
+      }
+    },
+    "237": {
+      "question": "Understanding one's own opportunities to exercise rights within a particular system belongs to the ... function.",
+      "options": {
+        "A": "Orientation",
+        "B": "Integration",
+        "C": "Identification",
+        "D": "Communication",
+        "E": "Mobilization"
+      }
+    },
+    "238": {
+      "question": "Political opponents discuss their disagreements on the basis of symbols and terms understood by both sides. Which function of culture is at work?",
+      "options": {
+        "A": "Coercive",
+        "B": "Distributive",
+        "C": "Selective",
+        "D": "Communicative",
+        "E": "Predictive"
+      }
+    },
+    "239": {
+      "question": "Levels of value orientation in the structure of political culture:",
+      "options": {
+        "A": "Institutional-sectoral",
+        "B": "Worldview",
+        "C": "Political perceptions",
+        "D": "Normative-procedural",
+        "E": "Civic"
+      }
+    },
+    "240": {
+      "question": "The typology of parochial, subject and participant political cultures was proposed by...",
+      "options": {
+        "A": "Peter Bachrach and Morton Baratz",
+        "B": "Gabriel Almond and Sidney Verba",
+        "C": "David Easton and Karl Deutsch",
+        "D": "Gaetano Mosca and Vilfredo Pareto",
+        "E": "Robert Michels and Maurice Duverger"
+      }
+    },
+    "241": {
+      "question": "A citizen recognizes the central institutions and expects decisions from them, but hardly seeks to influence politics. This is an orientation of a ... culture.",
+      "options": {
+        "A": "Participant",
+        "B": "Market",
+        "C": "Parochial",
+        "D": "Subject",
+        "E": "Counter-elite"
+      }
+    },
+    "242": {
+      "question": "A parochial political culture differs from a subject one in...",
+      "options": {
+        "A": "A higher level of regular political activity",
+        "B": "The predominance of competition among professional parties",
+        "C": "A mandatory belief in the leader's exceptional gift",
+        "D": "A weak orientation toward the nationwide political system",
+        "E": "Constant oversight of the work of elected bodies"
+      }
+    },
+    "243": {
+      "question": "The participant type of political culture is characterized by...",
+      "options": {
+        "A": "An exclusively hereditary political identity",
+        "B": "An orientation toward participation and influence on political decisions",
+        "C": "A complete coincidence of public and private morality",
+        "D": "Acceptance of authority without a desire to participate",
+        "E": "A lack of interest in the political system"
+      }
+    },
+    "244": {
+      "question": "The \"civic culture\" in Almond and Verba is...",
+      "options": {
+        "A": "A mandatory rejection of representation",
+        "B": "A mixed configuration of political orientations",
+        "C": "The complete disappearance of subject attitudes",
+        "D": "Exclusively the maximum activity of every citizen",
+        "E": "The absence of political traditions"
+      }
+    },
+    "245": {
+      "question": "In a statist political culture, the leading role is assigned to...",
+      "options": {
+        "A": "State institutions",
+        "B": "Free exchange among private participants",
+        "C": "International non-governmental networks",
+        "D": "Family and kinship associations",
+        "E": "Autonomous professional unions"
+      }
+    },
+    "246": {
+      "question": "Which elements of political culture usually change more slowly than specific assessments of events?",
+      "options": {
+        "A": "The attitude toward a single bill",
+        "B": "Reactions to a recent speech",
+        "C": "Assessments of an individual appointment",
+        "D": "Worldview principles",
+        "E": "Preferences in the current elections"
+      }
+    },
+    "247": {
+      "question": "Political socialization involves...",
+      "options": {
+        "A": "The one-time receipt of a passport",
+        "B": "Only participation in a first election campaign",
+        "C": "Only the initial memorization of state symbols",
+        "D": "Exclusively the professional training of officials",
+        "E": "The acquisition of political norms and roles throughout life"
+      }
+    },
+    "248": {
+      "question": "A child perceives power through a specific leader and idealizes his image. This is mainly a manifestation of...",
+      "options": {
+        "A": "Primary political socialization",
+        "B": "Rational-legal domination",
+        "C": "Secondary political socialization",
+        "D": "Entrepreneurial recruitment",
+        "E": "Institutional differentiation"
+      }
+    },
+    "249": {
+      "question": "Secondary political socialization is connected primarily with...",
+      "options": {
+        "A": "Only a child's first acquaintance with the symbols of power",
+        "B": "The biological inheritance of political preferences",
+        "C": "The independent processing of information and the revision of political orientations",
+        "D": "A mandatory appointment to a state post",
+        "E": "Exclusively the uncritical assimilation of personified images"
+      }
+    },
+    "250": {
+      "question": "Indicate the correct correspondences between a type of socialization and an orientation.",
+      "options": {
+        "A": "Conflict: an orientation toward intergroup struggle",
+        "B": "Hegemonic: rejection of other political systems",
+        "C": "Hegemonic: a readiness to change preferences while recognizing the equality of opponents",
+        "D": "Pluralistic: recognition of one's own system as the only permissible one",
+        "E": "Pluralistic: recognition of equality and differences"
+      }
+    },
+    "251": {
+      "question": "A citizen's withdrawal from political life and avoidance of participation in elections characterize...",
+      "options": {
+        "A": "Political absenteeism",
+        "B": "Political recruitment",
+        "C": "Interest aggregation",
+        "D": "Electoral mobilization",
+        "E": "Party institutionalization"
+      }
+    },
+    "252": {
+      "question": "Motives that may induce a person to take part in politics:",
+      "options": {
+        "A": "The mere acquisition of citizenship, regardless of the perception of personal and group interests",
+        "B": "Awareness of one's own interests",
+        "C": "A desire to defend group needs",
+        "D": "The experience of a threat to one's social position",
+        "E": "Exclusively external coercion without independent motivation"
+      }
+    },
+    "253": {
+      "question": "Participants in an authorized picket demand a change to a particular decision while continuing to recognize the existing institutions. This is an example of...",
+      "options": {
+        "A": "A hereditary method of legitimation",
+        "B": "A mandatory rejection of the foundations of the whole system",
+        "C": "Protest aimed at correcting the political course",
+        "D": "A refusal of any form of political participation",
+        "E": "The transfer of sovereignty to a pressure group"
+      }
+    },
+    "254": {
+      "question": "Which statements about political culture are correct?",
+      "options": {
+        "A": "Changing formal institutions is enough to change stable orientations immediately",
+        "B": "It can combine traditional and new elements",
+        "C": "Political culture is expressed primarily in a party's current program document",
+        "D": "It can reproduce earlier forms of behavior",
+        "E": "\"Pure\" types can in reality form mixed forms"
+      }
+    },
+    "255": {
+      "question": "A society is split into subcultures that have lost a common political language. Which risk follows most directly from this?",
+      "options": {
+        "A": "The separation of powers automatically replaces the lost symbolic link between groups",
+        "B": "The weakening of the common language means above all a reduction in the number of political interests",
+        "C": "The transmission of new attitudes occurs independently of communication between generations and groups",
+        "D": "Competition among subcultures in itself provides common rules for understanding political decisions",
+        "E": "The weakening of communication and integration of the political community"
+      }
+    }
+  }
+}

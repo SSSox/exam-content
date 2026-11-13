@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 9,
+  "topic_name": "Modern Models, Mass Culture and Elite Culture",
+  "questions": {
+    "201": {
+      "question": "The model of culture founded on historical optimism and faith in the triumph of reason is...",
+      "options": {
+        "A": "The postmodern",
+        "B": "The psychoanalytic",
+        "C": "The classical",
+        "D": "The diffusionist",
+        "E": "The morphological"
+      }
+    },
+    "202": {
+      "question": "Evaluating other cultures by their degree of conformity to the European model expresses the principle of...",
+      "options": {
+        "A": "Cultural relativism",
+        "B": "Historicism",
+        "C": "Functionalism",
+        "D": "Eurocentrism",
+        "E": "Dialogism"
+      }
+    },
+    "203": {
+      "question": "In the classical model of culture, the \"discovery of the human being\" as a free creative personality is connected with...",
+      "options": {
+        "A": "Eurocentrism",
+        "B": "Historicism",
+        "C": "Energetism",
+        "D": "Organicism",
+        "E": "Humanism"
+      }
+    },
+    "204": {
+      "question": "Reason as the ability to act in accordance with one's own goals characterizes the principle of...",
+      "options": {
+        "A": "Providentialism",
+        "B": "Sensualism",
+        "C": "Diffusionism",
+        "D": "Rationalism",
+        "E": "Traditionalism"
+      }
+    },
+    "205": {
+      "question": "The awareness of the historically changeable boundary between the human world and the surrounding world corresponds to...",
+      "options": {
+        "A": "Relationalism",
+        "B": "Historicism",
+        "C": "Naturalism",
+        "D": "Synchronism",
+        "E": "Utilitarianism"
+      }
+    },
+    "206": {
+      "question": "Indicate the propositions that correspond to the critique of rationalism in the modern model of culture.",
+      "options": {
+        "A": "Rejection of individual value searches",
+        "B": "Attention to irrational principles",
+        "C": "Understanding values as personal quests",
+        "D": "Recognition of reason as the only source of cultural life",
+        "E": "Unconditional acceptance of any established prescription"
+      }
+    },
+    "207": {
+      "question": "Which chain links industrial production with mass culture more accurately?",
+      "options": {
+        "A": "The disappearance of leisure, the ritualization of labour, the professionalization of art",
+        "B": "Machine production, estate exclusiveness, anonymous folklore",
+        "C": "Machine production, the standardization of activity, a standardized cultural product",
+        "D": "Manual production, individual commissions, the standardization of leisure",
+        "E": "The reduction of education, the disappearance of the audience, the growth of mass literature"
+      }
+    },
+    "208": {
+      "question": "The social shift that directly created a solvent demand for standardized cultural entertainment is...",
+      "options": {
+        "A": "The merging of production time with religious rite",
+        "B": "A return to a closed subsistence economy",
+        "C": "The population's rejection of mass media of communication",
+        "D": "The disappearance of the market for cultural services",
+        "E": "The division of a working person's time into work and leisure"
+      }
+    },
+    "209": {
+      "question": "The expansion of elementary education contributed to mass literature primarily through...",
+      "options": {
+        "A": "The formation of a numerous reading audience",
+        "B": "The abandonment of the commercial distribution of books",
+        "C": "A reduction in the number of publishing genres",
+        "D": "The transfer of all written culture into oral tradition",
+        "E": "The restoration of the monopoly of manuscript workshops"
+      }
+    },
+    "210": {
+      "question": "The criterion that distinguishes the elite minority in Ortega y Gasset's understanding is...",
+      "options": {
+        "A": "An exceptionally high property status",
+        "B": "A coincidence of one's own tastes with the statistical average",
+        "C": "High demands on oneself and voluntarily accepted obligations",
+        "D": "The consumption of the largest possible number of cultural goods",
+        "E": "Membership in a hereditary political aristocracy"
+      }
+    },
+    "211": {
+      "question": "Traits that Ortega y Gasset ascribed to the \"mass man\":",
+      "options": {
+        "A": "An unrestrained growth of life demands",
+        "B": "Voluntary acceptance of cultural burdens and obligations",
+        "C": "Service to a higher norm accepted independently",
+        "D": "Ingratitude toward the conditions that satisfy his demands",
+        "E": "Heightened demands on one's own achievements"
+      }
+    },
+    "212": {
+      "question": "The \"law of raspberry jam\" about the thin layer of widely distributed culture is associated with the name of...",
+      "options": {
+        "A": "D. Macdonald",
+        "B": "E. Shils",
+        "C": "Z. Bauman",
+        "D": "W. Schramm",
+        "E": "D. Bell"
+      }
+    },
+    "213": {
+      "question": "Z. Bauman explained the mass character of the culture of industrial countries...",
+      "options": {
+        "A": "By the predominance of individual artistic commissions",
+        "B": "Only by the lowering of the cost of a printed copy",
+        "C": "Exclusively by the reduction of school education",
+        "D": "By the similarity of living conditions of ever larger groups of the population",
+        "E": "Only by the technical range of broadcasting channels"
+      }
+    },
+    "214": {
+      "question": "The dependence of mass culture on the forces that finance the mass media was emphasized by...",
+      "options": {
+        "A": "L. Rosten",
+        "B": "W. Schramm",
+        "C": "E. Shils",
+        "D": "F. Stanton",
+        "E": "G. Seldes"
+      }
+    },
+    "215": {
+      "question": "The thinker who saw the meaning of mass culture in opening access to the highest spiritual values for the mass individual was...",
+      "options": {
+        "A": "O. Spengler",
+        "B": "D. Macdonald",
+        "C": "T. Adorno",
+        "D": "E. Shils",
+        "E": "J. Ortega y Gasset"
+      }
+    },
+    "216": {
+      "question": "Demassification in the characterization of post-industrial society means...",
+      "options": {
+        "A": "The cessation of any mass dissemination of information",
+        "B": "The return of the estate immobility of the audience",
+        "C": "The expansion of a single obligatory cultural norm",
+        "D": "The growth of uniformity of consumption patterns",
+        "E": "The transition from unification to personalization"
+      }
+    },
+    "217": {
+      "question": "The feature of mass culture expressed in the output of a large quantity of products of the same type is...",
+      "options": {
+        "A": "Uniqueness and non-reproducibility",
+        "B": "Anonymity and variability",
+        "C": "Esotericism and initiation",
+        "D": "Seriality and replicability",
+        "E": "Sacredness and ritual character"
+      }
+    },
+    "218": {
+      "question": "The commercial character of mass culture means primarily...",
+      "options": {
+        "A": "A legal prohibition of repeated distribution",
+        "B": "The orientation of a product to sale to a broad range of consumers",
+        "C": "The obligatory absence of professional authors",
+        "D": "Keeping the product exclusively within a closed group",
+        "E": "The predominance of individual, non-serial commissions"
+      }
+    },
+    "219": {
+      "question": "Pairings that confirm the professional character of the creation of mass culture:",
+      "options": {
+        "A": "A film script: the work of a writer",
+        "B": "A mass-market novel: obligatory collective anonymous authorship",
+        "C": "A film: the exclusion of the specialized division of creative labour",
+        "D": "A pop song: the absence of an individual composer's contribution",
+        "E": "Advertising: the work of a designer"
+      }
+    },
+    "220": {
+      "question": "Which positive property of mass culture is noted alongside its commercial limitations?",
+      "options": {
+        "A": "The guaranteed preference of the audience for the most complex models",
+        "B": "The disappearance of differences in the aesthetic level of works",
+        "C": "An abundance of accessible symbolic forms, images and information",
+        "D": "The automatic formation of impeccable moral taste",
+        "E": "Complete independence from market mechanisms"
+      }
+    },
+    "221": {
+      "question": "How does classical culture relate to elite and mass culture in terms of the way it is created and assimilated?",
+      "options": {
+        "A": "Subcultural in creation, it does not go beyond the group",
+        "B": "Elite in creation, it becomes mass in assimilation",
+        "C": "Marginal in creation, it loses its artistic form",
+        "D": "Folk in creation, it excludes professional performance",
+        "E": "Mass in creation, it remains accessible only to the author"
+      }
+    },
+    "222": {
+      "question": "A borderline formation at the intersection of languages, epochs or ethnic cultures is called...",
+      "options": {
+        "A": "Professional culture",
+        "B": "Classical culture",
+        "C": "Marginal culture",
+        "D": "Material culture",
+        "E": "Dominant culture"
+      }
+    },
+    "223": {
+      "question": "The feature that distinguishes a countercultural stance from mere group distinctiveness is...",
+      "options": {
+        "A": "The territorial unity of an artistic school",
+        "B": "Opposition to the fundamental principles of the mainstream culture",
+        "C": "The coincidence of the interests of a single age group",
+        "D": "The preservation of a local variant of a common custom",
+        "E": "The presence of a special professional vocabulary"
+      }
+    },
+    "224": {
+      "question": "Indicate the tasks associated with elite culture.",
+      "options": {
+        "A": "Rejection of complex aesthetic experimentation",
+        "B": "The creation of new aesthetic forms",
+        "C": "Reducing artistic experience to serial consumption",
+        "D": "The preservation of the creative principle",
+        "E": "The reproduction of only already tested market formulas"
+      }
+    },
+    "225": {
+      "question": "Actions of advertising linked with the work of the collective imagination:",
+      "options": {
+        "A": "Eliminating the symbolic expectations of the audience",
+        "B": "Refusing to construct consumer images",
+        "C": "Forming the image of a new consumer",
+        "D": "Recording only the already existing material properties of a product",
+        "E": "Creating new meanings of consumption"
+      }
+    }
+  }
+}

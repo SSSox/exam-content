@@ -1,0 +1,1362 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 66,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Основное отличие восприятия от ощущения заключается в отражении...",
+        "en": "The main difference between perception and sensation lies in the reflection of...",
+        "kk": "Қабылдаудың түйсіктен басты айырмашылығы нені шағылыстыруында?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Целостного предмета в совокупности свойств",
+            "en": "A whole object in the totality of its properties",
+            "kk": "Заттың қасиеттер жиынтығындағы тұтастығын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отдельного качества при прямом воздействии",
+            "en": "An individual quality under direct stimulation",
+            "kk": "Тікелей әсер ету кезіндегі жекелеген сапаны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Образа желаемого будущего",
+            "en": "An image of a desired future",
+            "kk": "Қалаған болашақ бейнесін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обобщённых существенных отношений",
+            "en": "Generalized essential relations",
+            "kk": "Жалпыланған маңызды қатынастарды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Предмета только вне непосредственного контакта",
+            "en": "An object only outside direct contact",
+            "kk": "Затты тек тікелей жанасудан тыс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 4, 7, 8",
+          "units": [
+            "p4",
+            "p7",
+            "p8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отнесение воспринимаемого образа к конкретному объекту внешнего мира выражает...",
+        "en": "Attributing a perceived image to a specific object of the external world expresses...",
+        "kk": "Қабылданған бейнені сыртқы дүниенің нақты нысанына жатқызу қабылдаудың қандай қасиетін білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Предметность",
+            "en": "Objectivity",
+            "kk": "Заттылықты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Избирательность",
+            "en": "Selectivity",
+            "kk": "Талғампаздықты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Константность",
+            "en": "Constancy",
+            "kk": "Тұрақтылықты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Апперцепцию",
+            "en": "Apperception",
+            "kk": "Апперцепцияны"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Структурность",
+            "en": "Structuredness",
+            "kk": "Құрылымдылықты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 13",
+          "units": [
+            "p13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Воспринимаемый фрагмент достраивается до образа целого предмета. Проявляется свойство...",
+        "en": "A perceived fragment is completed into the image of a whole object. Which property is manifested?",
+        "kk": "Қабылданатын үзінді тұтас заттың бейнесіне дейін толықтырылады. Қабылдаудың қандай қасиеті көрінеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Целостность",
+            "en": "Wholeness",
+            "kk": "Тұтастық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Структурность",
+            "en": "Structuredness",
+            "kk": "Құрылымдылық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Предметность",
+            "en": "Objectivity",
+            "kk": "Заттылық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Константность",
+            "en": "Constancy",
+            "kk": "Тұрақтылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Осмысленность",
+            "en": "Meaningfulness",
+            "kk": "Мәнділік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 15",
+          "units": [
+            "p15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Узнавание мелодии при восприятии последовательности отдельных нот объясняется...",
+        "en": "Recognizing a melody when perceiving a sequence of separate notes is explained by...",
+        "kk": "Жекелеген ноталар тізбегін қабылдағанда әуенді тануды қабылдаудың қай қасиеті түсіндіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Константностью",
+            "en": "Constancy",
+            "kk": "Тұрақтылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Предметностью",
+            "en": "Objectivity",
+            "kk": "Заттылық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Апперцепцией",
+            "en": "Apperception",
+            "kk": "Апперцепция"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Избирательностью",
+            "en": "Selectivity",
+            "kk": "Талғампаздық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Структурностью",
+            "en": "Structuredness",
+            "kk": "Құрылымдылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 16",
+          "units": [
+            "p16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Удаляющийся автобус воспринимается сохраняющим свои размеры. Это проявление...",
+        "en": "A receding bus is perceived as retaining its size. This is a manifestation of...",
+        "kk": "Алыстап бара жатқан автобус өз өлшемін сақтайтындай болып қабылданады. Бұл қабылдаудың қандай қасиетінің көрінісі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Константности",
+            "en": "Constancy",
+            "kk": "Тұрақтылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Апперцепции",
+            "en": "Apperception",
+            "kk": "Апперцепция"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Осмысленности",
+            "en": "Meaningfulness",
+            "kk": "Мәнділік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Избирательности",
+            "en": "Selectivity",
+            "kk": "Талғампаздық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Структурности",
+            "en": "Structuredness",
+            "kk": "Құрылымдылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 17",
+          "units": [
+            "p17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Специалист замечает в техническом рисунке то, чего не выделяет новичок. Зависимость восприятия от опыта называется...",
+        "en": "A specialist notices things in a technical drawing that a novice does not pick out. The dependence of perception on experience is called...",
+        "kk": "Маман техникалық сызбада жаңадан бастаушы байқамайтынды байқайды. Қабылдаудың тәжірибеге тәуелділігі қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Константностью",
+            "en": "Constancy",
+            "kk": "Тұрақтылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Предметностью",
+            "en": "Objectivity",
+            "kk": "Заттылық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Апперцепцией",
+            "en": "Apperception",
+            "kk": "Апперцепция"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Структурностью",
+            "en": "Structuredness",
+            "kk": "Құрылымдылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Осмысленностью",
+            "en": "Meaningfulness",
+            "kk": "Мәнділік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 18",
+          "units": [
+            "p18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные пары «свойство восприятия: характеристика».",
+        "en": "Identify the correct \"property of perception: characteristic\" pairs.",
+        "kk": "«Қабылдау қасиеті: сипаттамасы» жұптарының дұрыстарын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Константность: относительное постоянство свойств",
+            "en": "Constancy: relative stability of properties",
+            "kk": "Тұрақтылық: қасиеттердің салыстырмалы тұрақтылығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Структурность: восприятие организации элементов",
+            "en": "Structuredness: perception of the organization of elements",
+            "kk": "Құрылымдылық: элементтердің ұйымдасуын қабылдау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Целостность: достраивание образа при неполных данных",
+            "en": "Wholeness: completion of the image from incomplete data",
+            "kk": "Тұтастық: толық емес деректер кезінде бейнені толықтыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Апперцепция: независимость от прошлого опыта",
+            "en": "Apperception: independence from past experience",
+            "kk": "Апперцепция: өткен тәжірибеге тәуелсіздік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Предметность: отражение только одного качества",
+            "en": "Objectivity: reflection of only one quality",
+            "kk": "Заттылық: тек бір сапаны шағылыстыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 15, 16, 17",
+          "units": [
+            "p15",
+            "p16",
+            "p17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Искажённое восприятие реально воздействующего объекта представляет собой...",
+        "en": "A distorted perception of an object that is actually acting on the senses is...",
+        "kk": "Шынайы әсер етіп тұрған нысанды бұрмаланып қабылдау не болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Иллюзию",
+            "en": "An illusion",
+            "kk": "Иллюзия"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Припоминание",
+            "en": "Recall",
+            "kk": "Еске түсіру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Представление",
+            "en": "A mental representation",
+            "kk": "Елес"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Фантазию",
+            "en": "A fantasy",
+            "kk": "Қиял-ғажайып"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Понятие",
+            "en": "A concept",
+            "kk": "Ұғым"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 19",
+          "units": [
+            "p19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Распознавая предмет, человек относит его к известной категории и уточняет признаки. Проявляется...",
+        "en": "On recognizing an object, a person assigns it to a familiar category and refines its features. What is manifested is...",
+        "kk": "Затты тану кезінде адам оны белгілі бір санатқа жатқызады және белгілерін нақтылайды. Қабылдаудың қандай қасиеті көрінеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Чувственный тон",
+            "en": "Hedonic tone",
+            "kk": "Сезімдік тон"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интенсивность",
+            "en": "Intensity",
+            "kk": "Қарқындылық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Осмысленность",
+            "en": "Meaningfulness",
+            "kk": "Мәнділік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Длительность ощущения",
+            "en": "The duration of a sensation",
+            "kk": "Түйсіктің ұзақтығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сенсорная адаптация",
+            "en": "Sensory adaptation",
+            "kk": "Сенсорлық бейімделу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 20, 21",
+          "units": [
+            "p20",
+            "p21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "На оживлённой площади человек выделяет нужного собеседника, а остальные люди становятся фоном. Это...",
+        "en": "In a busy square, a person singles out the person they need to talk to, and the other people become background. This is...",
+        "kk": "Көпшілік жиналған алаңда адам қажетті әңгімелесушісін бөліп алады, ал қалған адамдар фонға айналады. Бұл не?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Избирательность восприятия",
+            "en": "Selectivity of perception",
+            "kk": "Қабылдаудың талғампаздығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Константность восприятия",
+            "en": "Constancy of perception",
+            "kk": "Қабылдаудың тұрақтылығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Целостность восприятия",
+            "en": "Wholeness of perception",
+            "kk": "Қабылдаудың тұтастығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Предметность восприятия",
+            "en": "Objectivity of perception",
+            "kk": "Қабылдаудың заттылығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Структурность восприятия",
+            "en": "Structuredness of perception",
+            "kk": "Қабылдаудың құрылымдылығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 22",
+          "units": [
+            "p22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Основания для классификации видов восприятия:",
+        "en": "Bases used to classify the types of perception:",
+        "kk": "Қабылдау түрлерін жіктеуге қолданылатын негіздер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Степень нервной уравновешенности",
+            "en": "The degree of nervous balance",
+            "kk": "Жүйке теңгерілгендігінің дәрежесі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Уровень развития характера",
+            "en": "The level of character development",
+            "kk": "Мінездің даму деңгейі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Форма существования материи",
+            "en": "The form of existence of matter",
+            "kk": "Материяның өмір сүру формасы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ведущий анализатор",
+            "en": "The leading analyzer",
+            "kk": "Жетекші анализатор"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сила мотива достижения",
+            "en": "The strength of the achievement motive",
+            "kk": "Жетістікке жету уәжінің күші"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 24",
+          "units": [
+            "p24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "topic_id": 4,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что противопоставляет гештальтподход структуралистскому объяснению восприятия?",
+        "en": "What does the Gestalt approach oppose to the structuralist explanation of perception?",
+        "kk": "Гештальт тәсілі қабылдауды структуралистік түсіндіруге нені қарсы қояды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отказ от изучения отношений частей",
+            "en": "Refusal to study relations between parts",
+            "kk": "Бөліктердің қатынастарын зерттеуден бас тартуды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключение перцептивного процесса из исследования",
+            "en": "Exclusion of the perceptual process from research",
+            "kk": "Перцептивті үдерісті зерттеуден шығарып тастауды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Приоритет целостной организации перед суммой элементов",
+            "en": "Priority of holistic organization over the sum of elements",
+            "kk": "Тұтас ұйымдасудың элементтер қосындысынан басымдығын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Приоритет отдельных ощущений перед организацией",
+            "en": "Priority of separate sensations over organization",
+            "kk": "Жекелеген түйсіктердің ұйымдасудан басымдығын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сведение образа к следам прошлых ощущений",
+            "en": "Reduction of the image to traces of past sensations",
+            "kk": "Бейнені өткен түйсіктер іздеріне келтіруді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 30, 31",
+          "units": [
+            "p30",
+            "p31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Перцептивный цикл и когнитивная схема являются центральными понятиями теории...",
+        "en": "The perceptual cycle and the cognitive schema are central concepts of the theory of...",
+        "kk": "Перцептивті цикл және когнитивті схема қай теорияның орталық ұғымдары болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дж. Гибсона",
+            "en": "J. Gibson",
+            "kk": "Дж. Гибсон теориясының"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Э. Титченера",
+            "en": "E. Titchener",
+            "kk": "Э. Титченер теориясының"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Г. Гельмгольца",
+            "en": "H. Helmholtz",
+            "kk": "Г. Гельмгольц теориясының"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "У. Найссера",
+            "en": "U. Neisser",
+            "kk": "У. Найссер теориясының"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Дж. Брунера",
+            "en": "J. Bruner",
+            "kk": "Дж. Брунер теориясының"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 33",
+          "units": [
+            "p33"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "В перцептивном цикле У. Найссера схема:",
+        "en": "Functions of the schema in U. Neisser's perceptual cycle:",
+        "kk": "У. Найссердің перцептивті циклінде схема:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Направляет исследовательскую активность",
+            "en": "It directs exploratory activity",
+            "kk": "Зерттеу белсенділігін бағыттайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Изменяется под воздействием полученной информации",
+            "en": "It is modified by the information obtained",
+            "kk": "Алынған ақпараттың әсерінен өзгереді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Заменяет исследование среды готовым ощущением",
+            "en": "It replaces exploration of the environment with a ready-made sensation",
+            "kk": "Ортаны зерттеуді дайын түйсікпен алмастырады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Остаётся неизменной при новом опыте",
+            "en": "It remains unchanged with new experience",
+            "kk": "Жаңа тәжірибе кезінде өзгеріссіз қалады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Функционирует независимо от воспринимаемого",
+            "en": "It functions independently of what is perceived",
+            "kk": "Қабылданатын нәрседен тәуелсіз әрекет етеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 33",
+          "units": [
+            "p33"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие бессознательных умозаключений связано с теорией восприятия...",
+        "en": "The concept of unconscious inferences is associated with the theory of perception of...",
+        "kk": "Санасыз қорытындылар ұғымы қабылдаудың қай теориясымен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дж. Брунера",
+            "en": "J. Bruner",
+            "kk": "Дж. Брунер теориясымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Дж. Гибсона",
+            "en": "J. Gibson",
+            "kk": "Дж. Гибсон теориясымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Г. Гельмгольца",
+            "en": "H. Helmholtz",
+            "kk": "Г. Гельмгольц теориясымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "У. Найссера",
+            "en": "U. Neisser",
+            "kk": "У. Найссер теориясымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "К. Левина",
+            "en": "K. Lewin",
+            "kk": "К. Левин теориясымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 34",
+          "units": [
+            "p34"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Восприятие как процесс категоризации рассматривает...",
+        "en": "Perception as a process of categorization is considered by...",
+        "kk": "Қабылдауды категориялау процесі ретінде кім қарастырады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "И. П. Павлов",
+            "en": "I. P. Pavlov",
+            "kk": "И. П. Павлов"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Дж. Брунер",
+            "en": "J. Bruner",
+            "kk": "Дж. Брунер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Дж. Гибсон",
+            "en": "J. Gibson",
+            "kk": "Дж. Гибсон"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "А. Н. Леонтьев",
+            "en": "A. N. Leontiev",
+            "kk": "А. Н. Леонтьев"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Г. Гельмгольц",
+            "en": "H. Helmholtz",
+            "kk": "Г. Гельмгольц"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 35",
+          "units": [
+            "p35"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Извлечение информации из окружающей среды и градиенты текстуры характеризуют подход...",
+        "en": "The pickup of information from the environment and texture gradients characterize the approach of...",
+        "kk": "Қоршаған ортадан ақпаратты алу және текстура градиенттері қай тәсілді сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дж. Брунера",
+            "en": "J. Bruner",
+            "kk": "Дж. Брунер тәсілін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Э. Титченера",
+            "en": "E. Titchener",
+            "kk": "Э. Титченер тәсілін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Дж. Гибсона",
+            "en": "J. Gibson",
+            "kk": "Дж. Гибсон тәсілін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "У. Найссера",
+            "en": "U. Neisser",
+            "kk": "У. Найссер тәсілін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Г. Гельмгольца",
+            "en": "H. Helmholtz",
+            "kk": "Г. Гельмгольц тәсілін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 36",
+          "units": [
+            "p36"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "topic_id": 4,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные соответствия «автор: понятие».",
+        "en": "Identify the correct \"author: concept\" correspondences.",
+        "kk": "«Автор: ұғым» сәйкестіктерінің дұрыстарын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гибсон: аналитическая интроспекция",
+            "en": "Gibson: analytic introspection",
+            "kk": "Гибсон: аналитикалық интроспекция"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Найссер: перцептивный цикл",
+            "en": "Neisser: the perceptual cycle",
+            "kk": "Найссер: перцептивті цикл"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гибсон: экологическая оптика",
+            "en": "Gibson: ecological optics",
+            "kk": "Гибсон: экологиялық оптика"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гельмгольц: бессознательные умозаключения",
+            "en": "Helmholtz: unconscious inferences",
+            "kk": "Гельмгольц: санасыз қорытындылар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Брунер: суммация чистых ощущений",
+            "en": "Bruner: summation of pure sensations",
+            "kk": "Брунер: таза түйсіктердің қосындысы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 33, 34, 36",
+          "units": [
+            "p33",
+            "p34",
+            "p36"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Человек подробно перечисляет мелкие элементы изображения, упуская общий смысл. Преобладает тип восприятия...",
+        "en": "A person lists in detail the small elements of a picture, missing the overall meaning. The prevailing type of perception is...",
+        "kk": "Адам суреттің ұсақ элементтерін егжей-тегжейлі санамалап, жалпы мағынасын назардан тыс қалдырады. Қабылдаудың қандай типі басым?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Синтетический",
+            "en": "Synthetic",
+            "kk": "Синтетикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Объяснительный",
+            "en": "Explanatory",
+            "kk": "Түсіндірмелі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Целостный",
+            "en": "Holistic",
+            "kk": "Тұтас"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Объективный",
+            "en": "Objective",
+            "kk": "Объективті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Аналитический",
+            "en": "Analytic",
+            "kk": "Аналитикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 42, 43",
+          "units": [
+            "p42",
+            "p43"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Человек точно описывает увиденное и не пытается объяснить причины события. Это сочетание типов...",
+        "en": "A person describes accurately what they saw and does not try to explain the causes of the event. This is a combination of the... types.",
+        "kk": "Адам көргенін дәл сипаттайды, бірақ оқиғаның себептерін түсіндіруге тырыспайды. Бұл қабылдау типтерінің қандай үйлесімі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Объяснительного и объективного",
+            "en": "Explanatory and objective",
+            "kk": "Түсіндірмелі және объективті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Синтетического и объяснительного",
+            "en": "Synthetic and explanatory",
+            "kk": "Синтетикалық және түсіндірмелі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Описательного и объективного",
+            "en": "Descriptive and objective",
+            "kk": "Сипаттамалы және объективті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Объяснительного и субъективного",
+            "en": "Explanatory and subjective",
+            "kk": "Түсіндірмелі және субъективті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Аналитического и субъективного",
+            "en": "Analytic and subjective",
+            "kk": "Аналитикалық және субъективті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L4",
+          "file": "Лекции/Лекция 4.docx",
+          "location": "Абзацы 44, 45",
+          "units": [
+            "p44",
+            "p45"
+          ]
+        }
+      ]
+    }
+  ]
+}

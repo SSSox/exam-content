@@ -1,0 +1,450 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 2,
+  "topic_name": "Sensation and sensory regularities",
+  "questions": {
+    "26": {
+      "question": "The direct reflection of an individual property of an object when it acts on a sense organ is called...",
+      "options": {
+        "A": "Perception",
+        "B": "Sensation",
+        "C": "Recognition",
+        "D": "Mental representation",
+        "E": "Imagination"
+      },
+      "free_input": {
+        "accept": {
+          "B": [
+            "sensation"
+          ]
+        }
+      }
+    },
+    "27": {
+      "question": "The feature that distinguishes an auditory sensation from a gustatory one expresses its...",
+      "options": {
+        "A": "Difference threshold",
+        "B": "Intensity",
+        "C": "Hedonic tone",
+        "D": "Duration",
+        "E": "Quality"
+      },
+      "free_input": {
+        "accept": {
+          "E": [
+            "quality"
+          ]
+        }
+      }
+    },
+    "28": {
+      "question": "An odor of equal strength is pleasant to one person and unpleasant to another. What differs primarily is the...",
+      "options": {
+        "A": "Absolute sensitivity",
+        "B": "Hedonic tone",
+        "C": "Latent period",
+        "D": "Spatial localization",
+        "E": "Sensory modality"
+      },
+      "free_input": {
+        "question": "An odor of equal strength is pleasant to one person and unpleasant to another. Which property of sensation differs primarily?",
+        "accept": {
+          "B": [
+            "hedonic tone",
+            "emotional tone",
+            "affective tone",
+            "feeling tone"
+          ]
+        }
+      }
+    },
+    "29": {
+      "question": "Components that make up an analyzer:",
+      "options": {
+        "A": "A peripheral motor neuron",
+        "B": "A peripheral receptor",
+        "C": "An effector muscle",
+        "D": "An afferent conducting pathway",
+        "E": "A central cortical section"
+      },
+      "free_input": {
+        "question": "Name the three components that make up an analyzer.",
+        "accept": {
+          "B": [
+            "receptor",
+            "peripheral receptor",
+            "peripheral section",
+            "receptor section"
+          ],
+          "D": [
+            "conducting pathway",
+            "afferent pathway",
+            "afferent conducting pathway",
+            "conductive section",
+            "afferent nerve"
+          ],
+          "E": [
+            "central section",
+            "cortical section",
+            "central cortical section",
+            "cortical center",
+            "cortical area"
+          ]
+        }
+      }
+    },
+    "30": {
+      "question": "Damage to an afferent pathway primarily disrupts...",
+      "options": {
+        "A": "The transformation of stimulus energy in the receptor",
+        "B": "The formation of a motor response by the muscle",
+        "C": "The cortical comparison of sensory signals",
+        "D": "The transmission of a command from the center to the effector",
+        "E": "The transmission of excitation from the receptor to the center"
+      }
+    },
+    "31": {
+      "question": "The central section of the visual analyzer is located mainly in the... lobes.",
+      "options": {
+        "A": "Temporal",
+        "B": "Insular",
+        "C": "Parietal",
+        "D": "Frontal",
+        "E": "Occipital"
+      },
+      "free_input": {
+        "accept": {
+          "E": [
+            "occipital",
+            "occipital lobes",
+            "occipital lobe"
+          ]
+        }
+      }
+    },
+    "32": {
+      "question": "The gradual weakening of the sensation of a constant odor in a room is...",
+      "options": {
+        "A": "Threshold discrimination",
+        "B": "Sensitization",
+        "C": "An afterimage",
+        "D": "Apperception",
+        "E": "Sensory adaptation"
+      },
+      "free_input": {
+        "accept": {
+          "E": [
+            "sensory adaptation",
+            "adaptation"
+          ]
+        }
+      }
+    },
+    "33": {
+      "question": "Possible manifestations of sensory adaptation:",
+      "options": {
+        "A": "A decrease in sensitivity under prolonged stimulation",
+        "B": "Persistence of the sensation after the stimulation has ceased",
+        "C": "Creation of an image of a nonexistent object",
+        "D": "Development of sensitivity as a result of special exercises",
+        "E": "An increase in sensitivity when sensory conditions change"
+      }
+    },
+    "34": {
+      "question": "The minimum stimulus intensity sufficient for a sensation to arise is the...",
+      "options": {
+        "A": "Upper absolute threshold",
+        "B": "Limit of adaptation",
+        "C": "Lower absolute threshold",
+        "D": "Difference threshold",
+        "E": "Recognition threshold"
+      },
+      "free_input": {
+        "accept": {
+          "C": [
+            "lower absolute threshold",
+            "absolute threshold",
+            "lower threshold",
+            "detection threshold",
+            "absolute threshold of sensitivity"
+          ]
+        }
+      }
+    },
+    "35": {
+      "question": "A participant's lower absolute threshold has decreased. This means that his sensitivity has...",
+      "options": {
+        "A": "Decreased",
+        "B": "Lost its connection with intensity",
+        "C": "Remained the same",
+        "D": "Increased",
+        "E": "Become exclusively differential"
+      },
+      "free_input": {
+        "question": "A participant's lower absolute threshold has decreased. How has his sensitivity changed?",
+        "accept": {
+          "D": [
+            "increased",
+            "grown",
+            "risen",
+            "become higher",
+            "improved"
+          ]
+        },
+        "reject": [
+          "decreased",
+          "declined",
+          "dropped",
+          "become lower",
+          "did not change"
+        ]
+      }
+    },
+    "36": {
+      "question": "The minimum difference in intensity between two homogeneous stimuli that can still be detected is called the...",
+      "options": {
+        "A": "Upper absolute threshold",
+        "B": "Sensory aftereffect",
+        "C": "Lower absolute threshold",
+        "D": "Latent period",
+        "E": "Difference threshold"
+      },
+      "free_input": {
+        "accept": {
+          "E": [
+            "difference threshold",
+            "differential threshold",
+            "just noticeable difference",
+            "discrimination threshold"
+          ]
+        }
+      }
+    },
+    "37": {
+      "question": "A participant detects a very quiet sound but discriminates poorly between sounds of similar loudness. How can this be described?",
+      "options": {
+        "A": "A low absolute threshold and a high difference threshold",
+        "B": "High absolute and difference thresholds",
+        "C": "Low absolute and difference thresholds",
+        "D": "Identical absolute and difference thresholds",
+        "E": "A high absolute threshold and a low difference threshold"
+      }
+    },
+    "38": {
+      "question": "The increase in the accuracy of taste discrimination in a taster after many years of practice is...",
+      "options": {
+        "A": "Sensitization",
+        "B": "A contrast illusion",
+        "C": "Perceptual constancy",
+        "D": "A weakening of reception",
+        "E": "Sensory aftereffect"
+      },
+      "free_input": {
+        "accept": {
+          "A": [
+            "sensitization"
+          ]
+        }
+      }
+    },
+    "39": {
+      "question": "Features of sensitization:",
+      "options": {
+        "A": "Unchanged sensitivity after training",
+        "B": "Loss of sensation under a constant stimulus",
+        "C": "Increased sensitivity through the interaction of analyzers",
+        "D": "Increased sensitivity as a result of exercise",
+        "E": "Persistence of the sensation after the stimulus is switched off"
+      }
+    },
+    "40": {
+      "question": "After a stimulus has stopped acting, the sensation persists for some time. This is a(n)...",
+      "options": {
+        "A": "Apperceptive image",
+        "B": "Reproductive imagination",
+        "C": "Perceptual categorization",
+        "D": "Sensory deprivation",
+        "E": "Afterimage"
+      },
+      "free_input": {
+        "accept": {
+          "E": [
+            "afterimage",
+            "aftereffect",
+            "sensory aftereffect",
+            "after-image",
+            "sensory afterimage"
+          ]
+        }
+      }
+    },
+    "41": {
+      "question": "By source of stimulation, visual, auditory and gustatory sensations belong to the... sensations.",
+      "options": {
+        "A": "Kinesthetic",
+        "B": "Exteroceptive",
+        "C": "Interoceptive",
+        "D": "Organic",
+        "E": "Proprioceptive"
+      },
+      "free_input": {
+        "accept": {
+          "B": [
+            "exteroceptive",
+            "exteroception"
+          ]
+        }
+      }
+    },
+    "42": {
+      "question": "By source of stimulation, the sensations of hunger and thirst belong to the... sensations.",
+      "options": {
+        "A": "Proprioceptive",
+        "B": "Exteroceptive",
+        "C": "Kinesthetic",
+        "D": "Contact tactile",
+        "E": "Interoceptive"
+      },
+      "free_input": {
+        "accept": {
+          "E": [
+            "interoceptive",
+            "interoception"
+          ]
+        }
+      }
+    },
+    "43": {
+      "question": "Information about muscle contraction and stretching is provided by... sensations.",
+      "options": {
+        "A": "Interoceptive",
+        "B": "Proprioceptive",
+        "C": "Visual",
+        "D": "Temperature",
+        "E": "Olfactory"
+      },
+      "free_input": {
+        "accept": {
+          "B": [
+            "proprioceptive",
+            "proprioception"
+          ]
+        }
+      }
+    },
+    "44": {
+      "question": "A person with closed eyes determines the position of a bent arm. The main source of information is...",
+      "options": {
+        "A": "Residual visual sensitivity",
+        "B": "Muscle-joint sensitivity",
+        "C": "Cutaneous temperature sensitivity",
+        "D": "The sensitivity of the internal organs",
+        "E": "Auditory spatial localization"
+      },
+      "free_input": {
+        "question": "A person with closed eyes determines the position of a bent arm. Which kind of sensitivity is the main source of information?",
+        "accept": {
+          "B": [
+            "muscle-joint sensitivity",
+            "proprioceptive sensitivity",
+            "proprioception",
+            "kinesthetic sensitivity",
+            "kinesthesia"
+          ]
+        }
+      }
+    },
+    "45": {
+      "question": "Identify the components that jointly provide the tactile exploration of an object.",
+      "options": {
+        "A": "Organic sensations of hunger",
+        "B": "Muscle-motor sensations",
+        "C": "Interoceptive signals of thirst",
+        "D": "Tactile sensations",
+        "E": "Olfactory sensations"
+      },
+      "free_input": {
+        "question": "Which two kinds of sensations jointly provide the tactile exploration of an object?",
+        "accept": {
+          "B": [
+            "muscle-motor",
+            "motor",
+            "kinesthetic"
+          ],
+          "D": [
+            "tactile",
+            "cutaneous"
+          ]
+        }
+      }
+    },
+    "46": {
+      "question": "The sensation of muscle tension and effort is connected, in particular, with the receptors of the...",
+      "options": {
+        "A": "Joint surfaces",
+        "B": "Tendons",
+        "C": "Skin",
+        "D": "Vestibular apparatus",
+        "E": "Internal organs"
+      },
+      "free_input": {
+        "accept": {
+          "B": [
+            "tendons",
+            "tendon receptors",
+            "tendon"
+          ]
+        }
+      }
+    },
+    "47": {
+      "question": "With the modality unchanged, a stimulus begins to be felt as stronger. The property that has changed is...",
+      "options": {
+        "A": "Spatial localization",
+        "B": "Duration",
+        "C": "Intensity",
+        "D": "Hedonic tone",
+        "E": "Quality"
+      },
+      "free_input": {
+        "accept": {
+          "C": [
+            "intensity",
+            "strength"
+          ]
+        }
+      }
+    },
+    "48": {
+      "question": "Which correspondences between threshold and sensitivity are correct?",
+      "options": {
+        "A": "The larger the difference threshold, the higher the accuracy of discrimination",
+        "B": "The smaller the absolute threshold, the weaker the sensitivity",
+        "C": "The difference threshold determines sensory modality",
+        "D": "The smaller the difference threshold, the more precise the discrimination of stimuli",
+        "E": "The smaller the absolute threshold, the higher the absolute sensitivity"
+      }
+    },
+    "49": {
+      "question": "How does the improvement of auditory discrimination after training differ from habituation to constant noise?",
+      "options": {
+        "A": "The first expresses an aftereffect, the second apperception",
+        "B": "Both changes express an afterimage",
+        "C": "The first expresses sensitization, the second adaptation",
+        "D": "The first expresses contrast, the second an aftereffect",
+        "E": "The first expresses adaptation, the second sensitization"
+      }
+    },
+    "50": {
+      "question": "The physiological meaning of the reflex ring consists primarily in...",
+      "options": {
+        "A": "Ending the analysis after the first impulse",
+        "B": "Providing feedback in interaction with the environment",
+        "C": "Replacing sensory input with a speech signal",
+        "D": "Isolating cortical sections from the periphery",
+        "E": "One-way transmission of a command from the cortex to the receptor"
+      }
+    }
+  }
+}

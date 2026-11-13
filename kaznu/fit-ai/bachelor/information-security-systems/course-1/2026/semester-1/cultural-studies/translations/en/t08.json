@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 8,
+  "topic_name": "Religion and the Forms of Spiritual Culture",
+  "questions": {
+    "176": {
+      "question": "In the cultural-studies definition, the sacred differs from the supernatural in general...",
+      "options": {
+        "A": "By the absence of an emotional attitude",
+        "B": "By obligatory accessibility to experimental verification",
+        "C": "By the recognition of its unconditional value for the human being",
+        "D": "By belonging exclusively to the natural order",
+        "E": "By coinciding with any unusual coincidence"
+      }
+    },
+    "177": {
+      "question": "The structure of a mature religion includes:",
+      "options": {
+        "A": "Cult",
+        "B": "Religious and moral norms",
+        "C": "The constitutive denial of the sacred",
+        "D": "Obligatory ethnic exclusiveness",
+        "E": "Doctrine (dogmatics)"
+      }
+    },
+    "178": {
+      "question": "The understanding of religion as the restoration of a person's lost link with God is associated with...",
+      "options": {
+        "A": "A. Men",
+        "B": "E. Fromm",
+        "C": "W. James",
+        "D": "T. Hobbes",
+        "E": "F. Bacon"
+      }
+    },
+    "179": {
+      "question": "The thinker who interpreted religion primarily as the most important bonds uniting people was...",
+      "options": {
+        "A": "K. Jaspers",
+        "B": "F. Bacon",
+        "C": "A. Men",
+        "D": "L. Feuerbach",
+        "E": "B. Spinoza"
+      }
+    },
+    "180": {
+      "question": "The critique of attributing human qualities to the gods is illustrated by the reasoning of...",
+      "options": {
+        "A": "Critias",
+        "B": "Heraclitus",
+        "C": "Xenophanes",
+        "D": "Anaxagoras",
+        "E": "Democritus"
+      }
+    },
+    "181": {
+      "question": "The distinction between the essence of religion and its earthly forms in the \"Theological-Political Treatise\" is associated with...",
+      "options": {
+        "A": "J. Locke",
+        "B": "R. Descartes",
+        "C": "T. Hobbes",
+        "D": "B. Spinoza",
+        "E": "G. Leibniz"
+      }
+    },
+    "182": {
+      "question": "Whose understanding of religion concentrates on its emotional nature in the psychological approach?",
+      "options": {
+        "A": "S. Freud",
+        "B": "T. Parsons",
+        "C": "W. James",
+        "D": "M. Weber",
+        "E": "E. Fromm"
+      }
+    },
+    "183": {
+      "question": "Name the tendencies of religion that E. Fromm distinguishes.",
+      "options": {
+        "A": "Cofigurative",
+        "B": "Authoritarian",
+        "C": "Postfigurative",
+        "D": "Prefigurative",
+        "E": "Humanistic"
+      }
+    },
+    "184": {
+      "question": "What distinguishes theology from the simple mastery of a creed?",
+      "options": {
+        "A": "Recognizing religious propositions only in the form of emotions",
+        "B": "Refusing to interpret the content of the teaching",
+        "C": "Reducing faith to certain everyday habits",
+        "D": "Excluding the rational formulation of notions",
+        "E": "The transmission, defence and interpretation of the creed in relation to the times"
+      }
+    },
+    "185": {
+      "question": "The animation of natural objects and phenomena with spirit corresponds to...",
+      "options": {
+        "A": "Fetishism",
+        "B": "Deism",
+        "C": "Animism",
+        "D": "Totemism",
+        "E": "Idolatry"
+      }
+    },
+    "186": {
+      "question": "The belief in a supernatural kinship between a clan and an animal species is called...",
+      "options": {
+        "A": "Fetishism",
+        "B": "Deism",
+        "C": "Animism",
+        "D": "Totemism",
+        "E": "Pantheism"
+      }
+    },
+    "187": {
+      "question": "The veneration of a particular stone as the bearer of a mysterious power serves as an example of...",
+      "options": {
+        "A": "Theological rationalism",
+        "B": "Deism",
+        "C": "Totemism",
+        "D": "Fetishism",
+        "E": "Primitive monotheism"
+      }
+    },
+    "188": {
+      "question": "Which clarification is essential for understanding idolatry?",
+      "options": {
+        "A": "Worship excludes ritual actions",
+        "B": "A spiritual being represented by the idol is venerated",
+        "C": "Exclusively the material of the statue is deified",
+        "D": "The idol replaces any mythology with a simple omen",
+        "E": "The idol necessarily denotes kinship with an animal"
+      }
+    },
+    "189": {
+      "question": "Propositions contained in the Nicene-Constantinopolitan Creed:",
+      "options": {
+        "A": "The redemptive mission of Jesus Christ",
+        "B": "The doctrine of purgatory",
+        "C": "Future retribution and resurrection",
+        "D": "The Trinity of God",
+        "E": "The infallibility of the Pope in matters of faith"
+      }
+    },
+    "190": {
+      "question": "The pair of councils associated with the adoption of the Creed is...",
+      "options": {
+        "A": "Chalcedon in 451 and Constantinople in 680",
+        "B": "Nicaea in 325 and Constantinople in 381",
+        "C": "Constantinople in 553 and Nicaea in 787",
+        "D": "Ephesus in 431 and Chalcedon in 451",
+        "E": "Nicaea in 381 and Constantinople in 325"
+      }
+    },
+    "191": {
+      "question": "The event of Christian history dated to 1054 is...",
+      "options": {
+        "A": "The establishment of the Tripitaka",
+        "B": "The First Council of Nicaea",
+        "C": "The beginning of the European Reformation",
+        "D": "The final break between the Western and Eastern churches",
+        "E": "The recognition of the independence of all autocephalous churches"
+      }
+    },
+    "192": {
+      "question": "The \"filioque\" in Catholic doctrine is...",
+      "options": {
+        "A": "The infallibility of the Pope in matters of faith",
+        "B": "The acknowledgement of the existence of purgatory",
+        "C": "The procession of the Holy Spirit from the Father and the Son",
+        "D": "The doctrine of the priesthood of all believers",
+        "E": "The Immaculate Conception of the Virgin Mary"
+      }
+    },
+    "193": {
+      "question": "Principles assigned to Protestantism:",
+      "options": {
+        "A": "Salvation by personal faith",
+        "B": "The obligatory primacy of the Roman bishop",
+        "C": "The doctrine of purgatory as an obligatory dogma",
+        "D": "The exclusive authority of the Bible",
+        "E": "The priesthood of all believers"
+      }
+    },
+    "194": {
+      "question": "The term \"autocephalous\" in the characterization of an Orthodox church means...",
+      "options": {
+        "A": "Independent",
+        "B": "Monastic",
+        "C": "Ecumenical",
+        "D": "Missionary",
+        "E": "Apostolic"
+      }
+    },
+    "195": {
+      "question": "Correct pairings of Muslim duties and their names:",
+      "options": {
+        "A": "Uraza (fasting): obligatory charity",
+        "B": "Zakat: obligatory charity",
+        "C": "Hajj: pilgrimage to Mecca",
+        "D": "Hajj: the daily five-times prayer",
+        "E": "Zakat: fasting during the month of Ramadan"
+      }
+    },
+    "196": {
+      "question": "The cause of suffering in the second noble truth is linked with...",
+      "options": {
+        "A": "Desires and passions",
+        "B": "The loss of written revelation",
+        "C": "A shortage of ritual sacrifices",
+        "D": "A violation of the estate order",
+        "E": "Ignorance of the genealogy of ancestors"
+      }
+    },
+    "197": {
+      "question": "Nirvana is characterized primarily as...",
+      "options": {
+        "A": "The posthumous restoration of earthly attachments",
+        "B": "A state of complete satisfaction of all desires",
+        "C": "A ritual confirmation of belonging to a clan",
+        "D": "The obligatory attainment of political power",
+        "E": "The overcoming of suffering and desires"
+      }
+    },
+    "198": {
+      "question": "The acceptance of the noble truths as a personal life programme corresponds to the stage of...",
+      "options": {
+        "A": "Right concentration",
+        "B": "Right view",
+        "C": "Right intention",
+        "D": "Right mindfulness",
+        "E": "Right effort"
+      }
+    },
+    "199": {
+      "question": "Constantly holding in mind the transient character of existence belongs to...",
+      "options": {
+        "A": "Right livelihood",
+        "B": "Right speech",
+        "C": "Right action",
+        "D": "Right mindfulness",
+        "E": "Right intention"
+      }
+    },
+    "200": {
+      "question": "The name Tripitaka is translated as...",
+      "options": {
+        "A": "Three jewels",
+        "B": "Eight steps",
+        "C": "Three baskets",
+        "D": "Four truths",
+        "E": "The great vehicle"
+      }
+    }
+  }
+}

@@ -1,0 +1,1635 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 51,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему структуру культуры можно описывать по нескольким основаниям?",
+        "en": "Why can the structure of culture be described on several bases?",
+        "kk": "Мәдениеттің құрылымын неліктен бірнеше негіз бойынша сипаттауға болады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Каждая область культуры имеет собственного неизменного носителя",
+            "en": "Each sphere of culture has its own unchanging bearer",
+            "kk": "Мәдениеттің әрбір саласының өзіндік өзгермейтін тасымалдаушысы бар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Основания классификации совпадают с периодами политической истории",
+            "en": "The bases of classification coincide with periods of political history",
+            "kk": "Жіктеу негіздері саяси тарих кезеңдерімен сәйкес келеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Единицы культуры последовательно сменяют друг друга без пересечения",
+            "en": "The units of culture replace one another in sequence without overlapping",
+            "kk": "Мәдениет бірліктері бір-бірімен қиылыспай, дәйекті түрде ауысады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Элементы культуры связаны, но допускают группировку по разным критериям",
+            "en": "The elements of culture are interconnected but allow grouping by different criteria",
+            "kk": "Мәдениет элементтері өзара байланысты, бірақ әртүрлі өлшемдер бойынша топтастыруға мүмкіндік береді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Источники культурного творчества определяются одним территориальным признаком",
+            "en": "The sources of cultural creativity are determined by a single territorial feature",
+            "kk": "Мәдени шығармашылық көздері бір ғана аумақтық белгімен айқындалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 94",
+          "units": [
+            "p94"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 52,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Различение народной и профессиональной культуры строится по основанию...",
+        "en": "The distinction between folk culture and professional culture is based on the criterion of...",
+        "kk": "Халықтық және кәсіби мәдениетті ажырату қандай негізге сүйенеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Территории распространения",
+            "en": "The territory of distribution",
+            "kk": "Таралу аумағы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Возрастной принадлежности",
+            "en": "Age affiliation",
+            "kk": "Жас ерекшелігіне қатыстылығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Источника формирования",
+            "en": "The source of formation",
+            "kk": "Қалыптасу көзі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исторической длительности",
+            "en": "Historical duration",
+            "kk": "Тарихи ұзақтығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Географического масштаба",
+            "en": "Geographical scale",
+            "kk": "Географиялық ауқымы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 99",
+          "units": [
+            "p99"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 53,
+      "topic_id": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Признаки народной культуры, отличающие её от профессиональной по источнику создания:",
+        "en": "The features that distinguish folk culture from professional culture in terms of the source of creation:",
+        "kk": "Жасалу көзі бойынша халықтық мәдениетті кәсіби мәдениеттен ажырататын белгілер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Специализированная подготовка как условие создания",
+            "en": "Specialized training as a condition of creation",
+            "kk": "Жасаудың шарты ретінде мамандандырылған даярлық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Юридическая охрана неизменности оригинала",
+            "en": "Legal protection of the integrity of the original",
+            "kk": "Түпнұсқаның өзгермейтіндігін құқықтық қорғау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Фиксированное персональное авторство",
+            "en": "Fixed personal authorship",
+            "kk": "Бекітілген жеке авторлық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Изменение образца при межпоколенной передаче",
+            "en": "Modification of the model in transmission between generations",
+            "kk": "Үлгінің ұрпақтан ұрпаққа берілгенде өзгеруі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Коллективная анонимность",
+            "en": "Collective anonymity",
+            "kk": "Ұжымдық атаусыздық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 100",
+          "units": [
+            "p100"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 54,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сочетание признаков, характеризующее профессиональную культуру по источнику создания, — это...",
+        "en": "The combination of features that characterizes professional culture in terms of the source of creation is...",
+        "kk": "Жасалу көзі бойынша кәсіби мәдениетті сипаттайтын белгілер тіркесі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Коллективная анонимность и свободная модификация",
+            "en": "Collective anonymity and free modification",
+            "kk": "Ұжымдық атаусыздық және еркін өзгертілу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Устная передача и отсутствие авторского права",
+            "en": "Oral transmission and the absence of copyright",
+            "kk": "Ауызша беріліс және авторлық құқықтың болмауы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Специальная подготовка и фиксированное авторство",
+            "en": "Special training and fixed authorship",
+            "kk": "Арнайы даярлық және бекітілген авторлық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Наследуемость статуса и территориальная замкнутость",
+            "en": "Inherited status and territorial isolation",
+            "kk": "Мәртебенің мұрагерлікпен берілуі және аумақтық тұйықтық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Возрастная однородность и бытовое назначение",
+            "en": "Age homogeneity and everyday purpose",
+            "kk": "Жас жағынан біртектілік және тұрмыстық мақсат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 101",
+          "units": [
+            "p101"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 55,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Как соотносятся общая и профессиональная культура конкретного человека?",
+        "en": "How are the general culture and the professional culture of a particular person related?",
+        "kk": "Нақты адамның жалпы және кәсіби мәдениеті өзара қалай байланысады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Профессиональная культура составляет высшую ступень общей культуры",
+            "en": "Professional culture constitutes the highest level of general culture",
+            "kk": "Кәсіби мәдениет жалпы мәдениеттің ең жоғары сатысын құрайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обе культуры различаются только объёмом усвоенной информации",
+            "en": "The two cultures differ only in the amount of information acquired",
+            "kk": "Екі мәдениет тек меңгерілген ақпарат көлемімен ерекшеленеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Общая культура возникает после завершения профессионального обучения",
+            "en": "General culture arises after professional training is completed",
+            "kk": "Жалпы мәдениет кәсіби оқуды аяқтағаннан кейін қалыптасады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Профессиональное мастерство не гарантирует общекультурной развитости",
+            "en": "Professional mastery does not guarantee a general cultural development",
+            "kk": "Кәсіби шеберлік жалпы мәдени жетілуге кепілдік бермейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Общая культура определяется суммой отраслевых профессиональных знаний",
+            "en": "General culture is determined by the sum of specialized professional knowledge",
+            "kk": "Жалпы мәдениет салалық кәсіби білімдердің қосындысымен айқындалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 104",
+          "units": [
+            "p104"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 56,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Появление профессиональной культуры связывают с...",
+        "en": "The emergence of professional culture is associated with...",
+        "kk": "Кәсіби мәдениеттің пайда болуы мынамен байланыстырылады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исчезновением устного народного творчества",
+            "en": "The disappearance of oral folk creativity",
+            "kk": "Ауызша халық шығармашылығының жойылуымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Унификацией всех региональных традиций",
+            "en": "The unification of all regional traditions",
+            "kk": "Барлық өңірлік дәстүрлердің біріздендірілуімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Прекращением межпоколенной передачи опыта",
+            "en": "The cessation of the transmission of experience between generations",
+            "kk": "Тәжірибенің ұрпақтан ұрпаққа берілуінің тоқтауымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Возникновением массового электронного вещания",
+            "en": "The emergence of mass electronic broadcasting",
+            "kk": "Бұқаралық электрондық хабар таратудың пайда болуымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Разделением умственного и физического труда",
+            "en": "The division of mental and physical labour",
+            "kk": "Ақыл-ой және дене еңбегінің бөлінуімен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 105",
+          "units": [
+            "p105"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 57,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Тезис о зависимости строения образования от логики строения культуры принадлежит...",
+        "en": "The thesis that the structure of education depends on the logic of the structure of culture belongs to...",
+        "kk": "Білім беру құрылымының мәдениет құрылымының логикасына тәуелділігі туралы тезистің авторы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "А. Я. Флиеру",
+            "en": "A. Ya. Flier",
+            "kk": "А. Я. Флиер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "В. А. Коневу",
+            "en": "V. A. Konev",
+            "kk": "В. А. Конев"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "В. С. Библеру",
+            "en": "V. S. Bibler",
+            "kk": "В. С. Библер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "М. С. Кагану",
+            "en": "M. S. Kagan",
+            "kk": "М. С. Каган"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Э. С. Маркаряну",
+            "en": "E. S. Markaryan",
+            "kk": "Э. С. Маркарян"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 107",
+          "units": [
+            "p107"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 58,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Тезис о структуре образования как «кальке» культуры иллюстрирует...",
+        "en": "The thesis that the structure of education is a \"tracing\" of culture illustrates...",
+        "kk": "Білім беру құрылымы мәдениеттің «көшірмесі» деген тезис мынаны көрсетеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Независимость педагогической организации от исторического типа общества",
+            "en": "The independence of pedagogical organization from the historical type of society",
+            "kk": "Педагогикалық ұйымның қоғамның тарихи түрінен тәуелсіздігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отсутствие различий между обучением и наследованием инстинктов",
+            "en": "The absence of differences between teaching and the inheritance of instincts",
+            "kk": "Оқыту мен түйсікті мұралаудың арасында айырмашылықтың жоқтығын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Универсальность одной образовательной формы для всех эпох",
+            "en": "The universality of a single educational form for all eras",
+            "kk": "Бір білім беру нысанының барлық дәуірлер үшін әмбебаптығын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Происхождение профессионального искусства из школьного расписания",
+            "en": "The origin of professional art in the school timetable",
+            "kk": "Кәсіби өнердің мектептегі сабақ кестесінен шығуын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Связь классно-урочной организации с отраслевым строением культуры Нового времени",
+            "en": "The link between the class-and-lesson system and the branch-based structure of modern culture",
+            "kk": "Сыныптық-сабақтық ұйымның Жаңа заман мәдениетінің салалық құрылымымен байланысын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/лекция 1. понятие и сущность культуры.docx",
+          "location": "абзац 108",
+          "units": [
+            "p108"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 59,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Обрядовый предмет сохранил форму, но стал музейным экспонатом. Что изменилось с позиции функционального подхода?",
+        "en": "A ritual object has kept its form but has become a museum exhibit. What has changed from the standpoint of the functional approach?",
+        "kk": "Ғұрыптық бұйым пішінін сақтады, бірақ мұражай экспонатына айналды. Функционалдық тәсіл тұрғысынан не өзгерді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только географическое происхождение",
+            "en": "Only its geographical origin",
+            "kk": "Тек географиялық шығу тегі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Культурная функция, а с ней и статус объекта в системе культуры",
+            "en": "Its cultural function, and with it the status of the object in the system of culture",
+            "kk": "Мәдени функциясы, ал онымен бірге объектінің мәдениет жүйесіндегі мәртебесі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Его археологическая датировка",
+            "en": "Its archaeological dating",
+            "kk": "Оның археологиялық мерзімі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только физическая масса предмета",
+            "en": "Only the physical mass of the object",
+            "kk": "Тек бұйымның физикалық салмағы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательно материал изготовления",
+            "en": "Necessarily the material it is made of",
+            "kk": "Міндетті түрде жасалған материалы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Типы и Масштабы культуры.pptx",
+          "location": "слайд 15",
+          "units": [
+            "s15"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 60,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Изучение иерархии значимого в различных сферах человеческой деятельности относится к подходу...",
+        "en": "The study of the hierarchy of what is significant in various spheres of human activity belongs to the ... approach.",
+        "kk": "Адам іс-әрекетінің әртүрлі салаларындағы маңыздының иерархиясын зерттеу қандай тәсілге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Биографическому",
+            "en": "Biographical",
+            "kk": "Өмірбаяндық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Энергетическому",
+            "en": "Energetic",
+            "kk": "Энергетикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Аксиологическому",
+            "en": "Axiological",
+            "kk": "Аксиологиялық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Диффузионистскому",
+            "en": "Diffusionist",
+            "kk": "Диффузионистік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Технологическому",
+            "en": "Technological",
+            "kk": "Технологиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Типы и Масштабы культуры.pptx",
+          "location": "слайд 16",
+          "units": [
+            "s16"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 61,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой исследовательский принцип НЕ соответствует структурному подходу к культуре?",
+        "en": "Which research principle does NOT correspond to the structural approach to culture?",
+        "kk": "Мәдениетке құрылымдық тәсілге қандай зерттеу қағидасы СӘЙКЕС КЕЛМЕЙДІ?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Исследование устойчивой организации культурных сообщений",
+            "en": "Studying the stable organization of cultural messages",
+            "kk": "Мәдени хабарламалардың тұрақты ұйымдастырылуын зерттеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Выявление повторяющихся элементов культурных текстов",
+            "en": "Identifying the recurring elements of cultural texts",
+            "kk": "Мәдени мәтіндердің қайталанатын элементтерін анықтау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Поиск скрытой логики отношений между элементами",
+            "en": "Searching for the hidden logic of relations between elements",
+            "kk": "Элементтер арасындағы қатынастардың жасырын логикасын іздеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сравнительный анализ строения знаковых систем",
+            "en": "Comparative analysis of the structure of sign systems",
+            "kk": "Таңбалық жүйелердің құрылымын салыстырмалы талдау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Объяснение культурных различий исключительно возрастом культурного организма",
+            "en": "Explaining cultural differences exclusively by the age of the cultural organism",
+            "kk": "Мәдени айырмашылықтарды тек мәдени организмнің жасымен түсіндіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Типы и Масштабы культуры.pptx",
+          "location": "слайд 17",
+          "units": [
+            "s17"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 62,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Первичность материального производства в объяснении культурной эволюции утверждает подход...",
+        "en": "The primacy of material production in explaining cultural evolution is asserted by the ... approach.",
+        "kk": "Мәдени эволюцияны түсіндіруде материалдық өндірістің бастапқылығын қай тәсіл дәлелдейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Символический",
+            "en": "Symbolic",
+            "kk": "Символдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Идеалистический",
+            "en": "Idealist",
+            "kk": "Идеалистік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Игровой",
+            "en": "Ludic (play-based)",
+            "kk": "Ойындық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Материалистический",
+            "en": "Materialist",
+            "kk": "Материалистік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Трансценденталистский",
+            "en": "Transcendentalist",
+            "kk": "Трансценденталистік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Типы и Масштабы культуры.pptx",
+          "location": "слайд 14",
+          "units": [
+            "s14"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 63,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Предмет социодинамики культуры составляют...",
+        "en": "The subject matter of the sociodynamics of culture comprises...",
+        "kk": "Мәдениеттің әлеуметтік динамикасының пәні болып не табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Распределение устойчивых культурных форм по носителям и масштабам",
+            "en": "The distribution of stable cultural forms among bearers and scales",
+            "kk": "Тұрақты мәдени нысандардың тасымалдаушылар мен ауқымдар бойынша таралуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Изменения культуры и человека под действием внутренних и внешних сил",
+            "en": "Changes in culture and in the human being under the action of internal and external forces",
+            "kk": "Ішкі және сыртқы күштердің әсерінен мәдениет пен адамның өзгеруі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отношения между знаком, обозначаемым предметом и интерпретатором",
+            "en": "The relations between the sign, the object it denotes and the interpreter",
+            "kk": "Таңба, оның белгілейтін заты және түсіндіруші арасындағы қатынастар"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Строение системы духовных ценностей в данный исторический момент",
+            "en": "The structure of the system of spiritual values at a given historical moment",
+            "kk": "Белгілі бір тарихи сәттегі рухани құндылықтар жүйесінің құрылымы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Правила сочетания знаков внутри определённого языка культуры",
+            "en": "The rules for combining signs within a particular language of culture",
+            "kk": "Белгілі бір мәдениет тілінің ішінде таңбаларды үйлестіру ережелері"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 4",
+          "units": [
+            "p4"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 64,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему культурную динамику нельзя отождествить только с прогрессом?",
+        "en": "Why can cultural dynamics not be identified with progress alone?",
+        "kk": "Мәдени динамиканы неге тек прогреспен теңестіруге болмайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прогресс описывает результаты, динамика — исключительно намерения авторов",
+            "en": "Progress describes results, while dynamics describes exclusively the intentions of authors",
+            "kk": "Прогресс нәтижелерді сипаттайды, ал динамика тек авторлардың ниетін сипаттайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Прогресс обозначает заимствования, динамика — только внутренние новшества",
+            "en": "Progress denotes borrowings, while dynamics denotes only internal innovations",
+            "kk": "Прогресс қарыз алуды білдіреді, ал динамика тек ішкі жаңалықтарды білдіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Культурная динамика включает и восходящие, и регрессивные линии",
+            "en": "Cultural dynamics includes both ascending and regressive lines",
+            "kk": "Мәдени динамика өрлеу сызықтарын да, кері кету сызықтарын да қамтиды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Динамика охватывает лишь краткие изменения в пределах одного поколения",
+            "en": "Dynamics covers only brief changes within a single generation",
+            "kk": "Динамика тек бір ұрпақ шеңберіндегі қысқа өзгерістерді қамтиды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прогресс относится к духовной культуре, динамика — к материальной",
+            "en": "Progress relates to spiritual culture, while dynamics relates to material culture",
+            "kk": "Прогресс рухани мәдениетке, ал динамика материалдық мәдениетке қатысты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 5",
+          "units": [
+            "p5"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 65,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Для процессов жизни групп и отдельных индивидов применяют шкалу времени...",
+        "en": "For the life processes of groups and individuals, the following time scale is applied...",
+        "kk": "Топтар мен жекелеген индивидтердің өмір процестері үшін мына уақыт шкаласы қолданылады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Среднемасштабную: 1–25 лет",
+            "en": "Medium-scale: 1-25 years",
+            "kk": "Орта ауқымды: 1–25 жыл"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Микромасштабную: 48–55 лет",
+            "en": "Micro-scale: 48-55 years",
+            "kk": "Микроауқымды: 48–55 жыл"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Макромасштабную: 25–30 лет",
+            "en": "Macro-scale: 25-30 years",
+            "kk": "Макроауқымды: 25–30 жыл"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Микромасштабную: 1–25 лет",
+            "en": "Micro-scale: 1-25 years",
+            "kk": "Микроауқымды: 1–25 жыл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Среднемасштабную: 100 лет и более",
+            "en": "Medium-scale: 100 years or more",
+            "kk": "Орта ауқымды: 100 жыл және одан көп"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 7",
+          "units": [
+            "p7"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 66,
+      "topic_id": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите процессы, отнесённые к среднемасштабной динамике.",
+        "en": "Indicate the processes assigned to medium-scale dynamics.",
+        "kk": "Орта ауқымды динамикаға жатқызылған процестерді көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Экономические колебания за 48–55 лет",
+            "en": "Economic fluctuations over 48-55 years",
+            "kk": "48–55 жылдағы экономикалық тербелістер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Изменение норм малой группы за 5 лет",
+            "en": "A change in the norms of a small group over 5 years",
+            "kk": "Шағын топ нормаларының 5 жылда өзгеруі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Смена общественных формаций за несколько веков",
+            "en": "A change of social formations over several centuries",
+            "kk": "Қоғамдық формациялардың бірнеше ғасырда ауысуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Смена поколений за 25–30 лет",
+            "en": "A change of generations over 25-30 years",
+            "kk": "25–30 жылдағы ұрпақ ауысуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Преобразование языка за несколько столетий",
+            "en": "The transformation of a language over several centuries",
+            "kk": "Тілдің бірнеше ғасырда өзгеруі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 8",
+          "units": [
+            "p8"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 67,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Для исследования вековых преобразований языка применяется шкала...",
+        "en": "For studying the transformations of a language over centuries, the ... scale is applied.",
+        "kk": "Тілдің ғасырлар бойғы өзгерістерін зерттеу үшін қандай шкала қолданылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ситуативная",
+            "en": "Situational",
+            "kk": "Ситуациялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Микромасштабная",
+            "en": "Micro-scale",
+            "kk": "Микроауқымды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Среднемасштабная",
+            "en": "Medium-scale",
+            "kk": "Орта ауқымды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Биографическая",
+            "en": "Biographical",
+            "kk": "Өмірбаяндық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Макромасштабная",
+            "en": "Macro-scale",
+            "kk": "Макроауқымды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 9",
+          "units": [
+            "p9"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 68,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автор работы «Культура и взрыв»...",
+        "en": "The author of the work \"Culture and Explosion\" is...",
+        "kk": "«Мәдениет және жарылыс» еңбегінің авторы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "А. Лосев",
+            "en": "A. Losev",
+            "kk": "А. Лосев"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ю. Лотман",
+            "en": "Yu. Lotman",
+            "kk": "Ю. Лотман"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "М. Бахтин",
+            "en": "M. Bakhtin",
+            "kk": "М. Бахтин"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Г. Шпет",
+            "en": "G. Shpet",
+            "kk": "Г. Шпет"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "В. Библер",
+            "en": "V. Bibler",
+            "kk": "В. Библер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 69,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отличительный признак «момента взрыва» в описании Лотмана — это...",
+        "en": "The distinguishing feature of the \"moment of explosion\" in Lotman's description is...",
+        "kk": "Лотманның сипаттамасындағы «жарылыс сәтін» ерекшелейтін белгі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Единственность исхода, заранее заданного всей предысторией",
+            "en": "A single outcome, predetermined by the entire prehistory",
+            "kk": "Бүкіл алдыңғы тарихпен алдын ала белгіленген бірден-бір нәтиже"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Полное прекращение постепенных процессов",
+            "en": "The complete cessation of gradual processes",
+            "kk": "Біртіндеп жүретін процестердің толық тоқтауы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наличие нескольких возможностей перехода при реализации одной",
+            "en": "The presence of several possible transitions, of which only one is realized",
+            "kk": "Біреуі жүзеге асқанда өтудің бірнеше мүмкіндігінің болуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отсутствие любых культурных последствий события",
+            "en": "The absence of any cultural consequences of the event",
+            "kk": "Оқиғаның кез келген мәдени салдарының болмауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Повторение уже реализованной траектории без альтернатив",
+            "en": "The repetition of an already realized trajectory without alternatives",
+            "kk": "Баламасыз, жүзеге асқан траекторияның қайталануы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 70,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Различие взрывной и постепенной динамики иллюстрирует пара процессов:",
+        "en": "The pair of processes that illustrates the difference between explosive and gradual dynamics:",
+        "kk": "Жарылыстық және біртіндеп динамиканың айырмашылығын көрсететін процестер жұбы:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Переписывание текста и первоначальное открытие идеи",
+            "en": "The copying of a text and the original discovery of an idea",
+            "kk": "Мәтінді көшіріп жазу және идеяны алғаш ашу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Юридическая регистрация и архивное хранение документа",
+            "en": "The legal registration and archival storage of a document",
+            "kk": "Құжатты заңды тіркеу және архивте сақтау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сохранение обычая и механическое копирование обычая",
+            "en": "The preservation of a custom and the mechanical copying of a custom",
+            "kk": "Әдет-ғұрыпты сақтау және әдет-ғұрыпты механикалық көшіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Техническая реализация и последующее научное открытие",
+            "en": "Technical realization and a subsequent scientific discovery",
+            "kk": "Техникалық жүзеге асыру және одан кейінгі ғылыми жаңалық ашу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Возникновение научной идеи и её техническая реализация",
+            "en": "The emergence of a scientific idea and its technical realization",
+            "kk": "Ғылыми идеяның пайда болуы және оның техникалық жүзеге асырылуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 71,
+      "topic_id": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения, соответствующие пониманию культурного кризиса:",
+        "en": "The propositions that correspond to the understanding of a cultural crisis:",
+        "kk": "Мәдени дағдарысты түсінуге сәйкес келетін тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кризис способен иметь позитивные культурные последствия",
+            "en": "A crisis can have positive cultural consequences",
+            "kk": "Дағдарыс оң мәдени салдарға әкелуі мүмкін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Системный кризис требует одинакового темпа изменений всех подсистем",
+            "en": "A systemic crisis requires the same pace of change in all subsystems",
+            "kk": "Жүйелі дағдарыс барлық ішкі жүйелердің бірдей қарқынмен өзгеруін талап етеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Одновременные деформации подсистем могут сделать кризис системным",
+            "en": "Simultaneous deformations of subsystems may make a crisis systemic",
+            "kk": "Ішкі жүйелердің бір мезгілдегі деформациясы дағдарысты жүйелі етуі мүмкін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Позитивная роль кризиса исключает распад старых нормативных структур",
+            "en": "The positive role of a crisis excludes the disintegration of old normative structures",
+            "kk": "Дағдарыстың оң рөлі ескі нормативтік құрылымдардың ыдырауын жоққа шығарады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Кризис определяется исключительно уменьшением объёма культурной продукции",
+            "en": "A crisis is defined exclusively by a decrease in the volume of cultural production",
+            "kk": "Дағдарыс тек мәдени өнім көлемінің азаюымен айқындалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 72,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Внедрение норм и предметов, уже опробованных другой культурой, называется...",
+        "en": "The introduction of norms and objects already tested by another culture is called...",
+        "kk": "Басқа мәдениетте сыналған нормалар мен заттарды енгізу қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Инновационно-поисковой деятельностью",
+            "en": "Innovative and exploratory activity",
+            "kk": "Жаңашыл-ізденістік қызмет"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Культурной изоляцией",
+            "en": "Cultural isolation",
+            "kk": "Мәдени оқшаулану"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Стилистической мумификацией",
+            "en": "Stylistic mummification",
+            "kk": "Стильдік мумификация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Культурным заимствованием",
+            "en": "Cultural borrowing",
+            "kk": "Мәдени қарыз алу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Архетипической компенсацией",
+            "en": "Archetypal compensation",
+            "kk": "Архетиптік өтеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 73,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сознательный отход от устоявшихся норм ради новых образцов деятельности относится к...",
+        "en": "A deliberate departure from established norms in favour of new models of activity belongs to...",
+        "kk": "Қалыптасқан нормалардан жаңа қызмет үлгілері үшін саналы түрде бас тарту неге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Нормативной кодификации",
+            "en": "Normative codification",
+            "kk": "Нормативтік кодификацияға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Инновационно-поисковой деятельности",
+            "en": "Innovative and exploratory activity",
+            "kk": "Жаңашыл-ізденістік қызметке"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Пассивной передаче традиции",
+            "en": "Passive transmission of tradition",
+            "kk": "Дәстүрдің енжар берілуіне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ритуальному воспроизведению",
+            "en": "Ritual reproduction",
+            "kk": "Ғұрыптық қайта жаңғыртуға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Архивной консервации",
+            "en": "Archival conservation",
+            "kk": "Архивтік консервациялауға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 74,
+      "topic_id": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отмирание старых и внедрение новых норм в реальном культурном процессе...",
+        "en": "In a real cultural process, the dying out of old norms and the introduction of new ones are related as follows...",
+        "kk": "Нақты мәдени процесте ескі нормалардың жойылуы мен жаңа нормалардың енгізілуі..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Зависят исключительно от внешних заимствований",
+            "en": "They depend exclusively on external borrowings",
+            "kk": "Тек сыртқы қарыз алуларға тәуелді болады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Всегда происходят в одинаковом темпе",
+            "en": "They always occur at the same pace",
+            "kk": "Әрдайым бірдей қарқынмен жүреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исключают одновременность в одном обществе",
+            "en": "They exclude simultaneity within one society",
+            "kk": "Бір қоғамда бір мезгілде жүруін жоққа шығарады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Всегда разделены длительным периодом безнормности",
+            "en": "They are always separated by a long period of normlessness",
+            "kk": "Әрдайым нормасыздықтың ұзақ кезеңімен бөлінеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Могут осуществляться параллельно и с различной скоростью",
+            "en": "They may proceed in parallel and at different speeds",
+            "kk": "Қатар және әртүрлі жылдамдықпен жүзеге асуы мүмкін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Социодинамика культуры.docx",
+          "location": "абзац 13",
+          "units": [
+            "p13"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 75,
+      "topic_id": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "П. Сорокин рассматривает следующие направления перемещения культурных ценностей:",
+        "en": "P. Sorokin considers the following directions of the movement of cultural values:",
+        "kk": "П. Сорокин мәдени құндылықтардың орын ауыстыруының мынадай бағыттарын қарастырады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только от метрополии к зависимой периферии",
+            "en": "Only from the metropolis to the dependent periphery",
+            "kk": "Тек метрополиядан тәуелді шеткі аймаққа қарай"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Между социальными слоями",
+            "en": "Between social strata",
+            "kk": "Әлеуметтік топтар арасында"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только от профессиональных авторов к фольклорным исполнителям",
+            "en": "Only from professional authors to folklore performers",
+            "kk": "Тек кәсіби авторлардан фольклорлық орындаушыларға қарай"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только внутри одной этнически замкнутой территории",
+            "en": "Only within a single ethnically closed territory",
+            "kk": "Тек этникалық тұрғыдан тұйық бір аумақ ішінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Между странами и регионами",
+            "en": "Between countries and regions",
+            "kk": "Елдер мен өңірлер арасында"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Морфология культуры и концепции.docx",
+          "location": "абзац 63",
+          "units": [
+            "p63"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    }
+  ]
+}

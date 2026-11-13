@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 3,
+  "topic_name": "The Structure, Typology and Sociodynamics of Culture",
+  "questions": {
+    "51": {
+      "question": "Why can the structure of culture be described on several bases?",
+      "options": {
+        "A": "Each sphere of culture has its own unchanging bearer",
+        "B": "The bases of classification coincide with periods of political history",
+        "C": "The units of culture replace one another in sequence without overlapping",
+        "D": "The elements of culture are interconnected but allow grouping by different criteria",
+        "E": "The sources of cultural creativity are determined by a single territorial feature"
+      }
+    },
+    "52": {
+      "question": "The distinction between folk culture and professional culture is based on the criterion of...",
+      "options": {
+        "A": "The territory of distribution",
+        "B": "Age affiliation",
+        "C": "The source of formation",
+        "D": "Historical duration",
+        "E": "Geographical scale"
+      }
+    },
+    "53": {
+      "question": "The features that distinguish folk culture from professional culture in terms of the source of creation:",
+      "options": {
+        "A": "Specialized training as a condition of creation",
+        "B": "Legal protection of the integrity of the original",
+        "C": "Fixed personal authorship",
+        "D": "Modification of the model in transmission between generations",
+        "E": "Collective anonymity"
+      }
+    },
+    "54": {
+      "question": "The combination of features that characterizes professional culture in terms of the source of creation is...",
+      "options": {
+        "A": "Collective anonymity and free modification",
+        "B": "Oral transmission and the absence of copyright",
+        "C": "Special training and fixed authorship",
+        "D": "Inherited status and territorial isolation",
+        "E": "Age homogeneity and everyday purpose"
+      }
+    },
+    "55": {
+      "question": "How are the general culture and the professional culture of a particular person related?",
+      "options": {
+        "A": "Professional culture constitutes the highest level of general culture",
+        "B": "The two cultures differ only in the amount of information acquired",
+        "C": "General culture arises after professional training is completed",
+        "D": "Professional mastery does not guarantee a general cultural development",
+        "E": "General culture is determined by the sum of specialized professional knowledge"
+      }
+    },
+    "56": {
+      "question": "The emergence of professional culture is associated with...",
+      "options": {
+        "A": "The disappearance of oral folk creativity",
+        "B": "The unification of all regional traditions",
+        "C": "The cessation of the transmission of experience between generations",
+        "D": "The emergence of mass electronic broadcasting",
+        "E": "The division of mental and physical labour"
+      }
+    },
+    "57": {
+      "question": "The thesis that the structure of education depends on the logic of the structure of culture belongs to...",
+      "options": {
+        "A": "A. Ya. Flier",
+        "B": "V. A. Konev",
+        "C": "V. S. Bibler",
+        "D": "M. S. Kagan",
+        "E": "E. S. Markaryan"
+      }
+    },
+    "58": {
+      "question": "The thesis that the structure of education is a \"tracing\" of culture illustrates...",
+      "options": {
+        "A": "The independence of pedagogical organization from the historical type of society",
+        "B": "The absence of differences between teaching and the inheritance of instincts",
+        "C": "The universality of a single educational form for all eras",
+        "D": "The origin of professional art in the school timetable",
+        "E": "The link between the class-and-lesson system and the branch-based structure of modern culture"
+      }
+    },
+    "59": {
+      "question": "A ritual object has kept its form but has become a museum exhibit. What has changed from the standpoint of the functional approach?",
+      "options": {
+        "A": "Only its geographical origin",
+        "B": "Its cultural function, and with it the status of the object in the system of culture",
+        "C": "Its archaeological dating",
+        "D": "Only the physical mass of the object",
+        "E": "Necessarily the material it is made of"
+      }
+    },
+    "60": {
+      "question": "The study of the hierarchy of what is significant in various spheres of human activity belongs to the ... approach.",
+      "options": {
+        "A": "Biographical",
+        "B": "Energetic",
+        "C": "Axiological",
+        "D": "Diffusionist",
+        "E": "Technological"
+      }
+    },
+    "61": {
+      "question": "Which research principle does NOT correspond to the structural approach to culture?",
+      "options": {
+        "A": "Studying the stable organization of cultural messages",
+        "B": "Identifying the recurring elements of cultural texts",
+        "C": "Searching for the hidden logic of relations between elements",
+        "D": "Comparative analysis of the structure of sign systems",
+        "E": "Explaining cultural differences exclusively by the age of the cultural organism"
+      }
+    },
+    "62": {
+      "question": "The primacy of material production in explaining cultural evolution is asserted by the ... approach.",
+      "options": {
+        "A": "Symbolic",
+        "B": "Idealist",
+        "C": "Ludic (play-based)",
+        "D": "Materialist",
+        "E": "Transcendentalist"
+      }
+    },
+    "63": {
+      "question": "The subject matter of the sociodynamics of culture comprises...",
+      "options": {
+        "A": "The distribution of stable cultural forms among bearers and scales",
+        "B": "Changes in culture and in the human being under the action of internal and external forces",
+        "C": "The relations between the sign, the object it denotes and the interpreter",
+        "D": "The structure of the system of spiritual values at a given historical moment",
+        "E": "The rules for combining signs within a particular language of culture"
+      }
+    },
+    "64": {
+      "question": "Why can cultural dynamics not be identified with progress alone?",
+      "options": {
+        "A": "Progress describes results, while dynamics describes exclusively the intentions of authors",
+        "B": "Progress denotes borrowings, while dynamics denotes only internal innovations",
+        "C": "Cultural dynamics includes both ascending and regressive lines",
+        "D": "Dynamics covers only brief changes within a single generation",
+        "E": "Progress relates to spiritual culture, while dynamics relates to material culture"
+      }
+    },
+    "65": {
+      "question": "For the life processes of groups and individuals, the following time scale is applied...",
+      "options": {
+        "A": "Medium-scale: 1-25 years",
+        "B": "Micro-scale: 48-55 years",
+        "C": "Macro-scale: 25-30 years",
+        "D": "Micro-scale: 1-25 years",
+        "E": "Medium-scale: 100 years or more"
+      }
+    },
+    "66": {
+      "question": "Indicate the processes assigned to medium-scale dynamics.",
+      "options": {
+        "A": "Economic fluctuations over 48-55 years",
+        "B": "A change in the norms of a small group over 5 years",
+        "C": "A change of social formations over several centuries",
+        "D": "A change of generations over 25-30 years",
+        "E": "The transformation of a language over several centuries"
+      }
+    },
+    "67": {
+      "question": "For studying the transformations of a language over centuries, the ... scale is applied.",
+      "options": {
+        "A": "Situational",
+        "B": "Micro-scale",
+        "C": "Medium-scale",
+        "D": "Biographical",
+        "E": "Macro-scale"
+      }
+    },
+    "68": {
+      "question": "The author of the work \"Culture and Explosion\" is...",
+      "options": {
+        "A": "A. Losev",
+        "B": "Yu. Lotman",
+        "C": "M. Bakhtin",
+        "D": "G. Shpet",
+        "E": "V. Bibler"
+      }
+    },
+    "69": {
+      "question": "The distinguishing feature of the \"moment of explosion\" in Lotman's description is...",
+      "options": {
+        "A": "A single outcome, predetermined by the entire prehistory",
+        "B": "The complete cessation of gradual processes",
+        "C": "The presence of several possible transitions, of which only one is realized",
+        "D": "The absence of any cultural consequences of the event",
+        "E": "The repetition of an already realized trajectory without alternatives"
+      }
+    },
+    "70": {
+      "question": "The pair of processes that illustrates the difference between explosive and gradual dynamics:",
+      "options": {
+        "A": "The copying of a text and the original discovery of an idea",
+        "B": "The legal registration and archival storage of a document",
+        "C": "The preservation of a custom and the mechanical copying of a custom",
+        "D": "Technical realization and a subsequent scientific discovery",
+        "E": "The emergence of a scientific idea and its technical realization"
+      }
+    },
+    "71": {
+      "question": "The propositions that correspond to the understanding of a cultural crisis:",
+      "options": {
+        "A": "A crisis can have positive cultural consequences",
+        "B": "A systemic crisis requires the same pace of change in all subsystems",
+        "C": "Simultaneous deformations of subsystems may make a crisis systemic",
+        "D": "The positive role of a crisis excludes the disintegration of old normative structures",
+        "E": "A crisis is defined exclusively by a decrease in the volume of cultural production"
+      }
+    },
+    "72": {
+      "question": "The introduction of norms and objects already tested by another culture is called...",
+      "options": {
+        "A": "Innovative and exploratory activity",
+        "B": "Cultural isolation",
+        "C": "Stylistic mummification",
+        "D": "Cultural borrowing",
+        "E": "Archetypal compensation"
+      }
+    },
+    "73": {
+      "question": "A deliberate departure from established norms in favour of new models of activity belongs to...",
+      "options": {
+        "A": "Normative codification",
+        "B": "Innovative and exploratory activity",
+        "C": "Passive transmission of tradition",
+        "D": "Ritual reproduction",
+        "E": "Archival conservation"
+      }
+    },
+    "74": {
+      "question": "In a real cultural process, the dying out of old norms and the introduction of new ones are related as follows...",
+      "options": {
+        "A": "They depend exclusively on external borrowings",
+        "B": "They always occur at the same pace",
+        "C": "They exclude simultaneity within one society",
+        "D": "They are always separated by a long period of normlessness",
+        "E": "They may proceed in parallel and at different speeds"
+      }
+    },
+    "75": {
+      "question": "P. Sorokin considers the following directions of the movement of cultural values:",
+      "options": {
+        "A": "Only from the metropolis to the dependent periphery",
+        "B": "Between social strata",
+        "C": "Only from professional authors to folklore performers",
+        "D": "Only within a single ethnically closed territory",
+        "E": "Between countries and regions"
+      }
+    }
+  }
+}

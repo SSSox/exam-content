@@ -1,0 +1,1380 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 201,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Темперамент характеризует прежде всего...",
+        "en": "Temperament characterizes primarily...",
+        "kk": "Темперамент ең алдымен нені сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Объём профессиональных знаний",
+            "en": "The amount of professional knowledge",
+            "kk": "Кәсіби білімнің көлемін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Содержание убеждений и мировоззрения",
+            "en": "The content of convictions and worldview",
+            "kk": "Сенімдер мен дүниетаным мазмұнын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Нравственную направленность поступков",
+            "en": "The moral orientation of actions",
+            "kk": "Қылықтардың адамгершілік бағыттылығын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Динамику интенсивности и темпа реагирования",
+            "en": "The dynamics of the intensity and tempo of responding",
+            "kk": "Реакцияның қарқындылығы мен екпінінің динамикасын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Уровень освоения групповых норм",
+            "en": "The level of mastery of group norms",
+            "kk": "Топтық нормаларды меңгеру деңгейін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 2, 39",
+          "units": [
+            "p2",
+            "p39"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В гуморальной теории Гиппократа флегматический темперамент связывался с преобладанием...",
+        "en": "In Hippocrates' humoral theory, the phlegmatic temperament was associated with the predominance of...",
+        "kk": "Гиппократтың гуморальдық теориясында флегматикалық темперамент қандай сұйықтықтың басымдығымен байланыстырылды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Крови",
+            "en": "Blood",
+            "kk": "Қанның"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Лимфы",
+            "en": "Lymph",
+            "kk": "Лимфаның"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Жёлтой желчи",
+            "en": "Yellow bile",
+            "kk": "Сары өттің"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Чёрной желчи",
+            "en": "Black bile",
+            "kk": "Қара өттің"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Слизи",
+            "en": "Phlegm",
+            "kk": "Шырыштың"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 3, 4, 5, 6, 7",
+          "units": [
+            "p3",
+            "p4",
+            "p5",
+            "p6",
+            "p7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия в исторической гуморальной теории:",
+        "en": "Correct correspondences in the historical humoral theory:",
+        "kk": "Тарихи гуморальдық теориядағы дұрыс сәйкестіктер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Слизь: холерический темперамент",
+            "en": "Phlegm: choleric temperament",
+            "kk": "Шырыш: холерикалық темперамент"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Жёлтая желчь: холерический темперамент",
+            "en": "Yellow bile: choleric temperament",
+            "kk": "Сары өт: холерикалық темперамент"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Кровь: флегматический темперамент",
+            "en": "Blood: phlegmatic temperament",
+            "kk": "Қан: флегматикалық темперамент"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Кровь: сангвинический темперамент",
+            "en": "Blood: sanguine temperament",
+            "kk": "Қан: сангвиникалық темперамент"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Чёрная желчь: меланхолический темперамент",
+            "en": "Black bile: melancholic temperament",
+            "kk": "Қара өт: меланхоликалық темперамент"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 3, 4, 5, 6, 7",
+          "units": [
+            "p3",
+            "p4",
+            "p5",
+            "p6",
+            "p7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Основой конституциональных теорий темперамента служила предполагаемая связь психических особенностей с...",
+        "en": "Constitutional theories of temperament were based on an assumed link between mental characteristics and...",
+        "kk": "Темпераменттің конституциялық теорияларының негізіне психикалық ерекшеліктердің немен болжамды байланысы алынды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Типом подкрепления",
+            "en": "The type of reinforcement",
+            "kk": "Нығайту типімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Телосложением",
+            "en": "Body build",
+            "kk": "Дене бітімімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Организацией памяти",
+            "en": "The organization of memory",
+            "kk": "Естің ұйымдасуымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Положением сенсорного фильтра",
+            "en": "The position of a sensory filter",
+            "kk": "Сенсорлық сүзгінің қалпымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Содержанием общественных норм",
+            "en": "The content of social norms",
+            "kk": "Қоғамдық нормалардың мазмұнымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 9",
+          "units": [
+            "p9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Хрупкое телосложение с узкими плечами и длинными тонкими конечностями в типологии Э. Кречмера обозначено как...",
+        "en": "A slight build with narrow shoulders and long, thin limbs is designated in E. Kretschmer's typology as...",
+        "kk": "Э. Кречмер типологиясында иығы тар, аяқ-қолы ұзын әрі жіңішке нәзік дене бітімі қалай белгіленген?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эндоморфное",
+            "en": "Endomorphic",
+            "kk": "Эндоморфты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Диспластическое",
+            "en": "Dysplastic",
+            "kk": "Диспластикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Атлетическое",
+            "en": "Athletic",
+            "kk": "Атлеттік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Пикническое",
+            "en": "Pyknic",
+            "kk": "Пикникалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Астеническое",
+            "en": "Asthenic",
+            "kk": "Астениялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 11, 12, 13, 14",
+          "units": [
+            "p11",
+            "p12",
+            "p13",
+            "p14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В классификации У. Шелдона преобладание мускулатуры и крепкого скелета характеризует компонент...",
+        "en": "In W. Sheldon's classification, a predominance of musculature and a strong skeleton characterizes the... component.",
+        "kk": "У. Шелдон жіктемесінде бұлшықеттің басымдығы мен мықты қаңқа қандай компонентті сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эндоморфный",
+            "en": "Endomorphic",
+            "kk": "Эндоморфты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мезоморфный",
+            "en": "Mesomorphic",
+            "kk": "Мезоморфты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Пикнический",
+            "en": "Pyknic",
+            "kk": "Пикникалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Диспластический",
+            "en": "Dysplastic",
+            "kk": "Диспластикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эктоморфный",
+            "en": "Ectomorphic",
+            "kk": "Эктоморфты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 15, 16, 17, 18",
+          "units": [
+            "p15",
+            "p16",
+            "p17",
+            "p18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К компонентам телосложения по У. Шелдону относятся:",
+        "en": "The components of physique in W. Sheldon's scheme include:",
+        "kk": "У. Шелдон бойынша дене бітімінің компоненттеріне мыналар жатады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эндоморфный",
+            "en": "Endomorphic",
+            "kk": "Эндоморфты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мезоморфный",
+            "en": "Mesomorphic",
+            "kk": "Мезоморфты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эктоморфный",
+            "en": "Ectomorphic",
+            "kk": "Эктоморфты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гипертимический",
+            "en": "Hyperthymic",
+            "kk": "Гипертимиялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Циклотимический",
+            "en": "Cyclothymic",
+            "kk": "Циклотимиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 15, 16, 17, 18",
+          "units": [
+            "p15",
+            "p16",
+            "p17",
+            "p18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сильный, уравновешенный, подвижный тип нервной системы в павловском сопоставлении соответствует...",
+        "en": "A strong, balanced, mobile type of nervous system corresponds, in Pavlov's comparison, to...",
+        "kk": "Павловтық салыстыруда жүйке жүйесінің күшті, теңгерілген, қозғалмалы типі қай темпераментке сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Флегматическому темпераменту",
+            "en": "The phlegmatic temperament",
+            "kk": "Флегматикалық темпераментке"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сангвиническому темпераменту",
+            "en": "The sanguine temperament",
+            "kk": "Сангвиникалық темпераментке"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Холерическому темпераменту",
+            "en": "The choleric temperament",
+            "kk": "Холерикалық темпераментке"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Мыслительному типу",
+            "en": "The thinking type",
+            "kk": "Ойшыл типке"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Меланхолическому темпераменту",
+            "en": "The melancholic temperament",
+            "kk": "Меланхоликалық темпераментке"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 26, 27, 32",
+          "units": [
+            "p26",
+            "p27",
+            "p32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сила нервных процессов при преобладании возбуждения над торможением соответствует павловскому типу...",
+        "en": "Strength of nervous processes with a predominance of excitation over inhibition corresponds to the Pavlovian type that is...",
+        "kk": "Қозу тежелуден басым болатын күшті жүйке процестері павловтық қай типке сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Флегматическому",
+            "en": "Phlegmatic",
+            "kk": "Флегматикалық типке"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Среднему сигнальному",
+            "en": "Intermediate signaling",
+            "kk": "Орта сигналдық типке"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Холерическому",
+            "en": "Choleric",
+            "kk": "Холерикалық типке"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сангвиническому",
+            "en": "Sanguine",
+            "kk": "Сангвиникалық типке"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Меланхолическому",
+            "en": "Melancholic",
+            "kk": "Меланхоликалық типке"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 28, 33",
+          "units": [
+            "p28",
+            "p33"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сильный, уравновешенный, инертный тип в павловском сопоставлении соответствует темпераменту...",
+        "en": "A strong, balanced, inert type corresponds, in Pavlov's comparison, to the... temperament.",
+        "kk": "Павловтық салыстыруда күшті, теңгерілген, инертті тип қай темпераментке сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Холерическому",
+            "en": "Choleric",
+            "kk": "Холерикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Сангвиническому",
+            "en": "Sanguine",
+            "kk": "Сангвиникалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Меланхолическому",
+            "en": "Melancholic",
+            "kk": "Меланхоликалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Художественному",
+            "en": "Artistic",
+            "kk": "Көркемдік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Флегматическому",
+            "en": "Phlegmatic",
+            "kk": "Флегматикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 29, 34",
+          "units": [
+            "p29",
+            "p34"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Слабый тип нервной системы в классическом павловском сопоставлении соответствует темпераменту...",
+        "en": "A weak type of nervous system corresponds, in the classical Pavlovian comparison, to the... temperament.",
+        "kk": "Классикалық павловтық салыстыруда жүйке жүйесінің әлсіз типі қай темпераментке сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Флегматическому",
+            "en": "Phlegmatic",
+            "kk": "Флегматикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мыслительному",
+            "en": "Thinking",
+            "kk": "Ойшыл"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Холерическому",
+            "en": "Choleric",
+            "kk": "Холерикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сангвиническому",
+            "en": "Sanguine",
+            "kk": "Сангвиникалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Меланхолическому",
+            "en": "Melancholic",
+            "kk": "Меланхоликалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 30, 35",
+          "units": [
+            "p30",
+            "p35"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое свойство различает сангвинический и флегматический типы при общей силе и уравновешенности?",
+        "en": "Which property distinguishes the sanguine and phlegmatic types, given equal strength and balance?",
+        "kk": "Жалпы күш пен теңгерілгендік кезінде сангвиникалық типті флегматикалық типтен қандай қасиет ажыратады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Моральная оценка характера",
+            "en": "The moral evaluation of character",
+            "kk": "Мінезге адамгершілік баға беру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Подвижность нервных процессов",
+            "en": "The mobility of nervous processes",
+            "kk": "Жүйке процестерінің қозғалғыштығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наличие тормозного процесса",
+            "en": "The presence of the inhibitory process",
+            "kk": "Тежелу процесінің болуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социальная направленность убеждений",
+            "en": "The social orientation of convictions",
+            "kk": "Сенімдердің әлеуметтік бағыттылығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Способность к образованию навыков",
+            "en": "The ability to form skills",
+            "kk": "Дағдыларды қалыптастыру қабілеті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 32, 34",
+          "units": [
+            "p32",
+            "p34"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "topic_id": 10,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Обоснованные выводы о темпераменте:",
+        "en": "Justified conclusions about temperament:",
+        "kk": "Темперамент туралы негізді қорытындылар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Динамические особенности полностью равны убеждениям",
+            "en": "Dynamic features are entirely equal to convictions",
+            "kk": "Динамикалық ерекшеліктер сенімдермен толық тең"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любая внешняя сдержанность доказывает слабый тип",
+            "en": "Any external restraint proves a weak type",
+            "kk": "Кез келген сыртқы сабырлылық әлсіз типті дәлелдейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Воспитание может менять внешние проявления темперамента",
+            "en": "Upbringing can change the outward manifestations of temperament",
+            "kk": "Тәрбие темпераменттің сыртқы көріністерін өзгерте алады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Один темперамент гарантирует высокую одарённость",
+            "en": "A particular temperament guarantees high giftedness",
+            "kk": "Бір темперамент жоғары дарындылыққа кепілдік береді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Темперамент не задаёт нравственное содержание личности",
+            "en": "Temperament does not determine the moral content of personality",
+            "kk": "Темперамент тұлғаның адамгершілік мазмұнын анықтамайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 36, 39",
+          "units": [
+            "p36",
+            "p39"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Две основные координаты темперамента в двухфакторной модели Г. Айзенка...",
+        "en": "The two main dimensions of temperament in H. Eysenck's two-factor model are...",
+        "kk": "Г. Айзенктің екі факторлы моделіндегі темпераменттің екі негізгі координатасы қандай?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интроверсия и сила возбуждения",
+            "en": "Introversion and strength of excitation",
+            "kk": "Интроверсия және қозу күші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Уравновешенность и нейротизм",
+            "en": "Balance and neuroticism",
+            "kk": "Теңгерілгендік және нейротизм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Экстраверсия и нейротизм",
+            "en": "Extraversion and neuroticism",
+            "kk": "Экстраверсия және нейротизм"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Экстраверсия и подвижность",
+            "en": "Extraversion and mobility",
+            "kk": "Экстраверсия және қозғалғыштық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Нейротизм и сенситивность",
+            "en": "Neuroticism and sensitivity",
+            "kk": "Нейротизм және сенситивтілік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 44",
+          "units": [
+            "p44"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Повышенный нейротизм характеризует прежде всего...",
+        "en": "Heightened neuroticism characterizes primarily...",
+        "kk": "Нейротизмнің жоғары болуы ең алдымен нені сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Силу убеждений",
+            "en": "The strength of convictions",
+            "kk": "Сенімдердің беріктігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Новизну творческого продукта",
+            "en": "The novelty of a creative product",
+            "kk": "Шығармашылық өнімнің жаңалығын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эмоциональную неустойчивость",
+            "en": "Emotional instability",
+            "kk": "Эмоциялық тұрақсыздықты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Устойчивость концентрации",
+            "en": "The stability of concentration",
+            "kk": "Шоғырланудың тұрақтылығын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Объём долговременной памяти",
+            "en": "The capacity of long-term memory",
+            "kk": "Ұзақ мерзімді естің көлемін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 46",
+          "units": [
+            "p46"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Экстраверсия в сочетании с эмоциональной устойчивостью в модели Г. Айзенка соответствует...",
+        "en": "Extraversion combined with emotional stability in H. Eysenck's model corresponds to the... type.",
+        "kk": "Г. Айзенк моделінде экстраверсияның эмоциялық тұрақтылықпен үйлесуі қай типке сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Меланхолическому типу",
+            "en": "Melancholic",
+            "kk": "Меланхоликалық типке"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Флегматическому типу",
+            "en": "Phlegmatic",
+            "kk": "Флегматикалық типке"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Холерическому типу",
+            "en": "Choleric",
+            "kk": "Холерикалық типке"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сангвиническому типу",
+            "en": "Sanguine",
+            "kk": "Сангвиникалық типке"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Астеническому типу",
+            "en": "Asthenic",
+            "kk": "Астениялық типке"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 47",
+          "units": [
+            "p47"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Интроверсия в сочетании с высоким нейротизмом в модели Г. Айзенка соответствует...",
+        "en": "Introversion combined with high neuroticism in H. Eysenck's model corresponds to the... type.",
+        "kk": "Г. Айзенк моделінде интроверсияның жоғары нейротизммен үйлесуі қай типке сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Флегматическому типу",
+            "en": "Phlegmatic",
+            "kk": "Флегматикалық типке"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мезоморфному типу",
+            "en": "Mesomorphic",
+            "kk": "Мезоморфты типке"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Холерическому типу",
+            "en": "Choleric",
+            "kk": "Холерикалық типке"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Меланхолическому типу",
+            "en": "Melancholic",
+            "kk": "Меланхоликалық типке"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Сангвиническому типу",
+            "en": "Sanguine",
+            "kk": "Сангвиникалық типке"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 47",
+          "units": [
+            "p47"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "topic_id": 10,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные сочетания в модели темперамента Г. Айзенка:",
+        "en": "Correct combinations in H. Eysenck's model of temperament:",
+        "kk": "Г. Айзенктің темперамент моделіндегі дұрыс үйлесімдер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интроверсия и устойчивость: флегматик",
+            "en": "Introversion and stability: phlegmatic",
+            "kk": "Интроверсия және тұрақтылық: флегматик"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Экстраверсия и устойчивость: сангвиник",
+            "en": "Extraversion and stability: sanguine",
+            "kk": "Экстраверсия және тұрақтылық: сангвиник"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Экстраверсия и нейротизм: меланхолик",
+            "en": "Extraversion and neuroticism: melancholic",
+            "kk": "Экстраверсия және нейротизм: меланхолик"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Экстраверсия и нейротизм: холерик",
+            "en": "Extraversion and neuroticism: choleric",
+            "kk": "Экстраверсия және нейротизм: холерик"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Интроверсия и нейротизм: сангвиник",
+            "en": "Introversion and neuroticism: sanguine",
+            "kk": "Интроверсия және нейротизм: сангвиник"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 47",
+          "units": [
+            "p47"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему по темпераменту нельзя заключить о нравственной ценности человека?",
+        "en": "Why can a person's moral worth not be inferred from his or her temperament?",
+        "kk": "Неге темперамент бойынша адамның адамгершілік құндылығы туралы қорытынды жасауға болмайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Нравственность задаётся только скоростью реакций",
+            "en": "Morality is determined only by the speed of reactions",
+            "kk": "Адамгершілік тек реакция жылдамдығымен анықталады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Динамика поведения не определяет его содержание",
+            "en": "The dynamics of behavior do not determine its content",
+            "kk": "Мінез-құлықтың динамикасы оның мазмұнын анықтамайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сила возбуждения определяет систему ценностей",
+            "en": "The strength of excitation determines the value system",
+            "kk": "Қозу күші құндылықтар жүйесін анықтайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Темперамент тождественен социальному опыту",
+            "en": "Temperament is identical to social experience",
+            "kk": "Темперамент әлеуметтік тәжірибемен бірдей"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Темперамент не связан с нервной деятельностью",
+            "en": "Temperament is unrelated to nervous activity",
+            "kk": "Темперамент жүйке әрекетімен байланысты емес"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 39",
+          "units": [
+            "p39"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое соответствие «теория: основание типологии» верно?",
+        "en": "Which \"theory: basis of typology\" correspondence is correct?",
+        "kk": "«Теория: типология негізі» сәйкестіктерінің қайсысы дұрыс?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кречмер: виды смысловых обобщений",
+            "en": "Kretschmer: kinds of semantic generalizations",
+            "kk": "Кречмер: мағыналық жалпылау түрлері"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Айзенк: соотношение телесных жидкостей",
+            "en": "Eysenck: the ratio of body fluids",
+            "kk": "Айзенк: дене сұйықтықтарының арақатынасы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Павлов: свойства нервных процессов",
+            "en": "Pavlov: properties of nervous processes",
+            "kk": "Павлов: жүйке процестерінің қасиеттері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Шелдон: распределение внимания",
+            "en": "Sheldon: the distribution of attention",
+            "kk": "Шелдон: зейін бөлінімділігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гиппократ: экстраверсия и нейротизм",
+            "en": "Hippocrates: extraversion and neuroticism",
+            "kk": "Гиппократ: экстраверсия және нейротизм"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L10",
+          "file": "Лекции/Лекция 10.docx",
+          "location": "Абзацы 9, 26, 44",
+          "units": [
+            "p9",
+            "p26",
+            "p44"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 331,
+      "topic_id": 17,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "По состоянию на 9 ноября 2026 года конституционные численность и срок полномочий депутатов Курултая составляют...",
+        "en": "As of November 9, 2026, the constitutional size and term of office of the deputies of the Kurultai are...",
+        "kk": "2026 жылғы 9 қарашадағы жағдай бойынша Құрылтай депутаттарының конституциялық саны мен өкілеттік мерзімі қандай?"
+      },
+      "source_references": [
+        {
+          "source_id": "K",
+          "title": "Конституция Республики Казахстан, действующая с 1 июля 2026 года",
+          "url": "https://www.akorda.kz/ru/konstituciya-respubliki-kazahstan-3053339",
+          "location": "Статья 53",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "98 депутатов, 5 лет",
+            "en": "98 deputies, 5 years",
+            "kk": "98 депутат, 5 жыл"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "107 депутатов, 5 лет",
+            "en": "107 deputies, 5 years",
+            "kk": "107 депутат, 5 жыл"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "145 депутатов, 6 лет",
+            "en": "145 deputies, 6 years",
+            "kk": "145 депутат, 6 жыл"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "145 депутатов, 5 лет",
+            "en": "145 deputies, 5 years",
+            "kk": "145 депутат, 5 жыл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "120 депутатов, 4 года",
+            "en": "120 deputies, 4 years",
+            "kk": "120 депутат, 4 жыл"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 332,
+      "topic_id": 17,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "По состоянию на 9 ноября 2026 года депутаты Курултая избираются...",
+        "en": "As of November 9, 2026, the deputies of the Kurultai are elected...",
+        "kk": "2026 жылғы 9 қарашадағы жағдай бойынша Құрылтай депутаттары қалай сайланады?"
+      },
+      "source_references": [
+        {
+          "source_id": "K",
+          "title": "Конституция Республики Казахстан, действующая с 1 июля 2026 года",
+          "url": "https://www.akorda.kz/ru/konstituciya-respubliki-kazahstan-3053339",
+          "location": "Статья 53",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "По партийным спискам с отдельной президентской квотой",
+            "en": "By party lists with a separate presidential quota",
+            "kk": "Жеке президенттік квотасы бар партиялық тізімдер бойынша"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Косвенным голосованием депутатов маслихатов",
+            "en": "By indirect vote of the deputies of the maslikhats",
+            "kk": "Мәслихат депутаттарының жанама дауыс беруі арқылы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "По смешанной системе в общенациональном и одномандатных округах",
+            "en": "Under a mixed system in a nationwide district and single-member districts",
+            "kk": "Жалпыұлттық және бір мандатты округтердегі аралас жүйе бойынша"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только по одномандатным округам относительного большинства",
+            "en": "Only in single-member plurality districts",
+            "kk": "Тек салыстырмалы көпшілік бір мандатты округтер бойынша"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "По пропорциональной системе в едином общенациональном округе",
+            "en": "Under a proportional system in a single nationwide district",
+            "kk": "Бірыңғай жалпыұлттық округтегі пропорционалды жүйе бойынша"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 333,
+      "topic_id": 17,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "По состоянию на 9 ноября 2026 года для избрания депутатом Курултая требуется достичь возраста 25 лет и постоянно проживать в Казахстане последние...",
+        "en": "As of November 9, 2026, to be elected a deputy of the Kurultai one must be at least 25 years old and have permanently resided in Kazakhstan for the last...",
+        "kk": "2026 жылғы 9 қарашадағы жағдай бойынша Құрылтай депутаты болып сайлану үшін 25 жасқа толу және Қазақстанда соңғы қанша жыл тұрақты тұру қажет?"
+      },
+      "source_references": [
+        {
+          "source_id": "K",
+          "title": "Конституция Республики Казахстан, действующая с 1 июля 2026 года",
+          "url": "https://www.akorda.kz/ru/konstituciya-respubliki-kazahstan-3053339",
+          "location": "Статья 54",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "15 лет",
+            "en": "15 years",
+            "kk": "15 жыл"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "12 лет",
+            "en": "12 years",
+            "kk": "12 жыл"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "10 лет",
+            "en": "10 years",
+            "kk": "10 жыл"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "7 лет",
+            "en": "7 years",
+            "kk": "7 жыл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "5 лет",
+            "en": "5 years",
+            "kk": "5 жыл"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 334,
+      "topic_id": 17,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Кандидатов в Курултай по состоянию на 9 ноября 2026 года вправе выдвигать:",
+        "en": "As of November 9, 2026, candidates to the Kurultai may be nominated by:",
+        "kk": "Құрылтайға кандидаттар ұсынуға 2026 жылғы 9 қарашадағы жағдай бойынша мыналар құқылы:"
+      },
+      "source_references": [
+        {
+          "source_id": "G",
+          "title": "Новый Курултай и правила проведения выборов",
+          "url": "https://www.gov.kz/org/sko-timiryazev-dzerzhinskiy/press/news/details/1276375?lang=ru",
+          "location": "списки",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Зарегистрированные политические партии",
+            "en": "Registered political parties",
+            "kk": "Тіркелген саяси партиялар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Любая инициативная группа избирателей",
+            "en": "Any initiative group of voters",
+            "kk": "Сайлаушылардың кез келген бастамашыл тобы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Любые общественные объединения независимо от статуса",
+            "en": "Any public associations regardless of status",
+            "kk": "Мәртебесіне қарамастан кез келген қоғамдық бірлестіктер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Только действующие депутаты маслихатов",
+            "en": "Only sitting deputies of the maslikhats",
+            "kk": "Тек әрекет етіп тұрған мәслихат депутаттары"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Кандидаты исключительно в порядке самовыдвижения",
+            "en": "Candidates exclusively by self-nomination",
+            "kk": "Тек өзін-өзі ұсыну тәртібімен кандидаттар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 335,
+      "topic_id": 17,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "30-процентное требование к женщинам, молодёжи и лицам с инвалидностью на выборах Курултая 2026 года применяется...",
+        "en": "The 30 percent requirement for women, young people and persons with disabilities in the 2026 Kurultai elections is applied...",
+        "kk": "2026 жылғы Құрылтай сайлауында әйелдерге, жастарға және мүгедектігі бар адамдарға қойылатын 30 пайыздық талап қалай қолданылады?"
+      },
+      "source_references": [
+        {
+          "source_id": "G",
+          "title": "Новый Курултай и правила проведения выборов",
+          "url": "https://www.gov.kz/org/sko-timiryazev-dzerzhinskiy/press/news/details/1276375?lang=ru",
+          "location": "квота",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только к запасным кандидатам после распределения мандатов",
+            "en": "Only to reserve candidates after the seats have been distributed",
+            "kk": "Тек мандаттар бөлінгеннен кейінгі қосалқы кандидаттарға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Только к кандидатам одномандатных округов",
+            "en": "Only to the candidates of single-member districts",
+            "kk": "Тек бір мандатты округтердің кандидаттарына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отдельно по 30% для каждой категории",
+            "en": "Separately, 30% for each category",
+            "kk": "Әр санатқа бөлек 30%-дан"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "К совокупной доле трёх категорий",
+            "en": "To the combined share of the three categories",
+            "kk": "Үш санаттың жиынтық үлесіне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Только к женщинам без учёта остальных",
+            "en": "Only to women, without regard to the others",
+            "kk": "Тек әйелдерге, қалғандарын ескермей"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 336,
+      "topic_id": 17,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Установленный избирательный барьер на выборах Курултая 2026 года составлял...",
+        "en": "The electoral threshold established for the 2026 Kurultai elections was...",
+        "kk": "2026 жылғы Құрылтай сайлауында белгіленген сайлау тосқауылы қанша болды?"
+      },
+      "source_references": [
+        {
+          "source_id": "H",
+          "title": "О состоявшихся выборах в Курултай Республики Казахстан",
+          "url": "https://www.gov.kz/org/mfa-geneva/press/news/details/1279867?lang=ru",
+          "location": "барьер",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "7%",
+            "en": "7%",
+            "kk": "7%"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "3%",
+            "en": "3%",
+            "kk": "3%"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "10%",
+            "en": "10%",
+            "kk": "10%"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "5%",
+            "en": "5%",
+            "kk": "5%"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "6%",
+            "en": "6%",
+            "kk": "6%"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 337,
+      "topic_id": 17,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "По правилам выборов Курултая 2026 года после подсчёта голосов партия сохраняет возможность...",
+        "en": "Under the rules for the 2026 Kurultai elections, after the votes are counted a party retains the possibility of...",
+        "kk": "2026 жылғы Құрылтай сайлауының ережелері бойынша дауыстар санағаннан кейін партия мына мүмкіндікті сақтайды:"
+      },
+      "source_references": [
+        {
+          "source_id": "G",
+          "title": "Новый Курултай и правила проведения выборов",
+          "url": "https://www.gov.kz/org/sko-timiryazev-dzerzhinskiy/press/news/details/1276375?lang=ru",
+          "location": "очередность",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Передать мандаты кандидатам другой партии",
+            "en": "Transferring seats to the candidates of another party",
+            "kk": "Мандаттарды басқа партияның кандидаттарына беру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Превратить партийные мандаты в одномандатные округа",
+            "en": "Converting party seats into single-member districts",
+            "kk": "Партиялық мандаттарды бір мандатты округтерге айналдыру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Заменить полученные голоса назначением дополнительных депутатов",
+            "en": "Replacing the votes received with the appointment of additional deputies",
+            "kk": "Алынған дауыстарды қосымша депутаттар тағайындаумен алмастыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отменить для своих кандидатов требования гражданства",
+            "en": "Waiving the citizenship requirements for its candidates",
+            "kk": "Өз кандидаттары үшін азаматтық талаптарын жою"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Установить очередность получателей мандатов с соблюдением установленной квоты",
+            "en": "Setting the order of the recipients of seats, subject to the established quota",
+            "kk": "Белгіленген квотаны сақтай отырып, мандат алушылардың кезегін белгілеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 338,
+      "topic_id": 17,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "На выборах Президента Казахстана по состоянию на 9 ноября 2026 года условие избрания в первом голосовании...",
+        "en": "In the presidential elections in Kazakhstan, as of November 9, 2026, the condition for election in the first round of voting is...",
+        "kk": "Қазақстан Президентін сайлауда 2026 жылғы 9 қарашадағы жағдай бойынша бірінші дауыс беруде сайлану шарты қандай?"
+      },
+      "source_references": [
+        {
+          "source_id": "E",
+          "title": "О выборах в Республике Казахстан",
+          "url": "https://old.adilet.zan.kz/rus/docs/Z950002464_",
+          "location": "Статья 9",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Любое преимущество над ближайшим соперником",
+            "en": "Any lead over the nearest rival",
+            "kk": "Жақын қарсыласынан кез келген артықшылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Не менее двух третей действительных голосов",
+            "en": "At least two thirds of the valid votes",
+            "kk": "Жарамды дауыстардың кемінде үштен екісі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Более 50% всех зарегистрированных избирателей",
+            "en": "More than 50% of all registered voters",
+            "kk": "Барлық тіркелген сайлаушылардың 50%-нан астамы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Более 50% голосов принявших участие избирателей",
+            "en": "More than 50% of the votes of the voters who took part",
+            "kk": "Қатысқан сайлаушылар дауыстарының 50%-нан астамы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Не менее 50% голосов принявших участие избирателей",
+            "en": "At least 50% of the votes of the voters who took part",
+            "kk": "Қатысқан сайлаушылар дауыстарының кемінде 50%-ы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 339,
+      "topic_id": 17,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Принципы избрания Курултая, действующие на 9 ноября 2026 года:",
+        "en": "Principles of electing the Kurultai in force as of November 9, 2026:",
+        "kk": "2026 жылғы 9 қарашадағы жағдай бойынша қолданылатын Құрылтайды сайлау принциптері:"
+      },
+      "source_references": [
+        {
+          "source_id": "K",
+          "title": "Конституция Республики Казахстан, действующая с 1 июля 2026 года",
+          "url": "https://www.akorda.kz/ru/konstituciya-respubliki-kazahstan-3053339",
+          "location": "Статья 54",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Всеобщее и равное избирательное право",
+            "en": "Universal and equal suffrage",
+            "kk": "Жалпыға бірдей және тең сайлау құқығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Прямое избрание",
+            "en": "Direct election",
+            "kk": "Тікелей сайлау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Косвенное избрание через депутатов местных представительных органов",
+            "en": "Indirect election through deputies of local representative bodies",
+            "kk": "Жергілікті өкілді органдар депутаттары арқылы жанама сайлау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Открытая фиксация индивидуального волеизъявления избирателя",
+            "en": "Open recording of the individual voter's expressed will",
+            "kk": "Сайлаушының жеке ерік білдіруін ашық тіркеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Тайное голосование",
+            "en": "Secret ballot",
+            "kk": "Жасырын дауыс беру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ]
+    },
+    {
+      "id": 340,
+      "topic_id": 17,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные утверждения о выборах Курултая 2026 года.",
+        "en": "Indicate the correct statements about the 2026 Kurultai elections.",
+        "kk": "2026 жылғы Құрылтай сайлауы туралы дұрыс тұжырымдарды көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "K",
+          "title": "Конституция Республики Казахстан, действующая с 1 июля 2026 года",
+          "url": "https://www.akorda.kz/ru/konstituciya-respubliki-kazahstan-3053339",
+          "location": "Статья 53",
+          "checked_on": "2026-11-09"
+        },
+        {
+          "source_id": "G",
+          "title": "Новый Курултай и правила проведения выборов",
+          "url": "https://www.gov.kz/org/sko-timiryazev-dzerzhinskiy/press/news/details/1276375?lang=ru",
+          "location": "списки",
+          "checked_on": "2026-11-09"
+        },
+        {
+          "source_id": "H",
+          "title": "О состоявшихся выборах в Курултай Республики Казахстан",
+          "url": "https://www.gov.kz/org/mfa-geneva/press/news/details/1279867?lang=ru",
+          "location": "барьер",
+          "checked_on": "2026-11-09"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кандидат вне партийного списка получает мандат по отдельному округу",
+            "en": "A candidate outside a party list receives a seat in a separate district",
+            "kk": "Партиялық тізімнен тыс кандидат жеке округ бойынша мандат алады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Кандидатов выдвигают зарегистрированные партии",
+            "en": "Candidates are nominated by registered parties",
+            "kk": "Кандидаттарды тіркелген партиялар ұсынады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Мандаты распределяются с применением семипроцентного барьера",
+            "en": "Seats are distributed using a seven-percent threshold",
+            "kk": "Мандаттар жетіпроцентті тосқауылды қолдана отырып бөлінеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Часть депутатов назначается по отдельной президентской квоте",
+            "en": "Some of the deputies are appointed under a separate presidential quota",
+            "kk": "Депутаттардың бір бөлігі жеке президенттік квота бойынша тағайындалады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Применяется пропорциональное представительство",
+            "en": "Proportional representation is applied",
+            "kk": "Пропорционалды өкілдік қолданылады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "E"
+      ]
+    }
+  ]
+}

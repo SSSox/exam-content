@@ -1,0 +1,1375 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/psychology",
+  "questions": [
+    {
+      "id": 221,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Устойчивое индивидуальное сочетание черт, выражающих отношения человека в поступках, называется...",
+        "en": "A stable individual combination of traits that express a person's attitudes in his or her actions is called...",
+        "kk": "Адамның қылықтарында көрінетін қатынастарын білдіретін мінез қырларының тұрақты жеке үйлесімі не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Социальной установкой",
+            "en": "A social attitude",
+            "kk": "Әлеуметтік қондырма"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальным стилем деятельности",
+            "en": "An individual style of activity",
+            "kk": "Әрекеттің жеке стилі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Характером",
+            "en": "Character",
+            "kk": "Мінез"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Темпераментом",
+            "en": "Temperament",
+            "kk": "Темперамент"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Направленностью",
+            "en": "Orientation",
+            "kk": "Бағыттылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 6, 8",
+          "units": [
+            "p6",
+            "p8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что позволяет различать характер и темперамент при оценке поведения?",
+        "en": "What makes it possible to distinguish character from temperament when evaluating behavior?",
+        "kk": "Мінез-құлықты бағалау кезінде мінез бен темпераментті не ажыратуға мүмкіндік береді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Темперамент однозначно задаёт правдивость",
+            "en": "Temperament unambiguously determines truthfulness",
+            "kk": "Темперамент шыншылдықты біржақты анықтайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Характер определяет темп, темперамент систему ценностей",
+            "en": "Character determines tempo, temperament the value system",
+            "kk": "Мінез екпінді, темперамент құндылықтар жүйесін анықтайды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Характер врождён целиком, темперамент приобретается обучением",
+            "en": "Character is entirely innate, temperament is acquired through learning",
+            "kk": "Мінез толығымен туа біткен, темперамент оқыту арқылы жүре пайда болады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Характер не проявляется в деятельности",
+            "en": "Character is not manifested in activity",
+            "kk": "Мінез әрекетте көрінбейді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Характер выражает содержание отношений, темперамент их динамику",
+            "en": "Character expresses the content of attitudes, temperament their dynamics",
+            "kk": "Мінез қатынастардың мазмұнын, темперамент олардың динамикасын білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 11, 15",
+          "units": [
+            "p11",
+            "p15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В павловском объяснении физиологическая основа характера включает прежде всего...",
+        "en": "In Pavlov's explanation, the physiological basis of character includes primarily...",
+        "kk": "Павловтық түсіндірмеде мінездің физиологиялық негізіне ең алдымен не кіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Только силу безусловных рефлексов",
+            "en": "Only the strength of unconditioned reflexes",
+            "kk": "Тек шартсыз рефлекстердің күші"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Неизменную конституциональную программу",
+            "en": "An unchangeable constitutional program",
+            "kk": "Өзгермейтін конституциялық бағдарлама"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Только врождённую подвижность нервных процессов",
+            "en": "Only the innate mobility of nervous processes",
+            "kk": "Жүйке процестерінің тек туа біткен қозғалғыштығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Изолированную работу второй сигнальной системы",
+            "en": "The isolated work of the second signal system",
+            "kk": "Екінші сигналдық жүйенің оқшау жұмысы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Врождённые свойства ВНД и приобретённые временные связи",
+            "en": "Innate properties of higher nervous activity and acquired temporary connections",
+            "kk": "Жоғары жүйке әрекетінің туа біткен қасиеттері және жүре пайда болған уақытша байланыстар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 14",
+          "units": [
+            "p14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные положения о формировании характера:",
+        "en": "Correct statements about the formation of character:",
+        "kk": "Мінездің қалыптасуы туралы дұрыс тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Формируется во взаимодействии личности и среды",
+            "en": "It is formed in the interaction of the personality and the environment",
+            "kk": "Тұлға мен ортаның өзара әрекеттесуінде қалыптасады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Самовоспитание участвует в его развитии",
+            "en": "Self-education participates in its development",
+            "kk": "Өзін-өзі тәрбиелеу оның дамуына қатысады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Случайный поступок исчерпывает характеристику человека",
+            "en": "A single chance action exhausts the description of a person",
+            "kk": "Кездейсоқ қылық адамның сипаттамасын толық көрсетеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Может изменяться в течение жизни",
+            "en": "It can change over the course of life",
+            "kk": "Өмір бойы өзгеруі мүмкін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Все черты полностью заданы темпераментом",
+            "en": "All traits are entirely determined by temperament",
+            "kk": "Барлық қырлары толығымен темпераментпен берілген"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 18, 19, 21",
+          "units": [
+            "p18",
+            "p19",
+            "p21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему единичный необычный поступок недостаточен для вывода о черте характера?",
+        "en": "Why is a single unusual action insufficient for drawing a conclusion about a character trait?",
+        "kk": "Неге жеке-дара ерекше қылық мінез қыры туралы қорытынды жасауға жеткіліксіз?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Черта предполагает устойчивость типичных проявлений",
+            "en": "A trait presupposes the stability of typical manifestations",
+            "kk": "Қыр типтік көріністердің тұрақтылығын көздейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Поступки полностью независимы от отношений",
+            "en": "Actions are completely independent of attitudes",
+            "kk": "Қылықтар қатынастардан толық тәуелсіз"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Черты определяются только самоописанием",
+            "en": "Traits are determined only by self-description",
+            "kk": "Қырлар тек өзін-өзі сипаттаумен анықталады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Любое ситуативное состояние является чертой",
+            "en": "Any situational state is a trait",
+            "kk": "Кез келген жағдаяттық күй қыр болып табылады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Характер не выражается в поступках",
+            "en": "Character is not expressed in actions",
+            "kk": "Мінез қылықтарда көрінбейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 21",
+          "units": [
+            "p21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Добросовестность, ответственность и аккуратность в классификации Р. С. Немова относятся к чертам...",
+        "en": "In R. S. Nemov's classification, conscientiousness, responsibility and neatness belong to the... traits.",
+        "kk": "Р. С. Немов жіктемесінде адалдық, жауапкершілік және ұқыптылық қандай қырларға жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интеллектуальным",
+            "en": "Intellectual",
+            "kk": "Интеллектуалдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Коммуникативным",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Волевым",
+            "en": "Volitional",
+            "kk": "Еріктік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Деловым",
+            "en": "Business",
+            "kk": "Іскерлік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Нравственным",
+            "en": "Moral",
+            "kk": "Адамгершілік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 23, 24, 25",
+          "units": [
+            "p23",
+            "p24",
+            "p25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Открытость и внимание к людям в классификации Р. С. Немова характеризуют группу черт...",
+        "en": "In R. S. Nemov's classification, openness and attentiveness to people characterize the group of... traits.",
+        "kk": "Р. С. Немов жіктемесінде ашықтық және адамдарға көңіл бөлу қырлардың қай тобын сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интеллектуальных",
+            "en": "Intellectual",
+            "kk": "Интеллектуалдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Деловых",
+            "en": "Business",
+            "kk": "Іскерлік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Коммуникативных",
+            "en": "Communicative",
+            "kk": "Коммуникативтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Нравственных",
+            "en": "Moral",
+            "kk": "Адамгершілік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Волевых",
+            "en": "Volitional",
+            "kk": "Еріктік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 25",
+          "units": [
+            "p25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чрезмерная выраженность отдельных черт, представляющая крайний вариант нормы, называется...",
+        "en": "An excessive expression of particular traits that represents an extreme variant of the norm is called...",
+        "kk": "Нормалық шеткі нұсқаны білдіретін, жекелеген қырлардың шамадан тыс айқындалуы не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Акцентуацией характера",
+            "en": "Character accentuation",
+            "kk": "Мінез акцентуациясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ситуативной характерологической реакцией",
+            "en": "A situational characterological reaction",
+            "kk": "Жағдаяттық мінездік реакция"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Темпераментным типом",
+            "en": "A temperament type",
+            "kk": "Темпераменттік тип"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Психопатией",
+            "en": "Psychopathy",
+            "kk": "Психопатия"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Компенсацией черты",
+            "en": "Compensation of a trait",
+            "kk": "Қырдың өтелуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 32",
+          "units": [
+            "p32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "topic_id": 11,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите верные положения об акцентуациях.",
+        "en": "Indicate the correct statements about accentuations.",
+        "kk": "Акцентуациялар туралы дұрыс тұжырымдарды көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Всегда равнозначны психическому заболеванию",
+            "en": "They are always equivalent to a mental illness",
+            "kk": "Әрдайым психикалық аурумен бірдей"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Исключают изменение выраженности черт",
+            "en": "They rule out any change in the prominence of traits",
+            "kk": "Қырлар айқындылығының өзгеруін жоққа шығарады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Могут иметь временный возрастной характер",
+            "en": "They may be temporary and age-related",
+            "kk": "Уақытша жас ерекшелік сипатта болуы мүмкін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Представляют крайние варианты нормы",
+            "en": "They represent extreme variants of the norm",
+            "kk": "Норманың шеткі нұсқаларын білдіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Всегда одинаково проявляются в любых условиях",
+            "en": "They are always manifested in the same way under any conditions",
+            "kk": "Кез келген жағдайда әрдайым бірдей көрінеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 31, 32, 35",
+          "units": [
+            "p31",
+            "p32",
+            "p35"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Термин «акцентуация характера» связан с именем...",
+        "en": "The term \"character accentuation\" is associated with the name of...",
+        "kk": "«Мінез акцентуациясы» термині кімнің атымен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "К. Леонгарда",
+            "en": "K. Leonhard",
+            "kk": "К. Леонгард"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Г. Селье",
+            "en": "H. Selye",
+            "kk": "Г. Селье"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "У. Шелдона",
+            "en": "W. Sheldon",
+            "kk": "У. Шелдон"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Д. Бродбента",
+            "en": "D. Broadbent",
+            "kk": "Д. Бродбент"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ч. Спирмена",
+            "en": "C. Spearman",
+            "kk": "Ч. Спирмен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 32",
+          "units": [
+            "p32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Циклическое изменение общительности вместе с подъёмами и спадами настроения описывает тип акцентуации...",
+        "en": "A cyclical change in sociability together with ups and downs of mood describes the... accentuation type.",
+        "kk": "Көңіл-күйдің көтерілуі мен төмендеуімен қатар қарым-қатынасшылдықтың циклдік өзгеруі акцентуацияның қай түрін сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Циклоидный",
+            "en": "Cycloid",
+            "kk": "Циклоидты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Застревающий",
+            "en": "Stuck",
+            "kk": "Тұрып қалатын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Педантичный",
+            "en": "Pedantic",
+            "kk": "Педантты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Демонстративный",
+            "en": "Demonstrative",
+            "kk": "Демонстративті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Дистимичный",
+            "en": "Dysthymic",
+            "kk": "Дистимиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 37, 38, 39",
+          "units": [
+            "p37",
+            "p38",
+            "p39"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Стремление любой ценой оказаться в центре внимания в типологии акцентуаций характеризует тип...",
+        "en": "The desire to be the center of attention at any cost characterizes, in the typology of accentuations, the... type.",
+        "kk": "Акцентуациялар типологиясында кез келген бағамен назар орталығында болуға ұмтылу қай типті сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Тревожный",
+            "en": "Anxious",
+            "kk": "Мазасыз"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Конформный",
+            "en": "Conformist",
+            "kk": "Конформды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Педантичный",
+            "en": "Pedantic",
+            "kk": "Педантты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Дистимичный",
+            "en": "Dysthymic",
+            "kk": "Дистимиялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Демонстративный",
+            "en": "Demonstrative",
+            "kk": "Демонстративті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 41",
+          "units": [
+            "p41"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Длительная фиксация на обидах и переживаниях в типологии акцентуаций характерна прежде всего для типа...",
+        "en": "Prolonged fixation on grievances and upsetting experiences is, in the typology of accentuations, characteristic primarily of the... type.",
+        "kk": "Акцентуациялар типологиясында реніш пен толғаныстарға ұзақ тіреліп қалу ең алдымен қай типке тән?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Конформного",
+            "en": "Conformist",
+            "kk": "Конформды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Педантичного",
+            "en": "Pedantic",
+            "kk": "Педантты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гипертимического",
+            "en": "Hyperthymic",
+            "kk": "Гипертимдік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Застревающего",
+            "en": "Stuck",
+            "kk": "Тұрып қалатын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Демонстративного",
+            "en": "Demonstrative",
+            "kk": "Демонстративті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 43, 44",
+          "units": [
+            "p43",
+            "p44"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "exam_block": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия типов акцентуации:",
+        "en": "Correct correspondences between accentuation types:",
+        "kk": "Акцентуация типтерінің дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Застревающий: быстрое забывание обид",
+            "en": "Stuck: quickly forgetting grievances",
+            "kk": "Тұрып қалатын: ренішті тез ұмыту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Педантичный: чрезмерная фиксация на деталях",
+            "en": "Pedantic: excessive fixation on details",
+            "kk": "Педантты: ұсақ-түйекке шамадан тыс тіреліп қалу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гипертимический: приподнятое настроение и активность",
+            "en": "Hyperthymic: elevated mood and activity",
+            "kk": "Гипертимдік: көтеріңкі көңіл-күй мен белсенділік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Дистимичный: сниженное настроение и немногословность",
+            "en": "Dysthymic: lowered mood and taciturnity",
+            "kk": "Дистимиялық: төмендеген көңіл-күй мен аз сөйлегіштік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Демонстративный: избегание любого внимания",
+            "en": "Demonstrative: avoiding any attention",
+            "kk": "Демонстративті: кез келген назардан қашу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 37, 38, 44",
+          "units": [
+            "p37",
+            "p38",
+            "p44"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Попытка выводить способности и характер из наружной формы черепа исторически называлась...",
+        "en": "The attempt to derive abilities and character from the outer shape of the skull was historically called...",
+        "kk": "Бас сүйегінің сыртқы пішінінен қабілет пен мінезді шығаруға әрекеттену тарихи түрде қалай аталған?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Френологией",
+            "en": "Phrenology",
+            "kk": "Френология"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интроспекцией",
+            "en": "Introspection",
+            "kk": "Интроспекция"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социометрией",
+            "en": "Sociometry",
+            "kk": "Социометрия"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Психофизикой",
+            "en": "Psychophysics",
+            "kk": "Психофизика"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Педологией",
+            "en": "Pedology",
+            "kk": "Педология"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 56, 57",
+          "units": [
+            "p56",
+            "p57"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "exam_block": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Деление характеров на интеллектуальные, эмоциональные и волевые предложил...",
+        "en": "The division of characters into intellectual, emotional and volitional was proposed by...",
+        "kk": "Мінездерді интеллектуалдық, эмоциялық және еріктік деп бөлуді кім ұсынды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ф. Галль",
+            "en": "F. Gall",
+            "kk": "Ф. Галль"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Э. Шостром",
+            "en": "E. Shostrom",
+            "kk": "Э. Шостром"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "А. Бэн",
+            "en": "A. Bain",
+            "kk": "А. Бэн"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "К. Г. Юнг",
+            "en": "C. G. Jung",
+            "kk": "К. Г. Юнг"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Т. Рибо",
+            "en": "T. Ribot",
+            "kk": "Т. Рибо"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 59, 60",
+          "units": [
+            "p59",
+            "p60"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В типологии Э. Шострома преувеличение контроля и стремление перехитрить окружающих характеризуют...",
+        "en": "In E. Shostrom's typology, an exaggerated need for control and an urge to outwit others characterize the...",
+        "kk": "Э. Шостром типологиясында бақылауды асыра көрсету және айналасындағыларды алдауға ұмтылу кімді сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вычислителя",
+            "en": "Calculator",
+            "kk": "Есептеушіні"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Тряпку",
+            "en": "Weakling",
+            "kk": "Шүберекті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Защитника",
+            "en": "Protector",
+            "kk": "Қорғаушыны"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Судью",
+            "en": "Judge",
+            "kk": "Төрешіні"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прилипалу",
+            "en": "Clinging Vine",
+            "kk": "Жабысқақты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 85, 87, 88, 91",
+          "units": [
+            "p85",
+            "p87",
+            "p88",
+            "p91"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "exam_block": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В типологии Э. Шострома демонстративная зависимость и стремление переложить работу на других характеризуют...",
+        "en": "In E. Shostrom's typology, demonstrative dependence and an urge to shift work onto others characterize the...",
+        "kk": "Э. Шостром типологиясында демонстративті тәуелділік және жұмысты өзгелерге жүктеуге ұмтылу кімді сипаттайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Вычислителя",
+            "en": "Calculator",
+            "kk": "Есептеушіні"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Защитника",
+            "en": "Protector",
+            "kk": "Қорғаушыны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Судью",
+            "en": "Judge",
+            "kk": "Төрешіні"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Диктатора",
+            "en": "Dictator",
+            "kk": "Диктаторды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прилипалу",
+            "en": "Clinging Vine",
+            "kk": "Жабысқақты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 88, 92",
+          "units": [
+            "p88",
+            "p92"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "topic_id": 11,
+      "difficulty_level": 4,
+      "exam_block": 3,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия систем манипуляции в типологии Э. Шострома:",
+        "en": "Correct correspondences between manipulation systems in E. Shostrom's typology:",
+        "kk": "Э. Шостром типологиясындағы манипуляция жүйелерінің дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Соревнующаяся: отношения как борьба за выигрыш",
+            "en": "Competitive: relationships as a struggle to win",
+            "kk": "Бәсекелестік: қатынастар жеңіс үшін күрес ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Активная: демонстрация силы для управления",
+            "en": "Active: a show of strength in order to control",
+            "kk": "Белсенді: басқару үшін күшті көрсету"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Пассивная: прямое доминирование приказом",
+            "en": "Passive: direct domination by command",
+            "kk": "Енжар: бұйрық арқылы тікелей үстемдік ету"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Пассивная: использование собственной беспомощности",
+            "en": "Passive: exploiting one's own helplessness",
+            "kk": "Енжар: өзінің дәрменсіздігін пайдалану"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Безразличная: открытый равноправный диалог",
+            "en": "Indifferent: open, equal dialogue",
+            "kk": "Бейжай: ашық тең құқылы диалог"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 101, 102, 103, 104",
+          "units": [
+            "p101",
+            "p102",
+            "p103",
+            "p104"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "exam_block": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Сила характера в содержательном понимании определяется прежде всего...",
+        "en": "Strength of character, in its substantive sense, is determined primarily by...",
+        "kk": "Мазмұндық түсінікте мінез күші ең алдымен немен анықталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Соответствием поведения убеждениям и мировоззрению",
+            "en": "The correspondence of behavior to convictions and worldview",
+            "kk": "Мінез-құлықтың сенімдер мен дүниетанымға сәйкестігімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Максимальной громкостью эмоциональной реакции",
+            "en": "The maximum loudness of an emotional reaction",
+            "kk": "Эмоциялық реакцияның барынша қатты көрінуімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Высокой скоростью нервного возбуждения",
+            "en": "A high speed of nervous excitation",
+            "kk": "Жүйке қозуының жоғары жылдамдығымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отказом пересматривать любое ошибочное решение",
+            "en": "A refusal to reconsider any mistaken decision",
+            "kk": "Кез келген қате шешімді қайта қараудан бас тартумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Неизменной готовностью спорить с окружающими",
+            "en": "A constant readiness to argue with others",
+            "kk": "Айналасындағылармен әрдайым дауласуға даярлықпен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "source_id": "L11",
+          "file": "Лекции/Лекция 11.docx",
+          "location": "Абзацы 53",
+          "units": [
+            "p53"
+          ]
+        }
+      ]
+    }
+  ]
+}

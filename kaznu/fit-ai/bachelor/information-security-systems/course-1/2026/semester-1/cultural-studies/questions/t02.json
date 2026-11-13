@@ -1,0 +1,1636 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 26,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Обстоятельство, подготовившее отказ от европоцентризма в теориях локальных культур, — это...",
+        "en": "The circumstance that prepared the rejection of Eurocentrism in the theories of local cultures is...",
+        "kk": "Жергілікті мәдениеттер теорияларында еуропацентризмнен бас тартуға негіз дайындаған жағдай — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Признание общественного договора единственным основанием культурного порядка",
+            "en": "Recognition of the social contract as the sole basis of cultural order",
+            "kk": "Қоғамдық шартты мәдени тәртіптің бірден-бір негізі деп мойындау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Выявление своеобразия культур, не укладывающегося в единую европейскую шкалу",
+            "en": "The discovery of a distinctiveness of cultures that does not fit a single European scale",
+            "kk": "Бірыңғай еуропалық шкалаға сыймайтын мәдениеттердің өзіндік ерекшелігін анықтау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Объяснение культурных различий неодинаковым объёмом освоенной энергии",
+            "en": "The explanation of cultural differences by the unequal amount of energy harnessed",
+            "kk": "Мәдени айырмашылықтарды игерілген энергия көлемінің әртүрлілігімен түсіндіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Выведение всех институтов из набора первичных биологических потребностей",
+            "en": "The derivation of all institutions from a set of primary biological needs",
+            "kk": "Барлық институттарды алғашқы биологиялық қажеттіліктер жиынтығынан шығару"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Установление общей для всех обществ последовательности европейских стадий",
+            "en": "The establishment of a sequence of European stages common to all societies",
+            "kk": "Барлық қоғамдар үшін ортақ еуропалық сатылар тізбегін белгілеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 4",
+          "units": [
+            "p4"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 27,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Прафеномен» культуры в концепции Шпенглера означает...",
+        "en": "The \"prime phenomenon\" (Urphänomen) of a culture in Spengler's theory means...",
+        "kk": "Шпенглер тұжырымдамасындағы мәдениеттің «прафеномені» мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ведущий способ удовлетворения потребностей",
+            "en": "The leading way of satisfying needs",
+            "kk": "Қажеттіліктерді қанағаттандырудың жетекші тәсілін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Уникальный способ переживания жизни",
+            "en": "A unique way of experiencing life",
+            "kk": "Өмірді бастан кешірудің бірегей тәсілін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Главная технология использования энергии",
+            "en": "The principal technology for using energy",
+            "kk": "Энергияны пайдаланудың басты технологиясын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Общий механизм символического замещения",
+            "en": "A common mechanism of symbolic substitution",
+            "kk": "Символдық алмастырудың ортақ тетігін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Исходная форма общественного разделения труда",
+            "en": "The original form of the social division of labour",
+            "kk": "Қоғамдық еңбек бөлінісінің бастапқы түрін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 8",
+          "units": [
+            "p8"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 28,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отношение между культурой и цивилизацией, характерное для Шпенглера:",
+        "en": "The relationship between culture and civilization that is characteristic of Spengler:",
+        "kk": "Шпенглерге тән мәдениет пен өркениеттің арақатынасы:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Цивилизация и культура образуют два независимых хозяйственных уклада",
+            "en": "Civilization and culture form two independent economic systems",
+            "kk": "Өркениет пен мәдениет екі тәуелсіз шаруашылық құрылымды құрайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Цивилизация предшествует возникновению культурной индивидуальности",
+            "en": "Civilization precedes the emergence of cultural individuality",
+            "kk": "Өркениет мәдени даралықтың пайда болуынан бұрын болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Цивилизация обозначает творческую молодость культурного организма",
+            "en": "Civilization denotes the creative youth of a cultural organism",
+            "kk": "Өркениет мәдени организмнің шығармашылық жастығын білдіреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Цивилизация означает механическое окостенение органической жизни культуры",
+            "en": "Civilization means the mechanical ossification of the organic life of a culture",
+            "kk": "Өркениет мәдениеттің органикалық өмірінің механикалық қатып-семуін білдіреді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Цивилизация есть общий источник всех локальных культур",
+            "en": "Civilization is the common source of all local cultures",
+            "kk": "Өркениет барлық жергілікті мәдениеттердің ортақ бастауы болып табылады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 8",
+          "units": [
+            "p8"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 29,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автор двенадцатитомного труда «Постижение истории»...",
+        "en": "The author of the twelve-volume work \"A Study of History\" is...",
+        "kk": "«Тарихты түсіну» атты он екі томдық еңбектің авторы..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "А. Кребер",
+            "en": "A. Kroeber",
+            "kk": "А. Кребер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Н. Данилевский",
+            "en": "N. Danilevsky",
+            "kk": "Н. Данилевский"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "О. Шпенглер",
+            "en": "O. Spengler",
+            "kk": "О. Шпенглер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "П. Сорокин",
+            "en": "P. Sorokin",
+            "kk": "П. Сорокин"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "А. Тойнби",
+            "en": "A. Toynbee",
+            "kk": "А. Тойнби"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 10",
+          "units": [
+            "p10"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 30,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Динамику цивилизаций А. Тойнби объясняет законом...",
+        "en": "A. Toynbee explains the dynamics of civilizations by the law of...",
+        "kk": "А. Тойнби өркениеттер динамикасын қандай заңмен түсіндіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Сублимации влечений",
+            "en": "Sublimation of drives",
+            "kk": "Құмарлықтарды сублимациялау заңымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Смены архетипов",
+            "en": "Succession of archetypes",
+            "kk": "Архетиптердің ауысу заңымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Культурного отставания",
+            "en": "Cultural lag",
+            "kk": "Мәдени артта қалу заңымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Вызова и ответа",
+            "en": "Challenge and response",
+            "kk": "Сын-қатер мен жауап заңымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Накопления энергии",
+            "en": "Accumulation of energy",
+            "kk": "Энергияның жинақталу заңымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 10",
+          "units": [
+            "p10"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 31,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Фактор, превращающий творческое меньшинство в источник цивилизационного роста по Тойнби, — это...",
+        "en": "According to Toynbee, the factor that turns a creative minority into a source of civilizational growth is...",
+        "kk": "Тойнби бойынша шығармашыл азшылықты өркениеттік өсу көзіне айналдыратын фактор — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Адекватный ответ на исторический вызов",
+            "en": "An adequate response to a historical challenge",
+            "kk": "Тарихи сын-қатерге лайықты жауап беруі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ослабление чувственного начала в пользу идеационального",
+            "en": "The weakening of the sensate principle in favour of the ideational one",
+            "kk": "Сезімдік бастаудың идеациялық бастау пайдасына әлсіреуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сохранение этнографического материала в его исходной форме",
+            "en": "The preservation of ethnographic material in its original form",
+            "kk": "Этнографиялық материалды бастапқы күйінде сақтауы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Завершение перехода от варварства к цивилизации",
+            "en": "The completion of the transition from barbarism to civilization",
+            "kk": "Жабайылықтан өркениетке көшуді аяқтауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Предельное накопление энергии культурным организмом",
+            "en": "The maximum accumulation of energy by a cultural organism",
+            "kk": "Мәдени организмнің энергияны шекті мөлшерде жинақтауы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 10",
+          "units": [
+            "p10"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 32,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ситуация, характеризующая утрату творческой элитой её роли у Тойнби, — это...",
+        "en": "The situation that characterizes the loss of its role by a creative elite in Toynbee is...",
+        "kk": "Тойнби бойынша шығармашыл элитаның өз рөлінен айырылуын сипаттайтын жағдай — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Возвращение элиты к исключительно художественной деятельности",
+            "en": "The elite's return to exclusively artistic activity",
+            "kk": "Элитаның тек көркемдік қызметке қайта оралуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отказ от принуждения вследствие культурного обновления",
+            "en": "The renunciation of coercion as a result of cultural renewal",
+            "kk": "Мәдени жаңару нәтижесінде мәжбүрлеуден бас тартылуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исчезновение различий между локальными цивилизациями",
+            "en": "The disappearance of differences between local civilizations",
+            "kk": "Жергілікті өркениеттер арасындағы айырмашылықтардың жойылуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Замена утраченного авторитета насильственным господством",
+            "en": "The replacement of lost authority by violent domination",
+            "kk": "Жоғалған беделдің орнын зорлықпен билік жүргізумен толтыруы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Усиление авторитета благодаря новым ответам на вызовы",
+            "en": "The strengthening of authority thanks to new responses to challenges",
+            "kk": "Сын-қатерлерге жаңа жауаптар беру арқылы беделдің күшеюі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Морфология культуры и концепции.docx",
+          "location": "абзац 30",
+          "units": [
+            "p30"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 33,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Последовательность фаз развития цивилизации в концепции А. Тойнби:",
+        "en": "The sequence of the phases of a civilization's development in A. Toynbee's theory:",
+        "kk": "А. Тойнби тұжырымдамасындағы өркениет даму кезеңдерінің тізбегі:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Рост, возникновение, распад, надлом",
+            "en": "Growth, genesis, disintegration, breakdown",
+            "kk": "Өсу, пайда болу, ыдырау, күйзеліс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Возникновение, рост, надлом, распад",
+            "en": "Genesis, growth, breakdown, disintegration",
+            "kk": "Пайда болу, өсу, күйзеліс, ыдырау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Возникновение, рост, распад, надлом",
+            "en": "Genesis, growth, disintegration, breakdown",
+            "kk": "Пайда болу, өсу, ыдырау, күйзеліс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Возникновение, надлом, рост, распад",
+            "en": "Genesis, breakdown, growth, disintegration",
+            "kk": "Пайда болу, күйзеліс, өсу, ыдырау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Надлом, возникновение, рост, распад",
+            "en": "Breakdown, genesis, growth, disintegration",
+            "kk": "Күйзеліс, пайда болу, өсу, ыдырау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Морфология культуры и концепции.docx",
+          "location": "абзац 29",
+          "units": [
+            "p29"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 34,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Принцип, лежащий в основе культурологического анализа П. Сорокина, — это...",
+        "en": "The principle that underlies P. Sorokin's cultural analysis is...",
+        "kk": "П. Сорокиннің мәдениеттанулық талдауының негізінде жатқан қағида — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Системы ценностей и значений как основа социокультурных процессов",
+            "en": "Systems of values and meanings as the basis of sociocultural processes",
+            "kk": "Құндылықтар мен мағыналар жүйесі әлеуметтік-мәдени процестердің негізі ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Глубинный прафеномен как неизменная судьба замкнутой культуры",
+            "en": "A deep prime phenomenon as the unchanging destiny of a closed culture",
+            "kk": "Терең прафеномен тұйық мәдениеттің өзгермейтін тағдыры ретінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Технический базис как первичная причина любого культурного изменения",
+            "en": "The technical base as the primary cause of any cultural change",
+            "kk": "Техникалық базис кез келген мәдени өзгерістің алғашқы себебі ретінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Подражание творческому меньшинству как основной механизм роста",
+            "en": "Imitation of the creative minority as the main mechanism of growth",
+            "kk": "Шығармашыл азшылыққа еліктеу өсудің негізгі тетігі ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Потребности организма как достаточное объяснение культурных институтов",
+            "en": "The needs of the organism as a sufficient explanation of cultural institutions",
+            "kk": "Организмнің қажеттіліктері мәдени институттарды түсіндірудің жеткілікті негізі ретінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 12",
+          "units": [
+            "p12"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 35,
+      "topic_id": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Классическому эволюционизму соответствуют...",
+        "en": "The propositions that correspond to classical evolutionism are...",
+        "kk": "Классикалық эволюционизмге мыналар сәйкес келеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Рождение цивилизации через ответ творческого меньшинства",
+            "en": "The birth of a civilization through the response of a creative minority",
+            "kk": "Шығармашыл азшылықтың жауабы арқылы өркениеттің туындауы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Переход от простых форм к сложным",
+            "en": "The transition from simple forms to complex ones",
+            "kk": "Қарапайым түрлерден күрделі түрлерге көшу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Единство человеческого рода",
+            "en": "The unity of the human race",
+            "kk": "Адамзат тегінің бірлігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Самостоятельные жизненные циклы равноценных культурных организмов",
+            "en": "Independent life cycles of equivalent cultural organisms",
+            "kk": "Тең құқықты мәдени организмдердің дербес өмірлік циклдері"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Функциональная незаменимость каждого института существующей культуры",
+            "en": "The functional indispensability of every institution of an existing culture",
+            "kk": "Қолданыстағы мәдениеттің әрбір институтының функционалдық алмастырылмауы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 21",
+          "units": [
+            "p21"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 36,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Этнографический эволюционизм отличался от просветительского рационализма тем, что...",
+        "en": "Ethnographic evolutionism differed from Enlightenment rationalism in that...",
+        "kk": "Этнографиялық эволюционизмнің ағартушылық рационализмнен ерекшелігі мынада..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отказывался от систематизации эмпирических фактов",
+            "en": "It rejected the systematization of empirical facts",
+            "kk": "Эмпирикалық деректерді жүйелеуден бас тартты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Объяснял все культурные формы исключительно свободным разумом",
+            "en": "It explained all cultural forms exclusively by free reason",
+            "kk": "Барлық мәдени нысандарды тек еркін ақылмен түсіндірді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Отрицал возможность естественнонаучной основы обществознания",
+            "en": "It denied the possibility of a natural-scientific basis for the study of society",
+            "kk": "Қоғамтанудың жаратылыстану негізі болуы мүмкіндігін жоққа шығарды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рассматривал технические изобретения вне культурного развития",
+            "en": "It considered technical inventions outside cultural development",
+            "kk": "Техникалық өнертабыстарды мәдени дамудан тыс қарастырды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Учитывал привычки, приспособление и вероятностные факторы изменений",
+            "en": "It took into account habits, adaptation and probabilistic factors of change",
+            "kk": "Әдеттерді, бейімделуді және өзгерістердің ықтималдық факторларын ескерді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 23",
+          "units": [
+            "p23"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 37,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Собирательный характер определения культуры Э. Тайлора — это...",
+        "en": "The comprehensive (enumerative) character of E. Tylor's definition of culture consists in...",
+        "kk": "Э. Тайлордың мәдениет анықтамасының жинақтаушы сипаты мынада..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Объяснение культуры через иерархию функционально связанных институтов",
+            "en": "Explaining culture through a hierarchy of functionally connected institutions",
+            "kk": "Мәдениетті функционалдық байланыстағы институттар иерархиясы арқылы түсіндіруде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Перечисление усвоенных человеком знаний, верований, норм и привычек",
+            "en": "Listing the knowledge, beliefs, norms and habits acquired by a human being",
+            "kk": "Адам игерген білімдерді, нанымдарды, нормалар мен әдеттерді тізіп көрсетуде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Построение периодизации на объёме используемой обществом энергии",
+            "en": "Constructing a periodization based on the amount of energy used by a society",
+            "kk": "Кезеңдерге бөлуді қоғам пайдаланатын энергия көлеміне негіздеуде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Распределение знаковых систем по способам символического моделирования",
+            "en": "Distributing sign systems according to the ways of symbolic modelling",
+            "kk": "Таңбалық жүйелерді символдық модельдеу тәсілдері бойынша бөлуде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выведение разнообразных культурных явлений из единого прафеномена",
+            "en": "Deriving the diverse cultural phenomena from a single prime phenomenon",
+            "kk": "Алуан түрлі мәдени құбылыстарды бірыңғай прафеноменнен шығаруда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 26",
+          "units": [
+            "p26"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 38,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какая пара «автор: произведение» указана верно?",
+        "en": "Which \"author: work\" pair is given correctly?",
+        "kk": "«Автор: шығарма» жұбының қайсысы дұрыс көрсетілген?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Э. Тайлор: «Древнее общество»",
+            "en": "E. Tylor: \"Ancient Society\"",
+            "kk": "Э. Тайлор: «Ежелгі қоғам»"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "О. Шпенглер: «Первобытная культура»",
+            "en": "O. Spengler: \"Primitive Culture\"",
+            "kk": "О. Шпенглер: «Алғашқы мәдениет»"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Дж. Фрэзер: «Золотая ветвь»",
+            "en": "J. Frazer: \"The Golden Bough\"",
+            "kk": "Дж. Фрэзер: «Алтын бұтақ»"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "А. Тойнби: «Золотая ветвь»",
+            "en": "A. Toynbee: \"The Golden Bough\"",
+            "kk": "А. Тойнби: «Алтын бұтақ»"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Л. Морган: «Закат Европы»",
+            "en": "L. Morgan: \"The Decline of the West\"",
+            "kk": "Л. Морган: «Еуропаның күйреуі»"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 46",
+          "units": [
+            "p46"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 39,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исследования ирокезов и работа «Древнее общество» связаны с именем...",
+        "en": "The studies of the Iroquois and the work \"Ancient Society\" are associated with the name of...",
+        "kk": "Ирокездерді зерттеу және «Ежелгі қоғам» еңбегі кімнің есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дж. Стюарда",
+            "en": "J. Steward",
+            "kk": "Дж. Стюард"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Б. Малиновского",
+            "en": "B. Malinowski",
+            "kk": "Б. Малиновский"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "А. Радклифф-Брауна",
+            "en": "A. Radcliffe-Brown",
+            "kk": "А. Радклиф-Браун"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ф. Боаса",
+            "en": "F. Boas",
+            "kk": "Ф. Боас"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Л. Моргана",
+            "en": "L. Morgan",
+            "kk": "Л. Морган"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 48",
+          "units": [
+            "p48"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 40,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Основанием периодизации древней культуры у Моргана выступают...",
+        "en": "The basis of Morgan's periodization of ancient culture is...",
+        "kk": "Морганда ежелгі мәдениетті кезеңдерге бөлудің негізі болып не табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Смена господствующих религий",
+            "en": "The succession of dominant religions",
+            "kk": "Үстем діндердің ауысуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Изобретения и открытия",
+            "en": "Inventions and discoveries",
+            "kk": "Өнертабыстар мен жаңалықтар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Смены способов толкования мифа",
+            "en": "Changes in the ways of interpreting myth",
+            "kk": "Мифті түсіндіру тәсілдерінің ауысуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Степень централизации государства",
+            "en": "The degree of centralization of the state",
+            "kk": "Мемлекеттің орталықтану дәрежесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Преобразования художественного стиля",
+            "en": "Transformations of artistic style",
+            "kk": "Көркемдік стильдің өзгеруі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 50",
+          "units": [
+            "p50"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 41,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Антропологический подход ориентирует исследователя на...",
+        "en": "The anthropological approach directs the researcher towards...",
+        "kk": "Антропологиялық тәсіл зерттеушіні неге бағдарлайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Целостное познание человека в самоценной локальной культуре",
+            "en": "A holistic understanding of the human being within a local culture valued in its own right",
+            "kk": "Өзіндік құндылығы бар жергілікті мәдениеттегі адамды тұтас тануға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Объяснение духовных форм величиной технического потенциала",
+            "en": "Explaining spiritual forms by the magnitude of technical potential",
+            "kk": "Рухани нысандарды техникалық әлеует шамасымен түсіндіруге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Реконструкцию автономного жизненного цикла культурного организма",
+            "en": "Reconstructing the autonomous life cycle of a cultural organism",
+            "kk": "Мәдени организмнің автономды өмірлік циклін қайта жасауға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Определение стадии народа относительно общего европейского пути",
+            "en": "Determining a people's stage relative to a common European path",
+            "kk": "Халықтың жалпы еуропалық жолға қатысты сатысын анықтауға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Установление общей схемы вытеснения первичных влечений",
+            "en": "Establishing a general scheme of the repression of primary drives",
+            "kk": "Алғашқы құмарлықтардың ығыстырылуының жалпы схемасын белгілеуге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 54",
+          "units": [
+            "p54"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 42,
+      "topic_id": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите группы потребностей, которые выделяет Малиновский.",
+        "en": "Indicate the groups of needs that Malinowski distinguishes.",
+        "kk": "Малиновский бөліп көрсететін қажеттіліктер топтарын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интегративные",
+            "en": "Integrative",
+            "kk": "Интегративтік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Производные",
+            "en": "Derived",
+            "kk": "Туынды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Первичные",
+            "en": "Primary (basic)",
+            "kk": "Алғашқы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Идеациональные",
+            "en": "Ideational",
+            "kk": "Идеациялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Архетипические",
+            "en": "Archetypal",
+            "kk": "Архетиптік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 56",
+          "units": [
+            "p56"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 43,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Необходимость сплочения людей и авторитета относится у Малиновского к потребностям...",
+        "en": "In Malinowski, the need for the cohesion of people and for authority belongs to the needs that are...",
+        "kk": "Малиновскийде адамдардың бірігуі мен беделге деген қажеттілік қандай қажеттіліктерге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гедонистическим",
+            "en": "Hedonistic",
+            "kk": "Гедонистік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интегративным",
+            "en": "Integrative",
+            "kk": "Интегративтік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Первичным",
+            "en": "Primary",
+            "kk": "Алғашқы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Производным",
+            "en": "Derived",
+            "kk": "Туынды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Стилистическим",
+            "en": "Stylistic",
+            "kk": "Стилистикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 56",
+          "units": [
+            "p56"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 44,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Положение, соответствующее функциональному анализу Малиновского, — это...",
+        "en": "The proposition that corresponds to Malinowski's functional analysis is...",
+        "kk": "Малиновскийдің функционалдық талдауына сәйкес келетін тұжырым — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Смена культур по неизменному циклу рождения, зрелости и смерти",
+            "en": "The succession of cultures following an unchanging cycle of birth, maturity and death",
+            "kk": "Мәдениеттердің туу, жетілу және өлу атты өзгермейтін циклмен ауысуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Вклад взаимосвязанных элементов в поддержание культурной целостности",
+            "en": "The contribution of interrelated elements to maintaining cultural integrity",
+            "kk": "Өзара байланысты элементтердің мәдени тұтастықты сақтауға қосқан үлесі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Преемственное прохождение обществами общих ступеней эволюции",
+            "en": "The successive passage of societies through common stages of evolution",
+            "kk": "Қоғамдардың эволюцияның жалпы сатыларынан дәйекті түрде өтуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Миграция культурных форм из исходных центров их распространения",
+            "en": "The migration of cultural forms from the original centres of their diffusion",
+            "kk": "Мәдени нысандардың таралудың бастапқы орталықтарынан көші-қоны"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Зависимость символического творчества от сублимации влечений",
+            "en": "The dependence of symbolic creativity on the sublimation of drives",
+            "kk": "Символдық шығармашылықтың құмарлықтарды сублимациялауға тәуелділігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 56",
+          "units": [
+            "p56"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 45,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Использование методов структурной лингвистики для исследования культуры связано с именем...",
+        "en": "The use of the methods of structural linguistics in the study of culture is associated with the name of...",
+        "kk": "Мәдениетті зерттеуде құрылымдық лингвистика әдістерін қолдану кімнің есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "В. Оствальда",
+            "en": "W. Ostwald",
+            "kk": "В. Оствальд"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "К. Леви-Строса",
+            "en": "C. Lévi-Strauss",
+            "kk": "К. Леви-Стросс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Л. Моргана",
+            "en": "L. Morgan",
+            "kk": "Л. Морган"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Н. Данилевского",
+            "en": "N. Danilevsky",
+            "kk": "Н. Данилевский"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Й. Хёйзинги",
+            "en": "J. Huizinga",
+            "kk": "Й. Хейзинга"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 56",
+          "units": [
+            "p56"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 46,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Теорию стилей фундаментальных форм культуры связывают с...",
+        "en": "The theory of styles of the fundamental forms of culture is associated with...",
+        "kk": "Мәдениеттің іргелі нысандарының стильдері теориясы кіммен байланыстырылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ф. Гребнером",
+            "en": "F. Graebner",
+            "kk": "Ф. Гребнер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Л. Фробениусом",
+            "en": "L. Frobenius",
+            "kk": "Л. Фробениус"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "А. Кребером",
+            "en": "A. Kroeber",
+            "kk": "А. Кребер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "М. Херсковицем",
+            "en": "M. Herskovits",
+            "kk": "М. Херсковиц"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Дж. Мердоком",
+            "en": "G. Murdock",
+            "kk": "Дж. Мердок"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 56",
+          "units": [
+            "p56"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 47,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Перенаправление энергии влечений в познание и художественное творчество у Фрейда называется...",
+        "en": "In Freud, the redirection of the energy of drives into cognition and artistic creativity is called...",
+        "kk": "Фрейдте құмарлықтардың энергиясын таным мен көркемдік шығармашылыққа бағыттау қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Интроекцией",
+            "en": "Introjection",
+            "kk": "Интроекция"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Идентификацией",
+            "en": "Identification",
+            "kk": "Идентификация"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сублимацией",
+            "en": "Sublimation",
+            "kk": "Сублимация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Проекцией",
+            "en": "Projection",
+            "kk": "Проекция"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Рационализацией",
+            "en": "Rationalization",
+            "kk": "Рационализация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 62",
+          "units": [
+            "p62"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 48,
+      "topic_id": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия элементов психики и их роли в концепции Фрейда:",
+        "en": "The correct pairings of the elements of the psyche and their roles in Freud's theory:",
+        "kk": "Фрейд тұжырымдамасындағы психика элементтері мен олардың рөлінің дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "«Я»: совокупность коллективных архетипов",
+            "en": "The ego: the totality of collective archetypes",
+            "kk": "«Мен»: ұжымдық архетиптер жиынтығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "«Сверх-Я»: прямое удовлетворение первичных влечений",
+            "en": "The superego: direct satisfaction of primary drives",
+            "kk": "«Аса-Мен»: алғашқы құмарлықтарды тікелей қанағаттандыру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "«Оно»: система осознанных моральных запретов",
+            "en": "The id: a system of conscious moral prohibitions",
+            "kk": "«Ол»: саналы адамгершілік тыйымдар жүйесі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "«Оно»: источник первичных влечений",
+            "en": "The id: the source of primary drives",
+            "kk": "«Ол»: алғашқы құмарлықтардың бастауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "«Сверх-Я»: внутренний цензор",
+            "en": "The superego: the inner censor",
+            "kk": "«Аса-Мен»: ішкі цензор"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 62",
+          "units": [
+            "p62"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 49,
+      "topic_id": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "По Юнгу, в отличие от конкретного культурного образа, архетип — это...",
+        "en": "In Jung, unlike a concrete cultural image, an archetype is...",
+        "kk": "Юнг бойынша, нақты мәдени бейнеден өзгеше, архетип — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Осознанная ценностная норма, закреплённая коллективным соглашением",
+            "en": "A conscious value norm fixed by collective agreement",
+            "kk": "Ұжымдық келісіммен бекітілген саналы құндылықтық норма"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Конкретный мифологический персонаж с устойчивой биографией",
+            "en": "A concrete mythological character with a stable biography",
+            "kk": "Өмірбаяны тұрақты нақты мифологиялық кейіпкер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Индивидуальное воспоминание, преобразованное художественной фантазией",
+            "en": "An individual memory transformed by artistic fantasy",
+            "kk": "Көркем қиялмен өзгертілген жеке естелік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Условный знак, значение которого устанавливает автор произведения",
+            "en": "A conventional sign whose meaning is established by the author of a work",
+            "kk": "Мағынасын шығарманың авторы белгілейтін шартты таңба"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Глубинная структура, получающая разные символические воплощения",
+            "en": "A deep structure that receives various symbolic embodiments",
+            "kk": "Әртүрлі символдық бейнелерде көрініс табатын терең құрылым"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 68",
+          "units": [
+            "p68"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 50,
+      "topic_id": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения, соответствующие роли искусства у Юнга:",
+        "en": "The propositions that correspond to the role of art in Jung:",
+        "kk": "Юнгтегі өнердің рөліне сәйкес келетін тұжырымдар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Снятие невроза через изживание личной детской травмы",
+            "en": "Relief of neurosis by living out a personal childhood trauma",
+            "kk": "Жеке балалық жарақатты бастан кешіру арқылы неврозды жою"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Культурно-символическое развёртывание архетипа",
+            "en": "The cultural and symbolic unfolding of an archetype",
+            "kk": "Архетиптің мәдени-символдық тұрғыда жайылуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Современное выражение архаического образа",
+            "en": "A modern expression of an archaic image",
+            "kk": "Архаикалық бейненің заманауи көрінісі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Повторное вытеснение коллективных образов средствами рационализации",
+            "en": "The renewed repression of collective images by means of rationalization",
+            "kk": "Ұжымдық бейнелерді рационализация құралдарымен қайта ығыстыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Перенос энергии либидо на социально приемлемую цель",
+            "en": "The transfer of libido energy to a socially acceptable goal",
+            "kk": "Либидо энергиясын әлеуметтік қолайлы мақсатқа бағыттау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2. Концепции культуры(1).docx",
+          "location": "абзац 68",
+          "units": [
+            "p68"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    }
+  ]
+}

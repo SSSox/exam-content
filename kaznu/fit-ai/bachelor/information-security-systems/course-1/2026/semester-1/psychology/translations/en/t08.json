@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 8,
+  "topic_name": "Imagination and creative processes",
+  "questions": {
+    "161": {
+      "question": "Creating a new image by restructuring existing mental representations is...",
+      "options": {
+        "A": "Retention",
+        "B": "Recognition",
+        "C": "Perception",
+        "D": "Imagination",
+        "E": "Sensation"
+      }
+    },
+    "162": {
+      "question": "A reader creates an image of an unfamiliar city on the basis of a detailed description. This is... imagination.",
+      "options": {
+        "A": "Deliberate daydreaming",
+        "B": "Residual sensory",
+        "C": "Passive unintentional",
+        "D": "Recreative",
+        "E": "Creative"
+      }
+    },
+    "163": {
+      "question": "Independently constructing an original image that is realized in a new project characterizes... imagination.",
+      "options": {
+        "A": "Recreative",
+        "B": "Compensatory daydreaming",
+        "C": "Creative",
+        "D": "Reproductive",
+        "E": "Passive unintentional"
+      }
+    },
+    "164": {
+      "question": "Correct characteristics of types of imagination:",
+      "options": {
+        "A": "Productive: transformation of reality",
+        "B": "Recreative: construction of an image from a description",
+        "C": "Active: deliberate evocation of images",
+        "D": "Passive: obligatory realization of a plan",
+        "E": "Reproductive: refusal to rely on a description"
+      }
+    },
+    "165": {
+      "question": "Fanciful images that arise while falling asleep, without the person's intention, belong to... imagination.",
+      "options": {
+        "A": "Deliberate active",
+        "B": "Creative design",
+        "C": "Voluntary reproductive",
+        "D": "Recreative goal-directed",
+        "E": "Unintentional passive"
+      }
+    },
+    "166": {
+      "question": "The main difference between a dream (as an aspiration) and reverie is that a dream...",
+      "options": {
+        "A": "Always reproduces a description word for word",
+        "B": "Arises only when consciousness is weakened",
+        "C": "Is linked with an orientation toward future activity",
+        "D": "Is necessarily devoid of any connection with possible action",
+        "E": "Excludes the transformation of reality"
+      }
+    },
+    "167": {
+      "question": "The image of a creature with the body of a lion and the wings of a bird is created by means of...",
+      "options": {
+        "A": "Reminiscence",
+        "B": "Accentuation",
+        "C": "Typification",
+        "D": "Agglutination",
+        "E": "Concretization"
+      }
+    },
+    "168": {
+      "question": "The exaggerated emphasis on a characteristic detail of appearance in a caricature implements...",
+      "options": {
+        "A": "Agglutination",
+        "B": "Typification",
+        "C": "Accentuation",
+        "D": "Personification",
+        "E": "Analogy"
+      }
+    },
+    "169": {
+      "question": "Creating a literary character who embodies the common traits of the people of an era is based on...",
+      "options": {
+        "A": "Analogy",
+        "B": "Typification",
+        "C": "Accentuation",
+        "D": "Personification",
+        "E": "Agglutination"
+      }
+    },
+    "170": {
+      "question": "Correct correspondences between techniques of imagination:",
+      "options": {
+        "A": "Accentuation: emphasizing a single detail",
+        "B": "Typification: the general in an individual image",
+        "C": "Agglutination: joining parts of different objects",
+        "D": "Agglutination: unchanged copying of an object",
+        "E": "Typification: random gluing together of parts"
+      }
+    },
+    "171": {
+      "question": "Creating a technical device by similarity with the structure of a living organism relies on...",
+      "options": {
+        "A": "Analogy",
+        "B": "Agglutination",
+        "C": "Personification",
+        "D": "Typification",
+        "E": "Accentuation"
+      }
+    },
+    "172": {
+      "question": "Imagining the result of work before it begins performs the function of...",
+      "options": {
+        "A": "Immediate sensory orientation",
+        "B": "Communicative recoding",
+        "C": "Anticipatory planning",
+        "D": "Reproductive restoration of the past",
+        "E": "Emotional compensation"
+      }
+    },
+    "173": {
+      "question": "Functions of imagination:",
+      "options": {
+        "A": "Regulation of emotional states",
+        "B": "Imaginal representation of reality",
+        "C": "Exclusively registering the stimulus that is present",
+        "D": "Constructing an internal plan of action",
+        "E": "Transmitting an impulse along an afferent pathway"
+      }
+    },
+    "174": {
+      "question": "Under which conditions does the role of imagination in the search for a solution especially increase?",
+      "options": {
+        "A": "When there is no problem situation at all",
+        "B": "When the initial data are highly uncertain",
+        "C": "When the task is reduced to a familiar template",
+        "D": "When an algorithm is unambiguously specified",
+        "E": "When a rule must be repeated word for word"
+      }
+    },
+    "175": {
+      "question": "An image that is new to its own creator but already known to others is new...",
+      "options": {
+        "A": "Subjectively",
+        "B": "Genetically",
+        "C": "Absolutely",
+        "D": "Objectively",
+        "E": "Sensorily"
+      }
+    },
+    "176": {
+      "question": "Singling out elements of former images and then combining them in a new way reflects an... character of imagination.",
+      "options": {
+        "A": "Purely reproductive",
+        "B": "Directly perceptual",
+        "C": "Mechanically reproducing",
+        "D": "Associative-stereotyped",
+        "E": "Analytic-synthetic"
+      }
+    },
+    "177": {
+      "question": "Dissociation and association as operations of creative imagination were identified by...",
+      "options": {
+        "A": "T. Ribot",
+        "B": "H. Selye",
+        "C": "D. Broadbent",
+        "D": "K. Thomas",
+        "E": "E. Kretschmer"
+      }
+    },
+    "178": {
+      "question": "Which statements about the intentionality of imagination are correct?",
+      "options": {
+        "A": "Any passive imagination excludes intention",
+        "B": "Intentionality always guarantees that the image will be realized",
+        "C": "Daydreams can be created intentionally",
+        "D": "Activity is determined only by the unusualness of the content",
+        "E": "Recreation from a description can be active"
+      }
+    },
+    "179": {
+      "question": "Attributing desire and will to an inanimate object is...",
+      "options": {
+        "A": "Analogy",
+        "B": "Agglutination",
+        "C": "Accentuation",
+        "D": "Personification",
+        "E": "Typification"
+      }
+    },
+    "180": {
+      "question": "What supports the development of creative imagination?",
+      "options": {
+        "A": "Replacing the idea with mechanical repetition",
+        "B": "Excluding contact with other people",
+        "C": "Isolation from cultural and professional experience",
+        "D": "Refusing to analyze images that are already known",
+        "E": "Purposeful accumulation of experience and involvement in activity"
+      }
+    }
+  }
+}

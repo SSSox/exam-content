@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 13,
+  "topic_name": "Kazakh Culture from the Eighteenth to the Early Twentieth Century",
+  "questions": {
+    "301": {
+      "question": "The zhyrau who took part in the return of the Kazakhs to the lands reconquered from the Dzungars in the 1750s was...",
+      "options": {
+        "A": "Shal Kulekeuly",
+        "B": "Dulat Babatayuly",
+        "C": "Aktamberdy Saryuly",
+        "D": "Shortanbai Kanayuly",
+        "E": "Murat Monkeuly"
+      }
+    },
+    "302": {
+      "question": "The closest adviser of Abylai Khan, an expert in customary law and in shezhire, was...",
+      "options": {
+        "A": "Shozhe Karzhaubayuly",
+        "B": "Bukhar Kalkamanuly",
+        "C": "Kotesh Raiymbekuly",
+        "D": "Makhambet Utemisuly",
+        "E": "Zhanak Sagyndykuly"
+      }
+    },
+    "303": {
+      "question": "The zhoktau and estirtu (laments and announcements of death) on the death of the batyr Kanzhygaly Bogenbai were composed by...",
+      "options": {
+        "A": "Shal Kulekeuly",
+        "B": "Umbetai Tuleuly",
+        "C": "Aktamberdy Saryuly",
+        "D": "Bukhar Kalkamanuly",
+        "E": "Tattikara"
+      }
+    },
+    "304": {
+      "question": "The kuis \"Tolgau\", \"Allam zhar\" and \"Baksy\" are associated with the name of the kobyz player...",
+      "options": {
+        "A": "Kurmangazy Sagyrbayuly",
+        "B": "Tlep Aspantayuly",
+        "C": "Dauletkerei Shigayuly",
+        "D": "Tattimbet Kazangapuly",
+        "E": "Kazangap Tileppergenuly"
+      }
+    },
+    "305": {
+      "question": "The author of the kuis \"Aktaban Shubyryndy\" and \"Kaiyn Saugan\" is...",
+      "options": {
+        "A": "Birzhan-sal",
+        "B": "Baluan Sholak",
+        "C": "Zhayau Musa",
+        "D": "Akan-sere",
+        "E": "Baizhigit"
+      }
+    },
+    "306": {
+      "question": "Functions of the shezhire in traditional society:",
+      "options": {
+        "A": "Establishing a single system of written orthography",
+        "B": "Affirming a single, universally binding confessional doctrine",
+        "C": "Regulating marriages and the distribution of pastures",
+        "D": "Preserving historical memory",
+        "E": "Registering the authorship of professional kuis"
+      }
+    },
+    "307": {
+      "question": "Qualities that ensured a person was recognized as a bi:",
+      "options": {
+        "A": "Knowledge of customary law",
+        "B": "A reputation for honesty and impartiality",
+        "C": "Inheriting the office from one's father",
+        "D": "Obligatory graduation from a cadet corps",
+        "E": "Eloquence"
+      }
+    },
+    "308": {
+      "question": "What directly deprived a bi of public recognition in the traditional system?",
+      "options": {
+        "A": "The loss of one's place in the line of clan succession",
+        "B": "People ceasing to turn to him for judgment",
+        "C": "The expiry of a mandatory four-year term",
+        "D": "Reaching a predetermined age limit",
+        "E": "The appointment of another bi by a written school council"
+      }
+    },
+    "309": {
+      "question": "Which pairing of a bi and a zhuz is correct?",
+      "options": {
+        "A": "Tole: Senior; Kazybek: Junior; Aiteke: Middle",
+        "B": "Tole: Middle; Kazybek: Junior; Aiteke: Senior",
+        "C": "Tole: Junior; Kazybek: Middle; Aiteke: Senior",
+        "D": "Tole: Middle; Kazybek: Senior; Aiteke: Junior",
+        "E": "Tole: Senior; Kazybek: Middle; Aiteke: Junior"
+      }
+    },
+    "310": {
+      "question": "How was the adversarial principle manifested in the court of the biys?",
+      "options": {
+        "A": "The parties could bring their own bi, who performed a function of defence",
+        "B": "The proceedings excluded the participation of the disputants themselves",
+        "C": "The decision was determined in advance by the order of clan seniority",
+        "D": "The parties referred the dispute only to the khan, without oral proceedings",
+        "E": "Accusation and defence were permitted exclusively in written form"
+      }
+    },
+    "311": {
+      "question": "Features of the procedure of the traditional court of the biys:",
+      "options": {
+        "A": "Permanent imprisonment as the basis for enforcing decisions",
+        "B": "The exclusion of witnesses",
+        "C": "Publicity (openness)",
+        "D": "Oral form",
+        "E": "Obligatory secret voting by a written jury"
+      }
+    },
+    "312": {
+      "question": "The compensation for the killing or maiming of a person was called...",
+      "options": {
+        "A": "Kun",
+        "B": "Dure",
+        "C": "Aiyp",
+        "D": "Ushur",
+        "E": "Zeket"
+      }
+    },
+    "313": {
+      "question": "The concept of \"barymta\" in the context of customary law originally denoted...",
+      "options": {
+        "A": "The oral proclamation of a new khan's decree",
+        "B": "The collection of gifts for the send-off of a bride",
+        "C": "An obligatory donation to a religious community",
+        "D": "A contest of orators in the choice of a clan elder",
+        "E": "The seizure of livestock or property in connection with an unpaid debt"
+      }
+    },
+    "314": {
+      "question": "Which pair of madrasa and city is given correctly?",
+      "options": {
+        "A": "\"Galiya\": Orenburg",
+        "B": "\"Rasulia\": Semipalatinsk",
+        "C": "\"Khusainia\": Ufa",
+        "D": "\"Rasulia\": Troitsk",
+        "E": "\"Galiya\": Tashkent"
+      }
+    },
+    "315": {
+      "question": "In initial reading instruction, the Jadidists proposed:",
+      "options": {
+        "A": "Replacing reading by sounds with the memorizing of genealogies",
+        "B": "Replacing the phonetic (sound) method with the letter-spelling method",
+        "C": "Replacing the letter-spelling method with the phonetic (sound) method",
+        "D": "Replacing arithmetic with calligraphic exercises alone",
+        "E": "Replacing oral instruction exclusively with runic writing"
+      }
+    },
+    "316": {
+      "question": "The formation of the new-method (usul-i jadid) schooling is associated with the educator...",
+      "options": {
+        "A": "A. Yanushkevich",
+        "B": "A. Levshin",
+        "C": "N. Yadrintsev",
+        "D": "G. Potanin",
+        "E": "I. Gasprinsky"
+      }
+    },
+    "317": {
+      "question": "On whose initiative was a school opened in the Bukey Khanate in 1841?",
+      "options": {
+        "A": "I. Altynsarin's",
+        "B": "A. Baitursynov's",
+        "C": "Ch. Valikhanov's",
+        "D": "Khan Abylai's",
+        "E": "Khan Zhangir's"
+      }
+    },
+    "318": {
+      "question": "Chokan Valikhanov graduated from...",
+      "options": {
+        "A": "The teachers' institute in Tashkent",
+        "B": "The \"Galiya\" madrasa in Ufa",
+        "C": "The teachers' school in Orsk",
+        "D": "The Neplyuev Cadet Corps in Orenburg",
+        "E": "The Siberian Cadet Corps in Omsk"
+      }
+    },
+    "319": {
+      "question": "A teachers' school for Kazakhs was opened in 1883 with the participation of I. Altynsarin...",
+      "options": {
+        "A": "In Troitsk",
+        "B": "In Orsk",
+        "C": "In Irgiz",
+        "D": "In Turkestan",
+        "E": "In Omsk"
+      }
+    },
+    "320": {
+      "question": "Specify the textbooks by Ybyrai Altynsarin.",
+      "options": {
+        "A": "\"A Primary Guide to Teaching the Kirghiz the Russian Language\"",
+        "B": "\"The Words of Edification\"",
+        "C": "\"Three Truths\"",
+        "D": "\"The Kirghiz Chrestomathy\"",
+        "E": "\"Essays on Dzungaria\""
+      }
+    },
+    "321": {
+      "question": "The opening of a girls' school with the support of I. Altynsarin is associated with the town of...",
+      "options": {
+        "A": "Syghanaq",
+        "B": "Yasy",
+        "C": "Sauran",
+        "D": "Balasagun",
+        "E": "Irgiz"
+      }
+    },
+    "322": {
+      "question": "Poets belonging to the \"zar zaman\" (time of sorrow) trend:",
+      "options": {
+        "A": "Murat Monkeuly",
+        "B": "Dulat Babatayuly",
+        "C": "Makhambet Utemisuly",
+        "D": "Sherniyaz Zharylgasynuly",
+        "E": "Shortanbai Kanayuly"
+      }
+    },
+    "323": {
+      "question": "The song \"Ak sisa\", which expresses a protest against social injustice, belongs to...",
+      "options": {
+        "A": "Birzhan Kozhagululy",
+        "B": "Zhayau Musa Baizhanuly",
+        "C": "Akan-sere Koramsauly",
+        "D": "Madi Bapiuly",
+        "E": "Baluan Sholak Baimyrzauly"
+      }
+    },
+    "324": {
+      "question": "Which pairings of a composer and a kui are correct?",
+      "options": {
+        "A": "Dauletkerei: \"Zhiger\"",
+        "B": "Tattimbet: \"Zhez Kiik\"",
+        "C": "Tattimbet: \"Sarzhailau\"",
+        "D": "Dauletkerei: \"Ak sisa\"",
+        "E": "Kurmangazy: \"Sarzhailau\""
+      }
+    },
+    "325": {
+      "question": "The kuis \"Zhez Kiik\", \"Erden\" and \"Korkyt-kui\" are associated with the work of...",
+      "options": {
+        "A": "Tattimbet Kazangapuly",
+        "B": "Kazangap Tileppergenuly",
+        "C": "Dauletkerei Shigayuly",
+        "D": "Kurmangazy Sagyrbayuly",
+        "E": "Ykylas Dukenbayuly"
+      }
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 4,
+  "topic_name": "Political Power: Its Essence and Mechanism of Exercise",
+  "questions": {
+    "71": {
+      "question": "Defining power as the ability to achieve intended goals belongs to the ... interpretation.",
+      "options": {
+        "A": "Structural-functional",
+        "B": "Teleological",
+        "C": "Relational",
+        "D": "Psychoanalytic",
+        "E": "Behavioralist"
+      }
+    },
+    "72": {
+      "question": "The relational understanding of power emphasizes...",
+      "options": {
+        "A": "The division of management functions within an organization",
+        "B": "The match between the results of activity and the goal set",
+        "C": "The projection of repressed drives onto political institutions",
+        "D": "The ability of a system to preserve its own integrity",
+        "E": "A relationship of determining influence between subject and object"
+      }
+    },
+    "73": {
+      "question": "The systemic interpretation of power differs from the individualizing behavioralist one in that...",
+      "options": {
+        "A": "It reduces power to an innate striving for prestige",
+        "B": "It identifies power with formal official status",
+        "C": "It excludes collective goals from analysis",
+        "D": "It proceeds from the needs of the social system",
+        "E": "It explains any submission exclusively by punishment"
+      }
+    },
+    "74": {
+      "question": "Components that directly make up the structure of a power relationship:",
+      "options": {
+        "A": "Status and prestige as the only means of carrying out an order",
+        "B": "Subject and object",
+        "C": "Means and process of exercise",
+        "D": "Legality and legitimacy as the two direct agents of power",
+        "E": "Interest and value as an exhaustive pair of elements of the relationship"
+      }
+    },
+    "75": {
+      "question": "Which combination of qualities most fully characterizes a subject capable of exercising power?",
+      "options": {
+        "A": "Popularity, wealth and social homogeneity",
+        "B": "Charisma, hereditary status and religiosity",
+        "C": "The will to lead, competence and organization",
+        "D": "Numerical superiority, territoriality and sedentariness",
+        "E": "Loyalty, conformism and diligence"
+      }
+    },
+    "76": {
+      "question": "The dependence of a group that receives scarce goods in exchange for carrying out the instructions of their owner is explained by...",
+      "options": {
+        "A": "The theory of the circulation of elites",
+        "B": "The theory of the separation of powers",
+        "C": "The theory of political socialization",
+        "D": "The social contract theory",
+        "E": "Social exchange theory"
+      }
+    },
+    "77": {
+      "question": "Name the categories of resources identified by Amitai Etzioni.",
+      "options": {
+        "A": "Coercive",
+        "B": "Social",
+        "C": "Cultural-informational",
+        "D": "Normative",
+        "E": "Utilitarian"
+      }
+    },
+    "78": {
+      "question": "Support for a political decision is secured by granting material benefits. Which resource is being used according to Etzioni's classification?",
+      "options": {
+        "A": "Coercive",
+        "B": "Normative",
+        "C": "Institutional",
+        "D": "Charismatic",
+        "E": "Utilitarian"
+      }
+    },
+    "79": {
+      "question": "The authorities win consent by appealing to convictions and recognized values. Which resource is being used according to Etzioni's classification?",
+      "options": {
+        "A": "Coercive",
+        "B": "Normative",
+        "C": "Demographic",
+        "D": "Economic",
+        "E": "Utilitarian"
+      }
+    },
+    "80": {
+      "question": "Which resource of power did Alvin Toffler associate with the growing role of post-industrial society?",
+      "options": {
+        "A": "Hereditary privileges",
+        "B": "Landed property",
+        "C": "Military mobilization",
+        "D": "Knowledge and information",
+        "E": "Estate solidarity"
+      }
+    },
+    "81": {
+      "question": "Unlike economic power, social power is directly connected with the distribution of...",
+      "options": {
+        "A": "The state's material reserves",
+        "B": "The financial assets of enterprises",
+        "C": "Statuses, positions and privileges",
+        "D": "Goods intended for production",
+        "E": "Monetary income from property"
+      }
+    },
+    "82": {
+      "question": "A leadership's refusal to allow discussion of a problem that could change the distribution of benefits is such a manifestation of power as...",
+      "options": {
+        "A": "Plebiscitary legitimation",
+        "B": "Control of the political agenda",
+        "C": "Normative socialization",
+        "D": "Electoral delegation",
+        "E": "Institutional differentiation"
+      }
+    },
+    "83": {
+      "question": "The concept of the \"second face of power\" is associated with the names of...",
+      "options": {
+        "A": "Peter Bachrach and Morton Baratz",
+        "B": "Karl Marx and Friedrich Engels",
+        "C": "Thomas Hobbes and John Locke",
+        "D": "Gabriel Almond and Sidney Verba",
+        "E": "Gaetano Mosca and Vilfredo Pareto"
+      }
+    },
+    "84": {
+      "question": "Coercive power cannot be completely identified with political power because...",
+      "options": {
+        "A": "Coercive resources preclude the organization of governance",
+        "B": "Physical coercion is also possible in non-political relations",
+        "C": "Political power exists only as moral authority",
+        "D": "Any coercion is based on a nationwide vote",
+        "E": "Political power does not use force at all"
+      }
+    },
+    "85": {
+      "question": "The mechanism of power is...",
+      "options": {
+        "A": "The totality of the personal qualities of a political leader",
+        "B": "A system of organizations and the norms of their structure and activity",
+        "C": "A hierarchy of the prestige of occupations",
+        "D": "The numerical ratio of the sides in a political conflict",
+        "E": "A set of individual political preferences"
+      }
+    },
+    "86": {
+      "question": "Features of political power:",
+      "options": {
+        "A": "Regulating behavior solely through personal authority",
+        "B": "Predominant use of kinship rather than public channels",
+        "C": "Supremacy within the political community",
+        "D": "Identity of the subject of power with the entire body of governed citizens",
+        "E": "Publicity and binding force of decisions"
+      }
+    },
+    "87": {
+      "question": "Citizens' recognition of the rightfulness of power is denoted by the concept of...",
+      "options": {
+        "A": "Legitimacy",
+        "B": "Legality",
+        "C": "Effectiveness",
+        "D": "Sovereignty",
+        "E": "Competence"
+      }
+    },
+    "88": {
+      "question": "What directly characterizes the legality of power?",
+      "options": {
+        "A": "The stability of economic growth",
+        "B": "The popularity of the foreign policy course",
+        "C": "Belief in the exceptional qualities of the leader",
+        "D": "Conformity to established legal norms",
+        "E": "A positive moral assessment by the majority"
+      }
+    },
+    "89": {
+      "question": "A government acts in accordance with the law, but the majority denies it the right to govern. Which combination of characteristics is possible?",
+      "options": {
+        "A": "Legality with a deficit of legitimacy",
+        "B": "Charisma in the absence of publicity",
+        "C": "Sovereignty in the absence of institutions",
+        "D": "Legitimacy in the absence of legality",
+        "E": "Normativity in the absence of political power"
+      }
+    },
+    "90": {
+      "question": "Obedience based on the sanctity of a long-established order characterizes ... legitimacy.",
+      "options": {
+        "A": "Ideological",
+        "B": "Rational-legal",
+        "C": "Charismatic",
+        "D": "Traditional",
+        "E": "Technocratic"
+      }
+    },
+    "91": {
+      "question": "Recognition of the ruler's special personal gift is the basis of ... legitimacy.",
+      "options": {
+        "A": "Rational-legal",
+        "B": "Charismatic",
+        "C": "Procedural",
+        "D": "Traditional",
+        "E": "Corporate"
+      }
+    },
+    "92": {
+      "question": "Under rational-legal domination, people obey primarily...",
+      "options": {
+        "A": "The uniqueness of the leader's national mission",
+        "B": "The sacred origin of the ruling dynasty",
+        "C": "The heroic past of the political leader",
+        "D": "The impersonal order and the powers of the office",
+        "E": "The personal virtues of the officeholder"
+      }
+    },
+    "93": {
+      "question": "Statements that characterize ideological legitimation:",
+      "options": {
+        "A": "Justification of power through a political doctrine",
+        "B": "Recognition of the same official status for all competing doctrines",
+        "C": "Grounding obedience solely in the formal procedure for filling offices",
+        "D": "Deriving the right to govern from the continuity of hereditary succession",
+        "E": "An appeal to the interests of the nation or class"
+      }
+    },
+    "94": {
+      "question": "Correct correspondences between the basis of obedience and the type of legitimacy:",
+      "options": {
+        "A": "Custom: traditional",
+        "B": "Recognized rules: rational-legal",
+        "C": "A personal exceptional gift: charismatic",
+        "D": "Obedience to an established office: traditional",
+        "E": "Recognition of the leader's exceptional mission: rational-legal"
+      }
+    },
+    "95": {
+      "question": "The authorities increase material payments, but citizens continue to reject their right to govern. Which conclusion is well founded?",
+      "options": {
+        "A": "Increased social spending indicates a change in the subject of sovereignty",
+        "B": "Material rewards make it possible to judge the lawfulness of the appointment procedure",
+        "C": "Utilitarian resources alone do not guarantee legitimacy",
+        "D": "The growth of utilitarian resources transforms domination into the rational-legal type",
+        "E": "A decline in support primarily means the loss of formally established powers"
+      }
+    }
+  }
+}

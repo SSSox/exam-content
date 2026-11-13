@@ -1,0 +1,108 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 16,
+  "topic_name": "The Party System of the Republic of Kazakhstan",
+  "questions": {
+    "321": {
+      "question": "In Kazakhstan, as of November 9, 2026, a citizen has the right to belong at the same time...",
+      "options": {
+        "A": "To two parties, with the consent of their leaderships",
+        "B": "To any number of registered parties",
+        "C": "To only one political party",
+        "D": "To one parliamentary and one non-parliamentary party",
+        "E": "To two parties with different program goals"
+      }
+    },
+    "322": {
+      "question": "The minimum age for a citizen of Kazakhstan to join a political party as of November 9, 2026 is...",
+      "options": {
+        "A": "21 years",
+        "B": "25 years",
+        "C": "20 years",
+        "D": "18 years",
+        "E": "16 years"
+      }
+    },
+    "323": {
+      "question": "Party membership in Kazakhstan as of November 9, 2026:",
+      "options": {
+        "A": "Collective, by decision of a work collective",
+        "B": "Fixed",
+        "C": "Individual",
+        "D": "Voluntary",
+        "E": "Simultaneous in several parties where they are ideologically close"
+      }
+    },
+    "324": {
+      "question": "The territorial representation required of the initiative group for creating a party (at least 700 citizens) as of November 9, 2026:",
+      "options": {
+        "A": "Half of the regions, not counting the capital",
+        "B": "Any one region, provided a majority of its districts are represented",
+        "C": "All administrative districts of the country",
+        "D": "Only two cities of republican significance",
+        "E": "Two thirds of the regions, the cities of republican significance and the capital"
+      }
+    },
+    "325": {
+      "question": "The minimum total membership of a party for state registration in Kazakhstan as of November 9, 2026 is...",
+      "options": {
+        "A": "20,000",
+        "B": "700",
+        "C": "40,000",
+        "D": "2,000",
+        "E": "5,000"
+      }
+    },
+    "326": {
+      "question": "The requirement for the minimum size of each regional branch of a party being registered in Kazakhstan as of November 9, 2026 is...",
+      "options": {
+        "A": "700 members",
+        "B": "100 members",
+        "C": "600 members",
+        "D": "300 members",
+        "E": "200 members"
+      }
+    },
+    "327": {
+      "question": "As of November 9, 2026, the creation of parties on the basis of which affiliation of citizens is not permitted in Kazakhstan?",
+      "options": {
+        "A": "Professional",
+        "B": "Religious",
+        "C": "Supporters of a general direction of social reform",
+        "D": "Supporters of a particular economic program",
+        "E": "Ethnic"
+      }
+    },
+    "328": {
+      "question": "A Kazakhstani citizen's party affiliation as of November 9, 2026...",
+      "options": {
+        "A": "Exempts him from compliance with court decisions",
+        "B": "Gives him a preferential right to a public office",
+        "C": "Replaces the citizenship requirement in elections",
+        "D": "Cannot in itself serve as a ground for restricting his rights",
+        "E": "Must be stated in every appeal to a state body"
+      }
+    },
+    "329": {
+      "question": "Persons who may not belong to a party in Kazakhstan as of November 9, 2026, include...",
+      "options": {
+        "A": "Members of the Central Election Commission",
+        "B": "University lecturers by virtue of the mere fact of teaching",
+        "C": "The Vice President",
+        "D": "Researchers by virtue of the mere fact of doing research",
+        "E": "Judges"
+      }
+    },
+    "330": {
+      "question": "An initiative group of 700 people claims that it has thereby met the numerical threshold for the state registration of a party in Kazakhstan as of November 9, 2026. What is the error?",
+      "options": {
+        "A": "Regional requirements apply only after parliamentary seats have been won",
+        "B": "The initiative requires 5,000 people, whereas 700 suffices for registration",
+        "C": "The initiative group threshold does not replace the requirements for a party's total and regional membership",
+        "D": "State registration is determined solely by the number of congress delegates",
+        "E": "A founding initiative and a registered party are legally identical"
+      }
+    }
+  }
+}

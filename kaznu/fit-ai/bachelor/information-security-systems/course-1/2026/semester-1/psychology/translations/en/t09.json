@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 9,
+  "topic_name": "Personality, individuality and the structure of personality",
+  "questions": {
+    "181": {
+      "question": "A single representative of the human species is denoted by the concept of...",
+      "options": {
+        "A": "The individual",
+        "B": "Individuality",
+        "C": "Personality",
+        "D": "A social role",
+        "E": "A subject position"
+      }
+    },
+    "182": {
+      "question": "The concept of personality primarily defines a human being as...",
+      "options": {
+        "A": "An object of direct sensory stimulation",
+        "B": "A bearer of only inherited morphological features",
+        "C": "A subject of social relations and conscious activity",
+        "D": "A set of exclusively temperamental reactions",
+        "E": "A single specimen of a biological species"
+      }
+    },
+    "183": {
+      "question": "A unique combination of a person's psychophysiological and personal characteristics defines his or her...",
+      "options": {
+        "A": "Social role",
+        "B": "Individuality",
+        "C": "Signal system",
+        "D": "Species membership",
+        "E": "Group norm"
+      }
+    },
+    "184": {
+      "question": "Statements that express the active role of the personality:",
+      "options": {
+        "A": "It manifests itself in its own activity",
+        "B": "It develops independently of activity",
+        "C": "It acts as a subject of communication and self-knowledge",
+        "D": "It fully copies external conditions",
+        "E": "It transforms the social influences it assimilates"
+      }
+    },
+    "185": {
+      "question": "The mastery of social norms and the shaping of one's own uniqueness are related, respectively, as...",
+      "options": {
+        "A": "Socialization and individualization",
+        "B": "Adaptation and sensitization",
+        "C": "Association and dissociation",
+        "D": "Introspection and objectification",
+        "E": "Individualization and socialization"
+      }
+    },
+    "186": {
+      "question": "How are the organism and the personality related in the whole system of the human being?",
+      "options": {
+        "A": "Personality is entirely reducible to the structure of the organism",
+        "B": "The organism is formed only by social learning",
+        "C": "They develop as completely independent systems",
+        "D": "Social organization excludes biological conditions",
+        "E": "They are interrelated as a morphophysiological and a socio-psychological organization"
+      }
+    },
+    "187": {
+      "question": "A model that considers the components of personality in the context of its real existence is a... structure.",
+      "options": {
+        "A": "Perceptual",
+        "B": "Static",
+        "C": "Sensory",
+        "D": "Topographical",
+        "E": "Dynamic"
+      }
+    },
+    "188": {
+      "question": "The dynamic functional structure of personality consisting of four substructures was proposed by...",
+      "options": {
+        "A": "D. Broadbent",
+        "B": "H. Selye",
+        "C": "E. Kretschmer",
+        "D": "K. K. Platonov",
+        "E": "T. Ribot"
+      }
+    },
+    "189": {
+      "question": "K. K. Platonov's model includes the substructures:",
+      "options": {
+        "A": "Individual experience",
+        "B": "Biopsychic properties",
+        "C": "The structure of intergroup conflict",
+        "D": "Leadership position in a group",
+        "E": "The orientation of the personality"
+      }
+    },
+    "190": {
+      "question": "In K. K. Platonov's model, knowledge, skills, proficiencies and habits belong to...",
+      "options": {
+        "A": "The features of mental processes",
+        "B": "Biopsychic properties",
+        "C": "The experience substructure",
+        "D": "The social position of the group",
+        "E": "The orientation substructure"
+      }
+    },
+    "191": {
+      "question": "In K. K. Platonov's model, worldview, ideals and convictions make up primarily...",
+      "options": {
+        "A": "Features of sensory reception",
+        "B": "The orientation of the personality",
+        "C": "Biopsychic properties",
+        "D": "Individual experience",
+        "E": "The dynamics of nervous processes"
+      }
+    },
+    "192": {
+      "question": "In K. K. Platonov's model, age-related properties and temperament belong to the substructure of...",
+      "options": {
+        "A": "Individual experience",
+        "B": "Social attitudes",
+        "C": "Orientation",
+        "D": "Group relations",
+        "E": "Biopsychic properties"
+      }
+    },
+    "193": {
+      "question": "In K. K. Platonov's model, individual features of memory and thinking belong to...",
+      "options": {
+        "A": "The system of convictions and ideals",
+        "B": "The norms of the reference group",
+        "C": "The system of acquired habits",
+        "D": "The features of the forms of reflection",
+        "E": "Age-related biopsychic properties"
+      }
+    },
+    "194": {
+      "question": "Identify the correct assignments of components to K. K. Platonov's substructures.",
+      "options": {
+        "A": "Skills: experience",
+        "B": "Temperament: biopsychic properties",
+        "C": "Convictions: orientation",
+        "D": "Memory: the social role of the personality",
+        "E": "Knowledge: predominantly the hereditary substructure"
+      }
+    },
+    "195": {
+      "question": "Which correspondence between a method of formation and a substructure is correct in K. K. Platonov's table?",
+      "options": {
+        "A": "Training: worldview",
+        "B": "Instruction: age-related properties",
+        "C": "Exercise: species membership",
+        "D": "Instruction: experience",
+        "E": "Upbringing: sex-related properties"
+      }
+    },
+    "196": {
+      "question": "Value orientations and social attitudes characteristic of a particular community belong to the... features.",
+      "options": {
+        "A": "Socially specific",
+        "B": "Species-specific anatomical",
+        "C": "Exclusively reflex",
+        "D": "Individual morphological",
+        "E": "Universal mental"
+      }
+    },
+    "197": {
+      "question": "Why are the formation of personality and the formation of individuality not identical?",
+      "options": {
+        "A": "Individuality arises without social relations",
+        "B": "Individualization completes all development",
+        "C": "Mastering social experience differs from shaping uniqueness",
+        "D": "Socialization excludes individual differences",
+        "E": "Personality describes only biological qualities"
+      }
+    },
+    "198": {
+      "question": "Which explanation of individual differences takes both the biological and the social into account?",
+      "options": {
+        "A": "Social relations completely replace heredity",
+        "B": "Innate properties interact with acquired qualities",
+        "C": "Hereditary properties unambiguously determine the worldview",
+        "D": "Biological features determine moral worth",
+        "E": "Social experience does not change internal conditions"
+      }
+    },
+    "199": {
+      "question": "Which statements about the concepts of \"individual\" and \"personality\" are correct?",
+      "options": {
+        "A": "The individual means only a set of convictions",
+        "B": "Personality is identical to hereditary constitution",
+        "C": "Individuality excludes social qualities",
+        "D": "The development of personality is linked with socialization",
+        "E": "The individual denotes a separate representative of the species"
+      }
+    },
+    "200": {
+      "question": "The same educational demands yield different results in two students. This is consistent with the principle of...",
+      "options": {
+        "A": "The refraction of external influences through internal conditions",
+        "B": "The identity of an external demand and an internal motive",
+        "C": "The unchangeability of personality in activity",
+        "D": "The complete independence of personality from upbringing",
+        "E": "The unambiguous hereditary determination of social behavior"
+      }
+    }
+  }
+}

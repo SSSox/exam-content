@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 6,
+  "topic_name": "Cultural Code and Cultural Identification",
+  "questions": {
+    "126": {
+      "question": "The key purpose of a cultural code lies in...",
+      "options": {
+        "A": "Establishing a single language for all cultures",
+        "B": "Eliminating the difference between a text and the object it denotes",
+        "C": "Reducing a cultural message to the number of its symbols",
+        "D": "Replacing any meaning with a physical property of the carrier",
+        "E": "Linking a sign with its meaning and translating designations into senses"
+      }
+    },
+    "127": {
+      "question": "Different readings of a single cultural text when the code changes illustrate the proposition:",
+      "options": {
+        "A": "The code is identical to the author's intention in all cases",
+        "B": "The meaning of a text is entirely determined by its length",
+        "C": "The interpretation of meaning depends on the code applied",
+        "D": "A text has no materially expressed signs",
+        "E": "The difference between readings proves the absence of cultural meaning"
+      }
+    },
+    "128": {
+      "question": "Which statement about a cultural code is incorrect?",
+      "options": {
+        "A": "It helps to relate a cultural sign to its meaning",
+        "B": "It influences the reading of one and the same cultural text",
+        "C": "It changes only the material carrier while leaving the system of meanings unchanged",
+        "D": "It helps to reveal the meaning of a ritual and a symbol",
+        "E": "It can be transformed in the course of historical development"
+      }
+    },
+    "129": {
+      "question": "Properties of a cultural code:",
+      "options": {
+        "A": "Biological heritability",
+        "B": "Self-sufficiency",
+        "C": "Fixed historical unambiguity",
+        "D": "Openness",
+        "E": "Universality"
+      }
+    },
+    "130": {
+      "question": "Why could a true name be hidden behind a commonly known one in ancient cultures?",
+      "options": {
+        "A": "The true name necessarily denoted the profession of its bearer",
+        "B": "A name was considered inseparable from the thing and as allowing magical influence over it",
+        "C": "Two names denoted an obligatory affiliation with two states",
+        "D": "The commonly known name was used only in written laws",
+        "E": "Sacred meaning was ascribed exclusively to a clan title"
+      }
+    },
+    "131": {
+      "question": "The example of the Christian reckoning of time from the coming of Christ shows that...",
+      "options": {
+        "A": "The cultural picture of the world is determined only by geography",
+        "B": "Any code is reduced to the form of a written alphabet",
+        "C": "A cultural code is limited to personal names",
+        "D": "The organization of time can act as a code of the cultural picture of the world",
+        "E": "Calendar time has no religious significance"
+      }
+    },
+    "132": {
+      "question": "Why can the concept of a code be considered broader than the concept of verbal language?",
+      "options": {
+        "A": "It describes only natural symptoms",
+        "B": "It excludes the rules for organizing a message",
+        "C": "It is not connected with the transmission of information",
+        "D": "It is also applicable to non-verbal systems",
+        "E": "It relates only to the sound composition of speech"
+      }
+    },
+    "133": {
+      "question": "In the concept of \"code\", Yu. Lotman emphasizes...",
+      "options": {
+        "A": "The fundamental absence of rules in artificial communication",
+        "B": "The complete coincidence of a code with the centuries-long history of a natural language",
+        "C": "Its association with an automatic model of communication, in contrast to a historical language",
+        "D": "The obligatory polysemy of any machine message",
+        "E": "The impossibility of applying the concept to technical languages"
+      }
+    },
+    "134": {
+      "question": "The special term \"S-code\" was proposed by...",
+      "options": {
+        "A": "J. Lacan",
+        "B": "R. Jakobson",
+        "C": "U. Eco",
+        "D": "F. de Saussure",
+        "E": "Yu. Lotman"
+      }
+    },
+    "135": {
+      "question": "The feature of reading connected with the S-code is...",
+      "options": {
+        "A": "Renouncing a definite point of view in interpretation",
+        "B": "The dependence of the organization of understanding on a person's professional and other position",
+        "C": "The independence of reading from education and experience",
+        "D": "Reducing any message to a single literal meaning",
+        "E": "The elimination of the rules of combinatorics from an utterance"
+      }
+    },
+    "136": {
+      "question": "The concept of the \"subcode\" for information systems with a hierarchy of codes is associated with the name of...",
+      "options": {
+        "A": "H.-G. Gadamer",
+        "B": "A. Kroeber",
+        "C": "E. Cassirer",
+        "D": "C. Jung",
+        "E": "R. Jakobson"
+      }
+    },
+    "137": {
+      "question": "The principle of the hierarchy of a cultural code means...",
+      "options": {
+        "A": "The obligatory superiority of written signs over oral ones",
+        "B": "The equivalence of all interpretations in the absence of rules",
+        "C": "The impossibility of combining several codes in a single system",
+        "D": "A direct dependence of meaning on the length of an utterance",
+        "E": "An ordered relation between a principal subcode and subordinate subcodes"
+      }
+    },
+    "138": {
+      "question": "What conclusion about the economy of message transmission did U. Eco propose?",
+      "options": {
+        "A": "Efficiency is determined only by the number of graphic signs",
+        "B": "Any redundancy automatically destroys meaning",
+        "C": "A limited number of combinations facilitates encoding and decoding",
+        "D": "An unlimited growth of combinations always simplifies transmission",
+        "E": "Economy requires a complete renunciation of rules of combination"
+      }
+    },
+    "139": {
+      "question": "Which psychological task is solved by a child's likening of himself to his parents in Freud's concept of identification?",
+      "options": {
+        "A": "Overcoming parental authority by means of rational criticism",
+        "B": "Reducing fear by adopting the parents' power",
+        "C": "Separating a conscious model of behaviour from the figure of a significant Other",
+        "D": "Mastering a formalized language through a conscious agreement",
+        "E": "Building an independent system of values before emotional identification"
+      }
+    },
+    "140": {
+      "question": "Emotional identification with a film hero initially leads primarily to...",
+      "options": {
+        "A": "The formation of a system of codes common to a society",
+        "B": "The copying of the outward features of activity",
+        "C": "An obligatory change of national affiliation",
+        "D": "A complete loss of individual memory",
+        "E": "Legal membership in a real organization"
+      }
+    },
+    "141": {
+      "question": "Assigning oneself to a nominal group is associated with...",
+      "options": {
+        "A": "The exclusion of emotional patterns of behaviour",
+        "B": "The inheritance of the group's physiological features",
+        "C": "A refusal to relate oneself to other people",
+        "D": "Obtaining a formal identity document",
+        "E": "The acquisition of socio-behavioural stereotypes"
+      }
+    },
+    "142": {
+      "question": "The distinguishing feature of identification with a real social group is...",
+      "options": {
+        "A": "The obligatory absence of shared values",
+        "B": "A stable conviction of being involved in its norms and requirements",
+        "C": "Only the short-term copying of a hero's appearance",
+        "D": "Exclusively knowing the name of the group",
+        "E": "Reducing belonging to genetic similarity"
+      }
+    },
+    "143": {
+      "question": "Reflexive acceptance of cultural evaluations is characterized by the fact that...",
+      "options": {
+        "A": "Evaluations are accepted only by the frequency of repetition",
+        "B": "Evaluations are determined exclusively by the prestige of an idol",
+        "C": "Evaluations are recognized as significant only when they fully coincide with everyone else's",
+        "D": "Evaluations are borrowed without inner comparison",
+        "E": "Evaluations are related to one's own experience before being accepted"
+      }
+    },
+    "144": {
+      "question": "As social development accelerates, the following characteristics of identities are strengthened:",
+      "options": {
+        "A": "Situationality",
+        "B": "Mobility",
+        "C": "The immutability of intergenerational models",
+        "D": "Predetermination by a single inherited role",
+        "E": "Lifelong fixation of group boundaries"
+      }
+    },
+    "145": {
+      "question": "As the diversity of cultural identifications increases, what persists is...",
+      "options": {
+        "A": "Complete dependence of identity on the place of birth",
+        "B": "A single obligatory form of group belonging",
+        "C": "The absence of subcultural differences",
+        "D": "Identification as the realization of an existential need",
+        "E": "An unchanging system of inherited social roles"
+      }
+    },
+    "146": {
+      "question": "Indicate the circumstances that can cause an identity crisis.",
+      "options": {
+        "A": "An age-related psychological crisis",
+        "B": "A person's stable recognition by his group, in itself",
+        "C": "A rapid change of the sociocultural environment",
+        "D": "The preservation of intergenerational symbolic ties, in itself",
+        "E": "The reconciliation of values with personal experience, in itself"
+      }
+    },
+    "147": {
+      "question": "Experiences associated with the loss of identity:",
+      "options": {
+        "A": "Reflexive rootedness",
+        "B": "Depersonalization",
+        "C": "Alienation",
+        "D": "Stable involvement",
+        "E": "Dialogical recognition"
+      }
+    },
+    "148": {
+      "question": "The ideal of authenticity differs from the fixed status identity of a traditional society...",
+      "options": {
+        "A": "By a call to discover one's own original way of being",
+        "B": "By a demand to reproduce fully an inherited estate role",
+        "C": "By reducing individuality to the father's profession",
+        "D": "By eliminating the need for recognition by others",
+        "E": "By a refusal of inner grounds of self-understanding"
+      }
+    },
+    "149": {
+      "question": "The condition for the recognition of different identities that Charles Taylor emphasizes is...",
+      "options": {
+        "A": "The absence of any common criteria of significance",
+        "B": "A common moral background standing above individual ideals of authenticity",
+        "C": "The elimination of all differences of cultural origin",
+        "D": "The replacement of dialogue by administrative classification",
+        "E": "A complete coincidence of the life experience of all groups"
+      }
+    },
+    "150": {
+      "question": "How does Z. Bauman distinguish the modern and the postmodern problems of identity?",
+      "options": {
+        "A": "To eliminate tradition; to renounce adaptation",
+        "B": "To conceal one's origin; to restore an unchanging estate status",
+        "C": "To create and preserve stability; to avoid fixation and keep the freedom of choice",
+        "D": "To choose a profession; to acquire a genetic community",
+        "E": "To renounce choice; to establish a single inherited role"
+      }
+    }
+  }
+}

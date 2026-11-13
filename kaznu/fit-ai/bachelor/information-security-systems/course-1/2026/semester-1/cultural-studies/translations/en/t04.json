@@ -1,0 +1,258 @@
+{
+  "bank": "kaznu/cultural-studies",
+  "locale": "en",
+  "topic_id": 4,
+  "topic_name": "The Human Being, Cultural Activity and Values",
+  "questions": {
+    "76": {
+      "question": "How are the internal and external approaches related in a holistic philosophical study of the human being?",
+      "options": {
+        "A": "They divide people into cultural and non-cultural categories",
+        "B": "They replace each other in succession from antiquity to the present",
+        "C": "The internal approach completely replaces the external one",
+        "D": "The external approach completely replaces the internal one",
+        "E": "They correct each other in a holistic study"
+      }
+    },
+    "77": {
+      "question": "The origin of the concept of persona is originally associated with...",
+      "options": {
+        "A": "A mask and a social image turned toward others",
+        "B": "The inner experience of absolute freedom",
+        "C": "An inherited type of emotional response",
+        "D": "The unique genetic makeup of an organism",
+        "E": "The totality of universal archetypes"
+      }
+    },
+    "78": {
+      "question": "The concept that singles out a concrete bearer of the psychophysical and social traits of the human race is...",
+      "options": {
+        "A": "Value attitude",
+        "B": "Cultural type",
+        "C": "Individuality",
+        "D": "The individual",
+        "E": "Social role"
+      }
+    },
+    "79": {
+      "question": "A unique combination of mental, physiological and social characteristics describes...",
+      "options": {
+        "A": "Social status",
+        "B": "Individuality",
+        "C": "A social institution",
+        "D": "Species essence",
+        "E": "A cultural norm"
+      }
+    },
+    "80": {
+      "question": "The personality is regarded as the result of becoming because...",
+      "options": {
+        "A": "Its formation is determined exclusively by the structure of the organism",
+        "B": "Its development is completed before the first communication",
+        "C": "Its properties exist independently of the historical environment",
+        "D": "Its qualities are fully predetermined by the temperament at birth",
+        "E": "Its social qualities are formed in activity and communication"
+      }
+    },
+    "81": {
+      "question": "The self-determination and shaping of a person's uniqueness reveal the process of...",
+      "options": {
+        "A": "Role typification",
+        "B": "Biological adaptation",
+        "C": "Normative unification",
+        "D": "Individualization",
+        "E": "Institutionalization"
+      }
+    },
+    "82": {
+      "question": "The qualities that characterize the personality as a subject of social behaviour:",
+      "options": {
+        "A": "The psychophysical integrity of the organism as such",
+        "B": "Independence",
+        "C": "The stability of the biological type as such",
+        "D": "Responsibility",
+        "E": "Morphological distinctiveness as such"
+      }
+    },
+    "83": {
+      "question": "Which limitation must be taken into account in a geographical explanation of national character?",
+      "options": {
+        "A": "Natural conditions cannot be directly equated with national character",
+        "B": "Natural conditions do not affect any aspect of human life",
+        "C": "Cultural distinctiveness is exhausted by the available food resources",
+        "D": "An identical climate inevitably produces one artistic style",
+        "E": "The interaction of peoples does not change established forms of practice"
+      }
+    },
+    "84": {
+      "question": "The formation of everyday cultural practices is influenced by...",
+      "options": {
+        "A": "The ways of obtaining food",
+        "B": "Only the formal scheme of a written alphabet",
+        "C": "The nature of contacts with other peoples",
+        "D": "Only the universal sequence of artistic styles",
+        "E": "Only the inherited typology of emotional responses"
+      }
+    },
+    "85": {
+      "question": "The entry of an individual into his native cultural environment is denoted by the concept of...",
+      "options": {
+        "A": "Codification",
+        "B": "Enculturation",
+        "C": "Sublimation",
+        "D": "Diffusion",
+        "E": "Secularization"
+      }
+    },
+    "86": {
+      "question": "What does the understanding of culture as an adaptive system mean?",
+      "options": {
+        "A": "Adaptation excludes the transformation of nature by the human being",
+        "B": "Culture replaces interaction with the environment with isolation",
+        "C": "Cultural forms do not depend on the ways of life activity",
+        "D": "Through culture the human being adapts to the environment",
+        "E": "Culture transmits adaptations exclusively genetically"
+      }
+    },
+    "87": {
+      "question": "The examples that correspond to the image of the \"inorganic body of civilization\":",
+      "options": {
+        "A": "An excavator as an enhancement of the human hand",
+        "B": "The inherited shape of the hand",
+        "C": "Temperament as a type of nervous system",
+        "D": "The age-related restructuring of the organism",
+        "E": "A bicycle as an extension of the possibilities of movement"
+      }
+    },
+    "88": {
+      "question": "In the characterization of human spirituality, ideal notions are expressed...",
+      "options": {
+        "A": "In language and speech",
+        "B": "In the direct copying of a natural object",
+        "C": "In the inheritance of acquired skills",
+        "D": "Only in the features of physique",
+        "E": "Only in biological reflexes"
+      }
+    },
+    "89": {
+      "question": "The integral spirituality of the human being includes...",
+      "options": {
+        "A": "Ritual, genealogical and exclusively confessional aspects",
+        "B": "Emotional impressions, bodily adaptation and economic specialization",
+        "C": "Professional skills, social rank and legal powers",
+        "D": "Rational, emotional and value-motivational aspects",
+        "E": "Rational, morphological and hereditary-physiological aspects"
+      }
+    },
+    "90": {
+      "question": "With what is spirituality as a form of self-identification associated?",
+      "options": {
+        "A": "With an exclusively biological establishment of origin",
+        "B": "With the denial of a connection between personal choice and responsibility",
+        "C": "With the identification of the personality only with its profession",
+        "D": "With the elimination of any sense of duty to others",
+        "E": "With one's attitude to the world and to oneself through belonging to a universally significant whole"
+      }
+    },
+    "91": {
+      "question": "The status of human dignity in the ethical evaluation of a personality is...",
+      "options": {
+        "A": "The equivalent of inherited class honour",
+        "B": "The conventional prestige of a social role",
+        "C": "An absolute ethical value",
+        "D": "An indicator of professional recognition",
+        "E": "An aesthetic measure of outward perfection"
+      }
+    },
+    "92": {
+      "question": "A stable notion of an object as a preferred good belongs to...",
+      "options": {
+        "A": "A value",
+        "B": "A skill",
+        "C": "A sign carrier",
+        "D": "A physical property",
+        "E": "A reflex reaction"
+      }
+    },
+    "93": {
+      "question": "How are personal experience and the universal human character of values related?",
+      "options": {
+        "A": "Universal human values receive personal experience in a particular individual",
+        "B": "Personal experience always cancels the significance of a value for others",
+        "C": "Any personal value has no connection with cultural tradition",
+        "D": "A value becomes common only after losing its personal meaning",
+        "E": "A universal human value excludes an individual attitude toward it"
+      }
+    },
+    "94": {
+      "question": "Knowledge of a universal human value differs from its personal acceptance in that...",
+      "options": {
+        "A": "Personal acceptance is possible exclusively without knowledge",
+        "B": "The difference comes down to the existence of a written definition",
+        "C": "Significance for others excludes significance for oneself",
+        "D": "Knowledge does not yet guarantee the experience of a value as significant for oneself",
+        "E": "Knowledge automatically forms stable moral behaviour"
+      }
+    },
+    "95": {
+      "question": "The beginning of the development of axiology in the nineteenth century is associated with...",
+      "options": {
+        "A": "R. H. Lotze",
+        "B": "M. Weber",
+        "C": "V. Bibler",
+        "D": "M. Foucault",
+        "E": "E. Cassirer"
+      }
+    },
+    "96": {
+      "question": "The main areas of axiological inquiry include the following distinctions:",
+      "options": {
+        "A": "Subject and object as formal elements of cognition",
+        "B": "Syntagm and paradigm",
+        "C": "The beautiful and the ugly",
+        "D": "Good and evil",
+        "E": "Signifier and signified"
+      }
+    },
+    "97": {
+      "question": "How do professional ethics and academic ethics differ?",
+      "options": {
+        "A": "The former studies the beautiful, the latter the rules of sign transmission",
+        "B": "The former studies what ought to be in reality, the latter what ought to be ideally",
+        "C": "The former depends only on law, the latter only on custom",
+        "D": "The former studies what ought to be ideally, the latter what ought to be in reality",
+        "E": "The former excludes the evaluation of an act, the latter is limited to etiquette"
+      }
+    },
+    "98": {
+      "question": "The purpose of corporate ethics for spatially separated units is...",
+      "options": {
+        "A": "To replace all professional norms with local customs",
+        "B": "To form a common spirit based on shared values",
+        "C": "To isolate the units from common moral requirements",
+        "D": "To reduce responsibility to uniformity of outward appearance",
+        "E": "To eliminate moral judgments from business relations"
+      }
+    },
+    "99": {
+      "question": "Indicate the characteristics that relate to the rational side of beauty.",
+      "options": {
+        "A": "Associative anticipation and fantasy",
+        "B": "Proportion and symmetry",
+        "C": "Duty and conscience",
+        "D": "Catharsis and emotional empathy",
+        "E": "Commensurability and harmonious relations"
+      }
+    },
+    "100": {
+      "question": "Art as a way of the spiritual and practical mastery of reality relies primarily on...",
+      "options": {
+        "A": "A formal legal prescription",
+        "B": "A genealogical record of origin",
+        "C": "The administrative distribution of cultural roles",
+        "D": "Imagination and fantasy",
+        "E": "The experimental reproducibility of measurement"
+      }
+    }
+  }
+}

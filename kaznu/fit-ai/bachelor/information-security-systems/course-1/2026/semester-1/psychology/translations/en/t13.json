@@ -1,0 +1,208 @@
+{
+  "bank": "kaznu/psychology",
+  "locale": "en",
+  "topic_id": 13,
+  "topic_name": "Will, regulation of behavior and theories of emotion",
+  "questions": {
+    "266": {
+      "question": "The conscious regulation of behavior in overcoming internal and external obstacles is called...",
+      "options": {
+        "A": "Self-esteem",
+        "B": "A set (attitude)",
+        "C": "Self-awareness",
+        "D": "Motivation",
+        "E": "Will"
+      }
+    },
+    "267": {
+      "question": "A person refrains from an impulsive response that is incompatible with his or her convictions. Which function of will is realized?",
+      "options": {
+        "A": "Executive",
+        "B": "Inhibitory",
+        "C": "Motivating",
+        "D": "Orienting",
+        "E": "Evaluative"
+      }
+    },
+    "268": {
+      "question": "Initiating an action on the basis of a current internal impulse expresses the... function of will.",
+      "options": {
+        "A": "Executive",
+        "B": "Evaluative",
+        "C": "Inhibitory",
+        "D": "Motivating",
+        "E": "Orienting"
+      }
+    },
+    "269": {
+      "question": "Statements that characterize volitional regulation:",
+      "options": {
+        "A": "It is reduced solely to an increase in activity",
+        "B": "It is completely independent of convictions",
+        "C": "It excludes the inhibition of significant drives",
+        "D": "It makes it possible to strengthen some motives and restrain others",
+        "E": "It unites the motivating and inhibitory functions"
+      }
+    },
+    "270": {
+      "question": "What shortcoming do spoiling and excessive suppression of a child have in common that hinders the development of will?",
+      "options": {
+        "A": "A lack of practice in making decisions and exerting effort independently",
+        "B": "Heightened difference sensitivity",
+        "C": "An excess of independent responsibility",
+        "D": "A predominance of post-voluntary attention",
+        "E": "Explaining the meaning of demands too often"
+      }
+    },
+    "271": {
+      "question": "Which method of upbringing directly supports the development of will?",
+      "options": {
+        "A": "Fulfilling every wish immediately",
+        "B": "Doing the difficult part for the child in advance",
+        "C": "Unfailingly deciding any questions for the child",
+        "D": "Excluding tasks with surmountable difficulties",
+        "E": "Helping the child find a solution and carry it out independently"
+      }
+    },
+    "272": {
+      "question": "Comparing the expected and the achieved result of a volitional action is connected primarily with the participation of...",
+      "options": {
+        "A": "The parietal lobes of the brain",
+        "B": "The temporal lobes of the brain",
+        "C": "The occipital lobes of the brain",
+        "D": "The cerebellar structures",
+        "E": "The frontal lobes of the brain"
+      }
+    },
+    "273": {
+      "question": "Which combination consists specifically of volitional qualities?",
+      "options": {
+        "A": "Imagery, sensoriness, episodicity",
+        "B": "Resolve, persistence, self-control",
+        "C": "Constancy, objectivity, wholeness",
+        "D": "Quality, intensity, duration",
+        "E": "Extraversion, neuroticism, endomorphy"
+      }
+    },
+    "274": {
+      "question": "Statements that distinguish the intellectualist and the peripheral theories of emotion:",
+      "options": {
+        "A": "Both approaches explained emotions only by reinforcement",
+        "B": "Herbart linked feelings with the relations among mental representations",
+        "C": "Wundt considered emotion only a reaction of a peripheral organ",
+        "D": "James and Lange assigned the primary role to bodily changes",
+        "E": "James completely denied bodily feedback"
+      }
+    },
+    "275": {
+      "question": "The author of The Expression of the Emotions in Man and Animals, who developed an evolutionary explanation of emotions, was...",
+      "options": {
+        "A": "S. Schachter",
+        "B": "L. Festinger",
+        "C": "P. V. Simonov",
+        "D": "C. Darwin",
+        "E": "W. James"
+      }
+    },
+    "276": {
+      "question": "What is the sequence in which an emotion arises in the James-Lange theory?",
+      "options": {
+        "A": "Stimulus, simultaneous experience and bodily reaction",
+        "B": "Stimulus, comparison of expectations, elimination of dissonance",
+        "C": "Stimulus, appraisal of a need, emergence of an intention",
+        "D": "Stimulus, emotional experience, bodily changes",
+        "E": "Stimulus, bodily changes, experience of them"
+      }
+    },
+    "277": {
+      "question": "Which objection did W. Cannon raise against the peripheral theory of emotion?",
+      "options": {
+        "A": "Different emotions always have a unique visceral pattern",
+        "B": "Experience is possible only after a conscious decision",
+        "C": "Similar bodily changes accompany different emotions",
+        "D": "Emotional expression is unrelated to the organism",
+        "E": "Organic changes are always completely absent"
+      }
+    },
+    "278": {
+      "question": "The occurrence of emotional experience and bodily changes almost simultaneously corresponds to the approach of...",
+      "options": {
+        "A": "James and Lange",
+        "B": "Cannon and Bard",
+        "C": "Schachter's cognitive-physiological approach",
+        "D": "Herbart and Wundt",
+        "E": "Lindsley and Hebb"
+      }
+    },
+    "279": {
+      "question": "Indicate the correct correspondences between theories of emotion.",
+      "options": {
+        "A": "Darwin: the adaptive origin of expression",
+        "B": "Festinger: the balance of body fluids",
+        "C": "Lindsley and Hebb: the level of neural activation",
+        "D": "Schachter: complete exclusion of the appraisal of the situation",
+        "E": "James and Lange: the experience of bodily changes"
+      }
+    },
+    "280": {
+      "question": "Emotional states are linked with the reticular formation and the level of activity of the nervous system by the...",
+      "options": {
+        "A": "Constitutional theory of Kretschmer",
+        "B": "Humoral theory of Hippocrates",
+        "C": "Associative theory of Ebbinghaus",
+        "D": "Two-factor theory of Spearman",
+        "E": "Activation theory of Lindsley and Hebb"
+      }
+    },
+    "281": {
+      "question": "Which relationship between arousal and the effectiveness of activity did D. O. Hebb describe?",
+      "options": {
+        "A": "Any increase in arousal completely blocks activity",
+        "B": "The stronger the arousal, the better the result, without limit",
+        "C": "The level of arousal is unrelated to task performance",
+        "D": "Excessively weak and excessively strong arousal can reduce effectiveness",
+        "E": "Effectiveness is always at its maximum when there is no arousal at all"
+      }
+    },
+    "282": {
+      "question": "Discomfort caused by psychologically contradictory information about an object is explained by the concept of...",
+      "options": {
+        "A": "Humoral imbalance",
+        "B": "Perceptual isomorphism",
+        "C": "Cognitive dissonance",
+        "D": "Sensory adaptation",
+        "E": "Motor inertia"
+      }
+    },
+    "283": {
+      "question": "Taking bodily arousal into account together with a subjective appraisal of the situation is characteristic of the theory of emotion of...",
+      "options": {
+        "A": "C. Spearman",
+        "B": "S. Schachter",
+        "C": "E. Kretschmer",
+        "D": "T. Ziehen",
+        "E": "D. Broadbent"
+      }
+    },
+    "284": {
+      "question": "Correct statements about cognitive theories of emotion:",
+      "options": {
+        "A": "Revising expectations can reduce dissonance",
+        "B": "Need and available information are taken into account in Simonov's theory",
+        "C": "Context is excluded from Schachter's model",
+        "D": "A subjective appraisal can change the experience",
+        "E": "Simonov explains emotion only by body build"
+      }
+    },
+    "285": {
+      "question": "In P. V. Simonov's information theory, the essential link is between emotion and...",
+      "options": {
+        "A": "The proportion of the endomorphic and mesomorphic components",
+        "B": "Exclusively the number of previously repeated reactions",
+        "C": "Only the absolute strength of a physical stimulus",
+        "D": "A current need and the ratio of necessary to available information",
+        "E": "A fixed innate scheme of emotional expression"
+      }
+    }
+  }
+}

@@ -1,0 +1,1705 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/political-science",
+  "questions": [
+    {
+      "id": 186,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "При мажоритарной системе относительного большинства побеждает кандидат, который...",
+        "en": "Under a plurality (relative majority) system, the winner is the candidate who...",
+        "kk": "Салыстырмалы көпшілік мажоритарлық жүйесінде қандай кандидат жеңеді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2270",
+          "units": [
+            "p2270"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Получил больше голосов, чем каждый соперник",
+            "en": "Received more votes than each rival",
+            "kk": "Әрбір қарсыласынан көп дауыс алған"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Получил обязательно более половины всех голосов",
+            "en": "Necessarily received more than half of all votes",
+            "kk": "Барлық дауыстың міндетті түрде жартысынан астамын алған"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Возглавляет список крупнейшей партии",
+            "en": "Heads the list of the largest party",
+            "kk": "Ең ірі партияның тізімін бастаған"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Представляет округ с наибольшей явкой",
+            "en": "Represents the district with the highest turnout",
+            "kk": "Қатысу деңгейі ең жоғары округті білдіретін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Получил не менее двух третей голосов",
+            "en": "Received at least two thirds of the votes",
+            "kk": "Дауыстың кемінде үштен екісін алған"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 187,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Условие победы при мажоритарной системе абсолютного большинства...",
+        "en": "The condition for winning under an absolute majority system is...",
+        "kk": "Абсолюттік көпшілік мажоритарлық жүйесінде жеңіс шарты қандай?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2270",
+          "units": [
+            "p2270"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Любое преимущество над ближайшим соперником",
+            "en": "Any lead over the nearest rival",
+            "kk": "Жақын қарсыласынан кез келген артықшылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Не менее половины учитываемых голосов",
+            "en": "At least half of the votes counted",
+            "kk": "Есепке алынған дауыстың кемінде жартысы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Более половины учитываемых голосов",
+            "en": "More than half of the votes counted",
+            "kk": "Есепке алынған дауыстың жартысынан астамы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Не менее одной трети учитываемых голосов",
+            "en": "At least one third of the votes counted",
+            "kk": "Есепке алынған дауыстың кемінде үштен бірі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наибольшее число первых и вторых предпочтений",
+            "en": "The largest number of first and second preferences",
+            "kk": "Бірінші және екінші қалаулардың ең көп саны"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 188,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Три кандидата получили 46%, 34% и 20% голосов. Какой результат следует при системе относительного большинства?",
+        "en": "Three candidates received 46%, 34% and 20% of the votes. What is the result under a plurality system?",
+        "kk": "Үш кандидат 46%, 34% және 20% дауыс алды. Салыстырмалы көпшілік жүйесінде қандай нәтиже шығады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2270",
+          "units": [
+            "p2270"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Выборы автоматически признаются несостоявшимися",
+            "en": "The election is automatically declared invalid",
+            "kk": "Сайлау автоматты түрде өтпеді деп танылады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Мандат распределяется между тремя кандидатами",
+            "en": "The seat is divided among the three candidates",
+            "kk": "Мандат үш кандидат арасында бөлінеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Избран кандидат с 34% как компромиссный",
+            "en": "The candidate with 34% is elected as a compromise",
+            "kk": "Келісімді кандидат ретінде 34% алған кандидат сайланады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязателен второй тур двух лидеров",
+            "en": "A second round between the two leaders is mandatory",
+            "kk": "Екі көшбасшының екінші туры міндетті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Избран кандидат с 46%",
+            "en": "The candidate with 46% is elected",
+            "kk": "46% алған кандидат сайланады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 189,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "При требовании абсолютного большинства кандидаты получили 49%, 32% и 19%; иных условий победы и особых правил нет. Из этого следует, что...",
+        "en": "Under an absolute-majority requirement, the candidates received 49%, 32% and 19%; there are no other conditions for winning and no special rules. It follows that...",
+        "kk": "Абсолюттік көпшілік талап етілгенде кандидаттар 49%, 32% және 19% алды; жеңістің өзге шарттары мен арнайы ережелер жоқ. Не шығады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2270",
+          "units": [
+            "p2270"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Голоса третьего кандидата автоматически переходят первому",
+            "en": "The third candidate's votes automatically transfer to the first",
+            "kk": "Үшінші кандидаттың дауыстары автоматты түрде біріншіге ауысады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Кандидат с 32% получает компенсирующий мандат",
+            "en": "The candidate with 32% receives a compensatory seat",
+            "kk": "32% алған кандидат өтемдік мандат алады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ни один кандидат пока не выполнил условие избрания",
+            "en": "No candidate has yet met the condition for election",
+            "kk": "Ешбір кандидат әзірге сайлану шартын орындаған жоқ"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Кандидат с 49% уже избран",
+            "en": "The candidate with 49% is already elected",
+            "kk": "49% алған кандидат сайланды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Мандат делится пропорционально голосам",
+            "en": "The seat is divided in proportion to the votes",
+            "kk": "Мандат дауыстарға пропорционалды бөлінеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 190,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Определяющий принцип пропорциональной избирательной системы...",
+        "en": "The defining principle of a proportional electoral system is...",
+        "kk": "Пропорционалды сайлау жүйесінің айқындаушы қағидаты қандай?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2277",
+          "units": [
+            "p2277"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Распределение мест по площади территорий",
+            "en": "Distributing seats by the area of territories",
+            "kk": "Орындарды аумақтардың ауданына қарай бөлу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обязательное получение каждым депутатом абсолютного большинства",
+            "en": "The mandatory receipt by each deputy of an absolute majority",
+            "kk": "Әрбір депутаттың абсолюттік көпшілікті міндетті түрде алуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Победа одного кандидата в каждом округе",
+            "en": "The victory of one candidate in each district",
+            "kk": "Әрбір округте бір кандидаттың жеңуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Распределение мандатов сообразно голосам за списки",
+            "en": "The distribution of seats in accordance with the votes for lists",
+            "kk": "Мандаттарды тізімдерге берілген дауыстарға сәйкес бөлу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Передача мандатов пропорционально числу партийных руководителей",
+            "en": "The transfer of seats in proportion to the number of party leaders",
+            "kk": "Мандаттарды партия басшыларының санына пропорционалды беру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 191,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Преимущество, которое обычно связывают с одномандатной мажоритарной системой, —...",
+        "en": "The advantage usually associated with the single-member majoritarian system is...",
+        "kk": "Бір мандатты мажоритарлық жүйемен әдетте байланыстырылатын артықшылық..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2271",
+          "units": [
+            "p2271"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отсутствие зависимости результата от границ округов",
+            "en": "The result's independence from district boundaries",
+            "kk": "Нәтиженің округтердің шекарасына тәуелсіздігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Точное совпадение долей голосов и мандатов всех партий",
+            "en": "An exact match between the shares of votes and seats for all parties",
+            "kk": "Барлық партиялардың дауыстары мен мандаттарының үлестерінің нақты сәйкес келуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Более непосредственная связь депутата с избирателями округа",
+            "en": "A more direct link between the deputy and the voters of the district",
+            "kk": "Депутаттың округ сайлаушыларымен неғұрлым тікелей байланысы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Гарантированное представительство каждой малой партии",
+            "en": "Guaranteed representation of every small party",
+            "kk": "Әрбір шағын партияның кепілдендірілген өкілдігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательная многопартийная правительственная коалиция",
+            "en": "A mandatory multiparty governing coalition",
+            "kk": "Көппартиялы үкіметтік коалицияның міндеттілігі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 192,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почему партия может выиграть больше округов, получив меньше голосов по стране?",
+        "en": "Why can a party win more districts while receiving fewer votes nationwide?",
+        "kk": "Партия ел бойынша аз дауыс алып, неліктен көбірек округте жеңе алады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2272",
+          "units": [
+            "p2272"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Потому что общенациональный подсчёт заменяет результаты округов",
+            "en": "Because the national count replaces the district results",
+            "kk": "Жалпыұлттық санау округтердің нәтижелерін алмастыратындықтан"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Из-за автоматической передачи голосов проигравших победителю",
+            "en": "Because of the automatic transfer of the losers' votes to the winner",
+            "kk": "Жеңілген кандидаттардың дауыстарының жеңімпазға автоматты түрде берілуіне байланысты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Из-за различий территориального распределения поддержки",
+            "en": "Because of differences in the territorial distribution of support",
+            "kk": "Қолдаудың аумақтық таралуындағы айырмашылықтарға байланысты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Из-за обязательной пропорциональной компенсации всех голосов",
+            "en": "Because of the mandatory proportional compensation of all votes",
+            "kk": "Барлық дауыстарды міндетті пропорционалды өтеуге байланысты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Потому что каждый голос имеет заранее разный вес по закону",
+            "en": "Because each vote has a different weight set in advance by law",
+            "kk": "Әрбір дауыстың заң бойынша алдын ала әртүрлі салмағы болатындықтан"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 193,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Преднамеренное изменение границ округов ради выгодного партийного результата называется...",
+        "en": "The deliberate alteration of district boundaries to obtain a favorable party result is called...",
+        "kk": "Партиялық нәтижені тиімді ету үшін округтер шекарасын әдейі өзгерту қалай аталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2273",
+          "units": [
+            "p2273"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Легитимацией",
+            "en": "Legitimation",
+            "kk": "Легитимациялау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Абсентеизмом",
+            "en": "Absenteeism",
+            "kk": "Абсентеизм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Панашированием",
+            "en": "Panachage",
+            "kk": "Панашаж"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Джерримендерингом",
+            "en": "Gerrymandering",
+            "kk": "Джерримендеринг"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Кооптацией",
+            "en": "Co-optation",
+            "kk": "Кооптация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 194,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "В условном едином округе распределяется 100 мест без барьера и округления. Списки получили 40%, 35% и 25%. Число мест второго списка равно...",
+        "en": "In a hypothetical single nationwide district, 100 seats are distributed with no threshold and no rounding. The lists received 40%, 35% and 25%. The number of seats the second list receives is...",
+        "kk": "Шартты бірыңғай округте 100 орын тосқауыл шегінсіз және дөңгелектеусіз бөлінеді. Тізімдер 40%, 35% және 25% алды. Екінші тізімге тиесілі орын саны..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2277",
+          "units": [
+            "p2277"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "40",
+            "en": "40",
+            "kk": "40"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "25",
+            "en": "25",
+            "kk": "25"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "50",
+            "en": "50",
+            "kk": "50"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "34",
+            "en": "34",
+            "kk": "34"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "35",
+            "en": "35",
+            "kk": "35"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 195,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Заградительный барьер вводится прежде всего для...",
+        "en": "An electoral threshold is introduced primarily in order to...",
+        "kk": "Тосқауыл шегі ең алдымен не үшін енгізіледі?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2279",
+          "units": [
+            "p2279"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обеспечения точного представительства каждой малой группы",
+            "en": "Ensure the exact representation of every small group",
+            "kk": "Әрбір шағын топтың нақты өкілдігін қамтамасыз ету үшін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Устранения всех партийных коалиций",
+            "en": "Eliminate all party coalitions",
+            "kk": "Барлық партиялық коалицияларды жою үшін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Замены голосования назначением депутатов",
+            "en": "Replace voting with the appointment of deputies",
+            "kk": "Дауыс беруді депутаттарды тағайындаумен алмастыру үшін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ограничения чрезмерной фрагментации представительного органа",
+            "en": "Limit excessive fragmentation of the representative body",
+            "kk": "Өкілді органның шамадан тыс бытыраңқылығын шектеу үшін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Увеличения числа независимых кандидатов",
+            "en": "Increase the number of independent candidates",
+            "kk": "Тәуелсіз кандидаттардың санын арттыру үшін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 196,
+      "topic_id": 9,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "В условной системе 100 мест, барьер 5%, голоса 50%, 30%, 16%, 4%. Места делят пропорционально только между преодолевшими барьер. Доля второй партии до округления равна...",
+        "en": "In a hypothetical system with 100 seats, a 5% threshold and votes of 50%, 30%, 16% and 4%, seats are divided proportionally only among the parties that cleared the threshold. The second party's share of seats before rounding is...",
+        "kk": "Шартты жүйеде 100 орын, тосқауыл шегі 5%, дауыстар 50%, 30%, 16%, 4%. Орындар тек тосқауыл шегінен өткендердің арасында пропорционалды бөлінеді. Екінші партияның дөңгелектеуге дейінгі үлесі неге тең?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2277",
+          "units": [
+            "p2277"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2279",
+          "units": [
+            "p2279"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "33,33% мандатов",
+            "en": "33.33% of the seats",
+            "kk": "33,33% мандат"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "31,25% мандатов",
+            "en": "31.25% of the seats",
+            "kk": "31,25% мандат"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "34% мандатов",
+            "en": "34% of the seats",
+            "kk": "34% мандат"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "30% мандатов",
+            "en": "30% of the seats",
+            "kk": "30% мандат"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "28,8% мандатов",
+            "en": "28.8% of the seats",
+            "kk": "28,8% мандат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 197,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "При жёстком партийном списке очередность получения мандатов определяется...",
+        "en": "Under a closed (rigid) party list, the order in which seats are awarded is determined by...",
+        "kk": "Қатаң партиялық тізім кезінде мандаттарды алу кезектілігі немен айқындалады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2281",
+          "units": [
+            "p2281"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Решением избирателей отдельного одномандатного округа",
+            "en": "The decision of the voters of an individual single-member district",
+            "kk": "Жеке бір мандатты округ сайлаушыларының шешімімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Возрастом кандидатов после подсчёта голосов",
+            "en": "The age of the candidates after the votes are counted",
+            "kk": "Дауыс санағаннан кейін кандидаттардың жасымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Порядком кандидатов, установленным в списке",
+            "en": "The order of candidates established in the list",
+            "kk": "Тізімде белгіленген кандидаттар тәртібімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Числом личных преференций каждому кандидату",
+            "en": "The number of personal preferences for each candidate",
+            "kk": "Әрбір кандидатқа берілген жеке преференциялар санымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Жребием между всеми кандидатами",
+            "en": "A draw among all the candidates",
+            "kk": "Барлық кандидаттар арасындағы жеребемен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 198,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "При свободном списке в описанной типологии распределение мест между кандидатами зависит от...",
+        "en": "Under a free (open) list in the typology described, the distribution of seats among candidates depends on...",
+        "kk": "Сипатталған типологиядағы еркін тізім кезінде орындардың кандидаттар арасында бөлінуі неге байланысты?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2281",
+          "units": [
+            "p2281"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Неизменного места, заранее заданного партийным аппаратом",
+            "en": "A fixed position set in advance by the party apparatus",
+            "kk": "Партиялық аппарат алдын ала белгілеген өзгермейтін орынға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Индивидуальных преференций избирателей",
+            "en": "The individual preferences of the voters",
+            "kk": "Сайлаушылардың жеке преференцияларына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Площади территории происхождения кандидата",
+            "en": "The area of the candidate's home territory",
+            "kk": "Кандидаттың шыққан аумағының ауданына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Стажа партийного членства каждого кандидата",
+            "en": "Each candidate's length of party membership",
+            "kk": "Әрбір кандидаттың партиялық мүшелік еңбек өтіліне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательного преимущества только главы списка",
+            "en": "The mandatory advantage of the head of the list alone",
+            "kk": "Тек тізім басшысының міндетті артықшылығына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 199,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Полужёсткий список от свободного отличает...",
+        "en": "A semi-closed list is distinguished from a free one by...",
+        "kk": "Жартылай қатаң тізімді еркін тізімнен ерекшелейтіні..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2281",
+          "units": [
+            "p2281"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гарантированное получение мандата кандидатом во главе списка",
+            "en": "The guaranteed receipt of a seat by the candidate at the top of the list",
+            "kk": "Тізімнің басында тұрған кандидаттың мандатты кепілдікпен алуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Распределение мест только по жребию",
+            "en": "The distribution of seats only by lot",
+            "kk": "Орындарды тек жеребе бойынша бөлу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Запрет выражать преференции другим кандидатам",
+            "en": "A ban on expressing preferences for other candidates",
+            "kk": "Басқа кандидаттарға преференция білдіруге тыйым салу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Отсутствие голосования за партийный список",
+            "en": "The absence of voting for a party list",
+            "kk": "Партиялық тізімге дауыс берудің болмауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обязательное избрание всех кандидатов списка",
+            "en": "The mandatory election of all candidates on the list",
+            "kk": "Тізімнің барлық кандидаттарының міндетті түрде сайлануы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": 200,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Смешанная избирательная система сочетает элементы...",
+        "en": "A mixed electoral system combines elements of...",
+        "kk": "Аралас сайлау жүйесі қандай элементтерді ұштастырады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2283",
+          "units": [
+            "p2283"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гильдейского и номенклатурного отбора",
+            "en": "Guild and nomenklatura selection",
+            "kk": "Гильдиялық және номенклатуралық іріктеуді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Федерации и конфедерации",
+            "en": "Federation and confederation",
+            "kk": "Федерация мен конфедерацияны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Мажоритарной и пропорциональной систем",
+            "en": "Majoritarian and proportional systems",
+            "kk": "Мажоритарлық және пропорционалды жүйелерді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Прямого и наследственного правления",
+            "en": "Direct and hereditary rule",
+            "kk": "Тікелей және мұрагерлік басқаруды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Традиционной и харизматической легитимности",
+            "en": "Traditional and charismatic legitimacy",
+            "kk": "Дәстүрлі және харизмалық легитимділікті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": 201,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В описанной балльной модели консенсусного выбора избиратель...",
+        "en": "In the described points-based model of consensus choice, the voter...",
+        "kk": "Консенсусты таңдаудың сипатталған балдық моделінде сайлаушы не істейді?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2284",
+          "units": [
+            "p2284"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Голосует исключительно против всех",
+            "en": "Votes exclusively against everyone",
+            "kk": "Барлығына қарсы ғана дауыс береді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отмечает только одного кандидата",
+            "en": "Marks only one candidate",
+            "kk": "Тек бір кандидатты белгілейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Передаёт голос победителю первого тура",
+            "en": "Transfers the vote to the winner of the first round",
+            "kk": "Дауысты бірінші турдың жеңімпазына береді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ранжирует всех кандидатов по предпочтительности",
+            "en": "Ranks all the candidates by preference",
+            "kk": "Барлық кандидаттарды қалау дәрежесі бойынша саралайды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Выбирает только партийную программу без кандидатов",
+            "en": "Chooses only a party program without candidates",
+            "kk": "Кандидатсыз тек партиялық бағдарламаны таңдайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 202,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "В условной балльной модели пять кандидатов получают за места от первого до пятого 5, 4, 3, 2, 1 балл. Кандидат у трёх избирателей занял места 1, 3 и 5. Его сумма...",
+        "en": "In a hypothetical points-based model, five candidates receive 5, 4, 3, 2 and 1 points for first through fifth place. A candidate was ranked 1st, 3rd and 5th by three voters. His total is...",
+        "kk": "Шартты балдық модельде бес кандидат бірінші орыннан бесінші орынға дейінгі орындар үшін 5, 4, 3, 2, 1 балл алады. Кандидат үш сайлаушыда 1, 3 және 5 орын алды. Оның сомасы қандай?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2284",
+          "units": [
+            "p2284"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "8 баллов",
+            "en": "8 points",
+            "kk": "8 балл"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "10 баллов",
+            "en": "10 points",
+            "kk": "10 балл"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "12 баллов",
+            "en": "12 points",
+            "kk": "12 балл"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "9 баллов",
+            "en": "9 points",
+            "kk": "9 балл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "11 баллов",
+            "en": "11 points",
+            "kk": "11 балл"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 203,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите действия, входящие в избирательный процесс.",
+        "en": "Indicate the actions that are part of the electoral process.",
+        "kk": "Сайлау үдерісіне кіретін әрекеттерді көрсетіңіз."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2287",
+          "units": [
+            "p2287"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Составление публичного рейтинга личного авторитета будущих депутатов",
+            "en": "Compiling a public rating of the personal authority of future deputies",
+            "kk": "Болашақ депутаттардың жеке беделінің жария рейтингін жасау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Выдвижение и регистрация кандидатов",
+            "en": "Nomination and registration of candidates",
+            "kk": "Кандидаттарды ұсыну және тіркеу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Предвыборная агитация",
+            "en": "Election campaigning",
+            "kk": "Сайлау алдындағы үгіт"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Согласование назначения депутатов действующими руководителями партий",
+            "en": "Agreeing on the appointment of deputies with the incumbent party leaders",
+            "kk": "Депутаттарды тағайындауды партиялардың қолданыстағы басшыларымен келісу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Голосование и подведение итогов",
+            "en": "Voting and tabulation of results",
+            "kk": "Дауыс беру және қорытындыларды шығару"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C",
+        "E"
+      ]
+    },
+    {
+      "id": 204,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Демократический характер организации выборов обеспечивают:",
+        "en": "Conditions that ensure the democratic character of the organization of elections:",
+        "kk": "Сайлауды ұйымдастырудың демократиялық сипатын қамтамасыз ететін жағдайлар:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2292",
+          "units": [
+            "p2292"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2294-2295",
+          "units": [
+            "p2294",
+            "p2295"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Регистрация кандидатов в зависимости от согласования их программ исполнительной властью",
+            "en": "Registration of candidates conditional on the executive branch approving their programs",
+            "kk": "Кандидаттарды тіркеу олардың бағдарламаларын атқарушы биліктің келісуіне байланысты болуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Беспристрастные органы управления выборами",
+            "en": "Impartial election management bodies",
+            "kk": "Сайлауды басқарудың бейтарап органдары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Рассмотрение жалоб органом, чьи решения обжалуются, без независимого контроля",
+            "en": "Review of complaints by the very body whose decisions are being appealed, without independent oversight",
+            "kk": "Шешімдеріне шағым жасалатын орган шағымдарды тәуелсіз бақылаусыз қарауы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Недискриминационная регистрация избирателей",
+            "en": "Non-discriminatory voter registration",
+            "kk": "Сайлаушыларды кемсітусіз тіркеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Независимое рассмотрение избирательных споров",
+            "en": "Independent adjudication of electoral disputes",
+            "kk": "Сайлау дауларын тәуелсіз қарау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ]
+    },
+    {
+      "id": 205,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Всем партиям разрешено выдвижение, но доступ к основным каналам агитации имеет только одна. Какое условие нарушено?",
+        "en": "All parties are allowed to nominate candidates, but only one has access to the main channels of campaigning. Which condition has been violated?",
+        "kk": "Барлық партияларға үміткер ұсынуға рұқсат етілген, бірақ негізгі үгіт арналарына тек біреуінің қолжетімділігі бар. Қандай шарт бұзылған?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2306",
+          "units": [
+            "p2306"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Требование территориальной организации государства",
+            "en": "The requirement of the territorial organization of the state",
+            "kk": "Мемлекеттің аумақтық ұйымдастырылу талабы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Справедливое распределение ресурсов избирательной кампании",
+            "en": "A fair distribution of election campaign resources",
+            "kk": "Сайлау науқаны ресурстарын әділ бөлу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Принцип наследственной легитимности",
+            "en": "The principle of hereditary legitimacy",
+            "kk": "Мұрагерлік легитимділік қағидаты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Принцип двухступенчатого голосования",
+            "en": "The principle of two-stage voting",
+            "kk": "Екі сатылы дауыс беру қағидаты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Право на обязательное абсолютное большинство",
+            "en": "The right to a mandatory absolute majority",
+            "kk": "Міндетті абсолюттік көпшілік құқығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": 206,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Риски, связанные с мажоритарной системой:",
+        "en": "Risks associated with the majoritarian system:",
+        "kk": "Мажоритарлық жүйемен байланысты тәуекелдер:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2271-2275",
+          "units": [
+            "p2271",
+            "p2272",
+            "p2273",
+            "p2274",
+            "p2275"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Уязвимость к манипуляции границами округов",
+            "en": "Vulnerability to manipulation of district boundaries",
+            "kk": "Округтердің шекарасын манипуляциялауға осалдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ослабление ориентации депутата на локальные интересы своего округа",
+            "en": "A weakening of the deputy's orientation to the local interests of the district",
+            "kk": "Депутаттың өз округінің жергілікті мүдделеріне бағдарлануының әлсіреуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Более точное пропорциональное представительство малых партий в масштабе страны",
+            "en": "More accurate proportional representation of small parties nationwide",
+            "kk": "Шағын партиялардың ел көлемінде неғұрлым дәл пропорционалды өкілдігі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Искажение соотношения голосов и мандатов",
+            "en": "Distortion of the ratio of votes to seats",
+            "kk": "Дауыстар мен мандаттар арақатынасының бұрмалануы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Снижение значения территориальной концентрации партийной поддержки",
+            "en": "A reduction in the importance of the territorial concentration of party support",
+            "kk": "Партиялық қолдаудың аумақтық шоғырлануының маңызының төмендеуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "id": 207,
+      "topic_id": 9,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные утверждения о пропорциональном представительстве:",
+        "en": "Correct statements about proportional representation:",
+        "kk": "Пропорционалды өкілдік туралы дұрыс тұжырымдар:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2277-2280",
+          "units": [
+            "p2277",
+            "p2278",
+            "p2279",
+            "p2280"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Заградительный барьер ограничивает доступ малых партий",
+            "en": "An electoral threshold restricts the access of small parties",
+            "kk": "Тосқауыл шегі шағын партиялардың қолжетімділігін шектейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Избирательный барьер повышает представительность партий, не получивших установленного минимума",
+            "en": "An electoral threshold increases the representation of parties that did not reach the established minimum",
+            "kk": "Сайлау тосқауылы белгіленген минимумды алмаған партиялардың өкілдігін арттырады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Мандаты распределяются по числу выигранных одномандатных округов",
+            "en": "Seats are allocated according to the number of single-member districts won",
+            "kk": "Мандаттар жеңіп алынған бір мандатты округтер санына қарай бөлінеді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Оно позволяет точнее учитывать разнообразие партийных предпочтений",
+            "en": "It makes it possible to reflect the diversity of party preferences more accurately",
+            "kk": "Ол партиялық қалаулардың алуан түрлілігін дәлірек ескеруге мүмкіндік береді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Места каждого кандидата в списке определяются независимо от принятой модели списка",
+            "en": "The seats of each candidate on the list are determined independently of the list model adopted",
+            "kk": "Тізімдегі әрбір кандидаттың орындары қабылданған тізім моделіне қарамастан тәуелсіз айқындалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "id": 208,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Стадия агитационной кампании в описанной последовательности начинается после...",
+        "en": "The campaign stage in the described sequence begins after...",
+        "kk": "Сипатталған реттілікте үгіт науқаны сатысы неден кейін басталады?"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2302",
+          "units": [
+            "p2302"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Роспуска избирательных комиссий",
+            "en": "The dissolution of the election commissions",
+            "kk": "Сайлау комиссияларын таратудан"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Подведения окончательных итогов",
+            "en": "The announcement of the final results",
+            "kk": "Түпкілікті қорытындыларды шығарудан"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Формирования нового правительства",
+            "en": "The formation of the new government",
+            "kk": "Жаңа үкіметті құрудан"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Регистрации кандидатов",
+            "en": "The registration of candidates",
+            "kk": "Кандидаттарды тіркеуден"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Вступления депутатов в должность",
+            "en": "The deputies' assumption of office",
+            "kk": "Депутаттардың қызметіне кірісуінен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": 209,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Наблюдение необходимо и после завершения голосования, потому что...",
+        "en": "Observation is necessary after voting has ended as well because...",
+        "kk": "Бақылау дауыс беру аяқталғаннан кейін де қажет, өйткені..."
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2310-2311",
+          "units": [
+            "p2310",
+            "p2311"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Голосование автоматически отменяется после закрытия участков",
+            "en": "Voting is automatically canceled after the polling stations close",
+            "kk": "Учаскелер жабылғаннан кейін дауыс беру автоматты түрде жойылады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Именно наблюдатели распределяют мандаты по своему усмотрению",
+            "en": "The observers themselves distribute the seats at their discretion",
+            "kk": "Мандаттарды дәл бақылаушылар өз қалауы бойынша бөледі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Избиратели обязаны публично раскрыть свой выбор",
+            "en": "Voters are obliged to disclose their choice publicly",
+            "kk": "Сайлаушылар өз таңдауын жария ашуға міндетті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Наблюдение заменяет юридическую процедуру подсчёта",
+            "en": "Observation replaces the legal procedure for counting votes",
+            "kk": "Бақылау санаудың заңдық рәсімін алмастырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Фальсификация возможна при подсчёте и передаче результатов",
+            "en": "Falsification is possible during the counting and transmission of results",
+            "kk": "Санау және нәтижелерді жеткізу кезінде жалғандық мүмкін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ]
+    },
+    {
+      "id": 210,
+      "topic_id": 9,
+      "difficulty_level": 4,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия между правилом и системой:",
+        "en": "Correct correspondences between a rule and a system:",
+        "kk": "Ереже мен жүйе арасындағы дұрыс сәйкестіктер:"
+      },
+      "source_references": [
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2270",
+          "units": [
+            "p2270"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2277",
+          "units": [
+            "p2277"
+          ]
+        },
+        {
+          "source_id": "T",
+          "file": "Лекции/Vvedenie_v_politologiyu_Pugachev_V_P_Solovyev_A (3).doc",
+          "location": "Абзац 2283",
+          "units": [
+            "p2283"
+          ]
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Распределение мест сообразно голосам за списки: пропорциональная",
+            "en": "Distribution of seats in accordance with votes for lists: proportional",
+            "kk": "Орындарды тізімдерге берілген дауыстарға сәйкес бөлу: пропорционалды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Распределение мест пропорционально числу побед в округах: списочная пропорциональная",
+            "en": "Distribution of seats in proportion to the number of district victories: list proportional",
+            "kk": "Орындарды округтердегі жеңістер санына пропорционалды бөлу: тізімдік пропорционалды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Победа при наибольшем числе голосов в округе: относительное большинство",
+            "en": "Winning with the largest number of votes in a district: plurality",
+            "kk": "Округте ең көп дауыс алғанда жеңу: салыстырмалы көпшілік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сочетание окружного и списочного избрания: смешанная",
+            "en": "A combination of district and list election: mixed",
+            "kk": "Округтік және тізімдік сайлауды ұштастыру: аралас"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Фиксированная последовательность кандидатов партийного списка: мажоритарная",
+            "en": "A fixed order of the candidates on a party list: majoritarian",
+            "kk": "Партиялық тізім кандидаттарының бекітілген реттілігі: мажоритарлық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ]
+    }
+  ]
+}

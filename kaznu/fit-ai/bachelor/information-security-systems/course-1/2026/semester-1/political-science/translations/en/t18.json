@@ -1,0 +1,108 @@
+{
+  "bank": "kaznu/political-science",
+  "locale": "en",
+  "topic_id": 18,
+  "topic_name": "International Organizations and Kazakhstan's Cooperation",
+  "questions": {
+    "341": {
+      "question": "In which month and year did Kazakhstan join the United Nations?",
+      "options": {
+        "A": "March 1992",
+        "B": "January 1992",
+        "C": "December 1991",
+        "D": "May 1992",
+        "E": "September 1993"
+      }
+    },
+    "342": {
+      "question": "The Eurasian Economic Community (EurAsEC) was established in...",
+      "options": {
+        "A": "1995",
+        "B": "1991",
+        "C": "2000",
+        "D": "2001",
+        "E": "2007"
+      }
+    },
+    "343": {
+      "question": "Documents on forming a single customs territory and a Customs Union were signed in Dushanbe in October 2007 by:",
+      "options": {
+        "A": "Belarus, Kazakhstan and Russia",
+        "B": "Kazakhstan, China and Russia",
+        "C": "Belarus, Ukraine and Russia",
+        "D": "Kazakhstan, Kyrgyzstan and Tajikistan",
+        "E": "Russia, Uzbekistan and Kazakhstan"
+      }
+    },
+    "344": {
+      "question": "The Collective Security Treaty of May 1992 was signed...",
+      "options": {
+        "A": "In Bishkek",
+        "B": "In Minsk",
+        "C": "In Dushanbe",
+        "D": "In Tashkent",
+        "E": "In Almaty"
+      }
+    },
+    "345": {
+      "question": "Areas of Kazakhstan's cooperation with the OSCE in the mid-2000s model described:",
+      "options": {
+        "A": "A single issuing policy of the central bank",
+        "B": "Democracy and human rights",
+        "C": "Coordinating the binding dogmas of religious organizations",
+        "D": "Politics and security",
+        "E": "Economy and ecology"
+      }
+    },
+    "346": {
+      "question": "The states of CICA accepted the implementation of the Catalogue of Confidence-Building Measures in the mid-2000s on the principle of...",
+      "options": {
+        "A": "Voluntariness",
+        "B": "Automatic military intervention",
+        "C": "Supranational coercion",
+        "D": "The exclusive decision of an outside arbiter",
+        "E": "The mandatory transfer of sovereignty"
+      }
+    },
+    "347": {
+      "question": "When did Kazakhstan sign the framework document of NATO's Partnership for Peace program?",
+      "options": {
+        "A": "December 23, 2002",
+        "B": "August 16, 2007",
+        "C": "May 15, 1992",
+        "D": "March 2, 1992",
+        "E": "May 27, 1994"
+      }
+    },
+    "348": {
+      "question": "Financial institutions in the structure of international cooperation include...",
+      "options": {
+        "A": "UNICEF",
+        "B": "The International Monetary Fund",
+        "C": "UNESCO",
+        "D": "The Office of the UN High Commissioner for Refugees",
+        "E": "The European Bank for Reconstruction and Development"
+      }
+    },
+    "349": {
+      "question": "The sequence of economic integration proposed by Kazakhstan for Central Asia in the mid-2000s:",
+      "options": {
+        "A": "Single economic space → customs union → free trade zone",
+        "B": "Customs union → free trade zone → single economic space",
+        "C": "Single economic space → free trade zone → customs union",
+        "D": "Free trade zone → single economic space → customs union",
+        "E": "Free trade zone → customs union → single economic space"
+      }
+    },
+    "350": {
+      "question": "Indicate the correct correspondences between organizations and areas of cooperation.",
+      "options": {
+        "A": "CICA: developing confidence-building measures in Asia",
+        "B": "SCO: multilateral cooperation in the spheres of security and development",
+        "C": "CSTO: collective security",
+        "D": "EurAsEC: a collective military-political command",
+        "E": "OSCE: providing stabilization loans to central banks"
+      }
+    }
+  }
+}

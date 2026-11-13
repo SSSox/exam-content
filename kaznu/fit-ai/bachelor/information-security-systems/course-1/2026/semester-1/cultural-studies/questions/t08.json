@@ -1,0 +1,1646 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/cultural-studies",
+  "questions": [
+    {
+      "id": 176,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "В культурологическом определении священное отличается от сверхъестественного вообще...",
+        "en": "In the cultural-studies definition, the sacred differs from the supernatural in general...",
+        "kk": "Мәдениеттанулық анықтамада қасиетті жалпы табиғаттан тыстан мынамен ерекшеленеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отсутствием эмоционального отношения",
+            "en": "By the absence of an emotional attitude",
+            "kk": "Эмоциялық қатынастың болмауымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обязательной доступностью экспериментальной проверке",
+            "en": "By obligatory accessibility to experimental verification",
+            "kk": "Эксперименттік тексеруге міндетті түрде қолжетімділікпен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Признанием его безусловной ценности для человека",
+            "en": "By the recognition of its unconditional value for the human being",
+            "kk": "Оның адам үшін шартсыз құндылығын мойындаумен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Принадлежностью исключительно природному порядку",
+            "en": "By belonging exclusively to the natural order",
+            "kk": "Тек табиғи тәртіпке жатуымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Совпадением с любой необычной случайностью",
+            "en": "By coinciding with any unusual coincidence",
+            "kk": "Кез келген ерекше кездейсоқтықпен сәйкес келуімен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 6",
+          "units": [
+            "p6"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 177,
+      "topic_id": 8,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "В структуру зрелой религии входят:",
+        "en": "The structure of a mature religion includes:",
+        "kk": "Жетілген діннің құрылымына мыналар кіреді:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Культ",
+            "en": "Cult",
+            "kk": "Культ"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Религиозно-нравственные нормы",
+            "en": "Religious and moral norms",
+            "kk": "Діни-адамгершілік нормалар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Конститутивное отрицание сакрального",
+            "en": "The constitutive denial of the sacred",
+            "kk": "Қасиеттіні конститутивті жоққа шығару"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательная этническая замкнутость",
+            "en": "Obligatory ethnic exclusiveness",
+            "kk": "Міндетті этникалық тұйықтық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Догматика",
+            "en": "Doctrine (dogmatics)",
+            "kk": "Догматика"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 7",
+          "units": [
+            "p7"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 178,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понимание религии как восстановления утраченной связи человека с Богом связано с...",
+        "en": "The understanding of religion as the restoration of a person's lost link with God is associated with...",
+        "kk": "Дінді адамның Құдаймен жоғалған байланысын қалпына келтіру ретінде түсіну кіммен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "А. Менем",
+            "en": "A. Men",
+            "kk": "А. Мень"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Э. Фроммом",
+            "en": "E. Fromm",
+            "kk": "Э. Фромм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "У. Джемсом",
+            "en": "W. James",
+            "kk": "У. Джеймс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Т. Гоббсом",
+            "en": "T. Hobbes",
+            "kk": "Т. Гоббс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ф. Бэконом",
+            "en": "F. Bacon",
+            "kk": "Ф. Бэкон"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 8",
+          "units": [
+            "p8"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 179,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Религию прежде всего как важнейшие связующие узы между людьми трактовал...",
+        "en": "The thinker who interpreted religion primarily as the most important bonds uniting people was...",
+        "kk": "Дінді ең алдымен адамдар арасындағы маңызды байланыстырушы тетік деп түсіндірген ғалым — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "К. Ясперс",
+            "en": "K. Jaspers",
+            "kk": "К. Ясперс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ф. Бэкон",
+            "en": "F. Bacon",
+            "kk": "Ф. Бэкон"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "А. Мень",
+            "en": "A. Men",
+            "kk": "А. Мень"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Л. Фейербах",
+            "en": "L. Feuerbach",
+            "kk": "Л. Фейербах"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Б. Спиноза",
+            "en": "B. Spinoza",
+            "kk": "Б. Спиноза"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 9",
+          "units": [
+            "p9"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 180,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Критика приписывания богам человеческих качеств проиллюстрирована рассуждением...",
+        "en": "The critique of attributing human qualities to the gods is illustrated by the reasoning of...",
+        "kk": "Құдайларға адами қасиеттер таңуды сынау кімнің пайымдауында көрсетілген?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Крития",
+            "en": "Critias",
+            "kk": "Критий"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Гераклита",
+            "en": "Heraclitus",
+            "kk": "Гераклит"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ксенофана",
+            "en": "Xenophanes",
+            "kk": "Ксенофан"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Анаксагора",
+            "en": "Anaxagoras",
+            "kk": "Анаксагор"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Демокрита",
+            "en": "Democritus",
+            "kk": "Демокрит"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 10",
+          "units": [
+            "p10"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 181,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Разграничение сущности религии и её земных форм в «Богословско-политическом трактате» связано с...",
+        "en": "The distinction between the essence of religion and its earthly forms in the \"Theological-Political Treatise\" is associated with...",
+        "kk": "«Теологиялық-саяси трактатта» діннің мәні мен оның жердегі нысандарын ажырату кіммен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дж. Локком",
+            "en": "J. Locke",
+            "kk": "Дж. Локк"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Р. Декартом",
+            "en": "R. Descartes",
+            "kk": "Р. Декарт"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Т. Гоббсом",
+            "en": "T. Hobbes",
+            "kk": "Т. Гоббс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Б. Спинозой",
+            "en": "B. Spinoza",
+            "kk": "Б. Спиноза"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Г. Лейбницем",
+            "en": "G. Leibniz",
+            "kk": "Г. Лейбниц"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 11",
+          "units": [
+            "p11"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 182,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Чьё понимание религии сосредоточено на её эмоциональной природе в психологическом подходе?",
+        "en": "Whose understanding of religion concentrates on its emotional nature in the psychological approach?",
+        "kk": "Психологиялық тәсілде дінді оның эмоциялық табиғатына назар аудара түсіну кімге тиесілі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "З. Фрейда",
+            "en": "S. Freud",
+            "kk": "З. Фрейд"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Т. Парсонса",
+            "en": "T. Parsons",
+            "kk": "Т. Парсонс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "У. Джемса",
+            "en": "W. James",
+            "kk": "У. Джеймс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "М. Вебера",
+            "en": "M. Weber",
+            "kk": "М. Вебер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Э. Фромма",
+            "en": "E. Fromm",
+            "kk": "Э. Фромм"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 16",
+          "units": [
+            "p16"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 183,
+      "topic_id": 8,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Назовите тенденции религии, выделяемые Э. Фроммом.",
+        "en": "Name the tendencies of religion that E. Fromm distinguishes.",
+        "kk": "Э. Фромм дінде бөліп көрсететін үрдістерді атаңыз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Кофигуративная",
+            "en": "Cofigurative",
+            "kk": "Кофигуративтік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Авторитарная",
+            "en": "Authoritarian",
+            "kk": "Авторитарлық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Постфигуративная",
+            "en": "Postfigurative",
+            "kk": "Постфигуративтік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Префигуративная",
+            "en": "Prefigurative",
+            "kk": "Префигуративтік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гуманистическая",
+            "en": "Humanistic",
+            "kk": "Гуманистік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 16",
+          "units": [
+            "p16"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 184,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что отличает богословие от простого освоения вероучения?",
+        "en": "What distinguishes theology from the simple mastery of a creed?",
+        "kk": "Теологияны сенім ілімін қарапайым игеруден не ерекшелейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Признание религиозных положений только в форме эмоций",
+            "en": "Recognizing religious propositions only in the form of emotions",
+            "kk": "Діни тұжырымдарды тек эмоция түрінде мойындау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Отказ от истолкования содержания учения",
+            "en": "Refusing to interpret the content of the teaching",
+            "kk": "Ілімнің мазмұнын түсіндіруден бас тарту"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Сведение веры к отдельным бытовым привычкам",
+            "en": "Reducing faith to certain everyday habits",
+            "kk": "Сенімді жекелеген тұрмыстық әдеттерге келтіру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключение рационального оформления представлений",
+            "en": "Excluding the rational formulation of notions",
+            "kk": "Түсініктердің парасатты нысандалуын жоққа шығару"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Передача, защита и интерпретация вероучения применительно ко времени",
+            "en": "The transmission, defence and interpretation of the creed in relation to the times",
+            "kk": "Сенім ілімін уақытқа сәйкес беру, қорғау және түсіндіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 24",
+          "units": [
+            "p24"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 185,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одухотворение природных объектов и явлений соответствует...",
+        "en": "The animation of natural objects and phenomena with spirit corresponds to...",
+        "kk": "Табиғи объектілер мен құбылыстарды жандандыру нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Фетишизму",
+            "en": "Fetishism",
+            "kk": "Фетишизмді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Деизму",
+            "en": "Deism",
+            "kk": "Деизмді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Анимизму",
+            "en": "Animism",
+            "kk": "Анимизмді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тотемизму",
+            "en": "Totemism",
+            "kk": "Тотемизмді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Идололатрии",
+            "en": "Idolatry",
+            "kk": "Идолатрияны"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 28",
+          "units": [
+            "p28"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 186,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вера в сверхъестественное родство рода с видом животного обозначается как...",
+        "en": "The belief in a supernatural kinship between a clan and an animal species is called...",
+        "kk": "Рудың жануар түрімен табиғаттан тыс туыстығына сену қалай аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Фетишизм",
+            "en": "Fetishism",
+            "kk": "Фетишизм"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Деизм",
+            "en": "Deism",
+            "kk": "Деизм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Анимизм",
+            "en": "Animism",
+            "kk": "Анимизм"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Тотемизм",
+            "en": "Totemism",
+            "kk": "Тотемизм"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Пантеизм",
+            "en": "Pantheism",
+            "kk": "Пантеизм"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 29",
+          "units": [
+            "p29"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 187,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Почитание отдельного камня как носителя таинственной силы служит примером...",
+        "en": "The veneration of a particular stone as the bearer of a mysterious power serves as an example of...",
+        "kk": "Жеке тасты жұмбақ күштің иесі ретінде қастерлеу нені көрсететін мысал?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теологического рационализма",
+            "en": "Theological rationalism",
+            "kk": "Теологиялық рационализмді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Деизма",
+            "en": "Deism",
+            "kk": "Деизмді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Тотемизма",
+            "en": "Totemism",
+            "kk": "Тотемизмді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Фетишизма",
+            "en": "Fetishism",
+            "kk": "Фетишизмді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Прамонотеизма",
+            "en": "Primitive monotheism",
+            "kk": "Прамонотеизмді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 30",
+          "units": [
+            "p30"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 188,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое уточнение существенно для понимания идолопоклонства?",
+        "en": "Which clarification is essential for understanding idolatry?",
+        "kk": "Пұтқа табынушылықты түсіну үшін қандай нақтылау маңызды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Поклонение исключает ритуальные действия",
+            "en": "Worship excludes ritual actions",
+            "kk": "Табыну ғұрыптық әрекеттерді жоққа шығарады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Почитается духовное существо, представленное идолом",
+            "en": "A spiritual being represented by the idol is venerated",
+            "kk": "Пұтпен бейнеленген рухани тіршілік иесі қастерленеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Обожествляется исключительно материал статуи",
+            "en": "Exclusively the material of the statue is deified",
+            "kk": "Тек мүсіннің материалы құдайландырылады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Идол заменяет всякую мифологию простой приметой",
+            "en": "The idol replaces any mythology with a simple omen",
+            "kk": "Пұт кез келген мифологияны қарапайым белгімен алмастырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Идол обязательно обозначает родство с животным",
+            "en": "The idol necessarily denotes kinship with an animal",
+            "kk": "Пұт міндетті түрде жануармен туыстықты білдіреді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 31",
+          "units": [
+            "p31"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 189,
+      "topic_id": 8,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Положения, входящие в Никео-Цареградский Символ веры:",
+        "en": "Propositions contained in the Nicene-Constantinopolitan Creed:",
+        "kk": "Никея-Константинополь Иман символына кіретін қағидалар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Искупительная миссия Иисуса Христа",
+            "en": "The redemptive mission of Jesus Christ",
+            "kk": "Иисус Христостың құтқарушылық миссиясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Учение о чистилище",
+            "en": "The doctrine of purgatory",
+            "kk": "Тазарту оты туралы ілім"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Будущее воздаяние и воскресение",
+            "en": "Future retribution and resurrection",
+            "kk": "Болашақтағы сый-сияпат және қайта тірілу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Триединство Бога",
+            "en": "The Trinity of God",
+            "kk": "Құдайдың үшбірлігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непогрешимость Папы в вопросах веры",
+            "en": "The infallibility of the Pope in matters of faith",
+            "kk": "Рим папасының сенім мәселелеріндегі қателеспеуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 35",
+          "units": [
+            "p35"
+          ]
+        },
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 37",
+          "units": [
+            "p37"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 190,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Пара соборов, связанная с утверждением Символа веры, — это...",
+        "en": "The pair of councils associated with the adoption of the Creed is...",
+        "kk": "Иман символын бекітумен байланысты соборлар жұбы — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Халкидонский 451 г. и Константинопольский 680 г.",
+            "en": "Chalcedon in 451 and Constantinople in 680",
+            "kk": "451 жылғы Халкидон және 680 жылғы Константинополь"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Никейский 325 г. и Константинопольский 381 г.",
+            "en": "Nicaea in 325 and Constantinople in 381",
+            "kk": "325 жылғы Никея және 381 жылғы Константинополь"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Константинопольский 553 г. и Никейский 787 г.",
+            "en": "Constantinople in 553 and Nicaea in 787",
+            "kk": "553 жылғы Константинополь және 787 жылғы Никея"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эфесский 431 г. и Халкидонский 451 г.",
+            "en": "Ephesus in 431 and Chalcedon in 451",
+            "kk": "431 жылғы Эфес және 451 жылғы Халкидон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Никейский 381 г. и Константинопольский 325 г.",
+            "en": "Nicaea in 381 and Constantinople in 325",
+            "kk": "381 жылғы Никея және 325 жылғы Константинополь"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 37",
+          "units": [
+            "p37"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 191,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Событие христианской истории, датированное 1054 годом, — это...",
+        "en": "The event of Christian history dated to 1054 is...",
+        "kk": "1054 жылға жататын христиан тарихының оқиғасы — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Утверждение Трипитаки",
+            "en": "The establishment of the Tripitaka",
+            "kk": "Трипитаканың бекітілуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Первый Никейский собор",
+            "en": "The First Council of Nicaea",
+            "kk": "Бірінші Никея соборы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Начало европейской Реформации",
+            "en": "The beginning of the European Reformation",
+            "kk": "Еуропалық Реформацияның басталуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Окончательный разрыв западной и восточной церквей",
+            "en": "The final break between the Western and Eastern churches",
+            "kk": "Батыс және шығыс шіркеулерінің түпкілікті бөлінуі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Признание независимости всех автокефальных церквей",
+            "en": "The recognition of the independence of all autocephalous churches",
+            "kk": "Барлық автокефалды шіркеулердің тәуелсіздігінің мойындалуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 39",
+          "units": [
+            "p39"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 192,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Филиокве» в католической догматике — это...",
+        "en": "The \"filioque\" in Catholic doctrine is...",
+        "kk": "Католиктік догматикадағы «филиокве» — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Непогрешимость Папы в вопросах веры",
+            "en": "The infallibility of the Pope in matters of faith",
+            "kk": "Рим папасының сенім мәселелеріндегі қателеспеуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Признание существования чистилища",
+            "en": "The acknowledgement of the existence of purgatory",
+            "kk": "Тазарту отының бар екенін мойындау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Исхождение Святого Духа от Отца и Сына",
+            "en": "The procession of the Holy Spirit from the Father and the Son",
+            "kk": "Киелі Рухтың Әкеден және Ұлдан шығуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Учение о священстве всех верующих",
+            "en": "The doctrine of the priesthood of all believers",
+            "kk": "Барлық сенушілердің діни қызметші болуы туралы ілім"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Непорочное зачатие Девы Марии",
+            "en": "The Immaculate Conception of the Virgin Mary",
+            "kk": "Қыз Мәриямның күнәсіз ұрықтануы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 42",
+          "units": [
+            "p42"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 193,
+      "topic_id": 8,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Принципы, отнесённые к протестантизму:",
+        "en": "Principles assigned to Protestantism:",
+        "kk": "Протестантизмге жатқызылған қағидалар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Спасение личной верой",
+            "en": "Salvation by personal faith",
+            "kk": "Жеке сенім арқылы құтылу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обязательный примат римского епископа",
+            "en": "The obligatory primacy of the Roman bishop",
+            "kk": "Рим епископының міндетті басымдығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Учение о чистилище как обязательный догмат",
+            "en": "The doctrine of purgatory as an obligatory dogma",
+            "kk": "Тазарту оты туралы ілімнің міндетті догмат болуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Исключительный авторитет Библии",
+            "en": "The exclusive authority of the Bible",
+            "kk": "Киелі кітаптың ерекше беделі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Священство всех верующих",
+            "en": "The priesthood of all believers",
+            "kk": "Барлық сенушілердің діни қызметші болуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D",
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 43",
+          "units": [
+            "p43"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 194,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Термин «автокефальная» в характеристике православной церкви означает...",
+        "en": "The term \"autocephalous\" in the characterization of an Orthodox church means...",
+        "kk": "Православие шіркеуін сипаттаудағы «автокефалды» термині мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Независимая",
+            "en": "Independent",
+            "kk": "Тәуелсіз"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Монашеская",
+            "en": "Monastic",
+            "kk": "Монахтық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вселенская",
+            "en": "Ecumenical",
+            "kk": "Дүниежүзілік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Миссионерская",
+            "en": "Missionary",
+            "kk": "Миссионерлік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Апостольская",
+            "en": "Apostolic",
+            "kk": "Апостолдық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 41",
+          "units": [
+            "p41"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    },
+    {
+      "id": 195,
+      "topic_id": 8,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Верные соответствия мусульманских обязанностей их названиям:",
+        "en": "Correct pairings of Muslim duties and their names:",
+        "kk": "Мұсылман міндеттері мен олардың атауларының дұрыс сәйкестіктері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ураза: обязательная благотворительность",
+            "en": "Uraza (fasting): obligatory charity",
+            "kk": "Ораза: міндетті қайырымдылық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Закят: обязательная благотворительность",
+            "en": "Zakat: obligatory charity",
+            "kk": "Зекет: міндетті қайырымдылық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Хадж: паломничество в Мекку",
+            "en": "Hajj: pilgrimage to Mecca",
+            "kk": "Қажылық: Меккеге зиярат ету"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Хадж: ежедневная пятикратная молитва",
+            "en": "Hajj: the daily five-times prayer",
+            "kk": "Қажылық: күнделікті бес мезгіл намаз"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Закят: пост в месяц рамазан",
+            "en": "Zakat: fasting during the month of Ramadan",
+            "kk": "Зекет: рамазан айындағы ораза"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 44",
+          "units": [
+            "p44"
+          ]
+        }
+      ],
+      "difficulty_level": 4
+    },
+    {
+      "id": 196,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Причина страдания во второй благородной истине связывается с...",
+        "en": "The cause of suffering in the second noble truth is linked with...",
+        "kk": "Екінші асыл ақиқатта азап шегудің себебі неге байланыстырылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Желаниями и страстями",
+            "en": "Desires and passions",
+            "kk": "Тілектер мен құмарлықтарға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Утратой письменного откровения",
+            "en": "The loss of written revelation",
+            "kk": "Жазбаша аянның жоғалуына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Недостатком ритуальных жертв",
+            "en": "A shortage of ritual sacrifices",
+            "kk": "Ғұрыптық құрбандықтардың жетіспеуіне"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Нарушением сословного порядка",
+            "en": "A violation of the estate order",
+            "kk": "Сословиелік тәртіптің бұзылуына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Незнанием генеалогии предков",
+            "en": "Ignorance of the genealogy of ancestors",
+            "kk": "Ата-баба шежіресін білмеуге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 47",
+          "units": [
+            "p47"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 197,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Нирвана характеризуется прежде всего как...",
+        "en": "Nirvana is characterized primarily as...",
+        "kk": "Нирвана ең алдымен неліктен сипатталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Посмертное восстановление земных привязанностей",
+            "en": "The posthumous restoration of earthly attachments",
+            "kk": "Өлгеннен кейін жердегі байланыстардың қалпына келуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Состояние полного удовлетворения всех желаний",
+            "en": "A state of complete satisfaction of all desires",
+            "kk": "Барлық тілектердің толық қанағаттандырылу күйі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ритуальное подтверждение принадлежности к роду",
+            "en": "A ritual confirmation of belonging to a clan",
+            "kk": "Руға тиесілілікті ғұрыппен растау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Обязательное обретение политической власти",
+            "en": "The obligatory attainment of political power",
+            "kk": "Саяси билікке ие болудың міндеттілігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Преодолённость страданий и желаний",
+            "en": "The overcoming of suffering and desires",
+            "kk": "Азап пен тілектердің жеңілуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 48",
+          "units": [
+            "p48"
+          ]
+        }
+      ],
+      "difficulty_level": 2
+    },
+    {
+      "id": 198,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Принятие благородных истин в качестве личной жизненной программы соответствует ступени...",
+        "en": "The acceptance of the noble truths as a personal life programme corresponds to the stage of...",
+        "kk": "Асыл ақиқаттарды жеке өмірлік бағдарлама ретінде қабылдау қай сатыға сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Истинного сосредоточения",
+            "en": "Right concentration",
+            "kk": "Дұрыс зейін қою"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Истинного воззрения",
+            "en": "Right view",
+            "kk": "Дұрыс көзқарас"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Истинного намерения",
+            "en": "Right intention",
+            "kk": "Дұрыс ниет"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Истинного памятования",
+            "en": "Right mindfulness",
+            "kk": "Дұрыс есте ұстау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Истинного усилия",
+            "en": "Right effort",
+            "kk": "Дұрыс күш-жігер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 51",
+          "units": [
+            "p51"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 199,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Постоянное удержание мысли о преходящем характере существования относится к...",
+        "en": "Constantly holding in mind the transient character of existence belongs to...",
+        "kk": "Болмыстың өткінші екені туралы ойды үнемі ұстап тұру неге жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Истинному образу жизни",
+            "en": "Right livelihood",
+            "kk": "Дұрыс өмір салтына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Истинной речи",
+            "en": "Right speech",
+            "kk": "Дұрыс сөзге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Истинным поступкам",
+            "en": "Right action",
+            "kk": "Дұрыс істерге"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Истинному памятованию",
+            "en": "Right mindfulness",
+            "kk": "Дұрыс есте ұстауға"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Истинному намерению",
+            "en": "Right intention",
+            "kk": "Дұрыс ниетке"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 56",
+          "units": [
+            "p56"
+          ]
+        }
+      ],
+      "difficulty_level": 3
+    },
+    {
+      "id": 200,
+      "topic_id": 8,
+      "type": "single_choice",
+      "question": {
+        "ru": "Название Трипитака переводится как...",
+        "en": "The name Tripitaka is translated as...",
+        "kk": "Трипитака атауы қалай аударылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Три драгоценности",
+            "en": "Three jewels",
+            "kk": "Үш қазына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Восемь ступеней",
+            "en": "Eight steps",
+            "kk": "Сегіз саты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Три корзины",
+            "en": "Three baskets",
+            "kk": "Үш себет"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Четыре истины",
+            "en": "Four truths",
+            "kk": "Төрт ақиқат"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Большая колесница",
+            "en": "The great vehicle",
+            "kk": "Үлкен арба"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "Лекции/Лекция Религия как форма культуры.docx",
+          "location": "абзац 58",
+          "units": [
+            "p58"
+          ]
+        }
+      ],
+      "difficulty_level": 1
+    }
+  ]
+}
