@@ -1,3 +1,53 @@
+# Dependencies and build output
 node_modules/
 dist/
+build/
+out/
+target/
+coverage/
+.cache/
+.vite/
+*.tsbuildinfo
+
+# Logs and temporary files
 *.log
+npm-debug.log*
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# AI assistants and agent tooling
+.claude/
+.cursor/
+.cursorrules
+.windsurf/
+.codex/
+.gemini/
+.continue/
+.serena/
+.aider*
+.impeccable/
+graphify-out/
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+DESIGN.md
+PRODUCT.md
