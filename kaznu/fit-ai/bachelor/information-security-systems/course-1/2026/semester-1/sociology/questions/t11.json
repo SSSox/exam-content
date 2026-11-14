@@ -1,0 +1,335 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 137,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Медиаконтекст события определяется...",
+        "en": "The media context of an event is determined by...",
+        "kk": "Оқиғаның медиаконтексті мынамен айқындалады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "местом на карте, где событие произошло и было отмечено",
+            "en": "the place on the map where the event occurred and was noted",
+            "kk": "оқиға болған және белгіленген картадағы орнымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "числом непосредственных очевидцев и участников события",
+            "en": "the number of direct eyewitnesses and participants of the event",
+            "kk": "оқиғаның тікелей куәгерлері мен қатысушыларының санымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "официальной датой события в календаре памятных дат",
+            "en": "the official date of the event in the calendar of memorable dates",
+            "kk": "есте қалатын даталар күнтізбесіндегі оқиғаның ресми күнімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "стоимостью события для государственного бюджета страны",
+            "en": "the cost of the event to the country's state budget",
+            "kk": "оқиғаның елдің мемлекеттік бюджеті үшін құнымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "интерпретацией и оценкой события в массовых медиа",
+            "en": "the interpretation and evaluation of the event in the mass media",
+            "kk": "оқиғаны бұқаралық медиада түсіндірумен және бағалаумен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Медиаконтекст формируется тем, что значение событий «окрашивается» их интерпретацией и оценкой в СМИ.",
+        "en": "The media context is formed by the fact that the meaning of events is \"colored\" by their interpretation and evaluation in the media.",
+        "kk": "Медиаконтекст оқиғалардың мәнінің БАҚ-тағы түсіндірумен және бағамен «боялуынан» қалыптасады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 11 Масс-медиа.pdf",
+          "location": "строки 48–51 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Функция присвоения статуса средствами медиа означает...",
+        "en": "The status conferral function of the media means...",
+        "kk": "Медиа құралдарымен мәртебе беру функциясы — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "укрепление общепринятых норм путём публичного обличения отклонений",
+            "en": "reinforcing generally accepted norms by publicly denouncing deviations",
+            "kk": "ауытқушылықты көпшілік алдында әшкерелеу арқылы жалпыға бірдей қабылданған нормаларды нығайту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "снижение активности аудитории из-за избытка информации",
+            "en": "reduced audience activity because of an excess of information",
+            "kk": "ақпараттың артықтығынан аудиторияның белсенділігін төмендету"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "придание людям и событиям общественной значимости",
+            "en": "giving people and events public significance",
+            "kk": "адамдар мен оқиғаларды қоғамдық тұрғыдан маңызды ету"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "получение журналистами официальных должностей в органах власти",
+            "en": "journalists obtaining official posts in government bodies",
+            "kk": "журналистердің билік органдарында ресми лауазымдарға ие болуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "перевод издания из частной собственности в государственную",
+            "en": "moving a publication from private to state ownership",
+            "kk": "басылымды жеке меншіктен мемлекеттік меншікке ауыстыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "По Лазарсфельду и Мертону, внимание СМИ придаёт лицам и проблемам общественную значимость, то есть присваивает им статус.",
+        "en": "According to Lazarsfeld and Merton, media attention gives people and issues public significance, that is, it confers status on them.",
+        "kk": "Лазарсфельд пен Мертонның пайымынша, БАҚ назары тұлғалар мен мәселелерге қоғамдық маңыздылық береді, яғни оларға мәртебе тағайындайды."
+      }
+    },
+    {
+      "id": 139,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Подход к аудитории как к активной подчёркивает...",
+        "en": "The view of the audience as active emphasizes...",
+        "kk": "Аудиторияны белсенді деп қарайтын тәсіл мынаны баса көрсетеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "прямое магическое воздействие СМИ на любого зрителя и читателя",
+            "en": "the direct magical influence of the media on any viewer and reader",
+            "kk": "БАҚ-тың кез келген көрермен мен оқырманға тікелей сиқырлы әсерін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "избирательность восприятия информации разными группами",
+            "en": "the selectivity with which different groups perceive information",
+            "kk": "әртүрлі топтардың ақпаратты таңдамалы қабылдауын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "однородность аудитории как массы без собственных оценок",
+            "en": "the homogeneity of the audience as a mass without opinions of its own",
+            "kk": "аудиторияның өз бағасы жоқ масса ретіндегі біртектілігін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "единообразную реакцию аудитории на одинаковые сообщения",
+            "en": "the uniform reaction of the audience to identical messages",
+            "kk": "бірдей хабарламаларға аудиторияның бірыңғай реакциясын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "бесконтрольное принятие сообщений без их оценки зрителями",
+            "en": "the uncontrolled acceptance of messages without any evaluation by viewers",
+            "kk": "көрермендердің хабарламаларды бағаламай, бақылаусыз қабылдауын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Теория селективной экспозиции рассматривает аудиторию как активную: формы и результаты влияния СМИ различны для разных групп, и массу нельзя считать некритичной.",
+        "en": "The theory of selective exposure treats the audience as active: the forms and results of media influence differ for different groups, and the mass cannot be considered uncritical.",
+        "kk": "Таңдамалы экспозиция теориясы аудиторияны белсенді деп қарайды: БАҚ ықпалының нысандары мен нәтижелері әртүрлі топтар үшін әртүрлі, ал массаны сыни тұрғыдан ойламайтын деп санауға болмайды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 11 Масс-медиа.pdf",
+          "location": "строки 166–169 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В концепциях информационного общества особое значение придаётся...",
+        "en": "Concepts of the information society give particular importance to...",
+        "kk": "Ақпараттық қоғам тұжырымдамаларында мынаған ерекше мән беріледі..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "земле и природному сырью как основным ресурсам",
+            "en": "land and natural raw materials as the main resources",
+            "kk": "жер мен табиғи шикізатқа негізгі ресурстар ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "крупному машинному производству как основе хозяйства",
+            "en": "large-scale machine production as the basis of the economy",
+            "kk": "шаруашылықтың негізі ретіндегі ірі машиналы өндіріске"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "ручному труду и натуральному хозяйству",
+            "en": "manual labor and subsistence farming",
+            "kk": "қол еңбегі мен натуралды шаруашылыққа"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "информации как главному экономическому ресурсу",
+            "en": "information as the main economic resource",
+            "kk": "басты экономикалық ресурс ретіндегі ақпаратқа"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "наследственным привилегиям аграрной элиты",
+            "en": "the hereditary privileges of the agrarian elite",
+            "kk": "аграрлық элитаның тұқым қуалайтын артықшылықтарына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Информационное общество определяют как общество, где информация становится главным экономическим ресурсом, а информационный сектор развивается быстрее всех.",
+        "en": "The information society is defined as a society in which information becomes the main economic resource and the information sector develops faster than any other.",
+        "kk": "Ақпараттық қоғам — ақпарат басты экономикалық ресурсқа айналатын және ақпараттық сектор ең жылдам дамитын қоғам."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 11 Масс-медиа.pdf",
+          "location": "строки 98–100 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Одно событие разные издания представляют как культурное достижение и как политический конфликт. Какое понятие помогает объяснить различие общественных значений события?",
+        "en": "Different publications present the same event as a cultural achievement and as a political conflict. Which concept helps explain the difference in the public meanings of the event?",
+        "kk": "Бір оқиғаны әртүрлі басылымдар мәдени жетістік ретінде де, саяси қақтығыс ретінде де ұсынады. Оқиғаның қоғамдық мағыналарындағы айырмашылықты қандай ұғым түсіндіруге көмектеседі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Киберсоциализация личности",
+            "en": "Cybersocialization of the individual",
+            "kk": "Тұлғаның киберәлеуметтенуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Дисфункция наркотизации аудитории",
+            "en": "The narcotizing dysfunction of the audience",
+            "kk": "Аудиторияны «наркотизациялау» дисфункциясы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Экстаз коммуникации",
+            "en": "The ecstasy of communication",
+            "kk": "Коммуникация экстазы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Медиаконтекст социальной реальности",
+            "en": "The media context of social reality",
+            "kk": "Әлеуметтік шындықтың медиаконтексті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Глобальная деревня",
+            "en": "The global village",
+            "kk": "Жаһандық ауыл"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Значение событий «окрашивается» их интерпретацией и оценкой в СМИ, поэтому одно событие получает разные общественные значения в разных изданиях.",
+        "en": "The meaning of events is \"colored\" by their interpretation and evaluation in the media, so one event acquires different public meanings in different publications.",
+        "kk": "Оқиғалардың мәні БАҚ-тағы түсіндірумен және бағамен «боялады», сондықтан бір оқиға әртүрлі басылымдарда әртүрлі қоғамдық мағынаға ие болады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 11 Масс-медиа.pdf",
+          "location": "строки 47–51 извлечённого текста"
+        }
+      ]
+    }
+  ]
+}

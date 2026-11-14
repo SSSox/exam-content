@@ -1,0 +1,589 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 3,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какую функцию выполняет социальный институт — семья?",
+        "en": "What function does the social institution of the family perform?",
+        "kk": "«Отбасы» әлеуметтік институты қандай функцияны орындайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Выдача государственных дипломов о квалификации",
+            "en": "Issuing state diplomas of qualification",
+            "kk": "Біліктілік туралы мемлекеттік дипломдар беру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Принятие законов и контроль за их исполнением",
+            "en": "Passing laws and monitoring their implementation",
+            "kk": "Заңдар қабылдау және олардың орындалуын бақылау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Организация промышленного производства",
+            "en": "Organizing industrial production",
+            "kk": "Өнеркәсіптік өндірісті ұйымдастыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Воспитание и социализация детей",
+            "en": "Raising and socializing children",
+            "kk": "Балаларды тәрбиелеу және әлеуметтендіру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Проведение религиозных обрядов и богослужений",
+            "en": "Conducting religious rites and services",
+            "kk": "Діни рәсімдер мен құдайға құлшылық өткізу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Основной функцией семьи лекция называет социализацию детей и привитие им ценностей и навыков; остальные задачи относятся к другим институтам.",
+        "en": "The lecture names the family's main function as the socialization of children and instilling values and skills in them; the other tasks belong to other institutions.",
+        "kk": "Дәрісте отбасының негізгі функциясы ретінде балаларды әлеуметтендіру және оларға құндылықтар мен дағдыларды сіңіру аталады; қалған міндеттер басқа институттарға жатады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6_Семья 2024.pdf",
+          "location": "строка 180 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Нуклеарная семья в классификации по составу включает...",
+        "en": "The nuclear family in the classification by composition includes...",
+        "kk": "Құрамы бойынша жіктемедегі нуклеарлық отбасы мыналарды қамтиды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "мужа, жену и их детей",
+            "en": "a husband, a wife and their children",
+            "kk": "күйеуін, әйелін және олардың балаларын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "супругов, детей и бабушек с дедушками",
+            "en": "spouses, children and grandparents",
+            "kk": "ерлі-зайыптыларды, балаларды және әжелері мен аталарын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "мужа с несколькими жёнами и детьми",
+            "en": "a husband with several wives and children",
+            "kk": "бірнеше әйелі бар күйеуді және балаларды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "нескольких братьев с жёнами и детьми",
+            "en": "several brothers with wives and children",
+            "kk": "әйелдері мен балалары бар бірнеше ағайынды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "женщину с несколькими мужьями",
+            "en": "a woman with several husbands",
+            "kk": "бірнеше күйеуі бар әйелді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Нуклеарная семья в лекции описана как мужчина, женщина и их дети.",
+        "en": "The lecture describes the nuclear family as a man, a woman and their children.",
+        "kk": "Нуклеарлық отбасы дәрісте еркек, әйел және олардың балалары ретінде сипатталған."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6_Семья 2024.pdf",
+          "location": "строка 173 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Отличительный признак домохозяйства по сравнению с семьёй состоит в том, что оно...",
+        "en": "The distinguishing feature of a household compared with a family is that it...",
+        "kk": "Үй шаруашылығының отбасынан айырмашылығы сол, ол..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "основано только на кровном родстве всех членов",
+            "en": "is based only on the blood kinship of all of its members",
+            "kk": "барлық мүшелерінің тек қандас туыстығына негізделеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "обязательно включает несовершеннолетних детей",
+            "en": "necessarily includes minor children",
+            "kk": "міндетті түрде кәмелетке толмаған балаларды қамтиды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "объединяет людей общим бытом, не требуя родства",
+            "en": "unites people by shared domestic life, not requiring kinship",
+            "kk": "туыстықты талап етпей адамдарды ортақ тұрмыспен біріктіреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "существует лишь в сельской местности и малых городах",
+            "en": "exists only in rural areas and small towns",
+            "kk": "тек ауылдық жерлерде және шағын қалаларда болады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "всегда состоит из трёх поколений родственников",
+            "en": "always consists of three generations of relatives",
+            "kk": "әрдайым туыстардың үш ұрпағынан тұрады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Домохозяйство определяется общим бытом и хозяйством, тогда как семья основана на браке или кровном родстве.",
+        "en": "A household is defined by a shared domestic life and economy, whereas a family is based on marriage or blood kinship.",
+        "kk": "Үй шаруашылығы ортақ тұрмыспен және шаруашылықпен айқындалады, ал отбасы некеге немесе қандас туыстыққа негізделеді."
+      }
+    },
+    {
+      "id": 105,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Расширенная семья отличается от нуклеарной включением...",
+        "en": "The extended family differs from the nuclear family in that it includes...",
+        "kk": "Кеңейтілген отбасының нуклеарлық отбасынан айырмашылығы мыналарды қамтуында..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "только одного из супругов",
+            "en": "only one of the spouses",
+            "kk": "ерлі-зайыптылардың тек біреуін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "сожителей без регистрации брака",
+            "en": "cohabitants without registered marriage",
+            "kk": "некесі тіркелмеген бірге тұратындарды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "бабушек, дедушек и других родственников",
+            "en": "grandparents and other relatives",
+            "kk": "әжелерді, аталарды және басқа туыстарды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "домашней прислуги и наёмных работников",
+            "en": "domestic servants and hired workers",
+            "kk": "үй қызметшілері мен жалдамалы қызметкерлерді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "соседей по общине и друзей семьи",
+            "en": "neighbors in the community and friends of the family",
+            "kk": "қауымдағы көршілерді және отбасының достарын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Расширенная семья помимо родителей и детей включает других родственников, часто нескольких поколений.",
+        "en": "In addition to parents and children, the extended family includes other relatives, often of several generations.",
+        "kk": "Кеңейтілген отбасы ата-аналар мен балалардан бөлек басқа туыстарды, жиі бірнеше ұрпақты қамтиды."
+      }
+    },
+    {
+      "id": 106,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Правила, предписывающие выбирать брачного партнёра за пределами определённой группы, называются...",
+        "en": "The rules prescribing the choice of a marriage partner outside a certain group are called...",
+        "kk": "Некелесетін серікті белгілі бір топтың шегінен тыс таңдауды белгілейтін ережелер мынадай аталады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "эндогамией",
+            "en": "endogamy",
+            "kk": "эндогамия"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "моногамией",
+            "en": "monogamy",
+            "kk": "моногамия"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "полигинией",
+            "en": "polygyny",
+            "kk": "полигиния"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "экзогамией",
+            "en": "exogamy",
+            "kk": "экзогамия"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "полиандрией",
+            "en": "polyandry",
+            "kk": "полиандрия"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Экзогамия обязывает искать брачного партнёра вне своей группы, эндогамия, наоборот, внутри неё.",
+        "en": "Exogamy obliges people to seek a marriage partner outside their own group, while endogamy, conversely, requires one within it.",
+        "kk": "Экзогамия некелесетін серікті өз тобынан тыс іздеуді міндеттейді, ал эндогамия, керісінше, топ ішінде."
+      }
+    },
+    {
+      "id": 107,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Эндогамия представляет собой...",
+        "en": "Endogamy is...",
+        "kk": "Эндогамия дегеніміз..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "форму брака одной женщины с несколькими мужьями",
+            "en": "a form of marriage of one woman to several husbands",
+            "kk": "бір әйелдің бірнеше күйеумен некесінің нысаны"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "союз одного мужчины и нескольких женщин одновременно",
+            "en": "a union of one man and several women at the same time",
+            "kk": "бір еркек пен бірнеше әйелдің бір мезгілде одағы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "последовательные браки одного человека с разными партнёрами",
+            "en": "successive marriages of one person to different partners",
+            "kk": "бір адамның әртүрлі серіктестермен кезекті некелері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "правило заключать брак внутри своей социальной группы",
+            "en": "the rule of marrying within one's own social group",
+            "kk": "некені өз әлеуметтік тобының ішінде жасау ережесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "групповой брак нескольких мужчин и нескольких женщин",
+            "en": "a group marriage of several men and several women",
+            "kk": "бірнеше ер адам мен бірнеше әйелдің топтық некесі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Эндогамия предписывает вступать в брак внутри своей группы (рода, сословия, этноса), в отличие от экзогамии.",
+        "en": "Endogamy prescribes marrying within one's own group (clan, estate, ethnic group), in contrast to exogamy.",
+        "kk": "Эндогамия некеге өз тобының (руының, сословиесінің, этносының) ішінде тұруды белгілейді, экзогамиядан өзгеше."
+      }
+    },
+    {
+      "id": 108,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "К какой функции семьи относится передача детям норм поведения и ценностей?",
+        "en": "Which function of the family does the passing on of norms of behavior and values to children belong to?",
+        "kk": "Балаларға мінез-құлық нормалары мен құндылықтарды беру отбасының қай функциясына жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Репродуктивной",
+            "en": "Reproductive",
+            "kk": "Репродуктивтік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Хозяйственно-бытовой",
+            "en": "Household",
+            "kk": "Шаруашылық-тұрмыстық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Экономической",
+            "en": "Economic",
+            "kk": "Экономикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Досуговой",
+            "en": "Leisure",
+            "kk": "Бос уақыт"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Воспитательной",
+            "en": "Educational",
+            "kk": "Тәрбиелік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Передача норм, ценностей и правил поведения детям составляет воспитательную функцию семьи.",
+        "en": "Passing on norms, values and rules of behavior to children constitutes the educational function of the family.",
+        "kk": "Балаларға нормаларды, құндылықтар мен мінез-құлық ережелерін беру отбасының тәрбиелік функциясын құрайды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6_Семья 2024.pdf",
+          "location": "строка 275 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 6_Семья 2024.pdf",
+          "location": "строки 281–282 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Микросоциологический анализ семьи сосредоточен на том, что...",
+        "en": "Microsociological analysis of the family focuses on the fact that...",
+        "kk": "Отбасын микроәлеуметтанулық талдау мынаған бағытталған..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "семья изучается как институт в системе других институтов",
+            "en": "the family is studied as an institution in a system of other institutions",
+            "kk": "отбасы басқа институттар жүйесіндегі институт ретінде зерттеледі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "семья рассматривается как подсистема для экономики страны",
+            "en": "the family is regarded as a subsystem for the country's economy",
+            "kk": "отбасы елдің экономикасы үшін ішкі жүйе ретінде қарастырылады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "анализируется динамика браков и разводов в обществе",
+            "en": "the dynamics of marriages and divorces in society is analyzed",
+            "kk": "қоғамдағы неке мен ажырасу динамикасы талданады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "семья изучается как малая группа: её рождение, развитие, распад",
+            "en": "the family is studied as a small group: its formation, development and dissolution",
+            "kk": "отбасы шағын топ ретінде зерттеледі: оның пайда болуы, дамуы, ыдырауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "семья служит основой классовой структуры общества",
+            "en": "the family serves as the basis of the class structure of society",
+            "kk": "отбасы қоғамның таптық құрылымының негізі болып табылады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Микроанализ рассматривает семью как малую автономную группу с её рождением, развитием и распадом.",
+        "en": "Micro-level analysis treats the family as a small autonomous group with its formation, development and dissolution.",
+        "kk": "Микроталдау отбасын оның пайда болуы, дамуы және ыдырауымен шағын автономды топ ретінде қарастырады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6_Семья 2024.pdf",
+          "location": "строки 57–58 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "На макросоциологическом уровне семью изучают как...",
+        "en": "At the macrosociological level the family is studied as...",
+        "kk": "Макроәлеуметтанулық деңгейде отбасы мынадай зерттеледі..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "малую автономную группу с жизненным циклом",
+            "en": "a small autonomous group with a life cycle",
+            "kk": "өмірлік циклі бар шағын автономды топ ретінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "сеть ролей и эмоциональных связей между супругами",
+            "en": "a network of roles and emotional ties between spouses",
+            "kk": "ерлі-зайыптылар арасындағы рөлдер мен эмоциялық байланыстар желісі ретінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "социальный институт в системе других институтов общества",
+            "en": "a social institution in the system of other institutions of society",
+            "kk": "туыстығы жоқ, ортақ тұрмыстағы адамдардың бірлестігі ретінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "объединение людей общего быта без родства",
+            "en": "an association of people sharing a household without kinship",
+            "kk": "қандас туыстардың биологиялық тобы ретінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "биологическую группу кровных родственников",
+            "en": "a biological group of blood relatives",
+            "kk": "қоғамның басқа институттары жүйесіндегі әлеуметтік институт ретінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Макроанализ изучает семью как социальный институт общества в контексте других социальных институтов.",
+        "en": "Macro-level analysis studies the family as a social institution of society in the context of other social institutions.",
+        "kk": "Макроталдау отбасын қоғамның басқа әлеуметтік институттарымен байланысында әлеуметтік институт ретінде зерттейді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6_Семья 2024.pdf",
+          "location": "строки 54–55 извлечённого текста"
+        }
+      ]
+    }
+  ]
+}

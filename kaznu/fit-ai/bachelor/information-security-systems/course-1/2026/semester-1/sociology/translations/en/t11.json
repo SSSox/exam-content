@@ -1,0 +1,58 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 11,
+  "topic_name": "Mass Media, Technology and Society",
+  "questions": {
+    "137": {
+      "question": "The media context of an event is determined by...",
+      "options": {
+        "A": "the place on the map where the event occurred and was noted",
+        "B": "the number of direct eyewitnesses and participants of the event",
+        "C": "the official date of the event in the calendar of memorable dates",
+        "D": "the cost of the event to the country's state budget",
+        "E": "the interpretation and evaluation of the event in the mass media"
+      }
+    },
+    "138": {
+      "question": "The status conferral function of the media means...",
+      "options": {
+        "A": "reinforcing generally accepted norms by publicly denouncing deviations",
+        "B": "reduced audience activity because of an excess of information",
+        "C": "giving people and events public significance",
+        "D": "journalists obtaining official posts in government bodies",
+        "E": "moving a publication from private to state ownership"
+      }
+    },
+    "139": {
+      "question": "The view of the audience as active emphasizes...",
+      "options": {
+        "A": "the direct magical influence of the media on any viewer and reader",
+        "B": "the selectivity with which different groups perceive information",
+        "C": "the homogeneity of the audience as a mass without opinions of its own",
+        "D": "the uniform reaction of the audience to identical messages",
+        "E": "the uncontrolled acceptance of messages without any evaluation by viewers"
+      }
+    },
+    "140": {
+      "question": "Concepts of the information society give particular importance to...",
+      "options": {
+        "A": "land and natural raw materials as the main resources",
+        "B": "large-scale machine production as the basis of the economy",
+        "C": "manual labor and subsistence farming",
+        "D": "information as the main economic resource",
+        "E": "the hereditary privileges of the agrarian elite"
+      }
+    },
+    "176": {
+      "question": "Different publications present the same event as a cultural achievement and as a political conflict. Which concept helps explain the difference in the public meanings of the event?",
+      "options": {
+        "A": "Cybersocialization of the individual",
+        "B": "The narcotizing dysfunction of the audience",
+        "C": "The ecstasy of communication",
+        "D": "The media context of social reality",
+        "E": "The global village"
+      }
+    }
+  }
+}

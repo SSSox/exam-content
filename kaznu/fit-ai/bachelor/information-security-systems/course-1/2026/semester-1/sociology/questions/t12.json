@@ -1,0 +1,836 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 28,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Идею о том, что предметом экономической социологии является социальное действие, выдвинул...",
+        "en": "The idea that the subject matter of economic sociology is social action was put forward by...",
+        "kk": "Экономикалық әлеуметтанудың пәні әлеуметтік әрекет деген идеяны кім ұсынды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Карл Маркс",
+            "en": "Karl Marx",
+            "kk": "Карл Маркс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эмиль Дюркгейм",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Макс Вебер",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Огюст Конт",
+            "en": "Auguste Comte",
+            "kk": "Огюст Конт"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Герберт Спенсер",
+            "en": "Herbert Spencer",
+            "kk": "Герберт Спенсер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Вебер понимал социологию как науку о социальном действии, и от этой теории действия идёт деятельностное определение предмета экономической социологии.",
+        "en": "Weber understood sociology as the science of social action, and the activity-based definition of the subject of economic sociology derives from this theory of action.",
+        "kk": "Вебер әлеуметтануды әлеуметтік әрекет туралы ғылым деп түсінді; экономикалық әлеуметтану пәнінің әрекеттік анықтамасы осы әрекет теориясынан шығады."
+      }
+    },
+    {
+      "id": 30,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой термин был введён Торстейном Вебленом в книге «Теория праздного класса»?",
+        "en": "Which term was introduced by Thorstein Veblen in The Theory of the Leisure Class?",
+        "kk": "Торстейн Веблен «Бос тап теориясы» кітабында қандай терминді енгізді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Протестантская этика",
+            "en": "The Protestant ethic",
+            "kk": "Протестанттық этика"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Демонстративное потребление",
+            "en": "Conspicuous consumption",
+            "kk": "Көрсетпелі тұтыну"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социальная стратификация",
+            "en": "Social stratification",
+            "kk": "Әлеуметтік стратификация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Культурный капитал",
+            "en": "Cultural capital",
+            "kk": "Мәдени капитал"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Рациональный выбор",
+            "en": "Rational choice",
+            "kk": "Рационал таңдау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Веблен в «Теории праздного класса» ввёл понятие демонстративного (показного) потребления как способа подтверждать статус.",
+        "en": "In The Theory of the Leisure Class, Veblen introduced the concept of conspicuous (ostentatious) consumption as a way of confirming status.",
+        "kk": "Веблен «Бос тап теориясында» мәртебені растау тәсілі ретінде көрсетпелі (демонстративті) тұтыну ұғымын енгізді."
+      }
+    },
+    {
+      "id": 32,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что представляет собой модель экономического человека по Адаму Смиту?",
+        "en": "What is the model of economic man according to Adam Smith?",
+        "kk": "Адам Смит бойынша экономикалық адам моделі нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Носитель социальных ролей, действующий согласно нормам и ожиданиям группы",
+            "en": "A bearer of social roles who acts according to the norms and expectations of the group",
+            "kk": "Топтың нормалары мен күтулеріне сай әрекет ететін әлеуметтік рөлдер иесі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Член общины, руководствующийся солидарностью, моралью и чувством долга",
+            "en": "A member of a community guided by solidarity, morality and a sense of duty",
+            "kk": "Ынтымақтастықты, адамгершілік пен борыш сезімін басшылыққа алатын қауым мүшесі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наёмный работник, лишённый средств производства и подвергающийся эксплуатации",
+            "en": "A wage worker deprived of the means of production and subject to exploitation",
+            "kk": "Өндіріс құралдарынан айырылған және қанауға ұшырайтын жалдамалы жұмысшы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Рациональный индивид, стремящийся к максимизации собственной выгоды",
+            "en": "A rational individual who seeks to maximize their own benefit",
+            "kk": "Өз пайдасын барынша арттыруға ұмтылатын рационал индивид"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Приверженец традиций, опирающийся на привычку и обычай предков",
+            "en": "An adherent of tradition who relies on the habit and custom of their ancestors",
+            "kk": "Дәстүрге, әдет пен ата-баба әдет-ғұрпына сүйенетін адам"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Экономический человек абсолютно рационален и эгоистичен, ориентирован только на экономический интерес и максимизацию прибыли, тогда как социологический человек действует в системе норм и ролей.",
+        "en": "Economic man is absolutely rational and egoistic, oriented only to economic interest and profit maximization, whereas sociological man acts within a system of norms and roles.",
+        "kk": "Экономикалық адам толықтай рационал және өзімшіл, тек экономикалық мүддеге және пайданы барынша арттыруға бағдарланған, ал әлеуметтанулық адам нормалар мен рөлдер жүйесінде әрекет етеді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12  Экономика.pdf",
+          "location": "строки 100–103 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие два основных типа экономического роста выделяет экономическая теория?",
+        "en": "Which two main types of economic growth does economic theory distinguish?",
+        "kk": "Экономикалық теория экономикалық өсудің қандай екі негізгі түрін бөледі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Экстенсивный",
+            "en": "Extensive",
+            "kk": "Экстенсивті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Номиналистический",
+            "en": "Nominalist",
+            "kk": "Номиналистік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Реалистический",
+            "en": "Realist",
+            "kk": "Реалистік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Интенсивный",
+            "en": "Intensive",
+            "kk": "Интенсивті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гедонистический",
+            "en": "Hedonistic",
+            "kk": "Гедонистік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "D"
+      ],
+      "explanation": {
+        "ru": "Экономический рост бывает экстенсивным (за счёт привлечения дополнительных ресурсов) и интенсивным (за счёт повышения эффективности их использования).",
+        "en": "Economic growth is either extensive (through drawing in additional resources) or intensive (through raising the efficiency with which resources are used).",
+        "kk": "Экономикалық өсу экстенсивті (қосымша ресурстарды тарту есебінен) және интенсивті (ресурстарды пайдалану тиімділігін арттыру есебінен) болады."
+      }
+    },
+    {
+      "id": 34,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Современная экономическая теория охватывает период с конца XIX века по наше время и включает в себя четыре основных направления: социологическое, институционально-социологическое и...",
+        "en": "Modern economic theory covers the period from the late 19th century to the present and includes four main schools: the sociological, the institutional-sociological, and...",
+        "kk": "Қазіргі экономикалық теория XIX ғасырдың аяғынан осы күнге дейінгі кезеңді қамтиды және төрт негізгі бағыттан тұрады: әлеуметтанулық, институционалдық-әлеуметтанулық және..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "неоклассическое и кейнсианское",
+            "en": "the neoclassical and the Keynesian",
+            "kk": "неоклассикалық және кейнсиандық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "меркантилистское и физиократическое",
+            "en": "the mercantilist and the physiocratic",
+            "kk": "меркантилистік және физиократтық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "сетевое и культурно-историческое",
+            "en": "the network and the cultural-historical",
+            "kk": "желілік және мәдени-тарихи"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "структурное и функциональное",
+            "en": "the structural and the functional",
+            "kk": "құрылымдық және функционалдық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "теологическое и метафизическое",
+            "en": "the theological and the metaphysical",
+            "kk": "теологиялық және метафизикалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "В учебниках экономической теории её современный этап (с конца XIX века) делят на неоклассическое, кейнсианское, неолиберальное и институционально-социологическое направления; сетевой и культурно-исторический подходы — направления новой экономической социологии (по Радаеву, с 1980-х).",
+        "en": "In economics textbooks, its modern stage (from the late 19th century) is divided into the neoclassical, Keynesian, neoliberal and institutional-sociological schools; the network and cultural-historical approaches are schools of the new economic sociology (according to Radaev, since the 1980s).",
+        "kk": "Экономикалық теория оқулықтарында оның қазіргі кезеңі (XIX ғасырдың аяғынан) неоклассикалық, кейнсиандық, неолибералдық және институционалдық-әлеуметтанулық бағыттарға бөлінеді; желілік және мәдени-тарихи тәсілдер — жаңа экономикалық әлеуметтанудың бағыттары (Радаев бойынша, 1980-жылдардан)."
+      }
+    },
+    {
+      "id": 35,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Кому принадлежит модель человека маржиналистской теории «рациональный максимизатор», рационализирующий потребление, понимаемое как обмен благ, выраженный через денежный эквивалент?",
+        "en": "Whose is the marginalist model of man, the \"rational maximizer\", who rationalizes consumption understood as an exchange of goods expressed in monetary equivalent?",
+        "kk": "Маржиналистік теорияның тұтынуды ақшалай баламамен көрсетілген игіліктер алмасуы деп түсініп, оны рационализациялайтын «рационал максимизатор» адам моделі кімге тиесілі?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Леон Вальрас",
+            "en": "Léon Walras",
+            "kk": "Леон Вальрас"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Адам Смит",
+            "en": "Adam Smith",
+            "kk": "Адам Смит"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Карл Маркс",
+            "en": "Karl Marx",
+            "kk": "Карл Маркс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Макс Вебер",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эмиль Дюркгейм",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Модель рационального максимизатора полезности принадлежит маржинализму, представителем которого был Л. Вальрас, а не классикам, марксизму или классической социологии.",
+        "en": "The model of the rational utility maximizer belongs to marginalism, of which L. Walras was a representative, and not to the classical economists, Marxism or classical sociology.",
+        "kk": "Пайдалылықты рационал барынша арттырушы моделі маржинализмге тиесілі, оның өкілі Л. Вальрас болды; ол классиктерге, марксизмге немесе классикалық әлеуметтануға жатпайды."
+      }
+    },
+    {
+      "id": 141,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "К социологии труда непосредственно относится проблема...",
+        "en": "The sociology of labour is directly concerned with the problem of...",
+        "kk": "Еңбек әлеуметтануына тікелей қандай мәселе жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "причин роста самоубийств среди городского населения",
+            "en": "the causes of rising suicide among the urban population",
+            "kk": "Қала халқы арасында өзін-өзі өлтірудің өсу себептері"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "природы социальных отношений в сфере производства",
+            "en": "the nature of social relations in the sphere of production",
+            "kk": "Өндіріс саласындағы әлеуметтік қатынастардың табиғаты"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "форм религиозных обрядов в разных мировых конфессиях",
+            "en": "the forms of religious rites in the world confessions",
+            "kk": "Әлемдік конфессиялардағы діни ғұрыптардың нысандары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "темпов урбанизации в развивающихся странах Азии и Африки",
+            "en": "the pace of urbanization in the developing countries of Asia and Africa",
+            "kk": "Азия мен Африканың дамушы елдеріндегі урбандалу қарқыны"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "механизмов формирования этнической идентичности подростков",
+            "en": "the mechanisms by which teenagers' ethnic identity is formed",
+            "kk": "Жасөспірімдердің этностық сәйкестігінің қалыптасу тетіктері"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Социология труда изучает природу социальных отношений в производстве, то есть сотрудничество или конфликт, и удовлетворение потребностей людей работой.",
+        "en": "The sociology of labour studies the nature of social relations in production, that is, cooperation or conflict, and the satisfaction of people's needs through work.",
+        "kk": "Еңбек әлеуметтануы өндірістегі әлеуметтік қатынастардың табиғатын, яғни ынтымақтастық немесе қақтығысты, сондай-ақ адамдардың қажеттіліктерінің жұмыспен қанағаттандырылуын зерттейді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12  Экономика.pdf",
+          "location": "строки 323–325 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Разделение труда представляет собой...",
+        "en": "The division of labour is...",
+        "kk": "Еңбек бөлінісі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "объединение всех трудовых функций в одной профессии",
+            "en": "the merging of all labour functions in a single profession",
+            "kk": "барлық еңбек функцияларын бір кәсіпке біріктіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "передачу средств производства самим работникам",
+            "en": "the transfer of the means of production to the workers themselves",
+            "kk": "өндіріс құралдарын қызметкерлердің өздеріне беру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "перемещение капитала между национальными рынками",
+            "en": "the movement of capital between national markets",
+            "kk": "капиталдың ұлттық нарықтар арасындағы орын ауыстыруы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "обмен товаров по рыночным ценам",
+            "en": "the exchange of goods at market prices",
+            "kk": "тауарларды нарықтық бағамен айырбастау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "специализацию работников на отдельных видах деятельности",
+            "en": "the specialization of workers in particular kinds of activity",
+            "kk": "қызметкерлердің жекелеген қызмет түрлеріне мамандануы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Разделение труда состоит в обособлении и специализации работников на отдельных видах трудовых операций и функций.",
+        "en": "The division of labour consists in the separation and specialization of workers in particular labour operations and functions.",
+        "kk": "Еңбек бөлінісі қызметкерлердің жекелеген еңбек операциялары мен функцияларына оқшауланып, мамандануынан тұрады."
+      }
+    },
+    {
+      "id": 143,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Глобализация производства означает...",
+        "en": "The globalization of production means...",
+        "kk": "Өндірісті жаһандандыру — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "возврат производства к натуральному хозяйству небольших отдельных общин",
+            "en": "a return of production to the subsistence farming of small separate communities",
+            "kk": "өндірістің шағын оқшау қауымдардың натуралды шаруашылығына қайта оралуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "организацию производства транснациональными компаниями по всему миру",
+            "en": "the organization of production by transnational companies around the world",
+            "kk": "өндірісті күллі әлем бойынша транснационалдық компаниялардың ұйымдастыруы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "сокращение международной торговли в пользу местных рынков и ремесла",
+            "en": "a reduction in international trade in favor of local markets and crafts",
+            "kk": "халықаралық сауданың жергілікті нарықтар мен қолөнер пайдасына қысқаруы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "замену машинного труда ручным в традиционных обществах и общинах",
+            "en": "the replacement of machine labour by manual labour in traditional societies and communities",
+            "kk": "дәстүрлі қоғамдар мен қауымдарда машиналы еңбекті қол еңбегімен ауыстыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "закрепление производства строго внутри границ одного государства",
+            "en": "the confinement of production strictly within the borders of one state",
+            "kk": "өндірісті бір мемлекет шекарасы ішінде қатаң бекіту"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Глобализация производства связана с деятельностью транснациональных корпораций, которые организуют производство и сделки в масштабах всего мира.",
+        "en": "The globalization of production is associated with the activity of transnational corporations, which organize production and transactions on a worldwide scale.",
+        "kk": "Өндірісті жаһандандыру өндіріс пен мәмілелерді бүкіл әлем көлемінде ұйымдастыратын транснационалдық корпорациялардың қызметімен байланысты."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12  Экономика.pdf",
+          "location": "строки 474–479 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В концепции постиндустриального общества возрастает роль...",
+        "en": "In the concept of postindustrial society, the growing role of...",
+        "kk": "Постиндустриалдық қоғам тұжырымдамасында мыналардың рөлі артады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "земли и природного сырья",
+            "en": "land and natural raw materials",
+            "kk": "жер мен табиғи шикізаттың"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "ручного труда в аграрном хозяйстве",
+            "en": "manual labour in agriculture",
+            "kk": "аграрлық шаруашылықтағы қол еңбегінің"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "человеческого знания и компьютерных технологий",
+            "en": "human knowledge and computer technology",
+            "kk": "адам білімі мен компьютерлік технологиялардың"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "стандартных операций крупного машинного производства",
+            "en": "the standard operations of large-scale machine production",
+            "kk": "ірі машиналы өндірістің стандартты операцияларының"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "личной зависимости работника от землевладельца",
+            "en": "the worker's personal dependence on the landowner",
+            "kk": "жұмысшының жер иеленушіге жеке тәуелділігінің"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "В постиндустриальном обществе основными ресурсами становятся человеческое знание и информация, а ведущими технологиями микроэлектроника и компьютеры.",
+        "en": "In postindustrial society, human knowledge and information become the main resources, and microelectronics and computers the leading technologies.",
+        "kk": "Постиндустриалдық қоғамда негізгі ресурстар адам білімі мен ақпарат, ал жетекші технологиялар микроэлектроника мен компьютерлер болады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12  Экономика.pdf",
+          "location": "строки 427–429 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Глокализация обозначает...",
+        "en": "Glocalization denotes...",
+        "kk": "Глокализация — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "полную стандартизацию культур по единому глобальному образцу",
+            "en": "the complete standardization of cultures on a single global model",
+            "kk": "мәдениеттерді бірыңғай әлемдік үлгі бойынша толық стандарттау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "уменьшение размеров мира благодаря новым технологиям связи",
+            "en": "the shrinking of the world thanks to new communication technologies",
+            "kk": "жаңа байланыс технологиялары арқасында әлем көлемінің кішіреюі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "перемещение капитала через мировые финансовые рынки",
+            "en": "the movement of capital through world financial markets",
+            "kk": "капиталдың әлемдік қаржы нарықтары арқылы орын ауыстыруы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "сочетание глобальных процессов и местных особенностей",
+            "en": "the combination of global processes and local features",
+            "kk": "жаһандық процестер мен жергілікті ерекшеліктердің ұштасуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "рост числа международных организаций, регулирующих экономику",
+            "en": "a growing number of international organizations regulating the economy",
+            "kk": "экономиканы реттейтін халықаралық ұйымдар санының өсуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Глокализация — сочетание глобального и местного: глобальные процессы приспосабливаются к местным особенностям. В лекции термин приводится как ответ на напряжение между локальным и глобальным.",
+        "en": "Glocalization is the combination of the global and the local: global processes adapt to local features. The lecture presents the term as a response to the tension between the local and the global.",
+        "kk": "Глокализация — жаһандық пен жергіліктінің ұштасуы: жаһандық процестер жергілікті ерекшеліктерге бейімделеді. Дәрісте бұл термин жергілікті мен жаһандық арасындағы шиеленіске жауап ретінде келтіріледі."
+      }
+    },
+    {
+      "id": 146,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Индустриальный тип хозяйственной организации связан прежде всего с...",
+        "en": "The industrial type of economic organization is connected above all with...",
+        "kk": "Шаруашылықты ұйымдастырудың индустриалдық түрі ең алдымен мынамен байланысты..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "крупным машинным производством и наёмным трудом",
+            "en": "large-scale machine production and wage labour",
+            "kk": "ірі машиналы өндіріспен және жалдамалы еңбекпен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "натуральными хозяйствами, производящими для собственных нужд",
+            "en": "subsistence farms producing for their own needs",
+            "kk": "өз қажетіне өндіретін натуралды шаруашылықтармен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "производством на основе микроэлектронных технологий",
+            "en": "production based on microelectronic technologies",
+            "kk": "микроэлектрондық технологиялар негізіндегі өндіріспен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "личной зависимостью работников от землевладельцев",
+            "en": "workers' personal dependence on landowners",
+            "kk": "жұмысшылардың жер иеленушілерге жеке тәуелділігімен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "ведущей ролью знаний и информационных услуг",
+            "en": "the leading role of knowledge and information services",
+            "kk": "білім мен ақпараттық қызметтердің жетекші рөлімен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Индустриальное общество возникает с развитием капитализма, когда на передний план выходит крупное машинное производство и наёмный труд.",
+        "en": "Industrial society emerges with the development of capitalism, when large-scale machine production and wage labour come to the fore.",
+        "kk": "Индустриалдық қоғам капитализмнің дамуымен пайда болады, сонда ірі машиналы өндіріс пен жалдамалы еңбек алдыңғы қатарға шығады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12  Экономика.pdf",
+          "location": "строки 417–422 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Экономическая социология изучает...",
+        "en": "Economic sociology studies...",
+        "kk": "Экономикалық әлеуметтану мыналарды зерттейді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "закономерности изменения цен и курсов валют на биржах",
+            "en": "the patterns of change in prices and currency exchange rates on exchanges",
+            "kk": "биржалардағы бағалар мен валюта бағамдарының өзгеру заңдылықтарын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "оптимальное распределение ресурсов с помощью математических моделей",
+            "en": "the optimal allocation of resources by means of mathematical models",
+            "kk": "математикалық модельдер көмегімен ресурстарды оңтайлы бөлуді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "взаимодействие экономических и социальных процессов в обществе",
+            "en": "the interaction of economic and social processes in society",
+            "kk": "қоғамдағы экономикалық және әлеуметтік процестердің өзара әрекетін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "биологические основы потребительского поведения людей",
+            "en": "the biological foundations of consumer behavior",
+            "kk": "тұтынушылық мінез-құлықтың биологиялық негіздерін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "внутреннюю структуру государственных органов власти",
+            "en": "the internal structure of government bodies",
+            "kk": "мемлекеттік билік органдарының ішкі құрылымын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Объектом экономической социологии выступает взаимодействие экономических и социальных процессов.",
+        "en": "The object of economic sociology is the interaction of economic and social processes.",
+        "kk": "Экономикалық әлеуметтанудың объектісі — экономикалық және әлеуметтік процестердің өзара әрекеті."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12  Экономика.pdf",
+          "location": "строки 123–125 извлечённого текста"
+        }
+      ]
+    }
+  ]
+}

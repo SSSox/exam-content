@@ -1,0 +1,654 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 12,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Социологи, сформировавшие концепцию девиантного поведения в социологии:",
+        "en": "Sociologists who formed the concept of deviant behavior in sociology:",
+        "kk": "Әлеуметтануда девиантты мінез-құлық тұжырымдамасын қалыптастырған социологтар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эмиль Дюркгейм",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Герберт Спенсер",
+            "en": "Herbert Spencer",
+            "kk": "Герберт Спенсер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Роберт Мертон",
+            "en": "Robert K. Merton",
+            "kk": "Роберт Мертон"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Огюст Конт",
+            "en": "Auguste Comte",
+            "kk": "Огюст Конт"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Говард Беккер",
+            "en": "Howard Becker",
+            "kk": "Говард Беккер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Концепцию девиации развивали Дюркгейм (аномия), Мертон (теория аномии и социального напряжения) и Беккер (теория ярлыков).",
+        "en": "The concept of deviance was developed by Durkheim (anomie), Merton (the theory of anomie and social strain) and Becker (labeling theory).",
+        "kk": "Девиация тұжырымдамасын Дюркгейм (аномия), Мертон (аномия және әлеуметтік шиеленіс теориясы) және Беккер (таңбалау теориясы) дамытты."
+      }
+    },
+    {
+      "id": 111,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В социологии молодёжь рассматривается прежде всего как...",
+        "en": "In sociology, youth is regarded first of all as...",
+        "kk": "Әлеуметтануда жастар ең алдымен мыналар ретінде қарастырылады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "возрастная зона ограниченной вменяемости в уголовном праве",
+            "en": "an age zone of limited criminal responsibility in criminal law",
+            "kk": "қылмыстық құқықтағы шектеулі есі дұрыстықтың жас аймағы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "этап физического развития и роста организма человека",
+            "en": "a stage of the physical development and growth of the human body",
+            "kk": "адам ағзасының физикалық дамуы мен өсуінің кезеңі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "самостоятельный экономический класс со своей собственностью",
+            "en": "an independent economic class with its own property",
+            "kk": "өз меншігі бар дербес экономикалық тап"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "социально-демографическая группа со своими статусами",
+            "en": "a socio-demographic group with its own statuses",
+            "kk": "өз мәртебелері бар әлеуметтік-демографиялық топ"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "стадия психического созревания и развития личности подростка",
+            "en": "a stage of the mental maturation and development of the adolescent's personality",
+            "kk": "жасөспірімнің психикалық жетілуі мен тұлғаның дамуы сатысы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Социология видит в молодёжи особую социально-демографическую группу с присущими ей ролями и статусными позициями; юридический, медицинский и психологический подходы рассматривают возраст.",
+        "en": "Sociology sees youth as a distinct socio-demographic group with its own roles and status positions; the legal, medical and psychological approaches consider age.",
+        "kk": "Әлеуметтану жастарда өзіне тән рөлдері мен мәртебелік позициялары бар ерекше әлеуметтік-демографиялық топты көреді; заңдық, медициналық және психологиялық тәсілдер жасты қарастырады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7 Молодежь и общество .pdf",
+          "location": "строки 63–65 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Субкультурный подход к изучению молодёжи сосредоточен на...",
+        "en": "The subcultural approach to the study of youth focuses on...",
+        "kk": "Жастарды зерттеудің субмәдени тәсілі мыналарға бағытталған..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "сензитивных и социальных переходах возраста",
+            "en": "the sensitive periods and social transitions of age",
+            "kk": "жастың сензитивті және әлеуметтік өтулеріне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "периоде между половой и полной зрелостью",
+            "en": "the period between sexual and full maturity",
+            "kk": "жыныстық жетілу мен толық жетілу аралығындағы кезеңге"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "конфликте отцов и детей",
+            "en": "the conflict of fathers and children",
+            "kk": "әкелер мен балалардың қақтығысына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "образе жизни, стиле поведения и ценностях молодёжной группы",
+            "en": "the way of life, style of behavior and values of the youth group",
+            "kk": "жастар тобының өмір салтына, мінез-құлық стилі мен құндылықтарына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "переходе от социальной роли ребёнка к роли взрослого",
+            "en": "the transition from the social role of a child to that of an adult",
+            "kk": "баланың әлеуметтік рөлінен ересек адамның әлеуметтік рөліне өтуге"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Субкультурный подход выделяет у молодёжи собственный образ жизни, стиль поведения, культурные нормы и ценности.",
+        "en": "The subcultural approach identifies in youth its own way of life, style of behavior, cultural norms and values.",
+        "kk": "Субмәдени тәсіл жастардың өзіндік өмір салтын, мінез-құлық стилін, мәдени нормалары мен құндылықтарын бөліп көрсетеді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7 Молодежь и общество .pdf",
+          "location": "строки 75–77 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В типологии Маргарет Мид постфигуративная культура характеризуется преимущественным обучением...",
+        "en": "In Margaret Mead's typology, a postfigurative culture is characterized by a predominant pattern in which...",
+        "kk": "Маргарет Мид типологиясында постфигуративті мәдениет көбінесе мынадай оқытумен сипатталады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "детей и взрослых у сверстников",
+            "en": "children and adults learn from peers",
+            "kk": "балалар мен ересектердің құрдастарынан оқуымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "взрослых у собственных детей",
+            "en": "adults learn from their own children",
+            "kk": "ересектердің өз балаларынан оқуымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "детей у предшественников",
+            "en": "children learn from their predecessors",
+            "kk": "балалардың ізашарларынан оқуымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "детей через средства массовой информации",
+            "en": "children learn through the mass media",
+            "kk": "балалардың бұқаралық ақпарат құралдары арқылы оқуымен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "взрослых у зарубежных специалистов",
+            "en": "adults learn from foreign specialists",
+            "kk": "ересектердің шетелдік мамандардан оқуымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "В постфигуративной культуре дети учатся у предшественников, опыт прежних поколений остаётся ориентиром.",
+        "en": "In a postfigurative culture children learn from their predecessors, and the experience of earlier generations remains the point of reference.",
+        "kk": "Постфигуративті мәдениетте балалар ізашарларынан үйренеді, бұрынғы ұрпақтардың тәжірибесі бағдар болып қала береді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7 Молодежь и общество .pdf",
+          "location": "строки 456–457 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Социальная неоднородность молодёжи выражается в различиях...",
+        "en": "The social heterogeneity of youth is expressed in differences of...",
+        "kk": "Жастардың әлеуметтік біртекті еместігі мына айырмашылықтардан көрінеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "типа темперамента",
+            "en": "type of temperament",
+            "kk": "темперамент түрінің"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "уровня образования",
+            "en": "level of education",
+            "kk": "білім деңгейінің"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "наследственных задатков",
+            "en": "hereditary aptitudes",
+            "kk": "тұқым қуалайтын бейімділіктердің"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "места проживания",
+            "en": "place of residence",
+            "kk": "тұрғылықты жерінің"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "социального происхождения",
+            "en": "social origin",
+            "kk": "әлеуметтік шығу тегінің"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Социальная неоднородность молодёжи выражается в различиях образования, места проживания и социального происхождения; темперамент и задатки — индивидуальные, а не социальные признаки.",
+        "en": "The social heterogeneity of youth is expressed in differences of education, place of residence and social origin; temperament and aptitudes are individual, not social, characteristics.",
+        "kk": "Жастардың әлеуметтік біртекті еместігі білім, тұрғылықты жері мен әлеуметтік шығу тегі айырмашылықтарынан көрінеді; темперамент пен бейімділіктер жеке, әлеуметтік емес белгілер."
+      }
+    },
+    {
+      "id": 115,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В концепции Эрика Эриксона одной из центральных задач юности является...",
+        "en": "In Erik Erikson's concept, one of the central tasks of youth is...",
+        "kk": "Эрик Эриксон тұжырымдамасында жастық шақтың орталық міндеттерінің бірі..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "формирование базового доверия к миру и к близким людям",
+            "en": "forming basic trust in the world and in close people",
+            "kk": "әлемге және жақындарға деген негізгі сенімді қалыптастыру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "развитие чувства инициативы и желания действовать",
+            "en": "developing a sense of initiative and a desire to act",
+            "kk": "бастамашылық сезімін және әрекет етуге ұмтылысты дамыту"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "выработка чувства умелости и компетентности в учёбе",
+            "en": "developing a sense of skill and competence in learning",
+            "kk": "оқуда шеберлік пен құзыреттілік сезімін қалыптастыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "обретение чувства цельности и исполненного долга",
+            "en": "gaining a sense of wholeness and of duty fulfilled",
+            "kk": "тұтастық пен атқарылған борыш сезіміне ие болу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "поиск идентичности и преодоление путаницы ролей",
+            "en": "the search for identity and overcoming role confusion",
+            "kk": "бірегейлікті іздеу және рөлдер шатасуын еңсеру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Пятая фаза Эриксона - юность: идентификация личности против путаницы ролей.",
+        "en": "Erikson's fifth stage is adolescence: identity versus role confusion.",
+        "kk": "Эриксонның бесінші кезеңі — жастық шақ: тұлғаның бірегейленуі мен рөлдер шатасуы арасындағы қайшылық."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7 Молодежь и общество .pdf",
+          "location": "строки 423–424 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "К неформальным санкциям относится...",
+        "en": "Informal sanctions include...",
+        "kk": "Бейресми санкцияларға мыналар жатады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "административный штраф",
+            "en": "an administrative fine",
+            "kk": "әкімшілік айыппұл"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "отчисление из вуза по приказу ректора",
+            "en": "expulsion from university by order of the rector",
+            "kk": "ректордың бұйрығымен жоғары оқу орнынан шығару"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "лишение свободы по приговору суда",
+            "en": "imprisonment by court sentence",
+            "kk": "сот үкімімен бас бостандығынан айыру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "осуждение со стороны друзей и соседей",
+            "en": "condemnation by friends and neighbors",
+            "kk": "достары мен көршілерінің айыптауы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "официальный выговор с занесением в личное дело",
+            "en": "an official reprimand entered in the personal file",
+            "kk": "жеке іске енгізілген ресми сөгіс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Неформальные санкции исходят от окружения (осуждение, насмешка, одобрение), а штраф, приказ, приговор и выговор - формальные.",
+        "en": "Informal sanctions come from one's surroundings (condemnation, ridicule, approval), whereas a fine, an order, a sentence and a reprimand are formal.",
+        "kk": "Бейресми санкциялар қоршаған орта тарапынан келеді (айыптау, мазақ, мақұлдау), ал айыппұл, бұйрық, үкім және сөгіс — ресми."
+      }
+    },
+    {
+      "id": 117,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социальный контроль представляет собой...",
+        "en": "Social control is...",
+        "kk": "Әлеуметтік бақылау дегеніміз..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "процесс усвоения индивидом норм, ролей и ценностей общества",
+            "en": "the process by which an individual assimilates the norms, roles and values of society",
+            "kk": "жеке адамның қоғамның нормаларын, рөлдері мен құндылықтарын меңгеру процесі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "отклонение поведения индивида от общепринятых норм и правил",
+            "en": "a deviation of an individual's behavior from generally accepted norms and rules",
+            "kk": "жеке адам мінез-құлқының жалпыға бірдей қабылданған нормалар мен ережелерден ауытқуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "совокупность средств, побуждающих людей соблюдать нормы",
+            "en": "a set of means that induce people to observe norms",
+            "kk": "адамдарды нормаларды сақтауға итермелейтін құралдар жиынтығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "деление общества на слои по доходу, образованию и престижу",
+            "en": "the division of society into strata by income, education and prestige",
+            "kk": "қоғамның табысы, білімі және беделі бойынша қабаттарға бөлінуі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "процесс изменения социальной структуры общества во времени",
+            "en": "the process of change in the social structure of society over time",
+            "kk": "қоғамның әлеуметтік құрылымының уақыт бойынша өзгеру процесі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Социальный контроль - совокупность средств, с помощью которых общество побуждает членов соблюдать нормы.",
+        "en": "Social control is the set of means by which society induces its members to observe norms.",
+        "kk": "Әлеуметтік бақылау — қоғам өз мүшелерін нормаларды сақтауға итермелейтін құралдар жиынтығы."
+      }
+    },
+    {
+      "id": 118,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социальная роль молодого человека проявляется как...",
+        "en": "A young person's social role is manifested as...",
+        "kk": "Жас адамның әлеуметтік рөлі мынадай көрінеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "окончательно закреплённый статус взрослого члена общества",
+            "en": "the finally established status of an adult member of society",
+            "kk": "ересек қоғам мүшесінің түпкілікті бекіген мәртебесі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "полная независимость от норм и ожиданий общества",
+            "en": "complete independence from the norms and expectations of society",
+            "kk": "қоғамның нормалары мен күтулерінен толық тәуелсіздік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "переходная ступень от роли ребёнка к роли взрослого",
+            "en": "a transitional step from the role of a child to the role of an adult",
+            "kk": "баланың рөлінен ересектің рөліне өтпелі саты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "роль, не связанная ни с одним социальным институтом",
+            "en": "a role not connected with any social institution",
+            "kk": "ешбір әлеуметтік институтпен байланысты емес рөл"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "строгое подчинение только семейной традиции и старшим",
+            "en": "strict subordination only to family tradition and elders",
+            "kk": "тек отбасылық дәстүр мен үлкендерге қатаң бағыну"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Ролевой подход видит в молодом человеке того, кто уже не ребёнок, но ещё не взрослый, то есть переходную ступень между ролями.",
+        "en": "The role approach sees a young person as someone who is no longer a child but not yet an adult, that is, a transitional step between roles.",
+        "kk": "Рөлдік тәсіл жас адамды бала емес, бірақ әлі ересек те емес, яғни рөлдер арасындағы өтпелі саты деп көреді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 7 Молодежь и общество .pdf",
+          "location": "строка 72 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 7 Молодежь и общество .pdf",
+          "location": "строка 287 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое условие, согласно концепции Карла Манхейма, позволяет отличить поколение как социально-историческую общность от простой совокупности людей близкого возраста?",
+        "en": "Which condition, according to Karl Mannheim's concept, makes it possible to distinguish a generation as a socio-historical community from a mere aggregate of people of similar age?",
+        "kk": "Карл Маннхайм тұжырымдамасы бойынша қандай шарт ұрпақты жасы жақын адамдардың қарапайым жиынтығынан әлеуметтік-тарихи қауымдастық ретінде ажыратуға мүмкіндік береді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Общий уровень дохода и сходный профессиональный статус",
+            "en": "A common level of income and a similar professional status",
+            "kk": "Табыстың ортақ деңгейі және ұқсас кәсіби мәртебе"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Близость дат рождения и одинаковый биологический возраст",
+            "en": "Closeness of birth dates and the same biological age",
+            "kk": "Туған күндерінің жақындығы және бірдей биологиялық жас"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Общая включённость в одни и те же исторические события",
+            "en": "Shared involvement in one and the same historical events",
+            "kk": "Бір тарихи оқиғаларға ортақ қатысу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Общая историческая родина и происхождение предков",
+            "en": "A common historical homeland and ancestry",
+            "kk": "Ортақ тарихи отан және ата-бабалардың шығу тегі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Проживание в одной семье и общая семейная традиция воспитания",
+            "en": "Living in one family and a common family tradition of upbringing",
+            "kk": "Бір отбасында тұру және ортақ отбасылық тәрбие дәстүрі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "По Манхейму поколение становится социально-исторической общностью благодаря общей включённости в одни и те же исторические события и процессы, а не из-за одного возраста.",
+        "en": "According to Mannheim, a generation becomes a socio-historical community through common involvement in the same historical events and processes, not through age alone.",
+        "kk": "Маннхайм бойынша ұрпақ тек жасына байланысты емес, бір тарихи оқиғалар мен процестерге ортақ қатысуы арқасында әлеуметтік-тарихи қауымдастыққа айналады."
+      }
+    }
+  ]
+}

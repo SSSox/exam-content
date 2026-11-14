@@ -1,0 +1,138 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 9,
+  "topic_name": "Sociology of Ethnicity and Nation",
+  "questions": {
+    "43": {
+      "question": "People who live in the same territory for a long time form...",
+      "options": {
+        "A": "a political party",
+        "B": "a reference group",
+        "C": "an administrative-territorial unit",
+        "D": "a territorial community",
+        "E": "a professional corporation"
+      }
+    },
+    "44": {
+      "question": "A stable community of people, historically formed in a particular territory, with similar features of culture, psychology and self-awareness, is...",
+      "options": {
+        "A": "an ethnos",
+        "B": "a social class",
+        "C": "a social stratum",
+        "D": "a social institution",
+        "E": "a social organization"
+      }
+    },
+    "45": {
+      "question": "Ethnic groups include:",
+      "options": {
+        "A": "Tribe",
+        "B": "Class",
+        "C": "Nationality",
+        "D": "Party",
+        "E": "Nation"
+      }
+    },
+    "46": {
+      "question": "Forms of oppression of people's rights on the basis of race, nation, ethnicity and...",
+      "options": {
+        "A": "religious belief",
+        "B": "blood type",
+        "C": "height",
+        "D": "temperament type",
+        "E": "shoe size"
+      }
+    },
+    "67": {
+      "question": "What does ethnic self-identification mean?",
+      "options": {
+        "A": "A person's awareness of belonging to an ethnic community",
+        "B": "The determination of a person's ethnic affiliation by other people",
+        "C": "The nationality entry in a person's identity document",
+        "D": "Speaking one's native language at a conversational level",
+        "E": "Citizenship of the state of residence and the rights it gives"
+      }
+    },
+    "128": {
+      "question": "Ethnicity and citizenship differ in that...",
+      "options": {
+        "A": "citizenship is passed on only by blood, while ethnicity is determined by a passport",
+        "B": "ethnicity rests on a cultural community, while citizenship rests on a legal bond",
+        "C": "ethnicity is fixed by a law on nationality, while citizenship is determined by language",
+        "D": "citizenship depends on a person's faith, while ethnicity depends on their place of work",
+        "E": "ethnicity and citizenship always coincide for any person and any society"
+      }
+    },
+    "129": {
+      "question": "In the civic understanding, a nation is...",
+      "options": {
+        "A": "a community of the citizens of a state regardless of ethnicity",
+        "B": "a group of people with common blood descent and language",
+        "C": "a community of people of one faith living in different countries",
+        "D": "an association of people of one profession within an industry",
+        "E": "a union of states with a single market and customs policy"
+      }
+    },
+    "130": {
+      "question": "Interethnic relations cover...",
+      "options": {
+        "A": "relations between different generations within one family",
+        "B": "ties between social classes within one ethnos",
+        "C": "relations between employers and employees in an organization",
+        "D": "communication among people within a small group of friends or colleagues",
+        "E": "the interaction and communication of different ethnic groups"
+      }
+    },
+    "174": {
+      "question": "The ethnic composition of a city is judged only by the visitors to one cultural center. Identify the limitation of such a conclusion.",
+      "options": {
+        "A": "The center's visitors are a selected group that does not represent the city's population",
+        "B": "Ethnic composition can be determined only by religious affiliation",
+        "C": "By law, cultural centers may not record the nationality of their visitors",
+        "D": "Ethnicity is determined solely by place of birth, not by culture",
+        "E": "The conclusion is limited only by the fact that the visitors speak different languages"
+      }
+    },
+    "175": {
+      "question": "Descendants of migrants who have lost part of their ancestors' language begin to restore family memory, symbols and collective festivals. Which explanation corresponds to the constructivist approach?",
+      "options": {
+        "A": "Group membership is encoded in the genetic code and shows itself regardless of conditions",
+        "B": "Elites create myths for the sake of power and gain, mobilizing the group",
+        "C": "Natural assimilation is taking place, which rules out interest in one's origins",
+        "D": "Ethnicity is created anew by people themselves rather than given by nature",
+        "E": "Ethnicity is entirely determined by the descendants' legal citizenship"
+      }
+    },
+    "180": {
+      "question": "What does the combination of ethnic, civic and professional affiliation in one person indicate?",
+      "options": {
+        "A": "The loss of ethnic identity under the influence of profession and citizenship",
+        "B": "The multidimensionality of the personality and the plurality of identities",
+        "C": "That citizenship completely cancels out ethnic affiliation",
+        "D": "An unavoidable inner conflict among these affiliations",
+        "E": "Weak social integration of the person into society and groups"
+      }
+    },
+    "181": {
+      "question": "The primordialist interpretation of ethnic groups emphasizes...",
+      "options": {
+        "A": "the inherited, natural basis of ethnic affiliation",
+        "B": "the use of ethnic myths by elites for the sake of power",
+        "C": "the social organization of cultural differences",
+        "D": "the construction of ethnic traits in people's activity",
+        "E": "a common communicative space as the basis of ethnicity"
+      }
+    },
+    "182": {
+      "question": "The analysis of the social boundaries of ethnic groups is associated with the name of...",
+      "options": {
+        "A": "Clifford Geertz",
+        "B": "Yulian Bromley",
+        "C": "Fredrik Barth",
+        "D": "Peter Berger",
+        "E": "Émile Durkheim"
+      }
+    }
+  }
+}

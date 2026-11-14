@@ -1,0 +1,138 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 12,
+  "topic_name": "Economy, Globalization and Labour",
+  "questions": {
+    "28": {
+      "question": "The idea that the subject matter of economic sociology is social action was put forward by...",
+      "options": {
+        "A": "Karl Marx",
+        "B": "Émile Durkheim",
+        "C": "Max Weber",
+        "D": "Auguste Comte",
+        "E": "Herbert Spencer"
+      }
+    },
+    "30": {
+      "question": "Which term was introduced by Thorstein Veblen in The Theory of the Leisure Class?",
+      "options": {
+        "A": "The Protestant ethic",
+        "B": "Conspicuous consumption",
+        "C": "Social stratification",
+        "D": "Cultural capital",
+        "E": "Rational choice"
+      }
+    },
+    "32": {
+      "question": "What is the model of economic man according to Adam Smith?",
+      "options": {
+        "A": "A bearer of social roles who acts according to the norms and expectations of the group",
+        "B": "A member of a community guided by solidarity, morality and a sense of duty",
+        "C": "A wage worker deprived of the means of production and subject to exploitation",
+        "D": "A rational individual who seeks to maximize their own benefit",
+        "E": "An adherent of tradition who relies on the habit and custom of their ancestors"
+      }
+    },
+    "33": {
+      "question": "Which two main types of economic growth does economic theory distinguish?",
+      "options": {
+        "A": "Extensive",
+        "B": "Nominalist",
+        "C": "Realist",
+        "D": "Intensive",
+        "E": "Hedonistic"
+      }
+    },
+    "34": {
+      "question": "Modern economic theory covers the period from the late 19th century to the present and includes four main schools: the sociological, the institutional-sociological, and...",
+      "options": {
+        "A": "the neoclassical and the Keynesian",
+        "B": "the mercantilist and the physiocratic",
+        "C": "the network and the cultural-historical",
+        "D": "the structural and the functional",
+        "E": "the theological and the metaphysical"
+      }
+    },
+    "35": {
+      "question": "Whose is the marginalist model of man, the \"rational maximizer\", who rationalizes consumption understood as an exchange of goods expressed in monetary equivalent?",
+      "options": {
+        "A": "Léon Walras",
+        "B": "Adam Smith",
+        "C": "Karl Marx",
+        "D": "Max Weber",
+        "E": "Émile Durkheim"
+      }
+    },
+    "141": {
+      "question": "The sociology of labour is directly concerned with the problem of...",
+      "options": {
+        "A": "the causes of rising suicide among the urban population",
+        "B": "the nature of social relations in the sphere of production",
+        "C": "the forms of religious rites in the world confessions",
+        "D": "the pace of urbanization in the developing countries of Asia and Africa",
+        "E": "the mechanisms by which teenagers' ethnic identity is formed"
+      }
+    },
+    "142": {
+      "question": "The division of labour is...",
+      "options": {
+        "A": "the merging of all labour functions in a single profession",
+        "B": "the transfer of the means of production to the workers themselves",
+        "C": "the movement of capital between national markets",
+        "D": "the exchange of goods at market prices",
+        "E": "the specialization of workers in particular kinds of activity"
+      }
+    },
+    "143": {
+      "question": "The globalization of production means...",
+      "options": {
+        "A": "a return of production to the subsistence farming of small separate communities",
+        "B": "the organization of production by transnational companies around the world",
+        "C": "a reduction in international trade in favor of local markets and crafts",
+        "D": "the replacement of machine labour by manual labour in traditional societies and communities",
+        "E": "the confinement of production strictly within the borders of one state"
+      }
+    },
+    "144": {
+      "question": "In the concept of postindustrial society, the growing role of...",
+      "options": {
+        "A": "land and natural raw materials",
+        "B": "manual labour in agriculture",
+        "C": "human knowledge and computer technology",
+        "D": "the standard operations of large-scale machine production",
+        "E": "the worker's personal dependence on the landowner"
+      }
+    },
+    "145": {
+      "question": "Glocalization denotes...",
+      "options": {
+        "A": "the complete standardization of cultures on a single global model",
+        "B": "the shrinking of the world thanks to new communication technologies",
+        "C": "the movement of capital through world financial markets",
+        "D": "the combination of global processes and local features",
+        "E": "a growing number of international organizations regulating the economy"
+      }
+    },
+    "146": {
+      "question": "The industrial type of economic organization is connected above all with...",
+      "options": {
+        "A": "large-scale machine production and wage labour",
+        "B": "subsistence farms producing for their own needs",
+        "C": "production based on microelectronic technologies",
+        "D": "workers' personal dependence on landowners",
+        "E": "the leading role of knowledge and information services"
+      }
+    },
+    "147": {
+      "question": "Economic sociology studies...",
+      "options": {
+        "A": "the patterns of change in prices and currency exchange rates on exchanges",
+        "B": "the optimal allocation of resources by means of mathematical models",
+        "C": "the interaction of economic and social processes in society",
+        "D": "the biological foundations of consumer behavior",
+        "E": "the internal structure of government bodies"
+      }
+    }
+  }
+}

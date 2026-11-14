@@ -1,0 +1,1387 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 1,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Форма социально санкционированного, упорядоченного, символического поведения, совокупность регулярно совершаемых действий и их установленный порядок — это...",
+        "en": "A form of socially sanctioned, ordered, symbolic behavior, a set of regularly performed actions and their established order, is a...",
+        "kk": "Қоғам санкциялаған, реттелген, символдық мінез-құлық нысаны, тұрақты жасалатын әрекеттер жиынтығы және олардың белгіленген тәртібі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "миф",
+            "en": "myth",
+            "kk": "миф"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "табу",
+            "en": "taboo",
+            "kk": "табу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "ритуал",
+            "en": "ritual",
+            "kk": "ғұрып"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "санкция",
+            "en": "sanction",
+            "kk": "санкция"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "ценность",
+            "en": "value",
+            "kk": "құндылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Ритуал — регулярно воспроизводимая символическая последовательность действий, санкционированная обществом.",
+        "en": "A ritual is a regularly reproduced symbolic sequence of actions sanctioned by society.",
+        "kk": "Ғұрып — қоғам санкциялаған, тұрақты қайталанатын символдық әрекеттер тізбегі."
+      }
+    },
+    {
+      "id": 2,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Процесс высвобождения из-под влияния религии различных сторон и уровней жизнедеятельности общества и личности называется...",
+        "en": "The process by which various spheres and levels of social and personal life are released from the influence of religion is called...",
+        "kk": "Қоғам мен тұлға өмірінің әртүрлі жақтары мен деңгейлерінің дін ықпалынан босау процесі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "секуляризация",
+            "en": "secularization",
+            "kk": "секуляризация"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "сакрализация",
+            "en": "sacralization",
+            "kk": "сакрализация"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "десекуляризация",
+            "en": "desecularization",
+            "kk": "десекуляризация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "конфессионализация",
+            "en": "confessionalization",
+            "kk": "конфессияландыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "ресоциализация",
+            "en": "resocialization",
+            "kk": "қайта әлеуметтену"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Секуляризация — высвобождение общественных институтов, сознания и личности из-под влияния религии; десекуляризация, наоборот, означает усиление её роли.",
+        "en": "Secularization is the release of social institutions, consciousness and the individual from the influence of religion; desecularization, by contrast, means a strengthening of its role.",
+        "kk": "Секуляризация — қоғамдық институттардың, сананың және тұлғаның дін ықпалынан босауы; десекуляризация, керісінше, діннің рөлінің күшеюін білдіреді."
+      }
+    },
+    {
+      "id": 37,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Совокупность мифов, легенд, сказаний, эпоса, которые созданы авторами, не имеющими профессиональной подготовки, — это ... культура.",
+        "en": "A body of myths, legends, tales and epics created by authors with no professional training is ... culture.",
+        "kk": "Кәсіби дайындығы жоқ авторлар жасаған мифтер, аңыздар, әпсаналар, эпос жиынтығы — бұл ... мәдениет."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "элитарная",
+            "en": "elite",
+            "kk": "элиталық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "массовая",
+            "en": "mass",
+            "kk": "бұқаралық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "виртуальная",
+            "en": "virtual",
+            "kk": "виртуалды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "народная",
+            "en": "folk",
+            "kk": "халықтық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "доминирующая",
+            "en": "dominant",
+            "kk": "үстем"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Народная (фольклорная) культура создаётся анонимными непрофессиональными авторами: мифы, легенды, сказания, эпос.",
+        "en": "Folk (folklore) culture is created by anonymous, non-professional authors: myths, legends, tales, epics.",
+        "kk": "Халықтық (фольклорлық) мәдениетті аты-жөні белгісіз, кәсіби емес авторлар жасайды: мифтер, аңыздар, әпсаналар, эпос."
+      }
+    },
+    {
+      "id": 38,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Какие виды культуры выделяются в социологии?",
+        "en": "Which types of culture are distinguished in sociology?",
+        "kk": "Әлеуметтануда мәдениеттің қандай түрлері бөлінеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Биологическая",
+            "en": "Biological",
+            "kk": "Биологиялық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Материальная",
+            "en": "Material",
+            "kk": "Материалдық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Климатическая",
+            "en": "Climatic",
+            "kk": "Климаттық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Стихийная",
+            "en": "Spontaneous",
+            "kk": "Стихиялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Духовная",
+            "en": "Spiritual",
+            "kk": "Рухани"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Культура делится на материальную (предметы и технологии) и духовную (нематериальную: ценности, нормы, знания).",
+        "en": "Culture is divided into material (objects and technologies) and spiritual (non-material: values, norms, knowledge).",
+        "kk": "Мәдениет материалдық (заттар мен технологиялар) және рухани (материалдық емес: құндылықтар, нормалар, білім) болып бөлінеді."
+      }
+    },
+    {
+      "id": 39,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "К элементам культуры не относится:",
+        "en": "The following does not belong to the elements of culture:",
+        "kk": "Мәдениет элементтеріне жатпайды:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Язык общения людей",
+            "en": "The language people use",
+            "kk": "Адамдардың қарым-қатынас тілі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Нормы поведения",
+            "en": "Norms of behavior",
+            "kk": "Мінез-құлық нормалары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Рельеф местности",
+            "en": "The terrain of an area",
+            "kk": "Жер бедері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Научные знания",
+            "en": "Scientific knowledge",
+            "kk": "Ғылыми білім"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Символы и знаки",
+            "en": "Symbols and signs",
+            "kk": "Символдар мен белгілер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Язык, нормы, знания и символы — составные части культуры, а рельеф относится к природной среде.",
+        "en": "Language, norms, knowledge and symbols are components of culture, whereas terrain belongs to the natural environment.",
+        "kk": "Тіл, нормалар, білім және символдар — мәдениеттің құрамдас бөліктері, ал жер бедері табиғи ортаға жатады."
+      }
+    },
+    {
+      "id": 40,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Элементы социального и культурного наследия, передающиеся из поколения в поколение и сохраняющиеся в определённом сообществе, в социальной группе в течение длительного времени, — это...",
+        "en": "Elements of social and cultural heritage that are passed from generation to generation and preserved in a community or social group for a long time are...",
+        "kk": "Ұрпақтан ұрпаққа берілетін және белгілі бір қауымдастықта, әлеуметтік топта ұзақ уақыт сақталатын әлеуметтік және мәдени мұра элементтері — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "мода",
+            "en": "fashion",
+            "kk": "сән"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "инновации",
+            "en": "innovations",
+            "kk": "инновациялар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "стереотипы",
+            "en": "stereotypes",
+            "kk": "стереотиптер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "санкции",
+            "en": "sanctions",
+            "kk": "санкциялар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "традиции",
+            "en": "traditions",
+            "kk": "дәстүрлер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Традиции — элементы социального и культурного наследия, передаваемые из поколения в поколение.",
+        "en": "Traditions are elements of social and cultural heritage handed down from generation to generation.",
+        "kk": "Дәстүрлер — ұрпақтан ұрпаққа берілетін әлеуметтік және мәдени мұра элементтері."
+      }
+    },
+    {
+      "id": 41,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что представляет собой символ в социологии религии?",
+        "en": "What is a symbol in the sociology of religion?",
+        "kk": "Дін әлеуметтануында символ дегеніміз не?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Обряд, совершаемый строго в предписанном порядке и месте",
+            "en": "A rite performed strictly in a prescribed order and place",
+            "kk": "Белгіленген тәртіппен және жерде қатаң орындалатын рәсім"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Знак со священным смыслом, выражающий верования общины",
+            "en": "A sign with sacred meaning that expresses the beliefs of a community",
+            "kk": "Қауымның сенімдерін білдіретін қасиетті мағыналы белгі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Свод правил поведения верующих в повседневной жизни общины",
+            "en": "A set of rules for believers' conduct in the everyday life of the community",
+            "kk": "Қауым өмірінде сенушілердің күнделікті мінез-құлық ережелерінің жиынтығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Организационная структура и иерархия религиозного объединения",
+            "en": "The organizational structure and hierarchy of a religious association",
+            "kk": "Діни бірлестіктің ұйымдық құрылымы мен иерархиясы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Научное доказательство существования сверхъестественных сил",
+            "en": "Scientific proof of the existence of supernatural forces",
+            "kk": "Табиғаттан тыс күштердің бар екенін ғылыми дәлелдеу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Символ в религии — знак, несущий сакральный смысл и выражающий верования; он не равен обряду или организационной структуре.",
+        "en": "A religious symbol is a sign carrying sacred meaning and expressing beliefs; it is not the same as a rite or an organizational structure.",
+        "kk": "Діндегі символ — қасиетті мағына беретін және сенімдерді білдіретін белгі; ол рәсімге де, ұйымдық құрылымға да тең емес."
+      }
+    },
+    {
+      "id": 42,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое-либо символическое действие, которое лишено цели и рационального объяснения, но совершается регулярно, называется...",
+        "en": "Any symbolic action that has no purpose or rational explanation but is performed regularly is called...",
+        "kk": "Мақсаты мен ақылға қонымды түсіндірмесі жоқ, бірақ тұрақты орындалатын кез келген символдық әрекет — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "мода",
+            "en": "a fashion",
+            "kk": "сән"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "ритуал",
+            "en": "a ritual",
+            "kk": "ғұрып"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "стереотип",
+            "en": "a stereotype",
+            "kk": "стереотип"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "инновация",
+            "en": "an innovation",
+            "kk": "инновация"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "догма",
+            "en": "a dogma",
+            "kk": "догма"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Ритуал — регулярное символическое действие, значимое самим фактом исполнения, а не практической целью.",
+        "en": "A ritual is a regular symbolic action that matters through the very fact of its performance, not through a practical goal.",
+        "kk": "Ғұрып — тұрақты символдық әрекет; оның маңызы практикалық мақсатта емес, орындалу фактісінің өзінде."
+      }
+    },
+    {
+      "id": 48,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Назовите составные элементы культуры, выделенные антропологом Уордом Гуденау.",
+        "en": "Name the components of culture identified by the anthropologist Ward Goodenough.",
+        "kk": "Антрополог Уорд Гудинаф бөліп көрсеткен мәдениеттің құрамдас элементтерін атаңыз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ценности",
+            "en": "Values",
+            "kk": "Құндылықтар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Инстинкты",
+            "en": "Instincts",
+            "kk": "Инстинктер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Правила",
+            "en": "Rules",
+            "kk": "Ережелер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Понятия",
+            "en": "Concepts",
+            "kk": "Ұғымдар"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Климат",
+            "en": "Climate",
+            "kk": "Климат"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explanation": {
+        "ru": "По У. Гуденау, культура складывается из понятий, отношений, ценностей и правил, которые человек усваивает в обществе; инстинкты и климат к элементам культуры не относятся.",
+        "en": "According to W. Goodenough, culture consists of concepts, relations, values and rules that a person learns in society; instincts and climate are not elements of culture.",
+        "kk": "У. Гудинафтың пайымынша, мәдениет адам қоғамда меңгеретін ұғымдардан, қатынастардан, құндылықтар мен ережелерден құралады; инстинктер мен климат мәдениет элементтеріне жатпайды."
+      }
+    },
+    {
+      "id": 49,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Элементом культуры не является:",
+        "en": "The following is not an element of culture:",
+        "kk": "Мәдениеттің элементі болып табылмайды:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наследственные биологические признаки",
+            "en": "Inherited biological traits",
+            "kk": "Тұқым қуалайтын биологиялық белгілер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Обычаи и традиции своего народа",
+            "en": "The customs and traditions of one's people",
+            "kk": "Өз халқының әдет-ғұрпы мен дәстүрлері"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ритуалы и обряды религиозной общины",
+            "en": "The rituals and rites of a religious community",
+            "kk": "Діни қауымның ғұрыптары мен рәсімдері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Верования и представления своего народа",
+            "en": "The beliefs and ideas of one's people",
+            "kk": "Өз халқының наным-сенімдері мен түсініктері"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ценности и жизненные идеалы своего общества",
+            "en": "The values and life ideals of one's society",
+            "kk": "Өз қоғамының құндылықтары мен өмірлік мұраттары"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Культура усваивается и передаётся в обществе, а биологические признаки наследуются и элементом культуры не являются.",
+        "en": "Culture is learned and transmitted in society, whereas biological traits are inherited and are not an element of culture.",
+        "kk": "Мәдениет қоғамда меңгеріледі және беріледі, ал биологиялық белгілер тұқым қуалайды және мәдениет элементі болып табылмайды."
+      }
+    },
+    {
+      "id": 50,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "К негативным последствиям глобализации в сфере культуры можно отнести проявление...",
+        "en": "Negative consequences of globalization in the sphere of culture include the emergence of...",
+        "kk": "Мәдениет саласындағы жаһанданудың жағымсыз салдарына мыналар жатады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "межкультурного обмена достижениями науки",
+            "en": "intercultural exchange of scientific achievements",
+            "kk": "ғылым жетістіктерімен мәдениетаралық өзара алмасу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "диалога между разными культурами",
+            "en": "dialogue between different cultures",
+            "kk": "әртүрлі мәдениеттер арасындағы диалог"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "культурной унификации и утраты самобытности",
+            "en": "cultural unification and loss of identity",
+            "kk": "мәдени біркелкілендіру мен өзіндік ерекшеліктің жоғалуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "интереса к мировому наследию",
+            "en": "interest in the world heritage",
+            "kk": "әлемдік мұраға қызығушылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "терпимости к иным традициям",
+            "en": "tolerance of other traditions",
+            "kk": "өзге дәстүрлерге төзімділік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Негативный эффект глобализации в культуре — стандартизация, вытесняющая национальную самобытность и местные языки.",
+        "en": "The negative effect of globalization in culture is standardization, which displaces national identity and local languages.",
+        "kk": "Мәдениеттегі жаһанданудың жағымсыз әсері — ұлттық өзіндік ерекшелік пен жергілікті тілдерді ығыстыратын стандарттау."
+      }
+    },
+    {
+      "id": 78,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Процесс высвобождения из-под влияния религии различных сторон и уровней жизнедеятельности общества и личности называется...",
+        "en": "The process by which various spheres and levels of social and personal life are released from the influence of religion is called...",
+        "kk": "Қоғам мен тұлға өмірінің әртүрлі жақтары мен деңгейлерінің дін ықпалынан босау процесі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "модернизация",
+            "en": "modernization",
+            "kk": "модернизация"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "индустриализация",
+            "en": "industrialization",
+            "kk": "индустрияландыру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "урбанизация",
+            "en": "urbanization",
+            "kk": "урбандалу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "секуляризация",
+            "en": "secularization",
+            "kk": "секуляризация"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "либерализация",
+            "en": "liberalization",
+            "kk": "либерализация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Секуляризация — процесс освобождения общества и личности от влияния религии.",
+        "en": "Secularization is the process of freeing society and the individual from the influence of religion.",
+        "kk": "Секуляризация — қоғам мен тұлғаның дін ықпалынан босау процесі."
+      }
+    },
+    {
+      "id": 102,
+      "topic_id": 8,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой исследовательский вопрос наиболее непосредственно соответствует предмету социологии религии?",
+        "en": "Which research question corresponds most directly to the subject matter of the sociology of religion?",
+        "kk": "Қандай зерттеу сұрағы дін әлеуметтануының пәніне ең тікелей сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Существует ли Бог и каковы его природа и свойства?",
+            "en": "Does God exist, and what are his nature and properties?",
+            "kk": "Құдай бар ма, оның табиғаты мен қасиеттері қандай?"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Какая из мировых религий является единственно истинной?",
+            "en": "Which of the world religions is the only true one?",
+            "kk": "Әлемдік діндердің қайсысы жалғыз ақиқат?"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Как менялась доля верующих в разных возрастных группах?",
+            "en": "How has the share of believers changed across age groups?",
+            "kk": "Әртүрлі жас топтарында сенушілердің үлесі қалай өзгерді?"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Как верно истолковать догмат о Троице и воплощении?",
+            "en": "How should the dogma of the Trinity and the incarnation be correctly interpreted?",
+            "kk": "Үштік және Құдайдың адам болып келуі туралы догманы қалай дұрыс түсіндіру керек?"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Какие молитвы и посты предписаны священными текстами?",
+            "en": "Which prayers and fasts are prescribed by sacred texts?",
+            "kk": "Қасиетті мәтіндерде қандай дұғалар мен оразалар белгіленген?"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Социология религии изучает численность верующих и активность в религиозных практиках; вопросы об истинности веры и догматах относятся к теологии и философии.",
+        "en": "The sociology of religion studies the number of believers and activity in religious practices; questions about the truth of faith and about dogma belong to theology and philosophy.",
+        "kk": "Дін әлеуметтануы сенушілер санын және діни тәжірибелердегі белсенділікті зерттейді; сенімнің ақиқаттығы мен догматтар туралы сұрақтар теология мен философияға жатады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8 Религия и т.д..pdf",
+          "location": "строки 443–445 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Предмет социологии религии составляет...",
+        "en": "The subject matter of the sociology of religion consists of...",
+        "kk": "Дін әлеуметтануының пәнін мыналар құрайды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "верования, практики и организационные формы религии",
+            "en": "the beliefs, practices and organizational forms of religion",
+            "kk": "діннің наным-сенімдері, тәжірибелері және ұйымдық нысандары"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "богословское обоснование догматов и вероучения церкви",
+            "en": "the theological justification of dogma and of the church's creed",
+            "kk": "догматтар мен шіркеу ілімінің теологиялық негіздемесі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "сравнительное изучение священных текстов разных религий",
+            "en": "the comparative study of the sacred texts of different religions",
+            "kk": "әртүрлі діндердің қасиетті мәтіндерін салыстыра зерттеу"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "история церковной архитектуры и храмового зодчества",
+            "en": "the history of church architecture and temple building",
+            "kk": "шіркеу сәулеті мен ғибадатхана құрылысының тарихы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "происхождение религиозной символики и культовых предметов",
+            "en": "the origin of religious symbols and cult objects",
+            "kk": "діни символика мен культ заттарының шығу тегі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Лекция 8 определяет предмет как верования, религиозные практики и организационные формы религии.",
+        "en": "Lecture 8 defines the subject as the beliefs, religious practices and organizational forms of religion.",
+        "kk": "8-дәріс пәнді діннің наным-сенімдері, діни тәжірибелері және ұйымдық нысандары деп айқындайды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8 Религия и т.д..pdf",
+          "location": "строки 426–427 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Секуляризация на институциональном уровне означает...",
+        "en": "Secularization at the institutional level means...",
+        "kk": "Институционалдық деңгейдегі секуляризация — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "рост числа культовых сооружений в городах и сёлах",
+            "en": "a growing number of places of worship in cities and villages",
+            "kk": "қалалар мен ауылдарда ғибадат ғимараттары санының өсуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "отделение общественных институтов от религиозных ценностей",
+            "en": "the separation of social institutions from religious values",
+            "kk": "қоғамдық институттардың діни құндылықтардан бөлінуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "усиление роли религии в публичной сфере и в политике",
+            "en": "a stronger role of religion in the public sphere and in politics",
+            "kk": "діннің қоғамдық салада және саясатта рөлінің күшеюі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "возврат к исконным догматам и обычаям своей конфессии",
+            "en": "a return to the original dogmas and customs of one's confession",
+            "kk": "өз конфессиясының бастапқы догмалары мен әдет-ғұрпына қайта оралу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "появление новых религиозных движений и сект в обществе",
+            "en": "the emergence of new religious movements and sects in society",
+            "kk": "қоғамда жаңа діни қозғалыстар мен секталардың пайда болуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Институциональная секуляризация — дифференциация общественных институтов от религиозных ценностных установок.",
+        "en": "Institutional secularization is the differentiation of social institutions from religious value orientations.",
+        "kk": "Институционалдық секуляризация — қоғамдық институттардың діни құндылықтық бағдарлардан ажырауы (дифференциациясы)."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8 Религия и т.д..pdf",
+          "location": "строки 206–207 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Религиозный модернизм характеризуется ориентацией на...",
+        "en": "Religious modernism is characterized by an orientation toward...",
+        "kk": "Діни модернизм мынаған бағдарлануымен сипатталады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "возврат к исконному укладу жизни своих предков",
+            "en": "a return to the original way of life of one's ancestors",
+            "kk": "ата-бабаларының бастапқы өмір салтына қайта оралуға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "неизменность догматики и церковной традиции",
+            "en": "the immutability of doctrine and church tradition",
+            "kk": "догматика мен шіркеу дәстүрінің өзгермейтіндігіне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "буквальное прочтение священных текстов и преданий",
+            "en": "a literal reading of sacred texts and traditions",
+            "kk": "қасиетті мәтіндер мен аңыздарды сөзбе-сөз оқуға"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "консервативный политический строй государства",
+            "en": "a conservative political order in the state",
+            "kk": "мемлекеттің консервативті саяси құрылысына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "обновление церковных практик с учётом науки",
+            "en": "renewal of church practices in light of science",
+            "kk": "ғылымды ескере отырып, шіркеу тәжірибесін жаңартуға"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Модернизм требует своевременно менять религиозные практики и организацию церкви под влиянием науки и новых реалий.",
+        "en": "Modernism holds that religious practices and church organization should be changed in good time under the influence of science and new realities.",
+        "kk": "Модернизм ғылым мен жаңа шындықтардың әсерімен діни тәжірибені және шіркеу ұйымын уақтылы өзгертуді талап етеді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8 Религия и т.д..pdf",
+          "location": "строки 79–83 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В работе «Протестантская этика и дух капитализма» Макс Вебер исследует...",
+        "en": "In The Protestant Ethic and the Spirit of Capitalism, Max Weber examines...",
+        "kk": "«Протестанттық этика және капитализм рухы» еңбегінде Макс Вебер мынаны зерттейді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "роль тотемов в выражении коллективного сознания племени",
+            "en": "the role of totems in expressing the collective consciousness of a tribe",
+            "kk": "тотемдердің тайпаның ұжымдық санасын білдірудегі рөлін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "религию как форму отчуждения человека и опиум для народа",
+            "en": "religion as a form of human alienation and the opium of the people",
+            "kk": "дінді адамның жатсыну нысаны және «халық апиыны» ретінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "влияние пуританской этики на формирование духа капитализма",
+            "en": "the influence of the Puritan ethic on the formation of the spirit of capitalism",
+            "kk": "пуритандық этиканың капитализм рухының қалыптасуына ықпалын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "переход от теологической стадии мышления к позитивной",
+            "en": "the transition from the theological to the positive stage of thought",
+            "kk": "ойлаудың теологиялық сатыдан позитивті сатыға өтуін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "рост публичной роли религии в современных обществах",
+            "en": "the growing public role of religion in modern societies",
+            "kk": "қазіргі қоғамдарда діннің қоғамдық рөлінің өсуін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Вебер связал рациональное стремление к прибыли с пуританской этикой предопределения.",
+        "en": "Weber linked the rational pursuit of profit with the Puritan ethic of predestination.",
+        "kk": "Вебер пайдаға рационал ұмтылысты пуритандық тағдыр белгілеу (предопределение) этикасымен байланыстырды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 8 Религия и т.д..pdf",
+          "location": "строки 382–385 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В социологии культура понимается как...",
+        "en": "In sociology, culture is understood as...",
+        "kk": "Әлеуметтануда мәдениет — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "совокупность природных условий жизни людей и ресурсов",
+            "en": "the totality of natural living conditions and resources",
+            "kk": "адамдардың табиғи өмір жағдайлары мен ресурстарының жиынтығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "только произведения высокого искусства и литературы",
+            "en": "only works of high art and literature",
+            "kk": "тек жоғары өнер мен әдебиет туындылары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "инстинкты поведения, передаваемые биологически по наследству",
+            "en": "behavioral instincts transmitted biologically by heredity",
+            "kk": "биологиялық жолмен тұқым қуалап берілетін мінез-құлық инстинктері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "система ценностей, норм и символов, разделяемых обществом",
+            "en": "a system of values, norms and symbols shared by a society",
+            "kk": "қоғам бөлісетін құндылықтар, нормалар мен символдар жүйесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "уровень образования и грамотности населения страны",
+            "en": "the level of education and literacy of a country's population",
+            "kk": "елдегі халықтың білім деңгейі мен сауаттылығы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Культура — общие практики, ценности и убеждения, разделяемые обществом или группой.",
+        "en": "Culture consists of the shared practices, values and beliefs of a society or group.",
+        "kk": "Мәдениет — қоғам немесе топ бөлісетін ортақ тәжірибелер, құндылықтар мен нанымдар."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 48 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Символ в культуре — это...",
+        "en": "A symbol in culture is...",
+        "kk": "Мәдениеттегі символ — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "условный знак, которому группа придаёт значение сверх его свойств",
+            "en": "a conventional sign to which a group assigns meaning beyond its properties",
+            "kk": "топ өз қасиетінен тыс мән беретін шартты белгі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "правило, закрепляющее наказание за нарушение нормы поведения",
+            "en": "a rule that fixes punishment for violating a norm of behavior",
+            "kk": "мінез-құлық нормасын бұзғаны үшін жазаны бекітетін ереже"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "врождённая реакция организма на внешний раздражитель среды",
+            "en": "an innate reaction of the organism to an external stimulus",
+            "kk": "ағзаның сыртқы тітіркендіргішке туа біткен реакциясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "предмет, ценность которого целиком равна его рыночной стоимости",
+            "en": "an object whose value is entirely equal to its market price",
+            "kk": "құндылығы толығымен нарықтық құнына тең зат"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "статистический показатель состояния общества и экономики",
+            "en": "a statistical indicator of the state of society and of the economy",
+            "kk": "қоғам мен экономика жай-күйінің статистикалық көрсеткіші"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Символ замещает смысл, значимый для группы, и понятен благодаря общим соглашениям.",
+        "en": "A symbol stands in for a meaning that matters to the group and is understood thanks to shared conventions.",
+        "kk": "Символ топ үшін маңызды мағынаны алмастырады және ортақ келісімдер арқасында түсінікті болады."
+      }
+    },
+    {
+      "id": 125,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "К материальной культуре относится...",
+        "en": "Material culture includes...",
+        "kk": "Материалдық мәдениетке не жатады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "система моральных норм и запретов",
+            "en": "a system of moral norms and prohibitions",
+            "kk": "Адамгершілік нормалары мен тыйымдар жүйесі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "жилые постройки и орудия труда",
+            "en": "dwellings and tools of labor",
+            "kk": "Тұрғын үйлер мен еңбек құралдары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "родной язык и речевые обычаи",
+            "en": "one's native language and speech customs",
+            "kk": "Ана тілі мен сөйлеу әдеттері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "религиозные верования и представления",
+            "en": "religious beliefs and ideas",
+            "kk": "Діни наным-сенімдер мен түсініктер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "ценностные ориентации людей в обществе",
+            "en": "the value orientations of people in society",
+            "kk": "Адамдардың құндылықтық бағдарлары"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Материальную культуру составляют созданные людьми вещи: постройки, орудия, предметы быта.",
+        "en": "Material culture consists of things made by people: buildings, tools, household objects.",
+        "kk": "Материалдық мәдениетті адамдар жасаған заттар құрайды: құрылыстар, құралдар, тұрмыс бұйымдары."
+      }
+    },
+    {
+      "id": 126,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Культурный релятивизм как исследовательская установка предполагает...",
+        "en": "Cultural relativism as a research stance implies...",
+        "kk": "Зерттеу ұстанымы ретіндегі мәдени релятивизм — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "ранжирование культур по уровню их развития и прогресса",
+            "en": "ranking cultures by their level of development and progress",
+            "kk": "мәдениеттерді даму мен прогресс деңгейі бойынша саралау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "признание своей культуры эталоном для других культур",
+            "en": "recognizing one's own culture as the standard for other cultures",
+            "kk": "өз мәдениетін басқа мәдениеттер үшін өлшем деп тану"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "отказ от изучения чужих культур как менее значимых",
+            "en": "refusing to study other cultures as less significant",
+            "kk": "бөтен мәдениеттерді аз маңызды деп зерттеуден бас тарту"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "навязывание единых ценностей всем обществам мира",
+            "en": "imposing uniform values on all societies of the world",
+            "kk": "әлемнің барлық қоғамдарына бірыңғай құндылықтарды таңу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "оценку каждой культуры по её собственным нормам",
+            "en": "evaluating each culture by its own norms",
+            "kk": "әр мәдениетті өзінің нормалары бойынша бағалау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Релятивизм требует понимать культуру изнутри, без универсальной шкалы превосходства.",
+        "en": "Relativism requires understanding a culture from within, without a universal scale of superiority.",
+        "kk": "Релятивизм мәдениетті іштен түсінуді талап етеді, артықшылықтың әмбебап шкаласынсыз."
+      }
+    },
+    {
+      "id": 127,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Религиозная социализация представляет собой...",
+        "en": "Religious socialization is...",
+        "kk": "Діни әлеуметтену — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "процесс отделения общественных институтов от религии и церкви",
+            "en": "the process of separating social institutions from religion and the church",
+            "kk": "қоғамдық институттардың діннен және шіркеуден бөлінуі процесі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "возврат к исконным догматам и традициям своей конфессии",
+            "en": "a return to the original dogmas and traditions of one's confession",
+            "kk": "өз конфессиясының бастапқы догмалары мен дәстүрлеріне қайта оралу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "процесс усвоения верований, норм и практик своей общины",
+            "en": "the process of acquiring the beliefs, norms and practices of one's community",
+            "kk": "өз қауымының наным-сенімдерін, нормалары мен тәжірибелерін меңгеру процесі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "научное изучение религии методами социологии и статистики",
+            "en": "the scientific study of religion by the methods of sociology and statistics",
+            "kk": "дінді әлеуметтану және статистика әдістерімен ғылыми зерттеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "слияние разных конфессий в единую церковь под общим руководством",
+            "en": "the merging of different confessions into a single church under common leadership",
+            "kk": "әртүрлі конфессияларды ортақ басшылықтағы бірыңғай шіркеуге біріктіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Религиозная социализация — усвоение верований, норм и обрядов своей религиозной общины.",
+        "en": "Religious socialization is the acquisition of the beliefs, norms and rites of one's religious community.",
+        "kk": "Діни әлеуметтену — өз діни қауымының наным-сенімдерін, нормалары мен ғұрыптарын меңгеру."
+      }
+    }
+  ]
+}

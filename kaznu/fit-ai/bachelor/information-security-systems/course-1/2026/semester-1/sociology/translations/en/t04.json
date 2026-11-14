@@ -1,0 +1,128 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 4,
+  "topic_name": "Social Structure and Stratification of Society",
+  "questions": {
+    "17": {
+      "question": "The characteristics underlying the formation of status groups in society from the point of view of Max Weber:",
+      "options": {
+        "A": "Relation to the means of production",
+        "B": "Social prestige",
+        "C": "The amount of income and property",
+        "D": "Lifestyle",
+        "E": "The amount of political power"
+      }
+    },
+    "20": {
+      "question": "Weber singled out the following components of inequality...",
+      "options": {
+        "A": "exploitation of hired workers",
+        "B": "property and income",
+        "C": "religious affiliation",
+        "D": "political power",
+        "E": "social prestige"
+      }
+    },
+    "27": {
+      "question": "The unequal access of large social groups (strata, estates, castes, classes) to economic resources, social goods and political power is...",
+      "options": {
+        "A": "social mobility",
+        "B": "social adaptation",
+        "C": "social inequality",
+        "D": "social solidarity",
+        "E": "social anomie"
+      }
+    },
+    "29": {
+      "question": "A person's level of provision below the subsistence minimum (temporary or stagnant) is...",
+      "options": {
+        "A": "unemployment",
+        "B": "poverty",
+        "C": "discrimination",
+        "D": "deviance",
+        "E": "social isolation"
+      }
+    },
+    "58": {
+      "question": "A manifestation of social stratification is...",
+      "options": {
+        "A": "an individual's assimilation of the norms and values of society",
+        "B": "the arrangement of large social groups in a hierarchy of privileges",
+        "C": "the distribution of the population between cities and villages",
+        "D": "a change of residence within the country",
+        "E": "the transmission of cultural patterns from generation to generation"
+      }
+    },
+    "71": {
+      "question": "Max Weber's multidimensional approach to social stratification involves distinguishing...",
+      "options": {
+        "A": "the bourgeoisie and the proletariat",
+        "B": "classes, status groups and parties",
+        "C": "economic, cultural, social and symbolic capital",
+        "D": "horizontal and vertical mobility",
+        "E": "managers, semi-autonomous employees and small employers"
+      }
+    },
+    "90": {
+      "question": "Vertical social mobility means...",
+      "options": {
+        "A": "a move to another group at the same hierarchical level",
+        "B": "the transmission of social status to children by inheritance from parents",
+        "C": "the movement of an individual up or down the steps of the structure",
+        "D": "moving from one region of the country to another for work",
+        "E": "acquiring new professional skills in refresher courses"
+      }
+    },
+    "91": {
+      "question": "A change in the social position of children compared with that of their parents is regarded as...",
+      "options": {
+        "A": "intragenerational mobility",
+        "B": "caste endogamy",
+        "C": "intergenerational mobility",
+        "D": "structural deprivation",
+        "E": "resocialization"
+      }
+    },
+    "92": {
+      "question": "The estate system of stratification is characterized by...",
+      "options": {
+        "A": "the determination of status by personal achievements",
+        "B": "the legal fixing of social position",
+        "C": "blurred boundaries between strata",
+        "D": "the passing of estate membership by inheritance",
+        "E": "the division of society into the bourgeoisie and the proletariat"
+      }
+    },
+    "93": {
+      "question": "The concept of “contradictory class locations” in Erik Olin Wright's concept denotes...",
+      "options": {
+        "A": "a position in which a person stands between the interests of two classes",
+        "B": "a person's lack of any class affiliation and interests",
+        "C": "the struggle of the two main classes for the means of production and power",
+        "D": "a mismatch between the level of education and qualifications and the position held",
+        "E": "a person's membership in several political parties at once"
+      }
+    },
+    "177": {
+      "question": "Which statement most accurately reflects the difference between K. Marx's class approach and M. Weber's multidimensional concept of social stratification?",
+      "options": {
+        "A": "Marx defined classes by their relation to property, while Weber also took power and prestige into account",
+        "B": "Marx singled out prestige and power, while Weber considered only property decisive",
+        "C": "Marx and Weber considered income alone to be the basis of inequality, differing in the number of classes",
+        "D": "Weber denied the significance of economic position, and Marx the significance of property",
+        "E": "Marx allowed three independent dimensions, and Weber two polar classes"
+      }
+    },
+    "179": {
+      "question": "Which circumstance makes it possible, from M. Weber's standpoint, to explain the difference in the social position of two individuals with roughly similar incomes?",
+      "options": {
+        "A": "A different relation to the means of production, which determines a person's position",
+        "B": "A difference in the prestige and lifestyle of status groups, as well as in the amount of power",
+        "C": "Membership in different castes, fixed by law",
+        "D": "Different cultural capital, understood as the only criterion",
+        "E": "A hidden difference in income not noticed in the comparison"
+      }
+    }
+  }
+}

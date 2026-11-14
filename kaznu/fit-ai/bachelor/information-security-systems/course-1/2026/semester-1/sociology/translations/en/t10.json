@@ -1,0 +1,128 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 10,
+  "topic_name": "Education and Social Inequality",
+  "questions": {
+    "131": {
+      "question": "Educational inequality is expressed in...",
+      "options": {
+        "A": "the compulsory nature of schooling for all children",
+        "B": "differences in access to education among different groups",
+        "C": "a growing number of educational institutions in the country",
+        "D": "the transmission of cultural norms from generation to generation",
+        "E": "the teaching of practical skills for everyday life"
+      }
+    },
+    "132": {
+      "question": "The economic function of education shows itself above all in...",
+      "options": {
+        "A": "the reproduction of the state ideology and the dominant worldview",
+        "B": "the development of creative activity and the improvement of national culture",
+        "C": "ensuring the dominance of a single system of social norms and values",
+        "D": "strengthening in-group cohesion among students and teachers",
+        "E": "training workers and shaping the social and occupational structure"
+      }
+    },
+    "133": {
+      "question": "The cultural function of education consists in...",
+      "options": {
+        "A": "reproducing and developing material and non-material culture",
+        "B": "training workers with the necessary knowledge and skills",
+        "C": "shaping the social and occupational structure of society",
+        "D": "transmitting the values and norms of political behavior",
+        "E": "social selection and the stimulation of mobility"
+      }
+    },
+    "134": {
+      "question": "The massification of higher education is characterized by...",
+      "options": {
+        "A": "limiting university admission to a circle of privileged strata",
+        "B": "a decrease in the number of students in favor of elite schools and colleges",
+        "C": "wider access to universities for broad sections of the population",
+        "D": "a shift to exclusively informal self-education",
+        "E": "the abolition of vocational training in all universities of the country"
+      }
+    },
+    "135": {
+      "question": "The reproduction of social inequality through education means...",
+      "options": {
+        "A": "a complete leveling of the chances of people coming from different social strata",
+        "B": "the abolition of paid education in all types of schools",
+        "C": "a rise in general literacy among the adult population",
+        "D": "the consolidation of capital differences between generations through school and university",
+        "E": "the replacement of formal education by self-education"
+      }
+    },
+    "136": {
+      "question": "Digital inequality in education is related to...",
+      "options": {
+        "A": "differences in students' access to the internet and digital skills",
+        "B": "different forms of ownership of educational institutions",
+        "C": "the difference between humanities and natural-science tracks",
+        "D": "different lengths of the school year",
+        "E": "the division of schools by level of education"
+      }
+    },
+    "172": {
+      "question": "Four of the statements listed refer to mechanisms that reproduce educational inequality, while one describes a different aspect of how the education system functions. Identify it.",
+      "options": {
+        "A": "Families with high cultural capital pass on to their children skills that make school success easier",
+        "B": "The content of education is determined by the dominant group, and its culture is presented as the norm",
+        "C": "Unequal access to higher education sets elite and non-elite strata apart",
+        "D": "Educational choice depends on the economic and social resources of the student's family",
+        "E": "Educational institutions are distinguished by level, form of study and field of training"
+      }
+    },
+    "173": {
+      "question": "Which statement makes it possible to critically assess the explanation of educational inequality solely by differences in students' individual abilities?",
+      "options": {
+        "A": "School success depends on the family's cultural capital, and not only on abilities",
+        "B": "School success is entirely determined by a child's innate level of intelligence",
+        "C": "Academic results depend above all on each student's personal diligence",
+        "D": "High grades at school guarantee a graduate's admission to a prestigious university",
+        "E": "Competition among applicants stimulates the development of their abilities"
+      }
+    },
+    "183": {
+      "question": "Considering education as a social institution implies studying...",
+      "options": {
+        "A": "individual psychological differences among students",
+        "B": "the biological basis of a person's natural ability to learn",
+        "C": "the set of norms, statuses, roles and organizations of education",
+        "D": "religious rites in various cultures and societies",
+        "E": "methods of conducting field sociological research"
+      }
+    },
+    "184": {
+      "question": "The sociology of education is directly concerned with the question of...",
+      "options": {
+        "A": "the reasons for rising suicide among the urban population",
+        "B": "the forms of religious rites in different confessions",
+        "C": "the pace of urbanization in developing countries",
+        "D": "the causes of international labor migration",
+        "E": "the accessibility of education levels to different social groups"
+      }
+    },
+    "185": {
+      "question": "Cultural capital, which matters for educational attainment, includes...",
+      "options": {
+        "A": "a family's cash savings and real estate",
+        "B": "education received and academic degrees",
+        "C": "useful acquaintances and business connections",
+        "D": "knowledge, skills and tastes acquired in the family",
+        "E": "income from property and securities"
+      }
+    },
+    "186": {
+      "question": "Intergenerational educational mobility is...",
+      "options": {
+        "A": "the change in children's educational level relative to their parents'",
+        "B": "the rise in one person's educational level over the course of life",
+        "C": "students moving to universities in other countries to study",
+        "D": "a pupil's transfer from one school to another within a city",
+        "E": "a worker's change of profession during their career"
+      }
+    }
+  }
+}

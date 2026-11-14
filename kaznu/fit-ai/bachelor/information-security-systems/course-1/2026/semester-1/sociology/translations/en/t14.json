@@ -1,0 +1,108 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 14,
+  "topic_name": "Population, Urbanization and Social Movements",
+  "questions": {
+    "36": {
+      "question": "The type of migration that occurs as a result of political conflicts, natural and man-made disasters.",
+      "options": {
+        "A": "Labour",
+        "B": "Commuter",
+        "C": "Forced",
+        "D": "Seasonal",
+        "E": "Educational"
+      }
+    },
+    "47": {
+      "question": "Individual migration is classed as ... migration.",
+      "options": {
+        "A": "unorganized",
+        "B": "organized",
+        "C": "mass",
+        "D": "group-based",
+        "E": "state"
+      }
+    },
+    "56": {
+      "question": "The science of population that studies its size, composition and structure is...",
+      "options": {
+        "A": "ethnography",
+        "B": "anthropology",
+        "C": "urban studies",
+        "D": "demography",
+        "E": "epidemiology"
+      }
+    },
+    "65": {
+      "question": "All people born within one year or several years are called, in sociology, a...",
+      "options": {
+        "A": "stratum",
+        "B": "cohort",
+        "C": "caste",
+        "D": "diaspora",
+        "E": "reference group"
+      }
+    },
+    "156": {
+      "question": "Urbanization is the process of...",
+      "options": {
+        "A": "a society's transition from traditional ways of life to industrial ones",
+        "B": "the mechanization of production using inanimate sources of energy",
+        "C": "the growing role of cities in the development of society",
+        "D": "a decline in birth and death rates as industrialization proceeds",
+        "E": "people moving between countries in search of work and income"
+      }
+    },
+    "157": {
+      "question": "Suburbanization is associated with...",
+      "options": {
+        "A": "rural residents moving into the central districts of large cities",
+        "B": "a decrease in the number of cities and a return of the population to agricultural work",
+        "C": "rising birth rates in rural areas and falling mortality",
+        "D": "the development of suburbs and the relocation of townspeople from the center to the outskirts",
+        "E": "a society's transition from agrarian forms of production to factory ones"
+      }
+    },
+    "158": {
+      "question": "The natural change in population size is determined by the ratio of...",
+      "options": {
+        "A": "births and deaths",
+        "B": "immigration and emigration",
+        "C": "marriages and divorces",
+        "D": "urban and rural population",
+        "E": "children and the elderly"
+      }
+    },
+    "159": {
+      "question": "Net migration is...",
+      "options": {
+        "A": "the difference between the number of births and deaths over a period",
+        "B": "the total number of residents of a territory at the end of the calendar year",
+        "C": "the share of urban residents in a country's total population",
+        "D": "the average life expectancy of a region's population according to the census",
+        "E": "the difference between the number of arrivals and departures over a period"
+      }
+    },
+    "160": {
+      "question": "Demographic aging means...",
+      "options": {
+        "A": "the physiological wear of an individual's body with age",
+        "B": "an increase in the share of older people in the total population",
+        "C": "a growth in the share of children and adolescents in the age structure of the population",
+        "D": "a decline in the total number of residents because of the emigration of young people",
+        "E": "a society's transition from traditional ways of life to modern ones"
+      }
+    },
+    "161": {
+      "question": "The age structure of the population characterizes...",
+      "options": {
+        "A": "the distribution of the population across a region's urban and rural settlements",
+        "B": "the distribution of residents by income level and class membership",
+        "C": "the distribution of the population by age groups and the share of each",
+        "D": "the distribution of the population by nationality and language of communication",
+        "E": "the distribution of people by religion and participation in rites"
+      }
+    }
+  }
+}

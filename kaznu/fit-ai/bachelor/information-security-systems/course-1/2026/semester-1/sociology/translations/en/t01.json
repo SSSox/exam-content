@@ -1,0 +1,98 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 1,
+  "topic_name": "Sociology in Understanding the Social World",
+  "questions": {
+    "5": {
+      "question": "“Sociology is the science of the study of society and social relations; it seeks to understand people and to determine their behavior.” This is how the American sociologist defined it...",
+      "options": {
+        "A": "C. Wright Mills",
+        "B": "Neil Smelser",
+        "C": "Robert K. Merton",
+        "D": "Anthony Giddens",
+        "E": "Talcott Parsons"
+      }
+    },
+    "6": {
+      "question": "Sociology is...",
+      "options": {
+        "A": "the science of the laws of the formation and development of society",
+        "B": "the science of the mental processes of the individual person",
+        "C": "the science of the human past and its events",
+        "D": "the science of the production and exchange of material goods",
+        "E": "the science of the origin and development of biological species"
+      }
+    },
+    "8": {
+      "question": "The object of sociological research:",
+      "options": {
+        "A": "The state as an apparatus of administration and coercion",
+        "B": "The natural habitat of humans and its resources",
+        "C": "Society as an integral system of connections",
+        "D": "The individual psyche of the person and its properties",
+        "E": "The economic production of goods and services"
+      }
+    },
+    "15": {
+      "question": "Which of the following is NOT a function of sociology?",
+      "options": {
+        "A": "Diagnostic",
+        "B": "Punitive",
+        "C": "Predictive",
+        "D": "Managerial",
+        "E": "Descriptive"
+      }
+    },
+    "51": {
+      "question": "What does the concept of “social institution” denote?",
+      "options": {
+        "A": "A temporary association of people for a common goal",
+        "B": "A form of self-organization of people's common life",
+        "C": "A specific building with a permanent staff of employees",
+        "D": "A personal habit of an individual",
+        "E": "A person's attitude toward himself or herself"
+      }
+    },
+    "52": {
+      "question": "The etymological meaning of the term “sociology”:",
+      "options": {
+        "A": "The science of the personality",
+        "B": "The science of the state",
+        "C": "The science of culture",
+        "D": "The science of society",
+        "E": "The science of values"
+      }
+    },
+    "64": {
+      "question": "Which function of sociology is associated with explaining social regularities?",
+      "options": {
+        "A": "Predictive",
+        "B": "Managerial",
+        "C": "Ideological",
+        "D": "Explanatory",
+        "E": "Humanistic"
+      }
+    },
+    "68": {
+      "question": "What does the concept of “sociological imagination” mean?",
+      "options": {
+        "A": "The ability to invent imaginary societies and their orders",
+        "B": "The ability to connect personal biography with events in society",
+        "C": "The habit of explaining events by common sense and everyday experience",
+        "D": "The ability to predict the future by intuition and omens",
+        "E": "A tendency to picture an ideal society without flaws"
+      }
+    },
+    "73": {
+      "question": "Which of the following is a social institution?",
+      "options": {
+        "A": "A crowd",
+        "B": "A queue in a shop",
+        "C": "A circle of friends",
+        "D": "The family",
+        "E": "An audience at a concert"
+      }
+    }
+  }
+}

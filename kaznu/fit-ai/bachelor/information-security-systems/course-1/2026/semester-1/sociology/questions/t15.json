@@ -1,0 +1,144 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 162,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Эволюционный характер социальных изменений определяется...",
+        "en": "The evolutionary character of social change is determined by...",
+        "kk": "Әлеуметтік өзгерістердің эволюциялық сипаты мынамен айқындалады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "резким разрушением социальной системы в ходе классового конфликта",
+            "en": "the abrupt destruction of the social system in the course of class conflict",
+            "kk": "тап қақтығысы барысында әлеуметтік жүйенің күрт бұзылуымен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "случайными колебаниями ценностей без какой-либо общей направленности",
+            "en": "random fluctuations of values without any general direction",
+            "kk": "ортақ бағыты жоқ құндылықтардың кездейсоқ ауытқуымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "возвратом общества к исходному состоянию традиционных форм жизни",
+            "en": "a return of society to the original state of traditional ways of life",
+            "kk": "қоғамның дәстүрлі өмір нысандарының бастапқы күйіне қайта оралуымен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "постепенным упорядоченным усложнением общества от простых форм к сложным",
+            "en": "the gradual, orderly growth in the complexity of society from simple forms to complex ones",
+            "kk": "қоғамның қарапайымнан күрделіге қарай біртіндеп, реттелген күрделенуімен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "мгновенной сменой правящей группы без изменения самой структуры",
+            "en": "an instant replacement of the ruling group without any change in the structure itself",
+            "kk": "құрылымның өзі өзгермей, билеуші топтың лезде ауысуымен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Эволюционные теории видят изменение как постепенное, направленное усложнение общества, а разрушение системы связывают с революцией.",
+        "en": "Evolutionary theories see change as a gradual, directed increase in the complexity of society, while the destruction of the system is associated with revolution.",
+        "kk": "Эволюциялық теориялар өзгерісті қоғамның біртіндеп, бағытталған күрделенуі деп қарайды, ал жүйенің бұзылуын революциямен байланыстырады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 15  Соц изменения.pdf",
+          "location": "строки 39–41 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 15  Соц изменения.pdf",
+          "location": "строка 84 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Технологическая инновация становится предметом социологического анализа, когда исследуется...",
+        "en": "A technological innovation becomes an object of sociological analysis when what is studied is...",
+        "kk": "Технологиялық инновация әлеуметтанулық талдау пәніне мынаны зерттегенде айналады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "её влияние на социальные отношения, занятость и структуру общества",
+            "en": "its influence on social relations, employment and the structure of society",
+            "kk": "оның әлеуметтік қатынастарға, жұмыспен қамтуға және қоғам құрылымына ықпалын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "устройство прибора, его принципиальная схема и физический принцип его работы",
+            "en": "the design of the device, its schematic diagram and the physical principle of its operation",
+            "kk": "аспаптың құрылысын, оның принципті сұлбасын және жұмысының физикалық принципін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "стоимость материалов, порядок патентования и сроки испытаний",
+            "en": "the cost of materials, the patenting procedure and the testing timeline",
+            "kk": "материалдар құнын, патенттеу тәртібін және сынақ мерзімдерін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "биография изобретателя, его личные способности и круг знакомых",
+            "en": "the inventor's biography, personal abilities and circle of acquaintances",
+            "kk": "өнертапқыштың өмірбаянын, оның жеке қабілеттерін және таныстар шеңберін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "техническая документация, стандарты и требования к безопасности",
+            "en": "the technical documentation, standards and safety requirements",
+            "kk": "техникалық құжаттаманы, стандарттарды және қауіпсіздік талаптарын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Технологическая инновация названа в лекции одной из причин социального изменения, поэтому социолога интересует её влияние на общество.",
+        "en": "The lecture names technological innovation as one of the causes of social change, which is why the sociologist is interested in its influence on society.",
+        "kk": "Технологиялық инновация дәрісте әлеуметтік өзгеріс себептерінің бірі ретінде аталған, сондықтан әлеуметтанушыны оның қоғамға ықпалы қызықтырады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 15  Соц изменения.pdf",
+          "location": "строка 69 извлечённого текста"
+        }
+      ]
+    }
+  ]
+}

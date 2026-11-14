@@ -1,0 +1,28 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 15,
+  "topic_name": "Social Change: Recent Sociological Debates",
+  "questions": {
+    "162": {
+      "question": "The evolutionary character of social change is determined by...",
+      "options": {
+        "A": "the abrupt destruction of the social system in the course of class conflict",
+        "B": "random fluctuations of values without any general direction",
+        "C": "a return of society to the original state of traditional ways of life",
+        "D": "the gradual, orderly growth in the complexity of society from simple forms to complex ones",
+        "E": "an instant replacement of the ruling group without any change in the structure itself"
+      }
+    },
+    "163": {
+      "question": "A technological innovation becomes an object of sociological analysis when what is studied is...",
+      "options": {
+        "A": "its influence on social relations, employment and the structure of society",
+        "B": "the design of the device, its schematic diagram and the physical principle of its operation",
+        "C": "the cost of materials, the patenting procedure and the testing timeline",
+        "D": "the inventor's biography, personal abilities and circle of acquaintances",
+        "E": "the technical documentation, standards and safety requirements"
+      }
+    }
+  }
+}

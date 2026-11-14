@@ -1,0 +1,938 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 14,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Любое социологическое исследование прежде всего начинается с изучения...",
+        "en": "Any sociological research begins first of all with the study of...",
+        "kk": "Кез келген әлеуметтанулық зерттеу ең алдымен мыналарды зерттеуден басталады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "результатов анкетирования",
+            "en": "the results of a questionnaire survey",
+            "kk": "сауалнама нәтижелерін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "итогового отчёта о результатах",
+            "en": "the final report on the results",
+            "kk": "нәтижелер туралы қорытынды есепті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "проблемной ситуации",
+            "en": "the problem situation",
+            "kk": "проблемалық жағдайды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "выборочной совокупности",
+            "en": "the sample population",
+            "kk": "іріктелген жиынтықты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "данных контент-анализа",
+            "en": "the content analysis data",
+            "kk": "контент-талдау деректерін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Отправным пунктом и качественного, и количественного исследования служит проблемная ситуация: реальное противоречие, способ разрешения которого пока неясен.",
+        "en": "The starting point of both qualitative and quantitative research is the problem situation: a real contradiction whose resolution is not yet clear.",
+        "kk": "Сапалық та, сандық та зерттеудің бастапқы нүктесі — проблемалық жағдай: шынайы қайшылық, оны шешу тәсілі әзірге белгісіз."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 79–80 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Включённым называется такой вид наблюдения, при котором...",
+        "en": "Participant observation is the kind of observation in which...",
+        "kk": "Қосылған бақылау деп бақылаудың мынадай түрі аталады, оның кезінде..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "наблюдатель фиксирует события со стороны, не вступая в контакт",
+            "en": "the observer records events from the outside without making contact",
+            "kk": "бақылаушы оқиғаларды сырттан, байланысқа түспей тіркейді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "наблюдение ведётся только по видеозаписям событий",
+            "en": "observation is conducted only from video recordings of events",
+            "kk": "бақылау тек оқиғалардың бейнежазбалары бойынша жүргізіледі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "регистрация идёт строго по заранее заданной схеме",
+            "en": "recording follows strictly a predetermined scheme",
+            "kk": "тіркеу тек алдын ала берілген схема бойынша жүреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "наблюдаемые сами заполняют карточки регистрации",
+            "en": "the observed themselves fill in registration cards",
+            "kk": "бақыланушылардың өздері тіркеу карточкаларын толтырады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "исследователь сам участвует в жизни наблюдаемой группы",
+            "en": "the researcher personally takes part in the life of the observed group",
+            "kk": "зерттеуші бақыланатын топтың өміріне өзі қатысады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "При включённом наблюдении исследователь становится участником изучаемой ситуации, в отличие от наблюдения со стороны.",
+        "en": "In participant observation the researcher becomes a participant in the situation under study, unlike observation from the outside.",
+        "kk": "Қосылған бақылауда зерттеуші сырттан бақылаудан айырмашылығы, зерттелетін жағдайдың қатысушысына айналады."
+      }
+    },
+    {
+      "id": 60,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что подразумевает социологический термин «выборка»?",
+        "en": "What does the sociological term “sample” imply?",
+        "kk": "«Іріктеме» әлеуметтанулық термині нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Часть генеральной совокупности, отобранная по особым процедурам",
+            "en": "A part of the general population selected by special procedures",
+            "kk": "Арнайы рәсімдермен іріктелген бас жиынтықтың бір бөлігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Вся совокупность людей, о которой делаются выводы исследования",
+            "en": "The entire population of people about which the study's conclusions are drawn",
+            "kk": "Зерттеу қорытындылары жасалатын адамдардың барлық жиынтығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Процедура проверки надёжности анкеты на пробном опросе",
+            "en": "A procedure for testing the reliability of a questionnaire in a pilot survey",
+            "kk": "Сынақ сауалнамасында сауалнаманың сенімділігін тексеру рәсімі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Итоговая таблица распределения ответов респондентов по группам",
+            "en": "The final table of the distribution of respondents' answers by group",
+            "kk": "Респонденттердің жауаптарының топтар бойынша қорытынды таралу кестесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Статистическая гипотеза о связи двух признаков в данных",
+            "en": "A statistical hypothesis about the relationship between two variables in the data",
+            "kk": "Деректердегі екі белгінің байланысы туралы статистикалық болжам"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Выборка (выборочная совокупность) — часть генеральной совокупности, сформированная специальными методами и процедурами.",
+        "en": "A sample (sample population) is a part of the general population formed by special methods and procedures.",
+        "kk": "Іріктеме (таңдамалы жиынтық) — арнайы әдістер мен рәсімдер арқылы құрылған бас жиынтықтың бір бөлігі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 374–376 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Гипотеза социологического исследования представляет собой...",
+        "en": "A hypothesis of a sociological study is...",
+        "kk": "Әлеуметтанулық зерттеудің болжамы (гипотезасы) мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "изложение цели и концепции с последовательностью операций проверки",
+            "en": "a statement of the aim and concept with a sequence of verification operations",
+            "kk": "мақсат пен тұжырымдаманы тексеру операцияларының реттілігімен баяндау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "реально существующее противоречие, способы разрешения которого неясны",
+            "en": "a really existing contradiction whose means of resolution are unclear",
+            "kk": "шынайы бар қайшылық, оны шешу тәсілдері түсініксіз"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "обоснованное предположение о структуре объекта и механизме его функционирования",
+            "en": "a reasoned assumption about the structure of the object and its mechanism of functioning",
+            "kk": "объектінің құрылымы мен оның қызмет ету тетігі туралы негізделген жорамал"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "совокупность единиц, о которой делаются выводы обследования",
+            "en": "a set of units about which the conclusions of the survey are drawn",
+            "kk": "қорытындылары жасалатын бірліктер жиынтығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "переход от понятий к индикаторам, позволяющим собирать данные",
+            "en": "a transition from concepts to indicators that make it possible to collect data",
+            "kk": "түсініктерден деректер жинауға мүмкіндік беретін индикаторларға көшу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Гипотеза — обоснованное предположение о структуре изучаемого объекта, его элементах и механизмах; остальные определения относятся к программе, проблемной ситуации, генеральной совокупности и операционализации.",
+        "en": "A hypothesis is a reasoned assumption about the structure of the object under study, its elements and mechanisms; the other definitions refer to the program, the problem situation, the general population and operationalization.",
+        "kk": "Болжам (гипотеза) — зерттелетін объектінің құрылымы, элементтері мен тетіктері туралы негізделген жорамал; қалған анықтамалар бағдарламаға, проблемалық жағдайға, бас жиынтыққа және операционализацияға жатады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 344–346 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Операционализация понятия предполагает...",
+        "en": "Operationalization of a concept involves...",
+        "kk": "Ұғымды операционализациялау мынаны көздейді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "случайный отбор единиц из генеральной совокупности для опроса",
+            "en": "random selection of units from the general population for a survey",
+            "kk": "сауалнама үшін бас жиынтықтан бірліктерді кездейсоқ іріктеуді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "формулировку цели и задач исследования в его программе",
+            "en": "formulating the aim and objectives of the study in its program",
+            "kk": "зерттеу бағдарламасында оның мақсаты мен міндеттерін тұжырымдауды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "статистическую обработку собранных данных в специальных программах",
+            "en": "statistical processing of the collected data in special software",
+            "kk": "жиналған деректерді арнайы бағдарламаларда статистикалық өңдеуді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "подтверждение гипотез с помощью статистических критериев значимости",
+            "en": "confirming hypotheses by means of statistical significance tests",
+            "kk": "болжамдарды статистикалық мәнділік өлшемдерімен растауды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "перевод теоретических понятий в индикаторы и средства измерения",
+            "en": "translating theoretical concepts into indicators and measurement tools",
+            "kk": "теориялық ұғымдарды индикаторлар мен өлшеу құралдарына аудару"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Операционализация связывает теоретический аппарат с методическим инструментарием через индикаторы, шкалы, индексы и анкеты.",
+        "en": "Operationalization links the theoretical apparatus with the methodological toolkit through indicators, scales, indices and questionnaires.",
+        "kk": "Операционализация теориялық аппаратты индикаторлар, шкалалар, индекстер және сауалнамалар арқылы әдістемелік құралдармен байланыстырады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 333–339 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Генеральной совокупностью в выборочном исследовании называют...",
+        "en": "The general population in a sample study is...",
+        "kk": "Таңдамалы зерттеуде бас жиынтық деп мынаны атайды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "совокупность единиц, о которой делаются выводы обследования",
+            "en": "the set of units about which the conclusions of the survey are drawn",
+            "kk": "қорытындылары жасалатын бірліктер жиынтығын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "часть единиц, фактически опрошенных исследователем в ходе опроса",
+            "en": "the part of the units actually surveyed by the researcher during the survey",
+            "kk": "сауалнама барысында зерттеуші шын мәнінде сұраған бірліктердің бір бөлігін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "перечень показателей, измеряемых в анкете и в интервью",
+            "en": "the list of indicators measured in a questionnaire and in an interview",
+            "kk": "сауалнама мен сұхбатта өлшенетін көрсеткіштер тізбесін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "группу экспертов, привлечённых для интервью и консультаций",
+            "en": "the group of experts involved for interviews and consultations",
+            "kk": "сұхбат пен кеңес беру үшін тартылған сарапшылар тобын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "число респондентов, отказавшихся от участия в опросе",
+            "en": "the number of respondents who refused to take part in the survey",
+            "kk": "сауалнамаға қатысудан бас тартқан респонденттер санын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Генеральная совокупность — множество единиц (жителей, работников и т. п.), на которое распространяются выводы выборочного обследования.",
+        "en": "The general population is the set of units (residents, workers, etc.) to which the conclusions of a sample survey extend.",
+        "kk": "Бас жиынтық — таңдамалы зерттеудің қорытындылары таралатын бірліктер (тұрғындар, қызметкерлер және т.б.) жиыны."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 369–371 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Соответствие показателя тому свойству, которое предполагается измерить, характеризует...",
+        "en": "The correspondence of an indicator to the property that it is supposed to measure characterizes...",
+        "kk": "Көрсеткіштің өлшеу көзделген қасиетке сәйкестігі мынаны сипаттайды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "надёжность",
+            "en": "reliability",
+            "kk": "сенімділікті"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "репрезентативность",
+            "en": "representativeness",
+            "kk": "репрезентативтілікті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "корреляцию",
+            "en": "correlation",
+            "kk": "корреляцияны"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "валидность",
+            "en": "validity",
+            "kk": "валидтілікті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "центральную тенденцию",
+            "en": "central tendency",
+            "kk": "орталық тенденцияны"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Валидность показывает, измеряет ли показатель именно то свойство, которое предполагалось измерить; надёжность же касается устойчивости результатов.",
+        "en": "Validity shows whether an indicator measures exactly the property it was supposed to measure; reliability concerns the stability of results.",
+        "kk": "Валидтілік көрсеткіштің дәл өлшеу көзделген қасиетті өлшейтінін көрсетеді; ал сенімділік нәтижелердің тұрақтылығына қатысты."
+      }
+    },
+    {
+      "id": 86,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Метод непосредственной регистрации действий и взаимодействий людей в определённой ситуации называется...",
+        "en": "The method of direct registration of people's actions and interactions in a particular situation is called...",
+        "kk": "Адамдардың белгілі бір жағдайдағы әрекеттері мен өзара әрекеттерін тікелей тіркеу әдісі мына атауға ие..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "экспериментом",
+            "en": "an experiment",
+            "kk": "эксперимент"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "наблюдением",
+            "en": "observation",
+            "kk": "бақылау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "контент-анализом",
+            "en": "content analysis",
+            "kk": "контент-талдау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "анкетированием",
+            "en": "a questionnaire survey",
+            "kk": "сауалнама"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "биографическим методом",
+            "en": "the biographical method",
+            "kk": "биографиялық әдіс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Наблюдение — метод сбора данных путём непосредственного восприятия и прямой регистрации значимых для целей исследования событий.",
+        "en": "Observation is a method of data collection through direct perception and direct registration of events significant for the aims of the study.",
+        "kk": "Бақылау — зерттеу мақсаттары үшін маңызды оқиғаларды тікелей қабылдау және тікелей тіркеу арқылы деректер жинау әдісі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 218–220 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Обсуждение исследуемой темы небольшой группой участников под руководством модератора составляет основу метода...",
+        "en": "Discussion of the topic under study by a small group of participants led by a moderator is the basis of the method of...",
+        "kk": "Зерттелетін тақырыпты модератор басшылығымен шағын қатысушылар тобының талқылауы мына әдістің негізін құрайды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "анкетирования",
+            "en": "questionnaire survey",
+            "kk": "сауалнаманың"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "контент-анализа",
+            "en": "content analysis",
+            "kk": "контент-талдаудың"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "фокус-группы",
+            "en": "the focus group",
+            "kk": "фокус-топтың"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "включённого наблюдения",
+            "en": "participant observation",
+            "kk": "қосылған бақылаудың"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "социального эксперимента",
+            "en": "the social experiment",
+            "kk": "әлеуметтік эксперименттің"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Фокус-группа — фокусированное нестандартизированное интервью с группой, где используется эффект группового взаимодействия.",
+        "en": "A focus group is a focused non-standardized interview with a group that makes use of the effect of group interaction.",
+        "kk": "Фокус-топ — топтық өзара әрекет әсері пайдаланылатын топпен жүргізілетін фокусталған стандартталмаған сұхбат."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 208–210 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вероятностный отбор предполагает, что...",
+        "en": "Probability sampling implies that...",
+        "kk": "Ықтималдық іріктеу мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "единицы отбирают эксперты по своему усмотрению, исходя из удобства доступа к ним",
+            "en": "the units are selected by experts at their own discretion, based on ease of access",
+            "kk": "бірліктерді сарапшылар оларға қол жеткізу ыңғайлылығына қарай өз қалауымен таңдайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "в выборку входят только добровольцы, откликнувшиеся на размещённое объявление",
+            "en": "only volunteers who responded to a posted announcement are included in the sample",
+            "kk": "іріктемеге тек орналастырылған хабарландыруға жауап берген еріктілер кіреді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "обследуются все без исключения единицы генеральной совокупности, а не их часть",
+            "en": "absolutely all units of the general population are surveyed, not a part of them",
+            "kk": "бас жиынтықтың бір бөлігі емес, барлық бірлігі ерекшеліксіз зерттеледі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "состав выборки задан квотами по полу и возрасту и не зависит от жребия",
+            "en": "the composition of the sample is set by quotas for sex and age and does not depend on chance",
+            "kk": "іріктеме құрамы жынысы мен жасы бойынша квоталармен берілген және жеребеге тәуелсіз"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "у каждой единицы есть известная ненулевая вероятность попасть в выборку",
+            "en": "every unit has a known non-zero probability of being included in the sample",
+            "kk": "әр бірліктің іріктемеге түсуінің белгілі, нөлден өзгеше ықтималдығы бар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Вероятностный (случайный) отбор опирается на известную ненулевую вероятность попадания каждой единицы в выборку, что допускает статистические выводы.",
+        "en": "Probability (random) sampling rests on a known non-zero probability of each unit being included in the sample, which allows statistical inference.",
+        "kk": "Ықтималдық (кездейсоқ) іріктеу әр бірліктің іріктемеге түсуінің белгілі, нөлден өзгеше ықтималдығына сүйенеді, бұл статистикалық қорытынды жасауға мүмкіндік береді."
+      }
+    },
+    {
+      "id": 89,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что такое выборка в социологическом исследовании?",
+        "en": "What is a sample in a sociological study?",
+        "kk": "Әлеуметтанулық зерттеудегі іріктеме дегеніміз не?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Основной документ с целями, гипотезами, задачами и планом исследования",
+            "en": "The main document with the aims, hypotheses, objectives and plan of the study",
+            "kk": "Зерттеудің мақсаттары, болжамдары, міндеттері мен жоспары көрсетілген негізгі құжат"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Часть генеральной совокупности, сформированная по особым правилам",
+            "en": "A part of the general population formed according to special rules",
+            "kk": "Ерекше ережелер бойынша құрылған бас жиынтықтың бір бөлігі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Свойство данных воспроизводить характеристики всей совокупности",
+            "en": "A property of data to reproduce the characteristics of the whole population",
+            "kk": "Деректердің бүкіл жиынтықтың сипаттамаларын қайта көрсету қасиеті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Письменный опрос по стандартизированной анкете с закрытыми вопросами",
+            "en": "A written survey using a standardized questionnaire with closed questions",
+            "kk": "Жабық сұрақтары бар стандартталған сауалнама бойынша жазбаша сұрау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обоснованное предположение о структуре и свойствах изучаемого объекта",
+            "en": "A reasoned assumption about the structure and properties of the object under study",
+            "kk": "Зерттелетін объектінің құрылымы мен қасиеттері туралы негізделген жорамал"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Выборка — часть генеральной совокупности, формируемая особыми методами, по которой судят обо всей совокупности.",
+        "en": "A sample is a part of the general population formed by special methods, from which the whole population is judged.",
+        "kk": "Іріктеме — ерекше әдістермен құрылған, бүкіл жиынтық туралы пайымдауға болатын бас жиынтықтың бір бөлігі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 374–376 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "topic_id": 3,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой из перечисленных исследовательских принципов отличается от остальных по своему методологическому основанию?",
+        "en": "Which of the following research principles differs from the others in its methodological basis?",
+        "kk": "Төмендегі зерттеу қағидаларының қайсысы әдіснамалық негізі жағынан қалғандарынан ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Измеримость явлений и статистическая обработка полученных данных",
+            "en": "Measurability of phenomena and statistical processing of the data obtained",
+            "kk": "Құбылыстардың өлшенімділігі және алынған деректерді статистикалық өңдеу"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Интерпретация смыслов и опыта людей в конкретном контексте",
+            "en": "Interpretation of the meanings and experience of people in a particular context",
+            "kk": "Адамдардың мағыналары мен тәжірибесін нақты контексте түсіндіру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социальный детерминизм как основание экспериментального метода",
+            "en": "Social determinism as the basis of the experimental method",
+            "kk": "Эксперименттік әдістің негізі ретіндегі әлеуметтік детерминизм"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Выявление причинно-следственных связей между явлениями и признаками",
+            "en": "Identification of cause-and-effect relationships between phenomena and variables",
+            "kk": "Құбылыстар мен белгілер арасындағы себеп-салдар байланыстарын анықтау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Обобщение выводов на генеральную совокупность по выборке",
+            "en": "Generalization of conclusions to the general population from a sample",
+            "kk": "Қорытындыларды іріктеме бойынша бас жиынтыққа жалпылау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Остальные принципы вытекают из позитивистской, количественной парадигмы (измерение, детерминизм, причинность, обобщение), а интерпретативный принцип — из качественной.",
+        "en": "The other principles follow from the positivist, quantitative paradigm (measurement, determinism, causality, generalization), while the interpretive principle follows from the qualitative one.",
+        "kk": "Қалған қағидалар позитивистік, сандық парадигмадан (өлшеу, детерминизм, себептілік, жалпылау) туындайды, ал түсіндірмелік қағида — сапалық парадигмадан."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 70–77 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 82–86 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое изменение исследовательских условий непосредственно ограничивает возможность статистического распространения результатов выборочного исследования на генеральную совокупность?",
+        "en": "Which change in research conditions directly limits the possibility of statistically extending the results of a sample study to the general population?",
+        "kk": "Зерттеу жағдайларындағы қандай өзгеріс таңдамалы зерттеу нәтижелерін бас жиынтыққа статистикалық таратуға мүмкіндікті тікелей шектейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Увеличение объёма выборки при сохранении случайного отбора и известных вероятностей",
+            "en": "Increasing the sample size while keeping random selection and known probabilities",
+            "kk": "Кездейсоқ іріктеу мен белгілі ықтималдықтар сақталған кезде іріктеме көлемін ұлғайту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Использование письменного вместо устного опроса при той же выборке и том же отборе",
+            "en": "Using a written instead of an oral survey with the same sample and the same selection",
+            "kk": "Сол іріктеме мен сол іріктеу кезінде ауызша сұрау орнына жазбаша сұрауды қолдану"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Формирование выборки по удобству доступа, когда вероятность попадания единиц неизвестна",
+            "en": "Forming the sample by ease of access, when the probability of units being included is unknown",
+            "kk": "Бірліктердің іріктемеге түсу ықтималдығы белгісіз кезде, іріктемені қолжетімділік ыңғайымен құру"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Применение стратифицированной случайной выборки вместо простой случайной выборки",
+            "en": "Applying a stratified random sample instead of a simple random sample",
+            "kk": "Қарапайым кездейсоқ іріктеме орнына стратификацияланған кездейсоқ іріктемені қолдану"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Использование стандартизированной анкеты вместо свободного интервью по тем же вопросам",
+            "en": "Using a standardized questionnaire instead of a free interview on the same questions",
+            "kk": "Сол сұрақтар бойынша еркін сұхбат орнына стандартталған сауалнаманы қолдану"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Статистические выводы на генеральную совокупность возможны при случайном отборе и репрезентативности; без известной вероятности включения единиц обобщение теряет обоснование.",
+        "en": "Statistical conclusions about the general population are possible with random selection and representativeness; without a known probability of inclusion, generalization loses its justification.",
+        "kk": "Бас жиынтыққа статистикалық қорытындылар кездейсоқ іріктеу мен репрезентативтілік болғанда мүмкін; бірліктердің іріктемеге түсу ықтималдығы белгісіз болса, жалпылаудың негізі жойылады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 378–379 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 394–396 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое положение наиболее точно выражает взаимосвязь теоретических понятий и эмпирических индикаторов социального исследования?",
+        "en": "Which statement most accurately expresses the relationship between theoretical concepts and empirical indicators in social research?",
+        "kk": "Әлеуметтік зерттеудің теориялық ұғымдары мен эмпирикалық индикаторларының өзара байланысын қай тұжырым неғұрлым дәл білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Индикаторы выводятся из ответов респондентов и не зависят от теоретических понятий",
+            "en": "Indicators are derived from respondents' answers and do not depend on theoretical concepts",
+            "kk": "Индикаторлар респонденттердің жауаптарынан шығарылады және теориялық ұғымдарға тәуелсіз"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Понятия совпадают с индикаторами и измеряются напрямую, без дополнительных процедур",
+            "en": "Concepts coincide with indicators and are measured directly, without additional procedures",
+            "kk": "Ұғымдар индикаторлармен сәйкес келеді және қосымша рәсімсіз тікелей өлшенеді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Индикаторы подбирают после сбора данных так, чтобы они подтвердили гипотезу",
+            "en": "Indicators are chosen after data collection so that they confirm the hypothesis",
+            "kk": "Индикаторлар болжамды растайтындай етіп, деректер жиналғаннан кейін таңдалады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Понятия переводятся в индикаторы операционализацией, и по индикаторам проверяют гипотезы",
+            "en": "Concepts are operationalized into indicators, which are then used to test hypotheses",
+            "kk": "Ұғымдар операционализациямен индикаторларға аударылады, болжамдар индикаторлармен тексеріледі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Индикаторы заменяют теорию, поскольку прикладному исследованию она не нужна",
+            "en": "Indicators replace theory, since applied research does not need it",
+            "kk": "Индикаторлар теорияның орнын басады, өйткені қолданбалы зерттеуге ол қажет емес"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Операционализация переводит теоретические понятия в эмпирические индикаторы, а те дают данные для проверки гипотез; теория остаётся основой исследования.",
+        "en": "Operationalization translates theoretical concepts into empirical indicators, which provide the data for testing hypotheses; theory remains the foundation of the study.",
+        "kk": "Операционализация теориялық ұғымдарды эмпирикалық индикаторларға аударады, ал олар болжамдарды тексеру үшін деректер береді; теория зерттеудің негізі болып қала береді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 333–336 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 3 Методы социологии 2024 (2).pdf",
+          "location": "строки 338–341 извлечённого текста"
+        }
+      ]
+    }
+  ]
+}

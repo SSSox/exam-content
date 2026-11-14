@@ -1,0 +1,778 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 63,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что в социологии называют социальной ролью?",
+        "en": "What is called a social role in sociology?",
+        "kk": "Әлеуметтануда әлеуметтік рөл деп нені атайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Совокупность черт, отличающих человека от других людей",
+            "en": "A set of traits that distinguish a person from other people",
+            "kk": "Адамды басқа адамдардан ерекшелейтін белгілер жиынтығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ожидаемое поведение человека, соответствующее его статусу",
+            "en": "The expected behavior of a person corresponding to their status",
+            "kk": "Адамның мәртебесіне сәйкес күтілетін мінез-құлқы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Способность человека влиять на поведение других",
+            "en": "A person's ability to influence the behavior of others",
+            "kk": "Адамның басқалардың мінез-құлқына ықпал ету қабілеті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Процесс усвоения норм и ценностей общества",
+            "en": "The process of assimilating the norms and values of society",
+            "kk": "Қоғамның нормалары мен құндылықтарын меңгеру процесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Устойчивая система ценностей социальной группы",
+            "en": "A stable system of values of a social group",
+            "kk": "Әлеуметтік топтың тұрақты құндылықтар жүйесі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Социальная роль — совокупность ожиданий и образцов поведения, связанных с социальным статусом человека.",
+        "en": "A social role is a set of expectations and patterns of behavior associated with a person's social status.",
+        "kk": "Әлеуметтік рөл — адамның әлеуметтік мәртебесімен байланысты күтулер мен мінез-құлық үлгілерінің жиынтығы."
+      }
+    },
+    {
+      "id": 66,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Американский социолог и социальный психолог, автор теории «зеркального Я», один из основоположников теории малых групп — это...",
+        "en": "The American sociologist and social psychologist, author of the “looking-glass self” theory and one of the founders of small-group theory, is...",
+        "kk": "«Айнадағы Мен» теориясының авторы, шағын топтар теориясының негізін салушылардың бірі, американдық социолог және әлеуметтік психолог — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эрвинг Гоффман",
+            "en": "Erving Goffman",
+            "kk": "Эрвинг Гоффман"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Герберт Блумер",
+            "en": "Herbert Blumer",
+            "kk": "Герберт Блумер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Чарльз Кули",
+            "en": "Charles H. Cooley",
+            "kk": "Чарльз Кули"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Роберт Мертон",
+            "en": "Robert K. Merton",
+            "kk": "Роберт Мертон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Толкотт Парсонс",
+            "en": "Talcott Parsons",
+            "kk": "Толкотт Парсонс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Чарльз Кули выдвинул теорию «зеркального Я» и учение о первичных группах.",
+        "en": "Charles H. Cooley put forward the “looking-glass self” theory and the doctrine of primary groups.",
+        "kk": "Чарльз Кули «айнадағы Мен» теориясын және алғашқы топтар туралы ілімді ұсынды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 140 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 141 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие, обозначающее положение человека в системе социальных отношений, — это...",
+        "en": "The concept denoting a person's position in the system of social relations is...",
+        "kk": "Адамның әлеуметтік қатынастар жүйесіндегі орнын білдіретін ұғым — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "социальная норма",
+            "en": "a social norm",
+            "kk": "әлеуметтік норма"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "социальная санкция",
+            "en": "a social sanction",
+            "kk": "әлеуметтік санкция"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "социальный контроль",
+            "en": "social control",
+            "kk": "әлеуметтік бақылау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "социальный статус",
+            "en": "social status",
+            "kk": "әлеуметтік мәртебе"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "социальная дистанция",
+            "en": "social distance",
+            "kk": "әлеуметтік қашықтық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Социальный статус — положение человека в системе социальных отношений.",
+        "en": "Social status is a person's position in the system of social relations.",
+        "kk": "Әлеуметтік мәртебе — адамның әлеуметтік қатынастар жүйесіндегі орны."
+      }
+    },
+    {
+      "id": 94,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социализация представляет собой процесс...",
+        "en": "Socialization is the process of...",
+        "kk": "Әлеуметтену дегеніміз мынадай процесс..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "перехода индивида из одной социальной группы в другую",
+            "en": "an individual's transition from one social group to another",
+            "kk": "жеке адамның бір әлеуметтік топтан екіншісіне өтуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "распределения привилегий между социальными слоями",
+            "en": "the distribution of privileges among social strata",
+            "kk": "артықшылықтардың әлеуметтік қабаттар арасында бөлінуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "усвоения индивидом ценностей и норм общества",
+            "en": "an individual's assimilation of the values and norms of society",
+            "kk": "жеке адамның қоғам құндылықтары мен нормаларын меңгеруі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "создания общественных институтов государством",
+            "en": "the creation of public institutions by the state",
+            "kk": "мемлекеттің қоғамдық институттар құруы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "обмена ресурсами между богатыми и бедными странами",
+            "en": "the exchange of resources between rich and poor countries",
+            "kk": "бай және кедей елдердің ресурстармен айырбасы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Через социализацию внешние нормы и ценности общества усваиваются человеком и становятся его внутренними мотивами.",
+        "en": "Through socialization, the external norms and values of society are assimilated by a person and become his or her inner motives.",
+        "kk": "Әлеуметтену арқылы қоғамның сыртқы нормалары мен құндылықтары адамға сіңіп, оның ішкі уәждеріне айналады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 5 Социализация и идентичность 2024.pdf",
+          "location": "строки 75–76 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Первичная социализация связана прежде всего с...",
+        "en": "Primary socialization is associated first of all with...",
+        "kk": "Бастапқы әлеуметтену ең алдымен мынамен байланысты..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "освоением новой профессии во взрослом возрасте",
+            "en": "mastering a new profession in adulthood",
+            "kk": "ересек жаста жаңа кәсіпті меңгерумен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "переучиванием после смены места жительства",
+            "en": "retraining after a change of residence",
+            "kk": "тұрғылықты жерді ауыстырғаннан кейін қайта оқумен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "влиянием трудового коллектива на работника",
+            "en": "the influence of the work team on the employee at work",
+            "kk": "еңбек ұжымының қызметкерге әсерімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "влиянием семьи на ребёнка в раннем детстве",
+            "en": "the influence of the family on the child in early childhood",
+            "kk": "отбасының ерте балалық шақтағы балаға әсерімен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "влиянием средств массовой информации на взрослых",
+            "en": "the influence of the mass media on adults",
+            "kk": "бұқаралық ақпарат құралдарының ересектерге әсерімен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Первичная социализация происходит в семье в раннем детстве, а семейная социализация — её разновидность.",
+        "en": "Primary socialization takes place in the family in early childhood, and family socialization is a variety of it.",
+        "kk": "Бастапқы әлеуметтену ерте балалық шақта отбасында жүреді, ал отбасылық әлеуметтену — оның бір түрі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 6_Семья 2024.pdf",
+          "location": "строка 186 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Пересмотр ранее установленных норм и освоение новых образцов поведения при существенном изменении условий жизни называют...",
+        "en": "The revision of previously established norms and the mastering of new patterns of behavior when living conditions change substantially is called...",
+        "kk": "Өмір жағдайлары елеулі өзгерген кезде бұрын белгіленген нормаларды қайта қарап, жаңа мінез-құлық үлгілерін меңгеруді атайды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "первичной социализацией",
+            "en": "primary socialization",
+            "kk": "бастапқы әлеуметтену"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "социальной стратификацией",
+            "en": "social stratification",
+            "kk": "әлеуметтік стратификация"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "ресоциализацией",
+            "en": "resocialization",
+            "kk": "ресоциализация"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "горизонтальной мобильностью",
+            "en": "horizontal mobility",
+            "kk": "көлденең мобильділік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "институционализацией",
+            "en": "institutionalization",
+            "kk": "институционализация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Ресоциализация — отказ от прежних норм и освоение новых при резкой смене условий жизни.",
+        "en": "Resocialization is the abandonment of former norms and the mastering of new ones when living conditions change sharply.",
+        "kk": "Ресоциализация — өмір жағдайы күрт өзгергенде бұрынғы нормалардан бас тартып, жаңаларын меңгеру."
+      }
+    },
+    {
+      "id": 97,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социальная идентичность обозначает...",
+        "en": "Social identity denotes...",
+        "kk": "Әлеуметтік бірегейлік мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "совокупность уникальных личных черт, отличающих человека",
+            "en": "a set of unique personal traits that distinguish a person",
+            "kk": "адамды ерекшелейтін бірегей жеке белгілер жиынтығын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "размер дохода относительно прожиточного минимума",
+            "en": "the amount of income relative to the subsistence minimum",
+            "kk": "табыстың күнкөріс минимумына қатысты мөлшерін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "осознанную принадлежность человека к социальным общностям",
+            "en": "a person's conscious belonging to social communities",
+            "kk": "адамның әлеуметтік қауымдастықтарға саналы тиесілілігін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "перечень должностных обязанностей работника",
+            "en": "a list of an employee's job duties",
+            "kk": "қызметкердің лауазымдық міндеттерінің тізбесін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "положение страны в мировой иерархии",
+            "en": "a country's position in the world hierarchy",
+            "kk": "елдің әлемдік иерархиядағы орнын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Социальная идентичность — отнесение себя к социальным общностям, в том числе через роли и стратификационные показатели.",
+        "en": "Social identity is the assignment of oneself to social communities, including through roles and stratification indicators.",
+        "kk": "Әлеуметтік бірегейлік — өзін әлеуметтік қауымдастықтарға жатқызу, оның ішінде рөлдер мен стратификациялық көрсеткіштер арқылы."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 5 Социализация и идентичность 2024.pdf",
+          "location": "строка 169 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вторичная социализация предполагает...",
+        "en": "Secondary socialization involves...",
+        "kk": "Қосымша әлеуметтену мынаны көздейді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "усвоение первых навыков речи и поведения в раннем детстве в семье",
+            "en": "acquiring the first skills of speech and behavior in early childhood in the family",
+            "kk": "ерте балалық шақта отбасында сөйлеу мен мінез-құлықтың алғашқы дағдыларын меңгеруді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "освоение новых ролей и норм вне семьи, в школе и на работе",
+            "en": "mastering new roles and norms outside the family, at school and at work",
+            "kk": "отбасынан тыс, мектепте және жұмыста жаңа рөлдер мен нормаларды меңгеруді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "полный отказ взрослого человека от всех прежних норм и ценностей",
+            "en": "an adult's complete rejection of all former norms and values",
+            "kk": "ересек адамның барлық бұрынғы нормалар мен құндылықтардан толық бас тартуын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "передачу детям биологических свойств и наследственных признаков родителей",
+            "en": "passing on to children the biological properties and hereditary traits of parents",
+            "kk": "ата-ананың биологиялық қасиеттері мен тұқым қуалайтын белгілерін балаларға беруді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "наследование социального положения и статуса родителей детьми",
+            "en": "the inheritance by children of the social position and status of their parents",
+            "kk": "ата-ананың әлеуметтік жағдайы мен мәртебесін балалардың мұралап алуын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Вторичная социализация — освоение новых ролей и норм вне семьи: в школе, на работе, в других институтах.",
+        "en": "Secondary socialization is the mastering of new roles and norms outside the family: at school, at work, in other institutions.",
+        "kk": "Қосымша әлеуметтену — отбасынан тыс жаңа рөлдер мен нормаларды меңгеру: мектепте, жұмыста, басқа институттарда."
+      }
+    },
+    {
+      "id": 99,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Агентами социализации выступают...",
+        "en": "The agents of socialization are...",
+        "kk": "Әлеуметтену агенттері болып табылады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "семья",
+            "en": "the family",
+            "kk": "отбасы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "генотип человека",
+            "en": "a person's genotype",
+            "kk": "адамның генотипі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "школа",
+            "en": "the school",
+            "kk": "мектеп"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "темперамент личности",
+            "en": "a personality's temperament",
+            "kk": "тұлғаның темпераменті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "средства массовой информации",
+            "en": "the mass media",
+            "kk": "бұқаралық ақпарат құралдары"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Агенты социализации — группы и институты, передающие человеку нормы и ценности: семья, школа, средства массовой информации; генотип и темперамент — биологические и психологические свойства, а не агенты.",
+        "en": "Agents of socialization are the groups and institutions that pass norms and values on to a person: the family, the school, the mass media; genotype and temperament are biological and psychological properties, not agents.",
+        "kk": "Әлеуметтену агенттері — адамға нормалар мен құндылықтарды жеткізетін топтар мен институттар: отбасы, мектеп, бұқаралық ақпарат құралдары; генотип пен темперамент — биологиялық және психологиялық қасиеттер, агенттер емес."
+      }
+    },
+    {
+      "id": 100,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В чём заключается концепция Джорджа Герберта Мида «Формирование социального Я»?",
+        "en": "What is the essence of George Herbert Mead's concept “the formation of the social self”?",
+        "kk": "Джордж Герберт Мидтің «Әлеуметтік Менді қалыптастыру» тұжырымдамасының мәні неде?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Я полностью задано биологическими инстинктами и не зависит от общества и культуры",
+            "en": "The self is fully determined by biological instincts and does not depend on society and culture",
+            "kk": "Мен толығымен биологиялық инстинктермен айқындалады және қоғам мен мәдениетке тәуелсіз"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Я возникает во взаимодействии через принятие ролей других и «обобщённого другого»",
+            "en": "The self arises in interaction through taking the roles of others and the “generalized other”",
+            "kk": "Мен өзара әрекетте басқалардың және «жалпыланған басқаның» рөлдерін қабылдау арқылы пайда болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Я определяется только отношением человека к средствам производства и классовой позицией",
+            "en": "The self is determined only by a person's relation to the means of production and class position",
+            "kk": "Мен тек адамның өндіріс құралдарына қатынасымен және таптық жағдайымен айқындалады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Я есть результат расчёта выгоды в процессе обмена вознаграждениями с партнёрами",
+            "en": "The self is the result of calculating benefit in the exchange of rewards with partners",
+            "kk": "Мен — серіктестермен сыйақы алмасу процесінде пайданы есептеудің нәтижесі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Я формируется пассивно по ролям, жёстко заданным социальной структурой и институтами",
+            "en": "The self is formed passively, according to roles rigidly set by the social structure and institutions",
+            "kk": "Мен әлеуметтік құрылым мен институттар қатаң белгілеген рөлдер бойынша енжар қалыптасады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Мид считал, что Я возникает в социальном взаимодействии: ребёнок принимает роли значимых других и обобщённого другого.",
+        "en": "Mead held that the self arises in social interaction: the child takes on the roles of significant others and of the generalized other.",
+        "kk": "Мид Менің әлеуметтік өзара әрекетте пайда болатынын санады: бала маңызды басқалардың және жалпыланған басқаның рөлдерін қабылдайды."
+      }
+    },
+    {
+      "id": 101,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Концепция «зеркального Я» разработана...",
+        "en": "The concept of the “looking-glass self” was developed by...",
+        "kk": "«Айнадағы Мен» тұжырымдамасын әзірлеген..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Джорджем Гербертом Мидом",
+            "en": "George Herbert Mead",
+            "kk": "Джордж Герберт Мид"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эмилем Дюркгеймом",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Максом Вебером",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Чарльзом Кули",
+            "en": "Charles H. Cooley",
+            "kk": "Чарльз Кули"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Юргеном Хабермасом",
+            "en": "Jürgen Habermas",
+            "kk": "Юрген Хабермас"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Теория «зеркального Я» принадлежит Чарльзу Кули; Мид развивал символический интеракционизм.",
+        "en": "The “looking-glass self” theory belongs to Charles H. Cooley; Mead developed symbolic interactionism.",
+        "kk": "«Айнадағы Мен» теориясы Чарльз Кулиге тиесілі; Мид символдық интеракционизмді дамытты."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 5 Социализация и идентичность 2024.pdf",
+          "location": "строка 234 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 141 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Ребёнок выполняет правила при воспитателе, но позже начинает соблюдать их без наблюдения. Какой механизм соответствует идее «обобщённого другого» Джорджа Герберта Мида?",
+        "en": "A child follows rules in the presence of a caregiver but later begins to observe them without supervision. Which mechanism corresponds to George Herbert Mead's idea of the “generalized other”?",
+        "kk": "Бала тәрбиешінің қасында ережелерді орындайды, бірақ кейін оларды бақылаусыз да сақтай бастайды. Джордж Герберт Мидтің «жалпыланған басқа» идеясына қандай тетік сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Ребёнок стремится избежать наказания именно со стороны этого воспитателя",
+            "en": "The child seeks to avoid punishment specifically from this caregiver",
+            "kk": "Бала дәл осы тәрбиешінің тарапынан жазадан құтылуға тырысады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ребёнок подражает образцу одного значимого взрослого, не осмысляя правил",
+            "en": "The child imitates the model of one significant adult without grasping the rules",
+            "kk": "Бала ережелерді саналы түсінбей, бір маңызды ересектің үлгісіне еліктейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Ребёнок усвоил общие ожидания сообщества и следует им без надзора взрослого",
+            "en": "The child internalizes the community's general expectations and follows them unsupervised",
+            "kk": "Бала қауымдастықтың жалпы күтулерін меңгерген және ересектің қадағалауынсыз соларға ере береді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Ребёнок получает материальное вознаграждение за каждое соблюдение правила",
+            "en": "The child receives a material reward for each observance of a rule",
+            "kk": "Бала ережені сақтаған сайын материалдық сыйақы алады"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Ребёнок следует правилам по врождённому инстинкту независимо от социальных контактов",
+            "en": "The child follows the rules by innate instinct, regardless of social contacts",
+            "kk": "Бала әлеуметтік байланыстарға тәуелсіз туа біткен инстинкт бойынша ережелерді орындайды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Обобщённый другой — усвоенные общие нормы сообщества; ребёнок руководствуется ими сам, а не требованиями конкретного человека.",
+        "en": "The generalized other is the internalized general norms of the community; the child is guided by them on his or her own, not by the demands of a particular person.",
+        "kk": "Жалпыланған басқа — қауымдастықтың меңгерілген жалпы нормалары; бала нақты адамның талаптарын емес, соларды өзі басшылыққа алады."
+      }
+    }
+  ]
+}

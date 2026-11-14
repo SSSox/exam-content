@@ -1,0 +1,538 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 148,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социологический анализ здоровья сосредоточен на...",
+        "en": "The sociological analysis of health focuses on...",
+        "kk": "Денсаулықты әлеуметтанулық талдау мынаған бағытталған..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "биохимических механизмах болезней, лабораторной диагностике и фармакологии",
+            "en": "the biochemical mechanisms of disease, laboratory diagnostics and pharmacology",
+            "kk": "аурулардың биохимиялық тетіктеріне, зертханалық диагностика мен фармакологияға"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "технике хирургических операций, подборе лекарств и методах реабилитации",
+            "en": "the technique of surgical operations, the choice of drugs and methods of rehabilitation",
+            "kk": "хирургиялық операциялар техникасына, дәрі таңдауға және оңалту әдістеріне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "статистике браков, разводов и рождаемости в семьях разных регионов страны",
+            "en": "statistics of marriages, divorces and births in families of different regions of the country",
+            "kk": "елдің әртүрлі өңірлері отбасыларындағы неке, ажырасу және туу статистикасына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "личных переживаниях больного, его снах, настроениях и внутренних мотивах",
+            "en": "the patient's personal experiences, dreams, moods and inner motives",
+            "kk": "науқастың жеке күйзелістеріне, түстеріне, көңіл-күйіне және ішкі уәждеріне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "связях здоровья с условиями жизни, социальными отношениями и институтами",
+            "en": "the links between health and living conditions, social relations and institutions",
+            "kk": "денсаулықтың өмір жағдайларымен, әлеуметтік қатынастармен және институттармен байланысына"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Здоровье и болезнь рассматриваются не как чисто биологические явления, а в социальном, политическом и культурном контексте.",
+        "en": "Health and illness are considered not as purely biological phenomena but in their social, political and cultural context.",
+        "kk": "Денсаулық пен ауру тек биологиялық құбылыс ретінде емес, әлеуметтік, саяси және мәдени контексте қарастырылады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Здоровье.pdf",
+          "location": "строки 48–49 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социальная эпидемиология изучает...",
+        "en": "Social epidemiology studies...",
+        "kk": "Әлеуметтік эпидемиология мыналарды зерттейді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "эффективность хирургических методов лечения в разных клиниках страны",
+            "en": "the effectiveness of surgical methods of treatment in different clinics of the country",
+            "kk": "елдің әртүрлі клиникаларындағы емдеудің хирургиялық әдістерінің тиімділігін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "причины и распространение заболеваний в разных социальных группах населения",
+            "en": "the causes and spread of diseases in different social groups of the population",
+            "kk": "халықтың әртүрлі әлеуметтік топтарындағы аурулардың себептері мен таралуын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "биологические механизмы наследственных болезней у отдельных людей",
+            "en": "the biological mechanisms of hereditary diseases in individual people",
+            "kk": "жекелеген адамдардағы тұқым қуалайтын аурулардың биологиялық тетіктерін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "стоимость лекарств и динамику развития фармацевтических рынков мира",
+            "en": "the cost of medicines and the development of pharmaceutical markets worldwide",
+            "kk": "дәрі құны мен әлемдік фармацевтикалық нарықтардың даму динамикасын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "психологические особенности врачей и их отношение к пациентам",
+            "en": "the psychological characteristics of doctors and their attitude to patients",
+            "kk": "дәрігерлердің психологиялық ерекшеліктері мен олардың пациенттерге қатынасын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Социальная эпидемиология изучает причины и распространение заболеваний и связь социальных проблем со здоровьем групп населения.",
+        "en": "Social epidemiology studies the causes and spread of diseases and the link between social problems and the health of population groups.",
+        "kk": "Әлеуметтік эпидемиология аурулардың себептері мен таралуын және әлеуметтік мәселелердің халық топтарының денсаулығымен байланысын зерттейді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Здоровье.pdf",
+          "location": "строки 187–188 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "К социальным детерминантам здоровья относятся...",
+        "en": "The social determinants of health include...",
+        "kk": "Денсаулықтың әлеуметтік детерминанттарына мыналар жатады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "условия труда, проживания, образования, доступ к общественным ресурсам",
+            "en": "working, living and educational conditions, and access to public resources",
+            "kk": "еңбек, тұрғын үй, білім беру жағдайлары, қоғамдық ресурстарға қолжетімділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "группа крови, наследственность, пол, возраст и телосложение человека",
+            "en": "blood type, heredity, sex, age and a person's build",
+            "kk": "адамның қан тобы, тұқым қуалаушылығы, жынысы, жасы және дене бітімі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "уровень гемоглобина, давление, пульс, температура тела и масса",
+            "en": "hemoglobin level, blood pressure, pulse, body temperature and weight",
+            "kk": "гемоглобин деңгейі, қан қысымы, тамыр соғуы, дене температурасы және салмағы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "тип нервной системы, темперамент, острота зрения и слуха человека",
+            "en": "type of nervous system, temperament, and acuity of vision and hearing",
+            "kk": "жүйке жүйесінің түрі, темперамент, көру және есту өткірлігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "химический состав лекарств, дозировки, формы выпуска и сроки хранения",
+            "en": "the chemical composition of drugs, dosages, forms of release and shelf life",
+            "kk": "дәрілердің химиялық құрамы, дозалары, шығарылу нысандары және сақтау мерзімдері"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Здоровье зависит от процессов в обществе: условий жизни, труда, образования и безопасности, а не только от генетики.",
+        "en": "Health depends on processes in society: living, working and educational conditions and safety, and not only on genetics.",
+        "kk": "Денсаулық тек генетикаға емес, қоғамдағы процестерге де байланысты: өмір, еңбек, білім беру жағдайларына және қауіпсіздікке."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Здоровье.pdf",
+          "location": "строка 83 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 13 Здоровье.pdf",
+          "location": "строка 340 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Стигматизация, связанная с болезнью, означает...",
+        "en": "Stigmatization associated with illness means...",
+        "kk": "Аурумен байланысты стигматизация — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "добровольный отказ человека от лечения из-за неверия в силу врачей и лекарств",
+            "en": "a person's voluntary refusal of treatment out of disbelief in the power of doctors and medicines",
+            "kk": "дәрігерлер мен дәрілердің күшіне сенбегендіктен адамның емделуден ерікті түрде бас тартуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "юридическое освобождение человека от работы из-за выданного ему больничного",
+            "en": "a person's legal release from work because of a sick leave certificate issued to them",
+            "kk": "адамға берілген ауру парағы бойынша оны жұмыстан заңды түрде босату"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "социальное обесценивание человека из-за приписываемого ему состояния или диагноза",
+            "en": "the social devaluation of a person because of a condition or diagnosis attributed to them",
+            "kk": "адамға тағылатын жай-күй немесе диагноз салдарынан оның әлеуметтік құнсыздануы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "научную классификацию болезней человека по их причинам, симптомам и течению",
+            "en": "the scientific classification of human diseases by their causes, symptoms and course",
+            "kk": "адамның ауруларын себептері, белгілері және ағымы бойынша ғылыми жіктеу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "повышенное внимание общества к человеку из-за его заслуг, званий и наград",
+            "en": "heightened attention from society to a person because of their merits, titles and awards",
+            "kk": "қоғамның адамға оның еңбегі, атақтары мен марапаттары үшін көбірек назар аударуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "По Гоффману, социальные стигмы мешают людям интегрироваться в общество и ухудшают уход за больным.",
+        "en": "According to Goffman, social stigmas keep people from integrating into society and worsen the care of the sick.",
+        "kk": "Гофман бойынша, әлеуметтік стигмалар адамдардың қоғамға интеграциялануына кедергі келтіреді және науқасқа күтімді нашарлатады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Здоровье.pdf",
+          "location": "строки 105–106 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Концепция роли больного связана с именем...",
+        "en": "The concept of the sick role is associated with the name of...",
+        "kk": "Науқас рөлі тұжырымдамасы кімнің есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эрвина Гоффмана",
+            "en": "Erving Goffman",
+            "kk": "Эрвинг Гофман"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эмиля Дюркгейма",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Макса Вебера",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Толкотта Парсонса",
+            "en": "Talcott Parsons",
+            "kk": "Толкотт Парсонс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Герберта Спенсера",
+            "en": "Herbert Spencer",
+            "kk": "Герберт Спенсер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Парсонс первым описал роль больного как набор прав и обязанностей.",
+        "en": "Parsons was the first to describe the sick role as a set of rights and obligations.",
+        "kk": "Парсонс науқас рөлін құқықтар мен міндеттер жиынтығы ретінде бірінші болып сипаттады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Здоровье.pdf",
+          "location": "строки 133–134 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Качество жизни, связанное со здоровьем, охватывает...",
+        "en": "Health-related quality of life covers...",
+        "kk": "Денсаулыққа байланысты өмір сапасы мыналарды қамтиды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "стоимость лекарств, число больниц и численность медицинского персонала",
+            "en": "the cost of medicines, the number of hospitals and the size of medical staff",
+            "kk": "дәрі құнын, аурухана санын және медицина қызметкерлерінің санын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "воспринимаемое благополучие, возможности повседневного функционирования",
+            "en": "perceived well-being and the capacity for everyday functioning",
+            "kk": "қабылданатын әл-ауқатты, күнделікті жұмыс істеу мүмкіндіктерін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "только отсутствие диагнозов и результаты лабораторных анализов больного",
+            "en": "only the absence of diagnoses and the results of a patient's laboratory tests",
+            "kk": "тек диагноздардың болмауын және науқастың зертханалық талдау нәтижелерін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "доходы фармацевтических компаний, объёмы продаж и экспортные квоты",
+            "en": "the revenues of pharmaceutical companies, sales volumes and export quotas",
+            "kk": "фармацевтикалық компаниялардың табысын, сату көлемін және экспорттық квоталарды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "биологический возраст, наследственность, рост и массу тела человека",
+            "en": "biological age, heredity, height and body weight",
+            "kk": "адамның биологиялық жасын, тұқым қуалаушылығын, бойы мен салмағын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Качество жизни - субъективная оценка благополучия; оно позволяет оценить функционирование больного как личности с социальным статусом и ролями.",
+        "en": "Quality of life is a subjective assessment of well-being; it makes it possible to evaluate the functioning of a patient as a person with a social status and roles.",
+        "kk": "Өмір сапасы — әл-ауқаттың субъективті бағасы; ол науқастың әлеуметтік мәртебесі мен рөлдері бар тұлға ретіндегі жұмыс істеуін бағалауға мүмкіндік береді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 13 Здоровье.pdf",
+          "location": "строка 253 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 13 Здоровье.pdf",
+          "location": "строка 303 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Доступность медицинской помощи характеризуется...",
+        "en": "The accessibility of medical care is characterized by...",
+        "kk": "Медициналық көмектің қолжетімділігі мынамен сипатталады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "высокой квалификацией врачей и современным оборудованием в ведущих столичных клиниках страны",
+            "en": "the high qualifications of doctors and modern equipment in the leading clinics of the capital",
+            "kk": "елдің жетекші астаналық клиникаларындағы дәрігерлердің жоғары біліктілігімен және заманауи жабдықпен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "уровнем удовлетворённости пациентов работой врача и вежливостью персонала в поликлинике",
+            "en": "the level of patient satisfaction with the doctor's work and the politeness of staff in the outpatient clinic",
+            "kk": "пациенттердің емханадағы дәрігер жұмысына және персоналдың сыпайылығына қанағаттану деңгейімен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "долей расходов государства на здравоохранение в валовом внутреннем продукте страны",
+            "en": "the share of state spending on health care in the country's gross domestic product",
+            "kk": "мемлекеттің денсаулық сақтауға жұмсалатын шығысының елдің жалпы ішкі өніміндегі үлесімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "продолжительностью жизни населения и уровнем смертности от болезней сердца в стране",
+            "en": "the life expectancy of the population and the death rate from heart disease in the country",
+            "kk": "халықтың өмір сүру ұзақтығымен және елдегі жүрек ауруларынан болатын өлім деңгейімен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "возможностью получить необходимую помощь с учётом финансовых, территориальных и организационных условий",
+            "en": "the possibility of obtaining the necessary care given financial, territorial and organizational conditions",
+            "kk": "қаржылық, аумақтық және ұйымдастырушылық жағдайларды ескере отырып, қажетті көмек алу мүмкіндігімен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Доступность означает реальную возможность получить нужную помощь с учётом денег, расстояния и организации служб.",
+        "en": "Accessibility means a real possibility of obtaining the needed care, taking into account money, distance and the organization of services.",
+        "kk": "Қолжетімділік ақша, қашықтық және қызметтерді ұйымдастыруды ескере отырып, қажетті көмекті алудың нақты мүмкіндігін білдіреді."
+      }
+    },
+    {
+      "id": 155,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Неудовлетворённая потребность в медицинской помощи означает ситуацию, когда человек...",
+        "en": "Unmet need for medical care means a situation in which a person...",
+        "kk": "Медициналық көмекке қанағаттандырылмаған қажеттілік — бұл жағдай, онда адам..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "нуждается в помощи, но не получает её",
+            "en": "needs care but does not receive it",
+            "kk": "көмекке мұқтаж, бірақ оны алмайды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "получает помощь, хотя в ней не нуждается",
+            "en": "receives care although they do not need it",
+            "kk": "көмекке мұқтаж болмаса да, оны алады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "обращается за помощью и сразу получает её",
+            "en": "seeks care and receives it immediately",
+            "kk": "көмекке жүгініп, оны бірден алады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "здоров и регулярно проходит осмотры",
+            "en": "is healthy and has regular check-ups",
+            "kk": "дені сау және үнемі тексеруден өтеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "оплачивает лечение за счёт страховки",
+            "en": "pays for treatment with insurance",
+            "kk": "емделуді сақтандыру есебінен төлейді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Неудовлетворённая потребность - это нужда в помощи при отсутствии её получения.",
+        "en": "Unmet need is a need for care without receiving it.",
+        "kk": "Қанағаттандырылмаған қажеттілік — көмекке мұқтаж болып, оны алмау."
+      }
+    }
+  ]
+}

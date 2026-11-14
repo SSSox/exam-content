@@ -1,0 +1,613 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 5,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "«Социология — это наука об изучении общества и социальных отношений, она пытается познать людей и определить их поведение». Так определил американский социолог...",
+        "en": "“Sociology is the science of the study of society and social relations; it seeks to understand people and to determine their behavior.” This is how the American sociologist defined it...",
+        "kk": "«Әлеуметтану — қоғам мен әлеуметтік қатынастарды зерттейтін ғылым, ол адамдарды тануға және олардың мінез-құлқын айқындауға тырысады». Осылай анықтама берген американдық социолог..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Чарльз Райт Миллс",
+            "en": "C. Wright Mills",
+            "kk": "Чарльз Райт Миллс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Нил Смелзер",
+            "en": "Neil Smelser",
+            "kk": "Нил Смелсер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Роберт Мертон",
+            "en": "Robert K. Merton",
+            "kk": "Роберт Мертон"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Энтони Гидденс",
+            "en": "Anthony Giddens",
+            "kk": "Энтони Гидденс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Толкотт Парсонс",
+            "en": "Talcott Parsons",
+            "kk": "Толкотт Парсонс"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Определение социологии как научного изучения общества и социальных отношений в лекции приписано Нилу Смелзеру.",
+        "en": "In the lecture, the definition of sociology as the scientific study of society and social relations is attributed to Neil Smelser.",
+        "kk": "Әлеуметтануды қоғам мен әлеуметтік қатынастарды ғылыми зерттеу деп анықтау дәрісте Нил Смелсерге жатқызылған."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 5 Социализация и идентичность 2024.pdf",
+          "location": "строки 184–185 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социология — это...",
+        "en": "Sociology is...",
+        "kk": "Әлеуметтану — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "наука о закономерностях становления и развития общества",
+            "en": "the science of the laws of the formation and development of society",
+            "kk": "қоғамның қалыптасуы мен дамуының заңдылықтары туралы ғылым"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "наука о психических процессах отдельной личности",
+            "en": "the science of the mental processes of the individual person",
+            "kk": "жеке тұлғаның психикалық процестері туралы ғылым"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "наука о прошлом человечества и его событиях",
+            "en": "the science of the human past and its events",
+            "kk": "адамзаттың өткені мен оның оқиғалары туралы ғылым"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "наука о производстве и обмене материальных благ",
+            "en": "the science of the production and exchange of material goods",
+            "kk": "материалдық игіліктерді өндіру мен айырбастау туралы ғылым"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "наука о происхождении и развитии биологических видов",
+            "en": "the science of the origin and development of biological species",
+            "kk": "биологиялық түрлердің шығуы мен дамуы туралы ғылым"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Социология изучает закономерности становления, функционирования и развития общества.",
+        "en": "Sociology studies the laws of the formation, functioning and development of society.",
+        "kk": "Әлеуметтану қоғамның қалыптасуының, қызмет етуінің және дамуының заңдылықтарын зерттейді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 11 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Объект исследования социологии:",
+        "en": "The object of sociological research:",
+        "kk": "Әлеуметтанудың зерттеу объектісі:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Государство как аппарат управления и принуждения",
+            "en": "The state as an apparatus of administration and coercion",
+            "kk": "Басқару мен мәжбүрлеу аппараты ретіндегі мемлекет"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Природная среда обитания человека и её ресурсы",
+            "en": "The natural habitat of humans and its resources",
+            "kk": "Адамның табиғи мекен ету ортасы және оның ресурстары"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Общество как целостная система связей",
+            "en": "Society as an integral system of connections",
+            "kk": "Байланыстардың тұтас жүйесі ретіндегі қоғам"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Индивидуальная психика личности и её свойства",
+            "en": "The individual psyche of the person and its properties",
+            "kk": "Тұлғаның жеке психикасы және оның қасиеттері"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Экономическое производство товаров и услуг",
+            "en": "The economic production of goods and services",
+            "kk": "Тауарлар мен қызметтердің экономикалық өндірісі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Объект социологии это общество как целостная система, совокупность социальных связей, взаимодействий и отношений.",
+        "en": "The object of sociology is society as an integral system, a set of social connections, interactions and relations.",
+        "kk": "Әлеуметтанудың объектісі — тұтас жүйе ретіндегі қоғам, яғни әлеуметтік байланыстардың, өзара әрекеттер мен қатынастардың жиынтығы."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 26 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что из этого не относится к функциям социологии?",
+        "en": "Which of the following is NOT a function of sociology?",
+        "kk": "Мыналардың қайсысы әлеуметтану функцияларына жатпайды?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Диагностическая",
+            "en": "Diagnostic",
+            "kk": "Диагностикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Карательная",
+            "en": "Punitive",
+            "kk": "Жазалаушы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Прогностическая",
+            "en": "Predictive",
+            "kk": "Болжамдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Управленческая",
+            "en": "Managerial",
+            "kk": "Басқарушылық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Описательная",
+            "en": "Descriptive",
+            "kk": "Сипаттамалық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Функции социологии: познавательные (описательная, объяснительная, диагностическая), прогностические и управленческие; карательной среди них нет.",
+        "en": "The functions of sociology are cognitive (descriptive, explanatory, diagnostic), predictive and managerial; a punitive function is not among them.",
+        "kk": "Әлеуметтану функциялары: танымдық (сипаттамалық, түсіндірмелік, диагностикалық), болжамдық және басқарушылық; олардың ішінде жазалаушы функция жоқ."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 39 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 40 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что обозначает понятие «социальный институт»?",
+        "en": "What does the concept of “social institution” denote?",
+        "kk": "«Әлеуметтік институт» ұғымы нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Временное объединение людей ради общей цели",
+            "en": "A temporary association of people for a common goal",
+            "kk": "Адамдардың ортақ мақсат үшін уақытша бірігуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Форма самоорганизации совместной жизни людей",
+            "en": "A form of self-organization of people's common life",
+            "kk": "Адамдардың бірлескен өмірін өзін-өзі ұйымдастыру нысаны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Конкретное здание с постоянным штатом работников",
+            "en": "A specific building with a permanent staff of employees",
+            "kk": "Тұрақты қызметкерлер құрамы бар нақты бір ғимарат"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Личная привычка отдельного человека",
+            "en": "A personal habit of an individual",
+            "kk": "Жеке адамның жеке әдеті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Отношение человека к самому себе",
+            "en": "A person's attitude toward himself or herself",
+            "kk": "Адамның өз-өзіне қатынасы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Спенсер понимал под социальным институтом способ и форму самоорганизации совместной жизни людей.",
+        "en": "Spencer understood a social institution as a way and form of self-organization of people's common life.",
+        "kk": "Спенсер әлеуметтік институт деп адамдардың бірлескен өмірін өзін-өзі ұйымдастыру тәсілі мен нысанын түсінді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 83 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Этимологическое значение термина «социология»:",
+        "en": "The etymological meaning of the term “sociology”:",
+        "kk": "«Әлеуметтану» терминінің этимологиялық мағынасы:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Наука о личности",
+            "en": "The science of the personality",
+            "kk": "Тұлға туралы ғылым"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Наука о государстве",
+            "en": "The science of the state",
+            "kk": "Мемлекет туралы ғылым"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Наука о культуре",
+            "en": "The science of culture",
+            "kk": "Мәдениет туралы ғылым"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Наука об обществе",
+            "en": "The science of society",
+            "kk": "Қоғам туралы ғылым"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наука о ценностях",
+            "en": "The science of values",
+            "kk": "Құндылықтар туралы ғылым"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Термин происходит от лат. societas (общество) и греч. logos (слово, учение), то есть «наука об обществе».",
+        "en": "The term comes from the Latin societas (society) and the Greek logos (word, doctrine), that is, “the science of society.”",
+        "kk": "Термин лат. societas (қоғам) және грек. logos (сөз, ілім) сөздерінен шыққан, яғни «қоғам туралы ғылым»."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 13 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какая функция социологии связана с объяснением социальных закономерностей?",
+        "en": "Which function of sociology is associated with explaining social regularities?",
+        "kk": "Әлеуметтанудың қай функциясы әлеуметтік заңдылықтарды түсіндірумен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прогностическая",
+            "en": "Predictive",
+            "kk": "Болжамдық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Управленческая",
+            "en": "Managerial",
+            "kk": "Басқарушылық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Идеологическая",
+            "en": "Ideological",
+            "kk": "Идеологиялық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Объяснительная",
+            "en": "Explanatory",
+            "kk": "Түсіндірмелік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гуманистическая",
+            "en": "Humanistic",
+            "kk": "Гуманистік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Объяснительная функция входит в познавательные и раскрывает причины и закономерности социальных явлений.",
+        "en": "The explanatory function is one of the cognitive functions and reveals the causes and regularities of social phenomena.",
+        "kk": "Түсіндірмелік функция танымдық функциялардың құрамына кіреді және әлеуметтік құбылыстардың себептері мен заңдылықтарын ашады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 40 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что означает понятие «социологическое воображение»?",
+        "en": "What does the concept of “sociological imagination” mean?",
+        "kk": "«Әлеуметтанулық қиял» ұғымы нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Умение придумывать вымышленные общества и их порядки",
+            "en": "The ability to invent imaginary societies and their orders",
+            "kk": "Ойдан шығарылған қоғамдар мен олардың тәртіптерін ойлап табу шеберлігі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Способность связать личную биографию с событиями в обществе",
+            "en": "The ability to connect personal biography with events in society",
+            "kk": "Жеке өмірбаянды қоғамдағы оқиғалармен байланыстыра алу қабілеті"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Привычка объяснять события здравым смыслом и бытовым опытом",
+            "en": "The habit of explaining events by common sense and everyday experience",
+            "kk": "Оқиғаларды қарапайым ақыл мен күнделікті тәжірибе арқылы түсіндіру әдеті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Умение предсказывать будущее по интуиции и приметам",
+            "en": "The ability to predict the future by intuition and omens",
+            "kk": "Болашақты түйсікпен және белгілермен болжау шеберлігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Склонность рисовать себе идеальное общество без изъянов",
+            "en": "A tendency to picture an ideal society without flaws",
+            "kk": "Кемшіліксіз идеал қоғамды көз алдына елестетуге бейімділік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "По Миллсу, это способность связывать личный опыт (биографию) с событиями в обществе (историей).",
+        "en": "According to Mills, it is the ability to connect personal experience (biography) with events in society (history).",
+        "kk": "Миллс бойынша, бұл — жеке тәжірибені (өмірбаянды) қоғамдағы оқиғалармен (тарихпен) байланыстыра алу қабілеті."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 44 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что из нижеперечисленного является социальным институтом?",
+        "en": "Which of the following is a social institution?",
+        "kk": "Төмендегілердің қайсысы әлеуметтік институт болып табылады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Толпа",
+            "en": "A crowd",
+            "kk": "Топ (тобыр)"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Очередь в магазине",
+            "en": "A queue in a shop",
+            "kk": "Дүкендегі кезек"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Дружеская компания",
+            "en": "A circle of friends",
+            "kk": "Достар компаниясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Семья",
+            "en": "The family",
+            "kk": "Отбасы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Зрители на концерте",
+            "en": "An audience at a concert",
+            "kk": "Концерттегі көрермендер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Семья относится к социальным институтам (семейные, образовательные, религиозные и др.), остальные варианты не институты.",
+        "en": "The family is a social institution (family, educational, religious and others); the other options are not institutions.",
+        "kk": "Отбасы әлеуметтік институттарға жатады (отбасылық, білім беру, діни және т.б.), қалған нұсқалар институт емес."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 131 извлечённого текста"
+        }
+      ]
+    }
+  ]
+}

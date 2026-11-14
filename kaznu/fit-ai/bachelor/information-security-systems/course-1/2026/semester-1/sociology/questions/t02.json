@@ -1,0 +1,2359 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 4,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Учёный, который впервые ввёл в науку термин «социология».",
+        "en": "The scholar who first introduced the term “sociology” into science.",
+        "kk": "«Әлеуметтану» терминін ғылымға алғаш енгізген ғалым."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Герберт Спенсер",
+            "en": "Herbert Spencer",
+            "kk": "Герберт Спенсер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Эмиль Дюркгейм",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Огюст Конт",
+            "en": "Auguste Comte",
+            "kk": "Огюст Конт"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Карл Маркс",
+            "en": "Karl Marx",
+            "kk": "Карл Маркс"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Макс Вебер",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Термин «социология» ввёл в научный оборот Огюст Конт, заменив им прежнее понятие «социальная физика».",
+        "en": "The term “sociology” was introduced into scholarly use by Auguste Comte, who replaced the earlier concept of “social physics” with it.",
+        "kk": "«Әлеуметтану» терминін ғылыми айналымға Огюст Конт енгізді, ол бұрынғы «әлеуметтік физика» ұғымының орнына қолданылды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 13 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 71 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что изучает макросоциология?",
+        "en": "What does macrosociology study?",
+        "kk": "Макроәлеуметтану нені зерттейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Крупные структуры, институты и общество в целом",
+            "en": "Large structures, institutions and society as a whole",
+            "kk": "Ірі құрылымдарды, институттарды және тұтастай қоғамды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Взаимодействие людей в парах и малых группах, например в семье или бригаде",
+            "en": "Interaction between people in pairs and small groups, for example in a family or a work team",
+            "kk": "Адамдардың жұптар мен шағын топтардағы, мысалы отбасы немесе бригададағы өзара әрекетін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Повседневное общение людей лицом к лицу в кругу знакомых",
+            "en": "Everyday face-to-face communication among acquaintances",
+            "kk": "Таныс адамдар ортасындағы адамдардың күнделікті бетпе-бет қарым-қатынасын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Смысл символов в общении двух людей в конкретной ситуации",
+            "en": "The meaning of symbols in communication between two people in a particular situation",
+            "kk": "Екі адамның қарым-қатынасындағы белгілердің нақты жағдайдағы мағынасын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Мотивы и переживания отдельной личности в её жизненных обстоятельствах",
+            "en": "The motives and experiences of an individual in his or her life circumstances",
+            "kk": "Жеке тұлғаның өмірлік жағдайларындағы уәждері мен сезімдерін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Макроуровень рассматривает целое и групповые взаимодействия: общество, его структуры и институты, а не отдельных людей.",
+        "en": "The macro level examines the whole and group interactions: society, its structures and institutions, rather than individual people.",
+        "kk": "Макродеңгей тұтастықты және топтық өзара әрекеттерді, яғни қоғамды, оның құрылымдары мен институттарын қарастырады, жеке адамдарды емес."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 5 Социализация и идентичность 2024.pdf",
+          "location": "строки 301–302 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 6_Семья 2024.pdf",
+          "location": "строки 54–55 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Предмет исследования социологии по Герберту Спенсеру:",
+        "en": "The subject of sociological research according to Herbert Spencer:",
+        "kk": "Герберт Спенсер бойынша әлеуметтанудың зерттеу пәні:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Прогресс идей, понятий и знаний об обществе",
+            "en": "The progress of ideas, concepts and knowledge about society",
+            "kk": "Қоғам туралы идеялардың, ұғымдар мен білімнің прогресі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социальные факты как внешняя сила для индивидов",
+            "en": "Social facts as an external force acting on individuals",
+            "kk": "Жеке адамдарға сыртқы күш болатын әлеуметтік фактілер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Конкретная объективная реальность самого общества",
+            "en": "The concrete objective reality of society itself",
+            "kk": "Қоғамның өзінің нақты объективті шындығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Социальное поведение, ориентированное на смысл",
+            "en": "Social behavior oriented toward meaning",
+            "kk": "Мағынаға бағытталған әлеуметтік мінез-құлық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Базис и надстройка как части социальной системы",
+            "en": "Base and superstructure as parts of the social system",
+            "kk": "Әлеуметтік жүйенің бөліктері ретіндегі базис пен қондырма"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Спенсер, в отличие от Конта, видел предмет социологии в конкретной объективной реальности самого общества.",
+        "en": "Spencer, unlike Comte, saw the subject of sociology in the concrete objective reality of society itself.",
+        "kk": "Спенсер Контқа қарағанда әлеуметтанудың пәнін қоғамның өзінің нақты объективті шындығынан көрді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 1. Социология в понимании социального мира  (2).docx",
+          "location": "строка 15 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Автор работы «Курс позитивной философии»:",
+        "en": "The author of the work “Course of Positive Philosophy”:",
+        "kk": "«Позитивті философия курсы» еңбегінің авторы:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Герберт Спенсер",
+            "en": "Herbert Spencer",
+            "kk": "Герберт Спенсер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Макс Вебер",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Георг Зиммель",
+            "en": "Georg Simmel",
+            "kk": "Георг Зиммель"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Огюст Конт",
+            "en": "Auguste Comte",
+            "kk": "Огюст Конт"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Чарльз Кули",
+            "en": "Charles H. Cooley",
+            "kk": "Чарльз Кули"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "«Курс позитивной философии» основная работа Огюста Конта.",
+        "en": "“Course of Positive Philosophy” is the principal work of Auguste Comte.",
+        "kk": "«Позитивті философия курсы» — Огюст Контың негізгі еңбегі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 71 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Представители классической социологии:",
+        "en": "Representatives of classical sociology:",
+        "kk": "Классикалық әлеуметтанудың өкілдері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Пьер Бурдье",
+            "en": "Pierre Bourdieu",
+            "kk": "Пьер Бурдье"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Огюст Конт",
+            "en": "Auguste Comte",
+            "kk": "Огюст Конт"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Энтони Гидденс",
+            "en": "Anthony Giddens",
+            "kk": "Энтони Гидденс"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Эмиль Дюркгейм",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Макс Вебер",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Классический этап социологии представляют Конт, Дюркгейм, Спенсер и Вебер.",
+        "en": "The classical stage of sociology is represented by Comte, Durkheim, Spencer and Weber.",
+        "kk": "Әлеуметтанудың классикалық кезеңін Конт, Дюркгейм, Спенсер және Вебер өкілдік етеді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 17 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Социологические концепции Огюста Конта:",
+        "en": "Sociological concepts of Auguste Comte:",
+        "kk": "Огюст Контың әлеуметтанулық тұжырымдамалары:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Теория аномии",
+            "en": "The theory of anomie",
+            "kk": "Аномия теориясы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Закон трёх стадий",
+            "en": "The law of three stages",
+            "kk": "Үш сатылық заң"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Идеальный тип",
+            "en": "The ideal type",
+            "kk": "Идеалды тип"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Деление на социальную статику и динамику",
+            "en": "The division into social statics and dynamics",
+            "kk": "Әлеуметтік статика мен динамикаға бөлу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Теория социального факта",
+            "en": "The theory of the social fact",
+            "kk": "Әлеуметтік факт теориясы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "explanation": {
+        "ru": "У Конта это закон трёх стадий интеллектуальной эволюции и деление социологии на социальную статику и динамику.",
+        "en": "Comte's contributions are the law of three stages of intellectual evolution and the division of sociology into social statics and dynamics.",
+        "kk": "Контта бұл — интеллектуалдық эволюцияның үш сатылық заңы және әлеуметтануды әлеуметтік статика мен динамикаға бөлу."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 78 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 79 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К идеальным типам социального действия в теории Макса Вебера относится следующее...",
+        "en": "The ideal types of social action in Max Weber's theory include the following...",
+        "kk": "Макс Вебердің теориясындағы әлеуметтік әрекеттің идеалды типтеріне мыналар жатады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "харизматическое действие",
+            "en": "charismatic action",
+            "kk": "харизматикалық әрекет"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "целерациональное действие",
+            "en": "instrumentally rational action",
+            "kk": "мақсатты-рационалды әрекет"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "конфликтное действие",
+            "en": "conflict action",
+            "kk": "қақтығыс әрекеті"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "традиционное действие",
+            "en": "traditional action",
+            "kk": "дәстүрлі әрекет"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "ценностно-рациональное действие",
+            "en": "value-rational action",
+            "kk": "құндылықты-рационалды әрекет"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Вебер выделил четыре типа социального действия: целерациональное, ценностно-рациональное, аффективное и традиционное.",
+        "en": "Weber distinguished four types of social action: instrumentally rational, value-rational, affective and traditional.",
+        "kk": "Вебер әлеуметтік әрекеттің төрт түрін бөліп көрсетті: мақсатты-рационалды, құндылықты-рационалды, аффективті және дәстүрлі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 88 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Представители структурно-функционального направления в социологии:",
+        "en": "Representatives of the structural-functional approach in sociology:",
+        "kk": "Әлеуметтанудағы құрылымдық-функционалдық бағыттың өкілдері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Джордж Герберт Мид",
+            "en": "George Herbert Mead",
+            "kk": "Джордж Герберт Мид"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Толкотт Парсонс",
+            "en": "Talcott Parsons",
+            "kk": "Толкотт Парсонс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Чарльз Кули",
+            "en": "Charles H. Cooley",
+            "kk": "Чарльз Кули"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Роберт Мертон",
+            "en": "Robert K. Merton",
+            "kk": "Роберт Мертон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Герберт Блумер",
+            "en": "Herbert Blumer",
+            "kk": "Герберт Блумер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "explanation": {
+        "ru": "Структурный функционализм разработан в трудах Толкотта Парсонса и Роберта Мертона.",
+        "en": "Structural functionalism was developed in the works of Talcott Parsons and Robert K. Merton.",
+        "kk": "Құрылымдық функционализмді Толкотт Парсонс пен Роберт Мертонның еңбектері әзірледі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 97 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Типы самоубийств по Эмилю Дюркгейму:",
+        "en": "Types of suicide according to Émile Durkheim:",
+        "kk": "Эмиль Дюркгейм бойынша өзін-өзі өлтірудің түрлері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Альтруистическое",
+            "en": "Altruistic",
+            "kk": "Альтруистік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Демонстративное",
+            "en": "Demonstrative",
+            "kk": "Демонстрациялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Эгоистическое",
+            "en": "Egoistic",
+            "kk": "Эгоистік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Аффективное",
+            "en": "Affective",
+            "kk": "Аффективті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Аномическое",
+            "en": "Anomic",
+            "kk": "Аномиялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Дюркгейм выводил типы самоубийств из степени интеграции и регуляции общества: эгоистическое, альтруистическое, аномическое (и фаталистическое).",
+        "en": "Durkheim derived the types of suicide from the degree of integration and regulation in society: egoistic, altruistic, anomic (and fatalistic).",
+        "kk": "Дюркгейм өзін-өзі өлтіру түрлерін қоғамның интеграциясы мен реттелу дәрежесінен шығарды: эгоистік, альтруистік, аномиялық (және фаталистік)."
+      }
+    },
+    {
+      "id": 21,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите труды Эмиля Дюркгейма.",
+        "en": "Indicate the works of Émile Durkheim.",
+        "kk": "Эмиль Дюркгеймнің еңбектерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Протестантская этика и дух капитализма",
+            "en": "The Protestant Ethic and the Spirit of Capitalism",
+            "kk": "Протестанттық этика және капитализм рухы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "О разделении общественного труда",
+            "en": "The Division of Labour in Society",
+            "kk": "Қоғамдық еңбек бөлінісі туралы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социальная статика",
+            "en": "Social Statics",
+            "kk": "Әлеуметтік статика"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Правила социологического метода",
+            "en": "The Rules of Sociological Method",
+            "kk": "Әлеуметтанулық әдіс ережелері"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Самоубийство",
+            "en": "Suicide",
+            "kk": "Өзін-өзі өлтіру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Основные работы Дюркгейма: «О разделении общественного труда», «Правила социологического метода», «Самоубийство», «Элементарные формы религиозной жизни».",
+        "en": "Durkheim's main works: “The Division of Labour in Society,” “The Rules of Sociological Method,” “Suicide,” “The Elementary Forms of Religious Life.”",
+        "kk": "Дюркгеймнің негізгі еңбектері: «Қоғамдық еңбек бөлінісі туралы», «Әлеуметтанулық әдіс ережелері», «Өзін-өзі өлтіру», «Діни өмірдің қарапайым нысандары»."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 91 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Покажите работы Макса Вебера.",
+        "en": "Show the works of Max Weber.",
+        "kk": "Макс Вебердің еңбектерін көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Основания социологии",
+            "en": "The Principles of Sociology",
+            "kk": "Әлеуметтану негіздері"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Хозяйство и общество",
+            "en": "Economy and Society",
+            "kk": "Шаруашылық және қоғам"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Элементарные формы религиозной жизни",
+            "en": "The Elementary Forms of Religious Life",
+            "kk": "Діни өмірдің қарапайым нысандары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Протестантская этика и дух капитализма",
+            "en": "The Protestant Ethic and the Spirit of Capitalism",
+            "kk": "Протестанттық этика және капитализм рухы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Наука как призвание и профессия",
+            "en": "Science as a Vocation",
+            "kk": "Ғылым — кәсіп және мамандық ретінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Среди работ Вебера «Хозяйство и общество», «Протестантская этика и дух капитализма», «Наука как призвание и профессия».",
+        "en": "Weber's works include “Economy and Society,” “The Protestant Ethic and the Spirit of Capitalism,” “Science as a Vocation.”",
+        "kk": "Вебердің еңбектері арасында «Шаруашылық және қоғам», «Протестанттық этика және капитализм рухы», «Ғылым — кәсіп және мамандық ретінде» бар."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 85 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Социологи, которые являются разработчиками концепции конфликта:",
+        "en": "Sociologists who developed the conflict theory:",
+        "kk": "Қақтығыс тұжырымдамасын әзірлеген социологтар:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Толкотт Парсонс",
+            "en": "Talcott Parsons",
+            "kk": "Толкотт Парсонс"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Карл Маркс",
+            "en": "Karl Marx",
+            "kk": "Карл Маркс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Огюст Конт",
+            "en": "Auguste Comte",
+            "kk": "Огюст Конт"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Георг Зиммель",
+            "en": "Georg Simmel",
+            "kk": "Георг Зиммель"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Льюис Козер",
+            "en": "Lewis Coser",
+            "kk": "Льюис Козер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Теорию конфликта развивали опираясь на идеи Маркса и Зиммеля, а Козер продолжил подход Зиммеля.",
+        "en": "Conflict theory was developed drawing on the ideas of Marx and Simmel, and Coser continued Simmel's approach.",
+        "kk": "Қақтығыс теориясын Маркс пен Зиммельдің идеяларына сүйене отырып дамытты, ал Козер Зиммель тәсілін жалғастырды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 139 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Укажите основные идеи концепции Макса Вебера.",
+        "en": "Indicate the main ideas of Max Weber's concept.",
+        "kk": "Макс Вебер тұжырымдамасының негізгі идеяларын көрсетіңіз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Закон трёх стадий развития общества",
+            "en": "The law of three stages in the development of society",
+            "kk": "Қоғам дамуының үш сатылық заңы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социология как наука о понимании социального действия",
+            "en": "Sociology as a science of understanding social action",
+            "kk": "Әлеуметтану — әлеуметтік әрекетті түсіну туралы ғылым"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Социальные факты как вещи, внешние для индивида",
+            "en": "Social facts as things external to the individual",
+            "kk": "Адамға сыртқы зат ретіндегі әлеуметтік фактілер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Четыре типа социального действия",
+            "en": "Four types of social action",
+            "kk": "Әлеуметтік әрекеттің төрт түрі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Рационализация как тенденция исторического процесса",
+            "en": "Rationalization as a tendency of the historical process",
+            "kk": "Тарихи процестің үрдісі ретіндегі рационалдану"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "У Вебера социология понимает и каузально объясняет социальное действие, различает четыре его типа и видит в рационализации историческую тенденцию.",
+        "en": "For Weber, sociology interprets and causally explains social action, distinguishes four types of it, and sees rationalization as a historical tendency.",
+        "kk": "Веберде әлеуметтану әлеуметтік әрекетті түсінеді және себеп-салдарлық тұрғыдан түсіндіреді, оның төрт түрін ажыратады және рационалдануды тарихи үрдіс деп біледі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 86 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 89 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Виды власти по Максу Веберу:",
+        "en": "Types of authority according to Max Weber:",
+        "kk": "Макс Вебер бойынша биліктің түрлері:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Тоталитарная",
+            "en": "Totalitarian",
+            "kk": "Тоталитарлық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Харизматическая",
+            "en": "Charismatic",
+            "kk": "Харизматикалық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Олигархическая",
+            "en": "Oligarchic",
+            "kk": "Олигархиялық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Традиционная",
+            "en": "Traditional",
+            "kk": "Дәстүрлі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Легально-рациональная",
+            "en": "Legal-rational",
+            "kk": "Заңды-рационалды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Вебер различал три чистых типа легитимного господства: традиционное, харизматическое и легально-рациональное.",
+        "en": "Weber distinguished three pure types of legitimate domination: traditional, charismatic and legal-rational.",
+        "kk": "Вебер заңды үстемдіктің үш таза түрін ажыратты: дәстүрлі, харизматикалық және заңды-рационалды."
+      }
+    },
+    {
+      "id": 26,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Три стадии развития науки в истории человечества по Огюсту Конту:",
+        "en": "The three stages in the development of science in human history according to Auguste Comte:",
+        "kk": "Огюст Конт бойынша адамзат тарихындағы ғылым дамуының үш сатысы:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эмпирическая",
+            "en": "Empirical",
+            "kk": "Эмпирикалық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Теологическая",
+            "en": "Theological",
+            "kk": "Теологиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Романтическая",
+            "en": "Romantic",
+            "kk": "Романтикалық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Метафизическая",
+            "en": "Metaphysical",
+            "kk": "Метафизикалық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Позитивная",
+            "en": "Positive",
+            "kk": "Позитивті"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Закон трёх стадий Конта: теологическая (религиозная), метафизическая, позитивная (научная).",
+        "en": "Comte's law of three stages: theological (religious), metaphysical, positive (scientific).",
+        "kk": "Контың үш сатылық заңы: теологиялық (діни), метафизикалық, позитивті (ғылыми)."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 78 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Авторы теории социального обмена:",
+        "en": "Authors of the theory of social exchange:",
+        "kk": "Әлеуметтік айырбас теориясының авторлары:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эмиль Дюркгейм",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Джордж Хоманс",
+            "en": "George Homans",
+            "kk": "Джордж Хоманс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Огюст Конт",
+            "en": "Auguste Comte",
+            "kk": "Огюст Конт"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Питер Блау",
+            "en": "Peter Blau",
+            "kk": "Питер Блау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Герберт Спенсер",
+            "en": "Herbert Spencer",
+            "kk": "Герберт Спенсер"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "explanation": {
+        "ru": "Утилитаристские теории обмена связаны с именами Дж. Хоманса и П. Блау.",
+        "en": "Utilitarian exchange theories are associated with the names of G. Homans and P. Blau.",
+        "kk": "Айырбастың утилитарлық теориялары Дж. Хоманс пен П. Блаудың есімдерімен байланысты."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 12  Экономика.pdf",
+          "location": "строка 221 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Первым специализированным трудом по социологии был...",
+        "en": "The first specialized work on sociology was...",
+        "kk": "Әлеуметтану бойынша алғашқы мамандандырылған еңбек..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "«Система социологии» П. Сорокина",
+            "en": "“The System of Sociology” by P. Sorokin",
+            "kk": "П. Сорокиннің «Әлеуметтану жүйесі»"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "«Хозяйство и общество» М. Вебера",
+            "en": "“Economy and Society” by M. Weber",
+            "kk": "М. Вебердің «Шаруашылық және қоғам»"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "«Человеческая природа и социальный порядок» Ч. Кули",
+            "en": "“Human Nature and the Social Order” by C. Cooley",
+            "kk": "Ч. Кулидің «Адам табиғаты және әлеуметтік тәртіп»"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "«Основания социологии» Г. Спенсера",
+            "en": "“The Principles of Sociology” by H. Spencer",
+            "kk": "Г. Спенсердің «Әлеуметтану негіздері»"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "«Структура социального действия» Т. Парсонса",
+            "en": "“The Structure of Social Action” by T. Parsons",
+            "kk": "Т. Парсонстың «Әлеуметтік әрекеттің құрылымы»"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Из перечисленных работ «Основания социологии» Г. Спенсера (первый том — 1876 г.) появились раньше остальных; в учебной традиции их называют первым специализированным систематическим трудом по социологии.",
+        "en": "Of the works listed, H. Spencer's “The Principles of Sociology” (first volume 1876) appeared before the others; textbooks call it the first specialized systematic work on sociology.",
+        "kk": "Аталған еңбектердің ішінде Г. Спенсердің «Әлеуметтану негіздері» (бірінші томы — 1876 ж.) басқаларынан бұрын шыққан; оқулықтарда оны әлеуметтану бойынша алғашқы мамандандырылған жүйелі еңбек деп атайды."
+      }
+    },
+    {
+      "id": 54,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Первый в истории социологический факультет, на котором сложилась знаменитая социологическая школа, был основан в...",
+        "en": "The first sociology department in history, at which a famous sociological school took shape, was founded at...",
+        "kk": "Әлеуметтанудың атақты мектебі қалыптасқан тарихтағы алғашқы әлеуметтану факультеті мына жерде құрылды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Гарвардском университете",
+            "en": "Harvard University",
+            "kk": "Гарвард университетінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Лейпцигском университете",
+            "en": "the University of Leipzig",
+            "kk": "Лейпциг университетінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Берлинском университете",
+            "en": "the University of Berlin",
+            "kk": "Берлин университетінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Чикагском университете",
+            "en": "the University of Chicago",
+            "kk": "Чикаго университетінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Оксфордском университете",
+            "en": "the University of Oxford",
+            "kk": "Оксфорд университетінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Первый социологический факультет был основан в Чикагском университете в 1893 г., где сложилась знаменитая Чикагская школа.",
+        "en": "The first sociology department was founded at the University of Chicago in 1893, where the famous Chicago School took shape.",
+        "kk": "Тұңғыш әлеуметтану факультеті 1893 жылы Чикаго университетінде құрылды, онда атақты Чикаго мектебі қалыптасты."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 21 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Согласно Эмилю Дюркгейму, предметом социологии является...",
+        "en": "According to Émile Durkheim, the subject of sociology is...",
+        "kk": "Эмиль Дюркгейм бойынша әлеуметтанудың пәні..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "социальные факты",
+            "en": "social facts",
+            "kk": "әлеуметтік фактілер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "социальное действие",
+            "en": "social action",
+            "kk": "әлеуметтік әрекет"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "идеальные типы",
+            "en": "ideal types",
+            "kk": "идеалды типтер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "закон трёх стадий",
+            "en": "the law of three stages",
+            "kk": "үш сатылық заң"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "индивидуальное сознание",
+            "en": "individual consciousness",
+            "kk": "жеке сана"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Для Дюркгейма социология изучает прежде всего социальные факты и даёт им научное объяснение.",
+        "en": "For Durkheim, sociology studies above all social facts and gives them a scientific explanation.",
+        "kk": "Дюркгейм үшін әлеуметтану ең алдымен әлеуметтік фактілерді зерттейді және оларға ғылыми түсінік береді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 93 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие «социальное действие» было введено...",
+        "en": "The concept of “social action” was introduced by...",
+        "kk": "«Әлеуметтік әрекет» ұғымын енгізген..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Эмилем Дюркгеймом",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Максом Вебером",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Гербертом Спенсером",
+            "en": "Herbert Spencer",
+            "kk": "Герберт Спенсер"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Огюстом Контом",
+            "en": "Auguste Comte",
+            "kk": "Огюст Конт"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Чарльзом Кули",
+            "en": "Charles H. Cooley",
+            "kk": "Чарльз Кули"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Понятие социального действия положено в основу понимающей социологии Макса Вебера: социология истолковывает и каузально объясняет социальное действие.",
+        "en": "The concept of social action underlies Max Weber's interpretive sociology: sociology interprets and causally explains social action.",
+        "kk": "Әлеуметтік әрекет ұғымы Макс Вебердің түсінуші әлеуметтануының негізіне салынған: әлеуметтану әлеуметтік әрекетті түсіндіреді және себеп-салдарлық тұрғыдан талдайды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 86 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой из типов социального действия не входит в классификацию Макса Вебера?",
+        "en": "Which type of social action is NOT part of Max Weber's classification?",
+        "kk": "Әлеуметтік әрекеттің қай түрі Макс Вебердің жіктемесіне кірмейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Целерациональное",
+            "en": "Instrumentally rational",
+            "kk": "Мақсатты-рационалды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Ценностно-рациональное",
+            "en": "Value-rational",
+            "kk": "Құндылықты-рационалды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Инновационное",
+            "en": "Innovative",
+            "kk": "Инновациялық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Аффективное",
+            "en": "Affective",
+            "kk": "Аффективті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Традиционное",
+            "en": "Traditional",
+            "kk": "Дәстүрлі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "У Вебера четыре типа социального действия: целерациональное, ценностно-рациональное, аффективное и традиционное; инновация относится к типологии приспособления Мертона.",
+        "en": "Weber has four types of social action: instrumentally rational, value-rational, affective and traditional; innovation belongs to Merton's typology of adaptation.",
+        "kk": "Веберде әлеуметтік әрекеттің төрт түрі бар: мақсатты-рационалды, құндылықты-рационалды, аффективті және дәстүрлі; инновация Мертонның бейімделу типологиясына жатады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 88 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Спенсер выделял два вида общества: военное и...",
+        "en": "Spencer distinguished two kinds of society: military and...",
+        "kk": "Спенсер қоғамның екі түрін бөліп көрсетті: әскери және..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "аграрное",
+            "en": "agrarian",
+            "kk": "аграрлық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "теологическое",
+            "en": "theological",
+            "kk": "теологиялық"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "патриархальное",
+            "en": "patriarchal",
+            "kk": "патриархалдық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "индустриальное",
+            "en": "industrial",
+            "kk": "индустриялық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "постиндустриальное",
+            "en": "post-industrial",
+            "kk": "постиндустриялық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Спенсер противопоставлял военное общество, основанное на принуждении, и индустриальное, основанное на добровольном сотрудничестве.",
+        "en": "Spencer contrasted the military society, based on coercion, with the industrial society, based on voluntary cooperation.",
+        "kk": "Спенсер мәжбүрлеуге негізделген әскери қоғамды және ерікті ынтымақтастыққа негізделген индустриялық қоғамды қарама-қарсы қойды."
+      }
+    },
+    {
+      "id": 70,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Основное содержание структурного функционализма разработано в работах...",
+        "en": "The main content of structural functionalism was developed in the works of...",
+        "kk": "Құрылымдық функционализмнің негізгі мазмұны мына ғалымдардың еңбектерінде әзірленген..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Макса Вебера",
+            "en": "Max Weber",
+            "kk": "Макс Вебер"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Толкотта Парсонса",
+            "en": "Talcott Parsons",
+            "kk": "Толкотт Парсонс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Чарльза Кули",
+            "en": "Charles H. Cooley",
+            "kk": "Чарльз Кули"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Роберта Мертона",
+            "en": "Robert K. Merton",
+            "kk": "Роберт Мертон"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Георга Зиммеля",
+            "en": "Georg Simmel",
+            "kk": "Георг Зиммель"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "explanation": {
+        "ru": "Структурный функционализм разработан Т. Парсонсом (структура социального действия, социальная система) и Р. Мертоном (явные и латентные функции).",
+        "en": "Structural functionalism was developed by T. Parsons (the structure of social action, the social system) and R. Merton (manifest and latent functions).",
+        "kk": "Құрылымдық функционализмді Т. Парсонс (әлеуметтік әрекеттің құрылымы, әлеуметтік жүйе) және Р. Мертон (айқын және жасырын функциялар) әзірледі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 97 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В понимающей социологии Макса Вебера действие признаётся социальным, если оно...",
+        "en": "In Max Weber's interpretive sociology, an action is regarded as social if it...",
+        "kk": "Макс Вебердің түсінуші әлеуметтануында әрекет мынадай болғанда әлеуметтік деп танылады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "совершается в присутствии других людей независимо от смысла",
+            "en": "is performed in the presence of other people regardless of meaning",
+            "kk": "мағынасына қарамастан басқа адамдардың қатысуымен жасалса"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "является рефлекторной реакцией на внешний раздражитель",
+            "en": "is a reflex reaction to an external stimulus",
+            "kk": "сыртқы тітіркендіргішке рефлекторлық реакция болса"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "определяется внешним принуждением со стороны социальных фактов",
+            "en": "is determined by external coercion from social facts",
+            "kk": "әлеуметтік фактілер тарапынан сыртқы мәжбүрлеумен айқындалса"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "соотносится по смыслу с действием других людей и ориентируется на него",
+            "en": "is related in meaning to the actions of others and oriented toward them",
+            "kk": "мағынасы жағынан басқалардың әрекетімен байланысып, соған бағытталса"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "повторяется многими людьми в течение длительного времени",
+            "en": "is repeated by many people over a long period of time",
+            "kk": "көптеген адамдар ұзақ уақыт бойы қайталап отырса"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "По Веберу, действие социально, когда его субъективный смысл соотнесён с действиями других людей и на них ориентирован.",
+        "en": "According to Weber, an action is social when its subjective meaning is related to the actions of other people and oriented toward them.",
+        "kk": "Вебер бойынша әрекет оның субъективті мағынасы басқа адамдардың әрекетімен байланысты болып, соған бағытталғанда әлеуметтік болады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 87 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Центральная проблематика теорий социального конфликта связана с изучением...",
+        "en": "The central problem of social conflict theories concerns the study of...",
+        "kk": "Әлеуметтік қақтығыс теорияларының орталық проблематикасы мынаны зерттеумен байланысты..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "механизмов поддержания равновесия и интеграции",
+            "en": "the mechanisms of maintaining equilibrium and integration",
+            "kk": "тепе-теңдік пен интеграцияны қолдау тетіктерін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "конфликта интересов и борьбы социальных групп",
+            "en": "the conflict of interests and the struggle of social groups",
+            "kk": "мүдделер қақтығысы мен әлеуметтік топтардың күресін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "значений, возникающих в межличностном взаимодействии",
+            "en": "the meanings arising in interpersonal interaction",
+            "kk": "тұлғааралық өзара әрекетте туындайтын мағыналарды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "закона трёх стадий интеллектуальной эволюции",
+            "en": "the law of three stages of intellectual evolution",
+            "kk": "интеллектуалдық эволюцияның үш сатылық заңын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "латентных функций социальных институтов",
+            "en": "the latent functions of social institutions",
+            "kk": "әлеуметтік институттардың жасырын функцияларын"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Теории конфликта, опираясь на Маркса и Зиммеля, противопоставили функционализму изучение конфликта и борьбы групп как нормального элемента социальной жизни.",
+        "en": "Drawing on Marx and Simmel, conflict theories set against functionalism the study of conflict and group struggle as a normal element of social life.",
+        "kk": "Қақтығыс теориялары Маркс пен Зиммельге сүйене отырып, функционализмге топтар қақтығысы мен күресін әлеуметтік өмірдің қалыпты элементі ретінде зерттеуді қарсы қойды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 139 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Формирование и изменение значений в процессе взаимодействия людей составляют основной предмет анализа в рамках...",
+        "en": "The formation and change of meanings in the process of people's interaction is the main subject of analysis within...",
+        "kk": "Адамдардың өзара әрекеті процесінде мағыналардың қалыптасуы мен өзгеруі талдаудың негізгі пәнін құрайды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "структурного функционализма",
+            "en": "structural functionalism",
+            "kk": "құрылымдық функционализм шеңберінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "теории социального конфликта",
+            "en": "social conflict theory",
+            "kk": "әлеуметтік қақтығыс теориясы шеңберінде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "позитивизма Огюста Конта",
+            "en": "Auguste Comte's positivism",
+            "kk": "Огюст Конт позитивизмі шеңберінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "социологизма Эмиля Дюркгейма",
+            "en": "Émile Durkheim's sociologism",
+            "kk": "Эмиль Дюркгейм социологизмі шеңберінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "символического интеракционизма",
+            "en": "symbolic interactionism",
+            "kk": "символдық интеракционизм шеңберінде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Символический интеракционизм (Кули, Мид) сделал предметом исследования межличностное взаимодействие и значения, возникающие в нём.",
+        "en": "Symbolic interactionism (Cooley, Mead) made interpersonal interaction and the meanings arising in it the subject of study.",
+        "kk": "Символдық интеракционизм (Кули, Мид) тұлғааралық өзара әрекетті және онда туындайтын мағыналарды зерттеу пәні етті."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 140 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "В функциональном анализе Роберта Мертона латентной функцией называют...",
+        "en": "In Robert K. Merton's functional analysis, a latent function is...",
+        "kk": "Роберт Мертонның функционалдық талдауында жасырын функция деп мыналарды атайды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "явные цели, ради которых создан и поддерживается институт",
+            "en": "the explicit goals for which an institution is created and maintained",
+            "kk": "институт құрылған және қолдап отырған айқын мақсаттарды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "дисфункции, вызывающие напряжение и разлад в системе",
+            "en": "dysfunctions causing tension and discord in the system",
+            "kk": "жүйедегі шиеленіс пен бұзылуды тудыратын дисфункцияларды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "скрытые непреднамеренные последствия, не осознаваемые людьми",
+            "en": "hidden unintended consequences that people do not recognize",
+            "kk": "адамдар сезінбейтін, жасырын, әдейі емес салдарларды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "приспособление системы к внешней среде и её ресурсам",
+            "en": "the adaptation of the system to the external environment and its resources",
+            "kk": "жүйенің сыртқы ортаға және оның ресурстарына бейімделуін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "правила, закреплённые государственным законом и санкциями",
+            "en": "rules fixed by state law and sanctions",
+            "kk": "мемлекеттік заңмен және санкциялармен бекітілген ережелерді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Мертон различал явные и латентные функции и главной задачей социологии считал изучение скрытых, латентных функций.",
+        "en": "Merton distinguished manifest and latent functions and considered the study of hidden, latent functions the main task of sociology.",
+        "kk": "Мертон айқын және жасырын функцияларды ажыратты және әлеуметтанудың басты міндеті деп жасырын, латентті функцияларды зерттеуді санады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 134 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Социальная статика в системе Огюста Конта посвящена исследованию...",
+        "en": "Social statics in Auguste Comte's system is devoted to the study of...",
+        "kk": "Огюст Конттың жүйесіндегі әлеуметтік статика мыналарды зерттеуге арналған..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "социального порядка и законов стабильности общества",
+            "en": "social order and the laws of the stability of society",
+            "kk": "әлеуметтік тәртіпті және қоғам тұрақтылығының заңдарын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "прогресса и законов трансформации общества во времени",
+            "en": "progress and the laws of the transformation of society over time",
+            "kk": "прогрессті және қоғамның уақыт бойынша өзгеру заңдарын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "стадий интеллектуальной эволюции человечества и смены эпох",
+            "en": "the stages of humanity's intellectual evolution and the succession of epochs",
+            "kk": "адамзаттың интеллектуалдық эволюциясының сатыларын және дәуірлер ауысуын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "социальных фактов как внешних принудительных сил для индивида",
+            "en": "social facts as external coercive forces for the individual",
+            "kk": "жеке адамға сыртқы мәжбүрлеуші күш болатын әлеуметтік фактілерді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "смысла социального действия отдельных индивидов и их мотивов",
+            "en": "the meaning of individuals' social action and their motives",
+            "kk": "жеке адамдардың әлеуметтік әрекетінің мағынасы мен олардың уәждерін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "У Конта социальная статика — учение о социальном порядке, законах стабильности и равновесия; изменения изучает социальная динамика.",
+        "en": "For Comte, social statics is the doctrine of social order, the laws of stability and equilibrium; change is studied by social dynamics.",
+        "kk": "Контта әлеуметтік статика — әлеуметтік тәртіп, тұрақтылық пен тепе-теңдік заңдары туралы ілім; өзгерістерді әлеуметтік динамика зерттейді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 79 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Учёный, который впервые ввёл в науку термин «социология», — это...",
+        "en": "The scholar who first introduced the term “sociology” into science is...",
+        "kk": "«Әлеуметтану» терминін ғылымға алғаш енгізген ғалым — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Анри Сен-Симон",
+            "en": "Henri de Saint-Simon",
+            "kk": "Анри Сен-Симон"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Георг Зиммель",
+            "en": "Georg Simmel",
+            "kk": "Георг Зиммель"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Фердинанд Тённис",
+            "en": "Ferdinand Tönnies",
+            "kk": "Фердинанд Тённис"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Лестер Уорд",
+            "en": "Lester Ward",
+            "kk": "Лестер Уорд"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Огюст Конт",
+            "en": "Auguste Comte",
+            "kk": "Огюст Конт"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Термин «социология» ввёл в 1839 г. Огюст Конт вместо прежнего «социальная физика».",
+        "en": "The term “sociology” was introduced in 1839 by Auguste Comte in place of the earlier “social physics.”",
+        "kk": "«Әлеуметтану» терминін 1839 жылы Огюст Конт бұрынғы «әлеуметтік физика» терминінің орнына енгізді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 71 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие «аномия» в социологии Дюркгейма обозначает состояние, характеризующееся...",
+        "en": "The concept of “anomie” in Durkheim's sociology denotes a state characterized by...",
+        "kk": "Дюркгейм әлеуметтануындағы «аномия» ұғымы мынадай жағдайды білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "высокой степенью слияния индивида с группой и её нормами",
+            "en": "a high degree of fusion of the individual with the group and its norms",
+            "kk": "жеке адамның топпен және оның нормаларымен жоғары дәрежеде бірігуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "ослаблением или отсутствием общепринятых норм поведения",
+            "en": "the weakening or absence of generally accepted norms of behavior",
+            "kk": "жалпыға бірдей танылған мінез-құлық нормаларының әлсіреуі немесе болмауы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "строгим соблюдением традиций и ритуалов в повседневной жизни",
+            "en": "strict observance of traditions and rituals in everyday life",
+            "kk": "күнделікті өмірде дәстүрлер мен рәсімдерді қатаң сақтау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "сплочённостью людей на основе схожих занятий и общих интересов",
+            "en": "the solidarity of people based on similar occupations and common interests",
+            "kk": "ұқсас істер мен ортақ мүдделер негізінде адамдардың топтасуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "добровольным разрывом связей ради личной свободы и независимости",
+            "en": "a voluntary break of ties for the sake of personal freedom and independence",
+            "kk": "жеке бостандық пен тәуелсіздік үшін байланыстарды ерікті түрде үзу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Аномия у Дюркгейма — состояние общества, в котором нормы, регулирующие поведение, ослаблены или отсутствуют; она лежит в основе аномического самоубийства.",
+        "en": "For Durkheim, anomie is a state of society in which the norms regulating behavior are weakened or absent; it underlies anomic suicide.",
+        "kk": "Дюркгеймде аномия — мінез-құлықты реттейтін нормалар әлсіреген немесе жоқ қоғам жағдайы; ол аномиялық өзін-өзі өлтірудің негізінде жатыр."
+      }
+    },
+    {
+      "id": 81,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Идеальный тип в методологии Макса Вебера представляет собой...",
+        "en": "The ideal type in Max Weber's methodology is...",
+        "kk": "Макс Вебер әдіснамасындағы идеалды тип мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "образец морального совершенства, к которому следует стремиться",
+            "en": "a model of moral perfection to be striven for",
+            "kk": "ұмтылу керек адамгершілік кемелдіктің үлгісін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "усреднённое описание всех наблюдаемых эмпирических случаев явления",
+            "en": "an averaged description of all observed empirical cases of a phenomenon",
+            "kk": "құбылыстың барлық бақыланған эмпирикалық жағдайларының орташаланған сипаттамасын"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "реальную группу или организацию, лучше всего воплощающую признаки явления",
+            "en": "a real group or organization that best embodies the features of the phenomenon",
+            "kk": "құбылыстың белгілерін ең жақсы бейнелейтін нақты топ немесе ұйымды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "мысленную конструкцию с логически заострёнными чертами явления",
+            "en": "a mental construct with logically accentuated features of the phenomenon",
+            "kk": "құбылыс белгілері логикалық тұрғыдан өткірленген ойша құрылымды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "закон, действующий в любом обществе и в любую эпоху без исключения",
+            "en": "a law that operates in any society and in any epoch without exception",
+            "kk": "кез келген қоғамда және кез келген дәуірде ерекшеліксіз әрекет ететін заңды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Идеальный тип — аналитическая конструкция с логически заострёнными чертами явления; это не норма и не среднее, а инструмент сравнения с реальностью.",
+        "en": "The ideal type is an analytical construct with logically accentuated features of a phenomenon; it is neither a norm nor an average, but a tool for comparison with reality.",
+        "kk": "Идеалды тип — құбылыс белгілері логикалық тұрғыдан өткірленген аналитикалық құрылым; бұл норма да, орташа да емес, шындықпен салыстыру құралы."
+      }
+    },
+    {
+      "id": 164,
+      "topic_id": 2,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какие различия между социологическими подходами Э. Дюркгейма и М. Вебера наиболее точно отражают их методологические основания?",
+        "en": "Which differences between the sociological approaches of É. Durkheim and M. Weber most accurately reflect their methodological foundations?",
+        "kk": "Э. Дюркгейм мен М. Вебердің әлеуметтанулық тәсілдерінің әдіснамалық негіздерін қай айырмашылықтар неғұрлым дәл бейнелейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Дюркгейм объясняет общество через смысл действий индивидов, Вебер — через внешние принудительные социальные факты",
+            "en": "Durkheim explains society through the meaning of individuals' actions, Weber through external coercive social facts",
+            "kk": "Дюркгейм қоғамды жеке адамдар әрекетінің мағынасы арқылы, Вебер — сыртқы мәжбүрлеуші әлеуметтік фактілер арқылы түсіндіреді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Дюркгейм строит теорию на идеальных типах, а Вебер — на законе трёх стадий и социальной статике",
+            "en": "Durkheim builds his theory on ideal types, and Weber on the law of three stages and social statics",
+            "kk": "Дюркгейм теорияны идеалды типтерге, ал Вебер — үш сатылық заң мен әлеуметтік статикаға негіздейді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Дюркгейм исходит из приоритета общества и изучает социальные факты, Вебер — из приоритета действия индивида и его смысла",
+            "en": "Durkheim proceeds from the primacy of society and studies social facts, Weber from the primacy of individual action and its meaning",
+            "kk": "Дюркгейм қоғамның басымдығынан шығып, әлеуметтік фактілерді зерттейді, Вебер — жеке адам әрекетінің және оның мағынасының басымдығынан шығады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Оба исходят из приоритета индивида и отвергают объяснение причин, различаясь только предметом",
+            "en": "Both proceed from the primacy of the individual and reject causal explanation, differing only in subject matter",
+            "kk": "Екеуі де жеке адамның басымдығынан шығады және себептерді түсіндіруді жоққа шығарады, тек пәнімен ерекшеленеді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Дюркгейм разработал теорию среднего уровня, а Вебер — функциональный анализ латентных функций",
+            "en": "Durkheim developed a middle-range theory, and Weber a functional analysis of latent functions",
+            "kk": "Дюркгейм орта деңгейдегі теорияны әзірледі, ал Вебер — жасырын функцияларды функционалдық талдауды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Дюркгейм начинает с целого и социальных фактов, Вебер — с индивидуального действия и его субъективного смысла, который нужно истолковать и каузально объяснить.",
+        "en": "Durkheim starts from the whole and social facts, Weber from individual action and its subjective meaning, which must be interpreted and causally explained.",
+        "kk": "Дюркгейм тұтастықтан және әлеуметтік фактілерден бастайды, Вебер — жеке әрекеттен және оның түсіндірілуі мен себеп-салдарлық тұрғыдан түсіндірілуі қажет субъективті мағынасынан бастайды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 19 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 93 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "topic_id": 2,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какой теоретический подход отличается от остальных по основному уровню и способу объяснения социального порядка?",
+        "en": "Which theoretical approach differs from the others in its main level and way of explaining social order?",
+        "kk": "Қай теориялық тәсіл әлеуметтік тәртіпті түсіндірудің негізгі деңгейі мен тәсілі жағынан қалғандарынан ерекшеленеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Структурный функционализм Т. Парсонса",
+            "en": "T. Parsons's structural functionalism",
+            "kk": "Т. Парсонстың құрылымдық функционализмі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социологизм Э. Дюркгейма (социальные факты)",
+            "en": "É. Durkheim's sociologism (social facts)",
+            "kk": "Э. Дюркгеймнің социологизмі (әлеуметтік фактілер)"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Органическая и эволюционная теория Г. Спенсера",
+            "en": "H. Spencer's organic and evolutionary theory",
+            "kk": "Г. Спенсердің органикалық және эволюциялық теориясы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Символический интеракционизм Ч. Кули и Дж. Мида",
+            "en": "C. Cooley's and G. Mead's symbolic interactionism",
+            "kk": "Ч. Кули мен Дж. Мидтің символдық интеракционизмі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Теория социального конфликта и классовой борьбы К. Маркса",
+            "en": "K. Marx's theory of social conflict and class struggle",
+            "kk": "К. Марксның әлеуметтік қақтығыс және тап күресі теориясы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Четыре подхода объясняют порядок исходя из целого и структуры, а символический интеракционизм — на микроуровне, через взаимодействие и значения.",
+        "en": "Four approaches explain order starting from the whole and the structure, while symbolic interactionism works at the micro level, through interaction and meanings.",
+        "kk": "Төрт тәсіл тәртіпті тұтастық пен құрылымнан шығып түсіндіреді, ал символдық интеракционизм — микродеңгейде, өзара әрекет пен мағыналар арқылы."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 19 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 140 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "topic_id": 2,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое изменение исходных допущений наиболее существенно противоречило бы теории социального действия М. Вебера?",
+        "en": "Which change in the initial assumptions would most substantially contradict M. Weber's theory of social action?",
+        "kk": "Бастапқы жорамалдардағы қандай өзгеріс М. Вебердің әлеуметтік әрекет теориясына неғұрлым елеулі қайшы келер еді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Признание, что в реальности встречаются смешанные типы действия, а не только чистые",
+            "en": "Recognition that mixed types of action occur in reality, not only pure ones",
+            "kk": "Шындықта тек таза емес, аралас әрекет типтері кездесетінін мойындау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Допущение, что рационализация действия растёт, но не охватывает все сферы жизни",
+            "en": "The assumption that rationalization of action grows but does not cover all spheres of life",
+            "kk": "Әрекеттің рационалдануы өсетінін, бірақ өмірдің барлық салаларын қамтымайтынын жорамалдау"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Уточнение, что действие может ориентироваться на ожидаемое поведение группы людей",
+            "en": "The clarification that action may be oriented toward the expected behavior of a group of people",
+            "kk": "Әрекет адамдар тобының күтілетін мінез-құлқына бағытталуы мүмкін екенін нақтылау"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Допущение, что традиционное действие тоже социально, если оно ориентировано на других",
+            "en": "The assumption that traditional action is also social if it is oriented toward others",
+            "kk": "Дәстүрлі әрекет те басқаларға бағытталса, әлеуметтік болады деп жорамалдау"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Признание, что поведение полностью задано внешними структурами и не зависит от смысла",
+            "en": "Recognition that behavior is entirely determined by external structures and does not depend on meaning",
+            "kk": "Мінез-құлық толығымен сыртқы құрылымдармен айқындалады және мағынаға тәуелді емес екенін мойындау"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Для Вебера исходный пункт — осмысленное действие индивидов, соотнесённое с другими; отрицание роли смысла подорвало бы всю теорию.",
+        "en": "For Weber the starting point is the meaningful action of individuals oriented toward others; denying the role of meaning would undermine the whole theory.",
+        "kk": "Вебер үшін бастапқы нүкте — адамдардың басқаларымен байланысты саналы әрекеті; мағынаның рөлін жоққа шығару бүкіл теорияны әлсіретер еді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строка 87 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 2 История социологии (2).docx",
+          "location": "строки 88–89 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое положение наиболее полно обозначает принцип дуальности структуры в теории Энтони Гидденса?",
+        "en": "Which statement most fully expresses the principle of the duality of structure in Anthony Giddens's theory?",
+        "kk": "Қай тұжырым Энтони Гидденс теориясындағы құрылымның дуалдығы қағидасын неғұрлым толық білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Структура и ограничивает действия людей, и воспроизводится ими в практиках",
+            "en": "Structure both constrains people's actions and is reproduced by them in practices",
+            "kk": "Құрылым адамдардың әрекеттерін шектейді де, олардан тәжірибелерде қайта өндіріледі де"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Структура и действие — два независимых друг от друга уровня, один из которых вторичен",
+            "en": "Structure and action are two mutually independent levels, one of which is secondary",
+            "kk": "Құрылым мен әрекет бір-біріне тәуелсіз екі деңгей, олардың бірі екінші дәрежелі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Структура определяется функциональными требованиями системы, а не практиками людей",
+            "en": "Structure is determined by the functional requirements of the system, not by people's practices",
+            "kk": "Құрылым жүйенің функционалдық талаптарымен айқындалады, адамдардың тәжірибелерімен емес"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Структура — совокупность внешних и принудительных для индивида социальных фактов",
+            "en": "Structure is a set of social facts external and coercive to the individual",
+            "kk": "Құрылым — жеке адамға сыртқы және мәжбүрлеуші әлеуметтік фактілердің жиынтығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Структура — идеальный тип, который строит исследователь для объяснения смысла",
+            "en": "Structure is an ideal type that the researcher constructs to explain meaning",
+            "kk": "Құрылым — зерттеуші мағынаны түсіндіру үшін құрастыратын идеалды тип"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "По Гидденсу, структура одновременно средство и результат социальных практик: она ограничивает и делает возможными действия, а действия её воспроизводят.",
+        "en": "According to Giddens, structure is both the medium and the outcome of social practices: it constrains and enables action, and action reproduces it.",
+        "kk": "Гидденс бойынша құрылым бір мезгілде әлеуметтік тәжірибелердің құралы да, нәтижесі де: ол әрекеттерді шектейді және мүмкін етеді, ал әрекеттер оны қайта өндіреді."
+      }
+    }
+  ]
+}

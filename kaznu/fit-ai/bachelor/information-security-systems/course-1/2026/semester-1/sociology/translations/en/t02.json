@@ -1,0 +1,358 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 2,
+  "topic_name": "Introduction to Sociological Theory",
+  "questions": {
+    "4": {
+      "question": "The scholar who first introduced the term “sociology” into science.",
+      "options": {
+        "A": "Herbert Spencer",
+        "B": "Émile Durkheim",
+        "C": "Auguste Comte",
+        "D": "Karl Marx",
+        "E": "Max Weber"
+      }
+    },
+    "7": {
+      "question": "What does macrosociology study?",
+      "options": {
+        "A": "Large structures, institutions and society as a whole",
+        "B": "Interaction between people in pairs and small groups, for example in a family or a work team",
+        "C": "Everyday face-to-face communication among acquaintances",
+        "D": "The meaning of symbols in communication between two people in a particular situation",
+        "E": "The motives and experiences of an individual in his or her life circumstances"
+      }
+    },
+    "9": {
+      "question": "The subject of sociological research according to Herbert Spencer:",
+      "options": {
+        "A": "The progress of ideas, concepts and knowledge about society",
+        "B": "Social facts as an external force acting on individuals",
+        "C": "The concrete objective reality of society itself",
+        "D": "Social behavior oriented toward meaning",
+        "E": "Base and superstructure as parts of the social system"
+      }
+    },
+    "10": {
+      "question": "The author of the work “Course of Positive Philosophy”:",
+      "options": {
+        "A": "Herbert Spencer",
+        "B": "Max Weber",
+        "C": "Georg Simmel",
+        "D": "Auguste Comte",
+        "E": "Charles H. Cooley"
+      }
+    },
+    "11": {
+      "question": "Representatives of classical sociology:",
+      "options": {
+        "A": "Pierre Bourdieu",
+        "B": "Auguste Comte",
+        "C": "Anthony Giddens",
+        "D": "Émile Durkheim",
+        "E": "Max Weber"
+      }
+    },
+    "13": {
+      "question": "Sociological concepts of Auguste Comte:",
+      "options": {
+        "A": "The theory of anomie",
+        "B": "The law of three stages",
+        "C": "The ideal type",
+        "D": "The division into social statics and dynamics",
+        "E": "The theory of the social fact"
+      }
+    },
+    "16": {
+      "question": "The ideal types of social action in Max Weber's theory include the following...",
+      "options": {
+        "A": "charismatic action",
+        "B": "instrumentally rational action",
+        "C": "conflict action",
+        "D": "traditional action",
+        "E": "value-rational action"
+      }
+    },
+    "18": {
+      "question": "Representatives of the structural-functional approach in sociology:",
+      "options": {
+        "A": "George Herbert Mead",
+        "B": "Talcott Parsons",
+        "C": "Charles H. Cooley",
+        "D": "Robert K. Merton",
+        "E": "Herbert Blumer"
+      }
+    },
+    "19": {
+      "question": "Types of suicide according to Émile Durkheim:",
+      "options": {
+        "A": "Altruistic",
+        "B": "Demonstrative",
+        "C": "Egoistic",
+        "D": "Affective",
+        "E": "Anomic"
+      }
+    },
+    "21": {
+      "question": "Indicate the works of Émile Durkheim.",
+      "options": {
+        "A": "The Protestant Ethic and the Spirit of Capitalism",
+        "B": "The Division of Labour in Society",
+        "C": "Social Statics",
+        "D": "The Rules of Sociological Method",
+        "E": "Suicide"
+      }
+    },
+    "22": {
+      "question": "Show the works of Max Weber.",
+      "options": {
+        "A": "The Principles of Sociology",
+        "B": "Economy and Society",
+        "C": "The Elementary Forms of Religious Life",
+        "D": "The Protestant Ethic and the Spirit of Capitalism",
+        "E": "Science as a Vocation"
+      }
+    },
+    "23": {
+      "question": "Sociologists who developed the conflict theory:",
+      "options": {
+        "A": "Talcott Parsons",
+        "B": "Karl Marx",
+        "C": "Auguste Comte",
+        "D": "Georg Simmel",
+        "E": "Lewis Coser"
+      }
+    },
+    "24": {
+      "question": "Indicate the main ideas of Max Weber's concept.",
+      "options": {
+        "A": "The law of three stages in the development of society",
+        "B": "Sociology as a science of understanding social action",
+        "C": "Social facts as things external to the individual",
+        "D": "Four types of social action",
+        "E": "Rationalization as a tendency of the historical process"
+      }
+    },
+    "25": {
+      "question": "Types of authority according to Max Weber:",
+      "options": {
+        "A": "Totalitarian",
+        "B": "Charismatic",
+        "C": "Oligarchic",
+        "D": "Traditional",
+        "E": "Legal-rational"
+      }
+    },
+    "26": {
+      "question": "The three stages in the development of science in human history according to Auguste Comte:",
+      "options": {
+        "A": "Empirical",
+        "B": "Theological",
+        "C": "Romantic",
+        "D": "Metaphysical",
+        "E": "Positive"
+      }
+    },
+    "31": {
+      "question": "Authors of the theory of social exchange:",
+      "options": {
+        "A": "Émile Durkheim",
+        "B": "George Homans",
+        "C": "Auguste Comte",
+        "D": "Peter Blau",
+        "E": "Herbert Spencer"
+      }
+    },
+    "53": {
+      "question": "The first specialized work on sociology was...",
+      "options": {
+        "A": "“The System of Sociology” by P. Sorokin",
+        "B": "“Economy and Society” by M. Weber",
+        "C": "“Human Nature and the Social Order” by C. Cooley",
+        "D": "“The Principles of Sociology” by H. Spencer",
+        "E": "“The Structure of Social Action” by T. Parsons"
+      }
+    },
+    "54": {
+      "question": "The first sociology department in history, at which a famous sociological school took shape, was founded at...",
+      "options": {
+        "A": "Harvard University",
+        "B": "the University of Leipzig",
+        "C": "the University of Berlin",
+        "D": "the University of Chicago",
+        "E": "the University of Oxford"
+      }
+    },
+    "55": {
+      "question": "According to Émile Durkheim, the subject of sociology is...",
+      "options": {
+        "A": "social facts",
+        "B": "social action",
+        "C": "ideal types",
+        "D": "the law of three stages",
+        "E": "individual consciousness"
+      }
+    },
+    "59": {
+      "question": "The concept of “social action” was introduced by...",
+      "options": {
+        "A": "Émile Durkheim",
+        "B": "Max Weber",
+        "C": "Herbert Spencer",
+        "D": "Auguste Comte",
+        "E": "Charles H. Cooley"
+      }
+    },
+    "61": {
+      "question": "Which type of social action is NOT part of Max Weber's classification?",
+      "options": {
+        "A": "Instrumentally rational",
+        "B": "Value-rational",
+        "C": "Innovative",
+        "D": "Affective",
+        "E": "Traditional"
+      }
+    },
+    "62": {
+      "question": "Spencer distinguished two kinds of society: military and...",
+      "options": {
+        "A": "agrarian",
+        "B": "theological",
+        "C": "patriarchal",
+        "D": "industrial",
+        "E": "post-industrial"
+      }
+    },
+    "70": {
+      "question": "The main content of structural functionalism was developed in the works of...",
+      "options": {
+        "A": "Max Weber",
+        "B": "Talcott Parsons",
+        "C": "Charles H. Cooley",
+        "D": "Robert K. Merton",
+        "E": "Georg Simmel"
+      }
+    },
+    "72": {
+      "question": "In Max Weber's interpretive sociology, an action is regarded as social if it...",
+      "options": {
+        "A": "is performed in the presence of other people regardless of meaning",
+        "B": "is a reflex reaction to an external stimulus",
+        "C": "is determined by external coercion from social facts",
+        "D": "is related in meaning to the actions of others and oriented toward them",
+        "E": "is repeated by many people over a long period of time"
+      }
+    },
+    "74": {
+      "question": "The central problem of social conflict theories concerns the study of...",
+      "options": {
+        "A": "the mechanisms of maintaining equilibrium and integration",
+        "B": "the conflict of interests and the struggle of social groups",
+        "C": "the meanings arising in interpersonal interaction",
+        "D": "the law of three stages of intellectual evolution",
+        "E": "the latent functions of social institutions"
+      }
+    },
+    "75": {
+      "question": "The formation and change of meanings in the process of people's interaction is the main subject of analysis within...",
+      "options": {
+        "A": "structural functionalism",
+        "B": "social conflict theory",
+        "C": "Auguste Comte's positivism",
+        "D": "Émile Durkheim's sociologism",
+        "E": "symbolic interactionism"
+      }
+    },
+    "76": {
+      "question": "In Robert K. Merton's functional analysis, a latent function is...",
+      "options": {
+        "A": "the explicit goals for which an institution is created and maintained",
+        "B": "dysfunctions causing tension and discord in the system",
+        "C": "hidden unintended consequences that people do not recognize",
+        "D": "the adaptation of the system to the external environment and its resources",
+        "E": "rules fixed by state law and sanctions"
+      }
+    },
+    "77": {
+      "question": "Social statics in Auguste Comte's system is devoted to the study of...",
+      "options": {
+        "A": "social order and the laws of the stability of society",
+        "B": "progress and the laws of the transformation of society over time",
+        "C": "the stages of humanity's intellectual evolution and the succession of epochs",
+        "D": "social facts as external coercive forces for the individual",
+        "E": "the meaning of individuals' social action and their motives"
+      }
+    },
+    "79": {
+      "question": "The scholar who first introduced the term “sociology” into science is...",
+      "options": {
+        "A": "Henri de Saint-Simon",
+        "B": "Georg Simmel",
+        "C": "Ferdinand Tönnies",
+        "D": "Lester Ward",
+        "E": "Auguste Comte"
+      }
+    },
+    "80": {
+      "question": "The concept of “anomie” in Durkheim's sociology denotes a state characterized by...",
+      "options": {
+        "A": "a high degree of fusion of the individual with the group and its norms",
+        "B": "the weakening or absence of generally accepted norms of behavior",
+        "C": "strict observance of traditions and rituals in everyday life",
+        "D": "the solidarity of people based on similar occupations and common interests",
+        "E": "a voluntary break of ties for the sake of personal freedom and independence"
+      }
+    },
+    "81": {
+      "question": "The ideal type in Max Weber's methodology is...",
+      "options": {
+        "A": "a model of moral perfection to be striven for",
+        "B": "an averaged description of all observed empirical cases of a phenomenon",
+        "C": "a real group or organization that best embodies the features of the phenomenon",
+        "D": "a mental construct with logically accentuated features of the phenomenon",
+        "E": "a law that operates in any society and in any epoch without exception"
+      }
+    },
+    "164": {
+      "question": "Which differences between the sociological approaches of É. Durkheim and M. Weber most accurately reflect their methodological foundations?",
+      "options": {
+        "A": "Durkheim explains society through the meaning of individuals' actions, Weber through external coercive social facts",
+        "B": "Durkheim builds his theory on ideal types, and Weber on the law of three stages and social statics",
+        "C": "Durkheim proceeds from the primacy of society and studies social facts, Weber from the primacy of individual action and its meaning",
+        "D": "Both proceed from the primacy of the individual and reject causal explanation, differing only in subject matter",
+        "E": "Durkheim developed a middle-range theory, and Weber a functional analysis of latent functions"
+      }
+    },
+    "165": {
+      "question": "Which theoretical approach differs from the others in its main level and way of explaining social order?",
+      "options": {
+        "A": "T. Parsons's structural functionalism",
+        "B": "É. Durkheim's sociologism (social facts)",
+        "C": "H. Spencer's organic and evolutionary theory",
+        "D": "C. Cooley's and G. Mead's symbolic interactionism",
+        "E": "K. Marx's theory of social conflict and class struggle"
+      }
+    },
+    "167": {
+      "question": "Which change in the initial assumptions would most substantially contradict M. Weber's theory of social action?",
+      "options": {
+        "A": "Recognition that mixed types of action occur in reality, not only pure ones",
+        "B": "The assumption that rationalization of action grows but does not cover all spheres of life",
+        "C": "The clarification that action may be oriented toward the expected behavior of a group of people",
+        "D": "The assumption that traditional action is also social if it is oriented toward others",
+        "E": "Recognition that behavior is entirely determined by external structures and does not depend on meaning"
+      }
+    },
+    "168": {
+      "question": "Which statement most fully expresses the principle of the duality of structure in Anthony Giddens's theory?",
+      "options": {
+        "A": "Structure both constrains people's actions and is reproduced by them in practices",
+        "B": "Structure and action are two mutually independent levels, one of which is secondary",
+        "C": "Structure is determined by the functional requirements of the system, not by people's practices",
+        "D": "Structure is a set of social facts external and coercive to the individual",
+        "E": "Structure is an ideal type that the researcher constructs to explain meaning"
+      }
+    }
+  }
+}

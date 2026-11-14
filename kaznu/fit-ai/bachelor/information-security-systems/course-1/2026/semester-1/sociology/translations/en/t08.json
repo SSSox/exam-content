@@ -1,0 +1,228 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 8,
+  "topic_name": "Religion, Culture and Society",
+  "questions": {
+    "1": {
+      "question": "A form of socially sanctioned, ordered, symbolic behavior, a set of regularly performed actions and their established order, is a...",
+      "options": {
+        "A": "myth",
+        "B": "taboo",
+        "C": "ritual",
+        "D": "sanction",
+        "E": "value"
+      }
+    },
+    "2": {
+      "question": "The process by which various spheres and levels of social and personal life are released from the influence of religion is called...",
+      "options": {
+        "A": "secularization",
+        "B": "sacralization",
+        "C": "desecularization",
+        "D": "confessionalization",
+        "E": "resocialization"
+      }
+    },
+    "37": {
+      "question": "A body of myths, legends, tales and epics created by authors with no professional training is ... culture.",
+      "options": {
+        "A": "elite",
+        "B": "mass",
+        "C": "virtual",
+        "D": "folk",
+        "E": "dominant"
+      }
+    },
+    "38": {
+      "question": "Which types of culture are distinguished in sociology?",
+      "options": {
+        "A": "Biological",
+        "B": "Material",
+        "C": "Climatic",
+        "D": "Spontaneous",
+        "E": "Spiritual"
+      }
+    },
+    "39": {
+      "question": "The following does not belong to the elements of culture:",
+      "options": {
+        "A": "The language people use",
+        "B": "Norms of behavior",
+        "C": "The terrain of an area",
+        "D": "Scientific knowledge",
+        "E": "Symbols and signs"
+      }
+    },
+    "40": {
+      "question": "Elements of social and cultural heritage that are passed from generation to generation and preserved in a community or social group for a long time are...",
+      "options": {
+        "A": "fashion",
+        "B": "innovations",
+        "C": "stereotypes",
+        "D": "sanctions",
+        "E": "traditions"
+      }
+    },
+    "41": {
+      "question": "What is a symbol in the sociology of religion?",
+      "options": {
+        "A": "A rite performed strictly in a prescribed order and place",
+        "B": "A sign with sacred meaning that expresses the beliefs of a community",
+        "C": "A set of rules for believers' conduct in the everyday life of the community",
+        "D": "The organizational structure and hierarchy of a religious association",
+        "E": "Scientific proof of the existence of supernatural forces"
+      }
+    },
+    "42": {
+      "question": "Any symbolic action that has no purpose or rational explanation but is performed regularly is called...",
+      "options": {
+        "A": "a fashion",
+        "B": "a ritual",
+        "C": "a stereotype",
+        "D": "an innovation",
+        "E": "a dogma"
+      }
+    },
+    "48": {
+      "question": "Name the components of culture identified by the anthropologist Ward Goodenough.",
+      "options": {
+        "A": "Values",
+        "B": "Instincts",
+        "C": "Rules",
+        "D": "Concepts",
+        "E": "Climate"
+      }
+    },
+    "49": {
+      "question": "The following is not an element of culture:",
+      "options": {
+        "A": "Inherited biological traits",
+        "B": "The customs and traditions of one's people",
+        "C": "The rituals and rites of a religious community",
+        "D": "The beliefs and ideas of one's people",
+        "E": "The values and life ideals of one's society"
+      }
+    },
+    "50": {
+      "question": "Negative consequences of globalization in the sphere of culture include the emergence of...",
+      "options": {
+        "A": "intercultural exchange of scientific achievements",
+        "B": "dialogue between different cultures",
+        "C": "cultural unification and loss of identity",
+        "D": "interest in the world heritage",
+        "E": "tolerance of other traditions"
+      }
+    },
+    "78": {
+      "question": "The process by which various spheres and levels of social and personal life are released from the influence of religion is called...",
+      "options": {
+        "A": "modernization",
+        "B": "industrialization",
+        "C": "urbanization",
+        "D": "secularization",
+        "E": "liberalization"
+      }
+    },
+    "102": {
+      "question": "Which research question corresponds most directly to the subject matter of the sociology of religion?",
+      "options": {
+        "A": "Does God exist, and what are his nature and properties?",
+        "B": "Which of the world religions is the only true one?",
+        "C": "How has the share of believers changed across age groups?",
+        "D": "How should the dogma of the Trinity and the incarnation be correctly interpreted?",
+        "E": "Which prayers and fasts are prescribed by sacred texts?"
+      }
+    },
+    "119": {
+      "question": "The subject matter of the sociology of religion consists of...",
+      "options": {
+        "A": "the beliefs, practices and organizational forms of religion",
+        "B": "the theological justification of dogma and of the church's creed",
+        "C": "the comparative study of the sacred texts of different religions",
+        "D": "the history of church architecture and temple building",
+        "E": "the origin of religious symbols and cult objects"
+      }
+    },
+    "120": {
+      "question": "Secularization at the institutional level means...",
+      "options": {
+        "A": "a growing number of places of worship in cities and villages",
+        "B": "the separation of social institutions from religious values",
+        "C": "a stronger role of religion in the public sphere and in politics",
+        "D": "a return to the original dogmas and customs of one's confession",
+        "E": "the emergence of new religious movements and sects in society"
+      }
+    },
+    "121": {
+      "question": "Religious modernism is characterized by an orientation toward...",
+      "options": {
+        "A": "a return to the original way of life of one's ancestors",
+        "B": "the immutability of doctrine and church tradition",
+        "C": "a literal reading of sacred texts and traditions",
+        "D": "a conservative political order in the state",
+        "E": "renewal of church practices in light of science"
+      }
+    },
+    "122": {
+      "question": "In The Protestant Ethic and the Spirit of Capitalism, Max Weber examines...",
+      "options": {
+        "A": "the role of totems in expressing the collective consciousness of a tribe",
+        "B": "religion as a form of human alienation and the opium of the people",
+        "C": "the influence of the Puritan ethic on the formation of the spirit of capitalism",
+        "D": "the transition from the theological to the positive stage of thought",
+        "E": "the growing public role of religion in modern societies"
+      }
+    },
+    "123": {
+      "question": "In sociology, culture is understood as...",
+      "options": {
+        "A": "the totality of natural living conditions and resources",
+        "B": "only works of high art and literature",
+        "C": "behavioral instincts transmitted biologically by heredity",
+        "D": "a system of values, norms and symbols shared by a society",
+        "E": "the level of education and literacy of a country's population"
+      }
+    },
+    "124": {
+      "question": "A symbol in culture is...",
+      "options": {
+        "A": "a conventional sign to which a group assigns meaning beyond its properties",
+        "B": "a rule that fixes punishment for violating a norm of behavior",
+        "C": "an innate reaction of the organism to an external stimulus",
+        "D": "an object whose value is entirely equal to its market price",
+        "E": "a statistical indicator of the state of society and of the economy"
+      }
+    },
+    "125": {
+      "question": "Material culture includes...",
+      "options": {
+        "A": "a system of moral norms and prohibitions",
+        "B": "dwellings and tools of labor",
+        "C": "one's native language and speech customs",
+        "D": "religious beliefs and ideas",
+        "E": "the value orientations of people in society"
+      }
+    },
+    "126": {
+      "question": "Cultural relativism as a research stance implies...",
+      "options": {
+        "A": "ranking cultures by their level of development and progress",
+        "B": "recognizing one's own culture as the standard for other cultures",
+        "C": "refusing to study other cultures as less significant",
+        "D": "imposing uniform values on all societies of the world",
+        "E": "evaluating each culture by its own norms"
+      }
+    },
+    "127": {
+      "question": "Religious socialization is...",
+      "options": {
+        "A": "the process of separating social institutions from religion and the church",
+        "B": "a return to the original dogmas and traditions of one's confession",
+        "C": "the process of acquiring the beliefs, norms and practices of one's community",
+        "D": "the scientific study of religion by the methods of sociology and statistics",
+        "E": "the merging of different confessions into a single church under common leadership"
+      }
+    }
+  }
+}

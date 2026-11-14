@@ -1,0 +1,841 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 43,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Люди, длительное время проживающие на одной и той же территории, образуют...",
+        "en": "People who live in the same territory for a long time form...",
+        "kk": "Бір аумақта ұзақ уақыт тұратын адамдар мынаны құрайды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "политическую партию",
+            "en": "a political party",
+            "kk": "саяси партия"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "референтную группу",
+            "en": "a reference group",
+            "kk": "референттік топ"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "административно-территориальную единицу",
+            "en": "an administrative-territorial unit",
+            "kk": "әкімшілік-аумақтық бірлік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "территориальную общность",
+            "en": "a territorial community",
+            "kk": "аумақтық қауымдастық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "профессиональную корпорацию",
+            "en": "a professional corporation",
+            "kk": "кәсіби корпорация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Территориальная общность — люди, длительное время проживающие на одной территории; на её основе могут складываться и этнические общности.",
+        "en": "A territorial community is made up of people who have lived in one territory for a long time; ethnic communities may also take shape on this basis.",
+        "kk": "Аумақтық қауымдастық — бір аумақта ұзақ уақыт тұратын адамдар; оның негізінде этникалық қауымдастықтар да қалыптасуы мүмкін."
+      }
+    },
+    {
+      "id": 44,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Исторически сложившаяся на определённой территории устойчивая общность людей со сходными особенностями культуры, психики и самосознания — это...",
+        "en": "A stable community of people, historically formed in a particular territory, with similar features of culture, psychology and self-awareness, is...",
+        "kk": "Белгілі бір аумақта тарихи қалыптасқан, мәдениеті, психикасы және өзін-өзі тануы ұқсас адамдардың тұрақты қауымдастығы — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "этнос",
+            "en": "an ethnos",
+            "kk": "этнос"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "социальный класс",
+            "en": "a social class",
+            "kk": "әлеуметтік тап"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "социальная страта",
+            "en": "a social stratum",
+            "kk": "әлеуметтік страта"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "социальный институт",
+            "en": "a social institution",
+            "kk": "әлеуметтік институт"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "социальная организация",
+            "en": "a social organization",
+            "kk": "әлеуметтік ұйым"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Этнос — историческая общность людей с общей территорией, культурой, психикой и самосознанием.",
+        "en": "An ethnos is a historical community of people with a common territory, culture, psychology and self-awareness.",
+        "kk": "Этнос — ортақ аумағы, мәдениеті, психикасы және өзін-өзі тануы бар адамдардың тарихи қауымдастығы."
+      }
+    },
+    {
+      "id": 45,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "К этническим группам относятся:",
+        "en": "Ethnic groups include:",
+        "kk": "Этникалық топтарға жатады:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Племя",
+            "en": "Tribe",
+            "kk": "Тайпа"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Класс",
+            "en": "Class",
+            "kk": "Тап"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Народность",
+            "en": "Nationality",
+            "kk": "Халық"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Партия",
+            "en": "Party",
+            "kk": "Партия"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Нация",
+            "en": "Nation",
+            "kk": "Ұлт"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Основные формы этнических общностей — род, племя, народность, нация; класс и партия строятся на иных основаниях.",
+        "en": "The main forms of ethnic communities are the clan, tribe, nationality (narodnost) and nation; class and party are built on other foundations.",
+        "kk": "Этникалық қауымдастықтың негізгі нысандары — ру, тайпа, халық, ұлт; тап пен партия басқа негіздерде құрылады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9 Этничность.pdf",
+          "location": "строки 92–93 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Формы притеснения людей в их правах в зависимости от расы, нации, этноса и...",
+        "en": "Forms of oppression of people's rights on the basis of race, nation, ethnicity and...",
+        "kk": "Адамдардың құқықтарын шектеу нысандары — олардың нәсіліне, ұлтына, этносына және..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "вероисповедания",
+            "en": "religious belief",
+            "kk": "діни сеніміне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "группы крови",
+            "en": "blood type",
+            "kk": "қан тобына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "роста",
+            "en": "height",
+            "kk": "бойына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "типа темперамента",
+            "en": "temperament type",
+            "kk": "темперамент түріне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "размера обуви",
+            "en": "shoe size",
+            "kk": "аяқ киім өлшеміне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Дискриминация строится на таких признаках, как раса, национальность, этническая принадлежность и вероисповедание.",
+        "en": "Discrimination is based on such characteristics as race, nationality, ethnic origin and religious belief.",
+        "kk": "Кемсіту нәсіл, ұлт, этностық тиесілік және діни сенім сияқты белгілерге негізделеді."
+      }
+    },
+    {
+      "id": 67,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Что обозначает этническая самоидентификация?",
+        "en": "What does ethnic self-identification mean?",
+        "kk": "Этникалық өзін-өзі сәйкестендіру нені білдіреді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Осознание человеком своей принадлежности к этнической общности",
+            "en": "A person's awareness of belonging to an ethnic community",
+            "kk": "Адамның өзінің этникалық қауымдастыққа жататынын сезінуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Определение этнической принадлежности человека другими людьми",
+            "en": "The determination of a person's ethnic affiliation by other people",
+            "kk": "Адамның этникалық тиесілігін басқалардың айқындауы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Запись о национальности в удостоверении личности человека",
+            "en": "The nationality entry in a person's identity document",
+            "kk": "Жеке куәліктегі ұлты туралы жазба"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Владение родным языком на разговорном уровне",
+            "en": "Speaking one's native language at a conversational level",
+            "kk": "Ана тілін ауызекі деңгейде білу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Гражданство государства проживания и права, которые оно даёт",
+            "en": "Citizenship of the state of residence and the rights it gives",
+            "kk": "Тұрғылықты мемлекеттің азаматтығы және ол беретін құқықтар"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Этническая самоидентификация — собственное осознание принадлежности к своей, а не иной общности.",
+        "en": "Ethnic self-identification is one's own awareness of belonging to one community rather than another.",
+        "kk": "Этникалық өзін-өзі сәйкестендіру — адамның өзге емес, өз қауымдастығына жататынын өзі сезінуі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9 Этничность.pdf",
+          "location": "строки 37–39 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Этническая принадлежность и гражданство различаются тем, что...",
+        "en": "Ethnicity and citizenship differ in that...",
+        "kk": "Этникалық тиесілік пен азаматтықтың айырмашылығы мынада..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "гражданство передаётся только по крови, а этничность определяется паспортом",
+            "en": "citizenship is passed on only by blood, while ethnicity is determined by a passport",
+            "kk": "азаматтық тек қан арқылы беріледі, ал этностық төлқұжатпен айқындалады"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "этничность основана на культурной общности, а гражданство — на правовой связи",
+            "en": "ethnicity rests on a cultural community, while citizenship rests on a legal bond",
+            "kk": "этностық мәдени ортақтыққа, ал азаматтық құқықтық байланысқа негізделген"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "этничность закрепляется законом о национальности, а гражданство определяется языком",
+            "en": "ethnicity is fixed by a law on nationality, while citizenship is determined by language",
+            "kk": "этностық ұлт туралы заңмен бекітіледі, ал азаматтық тілмен айқындалады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "гражданство зависит от веры человека, а этничность — от места его работы",
+            "en": "citizenship depends on a person's faith, while ethnicity depends on their place of work",
+            "kk": "азаматтық адамның сеніміне, ал этностық оның жұмыс орнына байланысты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "этничность и гражданство всегда совпадают у любого человека и общества",
+            "en": "ethnicity and citizenship always coincide for any person and any society",
+            "kk": "этностық пен азаматтық кез келген адам мен қоғамда әрдайым сәйкес келеді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Этничность опирается на культурные черты и самосознание, гражданство — юридический статус человека.",
+        "en": "Ethnicity rests on cultural traits and self-awareness, whereas citizenship is a person's legal status.",
+        "kk": "Этностық мәдени белгілер мен өзін-өзі тануға сүйенеді, ал азаматтық — адамның заңды мәртебесі."
+      }
+    },
+    {
+      "id": 129,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "В гражданском понимании нация — это...",
+        "en": "In the civic understanding, a nation is...",
+        "kk": "Азаматтық түсінікте ұлт — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "сообщество граждан государства независимо от этничности",
+            "en": "a community of the citizens of a state regardless of ethnicity",
+            "kk": "этникалық тиесілігіне қарамастан мемлекет азаматтарының қауымдастығы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "группа людей с общим кровным происхождением и языком",
+            "en": "a group of people with common blood descent and language",
+            "kk": "ортақ қандас тегі мен тілі бар адамдар тобы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "общность людей одной веры, живущих в разных странах",
+            "en": "a community of people of one faith living in different countries",
+            "kk": "әртүрлі елдерде тұратын бір сенімдегі адамдардың қауымдастығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "объединение людей одной профессии в рамках отрасли",
+            "en": "an association of people of one profession within an industry",
+            "kk": "сала шеңберіндегі бір кәсіп адамдарының бірлестігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "союз государств с единым рынком и таможенной политикой",
+            "en": "a union of states with a single market and customs policy",
+            "kk": "бірыңғай нарығы мен кеден саясаты бар мемлекеттер одағы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "В гражданском понимании нация — политическая общность граждан, а не этническая.",
+        "en": "In the civic understanding, a nation is a political community of citizens, not an ethnic one.",
+        "kk": "Азаматтық түсінікте ұлт — азаматтардың саяси қауымдастығы, этникалық қауымдастық емес."
+      }
+    },
+    {
+      "id": 130,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Межэтнические отношения охватывают...",
+        "en": "Interethnic relations cover...",
+        "kk": "Этносаралық қатынастар — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "отношения между разными поколениями внутри одной семьи",
+            "en": "relations between different generations within one family",
+            "kk": "бір отбасы ішіндегі әртүрлі ұрпақтар арасындағы қатынастар"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "связи между социальными классами внутри одного этноса",
+            "en": "ties between social classes within one ethnos",
+            "kk": "бір этнос ішіндегі әлеуметтік таптар арасындағы байланыстар"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "отношения работодателей и наёмных работников в организации",
+            "en": "relations between employers and employees in an organization",
+            "kk": "ұйымдағы жұмыс берушілер мен жалдамалы қызметкерлердің қатынастары"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "общение людей внутри малой группы друзей или коллег",
+            "en": "communication among people within a small group of friends or colleagues",
+            "kk": "достардың немесе әріптестердің шағын тобы ішіндегі қарым-қатынас"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "взаимодействие и общение различных этнических групп",
+            "en": "the interaction and communication of different ethnic groups",
+            "kk": "әртүрлі этникалық топтардың өзара әрекеттесуі мен қарым-қатынасы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Межэтнические отношения — взаимодействие, общение и интересы разных этнических групп.",
+        "en": "Interethnic relations are the interaction, communication and interests of different ethnic groups.",
+        "kk": "Этносаралық қатынастар — әртүрлі этникалық топтардың өзара әрекеттесуі, қарым-қатынасы және мүдделері."
+      }
+    },
+    {
+      "id": 174,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Об этническом составе города судят только по посетителям одного культурного центра. Определите, в чём состоит ограничение такого вывода.",
+        "en": "The ethnic composition of a city is judged only by the visitors to one cultural center. Identify the limitation of such a conclusion.",
+        "kk": "Қала халқының этникалық құрамы тек бір мәдени орталыққа келушілерге қарап бағаланады. Мұндай қорытындының шектеулігі неде екенін анықтаңыз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Посетители центра — отобранная группа, не представляющая население города",
+            "en": "The center's visitors are a selected group that does not represent the city's population",
+            "kk": "Орталыққа келушілер — таңдап алынған, қала халқын көрсетпейтін топ"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Этнический состав можно определять только по религиозной принадлежности",
+            "en": "Ethnic composition can be determined only by religious affiliation",
+            "kk": "Этникалық құрамды тек діни тиесілік бойынша анықтауға болады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Культурные центры по закону не вправе фиксировать национальность посетителей",
+            "en": "By law, cultural centers may not record the nationality of their visitors",
+            "kk": "Мәдени орталықтар заң бойынша келушілердің ұлтын тіркеуге құқылы емес"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Этничность определяется исключительно местом рождения, а не культурой",
+            "en": "Ethnicity is determined solely by place of birth, not by culture",
+            "kk": "Этностық тек туған жерімен айқындалады, мәдениетпен емес"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Вывод ограничен лишь тем, что посетители говорят на разных языках",
+            "en": "The conclusion is limited only by the fact that the visitors speak different languages",
+            "kk": "Қорытынды тек келушілердің әртүрлі тілде сөйлеуімен ғана шектеледі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Вывод по самоотобранной группе нельзя переносить на всё население: она не репрезентативна.",
+        "en": "A conclusion drawn from a self-selected group cannot be extended to the whole population: the group is not representative.",
+        "kk": "Өздігінен іріктелген топ бойынша шығарылған қорытындыны бүкіл халыққа таратуға болмайды: ол репрезентативті емес."
+      }
+    },
+    {
+      "id": 175,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Потомки мигрантов, утратившие часть языка предков, начинают восстанавливать семейную память, символы и коллективные праздники. Какое объяснение соответствует конструктивистскому подходу?",
+        "en": "Descendants of migrants who have lost part of their ancestors' language begin to restore family memory, symbols and collective festivals. Which explanation corresponds to the constructivist approach?",
+        "kk": "Мигранттардың ұрпақтары ата-бабаларының тілінің бір бөлігінен айырылса да, отбасылық жадты, символдар мен ұжымдық мерекелерді қалпына келтіре бастайды. Қандай түсіндірме конструктивистік тәсілге сәйкес келеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Групповая принадлежность заложена в генетическом коде и проявляется независимо от условий",
+            "en": "Group membership is encoded in the genetic code and shows itself regardless of conditions",
+            "kk": "Топқа тиесілік генетикалық кодта қалыптасқан және жағдайға қарамастан көрінеді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Элита создаёт мифы ради власти и выгоды, мобилизуя группу",
+            "en": "Elites create myths for the sake of power and gain, mobilizing the group",
+            "kk": "Элита билік пен пайда үшін мифтер жасап, топты жұмылдырады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Происходит естественная ассимиляция, исключающая интерес к происхождению",
+            "en": "Natural assimilation is taking place, which rules out interest in one's origins",
+            "kk": "Тегіне қызығушылықты жоққа шығаратын табиғи ассимиляция жүреді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Этничность заново создаётся самими людьми, а не дана им от природы",
+            "en": "Ethnicity is created anew by people themselves rather than given by nature",
+            "kk": "Этностық табиғаттан берілмейді, оны адамдардың өздері қайта жасайды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Этничность целиком определяется юридическим гражданством потомков",
+            "en": "Ethnicity is entirely determined by the descendants' legal citizenship",
+            "kk": "Этностық толықтай ұрпақтардың заңды азаматтығымен айқындалады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Конструктивизм видит этничность как реконструкцию черт; потребность в «восстановленной» этничности возникает у потомков мигрантов.",
+        "en": "Constructivism sees ethnicity as a reconstruction of traits; the need for a “restored” ethnicity arises among descendants of migrants.",
+        "kk": "Конструктивизм этностықты белгілердің қайта жасалуы деп қарастырады; «қалпына келтірілген» этностыққа қажеттілік мигранттардың ұрпақтарында туындайды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9 Этничность.pdf",
+          "location": "строки 198–202 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 9 Этничность.pdf",
+          "location": "строки 205–207 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "О чём свидетельствует сочетание этнической, гражданской и профессиональной принадлежности у одного человека?",
+        "en": "What does the combination of ethnic, civic and professional affiliation in one person indicate?",
+        "kk": "Бір адамда этникалық, азаматтық және кәсіби тиесіліктің ұштасуы нені көрсетеді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Об утрате этнической идентичности под влиянием профессии и гражданства",
+            "en": "The loss of ethnic identity under the influence of profession and citizenship",
+            "kk": "Кәсіп пен азаматтықтың әсерінен этникалық сәйкестіктің жоғалуы туралы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "О многомерности личности и множественности идентичностей",
+            "en": "The multidimensionality of the personality and the plurality of identities",
+            "kk": "Тұлғаның көпөлшемділігі мен сәйкестіктердің көптігі туралы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "О том, что гражданство полностью отменяет этническую принадлежность",
+            "en": "That citizenship completely cancels out ethnic affiliation",
+            "kk": "Азаматтықтың этникалық тиесілікті толық жоятыны туралы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "О неизбежном внутриличностном конфликте этих принадлежностей",
+            "en": "An unavoidable inner conflict among these affiliations",
+            "kk": "Бұл тиесіліктердің ішкі тұлғалық қақтығысының сөзсіздігі туралы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "О слабой социальной интеграции человека в общество и группы",
+            "en": "Weak social integration of the person into society and groups",
+            "kk": "Адамның қоғамға және топтарға әлеуметтік интеграциясының әлсіздігі туралы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Человек входит в разные общности одновременно, поэтому его идентичность многомерна.",
+        "en": "A person belongs to different communities at the same time, so their identity is multidimensional.",
+        "kk": "Адам әртүрлі қауымдастықтарға бір мезгілде кіреді, сондықтан оның сәйкестігі көпөлшемді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 5 Социализация и идентичность 2024.pdf",
+          "location": "строка 125 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Примордиалистская интерпретация этносов делает акцент на...",
+        "en": "The primordialist interpretation of ethnic groups emphasizes...",
+        "kk": "Этностарды примордиалистік түсіндіруде мынаған баса назар аударылады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "наследуемой, природной основе этнической принадлежности",
+            "en": "the inherited, natural basis of ethnic affiliation",
+            "kk": "этникалық тиесіліктің тұқым қуалайтын, табиғи негізіне"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "использовании этнических мифов элитой ради власти",
+            "en": "the use of ethnic myths by elites for the sake of power",
+            "kk": "этностық мифтерді элитаның билік үшін пайдалануына"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "социальной организации культурных различий",
+            "en": "the social organization of cultural differences",
+            "kk": "мәдени айырмашылықтардың әлеуметтік ұйымдастырылуына"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "конструировании этнических черт в деятельности людей",
+            "en": "the construction of ethnic traits in people's activity",
+            "kk": "этностық белгілердің адамдар қызметінде құрастырылуына"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "общем коммуникативном пространстве как основе этничности",
+            "en": "a common communicative space as the basis of ethnicity",
+            "kk": "этностықтың негізі ретіндегі ортақ коммуникативтік кеңістікке"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Примордиалисты считали групповую принадлежность заложенной в генетическом коде и эволюцией.",
+        "en": "Primordialists considered group membership to be encoded in the genetic code and by evolution.",
+        "kk": "Примордиалистер топқа тиесілікті генетикалық кодта және эволюциядан қалыптасқан деп санаған."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9 Этничность.pdf",
+          "location": "строки 163–166 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "С анализом социальных границ этнических групп связано имя...",
+        "en": "The analysis of the social boundaries of ethnic groups is associated with the name of...",
+        "kk": "Этникалық топтардың әлеуметтік шекараларын талдау кімнің есімімен байланысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Клиффорд Гирц",
+            "en": "Clifford Geertz",
+            "kk": "Клиффорд Гирц"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Юлиан Бромлей",
+            "en": "Yulian Bromley",
+            "kk": "Юлиан Бромлей"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Фредрик Барт",
+            "en": "Fredrik Barth",
+            "kk": "Фредрик Барт"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Питер Бергер",
+            "en": "Peter Berger",
+            "kk": "Питер Бергер"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Эмиль Дюркгейм",
+            "en": "Émile Durkheim",
+            "kk": "Эмиль Дюркгейм"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Конструктивистский подход к этничности как социальной организации культурных различий связан с именем норвежского этнолога Ф. Барта.",
+        "en": "The constructivist approach to ethnicity as the social organization of cultural differences is associated with the Norwegian ethnologist F. Barth.",
+        "kk": "Этностыққа мәдени айырмашылықтардың әлеуметтік ұйымы ретінде қарайтын конструктивистік тәсіл норвегиялық этнолог Ф. Бартпен байланысты."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 9 Этничность.pdf",
+          "location": "строка 203 извлечённого текста"
+        }
+      ]
+    }
+  ]
+}

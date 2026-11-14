@@ -1,0 +1,646 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 36,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вид миграции, происходящей вследствие политических конфликтов, природных и техногенных катастроф.",
+        "en": "The type of migration that occurs as a result of political conflicts, natural and man-made disasters.",
+        "kk": "Саяси қақтығыстар, табиғи және техногендік апаттар салдарынан болатын көші-қон түрі."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Трудовая",
+            "en": "Labour",
+            "kk": "Еңбек"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Маятниковая",
+            "en": "Commuter",
+            "kk": "Маятниктік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Вынужденная",
+            "en": "Forced",
+            "kk": "Мәжбүрлі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Сезонная",
+            "en": "Seasonal",
+            "kk": "Маусымдық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Образовательная",
+            "en": "Educational",
+            "kk": "Білім алу"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Вынужденная миграция вызвана внешним принуждением: конфликтами, катастрофами, преследованием.",
+        "en": "Forced migration is caused by external compulsion: conflicts, disasters, persecution.",
+        "kk": "Мәжбүрлі көші-қон сыртқы мәжбүрлеуден туындайды: қақтығыстар, апаттар, қуғын-сүргін."
+      }
+    },
+    {
+      "id": 47,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Индивидуальная миграция относится к ... миграции.",
+        "en": "Individual migration is classed as ... migration.",
+        "kk": "Жеке көші-қон ... көші-қонға жатады."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "неорганизованной",
+            "en": "unorganized",
+            "kk": "ұйымдаспаған"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "организованной",
+            "en": "organized",
+            "kk": "ұйымдасқан"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "массовой",
+            "en": "mass",
+            "kk": "жаппай"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "групповой",
+            "en": "group-based",
+            "kk": "топтық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "государственной",
+            "en": "state",
+            "kk": "мемлекеттік"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Индивидуальная миграция совершается человеком самостоятельно, без организации государством или группой, то есть неорганизованная.",
+        "en": "Individual migration is undertaken by a person independently, without organization by the state or a group, that is, it is unorganized.",
+        "kk": "Жеке көші-қонды адам мемлекеттің немесе топтың ұйымдастыруынсыз өзі жүзеге асырады, яғни ол ұйымдаспаған."
+      }
+    },
+    {
+      "id": 56,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Наука о населении, изучающая его численность, состав и структуру, — это...",
+        "en": "The science of population that studies its size, composition and structure is...",
+        "kk": "Халықтың санын, құрамы мен құрылымын зерттейтін халық туралы ғылым — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "этнография",
+            "en": "ethnography",
+            "kk": "этнография"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "антропология",
+            "en": "anthropology",
+            "kk": "антропология"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "урбанистика",
+            "en": "urban studies",
+            "kk": "урбанистика"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "демография",
+            "en": "demography",
+            "kk": "демография"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "эпидемиология",
+            "en": "epidemiology",
+            "kk": "эпидемиология"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "Демография анализирует размер, структуру и развитие человеческого населения.",
+        "en": "Demography analyzes the size, structure and development of the human population.",
+        "kk": "Демография адам популяциясының көлемін, құрылымын және дамуын талдайды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 14 население урбанизация.pdf",
+          "location": "строки 210–211 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Все люди, родившиеся в пределах одного года или нескольких лет, называются в социологии...",
+        "en": "All people born within one year or several years are called, in sociology, a...",
+        "kk": "Бір жылда немесе бірнеше жыл ішінде туған барлық адамдар әлеуметтануда не деп аталады?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "стратой",
+            "en": "stratum",
+            "kk": "Страта"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "когортой",
+            "en": "cohort",
+            "kk": "Когорта"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "кастой",
+            "en": "caste",
+            "kk": "Каста"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "диаспорой",
+            "en": "diaspora",
+            "kk": "Диаспора"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "референтной группой",
+            "en": "reference group",
+            "kk": "Референттік топ"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Когорта - люди, родившиеся в один период; такая группа выделяется по году рождения.",
+        "en": "A cohort is people born in the same period; such a group is identified by year of birth.",
+        "kk": "Когорта — бір кезеңде туған адамдар; мұндай топ туған жылы бойынша бөлінеді."
+      }
+    },
+    {
+      "id": 156,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Урбанизация представляет собой процесс...",
+        "en": "Urbanization is the process of...",
+        "kk": "Урбандалу — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "перехода общества от традиционных форм жизни к индустриальным",
+            "en": "a society's transition from traditional ways of life to industrial ones",
+            "kk": "қоғамның дәстүрлі өмір нысандарынан индустриалдық нысандарға өтуі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "механизации производства с помощью неживых источников энергии",
+            "en": "the mechanization of production using inanimate sources of energy",
+            "kk": "өндірісті жансыз энергия көздерінің көмегімен механикаландыру"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "повышения роли городов в развитии общества",
+            "en": "the growing role of cities in the development of society",
+            "kk": "қоғам дамуындағы қалалар рөлінің артуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "снижения рождаемости и смертности по мере индустриализации",
+            "en": "a decline in birth and death rates as industrialization proceeds",
+            "kk": "индустрияландыру барысында туу мен өлім деңгейінің төмендеуі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "переселения людей между странами в поисках работы и дохода",
+            "en": "people moving between countries in search of work and income",
+            "kk": "адамдардың жұмыс пен табыс іздеп елдер арасында қоныс аударуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Урбанизация - процесс повышения роли городов в развитии общества.",
+        "en": "Urbanization is the process of the growing role of cities in the development of society.",
+        "kk": "Урбандалу — қоғам дамуындағы қалалар рөлінің артуы процесі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 14 население урбанизация.pdf",
+          "location": "строки 23–24 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Субурбанизация связана с...",
+        "en": "Suburbanization is associated with...",
+        "kk": "Субурбанизация мынамен байланысты..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "переездом сельских жителей в центральные районы крупных городов",
+            "en": "rural residents moving into the central districts of large cities",
+            "kk": "ауыл тұрғындарының ірі қалалардың орталық аудандарына көшуімен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "сокращением числа городов и возвратом населения к аграрному труду",
+            "en": "a decrease in the number of cities and a return of the population to agricultural work",
+            "kk": "қалалар санының қысқаруымен және халықтың аграрлық еңбекке оралуымен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "ростом рождаемости в сельских районах и снижением смертности",
+            "en": "rising birth rates in rural areas and falling mortality",
+            "kk": "ауыл өңірлерінде туудың өсуімен және өлімнің төмендеуімен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "развитием пригородов и переселением горожан из центра на окраины",
+            "en": "the development of suburbs and the relocation of townspeople from the center to the outskirts",
+            "kk": "қала маңының дамуымен және қала тұрғындарының орталықтан шет аймаққа көшуімен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "переходом общества от аграрных форм производства к фабричным",
+            "en": "a society's transition from agrarian forms of production to factory ones",
+            "kk": "қоғамның аграрлық өндіріс нысандарынан фабрикалық нысандарға өтуімен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "На поздней стадии урбанизации усиливается развитие пригородов, что и называют субурбанизацией.",
+        "en": "At the late stage of urbanization the development of suburbs intensifies, which is what is called suburbanization.",
+        "kk": "Урбандалудың кеш сатысында қала маңының дамуы күшейеді, оны субурбанизация деп атайды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 14 население урбанизация.pdf",
+          "location": "строки 188–189 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Естественное изменение численности населения определяется соотношением...",
+        "en": "The natural change in population size is determined by the ratio of...",
+        "kk": "Халық санының табиғи өзгерісі мыналардың арақатынасымен айқындалады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "рождаемости и смертности",
+            "en": "births and deaths",
+            "kk": "туу мен өлімнің"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "иммиграции и эмиграции",
+            "en": "immigration and emigration",
+            "kk": "иммиграция мен эмиграцияның"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "браков и разводов",
+            "en": "marriages and divorces",
+            "kk": "неке мен ажырасудың"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "городского и сельского населения",
+            "en": "urban and rural population",
+            "kk": "қала және ауыл халқының"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "детей и пожилых людей",
+            "en": "children and the elderly",
+            "kk": "балалар мен қарт адамдардың"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Размер населения меняется за счёт рождаемости и смертности, а миграция относится к отдельным показателям.",
+        "en": "Population size changes through births and deaths, while migration belongs to separate indicators.",
+        "kk": "Халық саны туу мен өлім есебінен өзгереді, ал көші-қон жекелеген көрсеткіштерге жатады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 14 население урбанизация.pdf",
+          "location": "строки 213–214 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Миграционное сальдо — это...",
+        "en": "Net migration is...",
+        "kk": "Көші-қон сальдосы — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "разность между числом родившихся и умерших людей за период",
+            "en": "the difference between the number of births and deaths over a period",
+            "kk": "кезең ішінде туғандар мен қайтыс болғандар санының айырмасы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "общее число жителей территории на конец календарного года",
+            "en": "the total number of residents of a territory at the end of the calendar year",
+            "kk": "күнтізбелік жыл соңындағы аумақ тұрғындарының жалпы саны"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "доля городских жителей в общей численности населения страны",
+            "en": "the share of urban residents in a country's total population",
+            "kk": "ел халқының жалпы санындағы қала тұрғындарының үлесі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "средняя продолжительность жизни населения региона по переписи",
+            "en": "the average life expectancy of a region's population according to the census",
+            "kk": "өңір халқының санақ бойынша орташа өмір сүру ұзақтығы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "разность между числом прибывших и выбывших людей за период",
+            "en": "the difference between the number of arrivals and departures over a period",
+            "kk": "кезең ішінде келгендер мен кеткендер санының айырмасы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Сальдо миграции - разность числа прибывших и выбывших на территорию за период.",
+        "en": "Net migration is the difference between the number of people who arrived in and left a territory over a period.",
+        "kk": "Көші-қон сальдосы — кезең ішінде аумаққа келгендер мен одан кеткендер санының айырмасы."
+      }
+    },
+    {
+      "id": 160,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Демографическое старение означает...",
+        "en": "Demographic aging means...",
+        "kk": "Демографиялық қартаю — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "физиологическое изнашивание организма отдельного человека с возрастом",
+            "en": "the physiological wear of an individual's body with age",
+            "kk": "жеке адам ағзасының жасына қарай физиологиялық тозуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "увеличение доли пожилых людей в общей численности населения",
+            "en": "an increase in the share of older people in the total population",
+            "kk": "халықтың жалпы санындағы егде адамдар үлесінің өсуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "рост доли детей и подростков в возрастной структуре населения",
+            "en": "a growth in the share of children and adolescents in the age structure of the population",
+            "kk": "халықтың жас құрылымындағы балалар мен жасөспірімдер үлесінің өсуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "сокращение общей численности жителей из-за эмиграции молодёжи",
+            "en": "a decline in the total number of residents because of the emigration of young people",
+            "kk": "жастардың эмиграциясына байланысты тұрғындардың жалпы санының қысқаруы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "переход общества от традиционных форм жизни к современным",
+            "en": "a society's transition from traditional ways of life to modern ones",
+            "kk": "қоғамның дәстүрлі өмір нысандарынан қазіргі нысандарға өтуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Демографическое старение - рост доли пожилых в возрастной структуре населения.",
+        "en": "Demographic aging is a rise in the share of older people in the age structure.",
+        "kk": "Демографиялық қартаю — жас құрылымындағы егде адамдар үлесінің өсуі."
+      }
+    },
+    {
+      "id": 161,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Возрастная структура населения характеризует...",
+        "en": "The age structure of the population characterizes...",
+        "kk": "Халықтың жас құрылымы мыналарды сипаттайды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "размещение населения по городским и сельским поселениям региона",
+            "en": "the distribution of the population across a region's urban and rural settlements",
+            "kk": "өңірдің қалалық және ауылдық елді мекендері бойынша халықтың орналасуын"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "распределение жителей по уровню дохода и принадлежности к классам",
+            "en": "the distribution of residents by income level and class membership",
+            "kk": "тұрғындардың табыс деңгейі мен таптарға тиесілігі бойынша бөлінуін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "распределение населения по возрастным группам и долю каждой из них",
+            "en": "the distribution of the population by age groups and the share of each",
+            "kk": "халықтың жас топтары бойынша бөлінуін және олардың әрқайсысының үлесін"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "распределение населения по национальностям и языкам общения",
+            "en": "the distribution of the population by nationality and language of communication",
+            "kk": "халықтың ұлттары мен қарым-қатынас тілдері бойынша бөлінуін"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "распределение людей по вероисповеданиям и участию в обрядах",
+            "en": "the distribution of people by religion and participation in rites",
+            "kk": "адамдардың діни сенімдері мен ғұрыптарға қатысуы бойынша бөлінуін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Возрастной состав - одна из двух основных характеристик структуры населения.",
+        "en": "Age composition is one of the two main characteristics of population structure.",
+        "kk": "Жас құрамы — халық құрылымының екі негізгі сипаттамасының бірі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 14 население урбанизация.pdf",
+          "location": "строки 216–217 извлечённого текста"
+        }
+      ]
+    }
+  ]
+}

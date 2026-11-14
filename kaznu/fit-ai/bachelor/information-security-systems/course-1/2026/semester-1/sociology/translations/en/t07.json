@@ -1,0 +1,108 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 7,
+  "topic_name": "Youth and Society",
+  "questions": {
+    "12": {
+      "question": "Sociologists who formed the concept of deviant behavior in sociology:",
+      "options": {
+        "A": "Émile Durkheim",
+        "B": "Herbert Spencer",
+        "C": "Robert K. Merton",
+        "D": "Auguste Comte",
+        "E": "Howard Becker"
+      }
+    },
+    "111": {
+      "question": "In sociology, youth is regarded first of all as...",
+      "options": {
+        "A": "an age zone of limited criminal responsibility in criminal law",
+        "B": "a stage of the physical development and growth of the human body",
+        "C": "an independent economic class with its own property",
+        "D": "a socio-demographic group with its own statuses",
+        "E": "a stage of the mental maturation and development of the adolescent's personality"
+      }
+    },
+    "112": {
+      "question": "The subcultural approach to the study of youth focuses on...",
+      "options": {
+        "A": "the sensitive periods and social transitions of age",
+        "B": "the period between sexual and full maturity",
+        "C": "the conflict of fathers and children",
+        "D": "the way of life, style of behavior and values of the youth group",
+        "E": "the transition from the social role of a child to that of an adult"
+      }
+    },
+    "113": {
+      "question": "In Margaret Mead's typology, a postfigurative culture is characterized by a predominant pattern in which...",
+      "options": {
+        "A": "children and adults learn from peers",
+        "B": "adults learn from their own children",
+        "C": "children learn from their predecessors",
+        "D": "children learn through the mass media",
+        "E": "adults learn from foreign specialists"
+      }
+    },
+    "114": {
+      "question": "The social heterogeneity of youth is expressed in differences of...",
+      "options": {
+        "A": "type of temperament",
+        "B": "level of education",
+        "C": "hereditary aptitudes",
+        "D": "place of residence",
+        "E": "social origin"
+      }
+    },
+    "115": {
+      "question": "In Erik Erikson's concept, one of the central tasks of youth is...",
+      "options": {
+        "A": "forming basic trust in the world and in close people",
+        "B": "developing a sense of initiative and a desire to act",
+        "C": "developing a sense of skill and competence in learning",
+        "D": "gaining a sense of wholeness and of duty fulfilled",
+        "E": "the search for identity and overcoming role confusion"
+      }
+    },
+    "116": {
+      "question": "Informal sanctions include...",
+      "options": {
+        "A": "an administrative fine",
+        "B": "expulsion from university by order of the rector",
+        "C": "imprisonment by court sentence",
+        "D": "condemnation by friends and neighbors",
+        "E": "an official reprimand entered in the personal file"
+      }
+    },
+    "117": {
+      "question": "Social control is...",
+      "options": {
+        "A": "the process by which an individual assimilates the norms, roles and values of society",
+        "B": "a deviation of an individual's behavior from generally accepted norms and rules",
+        "C": "a set of means that induce people to observe norms",
+        "D": "the division of society into strata by income, education and prestige",
+        "E": "the process of change in the social structure of society over time"
+      }
+    },
+    "118": {
+      "question": "A young person's social role is manifested as...",
+      "options": {
+        "A": "the finally established status of an adult member of society",
+        "B": "complete independence from the norms and expectations of society",
+        "C": "a transitional step from the role of a child to the role of an adult",
+        "D": "a role not connected with any social institution",
+        "E": "strict subordination only to family tradition and elders"
+      }
+    },
+    "170": {
+      "question": "Which condition, according to Karl Mannheim's concept, makes it possible to distinguish a generation as a socio-historical community from a mere aggregate of people of similar age?",
+      "options": {
+        "A": "A common level of income and a similar professional status",
+        "B": "Closeness of birth dates and the same biological age",
+        "C": "Shared involvement in one and the same historical events",
+        "D": "A common historical homeland and ancestry",
+        "E": "Living in one family and a common family tradition of upbringing"
+      }
+    }
+  }
+}

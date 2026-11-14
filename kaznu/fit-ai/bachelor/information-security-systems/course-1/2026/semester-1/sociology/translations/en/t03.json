@@ -1,0 +1,148 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 3,
+  "topic_name": "Sociological Research",
+  "questions": {
+    "14": {
+      "question": "Any sociological research begins first of all with the study of...",
+      "options": {
+        "A": "the results of a questionnaire survey",
+        "B": "the final report on the results",
+        "C": "the problem situation",
+        "D": "the sample population",
+        "E": "the content analysis data"
+      }
+    },
+    "57": {
+      "question": "Participant observation is the kind of observation in which...",
+      "options": {
+        "A": "the observer records events from the outside without making contact",
+        "B": "observation is conducted only from video recordings of events",
+        "C": "recording follows strictly a predetermined scheme",
+        "D": "the observed themselves fill in registration cards",
+        "E": "the researcher personally takes part in the life of the observed group"
+      }
+    },
+    "60": {
+      "question": "What does the sociological term “sample” imply?",
+      "options": {
+        "A": "A part of the general population selected by special procedures",
+        "B": "The entire population of people about which the study's conclusions are drawn",
+        "C": "A procedure for testing the reliability of a questionnaire in a pilot survey",
+        "D": "The final table of the distribution of respondents' answers by group",
+        "E": "A statistical hypothesis about the relationship between two variables in the data"
+      }
+    },
+    "82": {
+      "question": "A hypothesis of a sociological study is...",
+      "options": {
+        "A": "a statement of the aim and concept with a sequence of verification operations",
+        "B": "a really existing contradiction whose means of resolution are unclear",
+        "C": "a reasoned assumption about the structure of the object and its mechanism of functioning",
+        "D": "a set of units about which the conclusions of the survey are drawn",
+        "E": "a transition from concepts to indicators that make it possible to collect data"
+      }
+    },
+    "83": {
+      "question": "Operationalization of a concept involves...",
+      "options": {
+        "A": "random selection of units from the general population for a survey",
+        "B": "formulating the aim and objectives of the study in its program",
+        "C": "statistical processing of the collected data in special software",
+        "D": "confirming hypotheses by means of statistical significance tests",
+        "E": "translating theoretical concepts into indicators and measurement tools"
+      }
+    },
+    "84": {
+      "question": "The general population in a sample study is...",
+      "options": {
+        "A": "the set of units about which the conclusions of the survey are drawn",
+        "B": "the part of the units actually surveyed by the researcher during the survey",
+        "C": "the list of indicators measured in a questionnaire and in an interview",
+        "D": "the group of experts involved for interviews and consultations",
+        "E": "the number of respondents who refused to take part in the survey"
+      }
+    },
+    "85": {
+      "question": "The correspondence of an indicator to the property that it is supposed to measure characterizes...",
+      "options": {
+        "A": "reliability",
+        "B": "representativeness",
+        "C": "correlation",
+        "D": "validity",
+        "E": "central tendency"
+      }
+    },
+    "86": {
+      "question": "The method of direct registration of people's actions and interactions in a particular situation is called...",
+      "options": {
+        "A": "an experiment",
+        "B": "observation",
+        "C": "content analysis",
+        "D": "a questionnaire survey",
+        "E": "the biographical method"
+      }
+    },
+    "87": {
+      "question": "Discussion of the topic under study by a small group of participants led by a moderator is the basis of the method of...",
+      "options": {
+        "A": "questionnaire survey",
+        "B": "content analysis",
+        "C": "the focus group",
+        "D": "participant observation",
+        "E": "the social experiment"
+      }
+    },
+    "88": {
+      "question": "Probability sampling implies that...",
+      "options": {
+        "A": "the units are selected by experts at their own discretion, based on ease of access",
+        "B": "only volunteers who responded to a posted announcement are included in the sample",
+        "C": "absolutely all units of the general population are surveyed, not a part of them",
+        "D": "the composition of the sample is set by quotas for sex and age and does not depend on chance",
+        "E": "every unit has a known non-zero probability of being included in the sample"
+      }
+    },
+    "89": {
+      "question": "What is a sample in a sociological study?",
+      "options": {
+        "A": "The main document with the aims, hypotheses, objectives and plan of the study",
+        "B": "A part of the general population formed according to special rules",
+        "C": "A property of data to reproduce the characteristics of the whole population",
+        "D": "A written survey using a standardized questionnaire with closed questions",
+        "E": "A reasoned assumption about the structure and properties of the object under study"
+      }
+    },
+    "166": {
+      "question": "Which of the following research principles differs from the others in its methodological basis?",
+      "options": {
+        "A": "Measurability of phenomena and statistical processing of the data obtained",
+        "B": "Interpretation of the meanings and experience of people in a particular context",
+        "C": "Social determinism as the basis of the experimental method",
+        "D": "Identification of cause-and-effect relationships between phenomena and variables",
+        "E": "Generalization of conclusions to the general population from a sample"
+      }
+    },
+    "169": {
+      "question": "Which change in research conditions directly limits the possibility of statistically extending the results of a sample study to the general population?",
+      "options": {
+        "A": "Increasing the sample size while keeping random selection and known probabilities",
+        "B": "Using a written instead of an oral survey with the same sample and the same selection",
+        "C": "Forming the sample by ease of access, when the probability of units being included is unknown",
+        "D": "Applying a stratified random sample instead of a simple random sample",
+        "E": "Using a standardized questionnaire instead of a free interview on the same questions"
+      }
+    },
+    "178": {
+      "question": "Which statement most accurately expresses the relationship between theoretical concepts and empirical indicators in social research?",
+      "options": {
+        "A": "Indicators are derived from respondents' answers and do not depend on theoretical concepts",
+        "B": "Concepts coincide with indicators and are measured directly, without additional procedures",
+        "C": "Indicators are chosen after data collection so that they confirm the hypothesis",
+        "D": "Concepts are operationalized into indicators, which are then used to test hypotheses",
+        "E": "Indicators replace theory, since applied research does not need it"
+      }
+    }
+  }
+}

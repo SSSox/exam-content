@@ -1,0 +1,826 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 17,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Признаки, лежащие в основе формирования статусных групп в обществе с точки зрения Макса Вебера:",
+        "en": "The characteristics underlying the formation of status groups in society from the point of view of Max Weber:",
+        "kk": "Макс Вебер тұрғысынан қоғамдағы мәртебелік топтардың қалыптасуына негіз болатын белгілер:"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Отношение к средствам производства",
+            "en": "Relation to the means of production",
+            "kk": "Өндіріс құралдарына қатынас"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Социальный престиж",
+            "en": "Social prestige",
+            "kk": "Әлеуметтік бедел"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Размер дохода и имущества",
+            "en": "The amount of income and property",
+            "kk": "Табыс пен мүліктің мөлшері"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Стиль жизни",
+            "en": "Lifestyle",
+            "kk": "Өмір салты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Объём политической власти",
+            "en": "The amount of political power",
+            "kk": "Саяси биліктің көлемі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "explanation": {
+        "ru": "По Веберу статусные группы различаются престижем и стилем жизни, закреплённым в общей субкультуре; экономика порождает классы, власть — партии.",
+        "en": "According to Weber, status groups are distinguished by prestige and lifestyle, anchored in a shared subculture; the economy gives rise to classes, power to parties.",
+        "kk": "Вебер бойынша мәртебелік топтар беделімен және ортақ субмәдениетте бекіген өмір салтымен ерекшеленеді; экономика таптарды, билік партияларды тудырады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 208 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 213 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Вебер выделил следующие компоненты неравенства...",
+        "en": "Weber singled out the following components of inequality...",
+        "kk": "Вебер теңсіздіктің мынадай құрамдастарын бөліп көрсетті..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "эксплуатация наёмных рабочих",
+            "en": "exploitation of hired workers",
+            "kk": "жалдамалы жұмысшыларды қанау"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "собственность и доход",
+            "en": "property and income",
+            "kk": "меншік және табыс"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "религиозная принадлежность",
+            "en": "religious affiliation",
+            "kk": "діни тиесілілік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "политическая власть",
+            "en": "political power",
+            "kk": "саяси билік"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "социальный престиж",
+            "en": "social prestige",
+            "kk": "әлеуметтік бедел"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D",
+        "E"
+      ],
+      "explanation": {
+        "ru": "Вебер рассматривал собственность, власть и престиж как три отдельных, но взаимодействующих фактора, определяющих положение человека в обществе.",
+        "en": "Weber treated property, power and prestige as three separate but interacting factors that determine a person's position in society.",
+        "kk": "Вебер меншікті, билік пен беделді адамның қоғамдағы жағдайын айқындайтын үш бөлек, бірақ өзара әрекеттесетін фактор деп қарастырды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 173 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 179 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Неодинаковый доступ больших социальных групп людей (страт, сословий, каст, классов) к экономическим ресурсам, социальным благам и политической власти — это...",
+        "en": "The unequal access of large social groups (strata, estates, castes, classes) to economic resources, social goods and political power is...",
+        "kk": "Адамдардың ірі әлеуметтік топтарының (страталардың, сословиелердің, касталардың, таптардың) экономикалық ресурстарға, әлеуметтік игіліктерге және саяси билікке біркелкі емес қолжетімділігі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "социальная мобильность",
+            "en": "social mobility",
+            "kk": "әлеуметтік мобильділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "социальная адаптация",
+            "en": "social adaptation",
+            "kk": "әлеуметтік бейімделу"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "социальное неравенство",
+            "en": "social inequality",
+            "kk": "әлеуметтік теңсіздік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "социальная солидарность",
+            "en": "social solidarity",
+            "kk": "әлеуметтік ынтымақтастық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "социальная аномия",
+            "en": "social anomie",
+            "kk": "әлеуметтік аномия"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Социальное неравенство — неравное распределение привилегий, материальных благ, возможностей, власти и престижа между группами.",
+        "en": "Social inequality is the unequal distribution of privileges, material goods, opportunities, power and prestige among groups.",
+        "kk": "Әлеуметтік теңсіздік — топтар арасында артықшылықтардың, материалдық игіліктердің, мүмкіндіктердің, билік пен беделдің тең емес бөлінуі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строки 381–382 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Обеспеченность человека ниже прожиточного минимума (временная или застойная) — это...",
+        "en": "A person's level of provision below the subsistence minimum (temporary or stagnant) is...",
+        "kk": "Адамның күнкөріс минимумынан төмен қамтамасыз етілуі (уақытша немесе созылмалы) — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "безработица",
+            "en": "unemployment",
+            "kk": "жұмыссыздық"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "бедность",
+            "en": "poverty",
+            "kk": "кедейлік"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "дискриминация",
+            "en": "discrimination",
+            "kk": "кемсіту"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "девиантность",
+            "en": "deviance",
+            "kk": "девиантты мінез-құлық"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "социальная изоляция",
+            "en": "social isolation",
+            "kk": "әлеуметтік оқшаулану"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Бедность — обеспеченность ниже прожиточного минимума, временная или застойная.",
+        "en": "Poverty is a level of provision below the subsistence minimum, temporary or stagnant.",
+        "kk": "Кедейлік — күнкөріс минимумынан төмен, уақытша немесе созылмалы қамтамасыз етілу."
+      }
+    },
+    {
+      "id": 58,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Проявлением социальной стратификации является...",
+        "en": "A manifestation of social stratification is...",
+        "kk": "Әлеуметтік стратификацияның көрінісі болып табылатыны..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "освоение индивидом норм и ценностей общества",
+            "en": "an individual's assimilation of the norms and values of society",
+            "kk": "жеке адамның қоғам нормалары мен құндылықтарын меңгеруі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "расположение больших социальных групп по иерархии привилегий",
+            "en": "the arrangement of large social groups in a hierarchy of privileges",
+            "kk": "ірі әлеуметтік топтардың артықшылық иерархиясындағы орналасуы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "распределение населения между городами и сёлами",
+            "en": "the distribution of the population between cities and villages",
+            "kk": "халықтың қалалар мен ауылдар арасында бөлінуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "смена места жительства внутри страны",
+            "en": "a change of residence within the country",
+            "kk": "ел ішінде тұрғылықты жерін ауыстыру"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "передача культурных образцов от поколения к поколению",
+            "en": "the transmission of cultural patterns from generation to generation",
+            "kk": "мәдени үлгілердің ұрпақтан ұрпаққа берілуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Стратификация — ранжирование больших социальных групп по иерархии согласно их привилегиям.",
+        "en": "Stratification is the ranking of large social groups in a hierarchy according to their privileges.",
+        "kk": "Стратификация — ірі әлеуметтік топтарды олардың артықшылықтарына қарай иерархия бойынша сатылау."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 32 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Многомерный подход Макса Вебера к социальной стратификации предполагает разграничение...",
+        "en": "Max Weber's multidimensional approach to social stratification involves distinguishing...",
+        "kk": "Макс Вебердің әлеуметтік стратификацияға көп өлшемді тәсілі мыналарды ажыратуды көздейді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "буржуазии и пролетариата",
+            "en": "the bourgeoisie and the proletariat",
+            "kk": "буржуазия мен пролетариатты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "классов, статусных групп и партий",
+            "en": "classes, status groups and parties",
+            "kk": "таптарды, мәртебелік топтарды және партияларды"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "экономического, культурного, социального и символического капитала",
+            "en": "economic, cultural, social and symbolic capital",
+            "kk": "экономикалық, мәдени, әлеуметтік және символдық капиталды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "горизонтальной и вертикальной мобильности",
+            "en": "horizontal and vertical mobility",
+            "kk": "көлденең және тігінен мобильділікті"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "менеджеров, полуавтономных служащих и мелких нанимателей",
+            "en": "managers, semi-autonomous employees and small employers",
+            "kk": "менеджерлерді, жартылай автономды қызметкерлерді және ұсақ жұмыс берушілерді"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Вебер различал классы (экономика), статусные группы (престиж) и партии (власть).",
+        "en": "Weber distinguished classes (economy), status groups (prestige) and parties (power).",
+        "kk": "Вебер таптарды (экономика), мәртебелік топтарды (бедел) және партияларды (билік) ажыратты."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 183 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 219 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Вертикальная социальная мобильность означает...",
+        "en": "Vertical social mobility means...",
+        "kk": "Тік әлеуметтік мобильділік мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "переход в другую группу на том же иерархическом уровне",
+            "en": "a move to another group at the same hierarchical level",
+            "kk": "сол иерархиялық деңгейдегі басқа топқа өту"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "передачу социального статуса детям по наследству от родителей",
+            "en": "the transmission of social status to children by inheritance from parents",
+            "kk": "әлеуметтік мәртебені ата-анадан балаларға мұра ету"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "перемещение индивида вверх или вниз по ступеням структуры",
+            "en": "the movement of an individual up or down the steps of the structure",
+            "kk": "жеке адамның құрылым сатылары бойынша жоғары немесе төмен жылжуы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "переезд из одного региона страны в другой ради работы",
+            "en": "moving from one region of the country to another for work",
+            "kk": "жұмыс үшін елдің бір өңірінен екіншісіне көшу"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "освоение новых профессиональных умений на курсах повышения",
+            "en": "acquiring new professional skills in refresher courses",
+            "kk": "біліктілік арттыру курстарында жаңа кәсіби дағдыларды меңгеру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Вертикальная мобильность — перемещение вверх (восходящая) или вниз (нисходящая) по ступеням социальной структуры.",
+        "en": "Vertical mobility is movement up (upward) or down (downward) the steps of the social structure.",
+        "kk": "Тік мобильділік — әлеуметтік құрылым сатылары бойынша жоғары (өрлеме) немесе төмен (құлдыраума) жылжу."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строки 104–105 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Изменение социального положения детей по сравнению с положением их родителей рассматривается как...",
+        "en": "A change in the social position of children compared with that of their parents is regarded as...",
+        "kk": "Балалардың әлеуметтік жағдайының ата-аналарының жағдайымен салыстырғандағы өзгерісі мынадай деп қарастырылады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "внутрипоколенная мобильность",
+            "en": "intragenerational mobility",
+            "kk": "ұрпақ ішіндегі мобильділік"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "кастовая эндогамия",
+            "en": "caste endogamy",
+            "kk": "касталық эндогамия"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "межпоколенная мобильность",
+            "en": "intergenerational mobility",
+            "kk": "ұрпақаралық мобильділік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "структурная депривация",
+            "en": "structural deprivation",
+            "kk": "құрылымдық депривация"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "ресоциализация",
+            "en": "resocialization",
+            "kk": "ресоциализация"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Сравнение положения детей с положением родителей — межпоколенная (интергенерационная) мобильность; внутрипоколенная сравнивает этапы жизни одного человека.",
+        "en": "Comparing the position of children with that of their parents is intergenerational mobility; intragenerational mobility compares stages in one person's life.",
+        "kk": "Балалардың жағдайын ата-аналарының жағдайымен салыстыру — ұрпақаралық (интергенерациялық) мобильділік; ұрпақ ішіндегі мобильділік бір адамның өмір кезеңдерін салыстырады."
+      }
+    },
+    {
+      "id": 92,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Для сословной системы стратификации характерны...",
+        "en": "The estate system of stratification is characterized by...",
+        "kk": "Стратификацияның сословиелік жүйесіне мыналар тән..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "определение статуса личными достижениями",
+            "en": "the determination of status by personal achievements",
+            "kk": "мәртебенің жеке жетістіктермен айқындалуы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "правовое закрепление социальной позиции",
+            "en": "the legal fixing of social position",
+            "kk": "әлеуметтік жағдайдың құқықтық тұрғыдан бекітілуі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "размытые границы между слоями",
+            "en": "blurred boundaries between strata",
+            "kk": "қабаттар арасындағы шекараның бұлыңғырлығы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "передача принадлежности к сословию по наследству",
+            "en": "the passing of estate membership by inheritance",
+            "kk": "сословиеге тиесіліліктің мұрагерлік жолмен берілуі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "деление общества на буржуазию и пролетариат",
+            "en": "the division of society into the bourgeoisie and the proletariat",
+            "kk": "қоғамның буржуазия мен пролетариатқа бөлінуі"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "explanation": {
+        "ru": "В сословной системе позиция индивида определяется законом и передаётся в основном по наследству.",
+        "en": "In the estate system an individual's position is determined by law and passed on mainly by inheritance.",
+        "kk": "Сословиелік жүйеде жеке адамның жағдайы заңмен айқындалады және негізінен мұрагерлік жолмен беріледі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 57 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 58 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Понятие «противоречивые классовые позиции» в концепции Эрика Олина Райта обозначает...",
+        "en": "The concept of “contradictory class locations” in Erik Olin Wright's concept denotes...",
+        "kk": "Эрик Олин Райт тұжырымдамасындағы «қайшылықты таптық жағдайлар» ұғымы мынаны білдіреді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "положение, при котором человек находится между интересами двух классов",
+            "en": "a position in which a person stands between the interests of two classes",
+            "kk": "адам екі таптың мүдделерінің арасында тұратын жағдай"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "отсутствие у человека какой-либо классовой принадлежности и интересов",
+            "en": "a person's lack of any class affiliation and interests",
+            "kk": "адамның ешқандай таптық тиесілілігі мен мүддесінің болмауы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "борьбу двух основных классов за средства производства и власть",
+            "en": "the struggle of the two main classes for the means of production and power",
+            "kk": "екі негізгі таптың өндіріс құралдары мен билік үшін күресі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "несоответствие уровня образования и квалификации занимаемой должности",
+            "en": "a mismatch between the level of education and qualifications and the position held",
+            "kk": "білім мен біліктілік деңгейінің атқаратын қызметіне сәйкес келмеуі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "членство человека сразу в нескольких политических партиях",
+            "en": "a person's membership in several political parties at once",
+            "kk": "адамның бір мезгілде бірнеше саяси партияның мүшесі болуы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "По Райту человек на промежуточной позиции (менеджер, мелкий наниматель) имеет противоречивые интересы, так как находится между основными классами.",
+        "en": "According to Wright, a person in an intermediate position (a manager, a small employer) has contradictory interests because he or she stands between the main classes.",
+        "kk": "Райт бойынша аралық жағдайдағы адам (менеджер, ұсақ жұмыс беруші) негізгі таптардың арасында тұрғандықтан, қайшылықты мүдделерге ие."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 283 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое положение наиболее точно отражает различие между классовым подходом К. Маркса и многомерной концепцией социальной стратификации М. Вебера?",
+        "en": "Which statement most accurately reflects the difference between K. Marx's class approach and M. Weber's multidimensional concept of social stratification?",
+        "kk": "К. Марксның таптық тәсілі мен М. Вебердің әлеуметтік стратификацияның көп өлшемді тұжырымдамасы арасындағы айырмашылықты қай тұжырым неғұрлым дәл бейнелейді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Маркс определял классы по отношению к собственности, а Вебер учитывал также власть и престиж",
+            "en": "Marx defined classes by their relation to property, while Weber also took power and prestige into account",
+            "kk": "Маркс таптарды меншікке қатынасы бойынша айқындады, ал Вебер билік пен беделді де ескерді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Маркс выделял престиж и власть, а Вебер считал решающей только собственность",
+            "en": "Marx singled out prestige and power, while Weber considered only property decisive",
+            "kk": "Маркс бедел мен билікті бөліп көрсетті, ал Вебер тек меншікті шешуші деп санады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Маркс и Вебер считали основой неравенства лишь доход, различаясь числом классов",
+            "en": "Marx and Weber considered income alone to be the basis of inequality, differing in the number of classes",
+            "kk": "Маркс пен Вебер теңсіздіктің негізі тек табыс деп санады, таптардың санымен ерекшеленді"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Вебер отрицал значение экономического положения, а Маркс — значение собственности",
+            "en": "Weber denied the significance of economic position, and Marx the significance of property",
+            "kk": "Вебер экономикалық жағдайдың маңызын жоққа шығарды, ал Маркс — меншіктің маңызын"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Маркс допускал три независимых измерения, а Вебер — два полярных класса",
+            "en": "Marx allowed three independent dimensions, and Weber two polar classes",
+            "kk": "Маркс үш тәуелсіз өлшемді мойындады, ал Вебер — екі полярлы тапты"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "У Маркса стратификация одномерна (отношение к средствам производства), у Вебера многомерна: собственность, престиж и власть.",
+        "en": "For Marx stratification is one-dimensional (relation to the means of production), for Weber it is multidimensional: property, prestige and power.",
+        "kk": "Марксте стратификация бір өлшемді (өндіріс құралдарына қатынас), Веберде көп өлшемді: меншік, бедел және билік."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 143 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 169 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое обстоятельство позволяет объяснить различие в социальном положении двух индивидов, обладающих примерно схожими доходами, с позиции М. Вебера?",
+        "en": "Which circumstance makes it possible, from M. Weber's standpoint, to explain the difference in the social position of two individuals with roughly similar incomes?",
+        "kk": "М. Вебер тұрғысынан табысы шамамен бірдей екі адамның әлеуметтік жағдайындағы айырмашылықты қандай жағдай түсіндіруге мүмкіндік береді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Различное отношение к средствам производства, определяющее положение человека",
+            "en": "A different relation to the means of production, which determines a person's position",
+            "kk": "Өндіріс құралдарына деген, адамның қоғамдағы жағдайын айқындайтын әртүрлі қатынас"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Различие престижа и стиля жизни статусных групп, а также объёма власти",
+            "en": "A difference in the prestige and lifestyle of status groups, as well as in the amount of power",
+            "kk": "Мәртебелік топтар беделі мен өмір салтының, сондай-ақ билік көлемінің айырмашылығы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Принадлежность к разным кастам, закреплённая законом",
+            "en": "Membership in different castes, fixed by law",
+            "kk": "Заңмен бекітілген әртүрлі касталарға тиесілілік"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Разный культурный капитал, понимаемый как единственный критерий",
+            "en": "Different cultural capital, understood as the only criterion",
+            "kk": "Бірден-бір өлшем деп түсінілетін мәдени капиталдың әртүрлілігі"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Скрытая разница в доходах, не замеченная при сравнении",
+            "en": "A hidden difference in income not noticed in the comparison",
+            "kk": "Салыстыру кезінде байқалмаған табыстағы жасырын айырмашылық"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Вебер разделял экономическое положение (классы), престиж (статусные группы) и власть (партии): при равных доходах люди могут различаться престижем и властью.",
+        "en": "Weber separated economic position (classes), prestige (status groups) and power (parties): with equal incomes, people may differ in prestige and power.",
+        "kk": "Вебер экономикалық жағдайды (таптар), бедел (мәртебелік топтар) және билікті (партиялар) ажыратты: табыс тең болғанда адамдар беделі мен билігі бойынша ерекшеленуі мүмкін."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 218 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 4 Социальная стратификация_2024 (1).pdf",
+          "location": "строка 213 извлечённого текста"
+        }
+      ]
+    }
+  ]
+}

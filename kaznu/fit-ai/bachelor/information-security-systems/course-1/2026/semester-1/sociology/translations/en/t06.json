@@ -1,0 +1,98 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 6,
+  "topic_name": "Family and Modernity",
+  "questions": {
+    "3": {
+      "question": "What function does the social institution of the family perform?",
+      "options": {
+        "A": "Issuing state diplomas of qualification",
+        "B": "Passing laws and monitoring their implementation",
+        "C": "Organizing industrial production",
+        "D": "Raising and socializing children",
+        "E": "Conducting religious rites and services"
+      }
+    },
+    "103": {
+      "question": "The nuclear family in the classification by composition includes...",
+      "options": {
+        "A": "a husband, a wife and their children",
+        "B": "spouses, children and grandparents",
+        "C": "a husband with several wives and children",
+        "D": "several brothers with wives and children",
+        "E": "a woman with several husbands"
+      }
+    },
+    "104": {
+      "question": "The distinguishing feature of a household compared with a family is that it...",
+      "options": {
+        "A": "is based only on the blood kinship of all of its members",
+        "B": "necessarily includes minor children",
+        "C": "unites people by shared domestic life, not requiring kinship",
+        "D": "exists only in rural areas and small towns",
+        "E": "always consists of three generations of relatives"
+      }
+    },
+    "105": {
+      "question": "The extended family differs from the nuclear family in that it includes...",
+      "options": {
+        "A": "only one of the spouses",
+        "B": "cohabitants without registered marriage",
+        "C": "grandparents and other relatives",
+        "D": "domestic servants and hired workers",
+        "E": "neighbors in the community and friends of the family"
+      }
+    },
+    "106": {
+      "question": "The rules prescribing the choice of a marriage partner outside a certain group are called...",
+      "options": {
+        "A": "endogamy",
+        "B": "monogamy",
+        "C": "polygyny",
+        "D": "exogamy",
+        "E": "polyandry"
+      }
+    },
+    "107": {
+      "question": "Endogamy is...",
+      "options": {
+        "A": "a form of marriage of one woman to several husbands",
+        "B": "a union of one man and several women at the same time",
+        "C": "successive marriages of one person to different partners",
+        "D": "the rule of marrying within one's own social group",
+        "E": "a group marriage of several men and several women"
+      }
+    },
+    "108": {
+      "question": "Which function of the family does the passing on of norms of behavior and values to children belong to?",
+      "options": {
+        "A": "Reproductive",
+        "B": "Household",
+        "C": "Economic",
+        "D": "Leisure",
+        "E": "Educational"
+      }
+    },
+    "109": {
+      "question": "Microsociological analysis of the family focuses on the fact that...",
+      "options": {
+        "A": "the family is studied as an institution in a system of other institutions",
+        "B": "the family is regarded as a subsystem for the country's economy",
+        "C": "the dynamics of marriages and divorces in society is analyzed",
+        "D": "the family is studied as a small group: its formation, development and dissolution",
+        "E": "the family serves as the basis of the class structure of society"
+      }
+    },
+    "110": {
+      "question": "At the macrosociological level the family is studied as...",
+      "options": {
+        "A": "a small autonomous group with a life cycle",
+        "B": "a network of roles and emotional ties between spouses",
+        "C": "a social institution in the system of other institutions of society",
+        "D": "an association of people sharing a household without kinship",
+        "E": "a biological group of blood relatives"
+      }
+    }
+  }
+}

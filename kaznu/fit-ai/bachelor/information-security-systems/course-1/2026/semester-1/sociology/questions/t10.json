@@ -1,0 +1,797 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/sociology",
+  "questions": [
+    {
+      "id": 131,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Образовательное неравенство выражается в...",
+        "en": "Educational inequality is expressed in...",
+        "kk": "Білім берудегі теңсіздік мынада көрінеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "обязательности школьного обучения для всех детей",
+            "en": "the compulsory nature of schooling for all children",
+            "kk": "барлық балалар үшін мектептегі оқытудың міндеттілігінде"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "различиях в доступе к образованию у разных групп",
+            "en": "differences in access to education among different groups",
+            "kk": "әртүрлі топтар үшін білімге қолжетімділіктегі айырмашылықтарда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "росте числа образовательных учреждений в стране",
+            "en": "a growing number of educational institutions in the country",
+            "kk": "елдегі білім беру мекемелері санының өсуінде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "передаче культурных норм от поколения к поколению",
+            "en": "the transmission of cultural norms from generation to generation",
+            "kk": "мәдени нормалардың ұрпақтан ұрпаққа берілуінде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "обучении практическим навыкам для повседневной жизни",
+            "en": "the teaching of practical skills for everyday life",
+            "kk": "күнделікті өмірге қажетті практикалық дағдыларды үйретуде"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": {
+        "ru": "Неодинаковые возможности доступа к образованию, особенно высшему, разводят элитарные и неэлитарные слои населения.",
+        "en": "Unequal opportunities of access to education, especially higher education, set elite and non-elite strata of the population apart.",
+        "kk": "Білімге, әсіресе жоғары білімге қолжетімділіктің біркелкі болмауы халықтың элиталық және элиталық емес қабаттарын ажыратады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 253–255 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Экономическая функция образования проявляется прежде всего в...",
+        "en": "The economic function of education shows itself above all in...",
+        "kk": "Білім берудің экономикалық функциясы ең алдымен мынада көрінеді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "воспроизводстве государственной идеологии и господствующего мировоззрения",
+            "en": "the reproduction of the state ideology and the dominant worldview",
+            "kk": "мемлекеттік идеология мен үстем дүниетанымды жаңғыртуда"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "развитии творческой деятельности и совершенствовании национальной культуры",
+            "en": "the development of creative activity and the improvement of national culture",
+            "kk": "шығармашылық қызметті дамытуда және ұлттық мәдениетті жетілдіруде"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "обеспечении господства единой системы социальных норм и ценностей",
+            "en": "ensuring the dominance of a single system of social norms and values",
+            "kk": "бірыңғай әлеуметтік нормалар мен құндылықтар жүйесінің үстемдігін қамтамасыз етуде"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "укреплении внутригрупповой сплочённости среди учащихся и педагогов",
+            "en": "strengthening in-group cohesion among students and teachers",
+            "kk": "оқушылар мен педагогтар арасындағы топ ішілік топтастықты нығайтуда"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "подготовке работников и формировании социально-профессиональной структуры",
+            "en": "training workers and shaping the social and occupational structure",
+            "kk": "қызметкерлерді даярлауда және әлеуметтік-кәсіби құрылымды қалыптастыруда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "К экономическим функциям образования относят прежде всего подготовку работников и формирование социально-профессиональной структуры.",
+        "en": "The economic functions of education are understood chiefly as training workers and shaping the social and occupational structure.",
+        "kk": "Білім берудің экономикалық функцияларына ең алдымен қызметкерлерді даярлау және әлеуметтік-кәсіби құрылымды қалыптастыру жатады."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 522–523 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Культурная функция образования состоит в...",
+        "en": "The cultural function of education consists in...",
+        "kk": "Білім берудің мәдени функциясы мынада..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "воспроизводстве и развитии материальной и нематериальной культуры",
+            "en": "reproducing and developing material and non-material culture",
+            "kk": "материалдық және материалдық емес мәдениетті жаңғырту мен дамытуда"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "подготовке работников с нужными знаниями и навыками",
+            "en": "training workers with the necessary knowledge and skills",
+            "kk": "қажетті білімі мен дағдысы бар қызметкерлерді даярлауда"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "формировании социально-профессиональной структуры общества",
+            "en": "shaping the social and occupational structure of society",
+            "kk": "қоғамның әлеуметтік-кәсіби құрылымын қалыптастыруда"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "передаче ценностей и норм политического поведения",
+            "en": "transmitting the values and norms of political behavior",
+            "kk": "құндылықтар мен саяси мінез-құлық нормаларын беруде"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "социальной селекции и активизации мобильности",
+            "en": "social selection and the stimulation of mobility",
+            "kk": "әлеуметтік іріктеуде және әлеуметтік мобильділікті жандандыруда"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Культурная функция образования заключается в воспроизводстве и развитии материальной и нематериальной культуры разных групп и слоёв.",
+        "en": "The cultural function of education is the reproduction and development of the material and non-material culture of different groups and strata.",
+        "kk": "Білім берудің мәдени функциясы — әртүрлі топтар мен қабаттардың материалдық және материалдық емес мәдениетін жаңғырту мен дамыту."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 542–544 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Массовизация высшего образования характеризуется...",
+        "en": "The massification of higher education is characterized by...",
+        "kk": "Жоғары білімнің жаппай сипат алуы мынамен сипатталады..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "ограничением приёма в вузы кругом привилегированных слоёв",
+            "en": "limiting university admission to a circle of privileged strata",
+            "kk": "жоғары оқу орындарына қабылдауды артықшылықты қабаттар шеңберімен шектеумен"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "сокращением числа студентов в пользу элитных школ и колледжей",
+            "en": "a decrease in the number of students in favor of elite schools and colleges",
+            "kk": "студенттер санын элиталық мектептер мен колледждердің пайдасына қысқартумен"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "расширением доступа к вузам для широких слоёв населения",
+            "en": "wider access to universities for broad sections of the population",
+            "kk": "жоғары оқу орындарына түсуге халықтың кең қабаттарының қолжетімділігін кеңейтумен"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "переходом к исключительно неформальному самообразованию",
+            "en": "a shift to exclusively informal self-education",
+            "kk": "тек бейресми өзін-өзі оқытуға көшумен"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "упразднением профессиональной подготовки во всех вузах страны",
+            "en": "the abolition of vocational training in all universities of the country",
+            "kk": "елдің барлық жоғары оқу орындарында кәсіби даярлықты жоюмен"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Массовизация означает, что высшее образование перестаёт быть привилегией узкой элиты и становится доступным широким слоям населения.",
+        "en": "Massification means that higher education ceases to be the privilege of a narrow elite and becomes accessible to broad sections of the population.",
+        "kk": "Жаппай сипат алу жоғары білімнің тар элитаның артықшылығы болудан қалып, халықтың кең қабаттарына қолжетімді болатынын білдіреді."
+      }
+    },
+    {
+      "id": 135,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Воспроизводство социального неравенства через образование означает...",
+        "en": "The reproduction of social inequality through education means...",
+        "kk": "Білім беру арқылы әлеуметтік теңсіздікті қайта өндіру — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "полное выравнивание шансов выходцев из разных социальных слоёв",
+            "en": "a complete leveling of the chances of people coming from different social strata",
+            "kk": "әртүрлі әлеуметтік қабаттардан шыққандардың мүмкіндіктерін толық теңестіру"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "отмену платного обучения во всех типах школ",
+            "en": "the abolition of paid education in all types of schools",
+            "kk": "мектептердің барлық түрінде ақылы оқытуды жою"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "рост общей грамотности среди взрослого населения",
+            "en": "a rise in general literacy among the adult population",
+            "kk": "ересек халық арасында жалпы сауаттылықтың өсуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "закрепление через школу и вуз различий в капиталах между поколениями",
+            "en": "the consolidation of capital differences between generations through school and university",
+            "kk": "мектеп пен жоғары оқу орны арқылы ұрпақтар арасындағы капиталдар айырмашылығын бекіту"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "замену формального обучения самообразованием",
+            "en": "the replacement of formal education by self-education",
+            "kk": "формалды оқытуды өзін-өзі оқытумен ауыстыру"
+          }
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": {
+        "ru": "По Бурдье, система образования воспроизводит структуру распределения культурного капитала между классами и тем самым закрепляет неравенство.",
+        "en": "According to Bourdieu, the education system reproduces the distribution of cultural capital among classes and thereby entrenches inequality.",
+        "kk": "Бурдье бойынша, білім беру жүйесі таптар арасындағы мәдени капиталдың бөліну құрылымын қайта өндіреді және осылайша теңсіздікті бекітеді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 291–294 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": {
+        "ru": "Цифровое неравенство в образовании связано с...",
+        "en": "Digital inequality in education is related to...",
+        "kk": "Білім берудегі цифрлық теңсіздік мыналарға байланысты..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "различиями в доступе к интернету и цифровым навыкам у учащихся",
+            "en": "differences in students' access to the internet and digital skills",
+            "kk": "оқушылардың интернетке қолжетімділігі мен цифрлық дағдыларының айырмашылығына"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "разной формой собственности образовательных учреждений",
+            "en": "different forms of ownership of educational institutions",
+            "kk": "білім беру мекемелері меншік нысанының әртүрлілігіне"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "различием гуманитарного и естественнонаучного профилей",
+            "en": "the difference between humanities and natural-science tracks",
+            "kk": "гуманитарлық және жаратылыстану-ғылыми бейіндер арасындағы айырмашылыққа"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "разной продолжительностью учебного года в школах",
+            "en": "different lengths of the school year",
+            "kk": "мектептерде оқу жылы ұзақтығының әртүрлілігіне"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "разделением школ по уровню образования",
+            "en": "the division of schools by level of education",
+            "kk": "мектептердің білім деңгейі бойынша бөлінуіне"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Цифровое неравенство возникает из-за разного доступа к устройствам и интернету и разного уровня цифровых навыков у учащихся.",
+        "en": "Digital inequality arises from unequal access to devices and the internet and from different levels of students' digital skills.",
+        "kk": "Цифрлық теңсіздік құрылғылар мен интернетке қолжетімділіктің және оқушылардың цифрлық дағдылары деңгейінің әртүрлілігінен туындайды."
+      }
+    },
+    {
+      "id": 172,
+      "topic_id": 10,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Четыре из перечисленных положений относятся к механизмам воспроизводства образовательного неравенства, тогда как одно характеризует иной аспект функционирования образовательной системы. Определите его.",
+        "en": "Four of the statements listed refer to mechanisms that reproduce educational inequality, while one describes a different aspect of how the education system functions. Identify it.",
+        "kk": "Берілген қағидалардың төртеуі білім беру теңсіздігін қайта өндіру тетіктеріне жатады, ал біреуі білім беру жүйесі жұмыс істеуінің басқа жағын сипаттайды. Соны анықтаңыз."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Семьи с высоким культурным капиталом передают детям навыки, облегчающие школьный успех",
+            "en": "Families with high cultural capital pass on to their children skills that make school success easier",
+            "kk": "Мәдени капиталы жоғары отбасылар балаларына мектептегі жетістікті жеңілдететін дағдыларды береді"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Содержание образования определяется господствующей группой, и её культура выдаётся за норму",
+            "en": "The content of education is determined by the dominant group, and its culture is presented as the norm",
+            "kk": "Білім беру мазмұнын үстем топ айқындайды, оның мәдениеті норма ретінде көрсетіледі"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Неодинаковый доступ к высшему образованию разводит элитарные и неэлитарные слои населения",
+            "en": "Unequal access to higher education sets elite and non-elite strata apart",
+            "kk": "Жоғары білімге қолжетімділіктің біркелкі еместігі халықтың элиталық және элиталық емес қабаттарын ажыратады"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Образовательный выбор зависит от экономических и социальных ресурсов семьи ученика",
+            "en": "Educational choice depends on the economic and social resources of the student's family",
+            "kk": "Білім беру таңдауы оқушы отбасының экономикалық және әлеуметтік ресурстарына байланысты"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Образовательные учреждения различают по уровню, форме обучения и направлению подготовки",
+            "en": "Educational institutions are distinguished by level, form of study and field of training",
+            "kk": "Білім беру мекемелері деңгейі, оқыту нысаны және даярлау бағыты бойынша ажыратылады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Классификация учреждений по уровню, форме и направлению описывает структуру образования, а остальные положения показывают, как система передаёт и закрепляет неравенство.",
+        "en": "Classifying institutions by level, form and field describes the structure of education, whereas the other statements show how the system transmits and entrenches inequality.",
+        "kk": "Мекемелерді деңгейі, нысаны және бағыты бойынша жіктеу білім беру құрылымын сипаттайды, ал қалған қағидалар жүйенің теңсіздікті қалай беретінін және бекітетінін көрсетеді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 434–446 извлечённого текста"
+        },
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 311–312 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "topic_id": 10,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": {
+        "ru": "Какое положение позволяет критически оценивать объяснение образовательного неравенства исключительно различиями в индивидуальных способностях учащихся?",
+        "en": "Which statement makes it possible to critically assess the explanation of educational inequality solely by differences in students' individual abilities?",
+        "kk": "Қандай қағида білім беру теңсіздігін тек оқушылардың жеке қабілеттеріндегі айырмашылықтармен түсіндіруді сыни тұрғыдан бағалауға мүмкіндік береді?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "Школьный успех зависит от культурного капитала семьи, а не только от способностей",
+            "en": "School success depends on the family's cultural capital, and not only on abilities",
+            "kk": "Мектептегі жетістік тек қабілетке емес, отбасының мәдени капиталына да байланысты"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "Школьный успех полностью определяется врождённым уровнем интеллекта ребёнка",
+            "en": "School success is entirely determined by a child's innate level of intelligence",
+            "kk": "Мектептегі жетістік толығымен баланың туа біткен интеллект деңгейімен айқындалады"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "Учебные результаты зависят прежде всего от личного усердия каждого ученика",
+            "en": "Academic results depend above all on each student's personal diligence",
+            "kk": "Оқу нәтижелері ең алдымен әр оқушының жеке еңбекқорлығына байланысты"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "Высокие оценки в школе гарантируют поступление выпускника в престижный вуз",
+            "en": "High grades at school guarantee a graduate's admission to a prestigious university",
+            "kk": "Мектептегі жоғары бағалар түлектің беделді жоғары оқу орнына түсуіне кепіл береді"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "Конкуренция между абитуриентами стимулирует развитие их способностей",
+            "en": "Competition among applicants stimulates the development of their abilities",
+            "kk": "Абитуриенттер арасындағы бәсеке олардың қабілеттерінің дамуын ынталандырады"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Объяснение через способности критикуется тезисом Бурдье: система образования воспроизводит распределение культурного капитала между классами, и школьный успех зависит от него.",
+        "en": "The explanation through abilities is criticized by Bourdieu's thesis: the education system reproduces the distribution of cultural capital among classes, and school success depends on it.",
+        "kk": "Қабілет арқылы түсіндіру Бурдье тезисі тұрғысынан сынға алынады: білім беру жүйесі таптар арасындағы мәдени капиталдың бөлінуін қайта өндіреді, ал мектептегі жетістік соған байланысты."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 292–294 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Рассмотрение образования как социального института предполагает изучение...",
+        "en": "Considering education as a social institution implies studying...",
+        "kk": "Білім беруді әлеуметтік институт ретінде қарастыру мынаны зерттеуді көздейді..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "индивидуальных психологических различий между учащимися",
+            "en": "individual psychological differences among students",
+            "kk": "оқушылар арасындағы жеке-дара психологиялық айырмашылықтарды"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "биологических основ способности человека к обучению",
+            "en": "the biological basis of a person's natural ability to learn",
+            "kk": "адамның оқуға қабілетінің биологиялық негіздерін"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "совокупности норм, статусов, ролей и организаций образования",
+            "en": "the set of norms, statuses, roles and organizations of education",
+            "kk": "білім беру нормалары, мәртебелері, рөлдері мен ұйымдарының жиынтығын"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "религиозных обрядов в различных культурах и обществах",
+            "en": "religious rites in various cultures and societies",
+            "kk": "әртүрлі мәдениеттер мен қоғамдардағы діни ғұрыптарды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "методов проведения полевых социологических исследований",
+            "en": "methods of conducting field sociological research",
+            "kk": "далалық әлеуметтік зерттеулер жүргізу әдістерін"
+          }
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": {
+        "ru": "Социальный институт образования представляет собой систему норм, статусов, ролей и организаций, опирающихся на персонал, аппарат управления и особые процедуры.",
+        "en": "The social institution of education is a system of norms, statuses, roles and organizations relying on staff, a management apparatus and special procedures.",
+        "kk": "Білім берудің әлеуметтік институты — персоналға, басқару аппаратына және ерекше рәсімдерге сүйенетін нормалар, мәртебелер, рөлдер және ұйымдар жүйесі."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 394–397 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "К социологии образования непосредственно относится вопрос...",
+        "en": "The sociology of education is directly concerned with the question of...",
+        "kk": "Білім беру әлеуметтануына қандай сұрақ тікелей қатысты?"
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "о причинах роста самоубийств среди городского населения",
+            "en": "the reasons for rising suicide among the urban population",
+            "kk": "Қала халқы арасында өзін-өзі өлтіру санының өсу себептері туралы"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "о формах религиозных обрядов в разных конфессиях",
+            "en": "the forms of religious rites in different confessions",
+            "kk": "Әртүрлі конфессиялардағы діни ғұрыптардың нысандары туралы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "о темпах урбанизации в развивающихся странах",
+            "en": "the pace of urbanization in developing countries",
+            "kk": "Дамушы елдердегі урбандалу қарқыны туралы"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "о причинах международной миграции рабочей силы",
+            "en": "the causes of international labor migration",
+            "kk": "Жұмыс күшінің халықаралық көші-қонының себептері туралы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "о доступности ступеней образования для разных социальных групп",
+            "en": "the accessibility of education levels to different social groups",
+            "kk": "Түрлі әлеуметтік топтар үшін білім беру сатыларының қолжетімділігі туралы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": {
+        "ru": "Социология образования исследует, в том числе, доступность видов и ступеней образования для разных категорий населения и социальных групп.",
+        "en": "The sociology of education studies, among other things, the accessibility of types and levels of education to different categories of the population and social groups.",
+        "kk": "Білім беру әлеуметтануы, басқа да мәселелермен қатар, халықтың әртүрлі санаттары мен әлеуметтік топтары үшін білім беру түрлері мен сатыларының қолжетімділігін зерттейді."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 245–246 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "multiple_choice",
+      "question": {
+        "ru": "Культурный капитал, значимый для образовательных достижений, включает...",
+        "en": "Cultural capital, which matters for educational attainment, includes...",
+        "kk": "Білім беру жетістіктері үшін маңызды мәдени капитал мыналарды қамтиды..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "денежные сбережения и недвижимость семьи",
+            "en": "a family's cash savings and real estate",
+            "kk": "отбасының ақшалай жинағы мен жылжымайтын мүлкін"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "полученное образование и учебные степени",
+            "en": "education received and academic degrees",
+            "kk": "алынған білім мен ғылыми дәрежелерді"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "полезные знакомства и деловые связи",
+            "en": "useful acquaintances and business connections",
+            "kk": "пайдалы танысулар мен іскерлік байланыстарды"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "знания, навыки и вкусы, усвоенные в семье",
+            "en": "knowledge, skills and tastes acquired in the family",
+            "kk": "отбасында меңгерілген білім, дағды және талғамдарды"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "доходы от собственности и ценные бумаги",
+            "en": "income from property and securities",
+            "kk": "меншіктен түскен табыс пен бағалы қағаздарды"
+          }
+        }
+      ],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
+      "explanation": {
+        "ru": "Культурный капитал (по Бурдье) связан с образованием, знаниями и культурными навыками, тогда как деньги и собственность составляют экономический, а связи социальный капитал.",
+        "en": "Cultural capital (according to Bourdieu) is linked to education, knowledge and cultural skills, whereas money and property make up economic capital and connections make up social capital.",
+        "kk": "Мәдени капитал (Бурдье бойынша) білім алуға, білім мен мәдени дағдыларға байланысты, ал ақша мен меншік экономикалық, байланыстар әлеуметтік капиталды құрайды."
+      },
+      "source_references": [
+        {
+          "file": "Лекции/Лекция 10 Образование.pdf",
+          "location": "строки 297–299 извлечённого текста"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": {
+        "ru": "Межпоколенческая образовательная мобильность — это...",
+        "en": "Intergenerational educational mobility is...",
+        "kk": "Ұрпақаралық білім мобильділігі — бұл..."
+      },
+      "options": [
+        {
+          "id": "A",
+          "text": {
+            "ru": "изменение образовательного уровня детей по сравнению с уровнем родителей",
+            "en": "the change in children's educational level relative to their parents'",
+            "kk": "балалардың білім деңгейінің ата-ана деңгейімен салыстырғанда өзгеруі"
+          }
+        },
+        {
+          "id": "B",
+          "text": {
+            "ru": "повышение образовательного уровня одного человека на протяжении жизни",
+            "en": "the rise in one person's educational level over the course of life",
+            "kk": "бір адамның өмір бойы білім деңгейін арттыруы"
+          }
+        },
+        {
+          "id": "C",
+          "text": {
+            "ru": "переезд студентов в вузы других стран для обучения",
+            "en": "students moving to universities in other countries to study",
+            "kk": "студенттердің оқу үшін басқа елдердің жоғары оқу орындарына көшуі"
+          }
+        },
+        {
+          "id": "D",
+          "text": {
+            "ru": "переход ученика из одной школы в другую в пределах города",
+            "en": "a pupil's transfer from one school to another within a city",
+            "kk": "оқушының қала ішінде бір мектептен екіншісіне ауысуы"
+          }
+        },
+        {
+          "id": "E",
+          "text": {
+            "ru": "смена профессии работника в течение трудовой карьеры",
+            "en": "a worker's change of profession during their career",
+            "kk": "қызметкердің еңбек мансабы кезінде кәсібін ауыстыруы"
+          }
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": {
+        "ru": "Межпоколенческая мобильность сопоставляет положение детей и родителей, здесь образовательный уровень поколений.",
+        "en": "Intergenerational mobility compares the position of children and parents, here the educational level of the generations.",
+        "kk": "Ұрпақаралық мобильділік балалар мен ата-аналардың жағдайын салыстырады, мұнда — ұрпақтардың білім деңгейін."
+      }
+    }
+  ]
+}

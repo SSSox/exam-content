@@ -1,0 +1,128 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 5,
+  "topic_name": "Socialization and Identity",
+  "questions": {
+    "63": {
+      "question": "What is called a social role in sociology?",
+      "options": {
+        "A": "A set of traits that distinguish a person from other people",
+        "B": "The expected behavior of a person corresponding to their status",
+        "C": "A person's ability to influence the behavior of others",
+        "D": "The process of assimilating the norms and values of society",
+        "E": "A stable system of values of a social group"
+      }
+    },
+    "66": {
+      "question": "The American sociologist and social psychologist, author of the “looking-glass self” theory and one of the founders of small-group theory, is...",
+      "options": {
+        "A": "Erving Goffman",
+        "B": "Herbert Blumer",
+        "C": "Charles H. Cooley",
+        "D": "Robert K. Merton",
+        "E": "Talcott Parsons"
+      }
+    },
+    "69": {
+      "question": "The concept denoting a person's position in the system of social relations is...",
+      "options": {
+        "A": "a social norm",
+        "B": "a social sanction",
+        "C": "social control",
+        "D": "social status",
+        "E": "social distance"
+      }
+    },
+    "94": {
+      "question": "Socialization is the process of...",
+      "options": {
+        "A": "an individual's transition from one social group to another",
+        "B": "the distribution of privileges among social strata",
+        "C": "an individual's assimilation of the values and norms of society",
+        "D": "the creation of public institutions by the state",
+        "E": "the exchange of resources between rich and poor countries"
+      }
+    },
+    "95": {
+      "question": "Primary socialization is associated first of all with...",
+      "options": {
+        "A": "mastering a new profession in adulthood",
+        "B": "retraining after a change of residence",
+        "C": "the influence of the work team on the employee at work",
+        "D": "the influence of the family on the child in early childhood",
+        "E": "the influence of the mass media on adults"
+      }
+    },
+    "96": {
+      "question": "The revision of previously established norms and the mastering of new patterns of behavior when living conditions change substantially is called...",
+      "options": {
+        "A": "primary socialization",
+        "B": "social stratification",
+        "C": "resocialization",
+        "D": "horizontal mobility",
+        "E": "institutionalization"
+      }
+    },
+    "97": {
+      "question": "Social identity denotes...",
+      "options": {
+        "A": "a set of unique personal traits that distinguish a person",
+        "B": "the amount of income relative to the subsistence minimum",
+        "C": "a person's conscious belonging to social communities",
+        "D": "a list of an employee's job duties",
+        "E": "a country's position in the world hierarchy"
+      }
+    },
+    "98": {
+      "question": "Secondary socialization involves...",
+      "options": {
+        "A": "acquiring the first skills of speech and behavior in early childhood in the family",
+        "B": "mastering new roles and norms outside the family, at school and at work",
+        "C": "an adult's complete rejection of all former norms and values",
+        "D": "passing on to children the biological properties and hereditary traits of parents",
+        "E": "the inheritance by children of the social position and status of their parents"
+      }
+    },
+    "99": {
+      "question": "The agents of socialization are...",
+      "options": {
+        "A": "the family",
+        "B": "a person's genotype",
+        "C": "the school",
+        "D": "a personality's temperament",
+        "E": "the mass media"
+      }
+    },
+    "100": {
+      "question": "What is the essence of George Herbert Mead's concept “the formation of the social self”?",
+      "options": {
+        "A": "The self is fully determined by biological instincts and does not depend on society and culture",
+        "B": "The self arises in interaction through taking the roles of others and the “generalized other”",
+        "C": "The self is determined only by a person's relation to the means of production and class position",
+        "D": "The self is the result of calculating benefit in the exchange of rewards with partners",
+        "E": "The self is formed passively, according to roles rigidly set by the social structure and institutions"
+      }
+    },
+    "101": {
+      "question": "The concept of the “looking-glass self” was developed by...",
+      "options": {
+        "A": "George Herbert Mead",
+        "B": "Émile Durkheim",
+        "C": "Max Weber",
+        "D": "Charles H. Cooley",
+        "E": "Jürgen Habermas"
+      }
+    },
+    "171": {
+      "question": "A child follows rules in the presence of a caregiver but later begins to observe them without supervision. Which mechanism corresponds to George Herbert Mead's idea of the “generalized other”?",
+      "options": {
+        "A": "The child seeks to avoid punishment specifically from this caregiver",
+        "B": "The child imitates the model of one significant adult without grasping the rules",
+        "C": "The child internalizes the community's general expectations and follows them unsupervised",
+        "D": "The child receives a material reward for each observance of a rule",
+        "E": "The child follows the rules by innate instinct, regardless of social contacts"
+      }
+    }
+  }
+}

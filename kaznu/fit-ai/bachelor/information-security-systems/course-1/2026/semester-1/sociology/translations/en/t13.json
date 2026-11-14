@@ -1,0 +1,88 @@
+{
+  "bank": "kaznu/sociology",
+  "locale": "en",
+  "topic_id": 13,
+  "topic_name": "Health and Medicine",
+  "questions": {
+    "148": {
+      "question": "The sociological analysis of health focuses on...",
+      "options": {
+        "A": "the biochemical mechanisms of disease, laboratory diagnostics and pharmacology",
+        "B": "the technique of surgical operations, the choice of drugs and methods of rehabilitation",
+        "C": "statistics of marriages, divorces and births in families of different regions of the country",
+        "D": "the patient's personal experiences, dreams, moods and inner motives",
+        "E": "the links between health and living conditions, social relations and institutions"
+      }
+    },
+    "149": {
+      "question": "Social epidemiology studies...",
+      "options": {
+        "A": "the effectiveness of surgical methods of treatment in different clinics of the country",
+        "B": "the causes and spread of diseases in different social groups of the population",
+        "C": "the biological mechanisms of hereditary diseases in individual people",
+        "D": "the cost of medicines and the development of pharmaceutical markets worldwide",
+        "E": "the psychological characteristics of doctors and their attitude to patients"
+      }
+    },
+    "150": {
+      "question": "The social determinants of health include...",
+      "options": {
+        "A": "working, living and educational conditions, and access to public resources",
+        "B": "blood type, heredity, sex, age and a person's build",
+        "C": "hemoglobin level, blood pressure, pulse, body temperature and weight",
+        "D": "type of nervous system, temperament, and acuity of vision and hearing",
+        "E": "the chemical composition of drugs, dosages, forms of release and shelf life"
+      }
+    },
+    "151": {
+      "question": "Stigmatization associated with illness means...",
+      "options": {
+        "A": "a person's voluntary refusal of treatment out of disbelief in the power of doctors and medicines",
+        "B": "a person's legal release from work because of a sick leave certificate issued to them",
+        "C": "the social devaluation of a person because of a condition or diagnosis attributed to them",
+        "D": "the scientific classification of human diseases by their causes, symptoms and course",
+        "E": "heightened attention from society to a person because of their merits, titles and awards"
+      }
+    },
+    "152": {
+      "question": "The concept of the sick role is associated with the name of...",
+      "options": {
+        "A": "Erving Goffman",
+        "B": "Émile Durkheim",
+        "C": "Max Weber",
+        "D": "Talcott Parsons",
+        "E": "Herbert Spencer"
+      }
+    },
+    "153": {
+      "question": "Health-related quality of life covers...",
+      "options": {
+        "A": "the cost of medicines, the number of hospitals and the size of medical staff",
+        "B": "perceived well-being and the capacity for everyday functioning",
+        "C": "only the absence of diagnoses and the results of a patient's laboratory tests",
+        "D": "the revenues of pharmaceutical companies, sales volumes and export quotas",
+        "E": "biological age, heredity, height and body weight"
+      }
+    },
+    "154": {
+      "question": "The accessibility of medical care is characterized by...",
+      "options": {
+        "A": "the high qualifications of doctors and modern equipment in the leading clinics of the capital",
+        "B": "the level of patient satisfaction with the doctor's work and the politeness of staff in the outpatient clinic",
+        "C": "the share of state spending on health care in the country's gross domestic product",
+        "D": "the life expectancy of the population and the death rate from heart disease in the country",
+        "E": "the possibility of obtaining the necessary care given financial, territorial and organizational conditions"
+      }
+    },
+    "155": {
+      "question": "Unmet need for medical care means a situation in which a person...",
+      "options": {
+        "A": "needs care but does not receive it",
+        "B": "receives care although they do not need it",
+        "C": "seeks care and receives it immediately",
+        "D": "is healthy and has regular check-ups",
+        "E": "pays for treatment with insurance"
+      }
+    }
+  }
+}
