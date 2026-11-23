@@ -1,0 +1,1206 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 144,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete with be going to: I ___ study tonight.",
+      "options": [
+        {
+          "id": "A",
+          "text": "am going to"
+        },
+        {
+          "id": "B",
+          "text": "going to am"
+        },
+        {
+          "id": "C",
+          "text": "are going to"
+        },
+        {
+          "id": "D",
+          "text": "am go to"
+        },
+        {
+          "id": "E",
+          "text": "is going to"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Use am going to with I.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete with be going to: They ___ visit their aunt.",
+      "options": [
+        {
+          "id": "A",
+          "text": "am going to"
+        },
+        {
+          "id": "B",
+          "text": "are go to"
+        },
+        {
+          "id": "C",
+          "text": "is going to"
+        },
+        {
+          "id": "D",
+          "text": "are going to"
+        },
+        {
+          "id": "E",
+          "text": "going to are"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Use are going to with they.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: She is going to ___ a new course.",
+      "options": [
+        {
+          "id": "A",
+          "text": "to start"
+        },
+        {
+          "id": "B",
+          "text": "starts"
+        },
+        {
+          "id": "C",
+          "text": "start"
+        },
+        {
+          "id": "D",
+          "text": "started"
+        },
+        {
+          "id": "E",
+          "text": "starting"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Going to is followed by a base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct question about a plan to travel alone.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Is you going to travel alone?"
+        },
+        {
+          "id": "B",
+          "text": "Are you going travel alone?"
+        },
+        {
+          "id": "C",
+          "text": "Are going you to travel alone?"
+        },
+        {
+          "id": "D",
+          "text": "Do you going to travel alone?"
+        },
+        {
+          "id": "E",
+          "text": "Are you going to travel alone?"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Put are before the subject in this question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct negative sentence about a plan not to fly.",
+      "options": [
+        {
+          "id": "A",
+          "text": "We aren't going to fly."
+        },
+        {
+          "id": "B",
+          "text": "We aren't going fly."
+        },
+        {
+          "id": "C",
+          "text": "We don't going to fly."
+        },
+        {
+          "id": "D",
+          "text": "We not going to fly."
+        },
+        {
+          "id": "E",
+          "text": "We isn't going to fly."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Use aren't going to with we.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: What ___ Amir going to do after class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "is"
+        },
+        {
+          "id": "B",
+          "text": "are"
+        },
+        {
+          "id": "C",
+          "text": "do"
+        },
+        {
+          "id": "D",
+          "text": "does"
+        },
+        {
+          "id": "E",
+          "text": "am"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Use is with the singular subject Amir.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Are they going to stay? — Yes, they ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "do"
+        },
+        {
+          "id": "B",
+          "text": "does"
+        },
+        {
+          "id": "C",
+          "text": "are"
+        },
+        {
+          "id": "D",
+          "text": "is"
+        },
+        {
+          "id": "E",
+          "text": "have"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The short answer repeats are.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the sentence that explicitly expresses a future intention with going to.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I am going to learn French next year."
+        },
+        {
+          "id": "B",
+          "text": "I learn French on Mondays."
+        },
+        {
+          "id": "C",
+          "text": "I have learned ten French words."
+        },
+        {
+          "id": "D",
+          "text": "I learned French last year."
+        },
+        {
+          "id": "E",
+          "text": "I am learning French right now."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Be going to can express a future plan or intention.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: Look at those dark clouds! It ___ rain.",
+      "options": [
+        {
+          "id": "A",
+          "text": "are going to"
+        },
+        {
+          "id": "B",
+          "text": "am going to"
+        },
+        {
+          "id": "C",
+          "text": "is going to"
+        },
+        {
+          "id": "D",
+          "text": "is go to"
+        },
+        {
+          "id": "E",
+          "text": "going is to"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Present evidence supports the prediction with going to.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: My parents are going to ___ a hotel online.",
+      "options": [
+        {
+          "id": "A",
+          "text": "booked"
+        },
+        {
+          "id": "B",
+          "text": "booking"
+        },
+        {
+          "id": "C",
+          "text": "books"
+        },
+        {
+          "id": "D",
+          "text": "book"
+        },
+        {
+          "id": "E",
+          "text": "to book"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The main verb after going to stays in the base form.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct question about a plan.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Where do you going to stay?"
+        },
+        {
+          "id": "B",
+          "text": "Where are you going stay?"
+        },
+        {
+          "id": "C",
+          "text": "Where are you going to stay?"
+        },
+        {
+          "id": "D",
+          "text": "Where are going you to stay?"
+        },
+        {
+          "id": "E",
+          "text": "Where you are going to stay?"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Use question word + are + subject + going to + base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: I bought some vegetables because I ___ cook dinner.",
+      "options": [
+        {
+          "id": "A",
+          "text": "are going to"
+        },
+        {
+          "id": "B",
+          "text": "am going"
+        },
+        {
+          "id": "C",
+          "text": "is going to"
+        },
+        {
+          "id": "D",
+          "text": "going am to"
+        },
+        {
+          "id": "E",
+          "text": "am going to"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The sentence describes a planned action with I.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Where do passengers usually leave checked suitcases before a flight?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At the hotel reception"
+        },
+        {
+          "id": "B",
+          "text": "At check-in or bag drop"
+        },
+        {
+          "id": "C",
+          "text": "At a bus shelter"
+        },
+        {
+          "id": "D",
+          "text": "At baggage reclaim after arrival"
+        },
+        {
+          "id": "E",
+          "text": "At a railway platform"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Checked baggage is handed over before boarding.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Which document usually shows the gate and seat for your flight?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A boarding pass"
+        },
+        {
+          "id": "B",
+          "text": "A library card"
+        },
+        {
+          "id": "C",
+          "text": "A hotel postcard"
+        },
+        {
+          "id": "D",
+          "text": "A shopping receipt"
+        },
+        {
+          "id": "E",
+          "text": "A restaurant menu"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "A boarding pass contains flight boarding information.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "What do passengers do at a departure gate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buy a train season ticket"
+        },
+        {
+          "id": "B",
+          "text": "Pick up checked bags after landing"
+        },
+        {
+          "id": "C",
+          "text": "Wait to board their flight"
+        },
+        {
+          "id": "D",
+          "text": "Return a library book"
+        },
+        {
+          "id": "E",
+          "text": "Collect a hotel key"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The departure gate is the boarding point.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which area do you usually visit to collect your checked suitcase after landing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Check-in desk before departure"
+        },
+        {
+          "id": "B",
+          "text": "Security queue before departure"
+        },
+        {
+          "id": "C",
+          "text": "Departure gate"
+        },
+        {
+          "id": "D",
+          "text": "Aircraft cockpit"
+        },
+        {
+          "id": "E",
+          "text": "Baggage reclaim"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Baggage reclaim is for arriving passengers' checked luggage.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "An airport screen says DELAYED. What does it mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ticket is free."
+        },
+        {
+          "id": "B",
+          "text": "The flight has no passengers."
+        },
+        {
+          "id": "C",
+          "text": "The flight has already landed on time."
+        },
+        {
+          "id": "D",
+          "text": "The airport is changing its name."
+        },
+        {
+          "id": "E",
+          "text": "The flight is later than planned."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Delayed means running behind schedule.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "An airport screen says CANCELLED. What does it mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The baggage is already at home."
+        },
+        {
+          "id": "B",
+          "text": "The ticket has a lower seat number."
+        },
+        {
+          "id": "C",
+          "text": "The flight is boarding normally."
+        },
+        {
+          "id": "D",
+          "text": "The flight will not operate as scheduled."
+        },
+        {
+          "id": "E",
+          "text": "The plane is leaving early."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Cancelled means the scheduled service is not taking place.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "What is hand luggage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only a bag belonging to the pilot"
+        },
+        {
+          "id": "B",
+          "text": "Only bags left at home"
+        },
+        {
+          "id": "C",
+          "text": "Only goods bought after a flight"
+        },
+        {
+          "id": "D",
+          "text": "Only suitcases sent in the hold"
+        },
+        {
+          "id": "E",
+          "text": "Bags you take into the aircraft cabin"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Hand luggage travels with the passenger in the cabin.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which verb means get onto a plane?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arrive"
+        },
+        {
+          "id": "B",
+          "text": "Collect"
+        },
+        {
+          "id": "C",
+          "text": "Unpack"
+        },
+        {
+          "id": "D",
+          "text": "Land"
+        },
+        {
+          "id": "E",
+          "text": "Board"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "To board means to get onto a vehicle such as an aircraft.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In which word is g pronounced /dʒ/?",
+      "options": [
+        {
+          "id": "A",
+          "text": "garden"
+        },
+        {
+          "id": "B",
+          "text": "give"
+        },
+        {
+          "id": "C",
+          "text": "gym"
+        },
+        {
+          "id": "D",
+          "text": "get"
+        },
+        {
+          "id": "E",
+          "text": "go"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Gym begins with /dʒ/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In which word is g pronounced /ɡ/?",
+      "options": [
+        {
+          "id": "A",
+          "text": "giraffe"
+        },
+        {
+          "id": "B",
+          "text": "gym"
+        },
+        {
+          "id": "C",
+          "text": "gentle"
+        },
+        {
+          "id": "D",
+          "text": "gate"
+        },
+        {
+          "id": "E",
+          "text": "giant"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Gate begins with the hard g sound /ɡ/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Flight 218 was due at 14:00, but the screen now shows 15:30. How long is the delay?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One hour"
+        },
+        {
+          "id": "B",
+          "text": "Half an hour"
+        },
+        {
+          "id": "C",
+          "text": "One and a half hours"
+        },
+        {
+          "id": "D",
+          "text": "Two hours"
+        },
+        {
+          "id": "E",
+          "text": "Three hours"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The difference between 14:00 and 15:30 is 90 minutes.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence about their plan. “They’ve decided on a holiday by train. They ___ during the school break.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "is going to travel"
+        },
+        {
+          "id": "B",
+          "text": "are travel"
+        },
+        {
+          "id": "C",
+          "text": "going to travel"
+        },
+        {
+          "id": "D",
+          "text": "are going to travel"
+        },
+        {
+          "id": "E",
+          "text": "are going travel"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "They takes are, followed by going to and the base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 394,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "“Look at those dark clouds. It ___ rain.” Which phrase makes a prediction based on what you can see?",
+      "options": [
+        {
+          "id": "A",
+          "text": "are going to"
+        },
+        {
+          "id": "B",
+          "text": "is going to"
+        },
+        {
+          "id": "C",
+          "text": "has going to"
+        },
+        {
+          "id": "D",
+          "text": "going"
+        },
+        {
+          "id": "E",
+          "text": "is go to"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Be going to can express a prediction based on present evidence.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 395,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "At the airport, what does “proceed to gate 12” ask passengers to do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buy a ticket at the information desk."
+        },
+        {
+          "id": "B",
+          "text": "Go to the place where they will board."
+        },
+        {
+          "id": "C",
+          "text": "Get a new passport."
+        },
+        {
+          "id": "D",
+          "text": "Leave through the main exit."
+        },
+        {
+          "id": "E",
+          "text": "Collect their suitcases after landing."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Passengers go to their departure gate to board the flight.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 396,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Where do passengers normally show items for safety screening after check-in?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At a boarding gate after the flight"
+        },
+        {
+          "id": "B",
+          "text": "At the taxi rank"
+        },
+        {
+          "id": "C",
+          "text": "At security"
+        },
+        {
+          "id": "D",
+          "text": "At baggage reclaim"
+        },
+        {
+          "id": "E",
+          "text": "At the currency exchange desk"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Passengers and their hand luggage are screened at security.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 397,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which word starts with /dʒ/, the same first sound as “giant”?",
+      "options": [
+        {
+          "id": "A",
+          "text": "gold"
+        },
+        {
+          "id": "B",
+          "text": "guess"
+        },
+        {
+          "id": "C",
+          "text": "gentle"
+        },
+        {
+          "id": "D",
+          "text": "give"
+        },
+        {
+          "id": "E",
+          "text": "garden"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Gentle begins with the soft g sound /dʒ/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "What does “connecting flight” mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A flight that returns to its starting airport without landing"
+        },
+        {
+          "id": "B",
+          "text": "A flight used only by airport workers"
+        },
+        {
+          "id": "C",
+          "text": "A later flight you take to continue the same journey"
+        },
+        {
+          "id": "D",
+          "text": "A flight for people who have missed check-in"
+        },
+        {
+          "id": "E",
+          "text": "A bus to the arrival hall"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "A connecting flight takes you from an intermediate airport towards your destination.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 399,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the notice. “Flight 406 now leaves from gate 22. Boarding starts at 17:10. The departure time is still 17:40.” What has changed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The flight number"
+        },
+        {
+          "id": "B",
+          "text": "The destination"
+        },
+        {
+          "id": "C",
+          "text": "The departure time"
+        },
+        {
+          "id": "D",
+          "text": "The date"
+        },
+        {
+          "id": "E",
+          "text": "The gate"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Now leaves from gate 22 signals the new gate. The departure time is unchanged.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 7, File 3A",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

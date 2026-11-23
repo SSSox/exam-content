@@ -1,0 +1,1166 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 328,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: I think it ___ rain tomorrow.",
+      "options": [
+        {
+          "id": "A",
+          "text": "will"
+        },
+        {
+          "id": "B",
+          "text": "is will"
+        },
+        {
+          "id": "C",
+          "text": "wills"
+        },
+        {
+          "id": "D",
+          "text": "does will"
+        },
+        {
+          "id": "E",
+          "text": "will to"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Will is followed directly by a base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct negative form of will.",
+      "options": [
+        {
+          "id": "A",
+          "text": "willn't"
+        },
+        {
+          "id": "B",
+          "text": "won't"
+        },
+        {
+          "id": "C",
+          "text": "not will to"
+        },
+        {
+          "id": "D",
+          "text": "doesn't will"
+        },
+        {
+          "id": "E",
+          "text": "isn't will"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Won't is the standard contraction of will not.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Don't worry. I ___ help you with the bags.",
+      "options": [
+        {
+          "id": "A",
+          "text": "will to"
+        },
+        {
+          "id": "B",
+          "text": "do will"
+        },
+        {
+          "id": "C",
+          "text": "will"
+        },
+        {
+          "id": "D",
+          "text": "am will"
+        },
+        {
+          "id": "E",
+          "text": "wills"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Will can introduce an offer of help.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 331,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: She will ___ you after the lesson.",
+      "options": [
+        {
+          "id": "A",
+          "text": "calls"
+        },
+        {
+          "id": "B",
+          "text": "called"
+        },
+        {
+          "id": "C",
+          "text": "call"
+        },
+        {
+          "id": "D",
+          "text": "to call"
+        },
+        {
+          "id": "E",
+          "text": "calling"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Use the base form after will.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct future question about being at home tonight.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Are you will at home tonight?"
+        },
+        {
+          "id": "B",
+          "text": "Will you to be at home tonight?"
+        },
+        {
+          "id": "C",
+          "text": "Will you be at home tonight?"
+        },
+        {
+          "id": "D",
+          "text": "Do you will be at home tonight?"
+        },
+        {
+          "id": "E",
+          "text": "Will be you at home tonight?"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Put will before the subject and use be.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Will they come? — Yes, they ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "have"
+        },
+        {
+          "id": "B",
+          "text": "are"
+        },
+        {
+          "id": "C",
+          "text": "do"
+        },
+        {
+          "id": "D",
+          "text": "did"
+        },
+        {
+          "id": "E",
+          "text": "will"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The short answer repeats will.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Will it snow? — No, it ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "isn't"
+        },
+        {
+          "id": "B",
+          "text": "hasn't"
+        },
+        {
+          "id": "C",
+          "text": "didn't"
+        },
+        {
+          "id": "D",
+          "text": "doesn't"
+        },
+        {
+          "id": "E",
+          "text": "won't"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The negative short answer uses won't.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the sentence that expresses a promise.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I was returning a book."
+        },
+        {
+          "id": "B",
+          "text": "I have already returned it."
+        },
+        {
+          "id": "C",
+          "text": "I return books on Fridays."
+        },
+        {
+          "id": "D",
+          "text": "I will return your book tomorrow, I promise."
+        },
+        {
+          "id": "E",
+          "text": "I returned your book last month."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "I promise explicitly marks the sentence as a promise.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete the immediate decision: The phone is ringing. I ___ answer it.",
+      "options": [
+        {
+          "id": "A",
+          "text": "wills"
+        },
+        {
+          "id": "B",
+          "text": "will to"
+        },
+        {
+          "id": "C",
+          "text": "will"
+        },
+        {
+          "id": "D",
+          "text": "am will"
+        },
+        {
+          "id": "E",
+          "text": "do will"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Will commonly expresses a decision made at the moment of speaking.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I don't think people ___ stop using the Internet soon.",
+      "options": [
+        {
+          "id": "A",
+          "text": "will to"
+        },
+        {
+          "id": "B",
+          "text": "does will"
+        },
+        {
+          "id": "C",
+          "text": "will"
+        },
+        {
+          "id": "D",
+          "text": "wills"
+        },
+        {
+          "id": "E",
+          "text": "are will"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "After the subject, use will + base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Which sentence expresses a prediction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Our team has a new coach."
+        },
+        {
+          "id": "B",
+          "text": "Our team trains on Tuesdays."
+        },
+        {
+          "id": "C",
+          "text": "Our team is training now."
+        },
+        {
+          "id": "D",
+          "text": "Our team won yesterday."
+        },
+        {
+          "id": "E",
+          "text": "I think our team will win."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "A belief about a future result is a prediction.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose a polite request using will.",
+      "options": [
+        {
+          "id": "A",
+          "text": "You close the door every day."
+        },
+        {
+          "id": "B",
+          "text": "You have closed the door."
+        },
+        {
+          "id": "C",
+          "text": "Will you close the door, please?"
+        },
+        {
+          "id": "D",
+          "text": "You were closing the door."
+        },
+        {
+          "id": "E",
+          "text": "You closed the door yesterday."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Will you ... please can be a request.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: We ___ be late; the station is only a minute away.",
+      "options": [
+        {
+          "id": "A",
+          "text": "aren't to"
+        },
+        {
+          "id": "B",
+          "text": "haven't"
+        },
+        {
+          "id": "C",
+          "text": "doesn't"
+        },
+        {
+          "id": "D",
+          "text": "won't"
+        },
+        {
+          "id": "E",
+          "text": "won't to"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Won't is followed by the base form be.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the correct future sentence.",
+      "options": [
+        {
+          "id": "A",
+          "text": "There will be more electric cars."
+        },
+        {
+          "id": "B",
+          "text": "There are will more electric cars."
+        },
+        {
+          "id": "C",
+          "text": "There will to be more electric cars."
+        },
+        {
+          "id": "D",
+          "text": "There wills be more electric cars."
+        },
+        {
+          "id": "E",
+          "text": "There will are more electric cars."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The future existential form is there will be.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "What is the opposite of lend?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sell"
+        },
+        {
+          "id": "B",
+          "text": "Buy"
+        },
+        {
+          "id": "C",
+          "text": "Borrow"
+        },
+        {
+          "id": "D",
+          "text": "Pay"
+        },
+        {
+          "id": "E",
+          "text": "Keep"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Lend means give temporarily; borrow means receive temporarily.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "What is the opposite of win?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Save"
+        },
+        {
+          "id": "B",
+          "text": "Collect"
+        },
+        {
+          "id": "C",
+          "text": "Earn"
+        },
+        {
+          "id": "D",
+          "text": "Lose"
+        },
+        {
+          "id": "E",
+          "text": "Find"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Win and lose are opposite results in a competition.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "What is the opposite of turn on?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Turn into"
+        },
+        {
+          "id": "B",
+          "text": "Turn off"
+        },
+        {
+          "id": "C",
+          "text": "Turn around"
+        },
+        {
+          "id": "D",
+          "text": "Turn up"
+        },
+        {
+          "id": "E",
+          "text": "Turn over"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Turn off stops a device operating.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "topic_id": 15,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "What is the opposite of remember?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Study"
+        },
+        {
+          "id": "B",
+          "text": "Think"
+        },
+        {
+          "id": "C",
+          "text": "Learn"
+        },
+        {
+          "id": "D",
+          "text": "Forget"
+        },
+        {
+          "id": "E",
+          "text": "Know"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Forget means fail to remember.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Please give me ___ my pen when you finish.",
+      "options": [
+        {
+          "id": "A",
+          "text": "back"
+        },
+        {
+          "id": "B",
+          "text": "away"
+        },
+        {
+          "id": "C",
+          "text": "off"
+        },
+        {
+          "id": "D",
+          "text": "out"
+        },
+        {
+          "id": "E",
+          "text": "up"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Give back means return something to its owner.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I missed her call, so I will call her ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "down"
+        },
+        {
+          "id": "B",
+          "text": "into"
+        },
+        {
+          "id": "C",
+          "text": "back"
+        },
+        {
+          "id": "D",
+          "text": "off"
+        },
+        {
+          "id": "E",
+          "text": "away"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Call back means return a telephone call.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The shirt is damaged. I am taking it ___ to the shop.",
+      "options": [
+        {
+          "id": "A",
+          "text": "into to"
+        },
+        {
+          "id": "B",
+          "text": "back"
+        },
+        {
+          "id": "C",
+          "text": "off"
+        },
+        {
+          "id": "D",
+          "text": "over"
+        },
+        {
+          "id": "E",
+          "text": "up"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Take back means return an item.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: The café is closed now, but it opens again at two. Let's come back then. What does come back mean here?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Open a new café"
+        },
+        {
+          "id": "B",
+          "text": "Return to the café"
+        },
+        {
+          "id": "C",
+          "text": "Leave the city permanently"
+        },
+        {
+          "id": "D",
+          "text": "Call the café by phone"
+        },
+        {
+          "id": "E",
+          "text": "Cancel every future visit"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Come back means return to the place.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "topic_id": 15,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": "Read: I'll lend you £10, but please pay me back on Friday. Who must return the money?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The person lending the £10"
+        },
+        {
+          "id": "B",
+          "text": "The café owner"
+        },
+        {
+          "id": "C",
+          "text": "Nobody has to return it."
+        },
+        {
+          "id": "D",
+          "text": "Both people must pay £10 each."
+        },
+        {
+          "id": "E",
+          "text": "The person receiving the £10"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Pay back means return borrowed money to the lender.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "A colleague says, “These bags are very heavy.” Which reply uses will to make an immediate offer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Will you be at home tomorrow?"
+        },
+        {
+          "id": "B",
+          "text": "I won’t be in the office next week."
+        },
+        {
+          "id": "C",
+          "text": "I carried one yesterday."
+        },
+        {
+          "id": "D",
+          "text": "I carry a bag to work every day."
+        },
+        {
+          "id": "E",
+          "text": "I’ll carry one for you."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "I’ll carry one for you offers help decided at the moment of speaking.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which sentence uses won’t to make a negative prediction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I’m sure the shop won’t open before nine."
+        },
+        {
+          "id": "B",
+          "text": "Opening times are on the door."
+        },
+        {
+          "id": "C",
+          "text": "I think the shop will open before nine."
+        },
+        {
+          "id": "D",
+          "text": "The shop is open now."
+        },
+        {
+          "id": "E",
+          "text": "The shop didn’t open before nine yesterday."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Won’t is the negative form of will. Here it expresses a prediction.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the opposite action. “Please lower the volume.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pause it."
+        },
+        {
+          "id": "B",
+          "text": "Raise it."
+        },
+        {
+          "id": "C",
+          "text": "Mute it."
+        },
+        {
+          "id": "D",
+          "text": "Measure it."
+        },
+        {
+          "id": "E",
+          "text": "Check it."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Raise means increase, the opposite of lower.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the phrase. “If this coat doesn’t fit, I’ll take it ___ to the shop.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "back"
+        },
+        {
+          "id": "B",
+          "text": "away"
+        },
+        {
+          "id": "C",
+          "text": "down"
+        },
+        {
+          "id": "D",
+          "text": "forward"
+        },
+        {
+          "id": "E",
+          "text": "across"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Take it back to the shop means return it to the place it came from.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "topic_id": 15,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "You leave a message because your friend is unavailable. Which sentence asks them to return your phone call?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Could you come back with my book?"
+        },
+        {
+          "id": "B",
+          "text": "Could you write my number down?"
+        },
+        {
+          "id": "C",
+          "text": "Could you turn your phone off this evening?"
+        },
+        {
+          "id": "D",
+          "text": "Could you take this back to the shop?"
+        },
+        {
+          "id": "E",
+          "text": "Could you call me back this evening?"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Call someone back means return their phone call.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "topic_id": 15,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the conversation. “The forecast says there will be ice tonight.” “Then I’ll take the early bus tomorrow.” Which sentence is a prediction about the weather?",
+      "options": [
+        {
+          "id": "A",
+          "text": "There will be ice tonight."
+        },
+        {
+          "id": "B",
+          "text": "The bus was early yesterday."
+        },
+        {
+          "id": "C",
+          "text": "There is a bus stop near here."
+        },
+        {
+          "id": "D",
+          "text": "I took the bus this morning."
+        },
+        {
+          "id": "E",
+          "text": "I’ll take the early bus tomorrow."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "There will be ice predicts a future condition. The second speaker gives their decision.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 15, File 5C",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

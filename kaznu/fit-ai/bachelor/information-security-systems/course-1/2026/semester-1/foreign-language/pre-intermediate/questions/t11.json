@@ -1,0 +1,1166 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 236,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the tense required by the finished time yesterday: I ___ a jacket yesterday.",
+      "options": [
+        {
+          "id": "A",
+          "text": "have bought"
+        },
+        {
+          "id": "B",
+          "text": "bought"
+        },
+        {
+          "id": "C",
+          "text": "has bought"
+        },
+        {
+          "id": "D",
+          "text": "to buy"
+        },
+        {
+          "id": "E",
+          "text": "buying"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "A specified finished past time takes past simple.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: When ___ you buy those shoes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "did"
+        },
+        {
+          "id": "B",
+          "text": "have"
+        },
+        {
+          "id": "C",
+          "text": "are"
+        },
+        {
+          "id": "D",
+          "text": "was"
+        },
+        {
+          "id": "E",
+          "text": "has"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "When asking about a finished purchase, use did + base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I ___ never bought anything from that website.",
+      "options": [
+        {
+          "id": "A",
+          "text": "did"
+        },
+        {
+          "id": "B",
+          "text": "have"
+        },
+        {
+          "id": "C",
+          "text": "has"
+        },
+        {
+          "id": "D",
+          "text": "am"
+        },
+        {
+          "id": "E",
+          "text": "was"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Have never + participle describes life experience up to now.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: She ___ this coat last Saturday.",
+      "options": [
+        {
+          "id": "A",
+          "text": "buying"
+        },
+        {
+          "id": "B",
+          "text": "to buy"
+        },
+        {
+          "id": "C",
+          "text": "has bought"
+        },
+        {
+          "id": "D",
+          "text": "bought"
+        },
+        {
+          "id": "E",
+          "text": "have bought"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Last Saturday is a finished past time.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Have you ever ___ a refund online?",
+      "options": [
+        {
+          "id": "A",
+          "text": "request"
+        },
+        {
+          "id": "B",
+          "text": "requesting"
+        },
+        {
+          "id": "C",
+          "text": "requested"
+        },
+        {
+          "id": "D",
+          "text": "requests"
+        },
+        {
+          "id": "E",
+          "text": "to request"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Have you ever takes a past participle.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct question about life experience.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Have you ever sell anything online?"
+        },
+        {
+          "id": "B",
+          "text": "Have you ever sold anything online?"
+        },
+        {
+          "id": "C",
+          "text": "Has you ever sold anything online?"
+        },
+        {
+          "id": "D",
+          "text": "Do you ever sold anything online?"
+        },
+        {
+          "id": "E",
+          "text": "Did you ever sold anything online?"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Present perfect is formed with have + subject + participle.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct question about a dated purchase.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Have you ordered the book on Monday?"
+        },
+        {
+          "id": "B",
+          "text": "Did you order the book on Monday?"
+        },
+        {
+          "id": "C",
+          "text": "Were you order the book on Monday?"
+        },
+        {
+          "id": "D",
+          "text": "Has you ordered the book on Monday?"
+        },
+        {
+          "id": "E",
+          "text": "Did you ordered the book on Monday?"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "The stated finished time calls for did + base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: I have visited that shop twice, but I ___ there yesterday.",
+      "options": [
+        {
+          "id": "A",
+          "text": "haven't went"
+        },
+        {
+          "id": "B",
+          "text": "hasn't gone"
+        },
+        {
+          "id": "C",
+          "text": "didn't go"
+        },
+        {
+          "id": "D",
+          "text": "wasn't go"
+        },
+        {
+          "id": "E",
+          "text": "didn't went"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Yesterday requires past simple, with didn't + go.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: A: Have you ever been to London? B: Yes, I ___ there in 2022.",
+      "options": [
+        {
+          "id": "A",
+          "text": "goes"
+        },
+        {
+          "id": "B",
+          "text": "have gone"
+        },
+        {
+          "id": "C",
+          "text": "went"
+        },
+        {
+          "id": "D",
+          "text": "has been"
+        },
+        {
+          "id": "E",
+          "text": "going"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The specific year requires past simple.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: ___ you returned the damaged item yet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Was"
+        },
+        {
+          "id": "B",
+          "text": "Does"
+        },
+        {
+          "id": "C",
+          "text": "Have"
+        },
+        {
+          "id": "D",
+          "text": "Are"
+        },
+        {
+          "id": "E",
+          "text": "Did"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Yet with a completed action up to now fits present perfect.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the short answer: Did the parcel arrive on Friday? — Yes, it ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "is"
+        },
+        {
+          "id": "B",
+          "text": "has"
+        },
+        {
+          "id": "C",
+          "text": "does"
+        },
+        {
+          "id": "D",
+          "text": "was to"
+        },
+        {
+          "id": "E",
+          "text": "did"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Match did in the question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the short answer: Has the parcel arrived? — No, it ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "doesn't"
+        },
+        {
+          "id": "B",
+          "text": "hasn't"
+        },
+        {
+          "id": "C",
+          "text": "isn't"
+        },
+        {
+          "id": "D",
+          "text": "haven't"
+        },
+        {
+          "id": "E",
+          "text": "didn't"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Match has in the present perfect question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Which sentence correctly describes a finished purchase with a stated date?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I paying for the camera on 12 May."
+        },
+        {
+          "id": "B",
+          "text": "I have paid for the camera on 12 May."
+        },
+        {
+          "id": "C",
+          "text": "I did paid for the camera on 12 May."
+        },
+        {
+          "id": "D",
+          "text": "I has paid for the camera on 12 May."
+        },
+        {
+          "id": "E",
+          "text": "I paid for the camera on 12 May."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "A stated finished date normally takes past simple.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Which question asks for the exact time of a completed purchase?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Will you buy one later?"
+        },
+        {
+          "id": "B",
+          "text": "Have you ever bought one?"
+        },
+        {
+          "id": "C",
+          "text": "Do you usually shop here?"
+        },
+        {
+          "id": "D",
+          "text": "When did you buy it?"
+        },
+        {
+          "id": "E",
+          "text": "Are you buying one now?"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "When did asks about the time of a past event.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "What do you usually get to prove that you paid for something?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A prescription"
+        },
+        {
+          "id": "B",
+          "text": "A passport"
+        },
+        {
+          "id": "C",
+          "text": "A timetable"
+        },
+        {
+          "id": "D",
+          "text": "A boarding pass"
+        },
+        {
+          "id": "E",
+          "text": "A receipt"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "A receipt records payment for a purchase.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "What is a refund?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A new delivery address"
+        },
+        {
+          "id": "B",
+          "text": "A list of opening hours"
+        },
+        {
+          "id": "C",
+          "text": "A shop assistant's uniform"
+        },
+        {
+          "id": "D",
+          "text": "Money returned after a purchase"
+        },
+        {
+          "id": "E",
+          "text": "A higher price before payment"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "A refund returns money to the buyer.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: These shoes are too small. Can I ___ them for a larger size?",
+      "options": [
+        {
+          "id": "A",
+          "text": "save up"
+        },
+        {
+          "id": "B",
+          "text": "earn"
+        },
+        {
+          "id": "C",
+          "text": "borrow"
+        },
+        {
+          "id": "D",
+          "text": "lend"
+        },
+        {
+          "id": "E",
+          "text": "exchange"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Exchange means replace something with another item.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "What does out of stock mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Open all night"
+        },
+        {
+          "id": "B",
+          "text": "Already paid for by you"
+        },
+        {
+          "id": "C",
+          "text": "Free delivery included"
+        },
+        {
+          "id": "D",
+          "text": "Available at half price"
+        },
+        {
+          "id": "E",
+          "text": "Not currently available to buy"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Out of stock means the seller has none available.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The website says delivery is free, so I won't pay for ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "shipping"
+        },
+        {
+          "id": "B",
+          "text": "the receipt"
+        },
+        {
+          "id": "C",
+          "text": "the shop sign"
+        },
+        {
+          "id": "D",
+          "text": "the item itself"
+        },
+        {
+          "id": "E",
+          "text": "the product colour"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Shipping refers to sending goods to the customer.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the polite request in a clothes shop.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Give me your passport now."
+        },
+        {
+          "id": "B",
+          "text": "You are not allowed to answer."
+        },
+        {
+          "id": "C",
+          "text": "Why don't you close the shop forever?"
+        },
+        {
+          "id": "D",
+          "text": "Could I try this on, please?"
+        },
+        {
+          "id": "E",
+          "text": "I never buy anything anywhere."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Try on means put clothes on to check fit and appearance.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: A jacket costs £40 online and delivery costs £5. What is the total price?",
+      "options": [
+        {
+          "id": "A",
+          "text": "£35"
+        },
+        {
+          "id": "B",
+          "text": "£55"
+        },
+        {
+          "id": "C",
+          "text": "£45"
+        },
+        {
+          "id": "D",
+          "text": "£40"
+        },
+        {
+          "id": "E",
+          "text": "£50"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Add the product price and delivery charge.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Mia ordered shoes on Tuesday. They arrived on Friday, but the size was wrong. Why does she want to return them?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The delivery was free."
+        },
+        {
+          "id": "B",
+          "text": "She ordered a jacket."
+        },
+        {
+          "id": "C",
+          "text": "They arrived on Tuesday."
+        },
+        {
+          "id": "D",
+          "text": "The shop never sent them."
+        },
+        {
+          "id": "E",
+          "text": "They do not fit."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The text says the size was wrong.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "topic_id": 11,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": "Read: Shop A sells a bag for £30 with £8 delivery. Shop B sells the same bag for £35 with free delivery. Which is cheaper overall?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They cost the same."
+        },
+        {
+          "id": "B",
+          "text": "Shop A by £3"
+        },
+        {
+          "id": "C",
+          "text": "Shop B by £8"
+        },
+        {
+          "id": "D",
+          "text": "Shop A by £5"
+        },
+        {
+          "id": "E",
+          "text": "Shop B by £3"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Shop A totals £38 and Shop B totals £35.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the shop assistant’s question about a finished time. “___ the jacket here last Saturday?”",
+      "options": [
+        {
+          "id": "A",
+          "text": "Have you bought"
+        },
+        {
+          "id": "B",
+          "text": "Did you buy"
+        },
+        {
+          "id": "C",
+          "text": "Have you buy"
+        },
+        {
+          "id": "D",
+          "text": "Did you bought"
+        },
+        {
+          "id": "E",
+          "text": "Do you buy"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Last Saturday is a finished past time, so use did + subject + base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the question about experience at any time up to now.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Have you ever returned an online order?"
+        },
+        {
+          "id": "B",
+          "text": "When did you return that parcel?"
+        },
+        {
+          "id": "C",
+          "text": "Are you returning it now?"
+        },
+        {
+          "id": "D",
+          "text": "Did you return the parcel yesterday?"
+        },
+        {
+          "id": "E",
+          "text": "Do you return your parcels on Mondays?"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Have you ever asks about experience without specifying a finished time.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In a shop, which question asks if the amount you must pay includes the delivery charge?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Have you got a smaller size?"
+        },
+        {
+          "id": "B",
+          "text": "Can I collect it from the shop?"
+        },
+        {
+          "id": "C",
+          "text": "Does that price include delivery?"
+        },
+        {
+          "id": "D",
+          "text": "When will the parcel arrive?"
+        },
+        {
+          "id": "E",
+          "text": "Where can I try it on?"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Include delivery asks whether the delivery cost is already part of the price.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "“Click and collect is free.” What can the customer do for free?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buy the item without paying."
+        },
+        {
+          "id": "B",
+          "text": "Ask for delivery to any address."
+        },
+        {
+          "id": "C",
+          "text": "Order online and pick up the item at the collection point."
+        },
+        {
+          "id": "D",
+          "text": "Change the price listed on the site."
+        },
+        {
+          "id": "E",
+          "text": "Return any used product without a receipt."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Click and collect combines online ordering with collection in person.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "A website lists a £24 bag with £4 standard delivery. Collection at the shop is free. What will a customer pay if they collect the bag?",
+      "options": [
+        {
+          "id": "A",
+          "text": "£0"
+        },
+        {
+          "id": "B",
+          "text": "£28"
+        },
+        {
+          "id": "C",
+          "text": "£4"
+        },
+        {
+          "id": "D",
+          "text": "£20"
+        },
+        {
+          "id": "E",
+          "text": "£24"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The £4 delivery charge does not apply to free collection.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the email. “Your order arrived at our shop on Tuesday. We have put it aside for you. Please collect it by Friday at 6 p.m.” What should the customer do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pay £6 before the shop opens."
+        },
+        {
+          "id": "B",
+          "text": "Send the order back before Tuesday."
+        },
+        {
+          "id": "C",
+          "text": "Collect the order only after Friday."
+        },
+        {
+          "id": "D",
+          "text": "Pick the order up by Friday at 6 p.m."
+        },
+        {
+          "id": "E",
+          "text": "Wait for the order at home on Friday."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "By Friday at 6 p.m. is the latest collection time.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 11, File 4B",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1166 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 305,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: This is ___ building in our town.",
+      "options": [
+        {
+          "id": "A",
+          "text": "more tall"
+        },
+        {
+          "id": "B",
+          "text": "the tallest"
+        },
+        {
+          "id": "C",
+          "text": "most tallest"
+        },
+        {
+          "id": "D",
+          "text": "a taller than"
+        },
+        {
+          "id": "E",
+          "text": "taller"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use the + superlative tallest.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the superlative of good.",
+      "options": [
+        {
+          "id": "A",
+          "text": "better"
+        },
+        {
+          "id": "B",
+          "text": "gooder"
+        },
+        {
+          "id": "C",
+          "text": "best"
+        },
+        {
+          "id": "D",
+          "text": "more good"
+        },
+        {
+          "id": "E",
+          "text": "goodest"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Best is the irregular superlative.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: It is ___ interesting museum I have visited.",
+      "options": [
+        {
+          "id": "A",
+          "text": "the more"
+        },
+        {
+          "id": "B",
+          "text": "many"
+        },
+        {
+          "id": "C",
+          "text": "the most"
+        },
+        {
+          "id": "D",
+          "text": "much"
+        },
+        {
+          "id": "E",
+          "text": "more"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Use the most with the superlative of interesting.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the superlative of bad.",
+      "options": [
+        {
+          "id": "A",
+          "text": "worse"
+        },
+        {
+          "id": "B",
+          "text": "worst"
+        },
+        {
+          "id": "C",
+          "text": "baddest"
+        },
+        {
+          "id": "D",
+          "text": "more bad"
+        },
+        {
+          "id": "E",
+          "text": "badder"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Worst is the irregular superlative.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Of the three hotels, this one is ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "more cheap"
+        },
+        {
+          "id": "B",
+          "text": "the cheapest"
+        },
+        {
+          "id": "C",
+          "text": "cheaper than"
+        },
+        {
+          "id": "D",
+          "text": "most cheapest"
+        },
+        {
+          "id": "E",
+          "text": "as cheaper"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use a superlative when comparing one item with the whole group.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Lake A is 20 m deep, Lake B is 50 m and Lake C is 35 m. Which is the deepest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lake B"
+        },
+        {
+          "id": "B",
+          "text": "Lake A"
+        },
+        {
+          "id": "C",
+          "text": "All are equal."
+        },
+        {
+          "id": "D",
+          "text": "The text gives only width."
+        },
+        {
+          "id": "E",
+          "text": "Lake C"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Lake B has the greatest depth.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: There are ___ cars in the centre; the streets are crowded.",
+      "options": [
+        {
+          "id": "A",
+          "text": "too many"
+        },
+        {
+          "id": "B",
+          "text": "too much"
+        },
+        {
+          "id": "C",
+          "text": "much"
+        },
+        {
+          "id": "D",
+          "text": "a little"
+        },
+        {
+          "id": "E",
+          "text": "any to"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Cars is countable and plural, so use too many.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: There is ___ traffic today. We are moving very slowly.",
+      "options": [
+        {
+          "id": "A",
+          "text": "many"
+        },
+        {
+          "id": "B",
+          "text": "too much"
+        },
+        {
+          "id": "C",
+          "text": "a few"
+        },
+        {
+          "id": "D",
+          "text": "too many"
+        },
+        {
+          "id": "E",
+          "text": "several"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Traffic is uncountable, so use too much.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: We have ___ time, so we can walk instead of taking a taxi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "too many"
+        },
+        {
+          "id": "B",
+          "text": "several"
+        },
+        {
+          "id": "C",
+          "text": "a few"
+        },
+        {
+          "id": "D",
+          "text": "many"
+        },
+        {
+          "id": "E",
+          "text": "enough"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Enough time means sufficient time.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: There isn't ___ milk for three cups of tea.",
+      "options": [
+        {
+          "id": "A",
+          "text": "many"
+        },
+        {
+          "id": "B",
+          "text": "a number of"
+        },
+        {
+          "id": "C",
+          "text": "enough"
+        },
+        {
+          "id": "D",
+          "text": "a few"
+        },
+        {
+          "id": "E",
+          "text": "several"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Enough can modify uncountable milk.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I have ___ close friends — just two or three.",
+      "options": [
+        {
+          "id": "A",
+          "text": "a lot"
+        },
+        {
+          "id": "B",
+          "text": "much"
+        },
+        {
+          "id": "C",
+          "text": "a few"
+        },
+        {
+          "id": "D",
+          "text": "any to"
+        },
+        {
+          "id": "E",
+          "text": "a little"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "A few is used with plural countable friends.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Add ___ water, about a spoonful.",
+      "options": [
+        {
+          "id": "A",
+          "text": "a few"
+        },
+        {
+          "id": "B",
+          "text": "many"
+        },
+        {
+          "id": "C",
+          "text": "a little"
+        },
+        {
+          "id": "D",
+          "text": "several"
+        },
+        {
+          "id": "E",
+          "text": "a number of"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "A little is used with uncountable water.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: There is very ___ space in this lift, so we cannot all get in.",
+      "options": [
+        {
+          "id": "A",
+          "text": "little"
+        },
+        {
+          "id": "B",
+          "text": "few"
+        },
+        {
+          "id": "C",
+          "text": "a few"
+        },
+        {
+          "id": "D",
+          "text": "many"
+        },
+        {
+          "id": "E",
+          "text": "several"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Space is uncountable in this context.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Which part of the body connects your head to your shoulders?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Your wrist"
+        },
+        {
+          "id": "B",
+          "text": "Your ankle"
+        },
+        {
+          "id": "C",
+          "text": "Your knee"
+        },
+        {
+          "id": "D",
+          "text": "Your elbow"
+        },
+        {
+          "id": "E",
+          "text": "Your neck"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The neck connects the head and trunk.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "topic_id": 14,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Which joint is between the upper and lower parts of the leg?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The wrist"
+        },
+        {
+          "id": "B",
+          "text": "The neck"
+        },
+        {
+          "id": "C",
+          "text": "The knee"
+        },
+        {
+          "id": "D",
+          "text": "The elbow"
+        },
+        {
+          "id": "E",
+          "text": "The shoulder"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The knee is the leg joint named in the question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I can't talk loudly because I have a sore ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "wrist"
+        },
+        {
+          "id": "B",
+          "text": "knee"
+        },
+        {
+          "id": "C",
+          "text": "throat"
+        },
+        {
+          "id": "D",
+          "text": "ankle"
+        },
+        {
+          "id": "E",
+          "text": "toe"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "A sore throat can make speaking uncomfortable.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which body part do you normally use to smell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Your elbow"
+        },
+        {
+          "id": "B",
+          "text": "Your wrist"
+        },
+        {
+          "id": "C",
+          "text": "Your nose"
+        },
+        {
+          "id": "D",
+          "text": "Your ankle"
+        },
+        {
+          "id": "E",
+          "text": "Your knee"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The nose is associated with the sense of smell.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "A town with little noise is ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "noisy"
+        },
+        {
+          "id": "B",
+          "text": "quiet"
+        },
+        {
+          "id": "C",
+          "text": "dangerous"
+        },
+        {
+          "id": "D",
+          "text": "crowded"
+        },
+        {
+          "id": "E",
+          "text": "polluted"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Quiet describes a low level of noise.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "A city with many people in a small space is ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "empty"
+        },
+        {
+          "id": "B",
+          "text": "uninhabited"
+        },
+        {
+          "id": "C",
+          "text": "silent"
+        },
+        {
+          "id": "D",
+          "text": "crowded"
+        },
+        {
+          "id": "E",
+          "text": "deserted"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Crowded means full of people.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: There ___ a hospital next to the station.",
+      "options": [
+        {
+          "id": "A",
+          "text": "be"
+        },
+        {
+          "id": "B",
+          "text": "are"
+        },
+        {
+          "id": "C",
+          "text": "is"
+        },
+        {
+          "id": "D",
+          "text": "have"
+        },
+        {
+          "id": "E",
+          "text": "do"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Use there is with a singular noun.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: There ___ two parks near my home.",
+      "options": [
+        {
+          "id": "A",
+          "text": "has"
+        },
+        {
+          "id": "B",
+          "text": "be"
+        },
+        {
+          "id": "C",
+          "text": "are"
+        },
+        {
+          "id": "D",
+          "text": "does"
+        },
+        {
+          "id": "E",
+          "text": "is"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Use there are with a plural noun.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: ___ there a pharmacy near here?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Is"
+        },
+        {
+          "id": "B",
+          "text": "Have"
+        },
+        {
+          "id": "C",
+          "text": "Are"
+        },
+        {
+          "id": "D",
+          "text": "Do"
+        },
+        {
+          "id": "E",
+          "text": "Does"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Invert is in the question with a singular noun.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 327,
+      "topic_id": 14,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": "Read: Town X has three parks and little traffic. Town Y has no parks and heavy traffic. Which statement is supported?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Town X has fewer parks."
+        },
+        {
+          "id": "B",
+          "text": "Both towns have no traffic."
+        },
+        {
+          "id": "C",
+          "text": "Town Y has less traffic."
+        },
+        {
+          "id": "D",
+          "text": "Town Y has more parks."
+        },
+        {
+          "id": "E",
+          "text": "Town X has more parks and less traffic."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The comparison follows both pieces of information.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence. “Of the three streets, Mill Street is ___ in the evening. Hardly any cars use it.” Choose the superlative of quiet.",
+      "options": [
+        {
+          "id": "A",
+          "text": "the quietest"
+        },
+        {
+          "id": "B",
+          "text": "too quiet"
+        },
+        {
+          "id": "C",
+          "text": "the quieter"
+        },
+        {
+          "id": "D",
+          "text": "quieter"
+        },
+        {
+          "id": "E",
+          "text": "as quiet"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Hardly any cars suggests the street is quiet, and the superlative compares all three.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence about a café. “There aren’t ___ clean cups for all twelve guests. We need to wash three more.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "too much"
+        },
+        {
+          "id": "B",
+          "text": "a little"
+        },
+        {
+          "id": "C",
+          "text": "plenty"
+        },
+        {
+          "id": "D",
+          "text": "a lot"
+        },
+        {
+          "id": "E",
+          "text": "enough"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Enough means as many as are needed.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 441,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "A visitor needs a printed map and advice about local attractions. Which place is set up to provide both?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a railway repair workshop"
+        },
+        {
+          "id": "B",
+          "text": "At a petrol station"
+        },
+        {
+          "id": "C",
+          "text": "At the tourist information centre"
+        },
+        {
+          "id": "D",
+          "text": "At a car wash"
+        },
+        {
+          "id": "E",
+          "text": "In a sports hall"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "A tourist information centre provides visitors with maps and advice on local sights.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which body part connects the hand to the forearm?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ankle"
+        },
+        {
+          "id": "B",
+          "text": "The elbow"
+        },
+        {
+          "id": "C",
+          "text": "The wrist"
+        },
+        {
+          "id": "D",
+          "text": "The shoulder"
+        },
+        {
+          "id": "E",
+          "text": "The thumb"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The wrist is the joint between the hand and the forearm.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "topic_id": 14,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence about a small amount of an uncountable noun. “Put ___ water in the glass, just a small amount.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "a number of"
+        },
+        {
+          "id": "B",
+          "text": "many"
+        },
+        {
+          "id": "C",
+          "text": "a few"
+        },
+        {
+          "id": "D",
+          "text": "several"
+        },
+        {
+          "id": "E",
+          "text": "a little"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Use a little with an uncountable noun such as water.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 444,
+      "topic_id": 14,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the options. “Central Clinic: 10 min by bus. North Clinic: 18 min by bus. Park Clinic: 15 min by bus.” Which clinic is quickest to reach by bus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Central Clinic"
+        },
+        {
+          "id": "B",
+          "text": "All three take the same time"
+        },
+        {
+          "id": "C",
+          "text": "North Clinic"
+        },
+        {
+          "id": "D",
+          "text": "Park Clinic"
+        },
+        {
+          "id": "E",
+          "text": "North and Park take the same time"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Ten minutes is the shortest of the three journey times.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 14, File 5B",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

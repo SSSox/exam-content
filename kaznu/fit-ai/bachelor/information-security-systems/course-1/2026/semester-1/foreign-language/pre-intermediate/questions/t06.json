@@ -1,0 +1,1206 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 121,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: ___, I packed my bag. Then I called a taxi.",
+      "options": [
+        {
+          "id": "A",
+          "text": "First"
+        },
+        {
+          "id": "B",
+          "text": "But"
+        },
+        {
+          "id": "C",
+          "text": "Because"
+        },
+        {
+          "id": "D",
+          "text": "Although"
+        },
+        {
+          "id": "E",
+          "text": "Finally"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "First introduces the first step of a sequence.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: We checked in. ___, we went through security.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Or"
+        },
+        {
+          "id": "B",
+          "text": "Although"
+        },
+        {
+          "id": "C",
+          "text": "Then"
+        },
+        {
+          "id": "D",
+          "text": "Because"
+        },
+        {
+          "id": "E",
+          "text": "But"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Then introduces the next event.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: We waited for two hours. ___, the bus arrived.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Before that"
+        },
+        {
+          "id": "B",
+          "text": "Finally"
+        },
+        {
+          "id": "C",
+          "text": "Although"
+        },
+        {
+          "id": "D",
+          "text": "First of all"
+        },
+        {
+          "id": "E",
+          "text": "Because"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Finally introduces the last or long-awaited event.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I stayed at home ___ I felt ill.",
+      "options": [
+        {
+          "id": "A",
+          "text": "so"
+        },
+        {
+          "id": "B",
+          "text": "then"
+        },
+        {
+          "id": "C",
+          "text": "but"
+        },
+        {
+          "id": "D",
+          "text": "because"
+        },
+        {
+          "id": "E",
+          "text": "although"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Because introduces the reason.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: It was raining, ___ we took an umbrella.",
+      "options": [
+        {
+          "id": "A",
+          "text": "although"
+        },
+        {
+          "id": "B",
+          "text": "before"
+        },
+        {
+          "id": "C",
+          "text": "so"
+        },
+        {
+          "id": "D",
+          "text": "because"
+        },
+        {
+          "id": "E",
+          "text": "or"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "So introduces the result.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The room was small, ___ it was comfortable.",
+      "options": [
+        {
+          "id": "A",
+          "text": "so"
+        },
+        {
+          "id": "B",
+          "text": "because"
+        },
+        {
+          "id": "C",
+          "text": "but"
+        },
+        {
+          "id": "D",
+          "text": "before"
+        },
+        {
+          "id": "E",
+          "text": "then"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "But introduces a contrast.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: ___ it was cold, we enjoyed the walk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because of"
+        },
+        {
+          "id": "B",
+          "text": "Although"
+        },
+        {
+          "id": "C",
+          "text": "But"
+        },
+        {
+          "id": "D",
+          "text": "Then"
+        },
+        {
+          "id": "E",
+          "text": "So"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Although introduces a contrast with the main clause.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: I washed my hands ___ I ate the sandwich.",
+      "options": [
+        {
+          "id": "A",
+          "text": "before"
+        },
+        {
+          "id": "B",
+          "text": "because of"
+        },
+        {
+          "id": "C",
+          "text": "until to"
+        },
+        {
+          "id": "D",
+          "text": "during"
+        },
+        {
+          "id": "E",
+          "text": "so that to"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Before places one action earlier than another.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: ___ dinner, we went for a short walk.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Until to"
+        },
+        {
+          "id": "B",
+          "text": "During to"
+        },
+        {
+          "id": "C",
+          "text": "Because"
+        },
+        {
+          "id": "D",
+          "text": "After"
+        },
+        {
+          "id": "E",
+          "text": "Although"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "After can be followed directly by the noun dinner.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: I missed the bus because I got up late. Why did I miss the bus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I got up late."
+        },
+        {
+          "id": "B",
+          "text": "The bus broke down."
+        },
+        {
+          "id": "C",
+          "text": "The driver got lost."
+        },
+        {
+          "id": "D",
+          "text": "There was no service."
+        },
+        {
+          "id": "E",
+          "text": "I forgot my money."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The reason is explicitly given after because.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: First we bought tickets. Then we found our seats. Finally the film began. What happened second?",
+      "options": [
+        {
+          "id": "A",
+          "text": "We left the cinema."
+        },
+        {
+          "id": "B",
+          "text": "The film began."
+        },
+        {
+          "id": "C",
+          "text": "We bought tickets."
+        },
+        {
+          "id": "D",
+          "text": "We ordered a taxi."
+        },
+        {
+          "id": "E",
+          "text": "We found our seats."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Then marks the second event.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: I was tired, but I finished the report. Did I finish it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The text says I never started."
+        },
+        {
+          "id": "B",
+          "text": "No, because I was tired."
+        },
+        {
+          "id": "C",
+          "text": "Only after my friend finished it."
+        },
+        {
+          "id": "D",
+          "text": "Yes, despite being tired."
+        },
+        {
+          "id": "E",
+          "text": "No, because it was lost."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "But contrasts tiredness with completing the report.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: The train left before we reached the station. Which happened first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "We reached the station."
+        },
+        {
+          "id": "B",
+          "text": "We bought food at the station."
+        },
+        {
+          "id": "C",
+          "text": "The train left."
+        },
+        {
+          "id": "D",
+          "text": "We boarded the train."
+        },
+        {
+          "id": "E",
+          "text": "We met the driver."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Before places the departure earlier than the arrival.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Anna dropped her keys. A boy picked them up and gave them back. Who returned the keys?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A boy"
+        },
+        {
+          "id": "B",
+          "text": "A police officer"
+        },
+        {
+          "id": "C",
+          "text": "Anna's teacher"
+        },
+        {
+          "id": "D",
+          "text": "A taxi driver"
+        },
+        {
+          "id": "E",
+          "text": "Anna's neighbour"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The boy picked up and returned the keys.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: I could not open the door, so I called my flatmate. What was the result of the problem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I bought a new phone."
+        },
+        {
+          "id": "B",
+          "text": "I called my flatmate."
+        },
+        {
+          "id": "C",
+          "text": "I moved to another city."
+        },
+        {
+          "id": "D",
+          "text": "The door opened by itself."
+        },
+        {
+          "id": "E",
+          "text": "My flatmate lost the key."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "So introduces the resulting action.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete the phrase: ___ a mistake.",
+      "options": [
+        {
+          "id": "A",
+          "text": "get"
+        },
+        {
+          "id": "B",
+          "text": "take"
+        },
+        {
+          "id": "C",
+          "text": "go"
+        },
+        {
+          "id": "D",
+          "text": "do"
+        },
+        {
+          "id": "E",
+          "text": "make"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The collocation is make a mistake.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete the phrase: ___ the bus to college.",
+      "options": [
+        {
+          "id": "A",
+          "text": "listen"
+        },
+        {
+          "id": "B",
+          "text": "have to"
+        },
+        {
+          "id": "C",
+          "text": "take"
+        },
+        {
+          "id": "D",
+          "text": "do"
+        },
+        {
+          "id": "E",
+          "text": "make"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Take the bus means travel by bus.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Please ___ me a call when you arrive.",
+      "options": [
+        {
+          "id": "A",
+          "text": "take to"
+        },
+        {
+          "id": "B",
+          "text": "give"
+        },
+        {
+          "id": "C",
+          "text": "get to"
+        },
+        {
+          "id": "D",
+          "text": "do"
+        },
+        {
+          "id": "E",
+          "text": "make to"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "The phrase is give someone a call.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: We ___ a great time at the festival.",
+      "options": [
+        {
+          "id": "A",
+          "text": "took to"
+        },
+        {
+          "id": "B",
+          "text": "went"
+        },
+        {
+          "id": "C",
+          "text": "did"
+        },
+        {
+          "id": "D",
+          "text": "made"
+        },
+        {
+          "id": "E",
+          "text": "had"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Have a great time means enjoy yourself.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I ___ my keys, so I could not get into the flat.",
+      "options": [
+        {
+          "id": "A",
+          "text": "borrowed to"
+        },
+        {
+          "id": "B",
+          "text": "spent"
+        },
+        {
+          "id": "C",
+          "text": "lent to"
+        },
+        {
+          "id": "D",
+          "text": "lost"
+        },
+        {
+          "id": "E",
+          "text": "won"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Lost fits the consequence of being unable to enter.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In the word holiday, which syllable normally has primary stress?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The second"
+        },
+        {
+          "id": "B",
+          "text": "The third"
+        },
+        {
+          "id": "C",
+          "text": "All equally"
+        },
+        {
+          "id": "D",
+          "text": "None"
+        },
+        {
+          "id": "E",
+          "text": "The first"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Holiday is normally stressed on its first syllable.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In the word remember, which syllable has primary stress?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The third"
+        },
+        {
+          "id": "B",
+          "text": "All equally"
+        },
+        {
+          "id": "C",
+          "text": "None"
+        },
+        {
+          "id": "D",
+          "text": "The second"
+        },
+        {
+          "id": "E",
+          "text": "The first"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Remember is stressed on the second syllable.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which word has primary stress on its second syllable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "happy"
+        },
+        {
+          "id": "B",
+          "text": "holiday"
+        },
+        {
+          "id": "C",
+          "text": "table"
+        },
+        {
+          "id": "D",
+          "text": "mother"
+        },
+        {
+          "id": "E",
+          "text": "begin"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Begin is stressed on the second syllable.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "“We stopped for water ___ we continued walking.” Which word shows that the stop came first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "but"
+        },
+        {
+          "id": "B",
+          "text": "therefore"
+        },
+        {
+          "id": "C",
+          "text": "because"
+        },
+        {
+          "id": "D",
+          "text": "before"
+        },
+        {
+          "id": "E",
+          "text": "although"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Before places the stop earlier than the next action.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "“The room was quiet ___ everyone could hear a clock in the hall.” Choose the connector that introduces the result.",
+      "options": [
+        {
+          "id": "A",
+          "text": "because"
+        },
+        {
+          "id": "B",
+          "text": "while"
+        },
+        {
+          "id": "C",
+          "text": "although"
+        },
+        {
+          "id": "D",
+          "text": "before"
+        },
+        {
+          "id": "E",
+          "text": "so"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "So introduces what happened as a result of the room being quiet.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the usual phrase. “The driver slowed down to ___ a look at the sign.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "take"
+        },
+        {
+          "id": "B",
+          "text": "put"
+        },
+        {
+          "id": "C",
+          "text": "do"
+        },
+        {
+          "id": "D",
+          "text": "keep"
+        },
+        {
+          "id": "E",
+          "text": "make"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Take a look means to look at something, often briefly.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which word has the main stress on the first syllable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arrive"
+        },
+        {
+          "id": "B",
+          "text": "Picnic"
+        },
+        {
+          "id": "C",
+          "text": "Decide"
+        },
+        {
+          "id": "D",
+          "text": "Forget"
+        },
+        {
+          "id": "E",
+          "text": "Hotel"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "In picnic, the first syllable is stressed.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the connector. “___ Noor felt nervous, she went on stage and finished her speech.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because of"
+        },
+        {
+          "id": "B",
+          "text": "Although"
+        },
+        {
+          "id": "C",
+          "text": "As a result"
+        },
+        {
+          "id": "D",
+          "text": "Before that"
+        },
+        {
+          "id": "E",
+          "text": "Then"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Although links an unexpected contrast: she went on stage despite feeling nervous.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 391,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the notes. “First, we reached the campsite. Before putting up the tent, we phoned the owner. We cooked after the tent was ready.” Which action came immediately before they put up the tent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They took the tent down."
+        },
+        {
+          "id": "B",
+          "text": "They went for a swim."
+        },
+        {
+          "id": "C",
+          "text": "They cooked dinner."
+        },
+        {
+          "id": "D",
+          "text": "They left the campsite."
+        },
+        {
+          "id": "E",
+          "text": "They phoned the owner."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Before putting up the tent, they phoned the owner.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 392,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the story. “Mira missed her stop because she fell asleep. When she got off, she called her friend, who met her outside the station.” Why did Mira miss her stop?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She called her friend too early."
+        },
+        {
+          "id": "B",
+          "text": "The station was closed."
+        },
+        {
+          "id": "C",
+          "text": "She wanted to buy a ticket."
+        },
+        {
+          "id": "D",
+          "text": "Her friend was late."
+        },
+        {
+          "id": "E",
+          "text": "She fell asleep."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Because introduces the reason she missed her stop.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 6, File 2C",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

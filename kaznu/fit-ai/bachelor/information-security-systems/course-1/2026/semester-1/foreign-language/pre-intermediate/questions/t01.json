@@ -1,0 +1,1246 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 1,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct question about Ali's home.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Where live does Ali?"
+        },
+        {
+          "id": "B",
+          "text": "Where Ali does live?"
+        },
+        {
+          "id": "C",
+          "text": "Where does live Ali?"
+        },
+        {
+          "id": "D",
+          "text": "Where Ali live does?"
+        },
+        {
+          "id": "E",
+          "text": "Where does Ali live?"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Use question word + auxiliary + subject + base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: What ___ your first name?",
+      "options": [
+        {
+          "id": "A",
+          "text": "is"
+        },
+        {
+          "id": "B",
+          "text": "am"
+        },
+        {
+          "id": "C",
+          "text": "do"
+        },
+        {
+          "id": "D",
+          "text": "does"
+        },
+        {
+          "id": "E",
+          "text": "are"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The singular subject your first name takes is.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct question about Sara's job.",
+      "options": [
+        {
+          "id": "A",
+          "text": "What does Sara do?"
+        },
+        {
+          "id": "B",
+          "text": "What do Sara does?"
+        },
+        {
+          "id": "C",
+          "text": "What does do Sara?"
+        },
+        {
+          "id": "D",
+          "text": "What Sara does do?"
+        },
+        {
+          "id": "E",
+          "text": "What Sara do does?"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Use does before the singular subject and do as the main verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: ___ brothers have you got?",
+      "options": [
+        {
+          "id": "A",
+          "text": "How long ago"
+        },
+        {
+          "id": "B",
+          "text": "How often"
+        },
+        {
+          "id": "C",
+          "text": "How old"
+        },
+        {
+          "id": "D",
+          "text": "How many"
+        },
+        {
+          "id": "E",
+          "text": "How much"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Brothers is a plural countable noun.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the question that asks about a class start time.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Why do you like the class?"
+        },
+        {
+          "id": "B",
+          "text": "How old is the class?"
+        },
+        {
+          "id": "C",
+          "text": "How many classes are there?"
+        },
+        {
+          "id": "D",
+          "text": "Whose class is this?"
+        },
+        {
+          "id": "E",
+          "text": "What time does the class start?"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "What time asks for a clock time.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the correct subject question.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Who teaches English here?"
+        },
+        {
+          "id": "B",
+          "text": "Who does teaches English here?"
+        },
+        {
+          "id": "C",
+          "text": "Who teach does English here?"
+        },
+        {
+          "id": "D",
+          "text": "Who is teach English here?"
+        },
+        {
+          "id": "E",
+          "text": "Who teaching English here?"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Who as the subject does not need does in this question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Put the words into a standard yes/no question: can / you / spell / it.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spell can you it?"
+        },
+        {
+          "id": "B",
+          "text": "You can spell it?"
+        },
+        {
+          "id": "C",
+          "text": "It can spell you?"
+        },
+        {
+          "id": "D",
+          "text": "Can you spell it?"
+        },
+        {
+          "id": "E",
+          "text": "Can spell it you?"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "A standard modal question puts can before the subject.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: ___ you like studying in the library?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Am"
+        },
+        {
+          "id": "B",
+          "text": "Are"
+        },
+        {
+          "id": "C",
+          "text": "Does"
+        },
+        {
+          "id": "D",
+          "text": "Is"
+        },
+        {
+          "id": "E",
+          "text": "Do"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Use do to ask about a present simple action with you.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which question asks about frequency?",
+      "options": [
+        {
+          "id": "A",
+          "text": "How often do you exercise?"
+        },
+        {
+          "id": "B",
+          "text": "Where do you exercise?"
+        },
+        {
+          "id": "C",
+          "text": "What is your surname?"
+        },
+        {
+          "id": "D",
+          "text": "How tall are you?"
+        },
+        {
+          "id": "E",
+          "text": "Who is your coach?"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "How often asks about frequency.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: ___ notebook is this? — It is Dana's.",
+      "options": [
+        {
+          "id": "A",
+          "text": "When"
+        },
+        {
+          "id": "B",
+          "text": "Where"
+        },
+        {
+          "id": "C",
+          "text": "Who"
+        },
+        {
+          "id": "D",
+          "text": "Whose"
+        },
+        {
+          "id": "E",
+          "text": "How"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Whose asks about possession.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: ___ is this dictionary? — Twelve pounds.",
+      "options": [
+        {
+          "id": "A",
+          "text": "How far"
+        },
+        {
+          "id": "B",
+          "text": "How much"
+        },
+        {
+          "id": "C",
+          "text": "How many"
+        },
+        {
+          "id": "D",
+          "text": "How old"
+        },
+        {
+          "id": "E",
+          "text": "How often"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "How much asks about price.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: How ___ are you? — I am nineteen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "old"
+        },
+        {
+          "id": "B",
+          "text": "much"
+        },
+        {
+          "id": "C",
+          "text": "often"
+        },
+        {
+          "id": "D",
+          "text": "far"
+        },
+        {
+          "id": "E",
+          "text": "many"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "How old asks about age.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct request when you do not know the letters in a name.",
+      "options": [
+        {
+          "id": "A",
+          "text": "How do you spell your surname?"
+        },
+        {
+          "id": "B",
+          "text": "Where does your surname live?"
+        },
+        {
+          "id": "C",
+          "text": "How much is your surname?"
+        },
+        {
+          "id": "D",
+          "text": "When do you wear your surname?"
+        },
+        {
+          "id": "E",
+          "text": "How often is your surname?"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Spell asks for the letters of a word.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete the common phrase: ___ up at seven in the morning.",
+      "options": [
+        {
+          "id": "A",
+          "text": "do"
+        },
+        {
+          "id": "B",
+          "text": "take"
+        },
+        {
+          "id": "C",
+          "text": "make"
+        },
+        {
+          "id": "D",
+          "text": "get"
+        },
+        {
+          "id": "E",
+          "text": "have"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Get up means leave your bed after sleeping.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete the phrase: go ___ bed.",
+      "options": [
+        {
+          "id": "A",
+          "text": "for"
+        },
+        {
+          "id": "B",
+          "text": "on"
+        },
+        {
+          "id": "C",
+          "text": "to"
+        },
+        {
+          "id": "D",
+          "text": "by"
+        },
+        {
+          "id": "E",
+          "text": "at"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The fixed phrase is go to bed.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: I usually ___ my homework after dinner.",
+      "options": [
+        {
+          "id": "A",
+          "text": "go"
+        },
+        {
+          "id": "B",
+          "text": "take"
+        },
+        {
+          "id": "C",
+          "text": "do"
+        },
+        {
+          "id": "D",
+          "text": "make"
+        },
+        {
+          "id": "E",
+          "text": "get"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The usual collocation is do homework.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: We ___ breakfast at eight.",
+      "options": [
+        {
+          "id": "A",
+          "text": "do"
+        },
+        {
+          "id": "B",
+          "text": "get to"
+        },
+        {
+          "id": "C",
+          "text": "go"
+        },
+        {
+          "id": "D",
+          "text": "have"
+        },
+        {
+          "id": "E",
+          "text": "make to"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Have breakfast means eat the morning meal.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: Can you ___ a photo of us?",
+      "options": [
+        {
+          "id": "A",
+          "text": "go"
+        },
+        {
+          "id": "B",
+          "text": "do"
+        },
+        {
+          "id": "C",
+          "text": "get up"
+        },
+        {
+          "id": "D",
+          "text": "take"
+        },
+        {
+          "id": "E",
+          "text": "listen"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The collocation is take a photo.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: I listen ___ music on the bus.",
+      "options": [
+        {
+          "id": "A",
+          "text": "by"
+        },
+        {
+          "id": "B",
+          "text": "at"
+        },
+        {
+          "id": "C",
+          "text": "to"
+        },
+        {
+          "id": "D",
+          "text": "on"
+        },
+        {
+          "id": "E",
+          "text": "for"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Listen is followed by to before the object.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: My sister works ___ a nurse.",
+      "options": [
+        {
+          "id": "A",
+          "text": "by"
+        },
+        {
+          "id": "B",
+          "text": "to"
+        },
+        {
+          "id": "C",
+          "text": "from"
+        },
+        {
+          "id": "D",
+          "text": "as"
+        },
+        {
+          "id": "E",
+          "text": "on"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Work as introduces a person's job.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Which letter name is pronounced /eɪ/ in English?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I"
+        },
+        {
+          "id": "B",
+          "text": "E"
+        },
+        {
+          "id": "C",
+          "text": "A"
+        },
+        {
+          "id": "D",
+          "text": "U"
+        },
+        {
+          "id": "E",
+          "text": "O"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The letter A is pronounced /eɪ/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which letter name is pronounced /juː/ in English?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A"
+        },
+        {
+          "id": "B",
+          "text": "E"
+        },
+        {
+          "id": "C",
+          "text": "U"
+        },
+        {
+          "id": "D",
+          "text": "O"
+        },
+        {
+          "id": "E",
+          "text": "I"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The letter U has the name /juː/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the appropriate answer: Where are you from?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I am from Almaty."
+        },
+        {
+          "id": "B",
+          "text": "I study every day."
+        },
+        {
+          "id": "C",
+          "text": "It is my sister's."
+        },
+        {
+          "id": "D",
+          "text": "At half past nine."
+        },
+        {
+          "id": "E",
+          "text": "I am eighteen."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The question asks about origin.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: My name is Lina. I study biology and share a flat with my cousin. Who lives with Lina?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her biology teacher"
+        },
+        {
+          "id": "B",
+          "text": "Her brother"
+        },
+        {
+          "id": "C",
+          "text": "Her classmates"
+        },
+        {
+          "id": "D",
+          "text": "Her parents"
+        },
+        {
+          "id": "E",
+          "text": "Her cousin"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The text says she shares a flat with her cousin.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the question that matches this answer. “I’m looking for my student card.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "Where you are looking for?"
+        },
+        {
+          "id": "B",
+          "text": "What do you look for yesterday?"
+        },
+        {
+          "id": "C",
+          "text": "What are you looking for?"
+        },
+        {
+          "id": "D",
+          "text": "For what you looking?"
+        },
+        {
+          "id": "E",
+          "text": "What you are looking for?"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "In a direct question, are comes before you. The verb phrase is look for.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "A new student says, “I got here on the number 14 bus.” Which question is she answering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "How long are you staying?"
+        },
+        {
+          "id": "B",
+          "text": "Where do you live?"
+        },
+        {
+          "id": "C",
+          "text": "When are you leaving?"
+        },
+        {
+          "id": "D",
+          "text": "How did you get here?"
+        },
+        {
+          "id": "E",
+          "text": "Who did you come with?"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The bus tells us how she travelled.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the question. “Which language ___ at home, Aida?”",
+      "options": [
+        {
+          "id": "A",
+          "text": "do you speak"
+        },
+        {
+          "id": "B",
+          "text": "does you speak"
+        },
+        {
+          "id": "C",
+          "text": "you speaks"
+        },
+        {
+          "id": "D",
+          "text": "are you speak"
+        },
+        {
+          "id": "E",
+          "text": "you do speak"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Use do + subject + base verb for this present simple question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "At registration, the tutor wants to know which class a student is in. Which question should she ask?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When did the group start?"
+        },
+        {
+          "id": "B",
+          "text": "How many groups are there?"
+        },
+        {
+          "id": "C",
+          "text": "Which group are you in?"
+        },
+        {
+          "id": "D",
+          "text": "Which classroom is free?"
+        },
+        {
+          "id": "E",
+          "text": "Where is your group waiting?"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Which group asks for the group name or number.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the usual verb phrase. “I always ___ a shower after basketball practice.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "make"
+        },
+        {
+          "id": "B",
+          "text": "get in"
+        },
+        {
+          "id": "C",
+          "text": "go"
+        },
+        {
+          "id": "D",
+          "text": "put"
+        },
+        {
+          "id": "E",
+          "text": "have"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Have a shower is a common phrase in British English.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which set of letters is read “ess, double-u, jay”?",
+      "options": [
+        {
+          "id": "A",
+          "text": "C W G"
+        },
+        {
+          "id": "B",
+          "text": "S V G"
+        },
+        {
+          "id": "C",
+          "text": "S U J"
+        },
+        {
+          "id": "D",
+          "text": "F W Y"
+        },
+        {
+          "id": "E",
+          "text": "S W J"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "These are the English names of S, W and J, in order.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "A club form asks for your “surname”, but you are unsure what the word means. Which question will help?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Are you write my surname?"
+        },
+        {
+          "id": "B",
+          "text": "Where does a surname go to?"
+        },
+        {
+          "id": "C",
+          "text": "How old is my surname?"
+        },
+        {
+          "id": "D",
+          "text": "What is spelling my surname?"
+        },
+        {
+          "id": "E",
+          "text": "What does “surname” mean?"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "What does a word mean? is the standard way to ask about its meaning.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 1, File 1A",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

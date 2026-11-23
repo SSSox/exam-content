@@ -1,0 +1,12 @@
+{
+  "kind": "subject",
+  "title": {
+    "ru": "Иностранный язык",
+    "kk": "Шет тілі",
+    "en": "Foreign language"
+  },
+  "order": 20,
+  "items": [
+    "pre-intermediate"
+  ]
+}

@@ -1,0 +1,1166 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 282,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: My new bag is ___ than my old one.",
+      "options": [
+        {
+          "id": "A",
+          "text": "biggest"
+        },
+        {
+          "id": "B",
+          "text": "bigger"
+        },
+        {
+          "id": "C",
+          "text": "most big"
+        },
+        {
+          "id": "D",
+          "text": "big"
+        },
+        {
+          "id": "E",
+          "text": "more big"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use the comparative bigger with than.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: This exercise is ___ than the last one.",
+      "options": [
+        {
+          "id": "A",
+          "text": "easiest"
+        },
+        {
+          "id": "B",
+          "text": "most easy"
+        },
+        {
+          "id": "C",
+          "text": "easier"
+        },
+        {
+          "id": "D",
+          "text": "easyer"
+        },
+        {
+          "id": "E",
+          "text": "more easy"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Easy changes to easier in the comparative.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: This course is ___ than that short workshop.",
+      "options": [
+        {
+          "id": "A",
+          "text": "more expensive"
+        },
+        {
+          "id": "B",
+          "text": "expensiver"
+        },
+        {
+          "id": "C",
+          "text": "the expensive"
+        },
+        {
+          "id": "D",
+          "text": "most expensive"
+        },
+        {
+          "id": "E",
+          "text": "expensive most"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Longer adjectives commonly use more in the comparative.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the comparative of good.",
+      "options": [
+        {
+          "id": "A",
+          "text": "most good"
+        },
+        {
+          "id": "B",
+          "text": "better"
+        },
+        {
+          "id": "C",
+          "text": "more good"
+        },
+        {
+          "id": "D",
+          "text": "gooder"
+        },
+        {
+          "id": "E",
+          "text": "best"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Good has the irregular comparative better.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the comparative of bad.",
+      "options": [
+        {
+          "id": "A",
+          "text": "more bad"
+        },
+        {
+          "id": "B",
+          "text": "badder"
+        },
+        {
+          "id": "C",
+          "text": "most bad"
+        },
+        {
+          "id": "D",
+          "text": "worse"
+        },
+        {
+          "id": "E",
+          "text": "worst"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Bad has the irregular comparative worse.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: A bicycle is usually cheaper ___ a car.",
+      "options": [
+        {
+          "id": "A",
+          "text": "from to"
+        },
+        {
+          "id": "B",
+          "text": "then"
+        },
+        {
+          "id": "C",
+          "text": "that"
+        },
+        {
+          "id": "D",
+          "text": "than"
+        },
+        {
+          "id": "E",
+          "text": "as to"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Than introduces the second part of a comparison.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: My brother drives ___ than I do.",
+      "options": [
+        {
+          "id": "A",
+          "text": "most carefully"
+        },
+        {
+          "id": "B",
+          "text": "more carefully"
+        },
+        {
+          "id": "C",
+          "text": "careful"
+        },
+        {
+          "id": "D",
+          "text": "carefuller"
+        },
+        {
+          "id": "E",
+          "text": "more careful"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use the comparative adverb more carefully to describe drives.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Please speak ___; I can't follow you.",
+      "options": [
+        {
+          "id": "A",
+          "text": "slowest to"
+        },
+        {
+          "id": "B",
+          "text": "slowlier"
+        },
+        {
+          "id": "C",
+          "text": "slowly more to"
+        },
+        {
+          "id": "D",
+          "text": "more slowly"
+        },
+        {
+          "id": "E",
+          "text": "most slow"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "More slowly is the comparative of slowly.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Amina runs ___ than her cousin.",
+      "options": [
+        {
+          "id": "A",
+          "text": "faster"
+        },
+        {
+          "id": "B",
+          "text": "most fast"
+        },
+        {
+          "id": "C",
+          "text": "fastly"
+        },
+        {
+          "id": "D",
+          "text": "more fast"
+        },
+        {
+          "id": "E",
+          "text": "fastest"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Fast has the comparative form faster.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The second question is not as difficult ___ the first.",
+      "options": [
+        {
+          "id": "A",
+          "text": "that"
+        },
+        {
+          "id": "B",
+          "text": "then"
+        },
+        {
+          "id": "C",
+          "text": "as"
+        },
+        {
+          "id": "D",
+          "text": "than"
+        },
+        {
+          "id": "E",
+          "text": "from"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Use as ... as for this comparison pattern.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct comparison of the warmth of two rooms.",
+      "options": [
+        {
+          "id": "A",
+          "text": "This room is more warmer than that one."
+        },
+        {
+          "id": "B",
+          "text": "This room is much warmer than that one."
+        },
+        {
+          "id": "C",
+          "text": "This room is much warmest than that one."
+        },
+        {
+          "id": "D",
+          "text": "This room is most warmer than that one."
+        },
+        {
+          "id": "E",
+          "text": "This room is warm than that one."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Much can strengthen a comparative, but more warmer is a double comparative.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: The train takes two hours and the bus takes three. Which is faster on this route?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The train"
+        },
+        {
+          "id": "B",
+          "text": "The text compares only prices."
+        },
+        {
+          "id": "C",
+          "text": "They take the same time."
+        },
+        {
+          "id": "D",
+          "text": "Neither service runs."
+        },
+        {
+          "id": "E",
+          "text": "The bus"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The train takes less time.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Box A weighs 4 kg and Box B weighs 7 kg. Which statement is true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Box B is lighter than Box A."
+        },
+        {
+          "id": "B",
+          "text": "Both boxes weigh 4 kg."
+        },
+        {
+          "id": "C",
+          "text": "Box B is heavier than Box A."
+        },
+        {
+          "id": "D",
+          "text": "Box A is heavier than Box B."
+        },
+        {
+          "id": "E",
+          "text": "They weigh the same."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Seven kilograms is heavier than four.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Noor types 50 words a minute and Asel types 60. Who types more quickly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Noor"
+        },
+        {
+          "id": "B",
+          "text": "They type equally quickly."
+        },
+        {
+          "id": "C",
+          "text": "Neither can type."
+        },
+        {
+          "id": "D",
+          "text": "The text gives only ages."
+        },
+        {
+          "id": "E",
+          "text": "Asel"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Asel types more words in the same time.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct comparative of happy.",
+      "options": [
+        {
+          "id": "A",
+          "text": "happyer"
+        },
+        {
+          "id": "B",
+          "text": "happier"
+        },
+        {
+          "id": "C",
+          "text": "more happier"
+        },
+        {
+          "id": "D",
+          "text": "most happyer"
+        },
+        {
+          "id": "E",
+          "text": "happiest"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Change y to i before -er.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the comparative of little when it refers to amount.",
+      "options": [
+        {
+          "id": "A",
+          "text": "less"
+        },
+        {
+          "id": "B",
+          "text": "more little than to"
+        },
+        {
+          "id": "C",
+          "text": "least"
+        },
+        {
+          "id": "D",
+          "text": "fewest"
+        },
+        {
+          "id": "E",
+          "text": "littler amountest"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Less is the comparative for a smaller amount.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "How do you read 21 as an ordinal number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Twenty-first"
+        },
+        {
+          "id": "B",
+          "text": "Twentieth-one"
+        },
+        {
+          "id": "C",
+          "text": "Twenty-one"
+        },
+        {
+          "id": "D",
+          "text": "Two-first"
+        },
+        {
+          "id": "E",
+          "text": "Twenty-oneth"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The ordinal form is twenty-first.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "topic_id": 13,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "How do you read 50%?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fifteen per cent"
+        },
+        {
+          "id": "B",
+          "text": "Fifty per cent"
+        },
+        {
+          "id": "C",
+          "text": "Five per cent"
+        },
+        {
+          "id": "D",
+          "text": "Fifty thousand"
+        },
+        {
+          "id": "E",
+          "text": "Five hundred per cent"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "50% is fifty per cent.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which expression means 1/2?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A half"
+        },
+        {
+          "id": "B",
+          "text": "Two thirds"
+        },
+        {
+          "id": "C",
+          "text": "A quarter"
+        },
+        {
+          "id": "D",
+          "text": "A third"
+        },
+        {
+          "id": "E",
+          "text": "Three quarters"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "A half is one of two equal parts.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which number is written one thousand two hundred?",
+      "options": [
+        {
+          "id": "A",
+          "text": "120"
+        },
+        {
+          "id": "B",
+          "text": "1,020"
+        },
+        {
+          "id": "C",
+          "text": "102"
+        },
+        {
+          "id": "D",
+          "text": "12,000"
+        },
+        {
+          "id": "E",
+          "text": "1,200"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "One thousand plus two hundred is 1,200.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: A laptop costs £600 and a tablet costs £450. How much more expensive is the laptop?",
+      "options": [
+        {
+          "id": "A",
+          "text": "£1,050"
+        },
+        {
+          "id": "B",
+          "text": "£150"
+        },
+        {
+          "id": "C",
+          "text": "£250"
+        },
+        {
+          "id": "D",
+          "text": "£50"
+        },
+        {
+          "id": "E",
+          "text": "£450"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Subtract 450 from 600.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "topic_id": 13,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": "Read: Route A is 8 km and takes 40 minutes. Route B is 10 km and takes 30 minutes. Which description is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Route B is shorter and slower."
+        },
+        {
+          "id": "B",
+          "text": "Route A takes less time."
+        },
+        {
+          "id": "C",
+          "text": "Both routes are the same length."
+        },
+        {
+          "id": "D",
+          "text": "Route A is longer and quicker."
+        },
+        {
+          "id": "E",
+          "text": "Route B is longer but quicker."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Route B has more kilometres but fewer minutes.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "topic_id": 13,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": "Read: Kim is 160 cm tall, Eva is 165 cm and Lina is 170 cm. Which sentence is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All three are equally tall."
+        },
+        {
+          "id": "B",
+          "text": "Lina is shorter than Eva."
+        },
+        {
+          "id": "C",
+          "text": "Eva is taller than Kim but shorter than Lina."
+        },
+        {
+          "id": "D",
+          "text": "Kim is taller than Lina."
+        },
+        {
+          "id": "E",
+          "text": "Eva is shorter than Kim."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Eva's height lies between the other two.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the comparison. “A message by email reaches us ___ than a letter by post.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "sooner"
+        },
+        {
+          "id": "B",
+          "text": "more soon"
+        },
+        {
+          "id": "C",
+          "text": "too soon"
+        },
+        {
+          "id": "D",
+          "text": "soonest"
+        },
+        {
+          "id": "E",
+          "text": "as soon"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Soon has the comparative form sooner, used before than.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the comparison. “This backpack is ___ than mine. It weighs only half as much.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "as light"
+        },
+        {
+          "id": "B",
+          "text": "lighter"
+        },
+        {
+          "id": "C",
+          "text": "more lightly"
+        },
+        {
+          "id": "D",
+          "text": "less light"
+        },
+        {
+          "id": "E",
+          "text": "lightest"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use lighter to compare the lower weight of one backpack with another.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "“Leo scored 84 per cent and Mia scored 72 per cent.” Which statement is true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They received the same score."
+        },
+        {
+          "id": "B",
+          "text": "Mia scored more than 84 per cent."
+        },
+        {
+          "id": "C",
+          "text": "Leo scored 72 per cent."
+        },
+        {
+          "id": "D",
+          "text": "Leo’s score was higher than Mia’s."
+        },
+        {
+          "id": "E",
+          "text": "Mia’s score was higher than Leo’s."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Eighty-four is greater than seventy-two.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct way to read the fraction ¾.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Three thirds"
+        },
+        {
+          "id": "B",
+          "text": "A third"
+        },
+        {
+          "id": "C",
+          "text": "Four quarters"
+        },
+        {
+          "id": "D",
+          "text": "Three and a half"
+        },
+        {
+          "id": "E",
+          "text": "Three quarters"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "In the fraction ¾, three of four equal parts are counted.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "topic_id": 13,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct way to read this phone-number segment digit by digit: 604.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Six four zero"
+        },
+        {
+          "id": "B",
+          "text": "Six zero four"
+        },
+        {
+          "id": "C",
+          "text": "Six zero forty"
+        },
+        {
+          "id": "D",
+          "text": "Sixty zero four"
+        },
+        {
+          "id": "E",
+          "text": "Six hundred forty"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Read each digit individually in the order shown.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "topic_id": 13,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "One parcel weighs exactly 2 kg and a second parcel weighs exactly 2 kg. Which comparison is accurate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The first parcel is less heavy than the second."
+        },
+        {
+          "id": "B",
+          "text": "The second parcel is twice as heavy."
+        },
+        {
+          "id": "C",
+          "text": "The second parcel is lighter than the first."
+        },
+        {
+          "id": "D",
+          "text": "The first parcel is as heavy as the second."
+        },
+        {
+          "id": "E",
+          "text": "The first parcel is heavier than the second."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "As heavy as describes equal weight.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 13, File 5A",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

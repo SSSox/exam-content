@@ -1,0 +1,152 @@
+{
+  "format": "exambank/2",
+  "id": "kaznu/english-pre-intermediate",
+  "subject": {
+    "ru": "Иностранный язык — английский, Pre-Intermediate",
+    "kk": "Шет тілі — ағылшын тілі, Pre-Intermediate",
+    "en": "English — Pre-Intermediate"
+  },
+  "language": "en",
+  "created_on": "2026-11-24",
+  "license": "CC-BY-4.0",
+  "difficulty_scale": [
+    {
+      "level": 1,
+      "title": {
+        "ru": "Знание",
+        "en": "Knowledge"
+      }
+    },
+    {
+      "level": 2,
+      "title": {
+        "ru": "Понимание",
+        "en": "Understanding"
+      }
+    },
+    {
+      "level": 3,
+      "title": {
+        "ru": "Применение",
+        "en": "Application"
+      }
+    },
+    {
+      "level": 4,
+      "title": {
+        "ru": "Анализ",
+        "en": "Analysis"
+      }
+    }
+  ],
+  "scoring": {
+    "multiple_choice": "exact"
+  },
+  "exam": {
+    "source": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+    "source_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "level": "Pre-Intermediate",
+    "course_year": 1,
+    "semester": 1,
+    "credits": 5,
+    "format": "Тестирование",
+    "delivery": "Синхронный онлайн",
+    "platforms_named_in_program": [
+      "ИС Univer",
+      "Moodle"
+    ],
+    "official_exam_platform_instruction": "ИС Univer",
+    "test_question_count": 40,
+    "duration_minutes": 90,
+    "attempt_count": 1,
+    "proctoring": "Онлайн-прокторинг",
+    "this_practice_bank_question_count": 450,
+    "notes": [
+      "Раздел 2.1 называет ИС Univer / Moodle; раздел 2.3.2 предписывает проведение экзамена в ИС Univer. Оба указания сохранены.",
+      "Программа не задаёт число вариантов и правильных ответов. Пять вариантов и один правильный ответ выбраны для данного учебного банка.",
+      "Короткие тексты и диалоги оригинальные, не заимствованы из упражнений учебников.",
+      "Аудирование и устное произношение не проверяются без аудиоматериалов; имеются текстовые задания по фонетике."
+    ]
+  },
+  "topics": [
+    {
+      "id": 1,
+      "name": "1A All about you — questions, common verb phrases, alphabet"
+    },
+    {
+      "id": 2,
+      "name": "1B Describing people — present simple, appearance, personality, -s/-es"
+    },
+    {
+      "id": 3,
+      "name": "1C Art comes to life — present continuous, clothes, place, /ʃ/ and /ʒ/"
+    },
+    {
+      "id": 4,
+      "name": "2A Lost and found — past simple, holidays"
+    },
+    {
+      "id": 5,
+      "name": "2B On top of the world — past continuous, at/in/on, weak forms"
+    },
+    {
+      "id": 6,
+      "name": "2C A story to remember — sequencers, connectors, verb phrases, stress"
+    },
+    {
+      "id": 7,
+      "name": "3A The waiting game — be going to, airports, letter g"
+    },
+    {
+      "id": 8,
+      "name": "3B Can we meet? — future arrangements, verb + preposition"
+    },
+    {
+      "id": 9,
+      "name": "3C Word games — defining relative clauses, paraphrasing, silent e"
+    },
+    {
+      "id": 10,
+      "name": "4A Have you finished yet? — present perfect, housework, make/do"
+    },
+    {
+      "id": 11,
+      "name": "4B Shopping — present perfect vs past simple, functional language, reading"
+    },
+    {
+      "id": 12,
+      "name": "4C Weekend — indefinite pronouns, -ed/-ing adjectives"
+    },
+    {
+      "id": 13,
+      "name": "5A Fast forward — comparative adjectives/adverbs, numbers"
+    },
+    {
+      "id": 14,
+      "name": "5B Cities — superlatives, quantifiers, towns, health and body"
+    },
+    {
+      "id": 15,
+      "name": "5C Too much or not enough? — will/won’t, opposite verbs, back"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+      "file": "ПИК_СДО Moodle_pre-interm_rus.pdf"
+    }
+  ],
+  "notes": [
+    "Все задания авторские и учебные.",
+    "Все вопросы имеют один правильный ответ из пяти.",
+    "Уровни сложности являются авторской оценкой; официальное распределение сложности не заявляется.",
+    "Формат exambank/2 соответствует репозиторию SSSox/exam-content.",
+    "Содержание привязано ко всем 15 неделям программы 2026 года. Вопросы и пояснения представлены на английском языке."
+  ]
+}

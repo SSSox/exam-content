@@ -1,0 +1,1246 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 49,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: Look! The children ___ in the garden.",
+      "options": [
+        {
+          "id": "A",
+          "text": "plays"
+        },
+        {
+          "id": "B",
+          "text": "are playing"
+        },
+        {
+          "id": "C",
+          "text": "play are"
+        },
+        {
+          "id": "D",
+          "text": "playing"
+        },
+        {
+          "id": "E",
+          "text": "is playing"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Present continuous uses are + -ing with a plural subject.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: I ___ a blue jacket today.",
+      "options": [
+        {
+          "id": "A",
+          "text": "am wear"
+        },
+        {
+          "id": "B",
+          "text": "are wearing"
+        },
+        {
+          "id": "C",
+          "text": "wearing am to"
+        },
+        {
+          "id": "D",
+          "text": "am wearing"
+        },
+        {
+          "id": "E",
+          "text": "is wearing"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Use am + wearing with I.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Please be quiet. The baby ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "is sleep"
+        },
+        {
+          "id": "B",
+          "text": "is sleeping"
+        },
+        {
+          "id": "C",
+          "text": "to sleep"
+        },
+        {
+          "id": "D",
+          "text": "sleeping is to"
+        },
+        {
+          "id": "E",
+          "text": "are sleeping"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use is + -ing for an action in progress.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct question.",
+      "options": [
+        {
+          "id": "A",
+          "text": "What are you doing now?"
+        },
+        {
+          "id": "B",
+          "text": "What you are doing now?"
+        },
+        {
+          "id": "C",
+          "text": "What are doing you now?"
+        },
+        {
+          "id": "D",
+          "text": "What do you doing now?"
+        },
+        {
+          "id": "E",
+          "text": "What is you doing now?"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Present continuous questions put are before you.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct negative sentence about watching television now.",
+      "options": [
+        {
+          "id": "A",
+          "text": "They not watching television now."
+        },
+        {
+          "id": "B",
+          "text": "They doesn't watching television now."
+        },
+        {
+          "id": "C",
+          "text": "They aren't watching television now."
+        },
+        {
+          "id": "D",
+          "text": "They aren't watch television now."
+        },
+        {
+          "id": "E",
+          "text": "They isn't watching television now."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Use aren't + -ing with they.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: At the moment, Leo ___ an email.",
+      "options": [
+        {
+          "id": "A",
+          "text": "write is"
+        },
+        {
+          "id": "B",
+          "text": "is write"
+        },
+        {
+          "id": "C",
+          "text": "to writing"
+        },
+        {
+          "id": "D",
+          "text": "are writing"
+        },
+        {
+          "id": "E",
+          "text": "is writing"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "At the moment identifies an action in progress.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The two artists ___ a wall right now.",
+      "options": [
+        {
+          "id": "A",
+          "text": "to paint"
+        },
+        {
+          "id": "B",
+          "text": "paints"
+        },
+        {
+          "id": "C",
+          "text": "are painting"
+        },
+        {
+          "id": "D",
+          "text": "painting are to"
+        },
+        {
+          "id": "E",
+          "text": "is painting"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "A plural subject takes are painting.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct -ing form of run.",
+      "options": [
+        {
+          "id": "A",
+          "text": "ranning"
+        },
+        {
+          "id": "B",
+          "text": "runing"
+        },
+        {
+          "id": "C",
+          "text": "runned"
+        },
+        {
+          "id": "D",
+          "text": "runsing"
+        },
+        {
+          "id": "E",
+          "text": "running"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Double the final n before adding -ing.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct -ing form of make.",
+      "options": [
+        {
+          "id": "A",
+          "text": "maked"
+        },
+        {
+          "id": "B",
+          "text": "makesing"
+        },
+        {
+          "id": "C",
+          "text": "makeing"
+        },
+        {
+          "id": "D",
+          "text": "making"
+        },
+        {
+          "id": "E",
+          "text": "makking"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Drop the silent final e before adding -ing.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: She usually wears trainers, but today she ___ boots.",
+      "options": [
+        {
+          "id": "A",
+          "text": "is wearing"
+        },
+        {
+          "id": "B",
+          "text": "to wears"
+        },
+        {
+          "id": "C",
+          "text": "wearing"
+        },
+        {
+          "id": "D",
+          "text": "is wear"
+        },
+        {
+          "id": "E",
+          "text": "are wearing"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Today contrasts a temporary action with her usual habit.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the short answer: Is Dad cooking? — No, ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "he isn't"
+        },
+        {
+          "id": "B",
+          "text": "isn't he"
+        },
+        {
+          "id": "C",
+          "text": "he doesn't"
+        },
+        {
+          "id": "D",
+          "text": "he aren't"
+        },
+        {
+          "id": "E",
+          "text": "he not"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Use the negative form of is in the answer.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Why ___ you laughing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "are"
+        },
+        {
+          "id": "B",
+          "text": "has"
+        },
+        {
+          "id": "C",
+          "text": "does"
+        },
+        {
+          "id": "D",
+          "text": "is"
+        },
+        {
+          "id": "E",
+          "text": "am"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The continuous question uses are with you.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Which item do you usually wear on your feet inside your shoes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tie"
+        },
+        {
+          "id": "B",
+          "text": "A scarf"
+        },
+        {
+          "id": "C",
+          "text": "Gloves"
+        },
+        {
+          "id": "D",
+          "text": "Socks"
+        },
+        {
+          "id": "E",
+          "text": "A belt"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Socks are worn on the feet.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Which item is usually worn around the neck to keep warm?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gloves"
+        },
+        {
+          "id": "B",
+          "text": "A belt"
+        },
+        {
+          "id": "C",
+          "text": "Trainers"
+        },
+        {
+          "id": "D",
+          "text": "A skirt"
+        },
+        {
+          "id": "E",
+          "text": "A scarf"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "A scarf can protect the neck from cold.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Which item is usually worn on the hands in cold weather?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tie"
+        },
+        {
+          "id": "B",
+          "text": "Gloves"
+        },
+        {
+          "id": "C",
+          "text": "Socks"
+        },
+        {
+          "id": "D",
+          "text": "A skirt"
+        },
+        {
+          "id": "E",
+          "text": "Jeans"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Gloves cover the hands.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: There is a black cat ___ the table, so its head is below the tabletop.",
+      "options": [
+        {
+          "id": "A",
+          "text": "along"
+        },
+        {
+          "id": "B",
+          "text": "under"
+        },
+        {
+          "id": "C",
+          "text": "above"
+        },
+        {
+          "id": "D",
+          "text": "over"
+        },
+        {
+          "id": "E",
+          "text": "on top of"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Under expresses a lower position beneath something.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The painting is ___ the sofa, higher on the wall.",
+      "options": [
+        {
+          "id": "A",
+          "text": "above"
+        },
+        {
+          "id": "B",
+          "text": "inside"
+        },
+        {
+          "id": "C",
+          "text": "through"
+        },
+        {
+          "id": "D",
+          "text": "under"
+        },
+        {
+          "id": "E",
+          "text": "between"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Above means in a higher position.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The small shop is ___ the bank and the café.",
+      "options": [
+        {
+          "id": "A",
+          "text": "above"
+        },
+        {
+          "id": "B",
+          "text": "under"
+        },
+        {
+          "id": "C",
+          "text": "between"
+        },
+        {
+          "id": "D",
+          "text": "inside"
+        },
+        {
+          "id": "E",
+          "text": "through"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Between relates one object to two others.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Sit ___ me; the chair next to mine is empty.",
+      "options": [
+        {
+          "id": "A",
+          "text": "beside"
+        },
+        {
+          "id": "B",
+          "text": "above"
+        },
+        {
+          "id": "C",
+          "text": "between"
+        },
+        {
+          "id": "D",
+          "text": "inside"
+        },
+        {
+          "id": "E",
+          "text": "through"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Beside means next to.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which word contains the sound /ʃ/?",
+      "options": [
+        {
+          "id": "A",
+          "text": "shoe"
+        },
+        {
+          "id": "B",
+          "text": "red"
+        },
+        {
+          "id": "C",
+          "text": "go"
+        },
+        {
+          "id": "D",
+          "text": "zoo"
+        },
+        {
+          "id": "E",
+          "text": "job"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The initial sound in shoe is /ʃ/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which word contains the sound /ʒ/?",
+      "options": [
+        {
+          "id": "A",
+          "text": "chair"
+        },
+        {
+          "id": "B",
+          "text": "jeans"
+        },
+        {
+          "id": "C",
+          "text": "television"
+        },
+        {
+          "id": "D",
+          "text": "shirt"
+        },
+        {
+          "id": "E",
+          "text": "watch"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Television contains the voiced sound /ʒ/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: In the picture, a woman is holding a red bag. A child beside her is drawing. Who has the bag?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The child"
+        },
+        {
+          "id": "B",
+          "text": "The artist outside"
+        },
+        {
+          "id": "C",
+          "text": "The child's teacher"
+        },
+        {
+          "id": "D",
+          "text": "A man behind them"
+        },
+        {
+          "id": "E",
+          "text": "The woman"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The text identifies the woman as the person holding the bag.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the best answer: What are you wearing for the photo today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A white shirt and black trousers."
+        },
+        {
+          "id": "B",
+          "text": "My brother took it last year."
+        },
+        {
+          "id": "C",
+          "text": "I am a photographer."
+        },
+        {
+          "id": "D",
+          "text": "I usually get up at seven."
+        },
+        {
+          "id": "E",
+          "text": "The photo is on the wall."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The question asks about clothes being worn today.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: It is raining. Dan is standing under a tree, and his bike is behind him. Where is the bike?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In front of Dan"
+        },
+        {
+          "id": "B",
+          "text": "Under the bike shop"
+        },
+        {
+          "id": "C",
+          "text": "Behind Dan"
+        },
+        {
+          "id": "D",
+          "text": "On the tree"
+        },
+        {
+          "id": "E",
+          "text": "Between two cars"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The text states that the bike is behind him.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the live description. “In the studio right now, the artist ___ a portrait.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "is draw"
+        },
+        {
+          "id": "B",
+          "text": "are drawing"
+        },
+        {
+          "id": "C",
+          "text": "is drawing"
+        },
+        {
+          "id": "D",
+          "text": "draws usually"
+        },
+        {
+          "id": "E",
+          "text": "drawing"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "An action happening now uses is + the -ing form with the artist.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 366,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Two children are standing in front of a glass case. Where is the glass case in relation to them?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In front of them"
+        },
+        {
+          "id": "B",
+          "text": "On top of them"
+        },
+        {
+          "id": "C",
+          "text": "Behind them"
+        },
+        {
+          "id": "D",
+          "text": "Under their feet"
+        },
+        {
+          "id": "E",
+          "text": "Inside them"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "If the children are in front of the case, it is behind them.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "What do you usually fasten around your waist to keep trousers in place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pair of tights"
+        },
+        {
+          "id": "B",
+          "text": "A sleeve"
+        },
+        {
+          "id": "C",
+          "text": "A collar"
+        },
+        {
+          "id": "D",
+          "text": "A zip pull"
+        },
+        {
+          "id": "E",
+          "text": "A belt"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "A belt goes around the waist and holds trousers up.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In which word can you hear /ʒ/ as in the middle of “vision”?",
+      "options": [
+        {
+          "id": "A",
+          "text": "shower"
+        },
+        {
+          "id": "B",
+          "text": "measure"
+        },
+        {
+          "id": "C",
+          "text": "fashion"
+        },
+        {
+          "id": "D",
+          "text": "station"
+        },
+        {
+          "id": "E",
+          "text": "sugar"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Measure contains /ʒ/. The other words contain /ʃ/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the description. “The visitors ___ their coats now because the room is warm.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "is taking off"
+        },
+        {
+          "id": "B",
+          "text": "are taking off"
+        },
+        {
+          "id": "C",
+          "text": "are take off"
+        },
+        {
+          "id": "D",
+          "text": "take off yesterday"
+        },
+        {
+          "id": "E",
+          "text": "taking off"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use are + the -ing form for an action in progress with a plural subject.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 370,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "“The notice is fixed to the surface of the door.” Which phrase means the same thing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "On the door"
+        },
+        {
+          "id": "B",
+          "text": "Opposite the door"
+        },
+        {
+          "id": "C",
+          "text": "Under the door"
+        },
+        {
+          "id": "D",
+          "text": "Near the door"
+        },
+        {
+          "id": "E",
+          "text": "Behind the door"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "On indicates contact with a surface.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "A museum livestream shows change in progress. The model still has one boot in her hand. Which sentence fits the scene?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She is putting on her boots."
+        },
+        {
+          "id": "B",
+          "text": "She took her boots off last night."
+        },
+        {
+          "id": "C",
+          "text": "She has lost her boots."
+        },
+        {
+          "id": "D",
+          "text": "She will buy boots tomorrow."
+        },
+        {
+          "id": "E",
+          "text": "She puts on boots for work every week."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Is putting on describes the action that is still happening.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 3, File 1C",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

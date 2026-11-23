@@ -1,0 +1,1346 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/introduction-to-information-security",
+  "questions": [
+    {
+      "id": 213,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Что означает сокращение DLP в контексте защиты информации?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Распределённая балансировка пакетов"
+        },
+        {
+          "id": "B",
+          "text": "Проверка лицензий устройств"
+        },
+        {
+          "id": "C",
+          "text": "Восстановление удалённых разделов"
+        },
+        {
+          "id": "D",
+          "text": "Динамическая загрузка библиотек"
+        },
+        {
+          "id": "E",
+          "text": "Предотвращение утечек данных"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "DLP связано с предотвращением неправомерного раскрытия данных.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Какую задачу решает классификация сведений перед настройкой DLP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Выдаёт всем одинаковые права"
+        },
+        {
+          "id": "B",
+          "text": "Определяет, какие категории данных требуют контроля"
+        },
+        {
+          "id": "C",
+          "text": "Автоматически разрешает внешнюю публикацию"
+        },
+        {
+          "id": "D",
+          "text": "Исключает все ошибки распознавания"
+        },
+        {
+          "id": "E",
+          "text": "Заменяет анализ содержимого маршрутизацией"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Правила DLP опираются на категории защищаемой информации.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Какой канал передачи может контролироваться DLP при соответствующей реализации?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Отправка конфиденциальных файлов по электронной почте"
+        },
+        {
+          "id": "B",
+          "text": "Только частота вращения вентилятора"
+        },
+        {
+          "id": "C",
+          "text": "Только исправность кабеля"
+        },
+        {
+          "id": "D",
+          "text": "Только температура процессора"
+        },
+        {
+          "id": "E",
+          "text": "Только напряжение питания"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Электронная почта является распространённым каналом передачи данных.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "DLP блокирует отправку списка клиентов на личную почту. Какое свойство защищается непосредственно?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Физическая износостойкость"
+        },
+        {
+          "id": "B",
+          "text": "Конфиденциальность"
+        },
+        {
+          "id": "C",
+          "text": "Быстродействие диска"
+        },
+        {
+          "id": "D",
+          "text": "Геометрия сетевой топологии"
+        },
+        {
+          "id": "E",
+          "text": "Доступность внешней рекламы"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Контроль препятствует неправомерному раскрытию клиентских данных.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Почему фильтрации только по расширению файла недостаточно для выявления чувствительных данных?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Все документы одного формата имеют одинаковую секретность"
+        },
+        {
+          "id": "B",
+          "text": "Текст нельзя хранить в разных форматах"
+        },
+        {
+          "id": "C",
+          "text": "Расширение всегда криптографически подписано"
+        },
+        {
+          "id": "D",
+          "text": "Содержание может оставаться тем же после переименования"
+        },
+        {
+          "id": "E",
+          "text": "Имена файлов однозначно подтверждают владельца"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Для содержательной классификации одного имени файла недостаточно.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Какое событие является примером ложного срабатывания DLP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Блокировка подтверждённой утечки"
+        },
+        {
+          "id": "B",
+          "text": "Успешная регистрация согласованной передачи"
+        },
+        {
+          "id": "C",
+          "text": "Блокировка учебного примера, ошибочно принятого за реальные персональные данные"
+        },
+        {
+          "id": "D",
+          "text": "Выявление реального списка клиентов"
+        },
+        {
+          "id": "E",
+          "text": "Разрешённая отправка общедоступной справки"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Ложное срабатывание реагирует на безопасное содержание как на чувствительное.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "DLP не заметила реальную запрещённую передачу. Как оценить результат?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Законное изменение классификации"
+        },
+        {
+          "id": "B",
+          "text": "Гарантированное соблюдение политики"
+        },
+        {
+          "id": "C",
+          "text": "Пропуск контролируемого нарушения"
+        },
+        {
+          "id": "D",
+          "text": "Успешное подтверждение подлинности"
+        },
+        {
+          "id": "E",
+          "text": "Ложная тревога"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Факт нарушения не был выявлен средством контроля.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Зачем перед включением жёсткой блокировки DLP применять наблюдение и настройку правил?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Чтобы навсегда оставить все данные без контроля"
+        },
+        {
+          "id": "B",
+          "text": "Чтобы отказаться от проверки реальных каналов"
+        },
+        {
+          "id": "C",
+          "text": "Чтобы признать любое срабатывание доказанной утечкой"
+        },
+        {
+          "id": "D",
+          "text": "Чтобы перенести согласование правил на любого адресата"
+        },
+        {
+          "id": "E",
+          "text": "Чтобы проверить распознавание и влияние на рабочие процессы"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Пилот позволяет уменьшить ошибки правил и нежелательные блокировки.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Какая функция отличает DLP от обычного антивирусного поиска?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Контроль передачи чувствительных данных по политике"
+        },
+        {
+          "id": "B",
+          "text": "Удаление обнаруженного червя"
+        },
+        {
+          "id": "C",
+          "text": "Изоляция заражённого исполняемого файла"
+        },
+        {
+          "id": "D",
+          "text": "Проверка известных вредоносных файлов"
+        },
+        {
+          "id": "E",
+          "text": "Анализ вредоносного поведения"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "DLP ориентирована на данные и правила их использования.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Почему DLP не отменяет обучение работников?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Все сотрудники автоматически знают классификацию"
+        },
+        {
+          "id": "B",
+          "text": "Обучение необходимо только поставщикам"
+        },
+        {
+          "id": "C",
+          "text": "Любая DLP всегда отключена"
+        },
+        {
+          "id": "D",
+          "text": "Ошибки человека и новые сценарии передачи требуют понимания правил"
+        },
+        {
+          "id": "E",
+          "text": "DLP запрещает документирование"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Технические и организационные меры дополняют друг друга.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Кто должен рассматривать обоснованное исключение из правила блокировки DLP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Уполномоченный ответственный по установленной процедуре"
+        },
+        {
+          "id": "B",
+          "text": "Неизвестный отправитель письма"
+        },
+        {
+          "id": "C",
+          "text": "Сам файл без участия людей"
+        },
+        {
+          "id": "D",
+          "text": "Любой внешний адресат"
+        },
+        {
+          "id": "E",
+          "text": "Случайный посетитель портала"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Исключение должно иметь ответственное согласование.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Почему при оценке возможностей DLP важно учитывать покрываемые каналы?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Покрытие определяется только объёмом диска"
+        },
+        {
+          "id": "B",
+          "text": "Любая DLP контролирует абсолютно любой обмен"
+        },
+        {
+          "id": "C",
+          "text": "Неподдерживаемый канал может остаться вне контроля"
+        },
+        {
+          "id": "D",
+          "text": "Все файлы всегда передаются только по почте"
+        },
+        {
+          "id": "E",
+          "text": "Каналы передачи не влияют на утечки"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Реальные возможности ограничены архитектурой и настройками решения.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "topic_id": 10,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": "Правила DLP блокируют все внешние письма, включая разрешённые договоры. Что целесообразно?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Признать любое письмо доказанной утечкой"
+        },
+        {
+          "id": "B",
+          "text": "Уточнить правила, категории и согласованные сценарии передачи"
+        },
+        {
+          "id": "C",
+          "text": "Публиковать договоры в обход контроля"
+        },
+        {
+          "id": "D",
+          "text": "Удалить классификацию документов"
+        },
+        {
+          "id": "E",
+          "text": "Без анализа отключить всю защиту навсегда"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Контроль должен соответствовать реальной политике и рабочим процессам.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp",
+          "title": "Microsoft Learn — Learn about data loss prevention",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Какую цель преследует токенизация платёжного номера?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Увеличить срок хранения CVV"
+        },
+        {
+          "id": "B",
+          "text": "Удалить все ограничения операций"
+        },
+        {
+          "id": "C",
+          "text": "Сделать номер общедоступным"
+        },
+        {
+          "id": "D",
+          "text": "Уменьшить распространение исходного номера, используя заменитель"
+        },
+        {
+          "id": "E",
+          "text": "Заменить проверку получателя рекламой"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Токен заменяет чувствительный платёжный идентификатор в заданном контексте.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://csrc.nist.gov/pubs/sp/800/12/r1/final",
+          "title": "NIST SP 800-12 Rev.1 — fundamentals applied to electronic payments",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Что прежде всего защищает TLS при оплате на сайте?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Передачу данных между клиентом и сервером"
+        },
+        {
+          "id": "B",
+          "text": "Отсутствие всех ошибок платёжного приложения"
+        },
+        {
+          "id": "C",
+          "text": "Добросовестность любого владельца сертификата"
+        },
+        {
+          "id": "D",
+          "text": "Достоверность коммерческого описания товара"
+        },
+        {
+          "id": "E",
+          "text": "Автоматическую отмену неверно введённого платежа"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Защита канала не является гарантией добросовестности продавца.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://csrc.nist.gov/pubs/sp/800/12/r1/final",
+          "title": "NIST SP 800-12 Rev.1 — fundamentals applied to electronic payments",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Почему нужно проверять реквизиты получателя перед подтверждением платежа?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Сертификат сайта хранит историю всех счетов"
+        },
+        {
+          "id": "B",
+          "text": "Аутентификация клиента подтверждает любой товар"
+        },
+        {
+          "id": "C",
+          "text": "Любая ошибка реквизитов отменяется автоматически"
+        },
+        {
+          "id": "D",
+          "text": "Шифрование всегда исправляет неверный номер"
+        },
+        {
+          "id": "E",
+          "text": "Защищённый канал не исключает подмену реквизитов до отправки"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Защита передачи не проверяет экономический смысл введённых данных.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://csrc.nist.gov/pubs/sp/800/12/r1/final",
+          "title": "NIST SP 800-12 Rev.1 — fundamentals applied to electronic payments",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Какая мера помогает обнаружить нетипичную платёжную активность?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Удаление времени и источника каждой операции"
+        },
+        {
+          "id": "B",
+          "text": "Общий аккаунт всех операторов"
+        },
+        {
+          "id": "C",
+          "text": "Безусловное разрешение всех крупных переводов"
+        },
+        {
+          "id": "D",
+          "text": "Отказ от регистрации отклонённых платежей"
+        },
+        {
+          "id": "E",
+          "text": "Мониторинг операций по признакам риска"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Анализ признаков операций помогает выделять подозрительные случаи.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://csrc.nist.gov/pubs/sp/800/12/r1/final",
+          "title": "NIST SP 800-12 Rev.1 — fundamentals applied to electronic payments",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Как защитить подтверждение платежа от повторного использования одного и того же запроса?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Считать любой повтор новой авторизацией"
+        },
+        {
+          "id": "B",
+          "text": "Использовать проверяемую уникальность операции и защиту от повтора"
+        },
+        {
+          "id": "C",
+          "text": "Отключить проверку времени и статуса"
+        },
+        {
+          "id": "D",
+          "text": "Повторно использовать один код бессрочно"
+        },
+        {
+          "id": "E",
+          "text": "Удалять идентификаторы операций"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Контроль уникальности препятствует повторному исполнению одного подтверждения.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://csrc.nist.gov/pubs/sp/800/12/r1/final",
+          "title": "NIST SP 800-12 Rev.1 — fundamentals applied to electronic payments",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Какой стандарт непосредственно относится к защите данных платёжных карт?",
+      "options": [
+        {
+          "id": "A",
+          "text": "JPEG"
+        },
+        {
+          "id": "B",
+          "text": "MPEG"
+        },
+        {
+          "id": "C",
+          "text": "HTML"
+        },
+        {
+          "id": "D",
+          "text": "PCI DSS"
+        },
+        {
+          "id": "E",
+          "text": "ASCII"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "PCI DSS устанавливает требования безопасности данных платёжных карт.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://www.pcisecuritystandards.org/standards/pci-dss/",
+          "title": "PCI Security Standards Council",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Допустимо ли хранить CVV после авторизации платежа по правилу PCI DSS, рассмотренному в источнике?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Нет, даже в зашифрованном виде"
+        },
+        {
+          "id": "B",
+          "text": "Да, если карта уже оплачена"
+        },
+        {
+          "id": "C",
+          "text": "Да, если имя файла изменено"
+        },
+        {
+          "id": "D",
+          "text": "Да, если данные сжаты"
+        },
+        {
+          "id": "E",
+          "text": "Да, если их видит только кассир"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "PCI DSS запрещает такое хранение после авторизации.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://www.pcisecuritystandards.org/faqs/are-merchants-allowed-to-request-card-verification-codes-values-from-cardholders/",
+          "title": "PCI Security Standards Council",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Какой принцип подходит для доступа сотрудников к платёжной информации?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Доступ всех работников по умолчанию"
+        },
+        {
+          "id": "B",
+          "text": "Отсутствие регистрации обращений"
+        },
+        {
+          "id": "C",
+          "text": "Публикация полных реквизитов в общем чате"
+        },
+        {
+          "id": "D",
+          "text": "Бессрочный общий аккаунт подрядчиков"
+        },
+        {
+          "id": "E",
+          "text": "Доступ только в объёме служебной необходимости"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Ограничение доступа уменьшает ненужное раскрытие данных.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://csrc.nist.gov/pubs/sp/800/12/r1/final",
+          "title": "NIST SP 800-12 Rev.1 — fundamentals applied to electronic payments",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Почему для журналов платёжной системы требуется продуманное маскирование данных?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Любой текст журнала уже зашифрован"
+        },
+        {
+          "id": "B",
+          "text": "Журнал не должен превращаться в незащищённое хранилище чувствительных реквизитов"
+        },
+        {
+          "id": "C",
+          "text": "Журнал всегда обязан содержать все секреты"
+        },
+        {
+          "id": "D",
+          "text": "Номер карты не может попасть в журнал"
+        },
+        {
+          "id": "E",
+          "text": "Маскирование отменяет необходимость аудита"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Состав регистрируемых сведений должен учитывать конфиденциальность.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://csrc.nist.gov/pubs/sp/800/12/r1/final",
+          "title": "NIST SP 800-12 Rev.1 — fundamentals applied to electronic payments",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "topic_id": 10,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": "Какой набор наиболее полно защищает электронный платёж от разных классов угроз?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Только антивирус без проверки личности"
+        },
+        {
+          "id": "B",
+          "text": "Только резервирование без контроля передачи"
+        },
+        {
+          "id": "C",
+          "text": "Аутентификация, защита канала, контроль операции и аудит"
+        },
+        {
+          "id": "D",
+          "text": "Только шифрование носителя при открытых каналах"
+        },
+        {
+          "id": "E",
+          "text": "Только аутентификация при неограниченных операциях"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Платёж требует согласованных мер на разных этапах.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://csrc.nist.gov/pubs/sp/800/12/r1/final",
+          "title": "NIST SP 800-12 Rev.1 — fundamentals applied to electronic payments",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Сотруднику поддержки нужно отыскать платёж в системе. Какой реквизит лучше указать в рабочей переписке, если он однозначно находит платёж?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Внутренний идентификатор операции"
+        },
+        {
+          "id": "B",
+          "text": "Платёжный PIN-код"
+        },
+        {
+          "id": "C",
+          "text": "Фотографию карты"
+        },
+        {
+          "id": "D",
+          "text": "Код проверки карты"
+        },
+        {
+          "id": "E",
+          "text": "Полный номер карты"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Идентификатор помогает искать операцию без распространения реквизитов карты.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Экран показывает только четыре последние цифры карты. Что поможет понять, хранит ли сервер полный номер?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Сверка прав операторов на просмотр экрана"
+        },
+        {
+          "id": "B",
+          "text": "Проверка срока хранения распечатанных чеков"
+        },
+        {
+          "id": "C",
+          "text": "Проверка схемы и записей хранилища уполномоченной командой"
+        },
+        {
+          "id": "D",
+          "text": "Подсчёт цифр, видимых оператору на экране"
+        },
+        {
+          "id": "E",
+          "text": "Изучение правил оформления клиентской квитанции"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Маска на экране не определяет, что сохранили в хранилище.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://www.pcisecuritystandards.org/faqs/1146/",
+          "title": "PCI SSC FAQ 1146 — Masking and truncation",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "После повторной отправки заявки покупателя нужно исключить двойное списание по одному заказу. Какое правило отвечает задаче?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Принимать два подтверждения за разные заказы"
+        },
+        {
+          "id": "B",
+          "text": "Сопоставлять операции только по имени клиента"
+        },
+        {
+          "id": "C",
+          "text": "Обрабатывать повтор с тем же ключом операции без нового списания"
+        },
+        {
+          "id": "D",
+          "text": "Разрешать повтор по всем заказам одной цены"
+        },
+        {
+          "id": "E",
+          "text": "Создавать отдельную операцию для каждого повтора"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Повтор с тем же идентификатором можно связать с ранее обработанной операцией.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "DLP находит документы по метке. Как проверить правило после изменения шаблона таких документов?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Подсчитать страницы стандартного отчёта"
+        },
+        {
+          "id": "B",
+          "text": "Измерить часы работы службы поддержки"
+        },
+        {
+          "id": "C",
+          "text": "Проверить поле с номером кабинета"
+        },
+        {
+          "id": "D",
+          "text": "Сравнить цвет шаблона с логотипом"
+        },
+        {
+          "id": "E",
+          "text": "Проверить, что новые файлы получают метку и вызывают нужное срабатывание"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Правило по метке зависит от её сохранения в новых документах.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-simulation-mode-learn",
+          "title": "Microsoft Learn — Data loss prevention simulation mode",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Несколько обычных счетов DLP ошибочно пометила как защищённые документы. Как классифицировать эти отметки?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ложные срабатывания"
+        },
+        {
+          "id": "B",
+          "text": "Корректные срабатывания правила"
+        },
+        {
+          "id": "C",
+          "text": "Пропуски чувствительных документов"
+        },
+        {
+          "id": "D",
+          "text": "Эскалации подтверждённых утечек"
+        },
+        {
+          "id": "E",
+          "text": "Обоснованные исключения"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Отметка ошибочна, поскольку правила защиты к этим счетам не относятся.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-simulation-mode-learn",
+          "title": "Microsoft Learn — Data loss prevention simulation mode",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Правило разрешает экспорт определённых сведений только одному контрагенту. Как выразить это ограничение в DLP?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Привязать исключение к утверждённому получателю и сохранять запись об экспорте"
+        },
+        {
+          "id": "B",
+          "text": "Исключить все входящие и исходящие письма отдела"
+        },
+        {
+          "id": "C",
+          "text": "Разрешить получателю пересылать данные дальше без проверки"
+        },
+        {
+          "id": "D",
+          "text": "Принимать любое внешнее назначение после повторной попытки"
+        },
+        {
+          "id": "E",
+          "text": "Снять метку со всех копий перед отправкой"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Узкое исключение сохраняет контроль за другими отправками.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-simulation-mode-learn",
+          "title": "Microsoft Learn — Data loss prevention simulation mode",
+          "role": "supporting_reference"
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "topic_id": 10,
+      "difficulty_level": 4,
+      "type": "single_choice",
+      "question": "Зачем запускать новое правило DLP в режиме симуляции перед включением блокировки?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Проверить скорость банковских транзакций"
+        },
+        {
+          "id": "B",
+          "text": "Автоматически разрешить отправку всех совпадений навсегда"
+        },
+        {
+          "id": "C",
+          "text": "Отключить учёт действий других политик"
+        },
+        {
+          "id": "D",
+          "text": "Удалить все чувствительные файлы"
+        },
+        {
+          "id": "E",
+          "text": "Увидеть совпадения и ошибочные тревоги на рабочем потоке до применения ограничений"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Симуляция позволяет изучить ожидаемые срабатывания без применения блокировок.",
+      "source_references": [
+        {
+          "file": "Программа ик ВИБ 26-27.docx",
+          "location": "абзац 42",
+          "role": "exam_scope"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/purview/dlp-simulation-mode-learn",
+          "title": "Microsoft Learn — Data loss prevention simulation mode",
+          "role": "supporting_reference"
+        }
+      ]
+    }
+  ]
+}

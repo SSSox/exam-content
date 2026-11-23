@@ -1,0 +1,1166 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 259,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: I am hungry. Is there ___ to eat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "nowhere"
+        },
+        {
+          "id": "B",
+          "text": "anything"
+        },
+        {
+          "id": "C",
+          "text": "nobody"
+        },
+        {
+          "id": "D",
+          "text": "anyone"
+        },
+        {
+          "id": "E",
+          "text": "anywhere"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Anything refers to a thing in this question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: ___ is at the door. Can you open it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Someone"
+        },
+        {
+          "id": "B",
+          "text": "Somewhere"
+        },
+        {
+          "id": "C",
+          "text": "Nowhere"
+        },
+        {
+          "id": "D",
+          "text": "Anything"
+        },
+        {
+          "id": "E",
+          "text": "Something"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Someone refers to an unspecified person.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I can't find my phone ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "nobody"
+        },
+        {
+          "id": "B",
+          "text": "anyone"
+        },
+        {
+          "id": "C",
+          "text": "anything"
+        },
+        {
+          "id": "D",
+          "text": "anywhere"
+        },
+        {
+          "id": "E",
+          "text": "somebody"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Anywhere refers to a place in a negative sentence.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The room was empty. There was ___ inside.",
+      "options": [
+        {
+          "id": "A",
+          "text": "something"
+        },
+        {
+          "id": "B",
+          "text": "nobody"
+        },
+        {
+          "id": "C",
+          "text": "everybody"
+        },
+        {
+          "id": "D",
+          "text": "somebody"
+        },
+        {
+          "id": "E",
+          "text": "anywhere"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Nobody means no person.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I opened the box, but there was ___ in it; it was empty.",
+      "options": [
+        {
+          "id": "A",
+          "text": "somebody"
+        },
+        {
+          "id": "B",
+          "text": "something"
+        },
+        {
+          "id": "C",
+          "text": "anywhere"
+        },
+        {
+          "id": "D",
+          "text": "nothing"
+        },
+        {
+          "id": "E",
+          "text": "everything"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Nothing means no thing.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Let's go ___ quiet this weekend.",
+      "options": [
+        {
+          "id": "A",
+          "text": "nobody"
+        },
+        {
+          "id": "B",
+          "text": "someone"
+        },
+        {
+          "id": "C",
+          "text": "anyone"
+        },
+        {
+          "id": "D",
+          "text": "something"
+        },
+        {
+          "id": "E",
+          "text": "somewhere"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Somewhere refers to an unspecified place.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Did ___ call while I was out?",
+      "options": [
+        {
+          "id": "A",
+          "text": "anyone"
+        },
+        {
+          "id": "B",
+          "text": "nothing"
+        },
+        {
+          "id": "C",
+          "text": "anywhere"
+        },
+        {
+          "id": "D",
+          "text": "nowhere"
+        },
+        {
+          "id": "E",
+          "text": "anything"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Anyone refers to a person in this question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I didn't buy ___ at the market.",
+      "options": [
+        {
+          "id": "A",
+          "text": "somebody"
+        },
+        {
+          "id": "B",
+          "text": "anything"
+        },
+        {
+          "id": "C",
+          "text": "nobody"
+        },
+        {
+          "id": "D",
+          "text": "anywhere"
+        },
+        {
+          "id": "E",
+          "text": "nothing"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use anything after the negative didn't.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the standard negative sentence.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I didn't see anybody."
+        },
+        {
+          "id": "B",
+          "text": "I didn't saw anybody."
+        },
+        {
+          "id": "C",
+          "text": "I don't saw anybody."
+        },
+        {
+          "id": "D",
+          "text": "I not saw anybody."
+        },
+        {
+          "id": "E",
+          "text": "I didn't see nobody."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The standard pattern avoids a double negative and uses see after did.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: ___ in the class has a copy of the text; no student is missing one.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anywhere"
+        },
+        {
+          "id": "B",
+          "text": "Nothing"
+        },
+        {
+          "id": "C",
+          "text": "Nowhere"
+        },
+        {
+          "id": "D",
+          "text": "Nobody"
+        },
+        {
+          "id": "E",
+          "text": "Everybody"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Everybody includes every person in the group.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: This question is easy. ___ knows the answer, even the youngest child.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nowhere"
+        },
+        {
+          "id": "B",
+          "text": "No one"
+        },
+        {
+          "id": "C",
+          "text": "Nothing"
+        },
+        {
+          "id": "D",
+          "text": "Everyone"
+        },
+        {
+          "id": "E",
+          "text": "Anywhere"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Everyone fits the statement that all people know it.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: We had nowhere to stay. What does nowhere mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Not any place"
+        },
+        {
+          "id": "B",
+          "text": "A particular person"
+        },
+        {
+          "id": "C",
+          "text": "Every place"
+        },
+        {
+          "id": "D",
+          "text": "An unknown thing"
+        },
+        {
+          "id": "E",
+          "text": "A very short time"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Nowhere refers to the absence of a place.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The film was very ___. I wanted to leave.",
+      "options": [
+        {
+          "id": "A",
+          "text": "bore"
+        },
+        {
+          "id": "B",
+          "text": "boring"
+        },
+        {
+          "id": "C",
+          "text": "boredom"
+        },
+        {
+          "id": "D",
+          "text": "bored"
+        },
+        {
+          "id": "E",
+          "text": "bores"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Boring describes the thing that causes the feeling.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I felt ___ during the long lecture.",
+      "options": [
+        {
+          "id": "A",
+          "text": "bored"
+        },
+        {
+          "id": "B",
+          "text": "boring"
+        },
+        {
+          "id": "C",
+          "text": "bore"
+        },
+        {
+          "id": "D",
+          "text": "bores"
+        },
+        {
+          "id": "E",
+          "text": "boredom"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Bored describes the person's feeling.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: We were ___ about the trip to the mountains.",
+      "options": [
+        {
+          "id": "A",
+          "text": "excite"
+        },
+        {
+          "id": "B",
+          "text": "exciting"
+        },
+        {
+          "id": "C",
+          "text": "excites"
+        },
+        {
+          "id": "D",
+          "text": "excitement"
+        },
+        {
+          "id": "E",
+          "text": "excited"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Excited describes how people feel.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The trip was an ___ experience.",
+      "options": [
+        {
+          "id": "A",
+          "text": "excited"
+        },
+        {
+          "id": "B",
+          "text": "exciting"
+        },
+        {
+          "id": "C",
+          "text": "excites"
+        },
+        {
+          "id": "D",
+          "text": "excite"
+        },
+        {
+          "id": "E",
+          "text": "excitement"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Exciting describes an experience that causes excitement.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: This map is ___. I can't understand it.",
+      "options": [
+        {
+          "id": "A",
+          "text": "confuses"
+        },
+        {
+          "id": "B",
+          "text": "confuse"
+        },
+        {
+          "id": "C",
+          "text": "confused"
+        },
+        {
+          "id": "D",
+          "text": "confusing"
+        },
+        {
+          "id": "E",
+          "text": "confusion"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Confusing describes the source of the difficulty.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I am ___ because the directions are not clear.",
+      "options": [
+        {
+          "id": "A",
+          "text": "confuses"
+        },
+        {
+          "id": "B",
+          "text": "confuse"
+        },
+        {
+          "id": "C",
+          "text": "confused"
+        },
+        {
+          "id": "D",
+          "text": "confusing"
+        },
+        {
+          "id": "E",
+          "text": "confusion"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Confused describes the person's state.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: She was ___ by the unexpected present.",
+      "options": [
+        {
+          "id": "A",
+          "text": "surprise"
+        },
+        {
+          "id": "B",
+          "text": "surprisingly"
+        },
+        {
+          "id": "C",
+          "text": "surprises"
+        },
+        {
+          "id": "D",
+          "text": "surprised"
+        },
+        {
+          "id": "E",
+          "text": "surprising"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Surprised describes the recipient's feeling.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The news was ___. Nobody expected it.",
+      "options": [
+        {
+          "id": "A",
+          "text": "surprisingly"
+        },
+        {
+          "id": "B",
+          "text": "surprised"
+        },
+        {
+          "id": "C",
+          "text": "surprise"
+        },
+        {
+          "id": "D",
+          "text": "surprising"
+        },
+        {
+          "id": "E",
+          "text": "surprises"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Surprising describes news that creates surprise.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Nobody wanted to go out, so we stayed home and cooked together. Where did we spend the evening?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At a restaurant"
+        },
+        {
+          "id": "B",
+          "text": "At a concert"
+        },
+        {
+          "id": "C",
+          "text": "At the cinema"
+        },
+        {
+          "id": "D",
+          "text": "At home"
+        },
+        {
+          "id": "E",
+          "text": "At a hotel"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The text says the group stayed home.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: The walk was tiring, and I felt tired when I got home. Which word describes the walk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tiring"
+        },
+        {
+          "id": "B",
+          "text": "Tired"
+        },
+        {
+          "id": "C",
+          "text": "Tiredly"
+        },
+        {
+          "id": "D",
+          "text": "Tire"
+        },
+        {
+          "id": "E",
+          "text": "Tires"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The -ing adjective describes the activity causing tiredness.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: There was something in my bag, but I didn't know what it was. What is certain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The bag was empty."
+        },
+        {
+          "id": "B",
+          "text": "The speaker knew exactly what it was."
+        },
+        {
+          "id": "C",
+          "text": "The bag contained an unidentified thing."
+        },
+        {
+          "id": "D",
+          "text": "There was a person in the bag."
+        },
+        {
+          "id": "E",
+          "text": "The bag belonged to nobody."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Something indicates the existence of an unspecified object.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence. “We tried all the cafés after ten, but there was ___ open.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "everyone"
+        },
+        {
+          "id": "B",
+          "text": "something"
+        },
+        {
+          "id": "C",
+          "text": "anywhere"
+        },
+        {
+          "id": "D",
+          "text": "nowhere"
+        },
+        {
+          "id": "E",
+          "text": "someone"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Nowhere open means there was no open place to go to.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the question. “Would you like ___ to drink?”",
+      "options": [
+        {
+          "id": "A",
+          "text": "everywhere"
+        },
+        {
+          "id": "B",
+          "text": "something"
+        },
+        {
+          "id": "C",
+          "text": "everyone"
+        },
+        {
+          "id": "D",
+          "text": "anywhere"
+        },
+        {
+          "id": "E",
+          "text": "somebody"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Something is usual when offering food or a drink.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct sentence about the group. The meaning should be that all its members agreed.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Everyone in the group agreed."
+        },
+        {
+          "id": "B",
+          "text": "Someone in the group agreed."
+        },
+        {
+          "id": "C",
+          "text": "No one in the group agreed."
+        },
+        {
+          "id": "D",
+          "text": "Nothing in the group agreed."
+        },
+        {
+          "id": "E",
+          "text": "Anyone in the group agreed."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Everyone refers to every person in the group.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "“We enjoyed the afternoon because the music made us feel calm.” Which word can complete “The music was ___”?",
+      "options": [
+        {
+          "id": "A",
+          "text": "relaxing"
+        },
+        {
+          "id": "B",
+          "text": "worried"
+        },
+        {
+          "id": "C",
+          "text": "relaxed"
+        },
+        {
+          "id": "D",
+          "text": "disappointed"
+        },
+        {
+          "id": "E",
+          "text": "frightened"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Relaxing describes something that causes a calm feeling.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 431,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence about her reaction. “Nina was ___ when the concert was cancelled. She had waited weeks for it.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "disappointed"
+        },
+        {
+          "id": "B",
+          "text": "exciting"
+        },
+        {
+          "id": "C",
+          "text": "disappointing"
+        },
+        {
+          "id": "D",
+          "text": "relaxing"
+        },
+        {
+          "id": "E",
+          "text": "frightening"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Disappointed describes how Nina felt when her plan fell through.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the message. “I looked everywhere for my gloves. Nobody at the pool had seen them. When I came home, I found one of my gloves on each of the two kitchen chairs.” What do we learn at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The gloves were left in a café."
+        },
+        {
+          "id": "B",
+          "text": "The pool staff found both gloves."
+        },
+        {
+          "id": "C",
+          "text": "Both gloves were at home."
+        },
+        {
+          "id": "D",
+          "text": "At least one glove was still at the pool."
+        },
+        {
+          "id": "E",
+          "text": "She decided to buy new gloves."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "She found both of her gloves, one on each of the two chairs.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 12, File 4C",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

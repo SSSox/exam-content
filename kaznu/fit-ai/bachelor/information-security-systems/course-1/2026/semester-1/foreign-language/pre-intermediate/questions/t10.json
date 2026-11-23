@@ -1,0 +1,1206 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 213,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete in the present perfect: I ___ finished my homework.",
+      "options": [
+        {
+          "id": "A",
+          "text": "have"
+        },
+        {
+          "id": "B",
+          "text": "has"
+        },
+        {
+          "id": "C",
+          "text": "was"
+        },
+        {
+          "id": "D",
+          "text": "did"
+        },
+        {
+          "id": "E",
+          "text": "am"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "I takes have + past participle.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete in the present perfect: She ___ cleaned the kitchen.",
+      "options": [
+        {
+          "id": "A",
+          "text": "is"
+        },
+        {
+          "id": "B",
+          "text": "did"
+        },
+        {
+          "id": "C",
+          "text": "was"
+        },
+        {
+          "id": "D",
+          "text": "have"
+        },
+        {
+          "id": "E",
+          "text": "has"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "She takes has + past participle.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the past participle of see.",
+      "options": [
+        {
+          "id": "A",
+          "text": "seed"
+        },
+        {
+          "id": "B",
+          "text": "seeing"
+        },
+        {
+          "id": "C",
+          "text": "seen"
+        },
+        {
+          "id": "D",
+          "text": "saw"
+        },
+        {
+          "id": "E",
+          "text": "sees"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Seen is the participle used after have or has.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the past participle of write.",
+      "options": [
+        {
+          "id": "A",
+          "text": "writes"
+        },
+        {
+          "id": "B",
+          "text": "written"
+        },
+        {
+          "id": "C",
+          "text": "writed"
+        },
+        {
+          "id": "D",
+          "text": "wrote"
+        },
+        {
+          "id": "E",
+          "text": "writing"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Written is the past participle.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Have you ___ the washing-up?",
+      "options": [
+        {
+          "id": "A",
+          "text": "did"
+        },
+        {
+          "id": "B",
+          "text": "does"
+        },
+        {
+          "id": "C",
+          "text": "doing"
+        },
+        {
+          "id": "D",
+          "text": "do"
+        },
+        {
+          "id": "E",
+          "text": "done"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Present perfect requires the participle done.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct present perfect negative.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He not has made his bed."
+        },
+        {
+          "id": "B",
+          "text": "He didn't made his bed."
+        },
+        {
+          "id": "C",
+          "text": "He hasn't make his bed."
+        },
+        {
+          "id": "D",
+          "text": "He hasn't made his bed."
+        },
+        {
+          "id": "E",
+          "text": "He haven't made his bed."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Use hasn't + past participle with he.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct present perfect question about taking out the rubbish.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Has you taken out the rubbish?"
+        },
+        {
+          "id": "B",
+          "text": "Have you took out the rubbish?"
+        },
+        {
+          "id": "C",
+          "text": "Have you taken out the rubbish?"
+        },
+        {
+          "id": "D",
+          "text": "You have taken out the rubbish?"
+        },
+        {
+          "id": "E",
+          "text": "Do you taken out the rubbish?"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Use have + subject + past participle.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Has Mia washed the floor? — Yes, she ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "did"
+        },
+        {
+          "id": "B",
+          "text": "is"
+        },
+        {
+          "id": "C",
+          "text": "have"
+        },
+        {
+          "id": "D",
+          "text": "does"
+        },
+        {
+          "id": "E",
+          "text": "has"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The short answer repeats has.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I haven't finished the report ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "last Monday"
+        },
+        {
+          "id": "B",
+          "text": "last night"
+        },
+        {
+          "id": "C",
+          "text": "yesterday"
+        },
+        {
+          "id": "D",
+          "text": "ago"
+        },
+        {
+          "id": "E",
+          "text": "yet"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Yet is commonly used at the end of present perfect negatives.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct placement of just.",
+      "options": [
+        {
+          "id": "A",
+          "text": "We has just arrived."
+        },
+        {
+          "id": "B",
+          "text": "We have arrived just to."
+        },
+        {
+          "id": "C",
+          "text": "We just have arrive."
+        },
+        {
+          "id": "D",
+          "text": "We have just arrive."
+        },
+        {
+          "id": "E",
+          "text": "We have just arrived."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Just is placed between have and the participle.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Have you ___ eaten lunch? You seem full.",
+      "options": [
+        {
+          "id": "A",
+          "text": "last Friday"
+        },
+        {
+          "id": "B",
+          "text": "already"
+        },
+        {
+          "id": "C",
+          "text": "yesterday"
+        },
+        {
+          "id": "D",
+          "text": "ago"
+        },
+        {
+          "id": "E",
+          "text": "last week"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Already asks about completion earlier than expected.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Leo has gone to the supermarket and hasn't returned. Where is he now according to the text?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At the university"
+        },
+        {
+          "id": "B",
+          "text": "At his friend's wedding"
+        },
+        {
+          "id": "C",
+          "text": "In the kitchen"
+        },
+        {
+          "id": "D",
+          "text": "Away at the supermarket"
+        },
+        {
+          "id": "E",
+          "text": "Back at home"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Has gone describes a visit from which he has not returned.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Eva has been to the dentist and is now at home. Has she returned?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, she is back."
+        },
+        {
+          "id": "B",
+          "text": "She will first go tomorrow."
+        },
+        {
+          "id": "C",
+          "text": "No, she has not left home."
+        },
+        {
+          "id": "D",
+          "text": "No, she is still at the dentist."
+        },
+        {
+          "id": "E",
+          "text": "She is travelling there now."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Has been describes a completed visit in this context.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: Please ___ your bed before breakfast.",
+      "options": [
+        {
+          "id": "A",
+          "text": "take"
+        },
+        {
+          "id": "B",
+          "text": "go"
+        },
+        {
+          "id": "C",
+          "text": "do"
+        },
+        {
+          "id": "D",
+          "text": "get"
+        },
+        {
+          "id": "E",
+          "text": "make"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The collocation is make your bed.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: Who usually ___ the washing-up?",
+      "options": [
+        {
+          "id": "A",
+          "text": "gets"
+        },
+        {
+          "id": "B",
+          "text": "does"
+        },
+        {
+          "id": "C",
+          "text": "takes"
+        },
+        {
+          "id": "D",
+          "text": "goes"
+        },
+        {
+          "id": "E",
+          "text": "makes"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "The collocation is do the washing-up.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: I need to ___ the shopping after work.",
+      "options": [
+        {
+          "id": "A",
+          "text": "take"
+        },
+        {
+          "id": "B",
+          "text": "go"
+        },
+        {
+          "id": "C",
+          "text": "do"
+        },
+        {
+          "id": "D",
+          "text": "make"
+        },
+        {
+          "id": "E",
+          "text": "get"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Do the shopping means buy the things you need.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Let's ___ a plan for the weekend.",
+      "options": [
+        {
+          "id": "A",
+          "text": "do"
+        },
+        {
+          "id": "B",
+          "text": "get"
+        },
+        {
+          "id": "C",
+          "text": "go"
+        },
+        {
+          "id": "D",
+          "text": "make"
+        },
+        {
+          "id": "E",
+          "text": "take"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The collocation is make a plan.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The children should ___ their rooms before the guests arrive.",
+      "options": [
+        {
+          "id": "A",
+          "text": "boil"
+        },
+        {
+          "id": "B",
+          "text": "wear"
+        },
+        {
+          "id": "C",
+          "text": "lend"
+        },
+        {
+          "id": "D",
+          "text": "depart"
+        },
+        {
+          "id": "E",
+          "text": "tidy"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Tidy a room means put its contents in order.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Could you ___ the rubbish out?",
+      "options": [
+        {
+          "id": "A",
+          "text": "take"
+        },
+        {
+          "id": "B",
+          "text": "put to"
+        },
+        {
+          "id": "C",
+          "text": "do"
+        },
+        {
+          "id": "D",
+          "text": "make"
+        },
+        {
+          "id": "E",
+          "text": "have"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Take the rubbish out is a household task.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which household task involves removing dust from a carpet with a machine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ironing"
+        },
+        {
+          "id": "B",
+          "text": "Vacuuming"
+        },
+        {
+          "id": "C",
+          "text": "Making the bed"
+        },
+        {
+          "id": "D",
+          "text": "Washing-up"
+        },
+        {
+          "id": "E",
+          "text": "Watering plants"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "A vacuum cleaner removes dust from carpets.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which task makes creased clothes smooth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Washing-up"
+        },
+        {
+          "id": "B",
+          "text": "Vacuuming"
+        },
+        {
+          "id": "C",
+          "text": "Taking out rubbish"
+        },
+        {
+          "id": "D",
+          "text": "Ironing"
+        },
+        {
+          "id": "E",
+          "text": "Dusting shelves"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Ironing removes creases from clothes.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: I've done the washing, but I haven't ironed the shirts yet. What still needs doing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buying shirts"
+        },
+        {
+          "id": "B",
+          "text": "Making the bed"
+        },
+        {
+          "id": "C",
+          "text": "Washing the clothes"
+        },
+        {
+          "id": "D",
+          "text": "Cleaning the floor"
+        },
+        {
+          "id": "E",
+          "text": "Ironing the shirts"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The shirts have not yet been ironed.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: We have already cleaned every room except the bathroom. Which room still needs cleaning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The kitchen"
+        },
+        {
+          "id": "B",
+          "text": "Every room equally"
+        },
+        {
+          "id": "C",
+          "text": "The bathroom"
+        },
+        {
+          "id": "D",
+          "text": "The living room"
+        },
+        {
+          "id": "E",
+          "text": "The bedroom"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Except identifies the room not yet cleaned.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence. “Have the children ___ their rooms yet?”",
+      "options": [
+        {
+          "id": "A",
+          "text": "to tidy"
+        },
+        {
+          "id": "B",
+          "text": "tidied"
+        },
+        {
+          "id": "C",
+          "text": "tidying"
+        },
+        {
+          "id": "D",
+          "text": "tidies"
+        },
+        {
+          "id": "E",
+          "text": "tidy"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "The present perfect question uses have + subject + past participle.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the negative sentence. “We’ve washed the cups, but we ___ the plates yet.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "haven’t washed"
+        },
+        {
+          "id": "B",
+          "text": "hasn’t washed"
+        },
+        {
+          "id": "C",
+          "text": "haven’t washing"
+        },
+        {
+          "id": "D",
+          "text": "not washed"
+        },
+        {
+          "id": "E",
+          "text": "haven’t wash"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "With we, the present perfect negative is haven’t + the past participle.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "The washing machine stopped a few seconds ago. Choose the sentence that expresses this.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The washing machine has just stopped."
+        },
+        {
+          "id": "B",
+          "text": "The washing machine stops every night."
+        },
+        {
+          "id": "C",
+          "text": "The washing machine has never stopped."
+        },
+        {
+          "id": "D",
+          "text": "The washing machine will stop in a few minutes."
+        },
+        {
+          "id": "E",
+          "text": "The washing machine is still running."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Just in the present perfect shows that the action happened very recently.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the phrase. “Could you ___ the washing-up after dinner?”",
+      "options": [
+        {
+          "id": "A",
+          "text": "fold"
+        },
+        {
+          "id": "B",
+          "text": "set"
+        },
+        {
+          "id": "C",
+          "text": "do"
+        },
+        {
+          "id": "D",
+          "text": "put"
+        },
+        {
+          "id": "E",
+          "text": "make"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Do the washing-up means wash the dishes.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the expression. “Don’t forget to ___ a shopping list before we leave.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "give"
+        },
+        {
+          "id": "B",
+          "text": "be"
+        },
+        {
+          "id": "C",
+          "text": "make"
+        },
+        {
+          "id": "D",
+          "text": "do"
+        },
+        {
+          "id": "E",
+          "text": "hold"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Make a list means create one.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which chore can you do with a broom?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clean the oven."
+        },
+        {
+          "id": "B",
+          "text": "Hang out the washing."
+        },
+        {
+          "id": "C",
+          "text": "Sweep the floor."
+        },
+        {
+          "id": "D",
+          "text": "Fold the laundry."
+        },
+        {
+          "id": "E",
+          "text": "Make the bed."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "A broom is used to sweep the floor.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the message. “I’ve already hung out the washing. I haven’t swept the kitchen yet. Could you do that before five?” What is the requested task?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Start the washing machine."
+        },
+        {
+          "id": "B",
+          "text": "Sweep the kitchen floor."
+        },
+        {
+          "id": "C",
+          "text": "Wash the clothes."
+        },
+        {
+          "id": "D",
+          "text": "Bring the washing in."
+        },
+        {
+          "id": "E",
+          "text": "Clean the bathroom."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "That refers back to the unfinished task of sweeping the kitchen.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 10, File 4A",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

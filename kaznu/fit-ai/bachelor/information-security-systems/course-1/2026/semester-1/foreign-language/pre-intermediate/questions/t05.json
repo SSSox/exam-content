@@ -1,0 +1,1246 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 97,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete in the past continuous: At eight yesterday, I ___ dinner.",
+      "options": [
+        {
+          "id": "A",
+          "text": "was cook"
+        },
+        {
+          "id": "B",
+          "text": "cooking was to"
+        },
+        {
+          "id": "C",
+          "text": "were cooking"
+        },
+        {
+          "id": "D",
+          "text": "to cook"
+        },
+        {
+          "id": "E",
+          "text": "was cooking"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "I takes was + -ing.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: They ___ football when the rain started.",
+      "options": [
+        {
+          "id": "A",
+          "text": "were play"
+        },
+        {
+          "id": "B",
+          "text": "were playing"
+        },
+        {
+          "id": "C",
+          "text": "to playing"
+        },
+        {
+          "id": "D",
+          "text": "playing were to"
+        },
+        {
+          "id": "E",
+          "text": "was playing"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "They takes were + -ing.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct past continuous question.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Were you sleep at midnight?"
+        },
+        {
+          "id": "B",
+          "text": "Were you sleeping at midnight?"
+        },
+        {
+          "id": "C",
+          "text": "Were sleeping you at midnight?"
+        },
+        {
+          "id": "D",
+          "text": "Was you sleeping at midnight?"
+        },
+        {
+          "id": "E",
+          "text": "Did you sleeping at midnight?"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use were + subject + -ing.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct negative.",
+      "options": [
+        {
+          "id": "A",
+          "text": "She wasn't listen when I spoke."
+        },
+        {
+          "id": "B",
+          "text": "She wasn't listening when I spoke."
+        },
+        {
+          "id": "C",
+          "text": "She weren't listening when I spoke."
+        },
+        {
+          "id": "D",
+          "text": "She didn't listening when I spoke."
+        },
+        {
+          "id": "E",
+          "text": "She not listening when I spoke."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use wasn't + -ing with she.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: While I ___, the lights went out.",
+      "options": [
+        {
+          "id": "A",
+          "text": "am read"
+        },
+        {
+          "id": "B",
+          "text": "were reading"
+        },
+        {
+          "id": "C",
+          "text": "reading was to"
+        },
+        {
+          "id": "D",
+          "text": "was read"
+        },
+        {
+          "id": "E",
+          "text": "was reading"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The ongoing past action is expressed by was reading.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: He ___ his arm while he was skiing.",
+      "options": [
+        {
+          "id": "A",
+          "text": "breaks"
+        },
+        {
+          "id": "B",
+          "text": "was break"
+        },
+        {
+          "id": "C",
+          "text": "to broke"
+        },
+        {
+          "id": "D",
+          "text": "broke"
+        },
+        {
+          "id": "E",
+          "text": "breaking"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The completed event interrupting the background activity takes past simple.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: We were walking home when it ___ to snow.",
+      "options": [
+        {
+          "id": "A",
+          "text": "started"
+        },
+        {
+          "id": "B",
+          "text": "starts"
+        },
+        {
+          "id": "C",
+          "text": "starting"
+        },
+        {
+          "id": "D",
+          "text": "was start"
+        },
+        {
+          "id": "E",
+          "text": "to starting"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The new event is expressed by past simple.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the past continuous form of sit with she.",
+      "options": [
+        {
+          "id": "A",
+          "text": "She sitting was to."
+        },
+        {
+          "id": "B",
+          "text": "She were sitting."
+        },
+        {
+          "id": "C",
+          "text": "She did sitting."
+        },
+        {
+          "id": "D",
+          "text": "She was sitting."
+        },
+        {
+          "id": "E",
+          "text": "She was siting."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Double t in sitting and use was with she.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: What ___ Tom doing when you saw him?",
+      "options": [
+        {
+          "id": "A",
+          "text": "has"
+        },
+        {
+          "id": "B",
+          "text": "were"
+        },
+        {
+          "id": "C",
+          "text": "does"
+        },
+        {
+          "id": "D",
+          "text": "was"
+        },
+        {
+          "id": "E",
+          "text": "did"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Use was with singular Tom in the past continuous.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the short answer: Were the children studying? — No, they ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "aren't to"
+        },
+        {
+          "id": "B",
+          "text": "weren't"
+        },
+        {
+          "id": "C",
+          "text": "wasn't"
+        },
+        {
+          "id": "D",
+          "text": "didn't"
+        },
+        {
+          "id": "E",
+          "text": "don't"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "The answer repeats were in its negative form.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: At ten, Maya was studying and her brother was washing the dishes. What was her brother doing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Studying with Maya"
+        },
+        {
+          "id": "B",
+          "text": "Sleeping"
+        },
+        {
+          "id": "C",
+          "text": "Watching a film"
+        },
+        {
+          "id": "D",
+          "text": "Walking to school"
+        },
+        {
+          "id": "E",
+          "text": "Washing the dishes"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The text names his ongoing activity.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Which sentence describes an action already in progress at a past moment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I have just arrived outside."
+        },
+        {
+          "id": "B",
+          "text": "I will wait outside tomorrow."
+        },
+        {
+          "id": "C",
+          "text": "At six, I was waiting outside."
+        },
+        {
+          "id": "D",
+          "text": "I am waiting outside now."
+        },
+        {
+          "id": "E",
+          "text": "I wait outside every day."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Was waiting marks an ongoing past action.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: I ___ a shower when the phone rang.",
+      "options": [
+        {
+          "id": "A",
+          "text": "was have"
+        },
+        {
+          "id": "B",
+          "text": "were having"
+        },
+        {
+          "id": "C",
+          "text": "having was to"
+        },
+        {
+          "id": "D",
+          "text": "was having"
+        },
+        {
+          "id": "E",
+          "text": "to had"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Use past continuous for the interrupted activity.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the sentence describing two simultaneous ongoing past actions.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I cook and Eva sets the table every day."
+        },
+        {
+          "id": "B",
+          "text": "I have cooked and Eva has left."
+        },
+        {
+          "id": "C",
+          "text": "I cooked before Eva arrived."
+        },
+        {
+          "id": "D",
+          "text": "While I was cooking, Eva was setting the table."
+        },
+        {
+          "id": "E",
+          "text": "I will cook when Eva arrives."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The two past continuous actions overlap.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: Our class starts ___ nine o'clock.",
+      "options": [
+        {
+          "id": "A",
+          "text": "by to"
+        },
+        {
+          "id": "B",
+          "text": "at"
+        },
+        {
+          "id": "C",
+          "text": "from to"
+        },
+        {
+          "id": "D",
+          "text": "in"
+        },
+        {
+          "id": "E",
+          "text": "on"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use at with a clock time.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: My birthday is ___ October.",
+      "options": [
+        {
+          "id": "A",
+          "text": "at"
+        },
+        {
+          "id": "B",
+          "text": "in"
+        },
+        {
+          "id": "C",
+          "text": "by to"
+        },
+        {
+          "id": "D",
+          "text": "on"
+        },
+        {
+          "id": "E",
+          "text": "from to"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use in with months.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: The meeting is ___ Monday.",
+      "options": [
+        {
+          "id": "A",
+          "text": "in"
+        },
+        {
+          "id": "B",
+          "text": "at"
+        },
+        {
+          "id": "C",
+          "text": "onto"
+        },
+        {
+          "id": "D",
+          "text": "on"
+        },
+        {
+          "id": "E",
+          "text": "into"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Use on with days.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: She was born ___ 2007.",
+      "options": [
+        {
+          "id": "A",
+          "text": "in"
+        },
+        {
+          "id": "B",
+          "text": "at"
+        },
+        {
+          "id": "C",
+          "text": "onto"
+        },
+        {
+          "id": "D",
+          "text": "into"
+        },
+        {
+          "id": "E",
+          "text": "on"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Use in with years.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: We usually study ___ the evening.",
+      "options": [
+        {
+          "id": "A",
+          "text": "on"
+        },
+        {
+          "id": "B",
+          "text": "in"
+        },
+        {
+          "id": "C",
+          "text": "into"
+        },
+        {
+          "id": "D",
+          "text": "at"
+        },
+        {
+          "id": "E",
+          "text": "onto"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "The phrase is in the evening.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Many people sleep ___ night.",
+      "options": [
+        {
+          "id": "A",
+          "text": "in to"
+        },
+        {
+          "id": "B",
+          "text": "onto"
+        },
+        {
+          "id": "C",
+          "text": "into"
+        },
+        {
+          "id": "D",
+          "text": "at"
+        },
+        {
+          "id": "E",
+          "text": "on"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The usual phrase is at night.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The keys are ___ my bag, inside its front pocket.",
+      "options": [
+        {
+          "id": "A",
+          "text": "in"
+        },
+        {
+          "id": "B",
+          "text": "between"
+        },
+        {
+          "id": "C",
+          "text": "behind"
+        },
+        {
+          "id": "D",
+          "text": "above"
+        },
+        {
+          "id": "E",
+          "text": "on"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "In describes an enclosed location.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: We met ___ the bus stop, at the place where the bus collects passengers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "onto"
+        },
+        {
+          "id": "B",
+          "text": "at"
+        },
+        {
+          "id": "C",
+          "text": "between"
+        },
+        {
+          "id": "D",
+          "text": "through"
+        },
+        {
+          "id": "E",
+          "text": "into"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "At identifies a point or meeting location.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The photo is hanging ___ the wall.",
+      "options": [
+        {
+          "id": "A",
+          "text": "under"
+        },
+        {
+          "id": "B",
+          "text": "on"
+        },
+        {
+          "id": "C",
+          "text": "in"
+        },
+        {
+          "id": "D",
+          "text": "between"
+        },
+        {
+          "id": "E",
+          "text": "through"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use on for attachment to a wall.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In unstressed British pronunciation, which is a common weak form of were?",
+      "options": [
+        {
+          "id": "A",
+          "text": "/wə/"
+        },
+        {
+          "id": "B",
+          "text": "/biː/"
+        },
+        {
+          "id": "C",
+          "text": "/hæv/"
+        },
+        {
+          "id": "D",
+          "text": "/dʌz/"
+        },
+        {
+          "id": "E",
+          "text": "/ɡəʊ/"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Were commonly has the weak form /wə/ when unstressed.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence. “At half past seven yesterday, Farida and I ___ for a map at the station.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "are look"
+        },
+        {
+          "id": "B",
+          "text": "were looked"
+        },
+        {
+          "id": "C",
+          "text": "were look"
+        },
+        {
+          "id": "D",
+          "text": "were looking"
+        },
+        {
+          "id": "E",
+          "text": "was looking"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The subject Farida and I takes were. The -ing form describes the activity in progress.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "“While the hotel staff were serving breakfast, the lights suddenly ___ out.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "goes"
+        },
+        {
+          "id": "B",
+          "text": "gone"
+        },
+        {
+          "id": "C",
+          "text": "going"
+        },
+        {
+          "id": "D",
+          "text": "went"
+        },
+        {
+          "id": "E",
+          "text": "were go"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Use the past simple went for the sudden event during another action.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence about a date. “The photo was taken ___ 14 September.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "by"
+        },
+        {
+          "id": "B",
+          "text": "during"
+        },
+        {
+          "id": "C",
+          "text": "at"
+        },
+        {
+          "id": "D",
+          "text": "on"
+        },
+        {
+          "id": "E",
+          "text": "in"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Use on before a specific date.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which phrase completes the usual time expression? “The streets were empty ___ the early morning, around five.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "for"
+        },
+        {
+          "id": "B",
+          "text": "in"
+        },
+        {
+          "id": "C",
+          "text": "on"
+        },
+        {
+          "id": "D",
+          "text": "to"
+        },
+        {
+          "id": "E",
+          "text": "between"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "The usual expression is in the early morning.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In standard British English, which is the usual weak form of “was” in an unstressed sentence such as “I was waiting”?",
+      "options": [
+        {
+          "id": "A",
+          "text": "/wɜː/"
+        },
+        {
+          "id": "B",
+          "text": "/wə/"
+        },
+        {
+          "id": "C",
+          "text": "/əz/"
+        },
+        {
+          "id": "D",
+          "text": "/wəz/"
+        },
+        {
+          "id": "E",
+          "text": "/wɒz/"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Unstressed was commonly has the schwa /ə/ and keeps the final /z/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the best answer to “What were they doing when the bus arrived?”",
+      "options": [
+        {
+          "id": "A",
+          "text": "They will buy tickets later."
+        },
+        {
+          "id": "B",
+          "text": "They travelled there last summer."
+        },
+        {
+          "id": "C",
+          "text": "They were looking at the timetable."
+        },
+        {
+          "id": "D",
+          "text": "They usually wait indoors."
+        },
+        {
+          "id": "E",
+          "text": "They have a map in their bag."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The question asks about the action already in progress at that past moment.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 385,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the message. “At nine, Lena was crossing the bridge. As she was crossing, her phone rang.” Which event interrupted the other activity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She started work."
+        },
+        {
+          "id": "B",
+          "text": "The bridge closed."
+        },
+        {
+          "id": "C",
+          "text": "She reached the far side of the bridge."
+        },
+        {
+          "id": "D",
+          "text": "Her phone rang."
+        },
+        {
+          "id": "E",
+          "text": "She switched the phone off."
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The phone rang during the longer activity of crossing the bridge.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 5, File 2B",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

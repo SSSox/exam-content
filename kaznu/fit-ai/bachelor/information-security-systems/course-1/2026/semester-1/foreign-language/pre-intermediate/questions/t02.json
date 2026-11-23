@@ -1,0 +1,1246 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 25,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: My brother ___ in a bank.",
+      "options": [
+        {
+          "id": "A",
+          "text": "works"
+        },
+        {
+          "id": "B",
+          "text": "working"
+        },
+        {
+          "id": "C",
+          "text": "to work"
+        },
+        {
+          "id": "D",
+          "text": "is work"
+        },
+        {
+          "id": "E",
+          "text": "work"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Use the -s form with a third-person singular subject.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: We ___ near the university.",
+      "options": [
+        {
+          "id": "A",
+          "text": "is live"
+        },
+        {
+          "id": "B",
+          "text": "living"
+        },
+        {
+          "id": "C",
+          "text": "to lives"
+        },
+        {
+          "id": "D",
+          "text": "lives"
+        },
+        {
+          "id": "E",
+          "text": "live"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Use the base form with we in the present simple.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: Eva ___ coffee; she prefers tea.",
+      "options": [
+        {
+          "id": "A",
+          "text": "doesn't drinks"
+        },
+        {
+          "id": "B",
+          "text": "not drinks"
+        },
+        {
+          "id": "C",
+          "text": "don't drink"
+        },
+        {
+          "id": "D",
+          "text": "doesn't drink"
+        },
+        {
+          "id": "E",
+          "text": "isn't drink"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "After doesn't, use the base form drink.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: ___ your parents work on Saturdays?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Has"
+        },
+        {
+          "id": "B",
+          "text": "Are to"
+        },
+        {
+          "id": "C",
+          "text": "Is"
+        },
+        {
+          "id": "D",
+          "text": "Does"
+        },
+        {
+          "id": "E",
+          "text": "Do"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Use do with the plural subject your parents.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct sentence.",
+      "options": [
+        {
+          "id": "A",
+          "text": "He does usually walks to work."
+        },
+        {
+          "id": "B",
+          "text": "He usually walking to work."
+        },
+        {
+          "id": "C",
+          "text": "He usually walk to work."
+        },
+        {
+          "id": "D",
+          "text": "He walks usually to work does."
+        },
+        {
+          "id": "E",
+          "text": "He usually walks to work."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Present simple third-person singular needs walks.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: My teacher is ___ late; she always arrives early.",
+      "options": [
+        {
+          "id": "A",
+          "text": "all"
+        },
+        {
+          "id": "B",
+          "text": "each"
+        },
+        {
+          "id": "C",
+          "text": "always"
+        },
+        {
+          "id": "D",
+          "text": "never"
+        },
+        {
+          "id": "E",
+          "text": "every"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Never fits the meaning of arriving early every time.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: How often ___ she visit her grandparents?",
+      "options": [
+        {
+          "id": "A",
+          "text": "do"
+        },
+        {
+          "id": "B",
+          "text": "does"
+        },
+        {
+          "id": "C",
+          "text": "is"
+        },
+        {
+          "id": "D",
+          "text": "are"
+        },
+        {
+          "id": "E",
+          "text": "has"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Use does with she in a present simple question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct short answer: Does Mark like chess?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, he likes does."
+        },
+        {
+          "id": "B",
+          "text": "Yes, does he."
+        },
+        {
+          "id": "C",
+          "text": "Yes, he does."
+        },
+        {
+          "id": "D",
+          "text": "Yes, he do."
+        },
+        {
+          "id": "E",
+          "text": "Yes, he is."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Match the auxiliary does in the question.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The shop ___ at nine every weekday.",
+      "options": [
+        {
+          "id": "A",
+          "text": "opens"
+        },
+        {
+          "id": "B",
+          "text": "to opens"
+        },
+        {
+          "id": "C",
+          "text": "is open to"
+        },
+        {
+          "id": "D",
+          "text": "opening"
+        },
+        {
+          "id": "E",
+          "text": "open"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "A regular schedule can use the present simple.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I ___ wear a tie to my classes.",
+      "options": [
+        {
+          "id": "A",
+          "text": "doesn't"
+        },
+        {
+          "id": "B",
+          "text": "isn't"
+        },
+        {
+          "id": "C",
+          "text": "am not to"
+        },
+        {
+          "id": "D",
+          "text": "don't"
+        },
+        {
+          "id": "E",
+          "text": "aren't to"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Use don't with I before a base verb.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct negative sentence.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mila doesn't drive to work."
+        },
+        {
+          "id": "B",
+          "text": "Mila isn't drive to work."
+        },
+        {
+          "id": "C",
+          "text": "Mila don't drive to work."
+        },
+        {
+          "id": "D",
+          "text": "Mila doesn't drives to work."
+        },
+        {
+          "id": "E",
+          "text": "Mila not drives to work."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Doesn't is followed by the base form drive.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: ___ does your uncle do? — He is a chef.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Whose"
+        },
+        {
+          "id": "B",
+          "text": "When"
+        },
+        {
+          "id": "C",
+          "text": "Where"
+        },
+        {
+          "id": "D",
+          "text": "What"
+        },
+        {
+          "id": "E",
+          "text": "How many"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "What does someone do asks about their job.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The students ___ English twice a week.",
+      "options": [
+        {
+          "id": "A",
+          "text": "study"
+        },
+        {
+          "id": "B",
+          "text": "studies"
+        },
+        {
+          "id": "C",
+          "text": "is study"
+        },
+        {
+          "id": "D",
+          "text": "studying"
+        },
+        {
+          "id": "E",
+          "text": "to studies"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "A plural subject takes study.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read: Omar cycles to college from Monday to Friday. He takes the bus on Saturday. How does he travel on weekdays?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By bicycle"
+        },
+        {
+          "id": "B",
+          "text": "On foot"
+        },
+        {
+          "id": "C",
+          "text": "By taxi"
+        },
+        {
+          "id": "D",
+          "text": "By train"
+        },
+        {
+          "id": "E",
+          "text": "By bus"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Monday to Friday are weekdays, when Omar cycles.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "A person who likes giving things to other people is ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "generous"
+        },
+        {
+          "id": "B",
+          "text": "lazy"
+        },
+        {
+          "id": "C",
+          "text": "rude"
+        },
+        {
+          "id": "D",
+          "text": "selfish"
+        },
+        {
+          "id": "E",
+          "text": "shy"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Generous describes willingness to give or share.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "A person who does not like doing much work is ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "patient"
+        },
+        {
+          "id": "B",
+          "text": "polite"
+        },
+        {
+          "id": "C",
+          "text": "hard-working"
+        },
+        {
+          "id": "D",
+          "text": "generous"
+        },
+        {
+          "id": "E",
+          "text": "lazy"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Lazy means unwilling to work or make an effort.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "A person who finds it difficult to talk to strangers may be ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "sociable"
+        },
+        {
+          "id": "B",
+          "text": "outgoing"
+        },
+        {
+          "id": "C",
+          "text": "confident"
+        },
+        {
+          "id": "D",
+          "text": "talkative"
+        },
+        {
+          "id": "E",
+          "text": "shy"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Shy describes nervousness in social situations.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Someone who tells the truth is ___.",
+      "options": [
+        {
+          "id": "A",
+          "text": "impolite"
+        },
+        {
+          "id": "B",
+          "text": "dishonest"
+        },
+        {
+          "id": "C",
+          "text": "honest"
+        },
+        {
+          "id": "D",
+          "text": "selfish"
+        },
+        {
+          "id": "E",
+          "text": "careless"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Honest describes truthful behaviour.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: My sister has long, ___ hair, with no curls.",
+      "options": [
+        {
+          "id": "A",
+          "text": "bearded"
+        },
+        {
+          "id": "B",
+          "text": "straight"
+        },
+        {
+          "id": "C",
+          "text": "bald"
+        },
+        {
+          "id": "D",
+          "text": "moustached"
+        },
+        {
+          "id": "E",
+          "text": "curly"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Straight hair does not have curls.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which question asks about appearance rather than personality?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Is he patient with children?"
+        },
+        {
+          "id": "B",
+          "text": "Is he generous?"
+        },
+        {
+          "id": "C",
+          "text": "Does he tell the truth?"
+        },
+        {
+          "id": "D",
+          "text": "What is he like as a person?"
+        },
+        {
+          "id": "E",
+          "text": "What does he look like?"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Look like asks about physical appearance.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which question asks about someone's character?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Does she have curly hair?"
+        },
+        {
+          "id": "B",
+          "text": "What is your new flatmate like?"
+        },
+        {
+          "id": "C",
+          "text": "What colour are her eyes?"
+        },
+        {
+          "id": "D",
+          "text": "How tall is she?"
+        },
+        {
+          "id": "E",
+          "text": "What is she wearing?"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Be like can ask for a description of personality.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In which word is the final -s pronounced /s/?",
+      "options": [
+        {
+          "id": "A",
+          "text": "lives"
+        },
+        {
+          "id": "B",
+          "text": "works"
+        },
+        {
+          "id": "C",
+          "text": "runs"
+        },
+        {
+          "id": "D",
+          "text": "reads"
+        },
+        {
+          "id": "E",
+          "text": "plays"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "After the voiceless /k/, the ending is /s/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "In which word is the final -s pronounced /ɪz/?",
+      "options": [
+        {
+          "id": "A",
+          "text": "works"
+        },
+        {
+          "id": "B",
+          "text": "helps"
+        },
+        {
+          "id": "C",
+          "text": "sleeps"
+        },
+        {
+          "id": "D",
+          "text": "likes"
+        },
+        {
+          "id": "E",
+          "text": "watches"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "After /tʃ/, the ending adds the syllable /ɪz/.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the best reply: What is your new classmate like? — He is very ___. He always says please and thank you.",
+      "options": [
+        {
+          "id": "A",
+          "text": "lazy"
+        },
+        {
+          "id": "B",
+          "text": "polite"
+        },
+        {
+          "id": "C",
+          "text": "rude"
+        },
+        {
+          "id": "D",
+          "text": "careless"
+        },
+        {
+          "id": "E",
+          "text": "dishonest"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "The behaviour described is polite.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the sentence about a regular habit. “On Fridays, Sam ___ his brother to school.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "carryes"
+        },
+        {
+          "id": "B",
+          "text": "carries"
+        },
+        {
+          "id": "C",
+          "text": "carry"
+        },
+        {
+          "id": "D",
+          "text": "to carry"
+        },
+        {
+          "id": "E",
+          "text": "is carry"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "With he or she, change a consonant + y to -ies in carries.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct reply. “Do your neighbours work from home?” “Yes, ___.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "they have"
+        },
+        {
+          "id": "B",
+          "text": "they are"
+        },
+        {
+          "id": "C",
+          "text": "they does"
+        },
+        {
+          "id": "D",
+          "text": "they do"
+        },
+        {
+          "id": "E",
+          "text": "they did"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The subject is plural, and the short answer repeats do.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "“Jamil likes meeting new people and starts conversations easily.” Which word describes him best?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Impatient"
+        },
+        {
+          "id": "B",
+          "text": "Outgoing"
+        },
+        {
+          "id": "C",
+          "text": "Untidy"
+        },
+        {
+          "id": "D",
+          "text": "Careless"
+        },
+        {
+          "id": "E",
+          "text": "Quiet"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "An outgoing person enjoys meeting people and talking to them.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which phrase describes physical appearance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Short wavy hair"
+        },
+        {
+          "id": "B",
+          "text": "A great sense of humour"
+        },
+        {
+          "id": "C",
+          "text": "A good memory"
+        },
+        {
+          "id": "D",
+          "text": "A dislike of noisy places"
+        },
+        {
+          "id": "E",
+          "text": "A friendly manner"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Hair length and shape are details of appearance.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the sentence that asks about frequency.",
+      "options": [
+        {
+          "id": "A",
+          "text": "How many stops does the bus have?"
+        },
+        {
+          "id": "B",
+          "text": "How far does Dina walk to the bus stop?"
+        },
+        {
+          "id": "C",
+          "text": "How long does the bus ride take?"
+        },
+        {
+          "id": "D",
+          "text": "How much is Dina’s bus ticket?"
+        },
+        {
+          "id": "E",
+          "text": "How often does Dina miss the bus?"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "How often asks how frequently something happens.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "What do the present simple forms “fixes” and “misses” have in common?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both endings are pronounced /z/ with no extra syllable."
+        },
+        {
+          "id": "B",
+          "text": "Each gains an extra syllable pronounced /ɪz/."
+        },
+        {
+          "id": "C",
+          "text": "Both endings are silent."
+        },
+        {
+          "id": "D",
+          "text": "Both endings are pronounced /s/ with no extra syllable."
+        },
+        {
+          "id": "E",
+          "text": "Both words lose their final consonant."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Fix ends in /ks/ and miss ends in /s/. Adding -es gives an extra /ɪz/ syllable.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Read the profile. “Liam rarely speaks in large meetings. In small groups, he listens carefully and makes sure everyone has a turn.” Which description fits the second sentence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He is selfish."
+        },
+        {
+          "id": "B",
+          "text": "He is considerate."
+        },
+        {
+          "id": "C",
+          "text": "He is impatient."
+        },
+        {
+          "id": "D",
+          "text": "He is rude."
+        },
+        {
+          "id": "E",
+          "text": "He is careless."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "He thinks about other people’s needs and gives them time to speak.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 2, File 1B",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}

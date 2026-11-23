@@ -1,0 +1,1206 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/english-pre-intermediate",
+  "questions": [
+    {
+      "id": 190,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: A pilot is a person ___ flies planes.",
+      "options": [
+        {
+          "id": "A",
+          "text": "when"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "whose to"
+        },
+        {
+          "id": "D",
+          "text": "which"
+        },
+        {
+          "id": "E",
+          "text": "where"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Who introduces a defining clause about a person.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: A dictionary is a book ___ explains words.",
+      "options": [
+        {
+          "id": "A",
+          "text": "who"
+        },
+        {
+          "id": "B",
+          "text": "which"
+        },
+        {
+          "id": "C",
+          "text": "whose to"
+        },
+        {
+          "id": "D",
+          "text": "where"
+        },
+        {
+          "id": "E",
+          "text": "when"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Which refers to a thing.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Complete: A pharmacy is a place ___ you can buy medicine.",
+      "options": [
+        {
+          "id": "A",
+          "text": "where"
+        },
+        {
+          "id": "B",
+          "text": "which to"
+        },
+        {
+          "id": "C",
+          "text": "who"
+        },
+        {
+          "id": "D",
+          "text": "whose"
+        },
+        {
+          "id": "E",
+          "text": "what"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Where introduces a clause about a place.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Choose the correct definition of a chef.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A chef is someone which cooks food."
+        },
+        {
+          "id": "B",
+          "text": "A chef is someone whose cooks food."
+        },
+        {
+          "id": "C",
+          "text": "A chef is someone who cooks food."
+        },
+        {
+          "id": "D",
+          "text": "A chef is someone where cooks food."
+        },
+        {
+          "id": "E",
+          "text": "A chef is someone when cooks food."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Who can refer to the person doing the action.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: This is the app ___ helps me learn vocabulary.",
+      "options": [
+        {
+          "id": "A",
+          "text": "where"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "when"
+        },
+        {
+          "id": "D",
+          "text": "that"
+        },
+        {
+          "id": "E",
+          "text": "whose"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "That can refer to a thing in a defining clause.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: I know a shop ___ sells second-hand books.",
+      "options": [
+        {
+          "id": "A",
+          "text": "where"
+        },
+        {
+          "id": "B",
+          "text": "when"
+        },
+        {
+          "id": "C",
+          "text": "which"
+        },
+        {
+          "id": "D",
+          "text": "whose"
+        },
+        {
+          "id": "E",
+          "text": "who"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The shop is the subject of sells, so which fits.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: I know a shop ___ you can buy second-hand books.",
+      "options": [
+        {
+          "id": "A",
+          "text": "which"
+        },
+        {
+          "id": "B",
+          "text": "whose"
+        },
+        {
+          "id": "C",
+          "text": "who"
+        },
+        {
+          "id": "D",
+          "text": "what"
+        },
+        {
+          "id": "E",
+          "text": "where"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Where expresses the location in which you can buy books.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: The woman ___ lives next door is a musician.",
+      "options": [
+        {
+          "id": "A",
+          "text": "who"
+        },
+        {
+          "id": "B",
+          "text": "when"
+        },
+        {
+          "id": "C",
+          "text": "what"
+        },
+        {
+          "id": "D",
+          "text": "which"
+        },
+        {
+          "id": "E",
+          "text": "where"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The clause defines a person.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete: These are the shoes ___ I bought yesterday.",
+      "options": [
+        {
+          "id": "A",
+          "text": "when"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "that"
+        },
+        {
+          "id": "D",
+          "text": "whose"
+        },
+        {
+          "id": "E",
+          "text": "where"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "That can refer to the shoes in the defining clause.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the correct definition of a library.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A person who writes books"
+        },
+        {
+          "id": "B",
+          "text": "A place where you can borrow books"
+        },
+        {
+          "id": "C",
+          "text": "A person who repairs cars"
+        },
+        {
+          "id": "D",
+          "text": "A place where planes land"
+        },
+        {
+          "id": "E",
+          "text": "A thing that measures time"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "A library is a place for borrowing or consulting books.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the correct definition of a mechanic.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A place where you buy medicine"
+        },
+        {
+          "id": "B",
+          "text": "A place where people swim"
+        },
+        {
+          "id": "C",
+          "text": "A thing which opens doors"
+        },
+        {
+          "id": "D",
+          "text": "A book which explains words"
+        },
+        {
+          "id": "E",
+          "text": "A person who repairs vehicles"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "The relative clause describes the work of a mechanic.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: A charger is something ___ you use to charge a phone.",
+      "options": [
+        {
+          "id": "A",
+          "text": "when"
+        },
+        {
+          "id": "B",
+          "text": "where"
+        },
+        {
+          "id": "C",
+          "text": "whose"
+        },
+        {
+          "id": "D",
+          "text": "who"
+        },
+        {
+          "id": "E",
+          "text": "which"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Which refers to an object.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Complete: Is this the café ___ we met last week?",
+      "options": [
+        {
+          "id": "A",
+          "text": "who"
+        },
+        {
+          "id": "B",
+          "text": "which"
+        },
+        {
+          "id": "C",
+          "text": "what"
+        },
+        {
+          "id": "D",
+          "text": "where"
+        },
+        {
+          "id": "E",
+          "text": "whose"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Where expresses the place of the meeting.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the sentence without an unnecessary repeated subject.",
+      "options": [
+        {
+          "id": "A",
+          "text": "I have a friend where he speaks three languages."
+        },
+        {
+          "id": "B",
+          "text": "I have a friend who speaks three languages."
+        },
+        {
+          "id": "C",
+          "text": "I have a friend who him speaks three languages."
+        },
+        {
+          "id": "D",
+          "text": "I have a friend which he speaks three languages."
+        },
+        {
+          "id": "E",
+          "text": "I have a friend who he speaks three languages."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Who is already the subject of the relative clause.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which phrase helps explain a word you cannot remember?",
+      "options": [
+        {
+          "id": "A",
+          "text": "You must already know it."
+        },
+        {
+          "id": "B",
+          "text": "Do not listen to my description."
+        },
+        {
+          "id": "C",
+          "text": "I never ask any questions."
+        },
+        {
+          "id": "D",
+          "text": "There are no words for it."
+        },
+        {
+          "id": "E",
+          "text": "It is a kind of tool."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "A kind of gives a general category for paraphrasing.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "You cannot remember scissors. Which description is clearest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A place you go to catch a train"
+        },
+        {
+          "id": "B",
+          "text": "A person who repairs a roof"
+        },
+        {
+          "id": "C",
+          "text": "A tool you use to cut paper"
+        },
+        {
+          "id": "D",
+          "text": "A bag you use to carry clothes"
+        },
+        {
+          "id": "E",
+          "text": "A thing you use to drink water"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The description identifies the function of scissors.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "You cannot remember umbrella. Choose the best paraphrase.",
+      "options": [
+        {
+          "id": "A",
+          "text": "A place where people cook"
+        },
+        {
+          "id": "B",
+          "text": "A person who drives a bus"
+        },
+        {
+          "id": "C",
+          "text": "A machine that washes clothes"
+        },
+        {
+          "id": "D",
+          "text": "Something that keeps rain off you"
+        },
+        {
+          "id": "E",
+          "text": "Something that tells the time"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "The paraphrase explains an umbrella's function.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which word means the same as inexpensive?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cheap"
+        },
+        {
+          "id": "B",
+          "text": "Crowded"
+        },
+        {
+          "id": "C",
+          "text": "Dangerous"
+        },
+        {
+          "id": "D",
+          "text": "Comfortable"
+        },
+        {
+          "id": "E",
+          "text": "Noisy"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Inexpensive and cheap refer to a low price.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which word is closest in meaning to tiny?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very late"
+        },
+        {
+          "id": "B",
+          "text": "Very heavy"
+        },
+        {
+          "id": "C",
+          "text": "Very small"
+        },
+        {
+          "id": "D",
+          "text": "Very old"
+        },
+        {
+          "id": "E",
+          "text": "Very noisy"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Tiny means extremely small.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Which description best identifies a kettle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Something you use to boil water"
+        },
+        {
+          "id": "B",
+          "text": "Somewhere you buy train tickets"
+        },
+        {
+          "id": "C",
+          "text": "Something you wear on your feet"
+        },
+        {
+          "id": "D",
+          "text": "Someone who checks passports"
+        },
+        {
+          "id": "E",
+          "text": "Something you use to iron shirts"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "A kettle heats water to boiling point.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the best paraphrase of crowded.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Without any buildings"
+        },
+        {
+          "id": "B",
+          "text": "Very cold at night"
+        },
+        {
+          "id": "C",
+          "text": "Far from the centre"
+        },
+        {
+          "id": "D",
+          "text": "Full of people"
+        },
+        {
+          "id": "E",
+          "text": "Easy to repair"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "Crowded describes a place with many people.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which word normally has a silent final e?",
+      "options": [
+        {
+          "id": "A",
+          "text": "get"
+        },
+        {
+          "id": "B",
+          "text": "bed"
+        },
+        {
+          "id": "C",
+          "text": "name"
+        },
+        {
+          "id": "D",
+          "text": "ten"
+        },
+        {
+          "id": "E",
+          "text": "red"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "The final e in name is not pronounced as a separate sound.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which word has the vowel sound /eɪ/ with a silent final e?",
+      "options": [
+        {
+          "id": "A",
+          "text": "cat"
+        },
+        {
+          "id": "B",
+          "text": "can"
+        },
+        {
+          "id": "C",
+          "text": "cash"
+        },
+        {
+          "id": "D",
+          "text": "cap"
+        },
+        {
+          "id": "E",
+          "text": "cake"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "Cake has /eɪ/ and a silent final e.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the definition with a relative word. “A charger is something ___ gives a battery power.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "whose"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "where"
+        },
+        {
+          "id": "D",
+          "text": "that"
+        },
+        {
+          "id": "E",
+          "text": "when"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "explanation": "That introduces the defining clause for a thing and is the subject of gives.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the definition. “An optician is a person ___ helps you choose glasses that fit.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "whose"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "where"
+        },
+        {
+          "id": "D",
+          "text": "when"
+        },
+        {
+          "id": "E",
+          "text": "what"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "Who can introduce a clause defining a person.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 409,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Complete the definition with a single word. “A workshop is a room ___ people make or repair things.”",
+      "options": [
+        {
+          "id": "A",
+          "text": "where"
+        },
+        {
+          "id": "B",
+          "text": "what"
+        },
+        {
+          "id": "C",
+          "text": "which"
+        },
+        {
+          "id": "D",
+          "text": "whose"
+        },
+        {
+          "id": "E",
+          "text": "who"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "Where introduces a clause that describes what happens in a place.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 410,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Which explanation of “thermometer” has the right meaning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It’s a kind of room where food is kept cold."
+        },
+        {
+          "id": "B",
+          "text": "It’s a machine that weighs bags."
+        },
+        {
+          "id": "C",
+          "text": "It’s a person who fixes a heater."
+        },
+        {
+          "id": "D",
+          "text": "It’s something you use to measure distance."
+        },
+        {
+          "id": "E",
+          "text": "It’s something you use to measure temperature."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "explanation": "A thermometer measures temperature.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Compare “hop” and “hope”. What changes when you add final e in this pair?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The vowel sound stays exactly the same."
+        },
+        {
+          "id": "B",
+          "text": "The sound at the start changes."
+        },
+        {
+          "id": "C",
+          "text": "The vowel sound changes, and the word still has one syllable."
+        },
+        {
+          "id": "D",
+          "text": "A second syllable is added."
+        },
+        {
+          "id": "E",
+          "text": "The final p is no longer pronounced."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "explanation": "Hop and hope are both one syllable. The final e in hope is silent, and the vowel sound changes.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 412,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "You cannot remember the word “ladder”. Which description will help someone identify it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It’s the place where you park a bike."
+        },
+        {
+          "id": "B",
+          "text": "It’s something with steps that you climb to reach a high place."
+        },
+        {
+          "id": "C",
+          "text": "It’s a person who cleans the windows."
+        },
+        {
+          "id": "D",
+          "text": "It’s the cover you put on the floor to keep it clean."
+        },
+        {
+          "id": "E",
+          "text": "It’s a type of seat you carry on a trip."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "explanation": "A ladder has steps you can climb to reach a higher place.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    },
+    {
+      "id": 413,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "Choose the sentence that identifies exactly which person you mean.",
+      "options": [
+        {
+          "id": "A",
+          "text": "That’s the neighbour who waters our plants when we’re away."
+        },
+        {
+          "id": "B",
+          "text": "That’s a neighbour. Some people water plants."
+        },
+        {
+          "id": "C",
+          "text": "I watered the plants before I left."
+        },
+        {
+          "id": "D",
+          "text": "The neighbour has plants, and I have a garden."
+        },
+        {
+          "id": "E",
+          "text": "There are neighbours on both sides of our house."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "explanation": "The who-clause singles out the neighbour by what they do.",
+      "source_references": [
+        {
+          "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
+          "location": "страница PDF 3, Week 9, File 3C",
+          "role": "exam_scope"
+        }
+      ]
+    }
+  ]
+}
