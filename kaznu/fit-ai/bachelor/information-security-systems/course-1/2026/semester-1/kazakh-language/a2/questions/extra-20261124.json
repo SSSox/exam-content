@@ -1,0 +1,3806 @@
+{
+  "format": "exambank/2",
+  "bank": "kaznu/kazakh-a2",
+  "questions": [
+    {
+      "id": 351,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Дополните со значением «к родителям»: «Демалыста ... барамын».",
+      "options": [
+        {
+          "id": "A",
+          "text": "ата-анамнан"
+        },
+        {
+          "id": "B",
+          "text": "ата-анаммен"
+        },
+        {
+          "id": "C",
+          "text": "ата-анамды"
+        },
+        {
+          "id": "D",
+          "text": "ата-анамда"
+        },
+        {
+          "id": "E",
+          "text": "ата-анама"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 20"
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Әпкемнің қызы» по отношению к говорящему — это...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Сын младшей сестры"
+        },
+        {
+          "id": "B",
+          "text": "Жена старшего брата"
+        },
+        {
+          "id": "C",
+          "text": "Младшая сестра отца"
+        },
+        {
+          "id": "D",
+          "text": "Дочь старшей сестры"
+        },
+        {
+          "id": "E",
+          "text": "Мать дедушки"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 9"
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "«Менің анама әпкем көмектесті». Кто помог маме?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Младший брат"
+        },
+        {
+          "id": "B",
+          "text": "Сосед"
+        },
+        {
+          "id": "C",
+          "text": "Дедушка"
+        },
+        {
+          "id": "D",
+          "text": "Отец"
+        },
+        {
+          "id": "E",
+          "text": "Старшая сестра"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 9"
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Ағам Алматыда, әпкем Астанада тұрады. Мен ағама бардым». Какой город посетили?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Город не назван"
+        },
+        {
+          "id": "B",
+          "text": "Алматы"
+        },
+        {
+          "id": "C",
+          "text": "Шымкент"
+        },
+        {
+          "id": "D",
+          "text": "Астана"
+        },
+        {
+          "id": "E",
+          "text": "Оба города по условию"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 8"
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Вставьте форму «с семьёй»: «Мен ... бірге саяхаттаймын».",
+      "options": [
+        {
+          "id": "A",
+          "text": "отбасымнан"
+        },
+        {
+          "id": "B",
+          "text": "отбасыма"
+        },
+        {
+          "id": "C",
+          "text": "отбасымда"
+        },
+        {
+          "id": "D",
+          "text": "отбасыммен"
+        },
+        {
+          "id": "E",
+          "text": "отбасымды"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 127"
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "topic_id": 1,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Ол — менің немере ағам». Какую связь обозначает фраза?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Старший двоюродный брат"
+        },
+        {
+          "id": "B",
+          "text": "Муж сестры"
+        },
+        {
+          "id": "C",
+          "text": "Родной младший брат"
+        },
+        {
+          "id": "D",
+          "text": "Отец супруги"
+        },
+        {
+          "id": "E",
+          "text": "Дядя по матери"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 288"
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "topic_id": 1,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите вопрос, уточняющий возраст родителей.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ата-анаңыз қайда тұрады?"
+        },
+        {
+          "id": "B",
+          "text": "Ата-анаңыз неше жаста?"
+        },
+        {
+          "id": "C",
+          "text": "Ата-анаңыз не оқиды?"
+        },
+        {
+          "id": "D",
+          "text": "Ата-анаңыз қашан келеді?"
+        },
+        {
+          "id": "E",
+          "text": "Ата-анаңыз немен келеді?"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 7"
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "topic_id": 1,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Әкем зейнетке шыққан, бірақ жұмысын жалғастырып жүр». Какой вывод верен?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Отец никогда не работал"
+        },
+        {
+          "id": "B",
+          "text": "Отец только начал учиться"
+        },
+        {
+          "id": "C",
+          "text": "Отец продолжает работать после выхода на пенсию"
+        },
+        {
+          "id": "D",
+          "text": "Отец прекратил любую работу"
+        },
+        {
+          "id": "E",
+          "text": "Отец сменил город по условию"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 20"
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите направление «из библиотеки»: «Мен ... шықтым».",
+      "options": [
+        {
+          "id": "A",
+          "text": "кітапханамен"
+        },
+        {
+          "id": "B",
+          "text": "кітапханада"
+        },
+        {
+          "id": "C",
+          "text": "кітапхананы"
+        },
+        {
+          "id": "D",
+          "text": "кітапханаға"
+        },
+        {
+          "id": "E",
+          "text": "кітапханадан"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 11"
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Указатель «Кіру» обозначает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Вход"
+        },
+        {
+          "id": "B",
+          "text": "Кассу"
+        },
+        {
+          "id": "C",
+          "text": "Перерыв"
+        },
+        {
+          "id": "D",
+          "text": "Оплату"
+        },
+        {
+          "id": "E",
+          "text": "Выход"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 292"
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму «между банком и школой»: «Дүкен банк пен мектептің ...».",
+      "options": [
+        {
+          "id": "A",
+          "text": "астында"
+        },
+        {
+          "id": "B",
+          "text": "арасында"
+        },
+        {
+          "id": "C",
+          "text": "ішінде"
+        },
+        {
+          "id": "D",
+          "text": "үстінде"
+        },
+        {
+          "id": "E",
+          "text": "төбесінде"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 66"
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Аялдамадан кейін оңға бұрылыңыз». Что сделать после остановки?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Остаться на месте"
+        },
+        {
+          "id": "B",
+          "text": "Идти обратно"
+        },
+        {
+          "id": "C",
+          "text": "Подняться на этаж"
+        },
+        {
+          "id": "D",
+          "text": "Повернуть направо"
+        },
+        {
+          "id": "E",
+          "text": "Повернуть налево"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 43"
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите вежливую просьбу объяснить дорогу.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Мұражай жабық."
+        },
+        {
+          "id": "B",
+          "text": "Мұражайға қалай баруға болатынын айтыңызшы."
+        },
+        {
+          "id": "C",
+          "text": "Мен мұражайдамын."
+        },
+        {
+          "id": "D",
+          "text": "Бұл — мұражайдың суреті."
+        },
+        {
+          "id": "E",
+          "text": "Мұражай үлкен екен."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 3"
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "topic_id": 2,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Жаяу баруға болады» означает, что можно добраться...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Исключительно на такси"
+        },
+        {
+          "id": "B",
+          "text": "Только на велосипеде"
+        },
+        {
+          "id": "C",
+          "text": "Только поездом"
+        },
+        {
+          "id": "D",
+          "text": "Только самолётом"
+        },
+        {
+          "id": "E",
+          "text": "Пешком"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 300"
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "topic_id": 2,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Дәріхана дүкеннен кейін, ал банк дәріханадан кейін». Каков порядок при движении вперёд?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Дүкен — банк — дәріхана"
+        },
+        {
+          "id": "B",
+          "text": "Банк — дүкен — дәріхана"
+        },
+        {
+          "id": "C",
+          "text": "Дүкен — дәріхана — банк"
+        },
+        {
+          "id": "D",
+          "text": "Банк — дәріхана — дүкен"
+        },
+        {
+          "id": "E",
+          "text": "Дәріхана — дүкен — банк"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 193"
+        }
+      ]
+    },
+    {
+      "id": 366,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Дополните со значением «подняться на четвёртый этаж»: «Төртінші қабатқа ...».",
+      "options": [
+        {
+          "id": "A",
+          "text": "тыңдаңыз"
+        },
+        {
+          "id": "B",
+          "text": "төлеңіз"
+        },
+        {
+          "id": "C",
+          "text": "жазыңыз"
+        },
+        {
+          "id": "D",
+          "text": "көтеріліңіз"
+        },
+        {
+          "id": "E",
+          "text": "түсініңіз"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 43"
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Жинақ» в контексте увлечения марками означает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Профессию"
+        },
+        {
+          "id": "B",
+          "text": "Адрес"
+        },
+        {
+          "id": "C",
+          "text": "Должность"
+        },
+        {
+          "id": "D",
+          "text": "Коллекцию"
+        },
+        {
+          "id": "E",
+          "text": "Расписание"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 3"
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Дополните: «Мен бос уақытта сурет салу... айналысамын».",
+      "options": [
+        {
+          "id": "A",
+          "text": "салуды"
+        },
+        {
+          "id": "B",
+          "text": "салудан"
+        },
+        {
+          "id": "C",
+          "text": "салумен"
+        },
+        {
+          "id": "D",
+          "text": "салуда"
+        },
+        {
+          "id": "E",
+          "text": "салуға"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 53"
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Бұрын жүзуді білмедім, қазір еркін жүземін». Что изменилось?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Человек научился плавать"
+        },
+        {
+          "id": "B",
+          "text": "Человек перестал плавать"
+        },
+        {
+          "id": "C",
+          "text": "Человек сменил работу"
+        },
+        {
+          "id": "D",
+          "text": "Человек начал петь"
+        },
+        {
+          "id": "E",
+          "text": "Человек забыл навык"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 297"
+        }
+      ]
+    },
+    {
+      "id": 370,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите фразу «Мне нравится собирать книги».",
+      "options": [
+        {
+          "id": "A",
+          "text": "Менің кітабым жоғалды."
+        },
+        {
+          "id": "B",
+          "text": "Кітапхана бүгін жабық."
+        },
+        {
+          "id": "C",
+          "text": "Маған кітап жинаған ұнайды."
+        },
+        {
+          "id": "D",
+          "text": "Кітап үстелде жатыр."
+        },
+        {
+          "id": "E",
+          "text": "Мен кітап сатпаймын."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 255"
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "topic_id": 3,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Аптасына екі рет» указывает на...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Длительность две недели"
+        },
+        {
+          "id": "B",
+          "text": "Время два часа"
+        },
+        {
+          "id": "C",
+          "text": "Дату второго числа"
+        },
+        {
+          "id": "D",
+          "text": "Частоту два раза в неделю"
+        },
+        {
+          "id": "E",
+          "text": "Возраст два года"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 11"
+        }
+      ]
+    },
+    {
+      "id": 372,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Айжан сенбіде билейді, жексенбіде сурет салады». Чем она занимается в воскресенье?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Рисует"
+        },
+        {
+          "id": "B",
+          "text": "Поёт"
+        },
+        {
+          "id": "C",
+          "text": "Играет в шахматы"
+        },
+        {
+          "id": "D",
+          "text": "Плавает"
+        },
+        {
+          "id": "E",
+          "text": "Танцует"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 22"
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "topic_id": 3,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму возможности: «Мен домбыра тарта ...».",
+      "options": [
+        {
+          "id": "A",
+          "text": "тиіспін"
+        },
+        {
+          "id": "B",
+          "text": "аламын"
+        },
+        {
+          "id": "C",
+          "text": "үшін"
+        },
+        {
+          "id": "D",
+          "text": "керек"
+        },
+        {
+          "id": "E",
+          "text": "сияқты"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 68"
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "topic_id": 3,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Ерлан бос уақытында сурет салады, Айгүл суретшілікпен кәсіби айналысады». Кто описан как любитель?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Айгүл"
+        },
+        {
+          "id": "B",
+          "text": "Ерлан"
+        },
+        {
+          "id": "C",
+          "text": "Оба как любители"
+        },
+        {
+          "id": "D",
+          "text": "Оба как профессионалы"
+        },
+        {
+          "id": "E",
+          "text": "Ни один не рисует"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 3"
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Дополните со значением «до занятия»: «Сабақ... дейін келіңіз».",
+      "options": [
+        {
+          "id": "A",
+          "text": "сабақпен"
+        },
+        {
+          "id": "B",
+          "text": "сабақтан"
+        },
+        {
+          "id": "C",
+          "text": "сабақты"
+        },
+        {
+          "id": "D",
+          "text": "сабаққа"
+        },
+        {
+          "id": "E",
+          "text": "сабақтың"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 3"
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Кешігіп қалдым» означает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Я отменил встречу"
+        },
+        {
+          "id": "B",
+          "text": "Я лёг спать"
+        },
+        {
+          "id": "C",
+          "text": "Я купил часы"
+        },
+        {
+          "id": "D",
+          "text": "Я пришёл раньше"
+        },
+        {
+          "id": "E",
+          "text": "Я опоздал"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 271"
+        }
+      ]
+    },
+    {
+      "id": 377,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Кездесу тоғызда. Жолға жарты сағат кетеді». Чтобы прибыть ровно вовремя, выйти нужно в...",
+      "options": [
+        {
+          "id": "A",
+          "text": "10:00"
+        },
+        {
+          "id": "B",
+          "text": "9:00"
+        },
+        {
+          "id": "C",
+          "text": "9:30"
+        },
+        {
+          "id": "D",
+          "text": "8:30"
+        },
+        {
+          "id": "E",
+          "text": "8:00"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 179"
+        }
+      ]
+    },
+    {
+      "id": 378,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму «после работы»: «Жұмыс... кейін дүкенге барамын».",
+      "options": [
+        {
+          "id": "A",
+          "text": "жұмыстан"
+        },
+        {
+          "id": "B",
+          "text": "жұмысты"
+        },
+        {
+          "id": "C",
+          "text": "жұмыспен"
+        },
+        {
+          "id": "D",
+          "text": "жұмысқа"
+        },
+        {
+          "id": "E",
+          "text": "жұмыстың"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 119"
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Күн сайын» означает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Только по выходным"
+        },
+        {
+          "id": "B",
+          "text": "Послезавтра"
+        },
+        {
+          "id": "C",
+          "text": "Каждый месяц"
+        },
+        {
+          "id": "D",
+          "text": "Каждый день"
+        },
+        {
+          "id": "E",
+          "text": "Один раз в год"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 271"
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Сабақ он бірде басталып, он екіде бітеді». Продолжительность занятия составляет...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Он минут"
+        },
+        {
+          "id": "B",
+          "text": "Үш сағат"
+        },
+        {
+          "id": "C",
+          "text": "Бір сағат"
+        },
+        {
+          "id": "D",
+          "text": "Екі сағат"
+        },
+        {
+          "id": "E",
+          "text": "Жарты сағат"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 72"
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "topic_id": 4,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите вопрос о продолжительности поездки.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Билет қанша теңге?"
+        },
+        {
+          "id": "B",
+          "text": "Қай орын бос?"
+        },
+        {
+          "id": "C",
+          "text": "Қайдан келдіңіз?"
+        },
+        {
+          "id": "D",
+          "text": "Кіммен барасыз?"
+        },
+        {
+          "id": "E",
+          "text": "Жолға қанша уақыт кетеді?"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 75"
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "topic_id": 4,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Бүрсігүні» обозначает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Позавчера"
+        },
+        {
+          "id": "B",
+          "text": "Послезавтра"
+        },
+        {
+          "id": "C",
+          "text": "Вчера"
+        },
+        {
+          "id": "D",
+          "text": "Сегодня"
+        },
+        {
+          "id": "E",
+          "text": "На прошлой неделе"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 45"
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму: «Мен досым... атын жаздым» (имя друга).",
+      "options": [
+        {
+          "id": "A",
+          "text": "досымнан"
+        },
+        {
+          "id": "B",
+          "text": "досымда"
+        },
+        {
+          "id": "C",
+          "text": "досыма"
+        },
+        {
+          "id": "D",
+          "text": "досымның"
+        },
+        {
+          "id": "E",
+          "text": "досыммен"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 30"
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "В анкете строка «Тегі» предназначена для...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Должности"
+        },
+        {
+          "id": "B",
+          "text": "Номера телефона"
+        },
+        {
+          "id": "C",
+          "text": "Фамилии"
+        },
+        {
+          "id": "D",
+          "text": "Возрастной группы"
+        },
+        {
+          "id": "E",
+          "text": "Адреса"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 7"
+        }
+      ]
+    },
+    {
+      "id": 385,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите вежливую просьбу произнести имя по буквам.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Атыңызды әріптеп айтыңызшы."
+        },
+        {
+          "id": "B",
+          "text": "Атыңыз өте әдемі."
+        },
+        {
+          "id": "C",
+          "text": "Ол сіздің атыңызды жазды."
+        },
+        {
+          "id": "D",
+          "text": "Менің атым — Самат."
+        },
+        {
+          "id": "E",
+          "text": "Атыңызды білемін."
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 48"
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Құжатта есімім қате жазылған». Что требуется исправить?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Написание имени в документе"
+        },
+        {
+          "id": "B",
+          "text": "Номер этажа"
+        },
+        {
+          "id": "C",
+          "text": "Время встречи"
+        },
+        {
+          "id": "D",
+          "text": "Цену билета"
+        },
+        {
+          "id": "E",
+          "text": "Название профессии"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 7"
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Вставьте слово «чьё»: «Бұл ... есімі?»",
+      "options": [
+        {
+          "id": "A",
+          "text": "кімнің"
+        },
+        {
+          "id": "B",
+          "text": "кіммен"
+        },
+        {
+          "id": "C",
+          "text": "кімнен"
+        },
+        {
+          "id": "D",
+          "text": "кімге"
+        },
+        {
+          "id": "E",
+          "text": "кімді"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 10"
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "topic_id": 5,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Аты-жөні» используется для обозначения...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Даты встречи"
+        },
+        {
+          "id": "B",
+          "text": "Только адреса дома"
+        },
+        {
+          "id": "C",
+          "text": "Полного имени и фамилии"
+        },
+        {
+          "id": "D",
+          "text": "Только места работы"
+        },
+        {
+          "id": "E",
+          "text": "Суммы оплаты"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 293"
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "topic_id": 5,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Екі адамның есімі бірдей, бірақ тегі әртүрлі». Как их различают по указанным данным?",
+      "options": [
+        {
+          "id": "A",
+          "text": "По возрасту, который назван"
+        },
+        {
+          "id": "B",
+          "text": "По разным именам"
+        },
+        {
+          "id": "C",
+          "text": "По адресу, который указан"
+        },
+        {
+          "id": "D",
+          "text": "По разным фамилиям"
+        },
+        {
+          "id": "E",
+          "text": "По должности, которая указана"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 7"
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "topic_id": 5,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Дополните фразу «Имя моего брата»: «Ағам... аты».",
+      "options": [
+        {
+          "id": "A",
+          "text": "ағама"
+        },
+        {
+          "id": "B",
+          "text": "ағамның"
+        },
+        {
+          "id": "C",
+          "text": "ағаммен"
+        },
+        {
+          "id": "D",
+          "text": "ағамнан"
+        },
+        {
+          "id": "E",
+          "text": "ағамда"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 9"
+        }
+      ]
+    },
+    {
+      "id": 391,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Бұйра шаш» означает волосы...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Чёрные по определению"
+        },
+        {
+          "id": "B",
+          "text": "Прямые"
+        },
+        {
+          "id": "C",
+          "text": "Короткие по определению"
+        },
+        {
+          "id": "D",
+          "text": "Седые"
+        },
+        {
+          "id": "E",
+          "text": "Кудрявые"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 28"
+        }
+      ]
+    },
+    {
+      "id": 392,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите сравнение «выше меня»: «Ол менен ...».",
+      "options": [
+        {
+          "id": "A",
+          "text": "ұзын"
+        },
+        {
+          "id": "B",
+          "text": "ұзынмын"
+        },
+        {
+          "id": "C",
+          "text": "ұзынсыз"
+        },
+        {
+          "id": "D",
+          "text": "ұзынсың"
+        },
+        {
+          "id": "E",
+          "text": "ұзынбыз"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 9"
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Әлияның шашы ұзын, ал Динаның шашы қысқа». У кого длинные волосы?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Әлияда"
+        },
+        {
+          "id": "B",
+          "text": "У обеих короткие"
+        },
+        {
+          "id": "C",
+          "text": "У обеих длинные"
+        },
+        {
+          "id": "D",
+          "text": "Динада"
+        },
+        {
+          "id": "E",
+          "text": "Условия о волосах нет"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 25"
+        }
+      ]
+    },
+    {
+      "id": 394,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "«Әкем көзілдірік тағады, ал ағам тақпайды». Кто носит очки?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Старший брат"
+        },
+        {
+          "id": "B",
+          "text": "Отец"
+        },
+        {
+          "id": "C",
+          "text": "Никто"
+        },
+        {
+          "id": "D",
+          "text": "Оба"
+        },
+        {
+          "id": "E",
+          "text": "Младшая сестра"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 126"
+        }
+      ]
+    },
+    {
+      "id": 395,
+      "topic_id": 6,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму «с голубыми глазами»:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Көк көзбен"
+        },
+        {
+          "id": "B",
+          "text": "Көк көзден"
+        },
+        {
+          "id": "C",
+          "text": "Көк көздің"
+        },
+        {
+          "id": "D",
+          "text": "Көк көзді"
+        },
+        {
+          "id": "E",
+          "text": "Көк көзге"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 118"
+        }
+      ]
+    },
+    {
+      "id": 396,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Суретте әкемнің сол жағында ағам тұр». Кто стоит слева от отца?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Бабушка"
+        },
+        {
+          "id": "B",
+          "text": "Сосед"
+        },
+        {
+          "id": "C",
+          "text": "Старший брат"
+        },
+        {
+          "id": "D",
+          "text": "Младшая сестра"
+        },
+        {
+          "id": "E",
+          "text": "Учитель"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 287"
+        }
+      ]
+    },
+    {
+      "id": 397,
+      "topic_id": 6,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Тау үйден биік». Какой объект ниже другого?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Дом ниже горы"
+        },
+        {
+          "id": "B",
+          "text": "Дом находится над горой"
+        },
+        {
+          "id": "C",
+          "text": "Высота не сравнивается"
+        },
+        {
+          "id": "D",
+          "text": "Они одинаковой высоты"
+        },
+        {
+          "id": "E",
+          "text": "Гора ниже дома"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 29"
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "topic_id": 6,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Ұқыпты киінеді» означает, что человек одевается...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Только дорого"
+        },
+        {
+          "id": "B",
+          "text": "Аккуратно"
+        },
+        {
+          "id": "C",
+          "text": "Всегда ярко"
+        },
+        {
+          "id": "D",
+          "text": "Только по-зимнему"
+        },
+        {
+          "id": "E",
+          "text": "Обязательно одинаково со всеми"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 20"
+        }
+      ]
+    },
+    {
+      "id": 399,
+      "topic_id": 2,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "«Банкке дейін түзу жүріңіз». Как идти до банка?",
+      "options": [
+        {
+          "id": "A",
+          "text": "По кругу"
+        },
+        {
+          "id": "B",
+          "text": "Налево"
+        },
+        {
+          "id": "C",
+          "text": "Направо"
+        },
+        {
+          "id": "D",
+          "text": "Назад"
+        },
+        {
+          "id": "E",
+          "text": "Прямо"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 183"
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "topic_id": 4,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Дүйсенбіден жұмаға дейін жұмыс істеймін, сенбі мен жексенбіде демаламын». Сколько названо рабочих дней в неделю?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Жеті"
+        },
+        {
+          "id": "B",
+          "text": "Бес"
+        },
+        {
+          "id": "C",
+          "text": "Үш"
+        },
+        {
+          "id": "D",
+          "text": "Төрт"
+        },
+        {
+          "id": "E",
+          "text": "Екі"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 11"
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму «из квартиры»: «Пәтер... шықтым».",
+      "options": [
+        {
+          "id": "A",
+          "text": "пәтермен"
+        },
+        {
+          "id": "B",
+          "text": "пәтерде"
+        },
+        {
+          "id": "C",
+          "text": "пәтерден"
+        },
+        {
+          "id": "D",
+          "text": "пәтерге"
+        },
+        {
+          "id": "E",
+          "text": "пәтерді"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 137"
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Пәтер жалдаймын» означает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Покупаю мебель"
+        },
+        {
+          "id": "B",
+          "text": "Продаю гараж"
+        },
+        {
+          "id": "C",
+          "text": "Строю дом"
+        },
+        {
+          "id": "D",
+          "text": "Снимаю квартиру"
+        },
+        {
+          "id": "E",
+          "text": "Крашу дверь"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 2"
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Пәтерде екі жатын бөлме және бір қонақ бөлме бар». Жилых комнат названо...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Екі"
+        },
+        {
+          "id": "B",
+          "text": "Төрт"
+        },
+        {
+          "id": "C",
+          "text": "Үш"
+        },
+        {
+          "id": "D",
+          "text": "Бес"
+        },
+        {
+          "id": "E",
+          "text": "Бір"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 18"
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Дополните «напротив окна»: «Терезенің ... үстел тұр».",
+      "options": [
+        {
+          "id": "A",
+          "text": "қарсысында"
+        },
+        {
+          "id": "B",
+          "text": "арасында"
+        },
+        {
+          "id": "C",
+          "text": "ішінен"
+        },
+        {
+          "id": "D",
+          "text": "төбесінде"
+        },
+        {
+          "id": "E",
+          "text": "ішінде"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 34"
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Жиһаз» включает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Дождь и снег"
+        },
+        {
+          "id": "B",
+          "text": "Хлеб и молоко"
+        },
+        {
+          "id": "C",
+          "text": "Книгу и газету"
+        },
+        {
+          "id": "D",
+          "text": "Поезд и самолёт"
+        },
+        {
+          "id": "E",
+          "text": "Шкаф и диван"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 311"
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "topic_id": 7,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Асүйде су жоқ, жуынатын бөлмеде су бар». Где есть вода?",
+      "options": [
+        {
+          "id": "A",
+          "text": "В ванной комнате"
+        },
+        {
+          "id": "B",
+          "text": "На кухне"
+        },
+        {
+          "id": "C",
+          "text": "На балконе по условию"
+        },
+        {
+          "id": "D",
+          "text": "В коридоре по условию"
+        },
+        {
+          "id": "E",
+          "text": "Нигде"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 137"
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите просьбу закрыть окно.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Кітапты беріңізші."
+        },
+        {
+          "id": "B",
+          "text": "Есікті ашыңызшы."
+        },
+        {
+          "id": "C",
+          "text": "Шамды қосыңызшы."
+        },
+        {
+          "id": "D",
+          "text": "Орындыққа отырыңызшы."
+        },
+        {
+          "id": "E",
+          "text": "Терезені жабыңызшы."
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 61"
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "topic_id": 7,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Үйді жөндеу» означает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Арендовать машину"
+        },
+        {
+          "id": "B",
+          "text": "Читать письмо"
+        },
+        {
+          "id": "C",
+          "text": "Покупать продукты"
+        },
+        {
+          "id": "D",
+          "text": "Менять профессию"
+        },
+        {
+          "id": "E",
+          "text": "Ремонтировать дом"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 293"
+        }
+      ]
+    },
+    {
+      "id": 409,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Дополните со значением «из Казахстана»: «Мен ... келдім».",
+      "options": [
+        {
+          "id": "A",
+          "text": "Қазақстанға"
+        },
+        {
+          "id": "B",
+          "text": "Қазақстаннан"
+        },
+        {
+          "id": "C",
+          "text": "Қазақстанда"
+        },
+        {
+          "id": "D",
+          "text": "Қазақстанды"
+        },
+        {
+          "id": "E",
+          "text": "Қазақстанмен"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 18"
+        }
+      ]
+    },
+    {
+      "id": 410,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Көрікті жерлер» в туристическом описании — это...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Билеты"
+        },
+        {
+          "id": "B",
+          "text": "Профессии"
+        },
+        {
+          "id": "C",
+          "text": "Документы об образовании"
+        },
+        {
+          "id": "D",
+          "text": "Визитные карточки"
+        },
+        {
+          "id": "E",
+          "text": "Достопримечательности"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 4"
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "topic_id": 8,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Туристер алдымен мұражайға, содан кейін саябаққа барды». Куда пошли вторым местом?",
+      "options": [
+        {
+          "id": "A",
+          "text": "В театр"
+        },
+        {
+          "id": "B",
+          "text": "На вокзал"
+        },
+        {
+          "id": "C",
+          "text": "В библиотеку"
+        },
+        {
+          "id": "D",
+          "text": "В парк"
+        },
+        {
+          "id": "E",
+          "text": "В музей"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 256"
+        }
+      ]
+    },
+    {
+      "id": 412,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Вставьте слово со значением «о стране»: «Мен ... туралы оқыдым».",
+      "options": [
+        {
+          "id": "A",
+          "text": "елден"
+        },
+        {
+          "id": "B",
+          "text": "елге"
+        },
+        {
+          "id": "C",
+          "text": "ел"
+        },
+        {
+          "id": "D",
+          "text": "елде"
+        },
+        {
+          "id": "E",
+          "text": "елді"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 1"
+        }
+      ]
+    },
+    {
+      "id": 413,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Туған жер» означает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Родной край"
+        },
+        {
+          "id": "B",
+          "text": "Место работы"
+        },
+        {
+          "id": "C",
+          "text": "Торговый центр"
+        },
+        {
+          "id": "D",
+          "text": "Съёмную квартиру"
+        },
+        {
+          "id": "E",
+          "text": "Билет на поезд"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 288"
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "topic_id": 8,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Саяхат үш күнге созылды». Сколько длилось путешествие?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Три дня"
+        },
+        {
+          "id": "B",
+          "text": "Три часа"
+        },
+        {
+          "id": "C",
+          "text": "Три недели"
+        },
+        {
+          "id": "D",
+          "text": "Два дня"
+        },
+        {
+          "id": "E",
+          "text": "Один месяц"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 74"
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "topic_id": 8,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите вопрос о месте назначения поездки.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Кімнің кітабы?"
+        },
+        {
+          "id": "B",
+          "text": "Қандай тамақ ұнайды?"
+        },
+        {
+          "id": "C",
+          "text": "Атыңыз кім?"
+        },
+        {
+          "id": "D",
+          "text": "Неше жастасыз?"
+        },
+        {
+          "id": "E",
+          "text": "Қай қалаға барасыз?"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 190"
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "topic_id": 8,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Мемлекеттік рәміздер» обозначает государственные...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Символы"
+        },
+        {
+          "id": "B",
+          "text": "Профессии"
+        },
+        {
+          "id": "C",
+          "text": "Адреса"
+        },
+        {
+          "id": "D",
+          "text": "Рецепты"
+        },
+        {
+          "id": "E",
+          "text": "Растения"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 2"
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму «к дереву»: «Ағаш... жақындадым».",
+      "options": [
+        {
+          "id": "A",
+          "text": "ағашты"
+        },
+        {
+          "id": "B",
+          "text": "ағашқа"
+        },
+        {
+          "id": "C",
+          "text": "ағашпен"
+        },
+        {
+          "id": "D",
+          "text": "ағашта"
+        },
+        {
+          "id": "E",
+          "text": "ағаштан"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 176"
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Үй жануары» — это животное...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Только морское"
+        },
+        {
+          "id": "B",
+          "text": "Обязательно дикое"
+        },
+        {
+          "id": "C",
+          "text": "Обязательно хищное"
+        },
+        {
+          "id": "D",
+          "text": "Домашнее"
+        },
+        {
+          "id": "E",
+          "text": "Только лесное"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 4"
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Гүлге күн сайын су құямын». Как часто поливают цветок?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Только зимой"
+        },
+        {
+          "id": "B",
+          "text": "Раз в месяц"
+        },
+        {
+          "id": "C",
+          "text": "Только по воскресеньям"
+        },
+        {
+          "id": "D",
+          "text": "Каждый день"
+        },
+        {
+          "id": "E",
+          "text": "Раз в неделю"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 33"
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Дополните сравнение «больше собаки»: «Жылқы иттен ...».",
+      "options": [
+        {
+          "id": "A",
+          "text": "үлкенсіз"
+        },
+        {
+          "id": "B",
+          "text": "үлкенмін"
+        },
+        {
+          "id": "C",
+          "text": "үлкенбіз"
+        },
+        {
+          "id": "D",
+          "text": "үлкенсің"
+        },
+        {
+          "id": "E",
+          "text": "үлкен"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 3"
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Выберите название птицы.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Аю"
+        },
+        {
+          "id": "B",
+          "text": "Торғай"
+        },
+        {
+          "id": "C",
+          "text": "Қоян"
+        },
+        {
+          "id": "D",
+          "text": "Түлкі"
+        },
+        {
+          "id": "E",
+          "text": "Қасқыр"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 99"
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "topic_id": 9,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Бақта алма ағашы мен алмұрт ағашы өседі». Какие деревья упомянуты?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Только яблоня"
+        },
+        {
+          "id": "B",
+          "text": "Яблоня и груша"
+        },
+        {
+          "id": "C",
+          "text": "Берёза и ель"
+        },
+        {
+          "id": "D",
+          "text": "Дуб и сосна"
+        },
+        {
+          "id": "E",
+          "text": "Вишня и слива"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 2"
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "topic_id": 9,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "«Өсімдіктерді қорғау керек» выражает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Запрет любых посадок"
+        },
+        {
+          "id": "B",
+          "text": "Сообщение о вчерашнем дожде"
+        },
+        {
+          "id": "C",
+          "text": "Вопрос о цене"
+        },
+        {
+          "id": "D",
+          "text": "Описание профессии"
+        },
+        {
+          "id": "E",
+          "text": "Необходимость охранять растения"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 296"
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "topic_id": 9,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Жапырақ» — часть...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Пословицы"
+        },
+        {
+          "id": "B",
+          "text": "Растения"
+        },
+        {
+          "id": "C",
+          "text": "Автомобиля"
+        },
+        {
+          "id": "D",
+          "text": "Заявления"
+        },
+        {
+          "id": "E",
+          "text": "Адреса"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 260"
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Попросите счёт в кафе.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Атыңызды айтыңызшы."
+        },
+        {
+          "id": "B",
+          "text": "Есепшотты әкеліңізші."
+        },
+        {
+          "id": "C",
+          "text": "Мекенжайды жазыңызшы."
+        },
+        {
+          "id": "D",
+          "text": "Кітапты оқыңызшы."
+        },
+        {
+          "id": "E",
+          "text": "Терезені өлшеңізші."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 7"
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Объявление «Үзіліс» означает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Скидку"
+        },
+        {
+          "id": "B",
+          "text": "Бесплатный вход"
+        },
+        {
+          "id": "C",
+          "text": "Открытие"
+        },
+        {
+          "id": "D",
+          "text": "Выход"
+        },
+        {
+          "id": "E",
+          "text": "Перерыв"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 189"
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Дәріхана сегізге дейін ашық. Қазір жеті». Сколько осталось до закрытия?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Два часа"
+        },
+        {
+          "id": "B",
+          "text": "Три часа"
+        },
+        {
+          "id": "C",
+          "text": "Пять часов"
+        },
+        {
+          "id": "D",
+          "text": "Один час"
+        },
+        {
+          "id": "E",
+          "text": "Полчаса"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 84"
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму «у кассира»: «Билет ... сатылады» (в кассе).",
+      "options": [
+        {
+          "id": "A",
+          "text": "кассада"
+        },
+        {
+          "id": "B",
+          "text": "кассамен"
+        },
+        {
+          "id": "C",
+          "text": "кассаға"
+        },
+        {
+          "id": "D",
+          "text": "кассадан"
+        },
+        {
+          "id": "E",
+          "text": "кассаны"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 190"
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Кезекке тұрыңыз» — просьба...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Закрыть окно"
+        },
+        {
+          "id": "B",
+          "text": "Открыть счёт"
+        },
+        {
+          "id": "C",
+          "text": "Встать в очередь"
+        },
+        {
+          "id": "D",
+          "text": "Повернуть налево"
+        },
+        {
+          "id": "E",
+          "text": "Сесть в автобус"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 228"
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "topic_id": 10,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Қабылдау тек алдын ала жазылу бойынша». Что необходимо для приёма?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Только купить билет на поезд"
+        },
+        {
+          "id": "B",
+          "text": "Принести спортивный мяч"
+        },
+        {
+          "id": "C",
+          "text": "Предварительно записаться"
+        },
+        {
+          "id": "D",
+          "text": "Сообщить любимый цвет"
+        },
+        {
+          "id": "E",
+          "text": "Прийти без записи в любое время"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 124"
+        }
+      ]
+    },
+    {
+      "id": 431,
+      "topic_id": 10,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Сообщите об ошибке в заказе.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Менің атым — Арман."
+        },
+        {
+          "id": "B",
+          "text": "Мен үшінші қабатта тұрамын."
+        },
+        {
+          "id": "C",
+          "text": "Мен басқа тағамға тапсырыс берген едім."
+        },
+        {
+          "id": "D",
+          "text": "Бүгін күн жылы."
+        },
+        {
+          "id": "E",
+          "text": "Кездесу ертең болады."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 2"
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "topic_id": 10,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Қайтарым ақша» в магазине — это...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Аренда"
+        },
+        {
+          "id": "B",
+          "text": "Сдача"
+        },
+        {
+          "id": "C",
+          "text": "Долг по учёбе"
+        },
+        {
+          "id": "D",
+          "text": "Пенсия"
+        },
+        {
+          "id": "E",
+          "text": "Зарплата"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 30"
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Дополните биографию: «Мен 2006 жылы ...».",
+      "options": [
+        {
+          "id": "A",
+          "text": "туасың"
+        },
+        {
+          "id": "B",
+          "text": "туасыз"
+        },
+        {
+          "id": "C",
+          "text": "туамыз"
+        },
+        {
+          "id": "D",
+          "text": "туамын"
+        },
+        {
+          "id": "E",
+          "text": "тудым"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 208"
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Бітірген оқу орны» — это...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Оконченное учебное заведение"
+        },
+        {
+          "id": "B",
+          "text": "Текущий адрес"
+        },
+        {
+          "id": "C",
+          "text": "Стоимость обучения"
+        },
+        {
+          "id": "D",
+          "text": "Будущее место отдыха"
+        },
+        {
+          "id": "E",
+          "text": "Размер одежды"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 300"
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Мектепті 2022 жылы бітірді, университетке 2023 жылы түсті». Когда поступил в университет?",
+      "options": [
+        {
+          "id": "A",
+          "text": "В 2024 году"
+        },
+        {
+          "id": "B",
+          "text": "В 2020 году"
+        },
+        {
+          "id": "C",
+          "text": "В 2021 году"
+        },
+        {
+          "id": "D",
+          "text": "В 2022 году"
+        },
+        {
+          "id": "E",
+          "text": "В 2023 году"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 9"
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму «в университете учился»: «Университет... оқыдым».",
+      "options": [
+        {
+          "id": "A",
+          "text": "университетті"
+        },
+        {
+          "id": "B",
+          "text": "университетке"
+        },
+        {
+          "id": "C",
+          "text": "университетте"
+        },
+        {
+          "id": "D",
+          "text": "университеттен"
+        },
+        {
+          "id": "E",
+          "text": "университетпен"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 9"
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "В резюме раздел «Жұмыс тәжірибесі» содержит...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Расписание кино"
+        },
+        {
+          "id": "B",
+          "text": "Родословную до седьмого колена"
+        },
+        {
+          "id": "C",
+          "text": "Опыт работы"
+        },
+        {
+          "id": "D",
+          "text": "Погодный прогноз"
+        },
+        {
+          "id": "E",
+          "text": "Любимые блюда"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 300"
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "topic_id": 11,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Екі жыл мұғалім, кейін үш жыл аудармашы болып істеді». Общий указанный стаж составляет...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Четыре года"
+        },
+        {
+          "id": "B",
+          "text": "Шесть лет"
+        },
+        {
+          "id": "C",
+          "text": "Три года"
+        },
+        {
+          "id": "D",
+          "text": "Пять лет"
+        },
+        {
+          "id": "E",
+          "text": "Два года"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 2"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите фразу о завершённом действии.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Курсты аяқтау керек."
+        },
+        {
+          "id": "B",
+          "text": "Мен курсты аяқтадым."
+        },
+        {
+          "id": "C",
+          "text": "Мен курсты аяқтаймын."
+        },
+        {
+          "id": "D",
+          "text": "Курсты аяқтаңыз."
+        },
+        {
+          "id": "E",
+          "text": "Мен курсты аяқтайын."
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 211"
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "topic_id": 11,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Мекенжай» в личном листке означает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Семейное положение"
+        },
+        {
+          "id": "B",
+          "text": "Подпись"
+        },
+        {
+          "id": "C",
+          "text": "Адрес"
+        },
+        {
+          "id": "D",
+          "text": "Профессию"
+        },
+        {
+          "id": "E",
+          "text": "Учёную степень"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 7"
+        }
+      ]
+    },
+    {
+      "id": 441,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "В заявлении «Қолы» указывает место для...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Возрастной группы"
+        },
+        {
+          "id": "B",
+          "text": "Телефона"
+        },
+        {
+          "id": "C",
+          "text": "Названия города"
+        },
+        {
+          "id": "D",
+          "text": "Адреса"
+        },
+        {
+          "id": "E",
+          "text": "Подписи"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 2"
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "Просьба «Өтінішті толтырыңыз» означает...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Откройте окно"
+        },
+        {
+          "id": "B",
+          "text": "Купите билет"
+        },
+        {
+          "id": "C",
+          "text": "Прочитайте газету"
+        },
+        {
+          "id": "D",
+          "text": "Заполните заявление"
+        },
+        {
+          "id": "E",
+          "text": "Позвоните другу"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 233"
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Құжаттарды жұмаға дейін тапсыру керек». Что требуется?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Назвать пятничную погоду"
+        },
+        {
+          "id": "B",
+          "text": "Подать документы после пятницы"
+        },
+        {
+          "id": "C",
+          "text": "Забрать документы через месяц"
+        },
+        {
+          "id": "D",
+          "text": "Подать документы до пятницы"
+        },
+        {
+          "id": "E",
+          "text": "Не подавать документы"
+        }
+      ],
+      "correct_answers": [
+        "D"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 140"
+        }
+      ]
+    },
+    {
+      "id": 444,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите формальное начало делового обращения.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Құрметті әріптестер!"
+        },
+        {
+          "id": "B",
+          "text": "Әй, бері кел!"
+        },
+        {
+          "id": "C",
+          "text": "Қалайсың, бауырым?"
+        },
+        {
+          "id": "D",
+          "text": "Сәлем, достым!"
+        },
+        {
+          "id": "E",
+          "text": "Сау бол, балақай!"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 90"
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Анықтама» в деловой документации — это...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Стихотворение"
+        },
+        {
+          "id": "B",
+          "text": "Сказка"
+        },
+        {
+          "id": "C",
+          "text": "Справка"
+        },
+        {
+          "id": "D",
+          "text": "Песня"
+        },
+        {
+          "id": "E",
+          "text": "Рассказ"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 299"
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "topic_id": 12,
+      "difficulty_level": 3,
+      "type": "single_choice",
+      "question": "«Жиналыс дүйсенбіге ауыстырылды». Как изменилось собрание?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Оно прошло в воскресенье"
+        },
+        {
+          "id": "B",
+          "text": "Его перенесли на понедельник"
+        },
+        {
+          "id": "C",
+          "text": "Оно проходит ежедневно"
+        },
+        {
+          "id": "D",
+          "text": "Оно стало концертом"
+        },
+        {
+          "id": "E",
+          "text": "Его навсегда отменили"
+        }
+      ],
+      "correct_answers": [
+        "B"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 58"
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "topic_id": 12,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Как письменно сообщить о приложенном документе?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Күн ашық болды."
+        },
+        {
+          "id": "B",
+          "text": "Бұл менің досым."
+        },
+        {
+          "id": "C",
+          "text": "Құжат қоса берілді."
+        },
+        {
+          "id": "D",
+          "text": "Тамақ дәмді екен."
+        },
+        {
+          "id": "E",
+          "text": "Мен саябаққа бардым."
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 250"
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "topic_id": 12,
+      "difficulty_level": 1,
+      "type": "single_choice",
+      "question": "«Күні» рядом с подписью в документе — это поле для...",
+      "options": [
+        {
+          "id": "A",
+          "text": "Даты"
+        },
+        {
+          "id": "B",
+          "text": "Длины текста"
+        },
+        {
+          "id": "C",
+          "text": "Индекса книги"
+        },
+        {
+          "id": "D",
+          "text": "Профессии"
+        },
+        {
+          "id": "E",
+          "text": "Цены"
+        }
+      ],
+      "correct_answers": [
+        "A"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 9"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "topic_id": 7,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите форму принадлежности «дверь квартиры»: «Пәтердің ...».",
+      "options": [
+        {
+          "id": "A",
+          "text": "есікке"
+        },
+        {
+          "id": "B",
+          "text": "есікпен"
+        },
+        {
+          "id": "C",
+          "text": "есіктен"
+        },
+        {
+          "id": "D",
+          "text": "есікті"
+        },
+        {
+          "id": "E",
+          "text": "есігі"
+        }
+      ],
+      "correct_answers": [
+        "E"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 73"
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "topic_id": 11,
+      "difficulty_level": 2,
+      "type": "single_choice",
+      "question": "Выберите вопрос, уточняющий год рождения.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Кіммен тұрасыз?"
+        },
+        {
+          "id": "B",
+          "text": "Не оқып отырсыз?"
+        },
+        {
+          "id": "C",
+          "text": "Қай жылы тудыңыз?"
+        },
+        {
+          "id": "D",
+          "text": "Қайда жұмыс істейсіз?"
+        },
+        {
+          "id": "E",
+          "text": "Қашан демаласыз?"
+        }
+      ],
+      "correct_answers": [
+        "C"
+      ],
+      "source_references": [
+        {
+          "file": "А2/kaz_A2.pdf",
+          "location": "страница PDF 15"
+        }
+      ]
+    }
+  ]
+}

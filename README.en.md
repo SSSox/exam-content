@@ -8,22 +8,23 @@ This is the data repository for the Exam Trainer app: a tree of sections (univer
 
 ## What is inside
 
-The repository currently holds 8 banks and 2636 questions: Al-Farabi Kazakh National University, Faculty of Information Technology and Artificial Intelligence, bachelor's degree, specialty "Information Security Systems", year 1, 2026, semester 1.
+The repository currently holds 8 banks and 3436 questions: Al-Farabi Kazakh National University, Faculty of Information Technology and Artificial Intelligence, bachelor's degree, specialty "Information Security Systems", year 1, 2026, semester 1.
 
 | Subject | Bank identifier | Bank language | Questions |
 | --- | --- | --- | --- |
-| Psychology | `kaznu/psychology` | ru | 350 |
-| Political Science | `kaznu/political-science` | ru | 350 |
-| Cultural Studies | `kaznu/cultural-studies` | ru | 350 |
-| Sociology | `kaznu/sociology` | ru | 186 |
-| History of Kazakhstan | `kaznu/history-of-kazakhstan` | ru | 350 |
-| Kazakh language, A1 | `kaznu/kazakh-a1` | ru | 350 |
-| Kazakh language, A2 | `kaznu/kazakh-a2` | ru | 350 |
-| Kazakh language, B1–B2 | `kaznu/kazakh-b1-b2` | kk | 350 |
+| Psychology | `kaznu/psychology` | ru | 450 |
+| Political Science | `kaznu/political-science` | ru | 450 |
+| Cultural Studies | `kaznu/cultural-studies` | ru | 450 |
+| Sociology | `kaznu/sociology` | ru | 286 |
+| History of Kazakhstan | `kaznu/history-of-kazakhstan` | ru | 450 |
+| Kazakh language, A1 | `kaznu/kazakh-a1` | ru | 450 |
+| Kazakh language, A2 | `kaznu/kazakh-a2` | ru | 450 |
+| Kazakh language, B1–B2 | `kaznu/kazakh-b1-b2` | kk | 450 |
 
-The three Kazakh banks sit in the subject group "Kazakh language", one bank per level. The Sociology bank is smaller than the others: it holds the 186 questions of a known question list, with options and keys written from the lectures, or from textbooks where the lectures say nothing.
+The three Kazakh banks sit in the subject group "Kazakh language", one bank per level. The Sociology bank is smaller than the others: it holds 286 questions: 186 from a known question list (options and keys written from the lectures, or from textbooks where the lectures say nothing) and 100 new original ones.
 
-The questions are original and written for study, and they are not official exam tasks. The wording, the number of options and the spread over four difficulty levels follow the format of the final test. For Sociology the wording is taken from the known list, and the levels follow how hard each question is, so that bank does not fully match the test format. The keys come from lectures, textbooks and open sources, and no teacher has checked them. Psychology, Political Science, Cultural Studies and Sociology have a Kazakh and an English translation. The translation is machine-made and has not been proofread. The other banks come only in the bank's own language. Auto-check in typed-answer mode covers only some questions: 18 in Psychology, roughly every fifth in History and Kazakh language, none in Political Science, Cultural Studies and Sociology. In typed-answer mode the student checks the remaining questions themselves.
+The questions are original and written for study, and they are not official exam tasks. The wording, the number of options and the spread over four difficulty levels follow the format of the final test. For Sociology the wording is taken from the known list, and the levels follow how hard each question is, so that bank does not fully match the test format. The keys come from lectures, textbooks and open sources, and no teacher has checked them. Psychology, Political Science, Cultural Studies and Sociology have a Kazakh and an English translation. The translation is machine-made and has not been proofread. The other banks come only in the bank's own language.
+Each bank has 100 new questions in a separate file, `questions/extra-20261124.json` (IDs 351–450, 187–286 for Sociology). They are original tasks with one correct answer out of five, with author-estimated difficulty, in the bank's own language. They have no translations and no typed-answer markup yet. Auto-check in typed-answer mode covers only some questions: 18 in Psychology, roughly every fifth in History and Kazakh language, none in Political Science, Cultural Studies and Sociology. In typed-answer mode the student checks the remaining questions themselves.
 
 ## Structure
 
@@ -57,7 +58,7 @@ Install the dependencies once in the code repository (`npm install`), then run t
 node ../exam-platform/packages/content-tools/src/cli.ts validate .
 ```
 
-On success the command prints `OK: 8 banks, 2636 questions`. On errors it lists them and exits with code 1. It checks the folder layout, schemas, duplicate identifiers, keys and free-input blocks. Run it before every commit.
+On success the command prints `OK: 8 banks, 3436 questions`. On errors it lists them and exits with code 1. It checks the folder layout, schemas, duplicate identifiers, keys and free-input blocks. Run it before every commit.
 
 ## How to add
 

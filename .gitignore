@@ -72,3 +72,10 @@ PRODUCT.md
 .repomix*
 repomix-output.*
 QWEN.md
+
+# AI agents (local only, extra)
+.windsurfrules
+/CLAUDE.local.md
+/CLAUDE.md
+/AGENTS.md
+/GEMINI.md
