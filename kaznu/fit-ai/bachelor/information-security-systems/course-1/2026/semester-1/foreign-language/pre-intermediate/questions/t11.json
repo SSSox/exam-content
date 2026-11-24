@@ -33,7 +33,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "A specified finished past time takes past simple.",
+      "explanation": {
+        "en": "A specified finished past time takes past simple.",
+        "ru": "Указанное завершённое время в прошлом требует past simple.",
+        "kk": "Көрсетілген аяқталған өткен уақыт past simple-ді қажет етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "When asking about a finished purchase, use did + base verb.",
+      "explanation": {
+        "en": "When asking about a finished purchase, use did + base verb.",
+        "ru": "Вопрос о завершённой покупке строится как did + базовая форма глагола.",
+        "kk": "Аяқталған сатып алу туралы сұрақ did + етістіктің негізгі формасы арқылы құрылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Have never + participle describes life experience up to now.",
+      "explanation": {
+        "en": "Have never + participle describes life experience up to now.",
+        "ru": "Have never + причастие описывает жизненный опыт до настоящего момента.",
+        "kk": "Have never + participle қазіргі сәтке дейінгі өмір тәжірибесін сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Last Saturday is a finished past time.",
+      "explanation": {
+        "en": "Last Saturday is a finished past time.",
+        "ru": "Last Saturday — это завершённое время в прошлом.",
+        "kk": "Last Saturday — аяқталған өткен уақыт."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Have you ever takes a past participle.",
+      "explanation": {
+        "en": "Have you ever takes a past participle.",
+        "ru": "После Have you ever стоит причастие прошедшего времени (past participle).",
+        "kk": "Have you ever-ден кейін past participle тұрады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Present perfect is formed with have + subject + participle.",
+      "explanation": {
+        "en": "Present perfect is formed with have + subject + participle.",
+        "ru": "Present perfect образуется как have + подлежащее + причастие.",
+        "kk": "Present perfect have + бастауыш + participle түрінде жасалады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The stated finished time calls for did + base verb.",
+      "explanation": {
+        "en": "The stated finished time calls for did + base verb.",
+        "ru": "Названное завершённое время требует did + базовая форма глагола.",
+        "kk": "Аталған аяқталған уақыт did + етістіктің негізгі формасын қажет етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Yesterday requires past simple, with didn't + go.",
+      "explanation": {
+        "en": "Yesterday requires past simple, with didn't + go.",
+        "ru": "Yesterday требует past simple: didn't + go.",
+        "kk": "Yesterday past simple-ді қажет етеді: didn't + go."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The specific year requires past simple.",
+      "explanation": {
+        "en": "The specific year requires past simple.",
+        "ru": "Конкретный год требует past simple.",
+        "kk": "Нақты жыл past simple-ді қажет етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Yet with a completed action up to now fits present perfect.",
+      "explanation": {
+        "en": "Yet with a completed action up to now fits present perfect.",
+        "ru": "Yet с действием, завершённым к настоящему моменту, подходит для present perfect.",
+        "kk": "Қазіргі сәтке дейін аяқталған әрекетпен қолданылатын yet present perfect-ке сәйкес келеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Match did in the question.",
+      "explanation": {
+        "en": "Match did in the question.",
+        "ru": "Согласуйте форму с did в вопросе.",
+        "kk": "Сұрақтағы did-ке сәйкестендіріңіз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Match has in the present perfect question.",
+      "explanation": {
+        "en": "Match has in the present perfect question.",
+        "ru": "Согласуйте форму с has в вопросе present perfect.",
+        "kk": "Present perfect сұрағындағы has-қа сәйкестендіріңіз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "A stated finished date normally takes past simple.",
+      "explanation": {
+        "en": "A stated finished date normally takes past simple.",
+        "ru": "Указанная завершённая дата обычно требует past simple.",
+        "kk": "Көрсетілген аяқталған күн әдетте past simple-ді қажет етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "When did asks about the time of a past event.",
+      "explanation": {
+        "en": "When did asks about the time of a past event.",
+        "ru": "When did спрашивает о времени события в прошлом.",
+        "kk": "When did өткендегі оқиғаның уақытын сұрайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "A receipt records payment for a purchase.",
+      "explanation": {
+        "en": "A receipt records payment for a purchase.",
+        "ru": "Receipt (чек) фиксирует оплату покупки.",
+        "kk": "Receipt (чек) сатып алу төлемін растайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "A refund returns money to the buyer.",
+      "explanation": {
+        "en": "A refund returns money to the buyer.",
+        "ru": "Refund (возврат денег) возвращает деньги покупателю.",
+        "kk": "Refund (ақшаны қайтару) ақшаны сатып алушыға қайтарады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Exchange means replace something with another item.",
+      "explanation": {
+        "en": "Exchange means replace something with another item.",
+        "ru": "Exchange означает заменить вещь на другую.",
+        "kk": "Exchange бір затты басқасына ауыстыруды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Out of stock means the seller has none available.",
+      "explanation": {
+        "en": "Out of stock means the seller has none available.",
+        "ru": "Out of stock означает, что у продавца товара нет в наличии.",
+        "kk": "Out of stock сатушыда тауар жоқ дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Shipping refers to sending goods to the customer.",
+      "explanation": {
+        "en": "Shipping refers to sending goods to the customer.",
+        "ru": "Shipping (доставка, отправка) — отправка товаров покупателю.",
+        "kk": "Shipping — тауарларды тұтынушыға жөнелту."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Try on means put clothes on to check fit and appearance.",
+      "explanation": {
+        "en": "Try on means put clothes on to check fit and appearance.",
+        "ru": "Try on означает надеть одежду, чтобы проверить размер и внешний вид.",
+        "kk": "Try on өлшемі мен көрінісін тексеру үшін киімді киіп көруді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Add the product price and delivery charge.",
+      "explanation": {
+        "en": "Add the product price and delivery charge.",
+        "ru": "Сложите цену товара и стоимость доставки.",
+        "kk": "Тауар бағасы мен жеткізу ақысын қосыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The text says the size was wrong.",
+      "explanation": {
+        "en": "The text says the size was wrong.",
+        "ru": "В тексте сказано, что размер был неправильным.",
+        "kk": "Мәтінде өлшем дұрыс болмағаны айтылған."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Shop A totals £38 and Shop B totals £35.",
+      "explanation": {
+        "en": "Shop A totals £38 and Shop B totals £35.",
+        "ru": "Итого в магазине A £38, в магазине B £35.",
+        "kk": "A дүкенінде барлығы £38, B дүкенінде £35."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Last Saturday is a finished past time, so use did + subject + base verb.",
+      "explanation": {
+        "en": "Last Saturday is a finished past time, so use did + subject + base verb.",
+        "ru": "Last Saturday — завершённое время в прошлом, поэтому используйте did + подлежащее + базовая форма глагола.",
+        "kk": "Last Saturday — аяқталған өткен уақыт, сондықтан did + бастауыш + етістіктің негізгі формасын қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Have you ever asks about experience without specifying a finished time.",
+      "explanation": {
+        "en": "Have you ever asks about experience without specifying a finished time.",
+        "ru": "Have you ever спрашивает об опыте без указания завершённого времени.",
+        "kk": "Have you ever аяқталған уақытты көрсетпей, тәжірибе туралы сұрайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Include delivery asks whether the delivery cost is already part of the price.",
+      "explanation": {
+        "en": "Include delivery asks whether the delivery cost is already part of the price.",
+        "ru": "Include delivery спрашивает, входит ли стоимость доставки уже в цену.",
+        "kk": "Include delivery жеткізу құны бағаға кіретін-кірмейтінін сұрайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Click and collect combines online ordering with collection in person.",
+      "explanation": {
+        "en": "Click and collect combines online ordering with collection in person.",
+        "ru": "Click and collect сочетает заказ онлайн и самовывоз.",
+        "kk": "Click and collect онлайн тапсырыс беруді және өзі барып алуды біріктіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The £4 delivery charge does not apply to free collection.",
+      "explanation": {
+        "en": "The £4 delivery charge does not apply to free collection.",
+        "ru": "Плата за доставку £4 не относится к бесплатному самовывозу.",
+        "kk": "£4 жеткізу ақысы тегін өзі барып алуға қолданылмайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "By Friday at 6 p.m. is the latest collection time.",
+      "explanation": {
+        "en": "By Friday at 6 p.m. is the latest collection time.",
+        "ru": "By Friday at 6 p.m. — самый поздний срок получения заказа.",
+        "kk": "By Friday at 6 p.m. — тапсырысты алудың ең соңғы уақыты."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

@@ -33,7 +33,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "I takes have + past participle.",
+      "explanation": {
+        "en": "I takes have + past participle.",
+        "ru": "С I используется have + причастие прошедшего времени.",
+        "kk": "I-мен have + өткен шақ есімшесі қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "She takes has + past participle.",
+      "explanation": {
+        "en": "She takes has + past participle.",
+        "ru": "С she используется has + причастие прошедшего времени.",
+        "kk": "She-мен has + өткен шақ есімшесі қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Seen is the participle used after have or has.",
+      "explanation": {
+        "en": "Seen is the participle used after have or has.",
+        "ru": "Seen это причастие, которое используется после have или has.",
+        "kk": "Seen have немесе has-тан кейін қолданылатын есімше."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Written is the past participle.",
+      "explanation": {
+        "en": "Written is the past participle.",
+        "ru": "Written это причастие прошедшего времени.",
+        "kk": "Written өткен шақ есімшесі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Present perfect requires the participle done.",
+      "explanation": {
+        "en": "Present perfect requires the participle done.",
+        "ru": "Present Perfect требует причастия done.",
+        "kk": "Present Perfect done есімшесін талап етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use hasn't + past participle with he.",
+      "explanation": {
+        "en": "Use hasn't + past participle with he.",
+        "ru": "С he используется hasn't + причастие прошедшего времени.",
+        "kk": "He-мен hasn't + өткен шақ есімшесі қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Use have + subject + past participle.",
+      "explanation": {
+        "en": "Use have + subject + past participle.",
+        "ru": "Используйте have + подлежащее + причастие прошедшего времени.",
+        "kk": "Have + бастауыш + өткен шақ есімшесі үлгісін қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The short answer repeats has.",
+      "explanation": {
+        "en": "The short answer repeats has.",
+        "ru": "В кратком ответе повторяется has.",
+        "kk": "Қысқа жауапта has қайталанады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Yet is commonly used at the end of present perfect negatives.",
+      "explanation": {
+        "en": "Yet is commonly used at the end of present perfect negatives.",
+        "ru": "Yet обычно ставится в конце отрицательных предложений в Present Perfect.",
+        "kk": "Yet әдетте Present Perfect болымсыз сөйлемдерінің соңына қойылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Just is placed between have and the participle.",
+      "explanation": {
+        "en": "Just is placed between have and the participle.",
+        "ru": "Just ставится между have и причастием.",
+        "kk": "Just have пен есімшенің арасына қойылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Already asks about completion earlier than expected.",
+      "explanation": {
+        "en": "Already asks about completion earlier than expected.",
+        "ru": "Already спрашивает о завершении раньше, чем ожидалось.",
+        "kk": "Already іс күткеннен ертерек аяқталғанын сұрайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Has gone describes a visit from which he has not returned.",
+      "explanation": {
+        "en": "Has gone describes a visit from which he has not returned.",
+        "ru": "Has gone описывает визит, из которого он ещё не вернулся.",
+        "kk": "Has gone ол әлі қайтып келмеген сапарды сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Has been describes a completed visit in this context.",
+      "explanation": {
+        "en": "Has been describes a completed visit in this context.",
+        "ru": "Has been в этом контексте описывает завершённый визит.",
+        "kk": "Has been осы контексте аяқталған сапарды сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The collocation is make your bed.",
+      "explanation": {
+        "en": "The collocation is make your bed.",
+        "ru": "Устойчивое сочетание: make your bed.",
+        "kk": "Тұрақты тіркес: make your bed."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The collocation is do the washing-up.",
+      "explanation": {
+        "en": "The collocation is do the washing-up.",
+        "ru": "Устойчивое сочетание: do the washing-up.",
+        "kk": "Тұрақты тіркес: do the washing-up."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Do the shopping means buy the things you need.",
+      "explanation": {
+        "en": "Do the shopping means buy the things you need.",
+        "ru": "Do the shopping значит купить необходимые вещи.",
+        "kk": "Do the shopping керек заттарды сатып алу дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The collocation is make a plan.",
+      "explanation": {
+        "en": "The collocation is make a plan.",
+        "ru": "Устойчивое сочетание: make a plan.",
+        "kk": "Тұрақты тіркес: make a plan."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Tidy a room means put its contents in order.",
+      "explanation": {
+        "en": "Tidy a room means put its contents in order.",
+        "ru": "Tidy a room значит привести всё в комнате в порядок.",
+        "kk": "Tidy a room бөлмедегі заттарды ретке келтіру дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Take the rubbish out is a household task.",
+      "explanation": {
+        "en": "Take the rubbish out is a household task.",
+        "ru": "Take the rubbish out это домашнее дело.",
+        "kk": "Take the rubbish out үй шаруасы болып табылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "A vacuum cleaner removes dust from carpets.",
+      "explanation": {
+        "en": "A vacuum cleaner removes dust from carpets.",
+        "ru": "Пылесос убирает пыль с ковров.",
+        "kk": "Шаңсорғыш кілемдегі шаңды кетіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Ironing removes creases from clothes.",
+      "explanation": {
+        "en": "Ironing removes creases from clothes.",
+        "ru": "Глажка убирает складки с одежды.",
+        "kk": "Үтіктеу киімдегі қатпарларды кетіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The shirts have not yet been ironed.",
+      "explanation": {
+        "en": "The shirts have not yet been ironed.",
+        "ru": "Рубашки ещё не поглажены.",
+        "kk": "Көйлектер әлі үтіктелмеген."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Except identifies the room not yet cleaned.",
+      "explanation": {
+        "en": "Except identifies the room not yet cleaned.",
+        "ru": "Except указывает на комнату, которая ещё не убрана.",
+        "kk": "Except әлі жиналмаған бөлмені көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The present perfect question uses have + subject + past participle.",
+      "explanation": {
+        "en": "The present perfect question uses have + subject + past participle.",
+        "ru": "Вопрос в Present Perfect строится так: have + подлежащее + причастие прошедшего времени.",
+        "kk": "Present Perfect сұрағы мына үлгімен құрылады: have + бастауыш + өткен шақ есімшесі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "With we, the present perfect negative is haven’t + the past participle.",
+      "explanation": {
+        "en": "With we, the present perfect negative is haven’t + the past participle.",
+        "ru": "С we отрицание в Present Perfect это haven’t + причастие прошедшего времени.",
+        "kk": "We-мен Present Perfect болымсыз формасы haven’t + өткен шақ есімшесі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Just in the present perfect shows that the action happened very recently.",
+      "explanation": {
+        "en": "Just in the present perfect shows that the action happened very recently.",
+        "ru": "Just в present perfect показывает, что действие произошло совсем недавно.",
+        "kk": "Present perfect-тегі just әрекеттің жуырда ғана болғанын көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Do the washing-up means wash the dishes.",
+      "explanation": {
+        "en": "Do the washing-up means wash the dishes.",
+        "ru": "Do the washing-up означает «мыть посуду» (wash the dishes).",
+        "kk": "Do the washing-up ыдыс жуу (wash the dishes) дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Make a list means create one.",
+      "explanation": {
+        "en": "Make a list means create one.",
+        "ru": "Make a list означает «составить список».",
+        "kk": "Make a list тізім жасау дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "A broom is used to sweep the floor.",
+      "explanation": {
+        "en": "A broom is used to sweep the floor.",
+        "ru": "Broom (веник, метла) используют, чтобы подметать пол.",
+        "kk": "Broom (сыпырғыш) еденді сыпыру үшін қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1193,7 +1309,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "That refers back to the unfinished task of sweeping the kitchen.",
+      "explanation": {
+        "en": "That refers back to the unfinished task of sweeping the kitchen.",
+        "ru": "That отсылает к незавершённому делу: подметанию кухни.",
+        "kk": "That аяқталмаған істі, яғни асүйді сыпыруды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

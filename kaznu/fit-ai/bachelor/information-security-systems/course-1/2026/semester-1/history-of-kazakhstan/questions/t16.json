@@ -7,33 +7,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Идею «Экономического пояса Шёлкового пути» Си Цзиньпин выдвинул в Астане в 2013 г., выступая в...",
+      "question": {
+        "ru": "Идею «Экономического пояса Шёлкового пути» Си Цзиньпин выдвинул в Астане в 2013 г., выступая в...",
+        "en": "Xi Jinping put forward the idea of the «Silk Road Economic Belt» in Astana in 2013 while speaking at...",
+        "kk": "Си Цзиньпин «Жібек жолы экономикалық белдеуі» идеясын 2013 жылы Астанада мынада сөйлеген кезде ұсынды..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Мажилисе Парламента"
+          "text": {
+            "ru": "Мажилисе Парламента",
+            "en": "the Mazhilis of Parliament",
+            "kk": "Парламент Мәжілісінде"
+          }
         },
         {
           "id": "B",
-          "text": "Евразийском национальном университете"
+          "text": {
+            "ru": "Евразийском национальном университете",
+            "en": "the Eurasian National University",
+            "kk": "Еуразия ұлттық университетінде"
+          }
         },
         {
           "id": "C",
-          "text": "Назарбаев Университете"
+          "text": {
+            "ru": "Назарбаев Университете",
+            "en": "Nazarbayev University",
+            "kk": "Назарбаев Университетінде"
+          }
         },
         {
           "id": "D",
-          "text": "Академии государственного управления"
+          "text": {
+            "ru": "Академии государственного управления",
+            "en": "the Academy of Public Administration",
+            "kk": "Мемлекеттік басқару академиясында"
+          }
         },
         {
           "id": "E",
-          "text": "Назарбаев Центре"
+          "text": {
+            "ru": "Назарбаев Центре",
+            "en": "the Nazarbayev Center",
+            "kk": "Назарбаев Орталығында"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Идею «Экономического пояса Шёлкового пути» Си Цзиньпин выдвинул в сентябре 2013 г. в Назарбаев Университете в Астане.",
+      "explanation": {
+        "ru": "Идею «Экономического пояса Шёлкового пути» Си Цзиньпин выдвинул в сентябре 2013 г. в Назарбаев Университете в Астане.",
+        "en": "Xi Jinping put forward the idea of the «Silk Road Economic Belt» in September 2013 at Nazarbayev University in Astana.",
+        "kk": "Си Цзиньпин «Жібек жолы экономикалық белдеуі» идеясын 2013 жылғы қыркүйекте Астанадағы Назарбаев Университетінде ұсынды."
+      },
       "source_references": [
         {
           "url": "https://covid-19.chinadaily.com.cn/china/2013xivisitcenterasia/2013-09/07/content_16951811.htm",
@@ -52,6 +80,12 @@
               "ru": [
                 "Назарбаев Университет",
                 "Университет Назарбаева"
+              ],
+              "en": [
+                "nazarbayev university"
+              ],
+              "kk": [
+                "назарбаев университетінде"
               ]
             }
           }
@@ -63,33 +97,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Декларация о создании Шанхайской организации сотрудничества была подписана в...",
+      "question": {
+        "ru": "Декларация о создании Шанхайской организации сотрудничества была подписана в...",
+        "en": "The Declaration on the establishment of the Shanghai Cooperation Organisation was signed in...",
+        "kk": "Шанхай ынтымақтастық ұйымын құру туралы Декларацияға қол қойылған жыл..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "1996 г."
+          "text": {
+            "ru": "1996 г.",
+            "en": "1996",
+            "kk": "1996 ж."
+          }
         },
         {
           "id": "B",
-          "text": "1997 г."
+          "text": {
+            "ru": "1997 г.",
+            "en": "1997",
+            "kk": "1997 ж."
+          }
         },
         {
           "id": "C",
-          "text": "1999 г."
+          "text": {
+            "ru": "1999 г.",
+            "en": "1999",
+            "kk": "1999 ж."
+          }
         },
         {
           "id": "D",
-          "text": "2001 г."
+          "text": {
+            "ru": "2001 г.",
+            "en": "2001",
+            "kk": "2001 ж."
+          }
         },
         {
           "id": "E",
-          "text": "2002 г."
+          "text": {
+            "ru": "2002 г.",
+            "en": "2002",
+            "kk": "2002 ж."
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Декларация о создании ШОС подписана в Шанхае 15 июня 2001 г.",
+      "explanation": {
+        "ru": "Декларация о создании ШОС подписана в Шанхае 15 июня 2001 г.",
+        "en": "The Declaration on the establishment of the SCO was signed in Shanghai on 15 June 2001.",
+        "kk": "ШЫҰ-ды құру туралы Декларацияға 2001 жылғы 15 маусымда Шанхайда қол қойылды."
+      },
       "source_references": [
         {
           "file": "Лекции/Каражан К.С. История Казахстана (рус) (1).pdf",
@@ -106,33 +168,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Какой конфликт обсуждали на переговорах в Астане в январе 2017 г.?",
+      "question": {
+        "ru": "Какой конфликт обсуждали на переговорах в Астане в январе 2017 г.?",
+        "en": "Which conflict was discussed at the negotiations in Astana in January 2017?",
+        "kk": "2017 жылғы қаңтарда Астанадағы келіссөздерде қандай қақтығыс талқыланды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "сирийский"
+          "text": {
+            "ru": "сирийский",
+            "en": "the Syrian",
+            "kk": "сириялық"
+          }
         },
         {
           "id": "B",
-          "text": "афганский"
+          "text": {
+            "ru": "афганский",
+            "en": "the Afghan",
+            "kk": "ауғандық"
+          }
         },
         {
           "id": "C",
-          "text": "карабахский"
+          "text": {
+            "ru": "карабахский",
+            "en": "the Karabakh",
+            "kk": "қарабақтық"
+          }
         },
         {
           "id": "D",
-          "text": "йеменский"
+          "text": {
+            "ru": "йеменский",
+            "en": "the Yemeni",
+            "kk": "йемендік"
+          }
         },
         {
           "id": "E",
-          "text": "украинский"
+          "text": {
+            "ru": "украинский",
+            "en": "the Ukrainian",
+            "kk": "украиндық"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Астанинские переговоры 23–24 января 2017 г. были посвящены урегулированию в Сирии.",
+      "explanation": {
+        "ru": "Астанинские переговоры 23–24 января 2017 г. были посвящены урегулированию в Сирии.",
+        "en": "The Astana talks of 23–24 January 2017 were devoted to the settlement in Syria.",
+        "kk": "2017 жылғы 23–24 қаңтардағы Астана келіссөздері Сириядағы жағдайды реттеуге арналды."
+      },
       "source_references": [
         {
           "url": "https://pax.peaceagreements.org/agreements/2092",
@@ -149,6 +239,13 @@
                 "Сирия",
                 "сирийский конфликт",
                 "конфликт в Сирии"
+              ],
+              "en": [
+                "the syrian",
+                "syrian"
+              ],
+              "kk": [
+                "сириялық"
               ]
             }
           }
@@ -160,33 +257,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Конвенция о правовом статусе Каспийского моря была подписана в 2018 г. в...",
+      "question": {
+        "ru": "Конвенция о правовом статусе Каспийского моря была подписана в 2018 г. в...",
+        "en": "The Convention on the Legal Status of the Caspian Sea was signed in 2018 in...",
+        "kk": "Каспий теңізінің құқықтық мәртебесі туралы Конвенцияға 2018 жылы қол қойылған қала..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Ашхабаде"
+          "text": {
+            "ru": "Ашхабаде",
+            "en": "Ashgabat",
+            "kk": "Ашхабад"
+          }
         },
         {
           "id": "B",
-          "text": "Баку"
+          "text": {
+            "ru": "Баку",
+            "en": "Baku",
+            "kk": "Баку"
+          }
         },
         {
           "id": "C",
-          "text": "Тегеране"
+          "text": {
+            "ru": "Тегеране",
+            "en": "Tehran",
+            "kk": "Тегеран"
+          }
         },
         {
           "id": "D",
-          "text": "Астрахани"
+          "text": {
+            "ru": "Астрахани",
+            "en": "Astrakhan",
+            "kk": "Астрахан"
+          }
         },
         {
           "id": "E",
-          "text": "Актау"
+          "text": {
+            "ru": "Актау",
+            "en": "Aktau",
+            "kk": "Ақтау"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Конвенция о правовом статусе Каспийского моря подписана 12 августа 2018 г. в Актау.",
+      "explanation": {
+        "ru": "Конвенция о правовом статусе Каспийского моря подписана 12 августа 2018 г. в Актау.",
+        "en": "The Convention on the Legal Status of the Caspian Sea was signed on 12 August 2018 in Aktau.",
+        "kk": "Каспий теңізінің құқықтық мәртебесі туралы Конвенцияға 2018 жылғы 12 тамызда Ақтауда қол қойылды."
+      },
       "source_references": [
         {
           "url": "https://en.wikipedia.org/wiki/Convention_on_the_legal_status_of_the_Caspian_Sea",
@@ -205,6 +330,12 @@
               "ru": [
                 "Актау",
                 "в Актау"
+              ],
+              "en": [
+                "aktau"
+              ],
+              "kk": [
+                "ақтау"
               ]
             }
           }
@@ -216,33 +347,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Первый Съезд лидеров мировых и традиционных религий состоялся в Астане в...",
+      "question": {
+        "ru": "Первый Съезд лидеров мировых и традиционных религий состоялся в Астане в...",
+        "en": "The first Congress of Leaders of World and Traditional Religions took place in Astana in...",
+        "kk": "Әлемдік және дәстүрлі діндер лидерлерінің алғашқы съезі Астанада өткен жыл..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "2000 г."
+          "text": {
+            "ru": "2000 г.",
+            "en": "2000",
+            "kk": "2000 ж."
+          }
         },
         {
           "id": "B",
-          "text": "2003 г."
+          "text": {
+            "ru": "2003 г.",
+            "en": "2003",
+            "kk": "2003 ж."
+          }
         },
         {
           "id": "C",
-          "text": "2006 г."
+          "text": {
+            "ru": "2006 г.",
+            "en": "2006",
+            "kk": "2006 ж."
+          }
         },
         {
           "id": "D",
-          "text": "2009 г."
+          "text": {
+            "ru": "2009 г.",
+            "en": "2009",
+            "kk": "2009 ж."
+          }
         },
         {
           "id": "E",
-          "text": "2012 г."
+          "text": {
+            "ru": "2012 г.",
+            "en": "2012",
+            "kk": "2012 ж."
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Первый Съезд лидеров мировых и традиционных религий прошёл в Астане 23–24 сентября 2003 г.",
+      "explanation": {
+        "ru": "Первый Съезд лидеров мировых и традиционных религий прошёл в Астане 23–24 сентября 2003 г.",
+        "en": "The first Congress of Leaders of World and Traditional Religions was held in Astana on 23–24 September 2003.",
+        "kk": "Әлемдік және дәстүрлі діндер лидерлерінің алғашқы съезі Астанада 2003 жылғы 23–24 қыркүйекте өтті."
+      },
       "source_references": [
         {
           "url": "https://e-history.kz/en/e-resources/show/13451",
@@ -260,6 +419,12 @@
             "accept": {
               "ru": [
                 "2003"
+              ],
+              "en": [
+                "2003"
+              ],
+              "kk": [
+                "2003 ж"
               ]
             }
           }
@@ -271,33 +436,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Договор о коллективной безопасности был подписан 15 мая 1992 г. в...",
+      "question": {
+        "ru": "Договор о коллективной безопасности был подписан 15 мая 1992 г. в...",
+        "en": "The Collective Security Treaty was signed on 15 May 1992 in...",
+        "kk": "Ұжымдық қауіпсіздік туралы шартқа 1992 жылғы 15 мамырда қол қойылған қала..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Ташкенте"
+          "text": {
+            "ru": "Ташкенте",
+            "en": "Tashkent",
+            "kk": "Ташкент"
+          }
         },
         {
           "id": "B",
-          "text": "Алма-Ате"
+          "text": {
+            "ru": "Алма-Ате",
+            "en": "Alma-Ata",
+            "kk": "Алматы"
+          }
         },
         {
           "id": "C",
-          "text": "Бишкеке"
+          "text": {
+            "ru": "Бишкеке",
+            "en": "Bishkek",
+            "kk": "Бішкек"
+          }
         },
         {
           "id": "D",
-          "text": "Москве"
+          "text": {
+            "ru": "Москве",
+            "en": "Moscow",
+            "kk": "Мәскеу"
+          }
         },
         {
           "id": "E",
-          "text": "Душанбе"
+          "text": {
+            "ru": "Душанбе",
+            "en": "Dushanbe",
+            "kk": "Душанбе"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Договор о коллективной безопасности подписан 15 мая 1992 г. в Ташкенте.",
+      "explanation": {
+        "ru": "Договор о коллективной безопасности подписан 15 мая 1992 г. в Ташкенте.",
+        "en": "The Collective Security Treaty was signed on 15 May 1992 in Tashkent.",
+        "kk": "Ұжымдық қауіпсіздік туралы шартқа 1992 жылғы 15 мамырда Ташкентте қол қойылды."
+      },
       "source_references": [
         {
           "url": "https://continent-online.com/Document/?doc_id=1006954",
@@ -310,33 +503,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Устав СНГ был подписан в начале 1993 г. в...",
+      "question": {
+        "ru": "Устав СНГ был подписан в начале 1993 г. в...",
+        "en": "The CIS Charter was signed in early 1993 in...",
+        "kk": "ТМД Жарғысына 1993 жылдың басында қол қойылған қала..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Алма-Ате"
+          "text": {
+            "ru": "Алма-Ате",
+            "en": "Alma-Ata",
+            "kk": "Алматы"
+          }
         },
         {
           "id": "B",
-          "text": "Минске"
+          "text": {
+            "ru": "Минске",
+            "en": "Minsk",
+            "kk": "Минск"
+          }
         },
         {
           "id": "C",
-          "text": "Москве"
+          "text": {
+            "ru": "Москве",
+            "en": "Moscow",
+            "kk": "Мәскеу"
+          }
         },
         {
           "id": "D",
-          "text": "Киеве"
+          "text": {
+            "ru": "Киеве",
+            "en": "Kyiv",
+            "kk": "Киев"
+          }
         },
         {
           "id": "E",
-          "text": "Ташкенте"
+          "text": {
+            "ru": "Ташкенте",
+            "en": "Tashkent",
+            "kk": "Ташкент"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "В начале 1993 г. в Минске был подписан Устав СНГ.",
+      "explanation": {
+        "ru": "В начале 1993 г. в Минске был подписан Устав СНГ.",
+        "en": "The CIS Charter was signed in Minsk in early 1993.",
+        "kk": "ТМД Жарғысына 1993 жылдың басында Минскіде қол қойылды."
+      },
       "source_references": [
         {
           "file": "Лекции/Каражан К.С. История Казахстана (рус) (1).pdf",
@@ -349,33 +570,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Казахстан председательствовал в Организации по безопасности и сотрудничеству в Европе в...",
+      "question": {
+        "ru": "Казахстан председательствовал в Организации по безопасности и сотрудничеству в Европе в...",
+        "en": "Kazakhstan chaired the Organization for Security and Cooperation in Europe in...",
+        "kk": "Қазақстан Еуропадағы қауіпсіздік және ынтымақтастық ұйымына төрағалық еткен жыл..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "2007 г."
+          "text": {
+            "ru": "2007 г.",
+            "en": "2007",
+            "kk": "2007 ж."
+          }
         },
         {
           "id": "B",
-          "text": "2008 г."
+          "text": {
+            "ru": "2008 г.",
+            "en": "2008",
+            "kk": "2008 ж."
+          }
         },
         {
           "id": "C",
-          "text": "2009 г."
+          "text": {
+            "ru": "2009 г.",
+            "en": "2009",
+            "kk": "2009 ж."
+          }
         },
         {
           "id": "D",
-          "text": "2010 г."
+          "text": {
+            "ru": "2010 г.",
+            "en": "2010",
+            "kk": "2010 ж."
+          }
         },
         {
           "id": "E",
-          "text": "2011 г."
+          "text": {
+            "ru": "2011 г.",
+            "en": "2011",
+            "kk": "2011 ж."
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Казахстан председательствовал в ОБСЕ в 2010 г., а саммит организации прошёл в Астане 1–2 декабря 2010 г.",
+      "explanation": {
+        "ru": "Казахстан председательствовал в ОБСЕ в 2010 г., а саммит организации прошёл в Астане 1–2 декабря 2010 г.",
+        "en": "Kazakhstan chaired the OSCE in 2010, and the organization's summit was held in Astana on 1–2 December 2010.",
+        "kk": "Қазақстан ЕҚЫҰ-ға 2010 жылы төрағалық етті, ұйымның саммиті 2010 жылғы 1–2 желтоқсанда Астанада өтті."
+      },
       "source_references": [
         {
           "file": "Лекции/Каражан К.С. История Казахстана (рус) (1).pdf",
@@ -392,33 +641,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Непостоянным членом Совета Безопасности ООН Казахстан был в...",
+      "question": {
+        "ru": "Непостоянным членом Совета Безопасности ООН Казахстан был в...",
+        "en": "Kazakhstan was a non-permanent member of the UN Security Council in...",
+        "kk": "Қазақстан БҰҰ Қауіпсіздік Кеңесінің тұрақты емес мүшесі болған жылдар..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "2013–2014 гг."
+          "text": {
+            "ru": "2013–2014 гг.",
+            "en": "2013–2014",
+            "kk": "2013–2014 жж."
+          }
         },
         {
           "id": "B",
-          "text": "2015–2016 гг."
+          "text": {
+            "ru": "2015–2016 гг.",
+            "en": "2015–2016",
+            "kk": "2015–2016 жж."
+          }
         },
         {
           "id": "C",
-          "text": "2017–2018 гг."
+          "text": {
+            "ru": "2017–2018 гг.",
+            "en": "2017–2018",
+            "kk": "2017–2018 жж."
+          }
         },
         {
           "id": "D",
-          "text": "2019–2020 гг."
+          "text": {
+            "ru": "2019–2020 гг.",
+            "en": "2019–2020",
+            "kk": "2019–2020 жж."
+          }
         },
         {
           "id": "E",
-          "text": "2021–2022 гг."
+          "text": {
+            "ru": "2021–2022 гг.",
+            "en": "2021–2022",
+            "kk": "2021–2022 жж."
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Казахстан был непостоянным членом Совета Безопасности ООН с 1 января 2017 г. по 31 декабря 2018 г.",
+      "explanation": {
+        "ru": "Казахстан был непостоянным членом Совета Безопасности ООН с 1 января 2017 г. по 31 декабря 2018 г.",
+        "en": "Kazakhstan was a non-permanent member of the UN Security Council from 1 January 2017 to 31 December 2018.",
+        "kk": "Қазақстан БҰҰ Қауіпсіздік Кеңесінің тұрақты емес мүшесі 2017 жылғы 1 қаңтардан 2018 жылғы 31 желтоқсанға дейін болды."
+      },
       "source_references": [
         {
           "url": "https://www.inform.kz/en/kazakhstan-elected-non-permanent-member-of-un-security-council_a2919622",
@@ -435,33 +712,61 @@
       "topic_id": 16,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Какая страна первой признала независимость Казахстана в декабре 1991 г.?",
+      "question": {
+        "ru": "Какая страна первой признала независимость Казахстана в декабре 1991 г.?",
+        "en": "Which country was the first to recognize the independence of Kazakhstan in December 1991?",
+        "kk": "1991 жылғы желтоқсанда Қазақстанның тәуелсіздігін бірінші болып қай ел таныды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Россия"
+          "text": {
+            "ru": "Россия",
+            "en": "Russia",
+            "kk": "Ресей"
+          }
         },
         {
           "id": "B",
-          "text": "Китай"
+          "text": {
+            "ru": "Китай",
+            "en": "China",
+            "kk": "Қытай"
+          }
         },
         {
           "id": "C",
-          "text": "США"
+          "text": {
+            "ru": "США",
+            "en": "the USA",
+            "kk": "АҚШ"
+          }
         },
         {
           "id": "D",
-          "text": "Иран"
+          "text": {
+            "ru": "Иран",
+            "en": "Iran",
+            "kk": "Иран"
+          }
         },
         {
           "id": "E",
-          "text": "Турция"
+          "text": {
+            "ru": "Турция",
+            "en": "Turkey",
+            "kk": "Түркия"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "По лекции, первой независимость Казахстана признала Турция, на следующий день её признали Россия и Румыния.",
+      "explanation": {
+        "ru": "По лекции, первой независимость Казахстана признала Турция, на следующий день её признали Россия и Румыния.",
+        "en": "According to the lecture, Turkey was the first to recognize Kazakhstan's independence; the next day it was recognized by Russia and Romania.",
+        "kk": "Дәріс бойынша, Қазақстанның тәуелсіздігін бірінші болып Түркия таныды, келесі күні оны Ресей мен Румыния таныды."
+      },
       "source_references": [
         {
           "file": "Лекции/Каражан К.С. История Казахстана (рус) (1).pdf",
@@ -474,33 +779,61 @@
       "topic_id": 16,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "По Лиссабонскому протоколу 1992 г. Казахстан обязался присоединиться к ДНЯО в статусе...",
+      "question": {
+        "ru": "По Лиссабонскому протоколу 1992 г. Казахстан обязался присоединиться к ДНЯО в статусе...",
+        "en": "Under the 1992 Lisbon Protocol, Kazakhstan committed to join the NPT as...",
+        "kk": "1992 жылғы Лиссабон хаттамасы бойынша Қазақстан ЯҚТШ-ға мына мәртебемен қосылуға міндеттенді..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "ядерной державы"
+          "text": {
+            "ru": "ядерной державы",
+            "en": "a nuclear power",
+            "kk": "ядролық держава"
+          }
         },
         {
           "id": "B",
-          "text": "государства-наблюдателя"
+          "text": {
+            "ru": "государства-наблюдателя",
+            "en": "an observer state",
+            "kk": "бақылаушы мемлекет"
+          }
         },
         {
           "id": "C",
-          "text": "временного хранителя боезарядов"
+          "text": {
+            "ru": "временного хранителя боезарядов",
+            "en": "a temporary custodian of warheads",
+            "kk": "оқтұмсықтарды уақытша сақтаушы"
+          }
         },
         {
           "id": "D",
-          "text": "неядерного государства"
+          "text": {
+            "ru": "неядерного государства",
+            "en": "a non-nuclear state",
+            "kk": "ядролық емес мемлекет"
+          }
         },
         {
           "id": "E",
-          "text": "ядерного союзника России"
+          "text": {
+            "ru": "ядерного союзника России",
+            "en": "a nuclear ally of Russia",
+            "kk": "Ресейдің ядролық одақтасы"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Лиссабонский протокол обязал Казахстан, Беларусь и Украину присоединиться к ДНЯО как неядерные государства.",
+      "explanation": {
+        "ru": "Лиссабонский протокол обязал Казахстан, Беларусь и Украину присоединиться к ДНЯО как неядерные государства.",
+        "en": "The Lisbon Protocol obliged Kazakhstan, Belarus and Ukraine to join the NPT as non-nuclear states.",
+        "kk": "Лиссабон хаттамасы Қазақстан, Беларусь және Украинаны ЯҚТШ-ға ядролық емес мемлекеттер ретінде қосылуға міндеттеді."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -517,33 +850,61 @@
       "topic_id": 16,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Хранилище Банка низкообогащённого урана МАГАТЭ в Казахстане было открыто в...",
+      "question": {
+        "ru": "Хранилище Банка низкообогащённого урана МАГАТЭ в Казахстане было открыто в...",
+        "en": "The storage facility of the IAEA Low Enriched Uranium Bank in Kazakhstan was opened in...",
+        "kk": "Қазақстандағы МАГАТЭ-нің төмен байытылған уран банкінің сақтау орны ашылған жыл..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "2013 г."
+          "text": {
+            "ru": "2013 г.",
+            "en": "2013",
+            "kk": "2013 ж."
+          }
         },
         {
           "id": "B",
-          "text": "2015 г."
+          "text": {
+            "ru": "2015 г.",
+            "en": "2015",
+            "kk": "2015 ж."
+          }
         },
         {
           "id": "C",
-          "text": "2017 г."
+          "text": {
+            "ru": "2017 г.",
+            "en": "2017",
+            "kk": "2017 ж."
+          }
         },
         {
           "id": "D",
-          "text": "2019 г."
+          "text": {
+            "ru": "2019 г.",
+            "en": "2019",
+            "kk": "2019 ж."
+          }
         },
         {
           "id": "E",
-          "text": "2021 г."
+          "text": {
+            "ru": "2021 г.",
+            "en": "2021",
+            "kk": "2021 ж."
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Хранилище Банка НОУ МАГАТЭ на Ульбинском металлургическом заводе открыто 29 августа 2017 г.",
+      "explanation": {
+        "ru": "Хранилище Банка НОУ МАГАТЭ на Ульбинском металлургическом заводе открыто 29 августа 2017 г.",
+        "en": "The storage facility of the IAEA LEU Bank at the Ulba Metallurgical Plant was opened on 29 August 2017.",
+        "kk": "МАГАТЭ-нің ТБУ банкінің сақтау орны Үлбі металлургия зауытында 2017 жылғы 29 тамызда ашылды."
+      },
       "source_references": [
         {
           "url": "https://www.neimagazine.com/news/iaea-fuel-bank-established-in-kazakhstan-4659461/",
@@ -560,33 +921,61 @@
       "topic_id": 16,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Идею созыва СВМДА Н. Назарбаев выдвинул в 1992 г. с трибуны...",
+      "question": {
+        "ru": "Идею созыва СВМДА Н. Назарбаев выдвинул в 1992 г. с трибуны...",
+        "en": "N. Nazarbayev put forward the idea of convening the CICA in 1992 from the rostrum of...",
+        "kk": "АӨСШК шақыру идеясын Н. Назарбаев 1992 жылы мынаның мінбесінен ұсынды..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Генеральной Ассамблеи ООН"
+          "text": {
+            "ru": "Генеральной Ассамблеи ООН",
+            "en": "the UN General Assembly",
+            "kk": "БҰҰ Бас Ассамблеясы"
+          }
         },
         {
           "id": "B",
-          "text": "Совета Безопасности ООН"
+          "text": {
+            "ru": "Совета Безопасности ООН",
+            "en": "the UN Security Council",
+            "kk": "БҰҰ Қауіпсіздік Кеңесі"
+          }
         },
         {
           "id": "C",
-          "text": "Совета глав государств СНГ"
+          "text": {
+            "ru": "Совета глав государств СНГ",
+            "en": "the CIS Council of Heads of State",
+            "kk": "ТМД Мемлекет басшылары кеңесі"
+          }
         },
         {
           "id": "D",
-          "text": "Совета Европы"
+          "text": {
+            "ru": "Совета Европы",
+            "en": "the Council of Europe",
+            "kk": "Еуропа Кеңесі"
+          }
         },
         {
           "id": "E",
-          "text": "Лиги арабских государств"
+          "text": {
+            "ru": "Лиги арабских государств",
+            "en": "the League of Arab States",
+            "kk": "Араб мемлекеттері лигасы"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Идея СВМДА была впервые озвучена 5 октября 1992 г. на 47-й сессии Генеральной Ассамблеи ООН.",
+      "explanation": {
+        "ru": "Идея СВМДА была впервые озвучена 5 октября 1992 г. на 47-й сессии Генеральной Ассамблеи ООН.",
+        "en": "The idea of the CICA was first voiced on 5 October 1992 at the 47th session of the UN General Assembly.",
+        "kk": "АӨСШК идеясы алғаш рет 1992 жылғы 5 қазанда БҰҰ Бас Ассамблеясының 47-сессиясында айтылды."
+      },
       "source_references": [
         {
           "url": "https://www.gov.kz/memleket/entities/mfa/press/article/details/556?lang=ru",
@@ -603,33 +992,61 @@
       "topic_id": 16,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "В январе 2022 г. в связи с массовыми беспорядками Президент Токаев обратился за помощью к...",
+      "question": {
+        "ru": "В январе 2022 г. в связи с массовыми беспорядками Президент Токаев обратился за помощью к...",
+        "en": "In January 2022, in connection with mass unrest, President Tokayev appealed for help to...",
+        "kk": "2022 жылғы қаңтарда жаппай тәртіпсіздіктерге байланысты Президент Тоқаев мыналарға көмек сұрап жүгінді..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "ЕАЭС"
+          "text": {
+            "ru": "ЕАЭС",
+            "en": "the EAEU",
+            "kk": "ЕАЭО"
+          }
         },
         {
           "id": "B",
-          "text": "ОДКБ"
+          "text": {
+            "ru": "ОДКБ",
+            "en": "the CSTO",
+            "kk": "ҰҚШҰ"
+          }
         },
         {
           "id": "C",
-          "text": "НАТО"
+          "text": {
+            "ru": "НАТО",
+            "en": "NATO",
+            "kk": "НАТО"
+          }
         },
         {
           "id": "D",
-          "text": "ООН"
+          "text": {
+            "ru": "ООН",
+            "en": "the UN",
+            "kk": "БҰҰ"
+          }
         },
         {
           "id": "E",
-          "text": "ШОС"
+          "text": {
+            "ru": "ШОС",
+            "en": "the SCO",
+            "kk": "ШЫҰ"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "5 января 2022 г. Президент Токаев запросил помощь ОДКБ.",
+      "explanation": {
+        "ru": "5 января 2022 г. Президент Токаев запросил помощь ОДКБ.",
+        "en": "On 5 January 2022, President Tokayev requested help from the CSTO.",
+        "kk": "2022 жылғы 5 қаңтарда Президент Тоқаев ҰҚШҰ-дан көмек сұрады."
+      },
       "source_references": [
         {
           "url": "https://www.intellinews.com/kazakhstan-president-tokayev-calls-on-csto-to-send-peacekeepers-as-protests-spin-out-of-control-230972/",
@@ -646,33 +1063,61 @@
       "topic_id": 16,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Договор о Евразийском экономическом союзе, подписанный в Астане 29 мая 2014 г., вступил в силу...",
+      "question": {
+        "ru": "Договор о Евразийском экономическом союзе, подписанный в Астане 29 мая 2014 г., вступил в силу...",
+        "en": "The Treaty on the Eurasian Economic Union, signed in Astana on 29 May 2014, came into force on...",
+        "kk": "2014 жылғы 29 мамырда Астанада қол қойылған Еуразиялық экономикалық одақ туралы шарт күшіне енді..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "1 января 2010 г."
+          "text": {
+            "ru": "1 января 2010 г.",
+            "en": "1 January 2010",
+            "kk": "2010 жылғы 1 қаңтарда"
+          }
         },
         {
           "id": "B",
-          "text": "1 января 2012 г."
+          "text": {
+            "ru": "1 января 2012 г.",
+            "en": "1 January 2012",
+            "kk": "2012 жылғы 1 қаңтарда"
+          }
         },
         {
           "id": "C",
-          "text": "1 января 2015 г."
+          "text": {
+            "ru": "1 января 2015 г.",
+            "en": "1 January 2015",
+            "kk": "2015 жылғы 1 қаңтарда"
+          }
         },
         {
           "id": "D",
-          "text": "1 января 2016 г."
+          "text": {
+            "ru": "1 января 2016 г.",
+            "en": "1 January 2016",
+            "kk": "2016 жылғы 1 қаңтарда"
+          }
         },
         {
           "id": "E",
-          "text": "1 января 2018 г."
+          "text": {
+            "ru": "1 января 2018 г.",
+            "en": "1 January 2018",
+            "kk": "2018 жылғы 1 қаңтарда"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Договор о ЕАЭС вступил в силу 1 января 2015 г.",
+      "explanation": {
+        "ru": "Договор о ЕАЭС вступил в силу 1 января 2015 г.",
+        "en": "The EAEU Treaty came into force on 1 January 2015.",
+        "kk": "ЕАЭО туралы шарт 2015 жылғы 1 қаңтарда күшіне енді."
+      },
       "source_references": [
         {
           "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%203049/v3049.pdf",
@@ -685,27 +1130,51 @@
       "topic_id": 16,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "Государства — участники Договора о зоне, свободной от ядерного оружия, в Центральной Азии:",
+      "question": {
+        "ru": "Государства — участники Договора о зоне, свободной от ядерного оружия, в Центральной Азии:",
+        "en": "States parties to the Treaty on a Nuclear-Weapon-Free Zone in Central Asia:",
+        "kk": "Орталық Азиядағы ядролық қарудан азат аймақ туралы шарттың қатысушы мемлекеттері:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Афганистан"
+          "text": {
+            "ru": "Афганистан",
+            "en": "Afghanistan",
+            "kk": "Ауғанстан"
+          }
         },
         {
           "id": "B",
-          "text": "Казахстан"
+          "text": {
+            "ru": "Казахстан",
+            "en": "Kazakhstan",
+            "kk": "Қазақстан"
+          }
         },
         {
           "id": "C",
-          "text": "Монголия"
+          "text": {
+            "ru": "Монголия",
+            "en": "Mongolia",
+            "kk": "Моңғолия"
+          }
         },
         {
           "id": "D",
-          "text": "Туркменистан"
+          "text": {
+            "ru": "Туркменистан",
+            "en": "Turkmenistan",
+            "kk": "Түрікменстан"
+          }
         },
         {
           "id": "E",
-          "text": "Узбекистан"
+          "text": {
+            "ru": "Узбекистан",
+            "en": "Uzbekistan",
+            "kk": "Өзбекстан"
+          }
         }
       ],
       "correct_answers": [
@@ -713,7 +1182,11 @@
         "D",
         "E"
       ],
-      "explanation": "Участниками договора, подписанного в Семее в 2006 г., являются пять государств Центральной Азии, включая Казахстан, Туркменистан и Узбекистан.",
+      "explanation": {
+        "ru": "Участниками договора, подписанного в Семее в 2006 г., являются пять государств Центральной Азии, включая Казахстан, Туркменистан и Узбекистан.",
+        "en": "The parties to the treaty, signed in Semey in 2006, are five Central Asian states, including Kazakhstan, Turkmenistan and Uzbekistan.",
+        "kk": "2006 жылы Семейде қол қойылған шарттың қатысушылары — Қазақстан, Түрікменстан және Өзбекстанды қоса алғанда, Орталық Азияның бес мемлекеті."
+      },
       "source_references": [
         {
           "url": "https://nonproliferation.org/central-asia-becomes-a-nuclear-weapon-free-zone/",
@@ -730,27 +1203,51 @@
       "topic_id": 16,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "Государства-гаранты Астанинского процесса:",
+      "question": {
+        "ru": "Государства-гаранты Астанинского процесса:",
+        "en": "Guarantor states of the Astana process:",
+        "kk": "Астана үдерісінің кепілгер мемлекеттері:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Иран"
+          "text": {
+            "ru": "Иран",
+            "en": "Iran",
+            "kk": "Иран"
+          }
         },
         {
           "id": "B",
-          "text": "Китай"
+          "text": {
+            "ru": "Китай",
+            "en": "China",
+            "kk": "Қытай"
+          }
         },
         {
           "id": "C",
-          "text": "Россия"
+          "text": {
+            "ru": "Россия",
+            "en": "Russia",
+            "kk": "Ресей"
+          }
         },
         {
           "id": "D",
-          "text": "США"
+          "text": {
+            "ru": "США",
+            "en": "the USA",
+            "kk": "АҚШ"
+          }
         },
         {
           "id": "E",
-          "text": "Турция"
+          "text": {
+            "ru": "Турция",
+            "en": "Turkey",
+            "kk": "Түркия"
+          }
         }
       ],
       "correct_answers": [
@@ -758,7 +1255,11 @@
         "C",
         "E"
       ],
-      "explanation": "Гарантами Астанинского процесса выступили Россия, Иран и Турция.",
+      "explanation": {
+        "ru": "Гарантами Астанинского процесса выступили Россия, Иран и Турция.",
+        "en": "Russia, Iran and Turkey acted as the guarantors of the Astana process.",
+        "kk": "Астана үдерісінің кепілгерлері болып Ресей, Иран және Түркия шықты."
+      },
       "source_references": [
         {
           "url": "https://pax.peaceagreements.org/agreements/2092",
@@ -771,27 +1272,51 @@
       "topic_id": 16,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "Международные организации, в создании которых участвовал Казахстан:",
+      "question": {
+        "ru": "Международные организации, в создании которых участвовал Казахстан:",
+        "en": "International organizations in whose creation Kazakhstan participated:",
+        "kk": "Қазақстан құруға қатысқан халықаралық ұйымдар:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "ЕАЭС"
+          "text": {
+            "ru": "ЕАЭС",
+            "en": "the EAEU",
+            "kk": "ЕАЭО"
+          }
         },
         {
           "id": "B",
-          "text": "СНГ"
+          "text": {
+            "ru": "СНГ",
+            "en": "the CIS",
+            "kk": "ТМД"
+          }
         },
         {
           "id": "C",
-          "text": "НАТО"
+          "text": {
+            "ru": "НАТО",
+            "en": "NATO",
+            "kk": "НАТО"
+          }
         },
         {
           "id": "D",
-          "text": "ШОС"
+          "text": {
+            "ru": "ШОС",
+            "en": "the SCO",
+            "kk": "ШЫҰ"
+          }
         },
         {
           "id": "E",
-          "text": "Европейский союз"
+          "text": {
+            "ru": "Европейский союз",
+            "en": "the European Union",
+            "kk": "Еуропалық одақ"
+          }
         }
       ],
       "correct_answers": [
@@ -799,7 +1324,11 @@
         "B",
         "D"
       ],
-      "explanation": "Казахстан участвовал в создании СНГ, ШОС и Евразийского экономического союза.",
+      "explanation": {
+        "ru": "Казахстан участвовал в создании СНГ, ШОС и Евразийского экономического союза.",
+        "en": "Kazakhstan participated in the creation of the CIS, the SCO and the Eurasian Economic Union.",
+        "kk": "Қазақстан ТМД-ны, ШЫҰ-ды және Еуразиялық экономикалық одақты құруға қатысты."
+      },
       "source_references": [
         {
           "file": "Лекции/Каражан К.С. История Казахстана (рус) (1).pdf",
@@ -816,33 +1345,61 @@
       "topic_id": 16,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Закрытие Семипалатинского полигона, отказ от ядерного арсенала и Банк НОУ МАГАТЭ в Казахстане — звенья политики...",
+      "question": {
+        "ru": "Закрытие Семипалатинского полигона, отказ от ядерного арсенала и Банк НОУ МАГАТЭ в Казахстане — звенья политики...",
+        "en": "The closure of the Semipalatinsk test site, the renunciation of the nuclear arsenal and the IAEA LEU Bank in Kazakhstan are links of the policy of...",
+        "kk": "Семей полигонының жабылуы, ядролық арсеналдан бас тарту және Қазақстандағы МАГАТЭ-нің ТБУ банкі — мына саясаттың буындары..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "ядерного сдерживания соседей"
+          "text": {
+            "ru": "ядерного сдерживания соседей",
+            "en": "nuclear deterrence of neighbors",
+            "kk": "көршілерді ядролық тежеу"
+          }
         },
         {
           "id": "B",
-          "text": "военного нейтралитета"
+          "text": {
+            "ru": "военного нейтралитета",
+            "en": "military neutrality",
+            "kk": "әскери бейтараптық"
+          }
         },
         {
           "id": "C",
-          "text": "размещения ядерных баз союзников"
+          "text": {
+            "ru": "размещения ядерных баз союзников",
+            "en": "deployment of allied nuclear bases",
+            "kk": "одақтастардың ядролық базаларын орналастыру"
+          }
         },
         {
           "id": "D",
-          "text": "ядерной монополии государств СНГ"
+          "text": {
+            "ru": "ядерной монополии государств СНГ",
+            "en": "nuclear monopoly of the CIS states",
+            "kk": "ТМД мемлекеттерінің ядролық монополиясы"
+          }
         },
         {
           "id": "E",
-          "text": "нераспространения ядерного оружия"
+          "text": {
+            "ru": "нераспространения ядерного оружия",
+            "en": "nuclear non-proliferation",
+            "kk": "ядролық қаруды таратпау"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Закрытие полигона в 1991 г., отказ от ядерного статуса в 1992 г. и Банк НОУ МАГАТЭ отражают политику нераспространения ядерного оружия.",
+      "explanation": {
+        "ru": "Закрытие полигона в 1991 г., отказ от ядерного статуса в 1992 г. и Банк НОУ МАГАТЭ отражают политику нераспространения ядерного оружия.",
+        "en": "The closure of the test site in 1991, the renunciation of nuclear status in 1992 and the IAEA LEU Bank reflect the policy of nuclear non-proliferation.",
+        "kk": "Полигонның 1991 жылы жабылуы, 1992 жылы ядролық мәртебеден бас тарту және МАГАТЭ-нің ТБУ банкі ядролық қаруды таратпау саясатын көрсетеді."
+      },
       "source_references": [
         {
           "file": "Лекции/Каражан К.С. История Казахстана (рус) (1).pdf",
@@ -859,33 +1416,61 @@
       "topic_id": 16,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Гарантии безопасности Казахстану в связи с присоединением к ДНЯО были закреплены в 1994 г. в...",
+      "question": {
+        "ru": "Гарантии безопасности Казахстану в связи с присоединением к ДНЯО были закреплены в 1994 г. в...",
+        "en": "Security guarantees for Kazakhstan in connection with its accession to the NPT were enshrined in 1994 in the...",
+        "kk": "Қазақстанның ЯҚТШ-ға қосылуына байланысты қауіпсіздік кепілдіктері 1994 жылы мынада бекітілді..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Лиссабонском протоколе"
+          "text": {
+            "ru": "Лиссабонском протоколе",
+            "en": "Lisbon Protocol",
+            "kk": "Лиссабон хаттамасында"
+          }
         },
         {
           "id": "B",
-          "text": "Алма-Атинской декларации"
+          "text": {
+            "ru": "Алма-Атинской декларации",
+            "en": "Alma-Ata Declaration",
+            "kk": "Алматы декларациясында"
+          }
         },
         {
           "id": "C",
-          "text": "Договоре о СЯО в Центральной Азии"
+          "text": {
+            "ru": "Договоре о СЯО в Центральной Азии",
+            "en": "Treaty on a Nuclear-Weapon-Free Zone in Central Asia",
+            "kk": "Орталық Азиядағы ЯҚАА туралы шартта"
+          }
         },
         {
           "id": "D",
-          "text": "Договоре о дружбе с Россией"
+          "text": {
+            "ru": "Договоре о дружбе с Россией",
+            "en": "Treaty of Friendship with Russia",
+            "kk": "Ресеймен достық туралы шартта"
+          }
         },
         {
           "id": "E",
-          "text": "Будапештском меморандуме"
+          "text": {
+            "ru": "Будапештском меморандуме",
+            "en": "Budapest Memorandum",
+            "kk": "Будапешт меморандумында"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Меморандум о гарантиях безопасности Казахстану, Беларуси и Украине подписан 5 декабря 1994 г. на саммите в Будапеште.",
+      "explanation": {
+        "ru": "Меморандум о гарантиях безопасности Казахстану, Беларуси и Украине подписан 5 декабря 1994 г. на саммите в Будапеште.",
+        "en": "The memorandum on security guarantees for Kazakhstan, Belarus and Ukraine was signed on 5 December 1994 at the summit in Budapest.",
+        "kk": "Қазақстан, Беларусь және Украинаға қауіпсіздік кепілдіктері туралы меморандумға 1994 жылғы 5 желтоқсанда Будапештегі саммитте қол қойылды."
+      },
       "source_references": [
         {
           "url": "https://www.gov.kz/memleket/entities/mfa/press/article/details/579?lang=ru",
@@ -902,33 +1487,61 @@
       "topic_id": 16,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Одновременное сотрудничество с Россией, Китаем, США и Европейским союзом отражает принцип внешней политики Казахстана —...",
+      "question": {
+        "ru": "Одновременное сотрудничество с Россией, Китаем, США и Европейским союзом отражает принцип внешней политики Казахстана —...",
+        "en": "Simultaneous cooperation with Russia, China, the USA and the European Union reflects the principle of Kazakhstan's foreign policy, which is...",
+        "kk": "Ресей, Қытай, АҚШ және Еуропалық одақпен бір мезгілде ынтымақтастық Қазақстан сыртқы саясатының мына қағидатын көрсетеді..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "многовекторности"
+          "text": {
+            "ru": "многовекторности",
+            "en": "multi-vector",
+            "kk": "көпвекторлылық"
+          }
         },
         {
           "id": "B",
-          "text": "изоляционизма"
+          "text": {
+            "ru": "изоляционизма",
+            "en": "isolationism",
+            "kk": "оқшаулану саясаты"
+          }
         },
         {
           "id": "C",
-          "text": "военного нейтралитета"
+          "text": {
+            "ru": "военного нейтралитета",
+            "en": "military neutrality",
+            "kk": "әскери бейтараптық"
+          }
         },
         {
           "id": "D",
-          "text": "односторонней ориентации"
+          "text": {
+            "ru": "односторонней ориентации",
+            "en": "one-sided orientation",
+            "kk": "бір жақты бағдар"
+          }
         },
         {
           "id": "E",
-          "text": "блоковой конфронтации"
+          "text": {
+            "ru": "блоковой конфронтации",
+            "en": "bloc confrontation",
+            "kk": "блоктық текетірес"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Выработка внешнего курса на основе принципа многовекторности названа одной из главных задач после обретения независимости.",
+      "explanation": {
+        "ru": "Выработка внешнего курса на основе принципа многовекторности названа одной из главных задач после обретения независимости.",
+        "en": "Developing a foreign policy course based on the multi-vector principle was named one of the main tasks after gaining independence.",
+        "kk": "Сыртқы саяси бағытты көпвекторлылық қағидаты негізінде әзірлеу тәуелсіздік алғаннан кейінгі басты міндеттердің бірі деп аталды."
+      },
       "source_references": [
         {
           "file": "Лекции/Каражан К.С. История Казахстана (рус) (1).pdf",
@@ -947,6 +1560,12 @@
               "ru": [
                 "многовекторность",
                 "многовекторная политика"
+              ],
+              "en": [
+                "multi-vector"
+              ],
+              "kk": [
+                "көпвекторлылық"
               ]
             }
           }
@@ -958,27 +1577,51 @@
       "topic_id": 16,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "Укажите государства, которые вместе с Казахстаном подписали в 1996 г. в Шанхае соглашение о доверии в военной области.",
+      "question": {
+        "ru": "Укажите государства, которые вместе с Казахстаном подписали в 1996 г. в Шанхае соглашение о доверии в военной области.",
+        "en": "Indicate the states that, together with Kazakhstan, signed the agreement on confidence in the military field in Shanghai in 1996.",
+        "kk": "1996 жылы Шанхайда Қазақстанмен бірге әскери салада сенім туралы келісімге қол қойған мемлекеттерді көрсетіңіз."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Китай"
+          "text": {
+            "ru": "Китай",
+            "en": "China",
+            "kk": "Қытай"
+          }
         },
         {
           "id": "B",
-          "text": "Россия"
+          "text": {
+            "ru": "Россия",
+            "en": "Russia",
+            "kk": "Ресей"
+          }
         },
         {
           "id": "C",
-          "text": "Индия"
+          "text": {
+            "ru": "Индия",
+            "en": "India",
+            "kk": "Үндістан"
+          }
         },
         {
           "id": "D",
-          "text": "Таджикистан"
+          "text": {
+            "ru": "Таджикистан",
+            "en": "Tajikistan",
+            "kk": "Тәжікстан"
+          }
         },
         {
           "id": "E",
-          "text": "Узбекистан"
+          "text": {
+            "ru": "Узбекистан",
+            "en": "Uzbekistan",
+            "kk": "Өзбекстан"
+          }
         }
       ],
       "correct_answers": [
@@ -986,7 +1629,11 @@
         "B",
         "D"
       ],
-      "explanation": "Соглашение об укреплении доверия в военной области в районе границы подписали Россия, Китай, Казахстан, Кыргызстан и Таджикистан.",
+      "explanation": {
+        "ru": "Соглашение об укреплении доверия в военной области в районе границы подписали Россия, Китай, Казахстан, Кыргызстан и Таджикистан.",
+        "en": "The agreement on confidence-building in the military field in the border area was signed by Russia, China, Kazakhstan, Kyrgyzstan and Tajikistan.",
+        "kk": "Шекара ауданындағы әскери салада сенімді нығайту туралы келісімге Ресей, Қытай, Қазақстан, Қырғызстан және Тәжікстан қол қойды."
+      },
       "source_references": [
         {
           "file": "Лекции/Каражан К.С. История Казахстана (рус) (1).pdf",
@@ -1003,27 +1650,51 @@
       "topic_id": 16,
       "difficulty_level": 3,
       "type": "multiple_choice",
-      "question": "Какие государства, помимо России и США, подписали Лиссабонский протокол к Договору СНВ-1?",
+      "question": {
+        "ru": "Какие государства, помимо России и США, подписали Лиссабонский протокол к Договору СНВ-1?",
+        "en": "Which states, besides Russia and the USA, signed the Lisbon Protocol to the START-1 Treaty?",
+        "kk": "СНВ-1 шартына Лиссабон хаттамасына Ресей мен АҚШ-тан басқа қандай мемлекеттер қол қойды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Узбекистан"
+          "text": {
+            "ru": "Узбекистан",
+            "en": "Uzbekistan",
+            "kk": "Өзбекстан"
+          }
         },
         {
           "id": "B",
-          "text": "Беларусь"
+          "text": {
+            "ru": "Беларусь",
+            "en": "Belarus",
+            "kk": "Беларусь"
+          }
         },
         {
           "id": "C",
-          "text": "Казахстан"
+          "text": {
+            "ru": "Казахстан",
+            "en": "Kazakhstan",
+            "kk": "Қазақстан"
+          }
         },
         {
           "id": "D",
-          "text": "Грузия"
+          "text": {
+            "ru": "Грузия",
+            "en": "Georgia",
+            "kk": "Грузия"
+          }
         },
         {
           "id": "E",
-          "text": "Украина"
+          "text": {
+            "ru": "Украина",
+            "en": "Ukraine",
+            "kk": "Украина"
+          }
         }
       ],
       "correct_answers": [
@@ -1031,7 +1702,11 @@
         "C",
         "E"
       ],
-      "explanation": "Лиссабонский протокол от 23 мая 1992 г. подписали Россия, США, Беларусь, Казахстан и Украина.",
+      "explanation": {
+        "ru": "Лиссабонский протокол от 23 мая 1992 г. подписали Россия, США, Беларусь, Казахстан и Украина.",
+        "en": "The Lisbon Protocol of 23 May 1992 was signed by Russia, the USA, Belarus, Kazakhstan and Ukraine.",
+        "kk": "1992 жылғы 23 мамырдағы Лиссабон хаттамасына Ресей, АҚШ, Беларусь, Қазақстан және Украина қол қойды."
+      },
       "source_references": [
         {
           "url": "https://www.armscontrol.org/factsheets/lisbon-protocol-glance",
@@ -1048,33 +1723,61 @@
       "topic_id": 16,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Какое суждение о Договоре о зоне, свободной от ядерного оружия, в Центральной Азии верно?",
+      "question": {
+        "ru": "Какое суждение о Договоре о зоне, свободной от ядерного оружия, в Центральной Азии верно?",
+        "en": "Which statement about the Treaty on a Nuclear-Weapon-Free Zone in Central Asia is correct?",
+        "kk": "Орталық Азиядағы ядролық қарудан азат аймақ туралы шарт туралы қай пікір дұрыс?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Подписан в Ташкенте в 2006 г., вступил в силу в 2009 г."
+          "text": {
+            "ru": "Подписан в Ташкенте в 2006 г., вступил в силу в 2009 г.",
+            "en": "Signed in Tashkent in 2006, entered into force in 2009",
+            "kk": "2006 жылы Ташкентте қол қойылды, 2009 жылы күшіне енді"
+          }
         },
         {
           "id": "B",
-          "text": "Подписан в Семее в 2009 г., вступил в силу в 2006 г."
+          "text": {
+            "ru": "Подписан в Семее в 2009 г., вступил в силу в 2006 г.",
+            "en": "Signed in Semey in 2009, entered into force in 2006",
+            "kk": "2009 жылы Семейде қол қойылды, 2006 жылы күшіне енді"
+          }
         },
         {
           "id": "C",
-          "text": "Подписан в Астане в 2006 г., вступил в силу в 2017 г."
+          "text": {
+            "ru": "Подписан в Астане в 2006 г., вступил в силу в 2017 г.",
+            "en": "Signed in Astana in 2006, entered into force in 2017",
+            "kk": "2006 жылы Астанада қол қойылды, 2017 жылы күшіне енді"
+          }
         },
         {
           "id": "D",
-          "text": "Подписан в Семее в 2006 г., вступил в силу в 2009 г."
+          "text": {
+            "ru": "Подписан в Семее в 2006 г., вступил в силу в 2009 г.",
+            "en": "Signed in Semey in 2006, entered into force in 2009",
+            "kk": "2006 жылы Семейде қол қойылды, 2009 жылы күшіне енді"
+          }
         },
         {
           "id": "E",
-          "text": "Подписан в Семее в 2002 г., вступил в силу в 2006 г."
+          "text": {
+            "ru": "Подписан в Семее в 2002 г., вступил в силу в 2006 г.",
+            "en": "Signed in Semey in 2002, entered into force in 2006",
+            "kk": "2002 жылы Семейде қол қойылды, 2006 жылы күшіне енді"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Договор подписан в Семее 8 сентября 2006 г. и вступил в силу 21 марта 2009 г.",
+      "explanation": {
+        "ru": "Договор подписан в Семее 8 сентября 2006 г. и вступил в силу 21 марта 2009 г.",
+        "en": "The Treaty was signed in Semey on 8 September 2006 and entered into force on 21 March 2009.",
+        "kk": "Шартқа 2006 жылғы 8 қыркүйекте Семейде қол қойылды және ол 2009 жылғы 21 наурызда күшіне енді."
+      },
       "source_references": [
         {
           "url": "https://en.wikipedia.org/wiki/Central_Asian_Nuclear_Weapon_Free_Zone",
@@ -1091,33 +1794,61 @@
       "topic_id": 16,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "В какой последовательности происходили события внешней политики Казахстана?",
+      "question": {
+        "ru": "В какой последовательности происходили события внешней политики Казахстана?",
+        "en": "In what sequence did the events of Kazakhstan's foreign policy occur?",
+        "kk": "Қазақстанның сыртқы саясатындағы оқиғалар қандай ретпен болды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Будапештский меморандум, Лиссабонский протокол, Декларация ШОС, саммит ОБСЕ"
+          "text": {
+            "ru": "Будапештский меморандум, Лиссабонский протокол, Декларация ШОС, саммит ОБСЕ",
+            "en": "Budapest Memorandum, Lisbon Protocol, SCO Declaration, OSCE summit",
+            "kk": "Будапешт меморандумы, Лиссабон хаттамасы, ШЫҰ Декларациясы, ЕҚЫҰ саммиті"
+          }
         },
         {
           "id": "B",
-          "text": "Лиссабонский протокол, Будапештский меморандум, Декларация ШОС, саммит ОБСЕ"
+          "text": {
+            "ru": "Лиссабонский протокол, Будапештский меморандум, Декларация ШОС, саммит ОБСЕ",
+            "en": "Lisbon Protocol, Budapest Memorandum, SCO Declaration, OSCE summit",
+            "kk": "Лиссабон хаттамасы, Будапешт меморандумы, ШЫҰ Декларациясы, ЕҚЫҰ саммиті"
+          }
         },
         {
           "id": "C",
-          "text": "Лиссабонский протокол, Декларация ШОС, Будапештский меморандум, саммит ОБСЕ"
+          "text": {
+            "ru": "Лиссабонский протокол, Декларация ШОС, Будапештский меморандум, саммит ОБСЕ",
+            "en": "Lisbon Protocol, SCO Declaration, Budapest Memorandum, OSCE summit",
+            "kk": "Лиссабон хаттамасы, ШЫҰ Декларациясы, Будапешт меморандумы, ЕҚЫҰ саммиті"
+          }
         },
         {
           "id": "D",
-          "text": "Лиссабонский протокол, Будапештский меморандум, саммит ОБСЕ, Декларация ШОС"
+          "text": {
+            "ru": "Лиссабонский протокол, Будапештский меморандум, саммит ОБСЕ, Декларация ШОС",
+            "en": "Lisbon Protocol, Budapest Memorandum, OSCE summit, SCO Declaration",
+            "kk": "Лиссабон хаттамасы, Будапешт меморандумы, ЕҚЫҰ саммиті, ШЫҰ Декларациясы"
+          }
         },
         {
           "id": "E",
-          "text": "Декларация ШОС, Лиссабонский протокол, Будапештский меморандум, саммит ОБСЕ"
+          "text": {
+            "ru": "Декларация ШОС, Лиссабонский протокол, Будапештский меморандум, саммит ОБСЕ",
+            "en": "SCO Declaration, Lisbon Protocol, Budapest Memorandum, OSCE summit",
+            "kk": "ШЫҰ Декларациясы, Лиссабон хаттамасы, Будапешт меморандумы, ЕҚЫҰ саммиті"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Лиссабонский протокол подписан в 1992 г., Будапештский меморандум — в 1994 г., Декларация ШОС — в 2001 г., саммит ОБСЕ в Астане прошёл в 2010 г.",
+      "explanation": {
+        "ru": "Лиссабонский протокол подписан в 1992 г., Будапештский меморандум — в 1994 г., Декларация ШОС — в 2001 г., саммит ОБСЕ в Астане прошёл в 2010 г.",
+        "en": "The Lisbon Protocol was signed in 1992, the Budapest Memorandum in 1994, the SCO Declaration in 2001, and the OSCE summit in Astana was held in 2010.",
+        "kk": "Лиссабон хаттамасына 1992 жылы, Будапешт меморандумына 1994 жылы, ШЫҰ Декларациясына 2001 жылы қол қойылды, Астанадағы ЕҚЫҰ саммиті 2010 жылы өтті."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",

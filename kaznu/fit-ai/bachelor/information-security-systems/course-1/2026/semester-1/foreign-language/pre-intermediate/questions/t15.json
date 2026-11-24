@@ -33,7 +33,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Will is followed directly by a base verb.",
+      "explanation": {
+        "en": "Will is followed directly by a base verb.",
+        "ru": "После will сразу идёт базовая форма глагола.",
+        "kk": "Will-дан кейін етістіктің негізгі формасы тікелей тұрады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Won't is the standard contraction of will not.",
+      "explanation": {
+        "en": "Won't is the standard contraction of will not.",
+        "ru": "Won't — стандартное сокращение от will not.",
+        "kk": "Won't — will not-тың стандартты қысқаша түрі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Will can introduce an offer of help.",
+      "explanation": {
+        "en": "Will can introduce an offer of help.",
+        "ru": "Will может вводить предложение помощи.",
+        "kk": "Will көмек ұсынуды білдіре алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Use the base form after will.",
+      "explanation": {
+        "en": "Use the base form after will.",
+        "ru": "После will используйте базовую форму.",
+        "kk": "Will-дан кейін негізгі форманы қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Put will before the subject and use be.",
+      "explanation": {
+        "en": "Put will before the subject and use be.",
+        "ru": "Поставьте will перед подлежащим и используйте be.",
+        "kk": "Will-ді бастауыштың алдына қойып, be қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The short answer repeats will.",
+      "explanation": {
+        "en": "The short answer repeats will.",
+        "ru": "Краткий ответ повторяет will.",
+        "kk": "Қысқа жауап will-ді қайталайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The negative short answer uses won't.",
+      "explanation": {
+        "en": "The negative short answer uses won't.",
+        "ru": "В отрицательном кратком ответе используется won't.",
+        "kk": "Болымсыз қысқа жауапта won't қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "I promise explicitly marks the sentence as a promise.",
+      "explanation": {
+        "en": "I promise explicitly marks the sentence as a promise.",
+        "ru": "I promise прямо обозначает предложение как обещание.",
+        "kk": "I promise сөйлемнің уәде екенін тікелей көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Will commonly expresses a decision made at the moment of speaking.",
+      "explanation": {
+        "en": "Will commonly expresses a decision made at the moment of speaking.",
+        "ru": "Will часто выражает решение, принятое в момент речи.",
+        "kk": "Will көбіне сөйлеп тұрған сәтте қабылданған шешімді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "After the subject, use will + base verb.",
+      "explanation": {
+        "en": "After the subject, use will + base verb.",
+        "ru": "После подлежащего используйте will + базовая форма глагола.",
+        "kk": "Бастауыштан кейін will + етістіктің негізгі формасын қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "A belief about a future result is a prediction.",
+      "explanation": {
+        "en": "A belief about a future result is a prediction.",
+        "ru": "Убеждённость в будущем результате — это прогноз (prediction).",
+        "kk": "Болашақ нәтиже туралы сенім — болжам (prediction)."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Will you ... please can be a request.",
+      "explanation": {
+        "en": "Will you ... please can be a request.",
+        "ru": "Will you ... please может быть просьбой.",
+        "kk": "Will you ... please өтініш болуы мүмкін."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Won't is followed by the base form be.",
+      "explanation": {
+        "en": "Won't is followed by the base form be.",
+        "ru": "После won't идёт базовая форма be.",
+        "kk": "Won't-тан кейін негізгі форма be тұрады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The future existential form is there will be.",
+      "explanation": {
+        "en": "The future existential form is there will be.",
+        "ru": "Будущее время конструкции «имеется, существует» — there will be.",
+        "kk": "«Бар» мағынасындағы құрылымның болашақ түрі — there will be."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Lend means give temporarily; borrow means receive temporarily.",
+      "explanation": {
+        "en": "Lend means give temporarily; borrow means receive temporarily.",
+        "ru": "Lend означает дать на время; borrow означает взять на время.",
+        "kk": "Lend уақытша беруді білдіреді; borrow уақытша алуды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Win and lose are opposite results in a competition.",
+      "explanation": {
+        "en": "Win and lose are opposite results in a competition.",
+        "ru": "Win и lose — противоположные результаты в соревновании.",
+        "kk": "Win және lose — жарыстағы қарама-қарсы нәтижелер."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Turn off stops a device operating.",
+      "explanation": {
+        "en": "Turn off stops a device operating.",
+        "ru": "Turn off останавливает работу устройства.",
+        "kk": "Turn off құрылғының жұмысын тоқтатады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Forget means fail to remember.",
+      "explanation": {
+        "en": "Forget means fail to remember.",
+        "ru": "Forget означает «не вспомнить, забыть».",
+        "kk": "Forget есіне түсірмеу, ұмыту дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Give back means return something to its owner.",
+      "explanation": {
+        "en": "Give back means return something to its owner.",
+        "ru": "Give back означает вернуть что-то владельцу.",
+        "kk": "Give back бірдемені иесіне қайтаруды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Call back means return a telephone call.",
+      "explanation": {
+        "en": "Call back means return a telephone call.",
+        "ru": "Call back означает перезвонить.",
+        "kk": "Call back қайта қоңырау шалуды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Take back means return an item.",
+      "explanation": {
+        "en": "Take back means return an item.",
+        "ru": "Take back означает вернуть вещь.",
+        "kk": "Take back затты қайтаруды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Come back means return to the place.",
+      "explanation": {
+        "en": "Come back means return to the place.",
+        "ru": "Come back означает вернуться в то же место.",
+        "kk": "Come back сол жерге қайта оралуды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Pay back means return borrowed money to the lender.",
+      "explanation": {
+        "en": "Pay back means return borrowed money to the lender.",
+        "ru": "Pay back означает вернуть занятые деньги тому, кто их одолжил.",
+        "kk": "Pay back қарызға алынған ақшаны берген адамға қайтаруды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "I’ll carry one for you offers help decided at the moment of speaking.",
+      "explanation": {
+        "en": "I’ll carry one for you offers help decided at the moment of speaking.",
+        "ru": "I’ll carry one for you — предложение помощи, решение принято в момент речи.",
+        "kk": "I’ll carry one for you — сөйлеп тұрған сәтте қабылданған көмек ұсынысы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Won’t is the negative form of will. Here it expresses a prediction.",
+      "explanation": {
+        "en": "Won’t is the negative form of will. Here it expresses a prediction.",
+        "ru": "Won’t — отрицательная форма will. Здесь она выражает прогноз.",
+        "kk": "Won’t — will-дің болымсыз түрі. Мұнда ол болжамды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Raise means increase, the opposite of lower.",
+      "explanation": {
+        "en": "Raise means increase, the opposite of lower.",
+        "ru": "Raise означает повысить, это противоположность lower.",
+        "kk": "Raise көтеру, арттыру дегенді білдіреді, ол lower-дің антонимі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Take it back to the shop means return it to the place it came from.",
+      "explanation": {
+        "en": "Take it back to the shop means return it to the place it came from.",
+        "ru": "Take it back to the shop означает вернуть это туда, откуда оно взято.",
+        "kk": "Take it back to the shop оны алынған жеріне қайтару дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Call someone back means return their phone call.",
+      "explanation": {
+        "en": "Call someone back means return their phone call.",
+        "ru": "Call someone back означает перезвонить кому-то.",
+        "kk": "Call someone back біреуге қайта қоңырау шалуды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "There will be ice predicts a future condition. The second speaker gives their decision.",
+      "explanation": {
+        "en": "There will be ice predicts a future condition. The second speaker gives their decision.",
+        "ru": "There will be ice предсказывает будущее состояние. Второй говорящий сообщает своё решение.",
+        "kk": "There will be ice болашақ жағдайды болжайды. Екінші сөйлеуші өз шешімін айтады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

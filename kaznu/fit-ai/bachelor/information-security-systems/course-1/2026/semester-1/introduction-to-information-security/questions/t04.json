@@ -7,33 +7,61 @@
       "topic_id": 4,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Какой уровень защиты устанавливает обязательные нормы через законы и иные нормативные акты?",
+      "question": {
+        "ru": "Какой уровень защиты устанавливает обязательные нормы через законы и иные нормативные акты?",
+        "en": "Which level of protection establishes mandatory norms through laws and other regulatory acts?",
+        "kk": "Қорғаудың қай деңгейі заңдар және өзге нормативтік актілер арқылы міндетті нормаларды белгілейді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Законодательный"
+          "text": {
+            "ru": "Законодательный",
+            "en": "Legislative",
+            "kk": "Заңнамалық"
+          }
         },
         {
           "id": "B",
-          "text": "Только пользовательский"
+          "text": {
+            "ru": "Только пользовательский",
+            "en": "User only",
+            "kk": "Тек пайдаланушылық"
+          }
         },
         {
           "id": "C",
-          "text": "Только аппаратный"
+          "text": {
+            "ru": "Только аппаратный",
+            "en": "Hardware only",
+            "kk": "Тек аппараттық"
+          }
         },
         {
           "id": "D",
-          "text": "Только сетевой"
+          "text": {
+            "ru": "Только сетевой",
+            "en": "Network only",
+            "kk": "Тек желілік"
+          }
         },
         {
           "id": "E",
-          "text": "Только интерфейсный"
+          "text": {
+            "ru": "Только интерфейсный",
+            "en": "Interface only",
+            "kk": "Тек интерфейстік"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Нормативные акты относятся к законодательному уровню.",
+      "explanation": {
+        "ru": "Нормативные акты относятся к законодательному уровню.",
+        "en": "Regulatory acts belong to the legislative level.",
+        "kk": "Нормативтік актілер заңнамалық деңгейге жатады."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -51,33 +79,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "К какому уровню относится утверждение руководителем программы защиты организации?",
+      "question": {
+        "ru": "К какому уровню относится утверждение руководителем программы защиты организации?",
+        "en": "Which level does a manager's approval of an organization's protection program belong to?",
+        "kk": "Басшының ұйымның қорғау бағдарламасын бекітуі қай деңгейге жатады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только законодательному"
+          "text": {
+            "ru": "Только законодательному",
+            "en": "Legislative only",
+            "kk": "Тек заңнамалық"
+          }
         },
         {
           "id": "B",
-          "text": "Административному"
+          "text": {
+            "ru": "Административному",
+            "en": "Administrative",
+            "kk": "Әкімшілік"
+          }
         },
         {
           "id": "C",
-          "text": "Канальному"
+          "text": {
+            "ru": "Канальному",
+            "en": "Channel",
+            "kk": "Арналық"
+          }
         },
         {
           "id": "D",
-          "text": "Криптоаналитическому"
+          "text": {
+            "ru": "Криптоаналитическому",
+            "en": "Cryptanalytic",
+            "kk": "Криптоталдамалық"
+          }
         },
         {
           "id": "E",
-          "text": "Физическому кодированию"
+          "text": {
+            "ru": "Физическому кодированию",
+            "en": "Physical coding",
+            "kk": "Физикалық кодтау"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Программа организации утверждается в рамках управления.",
+      "explanation": {
+        "ru": "Программа организации утверждается в рамках управления.",
+        "en": "An organization's program is approved within management.",
+        "kk": "Ұйымның бағдарламасы басқару аясында бекітіледі."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -95,33 +151,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Какой пример относится к процедурным мерам?",
+      "question": {
+        "ru": "Какой пример относится к процедурным мерам?",
+        "en": "Which example is a procedural measure?",
+        "kk": "Қандай мысал рәсімдік шараларға жатады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Микросхема токена"
+          "text": {
+            "ru": "Микросхема токена",
+            "en": "A token's microchip",
+            "kk": "Токеннің микросхемасы"
+          }
         },
         {
           "id": "B",
-          "text": "Модель процессора"
+          "text": {
+            "ru": "Модель процессора",
+            "en": "A processor model",
+            "kk": "Процессор моделі"
+          }
         },
         {
           "id": "C",
-          "text": "Инструкция безопасного уничтожения носителей"
+          "text": {
+            "ru": "Инструкция безопасного уничтожения носителей",
+            "en": "An instruction for secure destruction of media",
+            "kk": "Тасымалдағыштарды қауіпсіз жою нұсқаулығы"
+          }
         },
         {
           "id": "D",
-          "text": "Алгоритм блочного шифрования"
+          "text": {
+            "ru": "Алгоритм блочного шифрования",
+            "en": "A block encryption algorithm",
+            "kk": "Блоктық шифрлау алгоритмі"
+          }
         },
         {
           "id": "E",
-          "text": "Закон государства"
+          "text": {
+            "ru": "Закон государства",
+            "en": "A state law",
+            "kk": "Мемлекет заңы"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Процедура задаёт порядок действий персонала.",
+      "explanation": {
+        "ru": "Процедура задаёт порядок действий персонала.",
+        "en": "A procedure sets the order of actions for personnel.",
+        "kk": "Рәсім персоналдың әрекет тәртібін белгілейді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -139,33 +223,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Какой пример относится к программно-техническому уровню?",
+      "question": {
+        "ru": "Какой пример относится к программно-техническому уровню?",
+        "en": "Which example belongs to the software and technical level?",
+        "kk": "Қандай мысал бағдарламалық-техникалық деңгейге жатады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Общий закон о защите сведений"
+          "text": {
+            "ru": "Общий закон о защите сведений",
+            "en": "A general law on information protection",
+            "kk": "Мәліметтерді қорғау туралы жалпы заң"
+          }
         },
         {
           "id": "B",
-          "text": "План учебного собрания"
+          "text": {
+            "ru": "План учебного собрания",
+            "en": "A plan of an educational meeting",
+            "kk": "Оқу жиналысының жоспары"
+          }
         },
         {
           "id": "C",
-          "text": "Инструкция приёма посетителей"
+          "text": {
+            "ru": "Инструкция приёма посетителей",
+            "en": "An instruction for receiving visitors",
+            "kk": "Келушілерді қабылдау нұсқаулығы"
+          }
         },
         {
           "id": "D",
-          "text": "Межсетевой экран с правилами фильтрации"
+          "text": {
+            "ru": "Межсетевой экран с правилами фильтрации",
+            "en": "A firewall with filtering rules",
+            "kk": "Сүзу ережелері бар желіаралық экран"
+          }
         },
         {
           "id": "E",
-          "text": "Приказ о назначении ответственного"
+          "text": {
+            "ru": "Приказ о назначении ответственного",
+            "en": "An order appointing a responsible person",
+            "kk": "Жауаптыны тағайындау туралы бұйрық"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Экран реализует защиту техническими средствами.",
+      "explanation": {
+        "ru": "Экран реализует защиту техническими средствами.",
+        "en": "A firewall implements protection by technical means.",
+        "kk": "Экран қорғауды техникалық құралдармен іске асырады."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -183,33 +295,61 @@
       "topic_id": 4,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Для чего применяются оценочные стандарты безопасности?",
+      "question": {
+        "ru": "Для чего применяются оценочные стандарты безопасности?",
+        "en": "What are security evaluation standards used for?",
+        "kk": "Қауіпсіздікті бағалау стандарттары не үшін қолданылады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только для расчёта числа лицензий"
+          "text": {
+            "ru": "Только для расчёта числа лицензий",
+            "en": "Only for calculating the number of licenses",
+            "kk": "Тек лицензиялар санын есептеу үшін"
+          }
         },
         {
           "id": "B",
-          "text": "Для оценки систем по заданным требованиям безопасности"
+          "text": {
+            "ru": "Для оценки систем по заданным требованиям безопасности",
+            "en": "For evaluating systems against given security requirements",
+            "kk": "Жүйелерді берілген қауіпсіздік талаптары бойынша бағалау үшін"
+          }
         },
         {
           "id": "C",
-          "text": "Только для выбора схемы резервного питания"
+          "text": {
+            "ru": "Только для выбора схемы резервного питания",
+            "en": "Only for choosing a backup power scheme",
+            "kk": "Тек резервтік қуат схемасын таңдау үшін"
+          }
         },
         {
           "id": "D",
-          "text": "Только для измерения пропускной способности"
+          "text": {
+            "ru": "Только для измерения пропускной способности",
+            "en": "Only for measuring bandwidth",
+            "kk": "Тек өткізу қабілетін өлшеу үшін"
+          }
         },
         {
           "id": "E",
-          "text": "Только для согласования условий доставки"
+          "text": {
+            "ru": "Только для согласования условий доставки",
+            "en": "Only for agreeing on delivery terms",
+            "kk": "Тек жеткізу шарттарын келісу үшін"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Оценочные стандарты задают основу оценки защищённости.",
+      "explanation": {
+        "ru": "Оценочные стандарты задают основу оценки защищённости.",
+        "en": "Evaluation standards provide a basis for assessing security.",
+        "kk": "Бағалау стандарттары қорғалғандықты бағалау негізін белгілейді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -227,33 +367,61 @@
       "topic_id": 4,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Что преимущественно описывает техническая спецификация средства защиты?",
+      "question": {
+        "ru": "Что преимущественно описывает техническая спецификация средства защиты?",
+        "en": "What does the technical specification of a security tool primarily describe?",
+        "kk": "Қорғау құралының техникалық сипаттамасы негізінен нені сипаттайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Биографию разработчика"
+          "text": {
+            "ru": "Биографию разработчика",
+            "en": "The developer's biography",
+            "kk": "Әзірлеушінің өмірбаянын"
+          }
         },
         {
           "id": "B",
-          "text": "Требования к его реализации и взаимодействию"
+          "text": {
+            "ru": "Требования к его реализации и взаимодействию",
+            "en": "Requirements for its implementation and interaction",
+            "kk": "Оны іске асыруға және өзара әрекеттесуге қойылатын талаптарды"
+          }
         },
         {
           "id": "C",
-          "text": "Рыночную цену недвижимости"
+          "text": {
+            "ru": "Рыночную цену недвижимости",
+            "en": "The market price of real estate",
+            "kk": "Жылжымайтын мүліктің нарықтық бағасын"
+          }
         },
         {
           "id": "D",
-          "text": "Рекламный слоган"
+          "text": {
+            "ru": "Рекламный слоган",
+            "en": "An advertising slogan",
+            "kk": "Жарнамалық ұранды"
+          }
         },
         {
           "id": "E",
-          "text": "График отпусков"
+          "text": {
+            "ru": "График отпусков",
+            "en": "A vacation schedule",
+            "kk": "Демалыс кестесін"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Спецификация уточняет технические аспекты реализации.",
+      "explanation": {
+        "ru": "Спецификация уточняет технические аспекты реализации.",
+        "en": "A specification details the technical aspects of implementation.",
+        "kk": "Сипаттама іске асырудың техникалық аспектілерін нақтылайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -271,33 +439,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Какой стандарт устанавливает требования к системе управления информационной безопасностью?",
+      "question": {
+        "ru": "Какой стандарт устанавливает требования к системе управления информационной безопасностью?",
+        "en": "Which standard establishes requirements for an information security management system?",
+        "kk": "Қандай стандарт ақпараттық қауіпсіздікті басқару жүйесіне қойылатын талаптарды белгілейді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "HTML"
+          "text": {
+            "ru": "HTML",
+            "en": "HTML",
+            "kk": "HTML"
+          }
         },
         {
           "id": "B",
-          "text": "ASCII"
+          "text": {
+            "ru": "ASCII",
+            "en": "ASCII",
+            "kk": "ASCII"
+          }
         },
         {
           "id": "C",
-          "text": "JPEG"
+          "text": {
+            "ru": "JPEG",
+            "en": "JPEG",
+            "kk": "JPEG"
+          }
         },
         {
           "id": "D",
-          "text": "MPEG-4"
+          "text": {
+            "ru": "MPEG-4",
+            "en": "MPEG-4",
+            "kk": "MPEG-4"
+          }
         },
         {
           "id": "E",
-          "text": "ISO/IEC 27001"
+          "text": {
+            "ru": "ISO/IEC 27001",
+            "en": "ISO/IEC 27001",
+            "kk": "ISO/IEC 27001"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "ISO/IEC 27001 посвящён требованиям к СУИБ.",
+      "explanation": {
+        "ru": "ISO/IEC 27001 посвящён требованиям к СУИБ.",
+        "en": "ISO/IEC 27001 is devoted to ISMS requirements.",
+        "kk": "ISO/IEC 27001 АҚБЖ-ге қойылатын талаптарға арналған."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -319,33 +515,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Какое назначение имеет ISO/IEC 27002?",
+      "question": {
+        "ru": "Какое назначение имеет ISO/IEC 27002?",
+        "en": "What is the purpose of ISO/IEC 27002?",
+        "kk": "ISO/IEC 27002 стандартының мақсаты қандай?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Рекомендации по мерам обеспечения информационной безопасности"
+          "text": {
+            "ru": "Рекомендации по мерам обеспечения информационной безопасности",
+            "en": "Recommendations on information security controls",
+            "kk": "Ақпараттық қауіпсіздікті қамтамасыз ету шаралары бойынша ұсынымдар"
+          }
         },
         {
           "id": "B",
-          "text": "Только требования к программам антивирусного поиска"
+          "text": {
+            "ru": "Только требования к программам антивирусного поиска",
+            "en": "Only requirements for antivirus scanning programs",
+            "kk": "Антивирустық іздеу бағдарламаларына қойылатын талаптар ғана"
+          }
         },
         {
           "id": "C",
-          "text": "Алгоритм асимметричного шифрования"
+          "text": {
+            "ru": "Алгоритм асимметричного шифрования",
+            "en": "An asymmetric encryption algorithm",
+            "kk": "Асимметриялық шифрлау алгоритмі"
+          }
         },
         {
           "id": "D",
-          "text": "Обязательный формат передачи сертификатов"
+          "text": {
+            "ru": "Обязательный формат передачи сертификатов",
+            "en": "A mandatory format for transmitting certificates",
+            "kk": "Сертификаттарды беруге арналған міндетті формат"
+          }
         },
         {
           "id": "E",
-          "text": "Только классификация сетевых атак"
+          "text": {
+            "ru": "Только классификация сетевых атак",
+            "en": "Only a classification of network attacks",
+            "kk": "Желілік шабуылдардың жіктемесі ғана"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "ISO/IEC 27002 служит руководством по мерам защиты.",
+      "explanation": {
+        "ru": "ISO/IEC 27002 служит руководством по мерам защиты.",
+        "en": "ISO/IEC 27002 serves as a guide to protection controls.",
+        "kk": "ISO/IEC 27002 қорғау шаралары бойынша нұсқаулық болып табылады."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -363,33 +587,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "С чем связан ISO/IEC 15408, известный как Common Criteria?",
+      "question": {
+        "ru": "С чем связан ISO/IEC 15408, известный как Common Criteria?",
+        "en": "What is ISO/IEC 15408, known as Common Criteria, related to?",
+        "kk": "Common Criteria деп аталатын ISO/IEC 15408 нені қамтиды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "С кодировкой звука"
+          "text": {
+            "ru": "С кодировкой звука",
+            "en": "Sound encoding",
+            "kk": "Дыбысты кодтауды"
+          }
         },
         {
           "id": "B",
-          "text": "С частотой Wi-Fi"
+          "text": {
+            "ru": "С частотой Wi-Fi",
+            "en": "Wi-Fi frequency",
+            "kk": "Wi-Fi жиілігін"
+          }
         },
         {
           "id": "C",
-          "text": "С разметкой веб-страниц"
+          "text": {
+            "ru": "С разметкой веб-страниц",
+            "en": "Web page markup",
+            "kk": "Веб-беттерді белгілеуді"
+          }
         },
         {
           "id": "D",
-          "text": "С критериями оценки безопасности информационных технологий"
+          "text": {
+            "ru": "С критериями оценки безопасности информационных технологий",
+            "en": "Criteria for evaluating the security of information technology",
+            "kk": "Ақпараттық технологиялардың қауіпсіздігін бағалау өлшемдерін"
+          }
         },
         {
           "id": "E",
-          "text": "С разрешением цифровых фотографий"
+          "text": {
+            "ru": "С разрешением цифровых фотографий",
+            "en": "Digital photo resolution",
+            "kk": "Цифрлық фотосуреттердің ажыратымдылығын"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Общие критерии используются при оценке безопасности ИТ.",
+      "explanation": {
+        "ru": "Общие критерии используются при оценке безопасности ИТ.",
+        "en": "Common Criteria are used in the evaluation of IT security.",
+        "kk": "Жалпы өлшемдер АТ қауіпсіздігін бағалауда қолданылады."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -407,33 +659,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Что описывают функциональные требования безопасности?",
+      "question": {
+        "ru": "Что описывают функциональные требования безопасности?",
+        "en": "What do security functional requirements describe?",
+        "kk": "Қауіпсіздіктің функционалдық талаптары нені сипаттайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только длину договора"
+          "text": {
+            "ru": "Только длину договора",
+            "en": "Only the length of a contract",
+            "kk": "Шарттың ұзындығын ғана"
+          }
         },
         {
           "id": "B",
-          "text": "Какие защитные функции должен выполнять объект"
+          "text": {
+            "ru": "Какие защитные функции должен выполнять объект",
+            "en": "Which protection functions the target must perform",
+            "kk": "Объект қандай қорғау функцияларын орындауы тиіс екенін"
+          }
         },
         {
           "id": "C",
-          "text": "Только число сотрудников"
+          "text": {
+            "ru": "Только число сотрудников",
+            "en": "Only the number of employees",
+            "kk": "Қызметкерлер санын ғана"
+          }
         },
         {
           "id": "D",
-          "text": "Только стоимость испытаний"
+          "text": {
+            "ru": "Только стоимость испытаний",
+            "en": "Only the cost of testing",
+            "kk": "Сынақтардың құнын ғана"
+          }
         },
         {
           "id": "E",
-          "text": "Как выглядит эмблема поставщика"
+          "text": {
+            "ru": "Как выглядит эмблема поставщика",
+            "en": "What the supplier's emblem looks like",
+            "kk": "Жеткізушінің эмблемасының қандай екенін"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Функциональные требования определяют требуемое поведение защиты.",
+      "explanation": {
+        "ru": "Функциональные требования определяют требуемое поведение защиты.",
+        "en": "Functional requirements define the required behavior of the protection.",
+        "kk": "Функционалдық талаптар қорғаныстың қажетті жұмыс тәртібін анықтайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -451,33 +731,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Что описывают требования доверия к безопасности?",
+      "question": {
+        "ru": "Что описывают требования доверия к безопасности?",
+        "en": "What do security assurance requirements describe?",
+        "kk": "Қауіпсіздікке сенімділік талаптары нені сипаттайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только вид разъёма питания"
+          "text": {
+            "ru": "Только вид разъёма питания",
+            "en": "Only the type of power connector",
+            "kk": "Қуат беру коннекторының түрін ғана"
+          }
         },
         {
           "id": "B",
-          "text": "Только пропускную способность"
+          "text": {
+            "ru": "Только пропускную способность",
+            "en": "Only the bandwidth",
+            "kk": "Өткізу қабілетін ғана"
+          }
         },
         {
           "id": "C",
-          "text": "Только пароль пользователя"
+          "text": {
+            "ru": "Только пароль пользователя",
+            "en": "Only the user's password",
+            "kk": "Пайдаланушының құпия сөзін ғана"
+          }
         },
         {
           "id": "D",
-          "text": "Основания уверенности в корректности реализации защиты"
+          "text": {
+            "ru": "Основания уверенности в корректности реализации защиты",
+            "en": "The grounds for confidence that the protection is implemented correctly",
+            "kk": "Қорғаныстың дұрыс іске асырылғанына сенімділіктің негіздерін"
+          }
         },
         {
           "id": "E",
-          "text": "Только состав публичной рекламы"
+          "text": {
+            "ru": "Только состав публичной рекламы",
+            "en": "Only the content of public advertising",
+            "kk": "Жария жарнаманың құрамын ғана"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Доверие связано с обоснованностью уверенности в защитных функциях.",
+      "explanation": {
+        "ru": "Доверие связано с обоснованностью уверенности в защитных функциях.",
+        "en": "Assurance relates to how well-founded the confidence in the protection functions is.",
+        "kk": "Сенімділік қорғау функцияларына деген сенімнің негізділігімен байланысты."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -495,33 +803,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Для чего нужен профиль защиты в Общих критериях?",
+      "question": {
+        "ru": "Для чего нужен профиль защиты в Общих критериях?",
+        "en": "What is a protection profile used for in Common Criteria?",
+        "kk": "Жалпы өлшемдерде қорғау профилі не үшін қажет?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Для публикации закрытых ключей"
+          "text": {
+            "ru": "Для публикации закрытых ключей",
+            "en": "For publishing private keys",
+            "kk": "Жабық кілттерді жариялау үшін"
+          }
         },
         {
           "id": "B",
-          "text": "Для хранения паролей администратора"
+          "text": {
+            "ru": "Для хранения паролей администратора",
+            "en": "For storing administrator passwords",
+            "kk": "Әкімшінің құпия сөздерін сақтау үшін"
+          }
         },
         {
           "id": "C",
-          "text": "Для описания независимых от реализации потребностей класса объектов"
+          "text": {
+            "ru": "Для описания независимых от реализации потребностей класса объектов",
+            "en": "For describing implementation-independent needs of a class of targets",
+            "kk": "Объектілер сыныбының іске асыруға тәуелсіз қажеттіліктерін сипаттау үшін"
+          }
         },
         {
           "id": "D",
-          "text": "Для замены всех испытаний"
+          "text": {
+            "ru": "Для замены всех испытаний",
+            "en": "For replacing all testing",
+            "kk": "Барлық сынақтарды ауыстыру үшін"
+          }
         },
         {
           "id": "E",
-          "text": "Для списка отпусков разработчиков"
+          "text": {
+            "ru": "Для списка отпусков разработчиков",
+            "en": "For a list of developers' vacations",
+            "kk": "Әзірлеушілердің демалыс тізімі үшін"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Профиль защиты задаёт потребности для типа объектов оценки.",
+      "explanation": {
+        "ru": "Профиль защиты задаёт потребности для типа объектов оценки.",
+        "en": "A protection profile sets out the needs for a type of targets of evaluation.",
+        "kk": "Қорғау профилі бағалау объектілерінің түріне қойылатын қажеттіліктерді белгілейді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -539,33 +875,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Что отличает задание по безопасности от профиля защиты?",
+      "question": {
+        "ru": "Что отличает задание по безопасности от профиля защиты?",
+        "en": "How does a security target differ from a protection profile?",
+        "kk": "Қауіпсіздік тапсырмасы қорғау профилінен несімен ерекшеленеді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Оно относится к конкретному объекту оценки"
+          "text": {
+            "ru": "Оно относится к конкретному объекту оценки",
+            "en": "It relates to a specific target of evaluation",
+            "kk": "Ол нақты бағалау объектісіне қатысты"
+          }
         },
         {
           "id": "B",
-          "text": "Оно всегда является законом страны"
+          "text": {
+            "ru": "Оно всегда является законом страны",
+            "en": "It is always a law of the country",
+            "kk": "Ол әрқашан елдің заңы болып табылады"
+          }
         },
         {
           "id": "C",
-          "text": "Оно исключает описание требований"
+          "text": {
+            "ru": "Оно исключает описание требований",
+            "en": "It excludes the description of requirements",
+            "kk": "Ол талаптардың сипатталуын болдырмайды"
+          }
         },
         {
           "id": "D",
-          "text": "Оно задаёт только цену продукта"
+          "text": {
+            "ru": "Оно задаёт только цену продукта",
+            "en": "It specifies only the price of the product",
+            "kk": "Ол өнімнің бағасын ғана белгілейді"
+          }
         },
         {
           "id": "E",
-          "text": "Оно предназначено только для антивирусных сигнатур"
+          "text": {
+            "ru": "Оно предназначено только для антивирусных сигнатур",
+            "en": "It is intended only for antivirus signatures",
+            "kk": "Ол тек антивирустық сигнатураларға арналған"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Задание по безопасности описывает конкретный оцениваемый объект.",
+      "explanation": {
+        "ru": "Задание по безопасности описывает конкретный оцениваемый объект.",
+        "en": "A security target describes a specific object being evaluated.",
+        "kk": "Қауіпсіздік тапсырмасы нақты бағаланатын объектіні сипаттайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -583,33 +947,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Сертификат продукта относится к определённой версии и конфигурации. Какой вывод обоснован?",
+      "question": {
+        "ru": "Сертификат продукта относится к определённой версии и конфигурации. Какой вывод обоснован?",
+        "en": "A product certificate applies to a particular version and configuration. Which conclusion is justified?",
+        "kk": "Өнім сертификаты белгілі бір нұсқа мен конфигурацияға қатысты. Қандай қорытынды негізді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Следует проверить соответствие используемой версии области оценки"
+          "text": {
+            "ru": "Следует проверить соответствие используемой версии области оценки",
+            "en": "The conformity of the version in use to the scope of evaluation should be checked",
+            "kk": "Пайдаланылатын нұсқаның бағалау аймағына сәйкестігін тексеру керек"
+          }
         },
         {
           "id": "B",
-          "text": "Сертификат автоматически покрывает любую будущую версию"
+          "text": {
+            "ru": "Сертификат автоматически покрывает любую будущую версию",
+            "en": "The certificate automatically covers any future version",
+            "kk": "Сертификат кез келген болашақ нұсқаны автоматты түрде қамтиды"
+          }
         },
         {
           "id": "C",
-          "text": "Сертификат отменяет необходимость настройки"
+          "text": {
+            "ru": "Сертификат отменяет необходимость настройки",
+            "en": "The certificate removes the need for configuration",
+            "kk": "Сертификат баптау қажеттілігін жояды"
+          }
         },
         {
           "id": "D",
-          "text": "Конфигурация не влияет на выводы оценки"
+          "text": {
+            "ru": "Конфигурация не влияет на выводы оценки",
+            "en": "Configuration does not affect the evaluation conclusions",
+            "kk": "Конфигурация бағалау қорытындыларына әсер етпейді"
+          }
         },
         {
           "id": "E",
-          "text": "Любой продукт поставщика сертифицирован тем же документом"
+          "text": {
+            "ru": "Любой продукт поставщика сертифицирован тем же документом",
+            "en": "Any product of the supplier is certified by the same document",
+            "kk": "Жеткізушінің кез келген өнімі сол құжатпен сертификатталған"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Результаты оценки применимы в заявленных границах.",
+      "explanation": {
+        "ru": "Результаты оценки применимы в заявленных границах.",
+        "en": "Evaluation results apply within the declared boundaries.",
+        "kk": "Бағалау нәтижелері мәлімделген шекте қолданылады."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -627,33 +1019,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Какой исторический документ называют «Оранжевой книгой»?",
+      "question": {
+        "ru": "Какой исторический документ называют «Оранжевой книгой»?",
+        "en": "Which historical document is called the \"Orange Book\"?",
+        "kk": "Қандай тарихи құжатты «Қызғылт сары кітап» деп атайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Руководство по CSS"
+          "text": {
+            "ru": "Руководство по CSS",
+            "en": "A CSS guide",
+            "kk": "CSS бойынша нұсқаулық"
+          }
         },
         {
           "id": "B",
-          "text": "Стандарт сжатия PNG"
+          "text": {
+            "ru": "Стандарт сжатия PNG",
+            "en": "The PNG compression standard",
+            "kk": "PNG қысу стандарты"
+          }
         },
         {
           "id": "C",
-          "text": "Каталог сетевых разъёмов"
+          "text": {
+            "ru": "Каталог сетевых разъёмов",
+            "en": "A catalog of network connectors",
+            "kk": "Желілік коннекторлар каталогы"
+          }
         },
         {
           "id": "D",
-          "text": "Описание USB-накопителей"
+          "text": {
+            "ru": "Описание USB-накопителей",
+            "en": "A description of USB drives",
+            "kk": "USB-жинақтауыштардың сипаттамасы"
+          }
         },
         {
           "id": "E",
-          "text": "Критерии оценки доверенных компьютерных систем"
+          "text": {
+            "ru": "Критерии оценки доверенных компьютерных систем",
+            "en": "Criteria for evaluating trusted computer systems",
+            "kk": "Сенімді компьютерлік жүйелерді бағалау өлшемдері"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Это историческое название TCSEC.",
+      "explanation": {
+        "ru": "Это историческое название TCSEC.",
+        "en": "This is the historical name of TCSEC.",
+        "kk": "Бұл TCSEC-тің тарихи атауы."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -671,33 +1091,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Какая группа исторических классов TCSEC связана с дискреционным управлением доступом?",
+      "question": {
+        "ru": "Какая группа исторических классов TCSEC связана с дискреционным управлением доступом?",
+        "en": "Which group of historical TCSEC classes is associated with discretionary access control?",
+        "kk": "TCSEC-тің тарихи сыныптарының қай тобы дискрециялық қатынауды басқарумен байланысты?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "D"
+          "text": {
+            "ru": "D",
+            "en": "D",
+            "kk": "D"
+          }
         },
         {
           "id": "B",
-          "text": "Z"
+          "text": {
+            "ru": "Z",
+            "en": "Z",
+            "kk": "Z"
+          }
         },
         {
           "id": "C",
-          "text": "B"
+          "text": {
+            "ru": "B",
+            "en": "B",
+            "kk": "B"
+          }
         },
         {
           "id": "D",
-          "text": "C"
+          "text": {
+            "ru": "C",
+            "en": "C",
+            "kk": "C"
+          }
         },
         {
           "id": "E",
-          "text": "A"
+          "text": {
+            "ru": "A",
+            "en": "A",
+            "kk": "A"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "В лекции группа C представлена классами C1 и C2.",
+      "explanation": {
+        "ru": "В лекции группа C представлена классами C1 и C2.",
+        "en": "In the lecture, group C is represented by classes C1 and C2.",
+        "kk": "Дәрісте C тобы C1 және C2 сыныптарымен берілген."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -715,33 +1163,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Какая группа исторических классов TCSEC связана с мандатным управлением доступом?",
+      "question": {
+        "ru": "Какая группа исторических классов TCSEC связана с мандатным управлением доступом?",
+        "en": "Which group of historical TCSEC classes is associated with mandatory access control?",
+        "kk": "TCSEC-тің тарихи сыныптарының қай тобы мандаттық қатынауды басқарумен байланысты?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "D"
+          "text": {
+            "ru": "D",
+            "en": "D",
+            "kk": "D"
+          }
         },
         {
           "id": "B",
-          "text": "X"
+          "text": {
+            "ru": "X",
+            "en": "X",
+            "kk": "X"
+          }
         },
         {
           "id": "C",
-          "text": "C"
+          "text": {
+            "ru": "C",
+            "en": "C",
+            "kk": "C"
+          }
         },
         {
           "id": "D",
-          "text": "B"
+          "text": {
+            "ru": "B",
+            "en": "B",
+            "kk": "B"
+          }
         },
         {
           "id": "E",
-          "text": "Z"
+          "text": {
+            "ru": "Z",
+            "en": "Z",
+            "kk": "Z"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "В лекции группа B включает B1, B2 и B3.",
+      "explanation": {
+        "ru": "В лекции группа B включает B1, B2 и B3.",
+        "en": "In the lecture, group B includes B1, B2 and B3.",
+        "kk": "Дәрісте B тобына B1, B2 және B3 кіреді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -759,33 +1235,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Как обозначен исторический класс верифицируемой безопасности в TCSEC?",
+      "question": {
+        "ru": "Как обозначен исторический класс верифицируемой безопасности в TCSEC?",
+        "en": "How is the historical class of verified security designated in TCSEC?",
+        "kk": "TCSEC-те верификацияланатын қауіпсіздіктің тарихи сыныбы қалай белгіленген?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "E5"
+          "text": {
+            "ru": "E5",
+            "en": "E5",
+            "kk": "E5"
+          }
         },
         {
           "id": "B",
-          "text": "B0"
+          "text": {
+            "ru": "B0",
+            "en": "B0",
+            "kk": "B0"
+          }
         },
         {
           "id": "C",
-          "text": "A1"
+          "text": {
+            "ru": "A1",
+            "en": "A1",
+            "kk": "A1"
+          }
         },
         {
           "id": "D",
-          "text": "C7"
+          "text": {
+            "ru": "C7",
+            "en": "C7",
+            "kk": "C7"
+          }
         },
         {
           "id": "E",
-          "text": "D9"
+          "text": {
+            "ru": "D9",
+            "en": "D9",
+            "kk": "D9"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "В классификации лекции верифицируемой безопасности соответствует A1.",
+      "explanation": {
+        "ru": "В классификации лекции верифицируемой безопасности соответствует A1.",
+        "en": "In the lecture's classification, verified security corresponds to A1.",
+        "kk": "Дәрістегі жіктемеде верификацияланатын қауіпсіздік A1-ге сәйкес келеді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -803,33 +1307,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Почему стандарт сам по себе не заменяет внедрение мер защиты?",
+      "question": {
+        "ru": "Почему стандарт сам по себе не заменяет внедрение мер защиты?",
+        "en": "Why does a standard by itself not replace the implementation of protection measures?",
+        "kk": "Стандарт неге өздігінен қорғау шараларын енгізуді алмастырмайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Документ блокирует сеть без настройки"
+          "text": {
+            "ru": "Документ блокирует сеть без настройки",
+            "en": "The document blocks the network without configuration",
+            "kk": "Құжат баптамай-ақ желіні бұғаттайды"
+          }
         },
         {
           "id": "B",
-          "text": "Стандарт физически заменяет сервер"
+          "text": {
+            "ru": "Стандарт физически заменяет сервер",
+            "en": "A standard physically replaces a server",
+            "kk": "Стандарт серверді физикалық түрде алмастырады"
+          }
         },
         {
           "id": "C",
-          "text": "Он задаёт требования или рекомендации, которые нужно реализовать"
+          "text": {
+            "ru": "Он задаёт требования или рекомендации, которые нужно реализовать",
+            "en": "It sets requirements or recommendations that need to be implemented",
+            "kk": "Ол іске асыру қажет талаптар немесе ұсынымдар белгілейді"
+          }
         },
         {
           "id": "D",
-          "text": "Любой стандарт автоматически шифрует файлы"
+          "text": {
+            "ru": "Любой стандарт автоматически шифрует файлы",
+            "en": "Any standard automatically encrypts files",
+            "kk": "Кез келген стандарт файлдарды автоматты түрде шифрлайды"
+          }
         },
         {
           "id": "E",
-          "text": "Документ сам исправляет ошибки кода"
+          "text": {
+            "ru": "Документ сам исправляет ошибки кода",
+            "en": "The document fixes code errors by itself",
+            "kk": "Құжат код қателерін өзі түзетеді"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Защита требует практического выполнения требований.",
+      "explanation": {
+        "ru": "Защита требует практического выполнения требований.",
+        "en": "Protection requires the requirements to be carried out in practice.",
+        "kk": "Қорғау талаптарды іс жүзінде орындауды қажет етеді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -847,33 +1379,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какой документ обычно определяет правила внутри конкретной организации?",
+      "question": {
+        "ru": "Какой документ обычно определяет правила внутри конкретной организации?",
+        "en": "Which document usually defines the rules within a specific organization?",
+        "kk": "Нақты ұйымның ішіндегі ережелерді әдетте қандай құжат анықтайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Публичный прогноз погоды"
+          "text": {
+            "ru": "Публичный прогноз погоды",
+            "en": "A public weather forecast",
+            "kk": "Жария ауа райы болжамы"
+          }
         },
         {
           "id": "B",
-          "text": "Справочник телефонных кодов"
+          "text": {
+            "ru": "Справочник телефонных кодов",
+            "en": "A directory of telephone codes",
+            "kk": "Телефон кодтарының анықтамалығы"
+          }
         },
         {
           "id": "C",
-          "text": "Общий каталог товаров"
+          "text": {
+            "ru": "Общий каталог товаров",
+            "en": "A general product catalog",
+            "kk": "Тауарлардың жалпы каталогы"
+          }
         },
         {
           "id": "D",
-          "text": "Локальная политика информационной безопасности"
+          "text": {
+            "ru": "Локальная политика информационной безопасности",
+            "en": "A local information security policy",
+            "kk": "Жергілікті ақпараттық қауіпсіздік саясаты"
+          }
         },
         {
           "id": "E",
-          "text": "Случайное рекламное письмо"
+          "text": {
+            "ru": "Случайное рекламное письмо",
+            "en": "A random advertising letter",
+            "kk": "Кездейсоқ жарнамалық хат"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Локальная политика устанавливает организационные правила.",
+      "explanation": {
+        "ru": "Локальная политика устанавливает организационные правила.",
+        "en": "A local policy establishes organizational rules.",
+        "kk": "Жергілікті саясат ұйымдастырушылық ережелерді белгілейді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -891,33 +1451,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какая мера наиболее уместна перед передачей чувствительных данных подрядчику?",
+      "question": {
+        "ru": "Какая мера наиболее уместна перед передачей чувствительных данных подрядчику?",
+        "en": "Which measure is most appropriate before transferring sensitive data to a contractor?",
+        "kk": "Құпия деректерді мердігерге бермес бұрын қандай шара ең орынды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Отключить регистрацию передачи"
+          "text": {
+            "ru": "Отключить регистрацию передачи",
+            "en": "Disable logging of the transfer",
+            "kk": "Берудің тіркелуін өшіру"
+          }
         },
         {
           "id": "B",
-          "text": "Выдать всем бессрочный полный доступ"
+          "text": {
+            "ru": "Выдать всем бессрочный полный доступ",
+            "en": "Give everyone indefinite full access",
+            "kk": "Барлығына мерзімсіз толық қатынау беру"
+          }
         },
         {
           "id": "C",
-          "text": "Удалить описание данных"
+          "text": {
+            "ru": "Удалить описание данных",
+            "en": "Delete the description of the data",
+            "kk": "Деректердің сипаттамасын жою"
+          }
         },
         {
           "id": "D",
-          "text": "Определить применимые требования и закрепить обязанности сторон"
+          "text": {
+            "ru": "Определить применимые требования и закрепить обязанности сторон",
+            "en": "Determine the applicable requirements and fix the obligations of the parties",
+            "kk": "Қолданылатын талаптарды анықтап, тараптардың міндеттерін бекіту"
+          }
         },
         {
           "id": "E",
-          "text": "Считать любое устное обещание достаточным"
+          "text": {
+            "ru": "Считать любое устное обещание достаточным",
+            "en": "Consider any verbal promise sufficient",
+            "kk": "Кез келген ауызша уәдені жеткілікті деп санау"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Передача должна учитывать требования и ответственность сторон.",
+      "explanation": {
+        "ru": "Передача должна учитывать требования и ответственность сторон.",
+        "en": "The transfer must take into account the requirements and the responsibility of the parties.",
+        "kk": "Беру кезінде талаптар мен тараптардың жауапкершілігі ескерілуі тиіс."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -935,33 +1523,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Что важно проверить при выборе нормативной базы для проекта?",
+      "question": {
+        "ru": "Что важно проверить при выборе нормативной базы для проекта?",
+        "en": "What is important to check when choosing a regulatory framework for a project?",
+        "kk": "Жоба үшін нормативтік базаны таңдағанда нені тексеру маңызды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только наличие сертификата у любого продукта"
+          "text": {
+            "ru": "Только наличие сертификата у любого продукта",
+            "en": "Only that any product has a certificate",
+            "kk": "Кез келген өнімде сертификаттың болуын ғана"
+          }
         },
         {
           "id": "B",
-          "text": "Только язык первой публикации"
+          "text": {
+            "ru": "Только язык первой публикации",
+            "en": "Only the language of first publication",
+            "kk": "Алғаш жарияланған тілді ғана"
+          }
         },
         {
           "id": "C",
-          "text": "Юрисдикцию, тип данных и сферу применения требований"
+          "text": {
+            "ru": "Юрисдикцию, тип данных и сферу применения требований",
+            "en": "The jurisdiction, the type of data and the scope of application of the requirements",
+            "kk": "Талаптардың юрисдикциясын, деректер түрін және қолданылу аясын"
+          }
         },
         {
           "id": "D",
-          "text": "Только рыночную известность документа"
+          "text": {
+            "ru": "Только рыночную известность документа",
+            "en": "Only the market fame of the document",
+            "kk": "Құжаттың нарықтағы белгілілігін ғана"
+          }
         },
         {
           "id": "E",
-          "text": "Только число установленных средств защиты"
+          "text": {
+            "ru": "Только число установленных средств защиты",
+            "en": "Only the number of installed protection tools",
+            "kk": "Орнатылған қорғау құралдарының санын ғана"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Применимость требований зависит от контекста проекта.",
+      "explanation": {
+        "ru": "Применимость требований зависит от контекста проекта.",
+        "en": "The applicability of requirements depends on the project context.",
+        "kk": "Талаптардың қолданылуы жобаның контекстіне байланысты."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -979,33 +1595,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Каков смысл сопоставления требований стандарта с реализованными мерами?",
+      "question": {
+        "ru": "Каков смысл сопоставления требований стандарта с реализованными мерами?",
+        "en": "What is the point of mapping standard requirements to implemented measures?",
+        "kk": "Стандарт талаптарын іске асырылған шаралармен салыстырудың мәні неде?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Подменить аудит рекламой"
+          "text": {
+            "ru": "Подменить аудит рекламой",
+            "en": "To replace an audit with advertising",
+            "kk": "Аудитті жарнамамен алмастыру"
+          }
         },
         {
           "id": "B",
-          "text": "Выявить покрытые требования и пробелы защиты"
+          "text": {
+            "ru": "Выявить покрытые требования и пробелы защиты",
+            "en": "To identify covered requirements and protection gaps",
+            "kk": "Қамтылған талаптар мен қорғаныстағы олқылықтарды анықтау"
+          }
         },
         {
           "id": "C",
-          "text": "Заменить все требования названиями продуктов"
+          "text": {
+            "ru": "Заменить все требования названиями продуктов",
+            "en": "To replace all requirements with product names",
+            "kk": "Барлық талаптарды өнім атауларымен ауыстыру"
+          }
         },
         {
           "id": "D",
-          "text": "Скрыть ответственных за процессы"
+          "text": {
+            "ru": "Скрыть ответственных за процессы",
+            "en": "To hide those responsible for processes",
+            "kk": "Процестерге жауаптыларды жасыру"
+          }
         },
         {
           "id": "E",
-          "text": "Признать все риски нулевыми"
+          "text": {
+            "ru": "Признать все риски нулевыми",
+            "en": "To declare all risks zero",
+            "kk": "Барлық тәуекелдерді нөлге тең деп тану"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Сопоставление показывает фактическую полноту выполнения требований.",
+      "explanation": {
+        "ru": "Сопоставление показывает фактическую полноту выполнения требований.",
+        "en": "Mapping shows how completely the requirements are actually met.",
+        "kk": "Салыстыру талаптардың іс жүзінде қаншалықты толық орындалғанын көрсетеді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1023,33 +1667,61 @@
       "topic_id": 4,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Почему сертификация СУИБ не означает отсутствие любых будущих инцидентов?",
+      "question": {
+        "ru": "Почему сертификация СУИБ не означает отсутствие любых будущих инцидентов?",
+        "en": "Why does ISMS certification not mean the absence of any future incidents?",
+        "kk": "АҚБЖ сертификаттау неге болашақта ешқандай инциденттің болмайтынын білдірмейді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Она гарантирует бессрочное отсутствие ошибок"
+          "text": {
+            "ru": "Она гарантирует бессрочное отсутствие ошибок",
+            "en": "It guarantees the permanent absence of errors",
+            "kk": "Ол қателердің мәңгі болмауына кепілдік береді"
+          }
         },
         {
           "id": "B",
-          "text": "Она оценивает соответствие системы управления, а риск сохраняется"
+          "text": {
+            "ru": "Она оценивает соответствие системы управления, а риск сохраняется",
+            "en": "It evaluates the conformity of the management system, while risk remains",
+            "kk": "Ол басқару жүйесінің сәйкестігін бағалайды, ал тәуекел сақталады"
+          }
         },
         {
           "id": "C",
-          "text": "Она отменяет ответственность руководства"
+          "text": {
+            "ru": "Она отменяет ответственность руководства",
+            "en": "It cancels the responsibility of management",
+            "kk": "Ол басшылықтың жауапкершілігін жояды"
+          }
         },
         {
           "id": "D",
-          "text": "Она относится только к внешнему виду серверной"
+          "text": {
+            "ru": "Она относится только к внешнему виду серверной",
+            "en": "It relates only to the appearance of the server room",
+            "kk": "Ол тек серверлік бөлменің сыртқы түріне қатысты"
+          }
         },
         {
           "id": "E",
-          "text": "Она запрещает проверку новых угроз"
+          "text": {
+            "ru": "Она запрещает проверку новых угроз",
+            "en": "It prohibits checking for new threats",
+            "kk": "Ол жаңа қауіптерді тексеруге тыйым салады"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Соответствие требованиям управления не равно абсолютной безопасности.",
+      "explanation": {
+        "ru": "Соответствие требованиям управления не равно абсолютной безопасности.",
+        "en": "Conformity to management requirements is not equal to absolute security.",
+        "kk": "Басқару талаптарына сәйкестік абсолютті қауіпсіздікпен тең емес."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1067,33 +1739,61 @@
       "topic_id": 4,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Поставщик заявил, что продукт разграничивает права пользователей. Какие сведения относятся к обоснованию доверия к этой функции?",
+      "question": {
+        "ru": "Поставщик заявил, что продукт разграничивает права пользователей. Какие сведения относятся к обоснованию доверия к этой функции?",
+        "en": "A supplier has stated that the product differentiates user rights. Which information relates to the justification of assurance in this function?",
+        "kk": "Жеткізуші өнім пайдаланушылардың құқықтарын ажыратады деп мәлімдеді. Осы функцияға сенімділікті негіздеуге қандай мәліметтер жатады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Список ролей, которые заказчик планирует создать"
+          "text": {
+            "ru": "Список ролей, которые заказчик планирует создать",
+            "en": "A list of roles the customer plans to create",
+            "kk": "Тапсырыс беруші құрғысы келетін рөлдер тізімі"
+          }
         },
         {
           "id": "B",
-          "text": "Название стандарта в презентации к продукту"
+          "text": {
+            "ru": "Название стандарта в презентации к продукту",
+            "en": "The name of the standard in the product presentation",
+            "kk": "Өнім таныстырылымындағы стандарттың атауы"
+          }
         },
         {
           "id": "C",
-          "text": "Перечень предполагаемых характеристик без проверки их реализации"
+          "text": {
+            "ru": "Перечень предполагаемых характеристик без проверки их реализации",
+            "en": "A list of assumed characteristics without verification of their implementation",
+            "kk": "Іске асырылуы тексерілмеген болжамды сипаттамалар тізбесі"
+          }
         },
         {
           "id": "D",
-          "text": "Методика и результаты испытаний контроля доступа"
+          "text": {
+            "ru": "Методика и результаты испытаний контроля доступа",
+            "en": "The methodology and results of access control testing",
+            "kk": "Қатынауды бақылау сынақтарының әдістемесі мен нәтижелері"
+          }
         },
         {
           "id": "E",
-          "text": "Календарь выпуска следующих версий продукта"
+          "text": {
+            "ru": "Календарь выпуска следующих версий продукта",
+            "en": "A calendar of upcoming releases of the product",
+            "kk": "Өнімнің келесі нұсқаларының шығу күнтізбесі"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Свидетельства испытаний помогают установить, выполняется ли заявленная функция защиты.",
+      "explanation": {
+        "ru": "Свидетельства испытаний помогают установить, выполняется ли заявленная функция защиты.",
+        "en": "Test evidence helps establish whether the declared protection function is performed.",
+        "kk": "Сынақ дәлелдемелері мәлімделген қорғау функциясының орындалатынын анықтауға көмектеседі."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1111,33 +1811,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какой пункт договора об обработке данных можно проверить при приёмке услуг?",
+      "question": {
+        "ru": "Какой пункт договора об обработке данных можно проверить при приёмке услуг?",
+        "en": "Which clause of a data processing contract can be verified when accepting the services?",
+        "kk": "Деректерді өңдеу туралы шарттың қандай тармағын қызметтерді қабылдау кезінде тексеруге болады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Поставщик стремится своевременно сообщать о рисках"
+          "text": {
+            "ru": "Поставщик стремится своевременно сообщать о рисках",
+            "en": "The supplier strives to report risks in a timely manner",
+            "kk": "Жеткізуші тәуекелдер туралы уақтылы хабарлауға тырысады"
+          }
         },
         {
           "id": "B",
-          "text": "Поставщик использует современные средства по своему выбору"
+          "text": {
+            "ru": "Поставщик использует современные средства по своему выбору",
+            "en": "The supplier uses modern tools of its choice",
+            "kk": "Жеткізуші өз қалауы бойынша заманауи құралдарды пайдаланады"
+          }
         },
         {
           "id": "C",
-          "text": "Поставщик рассматривает возможность аудита по необходимости"
+          "text": {
+            "ru": "Поставщик рассматривает возможность аудита по необходимости",
+            "en": "The supplier considers the possibility of an audit as needed",
+            "kk": "Жеткізуші қажет болғанда аудит жүргізу мүмкіндігін қарастырады"
+          }
         },
         {
           "id": "D",
-          "text": "Поставщик предоставляет журнал обращений за указанный период по запросу"
+          "text": {
+            "ru": "Поставщик предоставляет журнал обращений за указанный период по запросу",
+            "en": "The supplier provides an access log for the specified period on request",
+            "kk": "Жеткізуші сұрау бойынша көрсетілген кезеңге қатынау журналын ұсынады"
+          }
         },
         {
           "id": "E",
-          "text": "Стороны содействуют улучшению качества обслуживания"
+          "text": {
+            "ru": "Стороны содействуют улучшению качества обслуживания",
+            "en": "The parties contribute to improving the quality of service",
+            "kk": "Тараптар қызмет көрсету сапасын жақсартуға жәрдемдеседі"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Договорный пункт задаёт конкретный результат и условие его предоставления.",
+      "explanation": {
+        "ru": "Договорный пункт задаёт конкретный результат и условие его предоставления.",
+        "en": "The contractual clause sets a specific result and the condition for providing it.",
+        "kk": "Шарттың тармағы нақты нәтижені және оны ұсыну шартын белгілейді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1155,33 +1883,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "В договоре обязательна новая редакция стандарта. Как определить, какие внутренние правила требуют пересмотра?",
+      "question": {
+        "ru": "В договоре обязательна новая редакция стандарта. Как определить, какие внутренние правила требуют пересмотра?",
+        "en": "A new edition of a standard is mandatory under the contract. How can one determine which internal rules need revision?",
+        "kk": "Шартта стандараттың жаңа редакциясы міндетті. Қандай ішкі ережелерді қайта қарау керек екенін қалай анықтауға болады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Обновить схему сети без анализа"
+          "text": {
+            "ru": "Обновить схему сети без анализа",
+            "en": "Update the network diagram without analysis",
+            "kk": "Желі сызбасын талдаусыз жаңарту"
+          }
         },
         {
           "id": "B",
-          "text": "Сопоставить изменённые требования с правилами и записями об их выполнении"
+          "text": {
+            "ru": "Сопоставить изменённые требования с правилами и записями об их выполнении",
+            "en": "Map the changed requirements to the rules and the records of their execution",
+            "kk": "Өзгерген талаптарды ережелермен және олардың орындалуы туралы жазбалармен салыстыру"
+          }
         },
         {
           "id": "C",
-          "text": "Отменить регулярные проверки"
+          "text": {
+            "ru": "Отменить регулярные проверки",
+            "en": "Cancel regular checks",
+            "kk": "Тұрақты тексерулерді жою"
+          }
         },
         {
           "id": "D",
-          "text": "Выпустить новый шаблон отчёта"
+          "text": {
+            "ru": "Выпустить новый шаблон отчёта",
+            "en": "Issue a new report template",
+            "kk": "Есептің жаңа үлгісін шығару"
+          }
         },
         {
           "id": "E",
-          "text": "Заменить дату во всех процедурах"
+          "text": {
+            "ru": "Заменить дату во всех процедурах",
+            "en": "Replace the date in all procedures",
+            "kk": "Барлық рәсімдердегі күнді ауыстыру"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Сопоставление выделяет пробелы и помогает связать их с процедурами.",
+      "explanation": {
+        "ru": "Сопоставление выделяет пробелы и помогает связать их с процедурами.",
+        "en": "Mapping highlights gaps and helps link them to procedures.",
+        "kk": "Салыстыру олқылықтарды көрсетіп, оларды рәсімдермен байланыстыруға көмектеседі."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1199,33 +1955,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Аудитор проверяет, проходил ли обязательный пересмотр прав. Какой материал наиболее прямо подтверждает это?",
+      "question": {
+        "ru": "Аудитор проверяет, проходил ли обязательный пересмотр прав. Какой материал наиболее прямо подтверждает это?",
+        "en": "An auditor checks whether a mandatory review of rights took place. Which material most directly confirms this?",
+        "kk": "Аудитор құқықтарды міндетті қайта қарау өткізілді ме, соны тексереді. Мұны қандай материал неғұрлым тікелей растайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Политика с периодичностью, но без записей исполнения"
+          "text": {
+            "ru": "Политика с периодичностью, но без записей исполнения",
+            "en": "A policy with a frequency but without execution records",
+            "kk": "Кезеңділігі көрсетілген, бірақ орындалу жазбалары жоқ саясат"
+          }
         },
         {
           "id": "B",
-          "text": "Датированные записи пересмотров и принятых решений"
+          "text": {
+            "ru": "Датированные записи пересмотров и принятых решений",
+            "en": "Dated records of reviews and decisions made",
+            "kk": "Қайта қарау мен қабылданған шешімдердің күні қойылған жазбалары"
+          }
         },
         {
           "id": "C",
-          "text": "Проект расписания будущих проверок прав"
+          "text": {
+            "ru": "Проект расписания будущих проверок прав",
+            "en": "A draft schedule of future rights checks",
+            "kk": "Құқықтарды болашақта тексерудің кесте жобасы"
+          }
         },
         {
           "id": "D",
-          "text": "Должностная инструкция ответственного за пересмотр"
+          "text": {
+            "ru": "Должностная инструкция ответственного за пересмотр",
+            "en": "The job description of the person responsible for the review",
+            "kk": "Қайта қарауға жауаптының лауазымдық нұсқаулығы"
+          }
         },
         {
           "id": "E",
-          "text": "Пустой протокол проверки с заполненными заголовками"
+          "text": {
+            "ru": "Пустой протокол проверки с заполненными заголовками",
+            "en": "An empty review protocol with filled-in headings",
+            "kk": "Тақырыптары толтырылған бос тексеру хаттамасы"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Записи о конкретных пересмотрах подтверждают исполнение процедуры.",
+      "explanation": {
+        "ru": "Записи о конкретных пересмотрах подтверждают исполнение процедуры.",
+        "en": "Records of specific reviews confirm that the procedure was carried out.",
+        "kk": "Нақты қайта қарау жазбалары рәсімнің орындалғанын растайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1243,33 +2027,61 @@
       "topic_id": 4,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Договор требует хранить журнал 90 дней, а локальная процедура удаляет его через 30 суток. Что выясняют первым?",
+      "question": {
+        "ru": "Договор требует хранить журнал 90 дней, а локальная процедура удаляет его через 30 суток. Что выясняют первым?",
+        "en": "The contract requires keeping a log for 90 days, while the local procedure deletes it after 30 days. What should be clarified first?",
+        "kk": "Шарт журналды 90 күн сақтауды талап етеді, ал жергілікті рәсім оны 30 тәуліктен кейін жояды. Алдымен нені анықтайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Нужно ли дублировать журнал в других форматах"
+          "text": {
+            "ru": "Нужно ли дублировать журнал в других форматах",
+            "en": "Whether the log needs to be duplicated in other formats",
+            "kk": "Журналды басқа форматтарда көшіру қажет пе"
+          }
         },
         {
           "id": "B",
-          "text": "Кто обычно просматривает записи журнала"
+          "text": {
+            "ru": "Кто обычно просматривает записи журнала",
+            "en": "Who usually reviews the log records",
+            "kk": "Журнал жазбаларын әдетте кім қарайды"
+          }
         },
         {
           "id": "C",
-          "text": "Как часто записи выгружают для анализа"
+          "text": {
+            "ru": "Как часто записи выгружают для анализа",
+            "en": "How often the records are exported for analysis",
+            "kk": "Жазбалар талдау үшін қаншалықты жиі шығарылады"
+          }
         },
         {
           "id": "D",
-          "text": "Охватывает ли договорное условие именно этот журнал"
+          "text": {
+            "ru": "Охватывает ли договорное условие именно этот журнал",
+            "en": "Whether the contractual condition covers this particular log",
+            "kk": "Шарттық талап дәл осы журналды қамтиды ма"
+          }
         },
         {
           "id": "E",
-          "text": "Можно ли хранить журнал на другом сервере"
+          "text": {
+            "ru": "Можно ли хранить журнал на другом сервере",
+            "en": "Whether the log can be stored on another server",
+            "kk": "Журналды басқа серверде сақтауға бола ма"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Применимость договорного условия определяет, нужно ли менять текущий срок хранения.",
+      "explanation": {
+        "ru": "Применимость договорного условия определяет, нужно ли менять текущий срок хранения.",
+        "en": "The applicability of the contractual condition determines whether the current retention period needs to be changed.",
+        "kk": "Шарттық талаптың қолданылуы сақтаудың қазіргі мерзімін өзгерту қажеттігін анықтайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1287,33 +2099,61 @@
       "topic_id": 4,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Филиал хочет ссылаться на сертификат головного офиса. Что следует проверить прежде всего?",
+      "question": {
+        "ru": "Филиал хочет ссылаться на сертификат головного офиса. Что следует проверить прежде всего?",
+        "en": "A branch wants to refer to the head office's certificate. What should be checked first?",
+        "kk": "Филиал бас кеңсенің сертификатына сілтеме жасағысы келеді. Ең алдымен нені тексеру керек?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Выполняет ли филиал те же функции, что и головной офис"
+          "text": {
+            "ru": "Выполняет ли филиал те же функции, что и головной офис",
+            "en": "Whether the branch performs the same functions as the head office",
+            "kk": "Филиал бас кеңсемен бірдей функцияларды орындай ма"
+          }
         },
         {
           "id": "B",
-          "text": "Проверял ли филиал тот же поставщик оборудования"
+          "text": {
+            "ru": "Проверял ли филиал тот же поставщик оборудования",
+            "en": "Whether the same equipment supplier was checked by the branch",
+            "kk": "Филиал жабдықтың сол жеткізушісін тексерді ме"
+          }
         },
         {
           "id": "C",
-          "text": "Совпадают ли названия ответственных должностей"
+          "text": {
+            "ru": "Совпадают ли названия ответственных должностей",
+            "en": "Whether the names of the responsible positions match",
+            "kk": "Жауапты лауазымдардың атаулары сәйкес келе ме"
+          }
         },
         {
           "id": "D",
-          "text": "Входит ли филиал и его деятельность в область сертификации"
+          "text": {
+            "ru": "Входит ли филиал и его деятельность в область сертификации",
+            "en": "Whether the branch and its activities fall within the certification scope",
+            "kk": "Филиал мен оның қызметі сертификаттау аймағына кіре ме"
+          }
         },
         {
           "id": "E",
-          "text": "Использует ли филиал ту же редакцию внутренней политики"
+          "text": {
+            "ru": "Использует ли филиал ту же редакцию внутренней политики",
+            "en": "Whether the branch uses the same edition of the internal policy",
+            "kk": "Филиал ішкі саясаттың сол редакциясын пайдаланады ма"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "В области сертификации указывают, какие площадки и процессы охвачены.",
+      "explanation": {
+        "ru": "В области сертификации указывают, какие площадки и процессы охвачены.",
+        "en": "The certification scope specifies which sites and processes are covered.",
+        "kk": "Сертификаттау аймағында қандай алаңдар мен процестер қамтылғаны көрсетіледі."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1331,33 +2171,61 @@
       "topic_id": 4,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "После применения стандарта один контроль отмечен как внедрённый на всех площадках. Какой набор свидетельств лучше подтверждает это утверждение?",
+      "question": {
+        "ru": "После применения стандарта один контроль отмечен как внедрённый на всех площадках. Какой набор свидетельств лучше подтверждает это утверждение?",
+        "en": "After applying a standard, one control is marked as implemented at all sites. Which set of evidence better supports this claim?",
+        "kk": "Стандартты қолданғаннан кейін бір бақылау барлық алаңдарда енгізілген деп белгіленді. Қандай айғақтар жиынтығы бұл мәлімдемені жақсырақ растайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Договор лишь на закупку оборудования"
+          "text": {
+            "ru": "Договор лишь на закупку оборудования",
+            "en": "A contract only for the purchase of equipment",
+            "kk": "Тек жабдық сатып алуға арналған шарт"
+          }
         },
         {
           "id": "B",
-          "text": "Пример из одной центральной системы"
+          "text": {
+            "ru": "Пример из одной центральной системы",
+            "en": "An example from one central system",
+            "kk": "Бір орталық жүйеден алынған мысал"
+          }
         },
         {
           "id": "C",
-          "text": "Результаты проверок по площадкам и список охваченных систем"
+          "text": {
+            "ru": "Результаты проверок по площадкам и список охваченных систем",
+            "en": "Results of checks by site and a list of covered systems",
+            "kk": "Алаңдар бойынша тексеру нәтижелері және қамтылған жүйелер тізімі"
+          }
         },
         {
           "id": "D",
-          "text": "Подпись автора внутренней политики"
+          "text": {
+            "ru": "Подпись автора внутренней политики",
+            "en": "The signature of the internal policy's author",
+            "kk": "Ішкі саясат авторының қолы"
+          }
         },
         {
           "id": "E",
-          "text": "Общая презентация проекта"
+          "text": {
+            "ru": "Общая презентация проекта",
+            "en": "A general project presentation",
+            "kk": "Жобаның жалпы таныстырылымы"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Свидетельства по всем площадкам подтверждают заявленную полноту охвата.",
+      "explanation": {
+        "ru": "Свидетельства по всем площадкам подтверждают заявленную полноту охвата.",
+        "en": "Evidence from all sites confirms the declared completeness of coverage.",
+        "kk": "Барлық алаңдар бойынша айғақтар мәлімделген қамту толықтығын растайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",

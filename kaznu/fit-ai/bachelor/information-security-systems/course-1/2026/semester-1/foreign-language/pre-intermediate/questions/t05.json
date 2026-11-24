@@ -33,7 +33,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "I takes was + -ing.",
+      "explanation": {
+        "en": "I takes was + -ing.",
+        "ru": "С I используется was + -ing.",
+        "kk": "I-мен was + -ing қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "They takes were + -ing.",
+      "explanation": {
+        "en": "They takes were + -ing.",
+        "ru": "С they используется were + -ing.",
+        "kk": "They-мен were + -ing қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use were + subject + -ing.",
+      "explanation": {
+        "en": "Use were + subject + -ing.",
+        "ru": "Используйте were + подлежащее + -ing.",
+        "kk": "Were + бастауыш + -ing қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use wasn't + -ing with she.",
+      "explanation": {
+        "en": "Use wasn't + -ing with she.",
+        "ru": "С she используйте wasn't + -ing.",
+        "kk": "She-мен wasn't + -ing қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The ongoing past action is expressed by was reading.",
+      "explanation": {
+        "en": "The ongoing past action is expressed by was reading.",
+        "ru": "Длящееся действие в прошлом выражается формой was reading.",
+        "kk": "Өткендегі ұзаққа созылған іс-әрекет was reading формасымен беріледі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The completed event interrupting the background activity takes past simple.",
+      "explanation": {
+        "en": "The completed event interrupting the background activity takes past simple.",
+        "ru": "Завершившееся событие, прервавшее фоновое действие, выражается past simple.",
+        "kk": "Фондық әрекетті үзген аяқталған оқиға past simple-мен беріледі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The new event is expressed by past simple.",
+      "explanation": {
+        "en": "The new event is expressed by past simple.",
+        "ru": "Новое событие выражается past simple.",
+        "kk": "Жаңа оқиға past simple-мен беріледі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Double t in sitting and use was with she.",
+      "explanation": {
+        "en": "Double t in sitting and use was with she.",
+        "ru": "В sitting удвойте t и используйте was с she.",
+        "kk": "Sitting-те t әрпін екі еселеңіз және she-мен was қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use was with singular Tom in the past continuous.",
+      "explanation": {
+        "en": "Use was with singular Tom in the past continuous.",
+        "ru": "С Tom в единственном числе в past continuous используйте was.",
+        "kk": "Жекеше Tom-мен past continuous-та was қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The answer repeats were in its negative form.",
+      "explanation": {
+        "en": "The answer repeats were in its negative form.",
+        "ru": "В ответе повторяется отрицательная форма were.",
+        "kk": "Жауапта were-дің болымсыз формасы қайталанады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The text names his ongoing activity.",
+      "explanation": {
+        "en": "The text names his ongoing activity.",
+        "ru": "В тексте названо его длящееся занятие.",
+        "kk": "Мәтінде оның жалғасып жатқан әрекеті аталған."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Was waiting marks an ongoing past action.",
+      "explanation": {
+        "en": "Was waiting marks an ongoing past action.",
+        "ru": "Was waiting обозначает длящееся действие в прошлом.",
+        "kk": "Was waiting өткендегі жалғасып жатқан іс-әрекетті білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use past continuous for the interrupted activity.",
+      "explanation": {
+        "en": "Use past continuous for the interrupted activity.",
+        "ru": "Для прерванного действия используйте past continuous.",
+        "kk": "Үзілген іс-әрекет үшін past continuous қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The two past continuous actions overlap.",
+      "explanation": {
+        "en": "The two past continuous actions overlap.",
+        "ru": "Два действия в past continuous происходят одновременно.",
+        "kk": "Past continuous-тағы екі іс-әрекет бір мезгілде өтеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use at with a clock time.",
+      "explanation": {
+        "en": "Use at with a clock time.",
+        "ru": "С точным временем по часам используйте at.",
+        "kk": "Сағат бойынша нақты уақытпен at қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use in with months.",
+      "explanation": {
+        "en": "Use in with months.",
+        "ru": "С месяцами используйте in.",
+        "kk": "Айлармен in қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use on with days.",
+      "explanation": {
+        "en": "Use on with days.",
+        "ru": "С днями недели используйте on.",
+        "kk": "Апта күндерімен on қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Use in with years.",
+      "explanation": {
+        "en": "Use in with years.",
+        "ru": "С годами используйте in.",
+        "kk": "Жылдармен in қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The phrase is in the evening.",
+      "explanation": {
+        "en": "The phrase is in the evening.",
+        "ru": "Выражение — in the evening.",
+        "kk": "Тіркес — in the evening."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The usual phrase is at night.",
+      "explanation": {
+        "en": "The usual phrase is at night.",
+        "ru": "Обычное выражение — at night.",
+        "kk": "Жиі қолданылатын тіркес — at night."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "In describes an enclosed location.",
+      "explanation": {
+        "en": "In describes an enclosed location.",
+        "ru": "In описывает нахождение внутри замкнутого пространства.",
+        "kk": "In жабық кеңістіктің ішіндегі орынды сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "At identifies a point or meeting location.",
+      "explanation": {
+        "en": "At identifies a point or meeting location.",
+        "ru": "At указывает на точку или место встречи.",
+        "kk": "At нүктені немесе кездесу орнын көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use on for attachment to a wall.",
+      "explanation": {
+        "en": "Use on for attachment to a wall.",
+        "ru": "Для крепления к стене используйте on.",
+        "kk": "Қабырғаға бекітілген нәрсе үшін on қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Were commonly has the weak form /wə/ when unstressed.",
+      "explanation": {
+        "en": "Were commonly has the weak form /wə/ when unstressed.",
+        "ru": "Were в безударной позиции обычно имеет слабую форму /wə/.",
+        "kk": "Were екпінсіз жағдайда әдетте /wə/ әлсіз формасында айтылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The subject Farida and I takes were. The -ing form describes the activity in progress.",
+      "explanation": {
+        "en": "The subject Farida and I takes were. The -ing form describes the activity in progress.",
+        "ru": "Подлежащее Farida and I требует were. Форма на -ing описывает действие в процессе.",
+        "kk": "Бастауыш Farida and I were талап етеді. -ing формасы жүріп жатқан іс-әрекетті сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use the past simple went for the sudden event during another action.",
+      "explanation": {
+        "en": "Use the past simple went for the sudden event during another action.",
+        "ru": "Для внезапного события во время другого действия используйте past simple went.",
+        "kk": "Басқа іс-әрекет кезіндегі кенет оқиға үшін past simple went қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use on before a specific date.",
+      "explanation": {
+        "en": "Use on before a specific date.",
+        "ru": "Перед конкретной датой используется on.",
+        "kk": "Нақты күннің алдында on қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The usual expression is in the early morning.",
+      "explanation": {
+        "en": "The usual expression is in the early morning.",
+        "ru": "Обычное выражение: in the early morning.",
+        "kk": "Әдеттегі тіркес: in the early morning."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Unstressed was commonly has the schwa /ə/ and keeps the final /z/.",
+      "explanation": {
+        "en": "Unstressed was commonly has the schwa /ə/ and keeps the final /z/.",
+        "ru": "В безударной позиции was обычно содержит шва /ə/ и сохраняет конечный /z/.",
+        "kk": "Екпінсіз was әдетте шва /ə/ дыбысын қамтиды және соңғы /z/ дыбысын сақтайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1193,7 +1309,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The question asks about the action already in progress at that past moment.",
+      "explanation": {
+        "en": "The question asks about the action already in progress at that past moment.",
+        "ru": "Вопрос о действии, которое уже шло в тот момент в прошлом.",
+        "kk": "Сұрақ өткендегі сол сәтте жүріп жатқан іс-әрекет туралы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1233,7 +1353,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The phone rang during the longer activity of crossing the bridge.",
+      "explanation": {
+        "en": "The phone rang during the longer activity of crossing the bridge.",
+        "ru": "Телефон зазвонил во время более длительного действия: пока переходили мост.",
+        "kk": "Телефон ұзағырақ іс-әрекет, яғни көпірден өту кезінде шылдырады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

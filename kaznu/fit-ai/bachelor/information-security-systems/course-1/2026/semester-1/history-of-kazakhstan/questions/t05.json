@@ -7,33 +7,61 @@
       "topic_id": 5,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Основателем Тюркского каганата считается предводитель тюрков...",
+      "question": {
+        "ru": "Основателем Тюркского каганата считается предводитель тюрков...",
+        "en": "The founder of the Turkic Khaganate is considered to be the Turkic leader...",
+        "kk": "Түрік қағанатының негізін қалаушы деп түріктердің ... көсемі есептеледі."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Истеми"
+          "text": {
+            "ru": "Истеми",
+            "en": "Istemi",
+            "kk": "Істемі"
+          }
         },
         {
           "id": "B",
-          "text": "Бумын"
+          "text": {
+            "ru": "Бумын",
+            "en": "Bumin",
+            "kk": "Бумын"
+          }
         },
         {
           "id": "C",
-          "text": "Мукан"
+          "text": {
+            "ru": "Мукан",
+            "en": "Muqan",
+            "kk": "Мұқан"
+          }
         },
         {
           "id": "D",
-          "text": "Капаган"
+          "text": {
+            "ru": "Капаган",
+            "en": "Qapaghan",
+            "kk": "Қапаған"
+          }
         },
         {
           "id": "E",
-          "text": "Сулук"
+          "text": {
+            "ru": "Сулук",
+            "en": "Suluk",
+            "kk": "Сулук"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Тюркский каганат создал предводитель тюрков Бумын, разгромивший в 552 г. жуань-жуаней.",
+      "explanation": {
+        "ru": "Тюркский каганат создал предводитель тюрков Бумын, разгромивший в 552 г. жуань-жуаней.",
+        "en": "The Turkic Khaganate was created by the Turkic leader Bumin, who defeated the Rouran in 552.",
+        "kk": "Түрік қағанатын 552 жылы жуань-жуандарды талқандаған түріктердің көсемі Бумын құрды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -50,6 +78,12 @@
                 "Бумын-каган",
                 "Бумын каган",
                 "Тумынь"
+              ],
+              "en": [
+                "bumin"
+              ],
+              "kk": [
+                "бумын"
               ]
             }
           }
@@ -61,33 +95,61 @@
       "topic_id": 5,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Какой город был столицей Западно-тюркского каганата и ставкой тюргешских каганов?",
+      "question": {
+        "ru": "Какой город был столицей Западно-тюркского каганата и ставкой тюргешских каганов?",
+        "en": "Which city was the capital of the Western Turkic Khaganate and the headquarters of the Turgesh khagans?",
+        "kk": "Қай қала Батыс түрік қағанатының астанасы және түргеш қағандарының ордасы болды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Тараз"
+          "text": {
+            "ru": "Тараз",
+            "en": "Taraz",
+            "kk": "Тараз"
+          }
         },
         {
           "id": "B",
-          "text": "Отрар"
+          "text": {
+            "ru": "Отрар",
+            "en": "Otrar",
+            "kk": "Отырар"
+          }
         },
         {
           "id": "C",
-          "text": "Суяб"
+          "text": {
+            "ru": "Суяб",
+            "en": "Suyab",
+            "kk": "Суяб"
+          }
         },
         {
           "id": "D",
-          "text": "Янгикент"
+          "text": {
+            "ru": "Янгикент",
+            "en": "Yangikent",
+            "kk": "Янгикент"
+          }
         },
         {
           "id": "E",
-          "text": "Сыгнак"
+          "text": {
+            "ru": "Сыгнак",
+            "en": "Sygnak",
+            "kk": "Сығанақ"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Суяб в Чуйской долине был столицей Западно-тюркского каганата и главной ставкой тюргешских каганов.",
+      "explanation": {
+        "ru": "Суяб в Чуйской долине был столицей Западно-тюркского каганата и главной ставкой тюргешских каганов.",
+        "en": "Suyab in the Chu Valley was the capital of the Western Turkic Khaganate and the main headquarters of the Turgesh khagans.",
+        "kk": "Шу алқабындағы Суяб Батыс түрік қағанатының астанасы және түргеш қағандарының басты ордасы болды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -100,33 +162,61 @@
       "topic_id": 5,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Основой устройства государства карлуков при номинальной власти ябгу была...",
+      "question": {
+        "ru": "Основой устройства государства карлуков при номинальной власти ябгу была...",
+        "en": "The basis of the Karluk state structure, under the nominal power of the yabgu, was...",
+        "kk": "Жабғудың атау ғана билігі кезіндегі қарлұқ мемлекетінің құрылымының негізі — ..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Удельно-племенная система"
+          "text": {
+            "ru": "Удельно-племенная система",
+            "en": "An appanage-tribal system",
+            "kk": "Үлестік-тайпалық жүйе"
+          }
         },
         {
           "id": "B",
-          "text": "Централизованно-бюрократическая система"
+          "text": {
+            "ru": "Централизованно-бюрократическая система",
+            "en": "A centralised bureaucratic system",
+            "kk": "Орталықтандырылған-бюрократиялық жүйе"
+          }
         },
         {
           "id": "C",
-          "text": "Рабовладельческая система"
+          "text": {
+            "ru": "Рабовладельческая система",
+            "en": "A slave-owning system",
+            "kk": "Құлиеленушілік жүйе"
+          }
         },
         {
           "id": "D",
-          "text": "Республиканская система"
+          "text": {
+            "ru": "Республиканская система",
+            "en": "A republican system",
+            "kk": "Республикалық жүйе"
+          }
         },
         {
           "id": "E",
-          "text": "Военно-ленная система"
+          "text": {
+            "ru": "Военно-ленная система",
+            "en": "A military-fief system",
+            "kk": "Әскери-лендік жүйе"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Власть карлукских ябгу была номинальной, а государство опиралось на удельно-племенную систему.",
+      "explanation": {
+        "ru": "Власть карлукских ябгу была номинальной, а государство опиралось на удельно-племенную систему.",
+        "en": "The power of the Karluk yabgus was nominal, and the state rested on an appanage-tribal system.",
+        "kk": "Қарлұқ жабғуларының билігі атау ғана болды, ал мемлекет үлестік-тайпалық жүйеге сүйенді."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -143,33 +233,61 @@
       "topic_id": 5,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Единый Тюркский каганат окончательно распался на Восточный и Западный в...",
+      "question": {
+        "ru": "Единый Тюркский каганат окончательно распался на Восточный и Западный в...",
+        "en": "The unified Turkic Khaganate finally split into Eastern and Western in...",
+        "kk": "Бірыңғай Түрік қағанаты Шығыс және Батыс болып ақыры ... жылы бөлінді."
+      },
       "options": [
         {
           "id": "A",
-          "text": "552 г."
+          "text": {
+            "ru": "552 г.",
+            "en": "552",
+            "kk": "552"
+          }
         },
         {
           "id": "B",
-          "text": "603 г."
+          "text": {
+            "ru": "603 г.",
+            "en": "603",
+            "kk": "603"
+          }
         },
         {
           "id": "C",
-          "text": "630 г."
+          "text": {
+            "ru": "630 г.",
+            "en": "630",
+            "kk": "630"
+          }
         },
         {
           "id": "D",
-          "text": "658 г."
+          "text": {
+            "ru": "658 г.",
+            "en": "658",
+            "kk": "658"
+          }
         },
         {
           "id": "E",
-          "text": "740 г."
+          "text": {
+            "ru": "740 г.",
+            "en": "740",
+            "kk": "740"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Единый каганат разделился на Восточный и Западный в 603 г., после усобиц 582–593 гг.",
+      "explanation": {
+        "ru": "Единый каганат разделился на Восточный и Западный в 603 г., после усобиц 582–593 гг.",
+        "en": "The unified khaganate split into Eastern and Western in 603, after the civil wars of 582–593.",
+        "kk": "Бірыңғай қағанат 582–593 жылдардағы талас-тартыстардан кейін 603 жылы Шығыс және Батыс болып бөлінді."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -182,33 +300,61 @@
       "topic_id": 5,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Как называется система передачи власти по старшинству от брата к брату?",
+      "question": {
+        "ru": "Как называется система передачи власти по старшинству от брата к брату?",
+        "en": "What is the system of transferring power by seniority from brother to brother called?",
+        "kk": "Билікті жасына қарай ағадан інісіне беру жүйесі қалай аталады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Майорат"
+          "text": {
+            "ru": "Майорат",
+            "en": "Majorat",
+            "kk": "Майорат"
+          }
         },
         {
           "id": "B",
-          "text": "Минорат"
+          "text": {
+            "ru": "Минорат",
+            "en": "Minorat",
+            "kk": "Минорат"
+          }
         },
         {
           "id": "C",
-          "text": "Регентство"
+          "text": {
+            "ru": "Регентство",
+            "en": "Regency",
+            "kk": "Регенттік"
+          }
         },
         {
           "id": "D",
-          "text": "Лествичная система"
+          "text": {
+            "ru": "Лествичная система",
+            "en": "Lateral (scaled) succession",
+            "kk": "Баспалдақты жүйе"
+          }
         },
         {
           "id": "E",
-          "text": "Выборность на курултае"
+          "text": {
+            "ru": "Выборность на курултае",
+            "en": "Election at a kurultai",
+            "kk": "Құрылтайда сайлану"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Лествичная система престолонаследия множила число претендентов и усиливала усобицы в Тюркском каганате.",
+      "explanation": {
+        "ru": "Лествичная система престолонаследия множила число претендентов и усиливала усобицы в Тюркском каганате.",
+        "en": "The lateral system of succession multiplied the number of claimants and intensified civil strife in the Turkic Khaganate.",
+        "kk": "Баспалдақты мұрагерлік жүйе таққа үміткерлер санын көбейтіп, Түрік қағанатындағы талас-тартысты күшейтті."
+      },
       "source_references": [
         {
           "file": "Лекции/Древняя история Казастана тюркский период (1).pdf",
@@ -221,33 +367,61 @@
       "topic_id": 5,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Победа арабов и карлуков над китайцами при Атлахе (751 г.) привела к тому, что...",
+      "question": {
+        "ru": "Победа арабов и карлуков над китайцами при Атлахе (751 г.) привела к тому, что...",
+        "en": "The victory of the Arabs and Karluks over the Chinese at Atlakh (751) led to the fact that...",
+        "kk": "Арабтар мен қарлұқтардың Атлахта (751 ж.) қытайларды жеңуі мынаған әкелді..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Жетысу полностью вошло в состав Арабского халифата"
+          "text": {
+            "ru": "Жетысу полностью вошло в состав Арабского халифата",
+            "en": "Zhetysu fully became part of the Arab Caliphate",
+            "kk": "Жетісу толығымен Араб халифатының құрамына енді"
+          }
         },
         {
           "id": "B",
-          "text": "Тюргешский каганат был восстановлен под властью Китая"
+          "text": {
+            "ru": "Тюргешский каганат был восстановлен под властью Китая",
+            "en": "The Turgesh Khaganate was restored under Chinese rule",
+            "kk": "Түргеш қағанаты Қытай билігімен қалпына келтірілді"
+          }
         },
         {
           "id": "C",
-          "text": "Арабы заняли Суяб и подчинили Кашгар"
+          "text": {
+            "ru": "Арабы заняли Суяб и подчинили Кашгар",
+            "en": "The Arabs occupied Suyab and subjugated Kashgar",
+            "kk": "Арабтар Суябты басып алып, Қашғарды бағындырды"
+          }
         },
         {
           "id": "D",
-          "text": "Китай закрепился в Мавераннахре и Хорезме"
+          "text": {
+            "ru": "Китай закрепился в Мавераннахре и Хорезме",
+            "en": "China established itself in Transoxiana and Khorezm",
+            "kk": "Қытай Мауараннахр мен Хорезмде бекінді"
+          }
         },
         {
           "id": "E",
-          "text": "Китайцы оставили Жетысу, а арабы отошли из Таласской долины в Шаш"
+          "text": {
+            "ru": "Китайцы оставили Жетысу, а арабы отошли из Таласской долины в Шаш",
+            "en": "The Chinese left Zhetysu, and the Arabs withdrew from the Talas Valley to Shash",
+            "kk": "Қытайлар Жетісуды тастап кетті, ал арабтар Талас алқабынан Шашқа шегінді"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "После Атлаха танские войска оставили Жетысу, а арабы не удержались в Таласской долине и отступили в Шаш.",
+      "explanation": {
+        "ru": "После Атлаха танские войска оставили Жетысу, а арабы не удержались в Таласской долине и отступили в Шаш.",
+        "en": "After Atlakh, the Tang troops left Zhetysu, while the Arabs failed to hold the Talas Valley and withdrew to Shash.",
+        "kk": "Атлахтан кейін Тан әскерлері Жетісуды тастап кетті, ал арабтар Талас алқабында тұрақтай алмай, Шашқа шегінді."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -260,33 +434,61 @@
       "topic_id": 5,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Родоначальником династии Караханидов принято считать...",
+      "question": {
+        "ru": "Родоначальником династии Караханидов принято считать...",
+        "en": "The founder of the Karakhanid dynasty is generally considered to be...",
+        "kk": "Қарахан әулетінің негізін қалаушы деп ... есептеледі."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Сатука Богра-хана"
+          "text": {
+            "ru": "Сатука Богра-хана",
+            "en": "Satuq Bughra Khan",
+            "kk": "Сатұқ Боғра ханды"
+          }
         },
         {
           "id": "B",
-          "text": "Огулчака"
+          "text": {
+            "ru": "Огулчака",
+            "en": "Oghulchaq",
+            "kk": "Огулчақты"
+          }
         },
         {
           "id": "C",
-          "text": "Йинал-тегина"
+          "text": {
+            "ru": "Йинал-тегина",
+            "en": "Yinal-tegin",
+            "kk": "Йиналтегінді"
+          }
         },
         {
           "id": "D",
-          "text": "Кадыр-хана Жабраила"
+          "text": {
+            "ru": "Кадыр-хана Жабраила",
+            "en": "Qadir Khan Jabrail",
+            "kk": "Қадыр хан Жәбірейілді"
+          }
         },
         {
           "id": "E",
-          "text": "Богра-хана Харуна"
+          "text": {
+            "ru": "Богра-хана Харуна",
+            "en": "Bughra Khan Harun",
+            "kk": "Боғра хан Харунды"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Родоначальником Караханидов принято считать Сатука Богра-хана: в 942 г. он объявил себя верховным каганом.",
+      "explanation": {
+        "ru": "Родоначальником Караханидов принято считать Сатука Богра-хана: в 942 г. он объявил себя верховным каганом.",
+        "en": "Satuq Bughra Khan is generally considered the founder of the Karakhanids: in 942 he proclaimed himself supreme khagan.",
+        "kk": "Қарахандардың негізін қалаушы деп Сатұқ Боғра хан есептеледі: 942 жылы ол өзін жоғарғы қаған деп жариялады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -299,33 +501,61 @@
       "topic_id": 5,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "В каком году ислам был объявлен официальной религией государства Караханидов?",
+      "question": {
+        "ru": "В каком году ислам был объявлен официальной религией государства Караханидов?",
+        "en": "In what year was Islam proclaimed the official religion of the Karakhanid state?",
+        "kk": "Қарахан мемлекетінде ислам қай жылы ресми дін болып жарияланды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "751 г."
+          "text": {
+            "ru": "751 г.",
+            "en": "751",
+            "kk": "751 ж."
+          }
         },
         {
           "id": "B",
-          "text": "893 г."
+          "text": {
+            "ru": "893 г.",
+            "en": "893",
+            "kk": "893 ж."
+          }
         },
         {
           "id": "C",
-          "text": "960 г."
+          "text": {
+            "ru": "960 г.",
+            "en": "960",
+            "kk": "960 ж."
+          }
         },
         {
           "id": "D",
-          "text": "1141 г."
+          "text": {
+            "ru": "1141 г.",
+            "en": "1141",
+            "kk": "1141 ж."
+          }
         },
         {
           "id": "E",
-          "text": "1312 г."
+          "text": {
+            "ru": "1312 г.",
+            "en": "1312",
+            "kk": "1312 ж."
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "По лекции, государственной религией Караханидов ислам стал в 960 г.",
+      "explanation": {
+        "ru": "По лекции, государственной религией Караханидов ислам стал в 960 г.",
+        "en": "According to the lecture, Islam became the state religion of the Karakhanids in 960.",
+        "kk": "Дәріс бойынша, ислам қарахандардың мемлекеттік дініне 960 жылы айналды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -338,33 +568,61 @@
       "topic_id": 5,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Столицей государства огузов в X в. был город...",
+      "question": {
+        "ru": "Столицей государства огузов в X в. был город...",
+        "en": "The capital of the Oghuz state in the 10th century was the city of...",
+        "kk": "X ғасырдағы оғыздар мемлекетінің астанасы ... қаласы болды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Сауран"
+          "text": {
+            "ru": "Сауран",
+            "en": "Sauran",
+            "kk": "Сауран"
+          }
         },
         {
           "id": "B",
-          "text": "Отрар"
+          "text": {
+            "ru": "Отрар",
+            "en": "Otrar",
+            "kk": "Отырар"
+          }
         },
         {
           "id": "C",
-          "text": "Сыгнак"
+          "text": {
+            "ru": "Сыгнак",
+            "en": "Sygnak",
+            "kk": "Сығанақ"
+          }
         },
         {
           "id": "D",
-          "text": "Янгикент"
+          "text": {
+            "ru": "Янгикент",
+            "en": "Yangikent",
+            "kk": "Янгикент"
+          }
         },
         {
           "id": "E",
-          "text": "Каялык"
+          "text": {
+            "ru": "Каялык",
+            "en": "Kayalyk",
+            "kk": "Қайалық"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "В X в. столицей державы огузских джабгу был Янгикент.",
+      "explanation": {
+        "ru": "В X в. столицей державы огузских джабгу был Янгикент.",
+        "en": "In the 10th century, the capital of the state of the Oghuz yabghus was Yangikent.",
+        "kk": "X ғасырда оғыз жабғуларының мемлекетінің астанасы Янгикент болды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -377,27 +635,51 @@
       "topic_id": 5,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "Причины падения Кимекского каганата в начале XI в.:",
+      "question": {
+        "ru": "Причины падения Кимекского каганата в начале XI в.:",
+        "en": "Reasons for the fall of the Kimak Khaganate in the early 11th century:",
+        "kk": "XI ғасырдың басындағы Кимақ қағанатының құлау себептері:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Центробежные стремления кыпчакских ханов"
+          "text": {
+            "ru": "Центробежные стремления кыпчакских ханов",
+            "en": "Centrifugal aspirations of the Kipchak khans",
+            "kk": "Қыпшақ хандарының бөлінуге ұмтылуы"
+          }
         },
         {
           "id": "B",
-          "text": "Монгольское нашествие"
+          "text": {
+            "ru": "Монгольское нашествие",
+            "en": "The Mongol invasion",
+            "kk": "Моңғол шапқыншылығы"
+          }
         },
         {
           "id": "C",
-          "text": "Усиление междоусобиц внутри каганата"
+          "text": {
+            "ru": "Усиление междоусобиц внутри каганата",
+            "en": "Intensification of internal strife within the khaganate",
+            "kk": "Қағанат ішіндегі өзара қырқыстың күшеюі"
+          }
         },
         {
           "id": "D",
-          "text": "Арабское завоевание Прииртышья"
+          "text": {
+            "ru": "Арабское завоевание Прииртышья",
+            "en": "The Arab conquest of the Irtysh region",
+            "kk": "Арабтардың Ертіс маңын жаулап алуы"
+          }
         },
         {
           "id": "E",
-          "text": "Переселение кочевых племён Центральной Азии"
+          "text": {
+            "ru": "Переселение кочевых племён Центральной Азии",
+            "en": "Migration of nomadic tribes from Central Asia",
+            "kk": "Орталық Азиядан көшпелі тайпалардың қоныс аударуы"
+          }
         }
       ],
       "correct_answers": [
@@ -405,7 +687,11 @@
         "C",
         "E"
       ],
-      "explanation": "Каганат рухнул из-за центробежных стремлений кыпчакских ханов, усобиц и миграции кочевников в начале XI в.",
+      "explanation": {
+        "ru": "Каганат рухнул из-за центробежных стремлений кыпчакских ханов, усобиц и миграции кочевников в начале XI в.",
+        "en": "The khaganate collapsed because of the centrifugal aspirations of the Kipchak khans, internal strife and the migration of nomads in the early 11th century.",
+        "kk": "Қағанат XI ғасырдың басында қыпшақ хандарының бөлінуге ұмтылуынан, өзара қырқыстан және көшпелілердің миграциясынан құлады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -418,33 +704,61 @@
       "topic_id": 5,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Замена названия «Степь огузов» на Дешт-и-Кыпчак в XI в. отражает...",
+      "question": {
+        "ru": "Замена названия «Степь огузов» на Дешт-и-Кыпчак в XI в. отражает...",
+        "en": "The replacement of the name \"Steppe of the Oghuz\" with Dasht-i Kipchak in the 11th century reflects...",
+        "kk": "XI ғасырда «Оғыздар даласы» атауының Дешті Қыпшақ атауымен ауысуы мынаны көрсетеді..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Усиление кыпчаков и вытеснение огузов с Сырдарьи"
+          "text": {
+            "ru": "Усиление кыпчаков и вытеснение огузов с Сырдарьи",
+            "en": "The strengthening of the Kipchaks and the displacement of the Oghuz from the Syr Darya",
+            "kk": "Қыпшақтардың күшеюін және оғыздардың Сырдарьядан ығыстырылуын"
+          }
         },
         {
           "id": "B",
-          "text": "Завоевание степи монголами"
+          "text": {
+            "ru": "Завоевание степи монголами",
+            "en": "The conquest of the steppe by the Mongols",
+            "kk": "Даланы моңғолдардың жаулап алуын"
+          }
         },
         {
           "id": "C",
-          "text": "Принятие кыпчаками ислама"
+          "text": {
+            "ru": "Принятие кыпчаками ислама",
+            "en": "The adoption of Islam by the Kipchaks",
+            "kk": "Қыпшақтардың исламды қабылдауын"
+          }
         },
         {
           "id": "D",
-          "text": "Господство каракитаев в степи"
+          "text": {
+            "ru": "Господство каракитаев в степи",
+            "en": "The domination of the Kara-Khitans in the steppe",
+            "kk": "Даладағы қарақытайлардың үстемдігін"
+          }
         },
         {
           "id": "E",
-          "text": "Переселение огузов в Жетысу"
+          "text": {
+            "ru": "Переселение огузов в Жетысу",
+            "en": "The resettlement of the Oghuz to Zhetysu",
+            "kk": "Оғыздардың Жетісуға қоныс аударуын"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "С начала второй четверти XI в. степь называют Дешт-и-Кыпчак: кыпчаки вытеснили огузских джабгу с Сырдарьи.",
+      "explanation": {
+        "ru": "С начала второй четверти XI в. степь называют Дешт-и-Кыпчак: кыпчаки вытеснили огузских джабгу с Сырдарьи.",
+        "en": "From the beginning of the second quarter of the 11th century the steppe is called Dasht-i Kipchak: the Kipchaks displaced the Oghuz yabghus from the Syr Darya.",
+        "kk": "XI ғасырдың екінші ширегінің басынан бастап даланы Дешті Қыпшақ деп атайды: қыпшақтар оғыз жабғуларын Сырдариядан ығыстырды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -457,33 +771,61 @@
       "topic_id": 5,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Как хорезмшахи ослабляли независимый Кыпчакский улус в XII в.?",
+      "question": {
+        "ru": "Как хорезмшахи ослабляли независимый Кыпчакский улус в XII в.?",
+        "en": "How did the Khorezmshahs weaken the independent Kipchak ulus in the 12th century?",
+        "kk": "XII ғасырда хорезмшахтар тәуелсіз Қыпшақ ұлысын қалай әлсіреткен?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Выплачивали кыпчакским ханам ежегодную дань за нейтралитет"
+          "text": {
+            "ru": "Выплачивали кыпчакским ханам ежегодную дань за нейтралитет",
+            "en": "They paid the Kipchak khans annual tribute for neutrality",
+            "kk": "Бейтараптық үшін қыпшақ хандарына жыл сайын алым төлеп тұрған"
+          }
         },
         {
           "id": "B",
-          "text": "Принудительно обращали в ислам всех рядовых кыпчаков"
+          "text": {
+            "ru": "Принудительно обращали в ислам всех рядовых кыпчаков",
+            "en": "They forcibly converted all rank-and-file Kipchaks to Islam",
+            "kk": "Қарапайым қыпшақтардың барлығын мәжбүрлеп исламға кіргізген"
+          }
         },
         {
           "id": "C",
-          "text": "Не допускали кыпчакскую знать к государственным должностям"
+          "text": {
+            "ru": "Не допускали кыпчакскую знать к государственным должностям",
+            "en": "They barred the Kipchak nobility from state offices",
+            "kk": "Қыпшақ ақсүйектерін мемлекеттік қызметтерге жібермеген"
+          }
         },
         {
           "id": "D",
-          "text": "Заключали с монголами договор о разделе Дешт-и-Кыпчака"
+          "text": {
+            "ru": "Заключали с монголами договор о разделе Дешт-и-Кыпчака",
+            "en": "They concluded a treaty with the Mongols on the partition of Dasht-i Kipchak",
+            "kk": "Моңғолдармен Дешті Қыпшақты бөлісу туралы шарт жасасқан"
+          }
         },
         {
           "id": "E",
-          "text": "Создали военное сословие из знати и разжигали вражду вождей"
+          "text": {
+            "ru": "Создали военное сословие из знати и разжигали вражду вождей",
+            "en": "They created a military estate from the nobility and fomented enmity among the chiefs",
+            "kk": "Ақсүйектерден тұйық әскери сословие құрып, көсемдердің арасына іріткі салған"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Хорезмшахи создали из кыпчакской знати замкнутое военное сословие и поддерживали вражду между вождями.",
+      "explanation": {
+        "ru": "Хорезмшахи создали из кыпчакской знати замкнутое военное сословие и поддерживали вражду между вождями.",
+        "en": "The Khorezmshahs created a closed military estate from the Kipchak nobility and supported enmity among the chiefs.",
+        "kk": "Хорезмшахтар қыпшақ ақсүйектерінен тұйық әскери сословие құрып, көсемдердің арасындағы араздықты қолдады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -496,27 +838,51 @@
       "topic_id": 5,
       "difficulty_level": 4,
       "type": "multiple_choice",
-      "question": "Верные суждения о кимеках и кыпчаках:",
+      "question": {
+        "ru": "Верные суждения о кимеках и кыпчаках:",
+        "en": "Correct statements about the Kimaks and Kipchaks:",
+        "kk": "Кимақтар мен қыпшақтар туралы дұрыс тұжырымдар:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Кимеки и кыпчаки — один и тот же этнос"
+          "text": {
+            "ru": "Кимеки и кыпчаки — один и тот же этнос",
+            "en": "The Kimaks and Kipchaks are one and the same ethnos",
+            "kk": "Кимақтар мен қыпшақтар — бір этнос"
+          }
         },
         {
           "id": "B",
-          "text": "Династийным родом кыпчакских ханов был ель-борили"
+          "text": {
+            "ru": "Династийным родом кыпчакских ханов был ель-борили",
+            "en": "The dynastic clan of the Kipchak khans was the Il-Borili",
+            "kk": "Қыпшақ хандарының әулеттік руы елбөрілі болды"
+          }
         },
         {
           "id": "C",
-          "text": "Кыпчакское ханство делилось на правое и левое крылья"
+          "text": {
+            "ru": "Кыпчакское ханство делилось на правое и левое крылья",
+            "en": "The Kipchak Khanate was divided into right and left wings",
+            "kk": "Қыпшақ хандығы оң және сол қанатқа бөлінді"
+          }
         },
         {
           "id": "D",
-          "text": "Ставка левого крыла находилась на Урале, правого — в Сыгнаке"
+          "text": {
+            "ru": "Ставка левого крыла находилась на Урале, правого — в Сыгнаке",
+            "en": "The headquarters of the left wing was in the Urals, and of the right in Sygnak",
+            "kk": "Сол қанаттың ордасы Оралда, оң қанаттікі Сығанақта болды"
+          }
         },
         {
           "id": "E",
-          "text": "В IX–X вв. кыпчаки зависели от кимекского кагана"
+          "text": {
+            "ru": "В IX–X вв. кыпчаки зависели от кимекского кагана",
+            "en": "In the 9th–10th centuries the Kipchaks were dependent on the Kimak khagan",
+            "kk": "IX–X ғасырларда қыпшақтар кимақ қағанына тәуелді болды"
+          }
         }
       ],
       "correct_answers": [
@@ -524,7 +890,11 @@
         "C",
         "E"
       ],
-      "explanation": "Кимеки и кыпчаки — родственные, но разные этносы; ставка правого крыла была на Урале, левого — в Сыгнаке.",
+      "explanation": {
+        "ru": "Кимеки и кыпчаки — родственные, но разные этносы; ставка правого крыла была на Урале, левого — в Сыгнаке.",
+        "en": "The Kimaks and Kipchaks are related but distinct ethnic groups; the headquarters of the right wing was in the Urals, and of the left in Sygnak.",
+        "kk": "Кимақтар мен қыпшақтар — туыс, бірақ әртүрлі этностар; оң қанаттың ордасы Оралда, сол қанаттікі Сығанақта болды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -537,33 +907,61 @@
       "topic_id": 5,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Древнетюркскую рунику в 1893 г. расшифровал датский учёный...",
+      "question": {
+        "ru": "Древнетюркскую рунику в 1893 г. расшифровал датский учёный...",
+        "en": "Ancient Turkic runic script was deciphered in 1893 by the Danish scholar...",
+        "kk": "Көне түркі руникалық жазуын 1893 жылы дат ғалымы ... оқыды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Василий Радлов"
+          "text": {
+            "ru": "Василий Радлов",
+            "en": "Vasily Radlov",
+            "kk": "Василий Радлов"
+          }
         },
         {
           "id": "B",
-          "text": "Вильгельм Томсен"
+          "text": {
+            "ru": "Вильгельм Томсен",
+            "en": "Vilhelm Thomsen",
+            "kk": "Вильгельм Томсен"
+          }
         },
         {
           "id": "C",
-          "text": "Николай Ядринцев"
+          "text": {
+            "ru": "Николай Ядринцев",
+            "en": "Nikolay Yadrintsev",
+            "kk": "Николай Ядринцев"
+          }
         },
         {
           "id": "D",
-          "text": "Иакинф Бичурин"
+          "text": {
+            "ru": "Иакинф Бичурин",
+            "en": "Nikita (Iakinf) Bichurin",
+            "kk": "Иакинф Бичурин"
+          }
         },
         {
           "id": "E",
-          "text": "Василий Бартольд"
+          "text": {
+            "ru": "Василий Бартольд",
+            "en": "Vasily Bartold",
+            "kk": "Василий Бартольд"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Доклад о дешифровке рунической письменности Вильгельм Томсен прочитал 15 декабря 1893 г.",
+      "explanation": {
+        "ru": "Доклад о дешифровке рунической письменности Вильгельм Томсен прочитал 15 декабря 1893 г.",
+        "en": "Vilhelm Thomsen delivered his report on the decipherment of the runic script on 15 December 1893.",
+        "kk": "Руникалық жазуды оқу туралы баяндаманы Вильгельм Томсен 1893 жылғы 15 желтоқсанда жасады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -579,6 +977,12 @@
                 "Томсен",
                 "Вильгельм Томсен",
                 "В. Томсен"
+              ],
+              "en": [
+                "vilhelm thomsen"
+              ],
+              "kk": [
+                "вильгельм томсен"
               ]
             }
           }
@@ -590,27 +994,51 @@
       "topic_id": 5,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "Гипотезы о происхождении древнетюркской рунической письменности:",
+      "question": {
+        "ru": "Гипотезы о происхождении древнетюркской рунической письменности:",
+        "en": "Hypotheses on the origin of the ancient Turkic runic script:",
+        "kk": "Көне түркі руникалық жазуының шығу тегі туралы гипотезалар:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Из латинской скорописи"
+          "text": {
+            "ru": "Из латинской скорописи",
+            "en": "From Latin cursive",
+            "kk": "Латын скорописінен"
+          }
         },
         {
           "id": "B",
-          "text": "Из родовых тамг"
+          "text": {
+            "ru": "Из родовых тамг",
+            "en": "From clan tamgas",
+            "kk": "Рулық таңбалардан"
+          }
         },
         {
           "id": "C",
-          "text": "Из славянской глаголицы"
+          "text": {
+            "ru": "Из славянской глаголицы",
+            "en": "From the Slavic Glagolitic",
+            "kk": "Славян глаголицасынан"
+          }
         },
         {
           "id": "D",
-          "text": "Арамейская (согдийская, парфянская) основа"
+          "text": {
+            "ru": "Арамейская (согдийская, парфянская) основа",
+            "en": "An Aramaic (Sogdian, Parthian) basis",
+            "kk": "Арамей (соғды, парфия) негізі"
+          }
         },
         {
           "id": "E",
-          "text": "Пиктографическое или идеографическое происхождение"
+          "text": {
+            "ru": "Пиктографическое или идеографическое происхождение",
+            "en": "A pictographic or ideographic origin",
+            "kk": "Пиктографиялық немесе идеографиялық шығу тегі"
+          }
         }
       ],
       "correct_answers": [
@@ -618,7 +1046,11 @@
         "D",
         "E"
       ],
-      "explanation": "Выдвигались гипотезы о тамгах, пиктографии, финикийской и арамейской (в том числе согдийской) основах руники.",
+      "explanation": {
+        "ru": "Выдвигались гипотезы о тамгах, пиктографии, финикийской и арамейской (в том числе согдийской) основах руники.",
+        "en": "Hypotheses were put forward about tamgas, pictography, and Phoenician and Aramaic (including Sogdian) bases of the runic script.",
+        "kk": "Руниканың таңбалардан, пиктографиядан, финикия және арамей (соның ішінде соғды) негіздерінен шыққаны туралы гипотезалар ұсынылды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -631,33 +1063,61 @@
       "topic_id": 5,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Аль-Фараби при жизни получил почётное звание...",
+      "question": {
+        "ru": "Аль-Фараби при жизни получил почётное звание...",
+        "en": "During his lifetime, al-Farabi received the honorary title...",
+        "kk": "Әл-Фараби өмірінде құрметті ... атағына ие болды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "«Первый учитель»"
+          "text": {
+            "ru": "«Первый учитель»",
+            "en": "\"The First Teacher\"",
+            "kk": "«Бірінші ұстаз»"
+          }
         },
         {
           "id": "B",
-          "text": "«Учитель мира»"
+          "text": {
+            "ru": "«Учитель мира»",
+            "en": "\"Teacher of the World\"",
+            "kk": "«Әлем ұстазы»"
+          }
         },
         {
           "id": "C",
-          "text": "«Второй учитель»"
+          "text": {
+            "ru": "«Второй учитель»",
+            "en": "\"The Second Teacher\"",
+            "kk": "«Екінші ұстаз»"
+          }
         },
         {
           "id": "D",
-          "text": "«Отец философии»"
+          "text": {
+            "ru": "«Отец философии»",
+            "en": "\"Father of Philosophy\"",
+            "kk": "«Философия атасы»"
+          }
         },
         {
           "id": "E",
-          "text": "«Мудрец Востока»"
+          "text": {
+            "ru": "«Мудрец Востока»",
+            "en": "\"Sage of the East\"",
+            "kk": "«Шығыс данасы»"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Продолжив учение Аристотеля, Аль-Фараби был назван «Вторым учителем».",
+      "explanation": {
+        "ru": "Продолжив учение Аристотеля, Аль-Фараби был назван «Вторым учителем».",
+        "en": "As a continuer of Aristotle's teaching, al-Farabi was called the \"Second Teacher\".",
+        "kk": "Аристотель ілімін жалғастырған Әл-Фараби «Екінші ұстаз» атанды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -672,6 +1132,13 @@
               "ru": [
                 "Второй учитель",
                 "второй учитель после Аристотеля"
+              ],
+              "en": [
+                "the second teacher",
+                "second teacher"
+              ],
+              "kk": [
+                "екінші ұстаз"
               ]
             }
           }
@@ -683,33 +1150,61 @@
       "topic_id": 5,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "По Аль-Фараби, «добродетельным городом» государство становится под управлением...",
+      "question": {
+        "ru": "По Аль-Фараби, «добродетельным городом» государство становится под управлением...",
+        "en": "According to al-Farabi, a state becomes a \"virtuous city\" under the rule of...",
+        "kk": "Әл-Фарабидің пікірінше, мемлекет ... басқаруында «қайырымды қалаға» айналады."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Военного вождя"
+          "text": {
+            "ru": "Военного вождя",
+            "en": "A military leader",
+            "kk": "Әскери көсемнің"
+          }
         },
         {
           "id": "B",
-          "text": "Совета старейшин"
+          "text": {
+            "ru": "Совета старейшин",
+            "en": "A council of elders",
+            "kk": "Ақсақалдар кеңесінің"
+          }
         },
         {
           "id": "C",
-          "text": "Верховного жреца"
+          "text": {
+            "ru": "Верховного жреца",
+            "en": "A high priest",
+            "kk": "Жоғарғы абыздың"
+          }
         },
         {
           "id": "D",
-          "text": "Правителя-философа"
+          "text": {
+            "ru": "Правителя-философа",
+            "en": "A philosopher-ruler",
+            "kk": "Философ-билеушінің"
+          }
         },
         {
           "id": "E",
-          "text": "Богатейшего купца"
+          "text": {
+            "ru": "Богатейшего купца",
+            "en": "The richest merchant",
+            "kk": "Ең бай саудагердің"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "По Аль-Фараби, управлять государством должен правитель-философ, тогда оно становится «добродетельным городом».",
+      "explanation": {
+        "ru": "По Аль-Фараби, управлять государством должен правитель-философ, тогда оно становится «добродетельным городом».",
+        "en": "According to al-Farabi, the state must be governed by a philosopher-ruler, and then it becomes a \"virtuous city\".",
+        "kk": "Әл-Фарабидің пікірінше, мемлекетті философ-билеуші басқаруы тиіс, сонда ол «қайырымды қалаға» айналады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -722,33 +1217,61 @@
       "topic_id": 5,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "«Диван лугат ат-тюрк» Махмуда Кашгари — это...",
+      "question": {
+        "ru": "«Диван лугат ат-тюрк» Махмуда Кашгари — это...",
+        "en": "\"Diwan Lughat al-Turk\" by Mahmud al-Kashgari is...",
+        "kk": "Махмұд Қашғаридың «Диуани лұғат ат-түрік» еңбегі — бұл..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Поэма о правителе и пользе знания"
+          "text": {
+            "ru": "Поэма о правителе и пользе знания",
+            "en": "A poem about the ruler and the benefit of knowledge",
+            "kk": "Билеуші және білімнің пайдасы туралы поэма"
+          }
         },
         {
           "id": "B",
-          "text": "Сборник религиозно-мистических стихов"
+          "text": {
+            "ru": "Сборник религиозно-мистических стихов",
+            "en": "A collection of religious-mystical poems",
+            "kk": "Діни-мистикалық өлеңдер жинағы"
+          }
         },
         {
           "id": "C",
-          "text": "Эпос о подвигах огузских богатырей"
+          "text": {
+            "ru": "Эпос о подвигах огузских богатырей",
+            "en": "An epic about the exploits of Oghuz heroes",
+            "kk": "Оғыз батырларының ерліктері туралы эпос"
+          }
         },
         {
           "id": "D",
-          "text": "Трактат о классификации наук"
+          "text": {
+            "ru": "Трактат о классификации наук",
+            "en": "A treatise on the classification of sciences",
+            "kk": "Ғылымдардың жіктелуі туралы трактат"
+          }
         },
         {
           "id": "E",
-          "text": "Тюркская энциклопедия и сравнительный словарь"
+          "text": {
+            "ru": "Тюркская энциклопедия и сравнительный словарь",
+            "en": "A Turkic encyclopedia and comparative dictionary",
+            "kk": "Түркі энциклопедиясы және салыстырмалы сөздік"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "«Диван лугат ат-тюрк» — тюркская энциклопедия и первый сравнительный словарь тюркских слов.",
+      "explanation": {
+        "ru": "«Диван лугат ат-тюрк» — тюркская энциклопедия и первый сравнительный словарь тюркских слов.",
+        "en": "\"Diwan Lughat al-Turk\" is a Turkic encyclopedia and the first comparative dictionary of Turkic words.",
+        "kk": "«Диуани лұғат ат-түрік» — түркі энциклопедиясы және түркі сөздерінің алғашқы салыстырмалы сөздігі."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -761,27 +1284,51 @@
       "topic_id": 5,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "Назовите авторов, творивших в XI–XII вв.",
+      "question": {
+        "ru": "Назовите авторов, творивших в XI–XII вв.",
+        "en": "Name the authors who worked in the 11th–12th centuries.",
+        "kk": "XI–XII ғасырларда өмір сүрген авторларды атаңыз."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Юсуф Баласагуни"
+          "text": {
+            "ru": "Юсуф Баласагуни",
+            "en": "Yusuf Balasagun",
+            "kk": "Жүсіп Баласағұн"
+          }
         },
         {
           "id": "B",
-          "text": "Ибн Фадлан"
+          "text": {
+            "ru": "Ибн Фадлан",
+            "en": "Ibn Fadlan",
+            "kk": "Ибн Фадлан"
+          }
         },
         {
           "id": "C",
-          "text": "Ахмед Яссауи"
+          "text": {
+            "ru": "Ахмед Яссауи",
+            "en": "Ahmed Yasawi",
+            "kk": "Ахмет Яссауи"
+          }
         },
         {
           "id": "D",
-          "text": "Сулейман Бакыргани"
+          "text": {
+            "ru": "Сулейман Бакыргани",
+            "en": "Suleiman Bakyrgani",
+            "kk": "Сүлеймен Бақырғани"
+          }
         },
         {
           "id": "E",
-          "text": "Алишер Навои"
+          "text": {
+            "ru": "Алишер Навои",
+            "en": "Alisher Navoi",
+            "kk": "Әлішер Науаи"
+          }
         }
       ],
       "correct_answers": [
@@ -789,7 +1336,11 @@
         "C",
         "D"
       ],
-      "explanation": "Баласагуни писал в XI в., Яссауи и Бакыргани — в XII в.; Ибн Фадлан жил в X в., Навои — в XV в.",
+      "explanation": {
+        "ru": "Баласагуни писал в XI в., Яссауи и Бакыргани — в XII в.; Ибн Фадлан жил в X в., Навои — в XV в.",
+        "en": "Balasagun wrote in the 11th century, Yasawi and Bakyrgani in the 12th; Ibn Fadlan lived in the 10th century, Navoi in the 15th.",
+        "kk": "Баласағұн XI ғасырда, Яссауи мен Бақырғани XII ғасырда жазған; Ибн Фадлан X ғасырда, Науаи XV ғасырда өмір сүрген."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -802,33 +1353,61 @@
       "topic_id": 5,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Казахи считают Коркыта основоположником музыкальных произведений для...",
+      "question": {
+        "ru": "Казахи считают Коркыта основоположником музыкальных произведений для...",
+        "en": "Kazakhs regard Korkyt as the founder of musical compositions for the...",
+        "kk": "Қазақтар Қорқытты ... арналған музыкалық шығармалардың негізін салушы деп санайды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Домбры"
+          "text": {
+            "ru": "Домбры",
+            "en": "Dombra",
+            "kk": "Домбыраға"
+          }
         },
         {
           "id": "B",
-          "text": "Сыбызгы"
+          "text": {
+            "ru": "Сыбызгы",
+            "en": "Sybyzgy",
+            "kk": "Сыбызғыға"
+          }
         },
         {
           "id": "C",
-          "text": "Жетыгена"
+          "text": {
+            "ru": "Жетыгена",
+            "en": "Zhetigen",
+            "kk": "Жетігенге"
+          }
         },
         {
           "id": "D",
-          "text": "Кобыза"
+          "text": {
+            "ru": "Кобыза",
+            "en": "Kobyz",
+            "kk": "Қобызға"
+          }
         },
         {
           "id": "E",
-          "text": "Асатаяка"
+          "text": {
+            "ru": "Асатаяка",
+            "en": "Asatayak",
+            "kk": "Асатаяққа"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Казахи видят в Коркыте основоположника кобызовых произведений, эпического жанра и врачевания.",
+      "explanation": {
+        "ru": "Казахи видят в Коркыте основоположника кобызовых произведений, эпического жанра и врачевания.",
+        "en": "Kazakhs see Korkyt as the founder of kobyz compositions, the epic genre and healing.",
+        "kk": "Қазақтар Қорқытты қобыз күйлерінің, эпостық жанрдың және емшіліктің негізін салушы деп біледі."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -843,6 +1422,12 @@
               "ru": [
                 "кобыз",
                 "қобыз"
+              ],
+              "en": [
+                "kobyz"
+              ],
+              "kk": [
+                "қобызға"
               ]
             }
           }

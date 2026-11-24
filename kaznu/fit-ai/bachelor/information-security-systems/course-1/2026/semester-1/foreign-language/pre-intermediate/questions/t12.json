@@ -33,7 +33,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Anything refers to a thing in this question.",
+      "explanation": {
+        "en": "Anything refers to a thing in this question.",
+        "ru": "В этом вопросе anything относится к вещи.",
+        "kk": "Бұл сұрақта anything затқа қатысты."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Someone refers to an unspecified person.",
+      "explanation": {
+        "en": "Someone refers to an unspecified person.",
+        "ru": "Someone относится к неопределённому человеку.",
+        "kk": "Someone белгісіз адамға қатысты."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Anywhere refers to a place in a negative sentence.",
+      "explanation": {
+        "en": "Anywhere refers to a place in a negative sentence.",
+        "ru": "Anywhere относится к месту в отрицательном предложении.",
+        "kk": "Anywhere болымсыз сөйлемдегі орынға қатысты."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Nobody means no person.",
+      "explanation": {
+        "en": "Nobody means no person.",
+        "ru": "Nobody означает «никто» (ни один человек).",
+        "kk": "Nobody ешкім (бірде-бір адам) дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Nothing means no thing.",
+      "explanation": {
+        "en": "Nothing means no thing.",
+        "ru": "Nothing означает «ничто» (ни одна вещь).",
+        "kk": "Nothing ештеңе (бірде-бір зат) дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Somewhere refers to an unspecified place.",
+      "explanation": {
+        "en": "Somewhere refers to an unspecified place.",
+        "ru": "Somewhere относится к неопределённому месту.",
+        "kk": "Somewhere белгісіз орынға қатысты."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Anyone refers to a person in this question.",
+      "explanation": {
+        "en": "Anyone refers to a person in this question.",
+        "ru": "В этом вопросе anyone относится к человеку.",
+        "kk": "Бұл сұрақта anyone адамға қатысты."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use anything after the negative didn't.",
+      "explanation": {
+        "en": "Use anything after the negative didn't.",
+        "ru": "После отрицания didn't используйте anything.",
+        "kk": "Болымсыз didn't-тен кейін anything қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The standard pattern avoids a double negative and uses see after did.",
+      "explanation": {
+        "en": "The standard pattern avoids a double negative and uses see after did.",
+        "ru": "Стандартная конструкция избегает двойного отрицания и использует see после did.",
+        "kk": "Стандартты құрылым қос болымсыздықты болдырмайды және did-тен кейін see қолданады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Everybody includes every person in the group.",
+      "explanation": {
+        "en": "Everybody includes every person in the group.",
+        "ru": "Everybody включает каждого человека в группе.",
+        "kk": "Everybody топтағы әр адамды қамтиды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Everyone fits the statement that all people know it.",
+      "explanation": {
+        "en": "Everyone fits the statement that all people know it.",
+        "ru": "Everyone подходит к утверждению, что все люди это знают.",
+        "kk": "Everyone барлық адамдар мұны біледі деген тұжырымға сәйкес келеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Nowhere refers to the absence of a place.",
+      "explanation": {
+        "en": "Nowhere refers to the absence of a place.",
+        "ru": "Nowhere указывает на отсутствие места.",
+        "kk": "Nowhere орынның жоқтығын білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Boring describes the thing that causes the feeling.",
+      "explanation": {
+        "en": "Boring describes the thing that causes the feeling.",
+        "ru": "Boring описывает то, что вызывает чувство.",
+        "kk": "Boring сезімді тудыратын нәрсені сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Bored describes the person's feeling.",
+      "explanation": {
+        "en": "Bored describes the person's feeling.",
+        "ru": "Bored описывает чувство человека.",
+        "kk": "Bored адамның сезімін сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Excited describes how people feel.",
+      "explanation": {
+        "en": "Excited describes how people feel.",
+        "ru": "Excited описывает, что чувствуют люди.",
+        "kk": "Excited адамдардың өзін қалай сезінетінін сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Exciting describes an experience that causes excitement.",
+      "explanation": {
+        "en": "Exciting describes an experience that causes excitement.",
+        "ru": "Exciting описывает опыт, который вызывает волнение.",
+        "kk": "Exciting толқу тудыратын тәжірибені сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Confusing describes the source of the difficulty.",
+      "explanation": {
+        "en": "Confusing describes the source of the difficulty.",
+        "ru": "Confusing описывает источник трудности.",
+        "kk": "Confusing қиындықтың көзін сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Confused describes the person's state.",
+      "explanation": {
+        "en": "Confused describes the person's state.",
+        "ru": "Confused описывает состояние человека.",
+        "kk": "Confused адамның күйін сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Surprised describes the recipient's feeling.",
+      "explanation": {
+        "en": "Surprised describes the recipient's feeling.",
+        "ru": "Surprised описывает чувство того, кто удивлён.",
+        "kk": "Surprised таңғалған адамның сезімін сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Surprising describes news that creates surprise.",
+      "explanation": {
+        "en": "Surprising describes news that creates surprise.",
+        "ru": "Surprising описывает новость, которая вызывает удивление.",
+        "kk": "Surprising таңғалдыратын жаңалықты сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The text says the group stayed home.",
+      "explanation": {
+        "en": "The text says the group stayed home.",
+        "ru": "В тексте сказано, что группа осталась дома.",
+        "kk": "Мәтінде топ үйде қалды деп айтылған."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The -ing adjective describes the activity causing tiredness.",
+      "explanation": {
+        "en": "The -ing adjective describes the activity causing tiredness.",
+        "ru": "Прилагательное на -ing описывает занятие, из-за которого устают.",
+        "kk": "-ing жалғаулы сын есім шаршататын іс-әрекетті сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Something indicates the existence of an unspecified object.",
+      "explanation": {
+        "en": "Something indicates the existence of an unspecified object.",
+        "ru": "Something указывает на существование неопределённого предмета.",
+        "kk": "Something белгісіз заттың бар екенін білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Nowhere open means there was no open place to go to.",
+      "explanation": {
+        "en": "Nowhere open means there was no open place to go to.",
+        "ru": "Nowhere open означает, что не было открытого места, куда можно пойти.",
+        "kk": "Nowhere open баруға болатын ашық орын болмағанын білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Something is usual when offering food or a drink.",
+      "explanation": {
+        "en": "Something is usual when offering food or a drink.",
+        "ru": "Something обычно используют, когда предлагают еду или напиток.",
+        "kk": "Something әдетте тамақ немесе сусын ұсынғанда қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Everyone refers to every person in the group.",
+      "explanation": {
+        "en": "Everyone refers to every person in the group.",
+        "ru": "Everyone относится к каждому человеку в группе.",
+        "kk": "Everyone топтағы әр адамға қатысты."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Relaxing describes something that causes a calm feeling.",
+      "explanation": {
+        "en": "Relaxing describes something that causes a calm feeling.",
+        "ru": "Relaxing описывает то, что вызывает спокойное чувство.",
+        "kk": "Relaxing тыныштық сезімін тудыратын нәрсені сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Disappointed describes how Nina felt when her plan fell through.",
+      "explanation": {
+        "en": "Disappointed describes how Nina felt when her plan fell through.",
+        "ru": "Disappointed описывает, что почувствовала Nina, когда её план сорвался.",
+        "kk": "Disappointed Nina жоспары бұзылғанда не сезінгенін сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "She found both of her gloves, one on each of the two chairs.",
+      "explanation": {
+        "en": "She found both of her gloves, one on each of the two chairs.",
+        "ru": "Она нашла обе перчатки: по одной на каждом из двух стульев.",
+        "kk": "Ол екі қолғабын да тапты: екі орындықтың әрқайсысында біреуден."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

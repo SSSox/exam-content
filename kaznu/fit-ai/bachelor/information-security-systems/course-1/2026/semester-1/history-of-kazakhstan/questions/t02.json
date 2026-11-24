@@ -7,33 +7,61 @@
       "topic_id": 2,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Самая древняя культура палеолита —...",
+      "question": {
+        "ru": "Самая древняя культура палеолита —...",
+        "en": "The most ancient culture of the Paleolithic is...",
+        "kk": "Палеолиттің ең көне мәдениеті —..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "ашельская"
+          "text": {
+            "ru": "ашельская",
+            "en": "Acheulean",
+            "kk": "ашель"
+          }
         },
         {
           "id": "B",
-          "text": "мустьерская"
+          "text": {
+            "ru": "мустьерская",
+            "en": "Mousterian",
+            "kk": "мустье"
+          }
         },
         {
           "id": "C",
-          "text": "олдувайская"
+          "text": {
+            "ru": "олдувайская",
+            "en": "Oldowan",
+            "kk": "олдувай"
+          }
         },
         {
           "id": "D",
-          "text": "ориньякская"
+          "text": {
+            "ru": "ориньякская",
+            "en": "Aurignacian",
+            "kk": "ориньяк"
+          }
         },
         {
           "id": "E",
-          "text": "мадленская"
+          "text": {
+            "ru": "мадленская",
+            "en": "Magdalenian",
+            "kk": "мадлен"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Первой, самой древней культурой палеолита признаётся олдувайская.",
+      "explanation": {
+        "ru": "Первой, самой древней культурой палеолита признаётся олдувайская.",
+        "en": "The Oldowan is recognized as the first, most ancient culture of the Paleolithic.",
+        "kk": "Палеолиттің алғашқы, ең көне мәдениеті олдувай деп танылады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -49,6 +77,12 @@
                 "олдувайская",
                 "олдувай",
                 "олдовайская"
+              ],
+              "en": [
+                "oldowan"
+              ],
+              "kk": [
+                "олдувай"
               ]
             }
           }
@@ -60,33 +94,61 @@
       "topic_id": 2,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Какой была начальная форма общественной организации людей в палеолите?",
+      "question": {
+        "ru": "Какой была начальная форма общественной организации людей в палеолите?",
+        "en": "What was the initial form of social organization of people in the Paleolithic?",
+        "kk": "Палеолит дәуіріндегі адамдардың қоғамдық ұйымының бастапқы нысаны қандай болды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Материнский род"
+          "text": {
+            "ru": "Материнский род",
+            "en": "The maternal clan",
+            "kk": "Аналық ру"
+          }
         },
         {
           "id": "B",
-          "text": "Первобытное стадо"
+          "text": {
+            "ru": "Первобытное стадо",
+            "en": "The primitive herd",
+            "kk": "Алғашқы үйір"
+          }
         },
         {
           "id": "C",
-          "text": "Родовая община"
+          "text": {
+            "ru": "Родовая община",
+            "en": "The clan community",
+            "kk": "Рулық қауым"
+          }
         },
         {
           "id": "D",
-          "text": "Племенной союз"
+          "text": {
+            "ru": "Племенной союз",
+            "en": "The tribal union",
+            "kk": "Тайпалық одақ"
+          }
         },
         {
           "id": "E",
-          "text": "Соседская община"
+          "text": {
+            "ru": "Соседская община",
+            "en": "The neighborhood community",
+            "kk": "Көршілік қауым"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Начальным этапом общественной организации в эпоху палеолита было первобытное стадо (праобщина).",
+      "explanation": {
+        "ru": "Начальным этапом общественной организации в эпоху палеолита было первобытное стадо (праобщина).",
+        "en": "The initial stage of social organization in the Paleolithic era was the primitive herd (proto-community).",
+        "kk": "Палеолит дәуіріндегі қоғамдық ұйымның бастапқы кезеңі алғашқы үйір (прақауым) болды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -99,33 +161,61 @@
       "topic_id": 2,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Важнейшее изобретение эпохи мезолита —...",
+      "question": {
+        "ru": "Важнейшее изобретение эпохи мезолита —...",
+        "en": "The most important invention of the Mesolithic era is...",
+        "kk": "Мезолит дәуірінің аса маңызды өнертабысы —..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "плуг"
+          "text": {
+            "ru": "плуг",
+            "en": "the plow",
+            "kk": "соқа"
+          }
         },
         {
           "id": "B",
-          "text": "колесо"
+          "text": {
+            "ru": "колесо",
+            "en": "the wheel",
+            "kk": "дөңгелек"
+          }
         },
         {
           "id": "C",
-          "text": "гончарный круг"
+          "text": {
+            "ru": "гончарный круг",
+            "en": "the potter's wheel",
+            "kk": "құмыра шығыры"
+          }
         },
         {
           "id": "D",
-          "text": "лук"
+          "text": {
+            "ru": "лук",
+            "en": "the bow",
+            "kk": "садақ"
+          }
         },
         {
           "id": "E",
-          "text": "ткацкий станок"
+          "text": {
+            "ru": "ткацкий станок",
+            "en": "the loom",
+            "kk": "тоқу станогы"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Лекции называют важнейшим изобретением эпохи мезолита лук.",
+      "explanation": {
+        "ru": "Лекции называют важнейшим изобретением эпохи мезолита лук.",
+        "en": "The lectures name the bow as the most important invention of the Mesolithic era.",
+        "kk": "Дәрістер мезолит дәуірінің аса маңызды өнертабысы деп садақты атайды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -138,33 +228,61 @@
       "topic_id": 2,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Первый искусственный материал, который научился изготовлять человек, —...",
+      "question": {
+        "ru": "Первый искусственный материал, который научился изготовлять человек, —...",
+        "en": "The first artificial material that humans learned to make is...",
+        "kk": "Адам жасай білген алғашқы жасанды материал —..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "керамика"
+          "text": {
+            "ru": "керамика",
+            "en": "ceramics",
+            "kk": "керамика"
+          }
         },
         {
           "id": "B",
-          "text": "бронза"
+          "text": {
+            "ru": "бронза",
+            "en": "bronze",
+            "kk": "қола"
+          }
         },
         {
           "id": "C",
-          "text": "стекло"
+          "text": {
+            "ru": "стекло",
+            "en": "glass",
+            "kk": "әйнек"
+          }
         },
         {
           "id": "D",
-          "text": "железо"
+          "text": {
+            "ru": "железо",
+            "en": "iron",
+            "kk": "темір"
+          }
         },
         {
           "id": "E",
-          "text": "бумага"
+          "text": {
+            "ru": "бумага",
+            "en": "paper",
+            "kk": "қағаз"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "В неолите человечество научилось изготовлять первый искусственный материал — керамику.",
+      "explanation": {
+        "ru": "В неолите человечество научилось изготовлять первый искусственный материал — керамику.",
+        "en": "In the Neolithic humanity learned to make the first artificial material, ceramics.",
+        "kk": "Неолитте адамзат алғашқы жасанды материалды — керамиканы жасай бастады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -177,33 +295,61 @@
       "topic_id": 2,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Внутри андроновской культурной общности в Казахстане сформировались алакульская и...",
+      "question": {
+        "ru": "Внутри андроновской культурной общности в Казахстане сформировались алакульская и...",
+        "en": "Within the Andronovo cultural community in Kazakhstan the Alakul and ... cultures formed.",
+        "kk": "Қазақстандағы андронов мәдени бірлестігінің ішінде алакөл және ... мәдениеттері қалыптасты."
+      },
       "options": [
         {
           "id": "A",
-          "text": "ботайская"
+          "text": {
+            "ru": "ботайская",
+            "en": "Botai",
+            "kk": "ботай"
+          }
         },
         {
           "id": "B",
-          "text": "тасмолинская"
+          "text": {
+            "ru": "тасмолинская",
+            "en": "Tasmola",
+            "kk": "тасмола"
+          }
         },
         {
           "id": "C",
-          "text": "федоровская"
+          "text": {
+            "ru": "федоровская",
+            "en": "Fedorovo",
+            "kk": "федоров"
+          }
         },
         {
           "id": "D",
-          "text": "карасукская"
+          "text": {
+            "ru": "карасукская",
+            "en": "Karasuk",
+            "kk": "карасук"
+          }
         },
         {
           "id": "E",
-          "text": "афанасьевская"
+          "text": {
+            "ru": "афанасьевская",
+            "en": "Afanasievo",
+            "kk": "афанасьев"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Внутри андроновского единства сформировались алакульская культура (Центральный и Западный Казахстан) и федоровская (Восточный Казахстан).",
+      "explanation": {
+        "ru": "Внутри андроновского единства сформировались алакульская культура (Центральный и Западный Казахстан) и федоровская (Восточный Казахстан).",
+        "en": "Within the Andronovo unity the Alakul culture (Central and Western Kazakhstan) and the Fedorovo culture (Eastern Kazakhstan) formed.",
+        "kk": "Андронов бірлестігінің ішінде алакөл мәдениеті (Орталық және Батыс Қазақстан) мен федоров мәдениеті (Шығыс Қазақстан) қалыптасты."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -218,6 +364,12 @@
               "ru": [
                 "федоровская",
                 "федоровская культура"
+              ],
+              "en": [
+                "fedorovo"
+              ],
+              "kk": [
+                "федоров"
               ]
             }
           }
@@ -229,33 +381,61 @@
       "topic_id": 2,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Бронза — это сплав меди и...",
+      "question": {
+        "ru": "Бронза — это сплав меди и...",
+        "en": "Bronze is an alloy of copper and...",
+        "kk": "Қола — мыс пен ... құймасы."
+      },
       "options": [
         {
           "id": "A",
-          "text": "олова"
+          "text": {
+            "ru": "олова",
+            "en": "tin",
+            "kk": "қалайы"
+          }
         },
         {
           "id": "B",
-          "text": "железа"
+          "text": {
+            "ru": "железа",
+            "en": "iron",
+            "kk": "темір"
+          }
         },
         {
           "id": "C",
-          "text": "золота"
+          "text": {
+            "ru": "золота",
+            "en": "gold",
+            "kk": "алтын"
+          }
         },
         {
           "id": "D",
-          "text": "серебра"
+          "text": {
+            "ru": "серебра",
+            "en": "silver",
+            "kk": "күміс"
+          }
         },
         {
           "id": "E",
-          "text": "никеля"
+          "text": {
+            "ru": "никеля",
+            "en": "nickel",
+            "kk": "никель"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Бронза представляет собой сплав меди и олова.",
+      "explanation": {
+        "ru": "Бронза представляет собой сплав меди и олова.",
+        "en": "Bronze is an alloy of copper and tin.",
+        "kk": "Қола — мыс пен қалайының құймасы."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -269,6 +449,12 @@
             "accept": {
               "ru": [
                 "олово"
+              ],
+              "en": [
+                "tin"
+              ],
+              "kk": [
+                "қалайы"
               ]
             }
           }
@@ -280,33 +466,61 @@
       "topic_id": 2,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "В 1959 г. раскопки стоянки в пещере Караунгур провёл...",
+      "question": {
+        "ru": "В 1959 г. раскопки стоянки в пещере Караунгур провёл...",
+        "en": "In 1959 the excavation of the site in the Karaungur cave was carried out by...",
+        "kk": "1959 жылы Қараүңгір үңгіріндегі тұрақты қазуды ... жүргізді."
+      },
       "options": [
         {
           "id": "A",
-          "text": "А.Х. Маргулан"
+          "text": {
+            "ru": "А.Х. Маргулан",
+            "en": "A.Kh. Margulan",
+            "kk": "Ә.Х. Марғұлан"
+          }
         },
         {
           "id": "B",
-          "text": "С.С. Черников"
+          "text": {
+            "ru": "С.С. Черников",
+            "en": "S.S. Chernikov",
+            "kk": "С.С. Черников"
+          }
         },
         {
           "id": "C",
-          "text": "Ж.К. Таймагамбетов"
+          "text": {
+            "ru": "Ж.К. Таймагамбетов",
+            "en": "Zh.K. Taimagambetov",
+            "kk": "Ж.Қ. Таймағамбетов"
+          }
         },
         {
           "id": "D",
-          "text": "А.Г. Медоев"
+          "text": {
+            "ru": "А.Г. Медоев",
+            "en": "A.G. Medoev",
+            "kk": "А.Г. Медоев"
+          }
         },
         {
           "id": "E",
-          "text": "Х.А. Алпысбаев"
+          "text": {
+            "ru": "Х.А. Алпысбаев",
+            "en": "Kh.A. Alpysbaev",
+            "kk": "Х.А. Алпысбаев"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Раскопки неолитической стоянки в пещере Караунгур в 1959 г. провёл Х.А. Алпысбаев.",
+      "explanation": {
+        "ru": "Раскопки неолитической стоянки в пещере Караунгур в 1959 г. провёл Х.А. Алпысбаев.",
+        "en": "The excavation of the Neolithic site in the Karaungur cave in 1959 was carried out by Kh.A. Alpysbaev.",
+        "kk": "1959 жылы Қараүңгір үңгіріндегі неолит тұрағын қазуды Х.А. Алпысбаев жүргізді."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -319,27 +533,51 @@
       "topic_id": 2,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "Слияние природы и человека в ранних религиозных представлениях нашло отражение в:",
+      "question": {
+        "ru": "Слияние природы и человека в ранних религиозных представлениях нашло отражение в:",
+        "en": "The fusion of nature and humans in early religious beliefs was reflected in:",
+        "kk": "Ерте діни түсініктердегі табиғат пен адамның бірігуі мынада көрініс тапты:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "тотемизме"
+          "text": {
+            "ru": "тотемизме",
+            "en": "totemism",
+            "kk": "тотемизмде"
+          }
         },
         {
           "id": "B",
-          "text": "буддизме"
+          "text": {
+            "ru": "буддизме",
+            "en": "Buddhism",
+            "kk": "буддизмде"
+          }
         },
         {
           "id": "C",
-          "text": "монотеизме"
+          "text": {
+            "ru": "монотеизме",
+            "en": "monotheism",
+            "kk": "монотеизмде"
+          }
         },
         {
           "id": "D",
-          "text": "фетишизме"
+          "text": {
+            "ru": "фетишизме",
+            "en": "fetishism",
+            "kk": "фетишизмде"
+          }
         },
         {
           "id": "E",
-          "text": "анимизме"
+          "text": {
+            "ru": "анимизме",
+            "en": "animism",
+            "kk": "анимизмде"
+          }
         }
       ],
       "correct_answers": [
@@ -347,7 +585,11 @@
         "D",
         "E"
       ],
-      "explanation": "Слияние природы и человека в ранних религиозных представлениях отразилось в тотемизме, фетишизме, анимизме и магии.",
+      "explanation": {
+        "ru": "Слияние природы и человека в ранних религиозных представлениях отразилось в тотемизме, фетишизме, анимизме и магии.",
+        "en": "The fusion of nature and humans in early religious beliefs was reflected in totemism, fetishism, animism and magic.",
+        "kk": "Ерте діни түсініктердегі табиғат пен адамның бірігуі тотемизмде, фетишизмде, анимизмде және сиқырда көрініс тапты."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -360,27 +602,51 @@
       "topic_id": 2,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "К новым приёмам обработки камня в эпоху неолита относятся:",
+      "question": {
+        "ru": "К новым приёмам обработки камня в эпоху неолита относятся:",
+        "en": "The new methods of stone working in the Neolithic era include:",
+        "kk": "Неолит дәуіріндегі тасты өңдеудің жаңа тәсілдеріне жатады:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "литьё"
+          "text": {
+            "ru": "литьё",
+            "en": "casting",
+            "kk": "құю"
+          }
         },
         {
           "id": "B",
-          "text": "шлифование"
+          "text": {
+            "ru": "шлифование",
+            "en": "grinding",
+            "kk": "егеу"
+          }
         },
         {
           "id": "C",
-          "text": "сверление"
+          "text": {
+            "ru": "сверление",
+            "en": "drilling",
+            "kk": "бұрғылау"
+          }
         },
         {
           "id": "D",
-          "text": "ковка железа"
+          "text": {
+            "ru": "ковка железа",
+            "en": "iron forging",
+            "kk": "темірді соғу"
+          }
         },
         {
           "id": "E",
-          "text": "пиление"
+          "text": {
+            "ru": "пиление",
+            "en": "sawing",
+            "kk": "кесу"
+          }
         }
       ],
       "correct_answers": [
@@ -388,7 +654,11 @@
         "C",
         "E"
       ],
-      "explanation": "Для неолита лекции называют новые приёмы обработки камня: шлифование, сверление, пиление.",
+      "explanation": {
+        "ru": "Для неолита лекции называют новые приёмы обработки камня: шлифование, сверление, пиление.",
+        "en": "For the Neolithic the lectures name the new methods of stone working: grinding, drilling, sawing.",
+        "kk": "Неолит үшін дәрістер тасты өңдеудің жаңа тәсілдерін атайды: егеу, бұрғылау, кесу."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -401,33 +671,61 @@
       "topic_id": 2,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Основная часть изображений солнечных божеств в святилище Тамгалы относится к эпохе...",
+      "question": {
+        "ru": "Основная часть изображений солнечных божеств в святилище Тамгалы относится к эпохе...",
+        "en": "Most of the images of solar deities in the Tamgaly sanctuary belong to the era of...",
+        "kk": "Тамғалы киелі орнындағы күн құдайлары бейнелерінің басым бөлігі ... дәуіріне жатады."
+      },
       "options": [
         {
           "id": "A",
-          "text": "палеолита"
+          "text": {
+            "ru": "палеолита",
+            "en": "the Paleolithic",
+            "kk": "палеолит"
+          }
         },
         {
           "id": "B",
-          "text": "мезолита"
+          "text": {
+            "ru": "мезолита",
+            "en": "the Mesolithic",
+            "kk": "мезолит"
+          }
         },
         {
           "id": "C",
-          "text": "неолита"
+          "text": {
+            "ru": "неолита",
+            "en": "the Neolithic",
+            "kk": "неолит"
+          }
         },
         {
           "id": "D",
-          "text": "бронзы"
+          "text": {
+            "ru": "бронзы",
+            "en": "the Bronze Age",
+            "kk": "қола"
+          }
         },
         {
           "id": "E",
-          "text": "средневековья"
+          "text": {
+            "ru": "средневековья",
+            "en": "the Middle Ages",
+            "kk": "орта ғасыр"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Основная часть 25 изображений солнечных божеств в Тамгалы датируется XIV–XI вв. до н.э., то есть эпохой бронзы.",
+      "explanation": {
+        "ru": "Основная часть 25 изображений солнечных божеств в Тамгалы датируется XIV–XI вв. до н.э., то есть эпохой бронзы.",
+        "en": "Most of the 25 images of solar deities in Tamgaly date to the 14th–11th centuries BC, that is, to the Bronze Age.",
+        "kk": "Тамғалыдағы күн құдайларының 25 бейнесінің басым бөлігі б.з.д. XIV–XI ғасырларға, яғни қола дәуіріне жатады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -440,33 +738,61 @@
       "topic_id": 2,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Ботайская культура Северного Казахстана относится к эпохе...",
+      "question": {
+        "ru": "Ботайская культура Северного Казахстана относится к эпохе...",
+        "en": "The Botai culture of Northern Kazakhstan belongs to the era of...",
+        "kk": "Солтүстік Қазақстанның ботай мәдениеті ... дәуіріне жатады."
+      },
       "options": [
         {
           "id": "A",
-          "text": "палеолита"
+          "text": {
+            "ru": "палеолита",
+            "en": "the Paleolithic",
+            "kk": "палеолит"
+          }
         },
         {
           "id": "B",
-          "text": "мезолита"
+          "text": {
+            "ru": "мезолита",
+            "en": "the Mesolithic",
+            "kk": "мезолит"
+          }
         },
         {
           "id": "C",
-          "text": "энеолита"
+          "text": {
+            "ru": "энеолита",
+            "en": "the Eneolithic",
+            "kk": "энеолит"
+          }
         },
         {
           "id": "D",
-          "text": "бронзы"
+          "text": {
+            "ru": "бронзы",
+            "en": "the Bronze Age",
+            "kk": "қола"
+          }
         },
         {
           "id": "E",
-          "text": "раннего железа"
+          "text": {
+            "ru": "раннего железа",
+            "en": "the Early Iron Age",
+            "kk": "ерте темір"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Ботайская культура датируется примерно 3700–3100 гг. до н.э., то есть энеолитом.",
+      "explanation": {
+        "ru": "Ботайская культура датируется примерно 3700–3100 гг. до н.э., то есть энеолитом.",
+        "en": "The Botai culture dates to approximately 3700–3100 BC, that is, to the Eneolithic.",
+        "kk": "Ботай мәдениеті шамамен б.з.д. 3700–3100 жылдарға, яғни энеолитке жатады."
+      },
       "source_references": [
         {
           "url": "https://ru.wikipedia.org/wiki/Ботайская_культура",
@@ -479,33 +805,61 @@
       "topic_id": 2,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "В эпоху бронзы материнский род сменился...",
+      "question": {
+        "ru": "В эпоху бронзы материнский род сменился...",
+        "en": "In the Bronze Age the maternal clan was replaced by...",
+        "kk": "Қола дәуірінде аналық ру ... ауыстырылды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "первобытным стадом"
+          "text": {
+            "ru": "первобытным стадом",
+            "en": "the primitive herd",
+            "kk": "алғашқы үйірмен"
+          }
         },
         {
           "id": "B",
-          "text": "отцовским родом"
+          "text": {
+            "ru": "отцовским родом",
+            "en": "the paternal clan",
+            "kk": "аталық румен"
+          }
         },
         {
           "id": "C",
-          "text": "рабовладельческим строем"
+          "text": {
+            "ru": "рабовладельческим строем",
+            "en": "the slave-owning system",
+            "kk": "құл иеленушілік құрылыспен"
+          }
         },
         {
           "id": "D",
-          "text": "племенным союзом"
+          "text": {
+            "ru": "племенным союзом",
+            "en": "the tribal union",
+            "kk": "тайпалық одақпен"
+          }
         },
         {
           "id": "E",
-          "text": "городской общиной"
+          "text": {
+            "ru": "городской общиной",
+            "en": "the urban community",
+            "kk": "қалалық қауыммен"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "В эпоху бронзы материнский род сменился отцовским, усилилась имущественная дифференциация.",
+      "explanation": {
+        "ru": "В эпоху бронзы материнский род сменился отцовским, усилилась имущественная дифференциация.",
+        "en": "In the Bronze Age the maternal clan was replaced by the paternal clan, and property differentiation increased.",
+        "kk": "Қола дәуірінде аналық ру аталық руға ауысты, мүліктік саралану күшейді."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -518,27 +872,51 @@
       "topic_id": 2,
       "difficulty_level": 3,
       "type": "multiple_choice",
-      "question": "Укажите памятники палеолита Казахстана.",
+      "question": {
+        "ru": "Укажите памятники палеолита Казахстана.",
+        "en": "Indicate the Paleolithic sites of Kazakhstan.",
+        "kk": "Қазақстанның палеолит ескерткіштерін көрсетіңіз."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Борыказган"
+          "text": {
+            "ru": "Борыказган",
+            "en": "Borykazgan",
+            "kk": "Борықазған"
+          }
         },
         {
           "id": "B",
-          "text": "Караунгур"
+          "text": {
+            "ru": "Караунгур",
+            "en": "Karaungur",
+            "kk": "Қараүңгір"
+          }
         },
         {
           "id": "C",
-          "text": "Токалы"
+          "text": {
+            "ru": "Токалы",
+            "en": "Tokaly",
+            "kk": "Тоқалы"
+          }
         },
         {
           "id": "D",
-          "text": "Кемер"
+          "text": {
+            "ru": "Кемер",
+            "en": "Kemer",
+            "kk": "Кемер"
+          }
         },
         {
           "id": "E",
-          "text": "Шатпакколь"
+          "text": {
+            "ru": "Шатпакколь",
+            "en": "Shatpakkol",
+            "kk": "Шатпаққөл"
+          }
         }
       ],
       "correct_answers": [
@@ -546,7 +924,11 @@
         "C",
         "D"
       ],
-      "explanation": "Борыказган, Токалы и Кемер относятся к палеолиту, а Караунгур и Шатпакколь к неолиту.",
+      "explanation": {
+        "ru": "Борыказган, Токалы и Кемер относятся к палеолиту, а Караунгур и Шатпакколь к неолиту.",
+        "en": "Borykazgan, Tokaly and Kemer belong to the Paleolithic, while Karaungur and Shatpakkol belong to the Neolithic.",
+        "kk": "Борықазған, Тоқалы және Кемер палеолитке жатады, ал Қараүңгір мен Шатпаққөл неолитке жатады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -563,33 +945,61 @@
       "topic_id": 2,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Что в первую очередь привело к переходу степных племён Казахстана к кочевому скотоводству?",
+      "question": {
+        "ru": "Что в первую очередь привело к переходу степных племён Казахстана к кочевому скотоводству?",
+        "en": "What primarily led the steppe tribes of Kazakhstan to switch to nomadic pastoralism?",
+        "kk": "Қазақстанның дала тайпаларының көшпелі мал шаруашылығына көшуіне ең алдымен не себеп болды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Освоение железной металлургии"
+          "text": {
+            "ru": "Освоение железной металлургии",
+            "en": "The mastery of iron metallurgy",
+            "kk": "Темір металлургиясын игеру"
+          }
         },
         {
           "id": "B",
-          "text": "Появление городов-государств"
+          "text": {
+            "ru": "Появление городов-государств",
+            "en": "The emergence of city-states",
+            "kk": "Қала-мемлекеттердің пайда болуы"
+          }
         },
         {
           "id": "C",
-          "text": "Нашествие чужеземных племён"
+          "text": {
+            "ru": "Нашествие чужеземных племён",
+            "en": "The invasion of foreign tribes",
+            "kk": "Жат тайпалардың басып кіруі"
+          }
         },
         {
           "id": "D",
-          "text": "Развитие мотыжного земледелия"
+          "text": {
+            "ru": "Развитие мотыжного земледелия",
+            "en": "The development of hoe farming",
+            "kk": "Шапқымен егіншіліктің дамуы"
+          }
         },
         {
           "id": "E",
-          "text": "Усиление засушливости климата"
+          "text": {
+            "ru": "Усиление засушливости климата",
+            "en": "Increasing aridity of the climate",
+            "kk": "Климаттың құрғақшылығының күшеюі"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "К перестройке экономики вели прежде всего природно-климатические изменения: климат становился суше.",
+      "explanation": {
+        "ru": "К перестройке экономики вели прежде всего природно-климатические изменения: климат становился суше.",
+        "en": "The restructuring of the economy was driven primarily by natural and climatic changes: the climate was becoming drier.",
+        "kk": "Экономиканың қайта құрылуына ең алдымен табиғи-климаттық өзгерістер себеп болды: климат құрғақтана түсті."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -602,33 +1012,61 @@
       "topic_id": 2,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Какое суждение об андроновской культуре верно?",
+      "question": {
+        "ru": "Какое суждение об андроновской культуре верно?",
+        "en": "Which statement about the Andronovo culture is true?",
+        "kk": "Андронов мәдениеті туралы қай пікір дұрыс?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Андроновцы занимались только охотой и собирательством, не зная скотоводства"
+          "text": {
+            "ru": "Андроновцы занимались только охотой и собирательством, не зная скотоводства",
+            "en": "The Andronovo people engaged only in hunting and gathering and did not know pastoralism",
+            "kk": "Андронов тайпалары тек аң аулаумен және жинаушылықпен айналысты, мал шаруашылығын білмеді"
+          }
         },
         {
           "id": "B",
-          "text": "Этническая принадлежность андроновцев спорна: есть индоиранская, финно-угорская и тюркская версии"
+          "text": {
+            "ru": "Этническая принадлежность андроновцев спорна: есть индоиранская, финно-угорская и тюркская версии",
+            "en": "The ethnic affiliation of the Andronovo people is disputed: there are Indo-Iranian, Finno-Ugric and Turkic versions",
+            "kk": "Андронов тайпаларының этностық тиесілігі даулы: үнді-иран, фин-угор және түркі нұсқалары бар"
+          }
         },
         {
           "id": "C",
-          "text": "Памятники андроновской культуры найдены только на территории современного Казахстана"
+          "text": {
+            "ru": "Памятники андроновской культуры найдены только на территории современного Казахстана",
+            "en": "Andronovo culture sites have been found only on the territory of modern Kazakhstan",
+            "kk": "Андронов мәдениетінің ескерткіштері тек қазіргі Қазақстан аумағынан ғана табылған"
+          }
         },
         {
           "id": "D",
-          "text": "Андроновцы хоронили умерших только в земле и не знали обряда трупосожжения"
+          "text": {
+            "ru": "Андроновцы хоронили умерших только в земле и не знали обряда трупосожжения",
+            "en": "The Andronovo people buried their dead only in the ground and did not know the rite of cremation",
+            "kk": "Андронов тайпалары өлгендерді тек жерге жерледі, мәйітті өртеу рәсімін білмеді"
+          }
         },
         {
           "id": "E",
-          "text": "Как единая общность андроновская культура оформилась в Казахстане к VIII–VII вв. до н.э."
+          "text": {
+            "ru": "Как единая общность андроновская культура оформилась в Казахстане к VIII–VII вв. до н.э.",
+            "en": "As a single community the Andronovo culture took shape in Kazakhstan by the 8th–7th centuries BC",
+            "kk": "Бірыңғай бірлестік ретінде андронов мәдениеті Қазақстанда б.з.д. VIII–VII ғасырларға қарай қалыптасты"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Этническая принадлежность андроновцев спорна: выдвигались финно-угорская, индоиранская и тюркская гипотезы.",
+      "explanation": {
+        "ru": "Этническая принадлежность андроновцев спорна: выдвигались финно-угорская, индоиранская и тюркская гипотезы.",
+        "en": "The ethnic affiliation of the Andronovo people is disputed: Finno-Ugric, Indo-Iranian and Turkic hypotheses have been put forward.",
+        "kk": "Андронов тайпаларының этностық тиесілігі даулы: фин-угор, үнді-иран және түркі болжамдары ұсынылды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",

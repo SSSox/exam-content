@@ -33,7 +33,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Use the -s form with a third-person singular subject.",
+      "explanation": {
+        "en": "Use the -s form with a third-person singular subject.",
+        "ru": "С подлежащим в 3-м лице единственного числа используйте форму на -s.",
+        "kk": "Жекеше 3-жақтағы бастауышпен -s формасы қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Use the base form with we in the present simple.",
+      "explanation": {
+        "en": "Use the base form with we in the present simple.",
+        "ru": "С we в present simple используйте начальную форму.",
+        "kk": "Present simple-де we-мен етістіктің негізгі формасы қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "After doesn't, use the base form drink.",
+      "explanation": {
+        "en": "After doesn't, use the base form drink.",
+        "ru": "После doesn't используйте начальную форму drink.",
+        "kk": "Doesn't-тен кейін негізгі форма drink қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Use do with the plural subject your parents.",
+      "explanation": {
+        "en": "Use do with the plural subject your parents.",
+        "ru": "С подлежащим во множественном числе your parents используйте do.",
+        "kk": "Көпше бастауыш your parents-пен do қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Present simple third-person singular needs walks.",
+      "explanation": {
+        "en": "Present simple third-person singular needs walks.",
+        "ru": "Для 3-го лица единственного числа в present simple нужно walks.",
+        "kk": "Present simple-де жекеше 3-жаққа walks қажет."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Never fits the meaning of arriving early every time.",
+      "explanation": {
+        "en": "Never fits the meaning of arriving early every time.",
+        "ru": "Never подходит по смыслу к ситуации, когда человек всегда приходит рано.",
+        "kk": "Never әр жолы ерте келу мағынасына сәйкес келеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use does with she in a present simple question.",
+      "explanation": {
+        "en": "Use does with she in a present simple question.",
+        "ru": "С she в вопросе present simple используйте does.",
+        "kk": "Present simple сұрағында she-мен does қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Match the auxiliary does in the question.",
+      "explanation": {
+        "en": "Match the auxiliary does in the question.",
+        "ru": "Выберите вспомогательный глагол does, как в вопросе.",
+        "kk": "Сұрақтағыдай көмекші етістік does таңдаңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "A regular schedule can use the present simple.",
+      "explanation": {
+        "en": "A regular schedule can use the present simple.",
+        "ru": "Для регулярного расписания можно использовать present simple.",
+        "kk": "Тұрақты кесте үшін present simple қолдануға болады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use don't with I before a base verb.",
+      "explanation": {
+        "en": "Use don't with I before a base verb.",
+        "ru": "С I перед начальной формой глагола используйте don't.",
+        "kk": "I-мен етістіктің негізгі формасының алдында don't қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Doesn't is followed by the base form drive.",
+      "explanation": {
+        "en": "Doesn't is followed by the base form drive.",
+        "ru": "После doesn't идёт начальная форма drive.",
+        "kk": "Doesn't-тен кейін негізгі форма drive тұрады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "What does someone do asks about their job.",
+      "explanation": {
+        "en": "What does someone do asks about their job.",
+        "ru": "What does someone do спрашивает о работе человека.",
+        "kk": "What does someone do адамның жұмысын сұрайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "A plural subject takes study.",
+      "explanation": {
+        "en": "A plural subject takes study.",
+        "ru": "Подлежащее во множественном числе требует study.",
+        "kk": "Көпше бастауыш study формасын талап етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Monday to Friday are weekdays, when Omar cycles.",
+      "explanation": {
+        "en": "Monday to Friday are weekdays, when Omar cycles.",
+        "ru": "С понедельника по пятницу — будние дни, когда Omar ездит на велосипеде.",
+        "kk": "Дүйсенбіден жұмаға дейін — Omar велосипедпен жүретін жұмыс күндері."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Generous describes willingness to give or share.",
+      "explanation": {
+        "en": "Generous describes willingness to give or share.",
+        "ru": "Generous описывает готовность давать или делиться.",
+        "kk": "Generous бөлісуге, беруге дайын болуды сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Lazy means unwilling to work or make an effort.",
+      "explanation": {
+        "en": "Lazy means unwilling to work or make an effort.",
+        "ru": "Lazy значит нежелающий работать или прилагать усилия.",
+        "kk": "Lazy — жұмыс істегісі немесе күш салғысы келмейтін дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Shy describes nervousness in social situations.",
+      "explanation": {
+        "en": "Shy describes nervousness in social situations.",
+        "ru": "Shy описывает робость в общении с людьми.",
+        "kk": "Shy әлеуметтік жағдайларда ұялшақтықты сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Honest describes truthful behaviour.",
+      "explanation": {
+        "en": "Honest describes truthful behaviour.",
+        "ru": "Honest описывает правдивое поведение.",
+        "kk": "Honest шыншыл мінез-құлықты сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Straight hair does not have curls.",
+      "explanation": {
+        "en": "Straight hair does not have curls.",
+        "ru": "Straight hair — прямые волосы без завитков.",
+        "kk": "Straight hair — бұйра емес, тіп-тік шаш."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Look like asks about physical appearance.",
+      "explanation": {
+        "en": "Look like asks about physical appearance.",
+        "ru": "Look like спрашивает о внешности.",
+        "kk": "Look like сыртқы келбетті сұрайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Be like can ask for a description of personality.",
+      "explanation": {
+        "en": "Be like can ask for a description of personality.",
+        "ru": "Be like может спрашивать описание характера.",
+        "kk": "Be like мінезді сипаттауды сұрауы мүмкін."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "After the voiceless /k/, the ending is /s/.",
+      "explanation": {
+        "en": "After the voiceless /k/, the ending is /s/.",
+        "ru": "После глухого /k/ окончание — /s/.",
+        "kk": "Қатаң /k/-дан кейін жалғау /s/ болады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "After /tʃ/, the ending adds the syllable /ɪz/.",
+      "explanation": {
+        "en": "After /tʃ/, the ending adds the syllable /ɪz/.",
+        "ru": "После /tʃ/ окончание добавляет слог /ɪz/.",
+        "kk": "/tʃ/-тан кейін жалғау /ɪz/ буынын қосады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The behaviour described is polite.",
+      "explanation": {
+        "en": "The behaviour described is polite.",
+        "ru": "Описанное поведение — вежливое.",
+        "kk": "Сипатталған мінез-құлық — сыпайы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "With he or she, change a consonant + y to -ies in carries.",
+      "explanation": {
+        "en": "With he or she, change a consonant + y to -ies in carries.",
+        "ru": "С he или she согласная + y меняется на -ies: carries.",
+        "kk": "He немесе she-мен жуан дауыссыз + y -ies-ке ауысады: carries."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The subject is plural, and the short answer repeats do.",
+      "explanation": {
+        "en": "The subject is plural, and the short answer repeats do.",
+        "ru": "Подлежащее во множественном числе, поэтому в краткий ответ повторяется do.",
+        "kk": "Бастауыш көпше, сондықтан қысқа жауапта do қайталанады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "An outgoing person enjoys meeting people and talking to them.",
+      "explanation": {
+        "en": "An outgoing person enjoys meeting people and talking to them.",
+        "ru": "Общительный человек любит знакомиться с людьми и разговаривать с ними.",
+        "kk": "Ашық-жарқын адам адамдармен танысып, сөйлесуді жақсы көреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Hair length and shape are details of appearance.",
+      "explanation": {
+        "en": "Hair length and shape are details of appearance.",
+        "ru": "Длина и форма волос — детали внешности.",
+        "kk": "Шаштың ұзындығы мен пішіні — сыртқы келбеттің бөлшектері."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "How often asks how frequently something happens.",
+      "explanation": {
+        "en": "How often asks how frequently something happens.",
+        "ru": "How often спрашивает, как часто что-то происходит.",
+        "kk": "How often бір нәрсенің қаншалықты жиі болатынын сұрайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1193,7 +1309,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Fix ends in /ks/ and miss ends in /s/. Adding -es gives an extra /ɪz/ syllable.",
+      "explanation": {
+        "en": "Fix ends in /ks/ and miss ends in /s/. Adding -es gives an extra /ɪz/ syllable.",
+        "ru": "Fix оканчивается на /ks/, а miss — на /s/. Добавление -es даёт лишний слог /ɪz/.",
+        "kk": "Fix /ks/-пен, ал miss /s/-пен аяқталады. -es қосқанда қосымша /ɪz/ буыны пайда болады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1233,7 +1353,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "He thinks about other people’s needs and gives them time to speak.",
+      "explanation": {
+        "en": "He thinks about other people’s needs and gives them time to speak.",
+        "ru": "Он думает о потребностях других людей и даёт им время высказаться.",
+        "kk": "Ол басқа адамдардың қажеттілігін ойлайды және оларға сөйлеуге уақыт береді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

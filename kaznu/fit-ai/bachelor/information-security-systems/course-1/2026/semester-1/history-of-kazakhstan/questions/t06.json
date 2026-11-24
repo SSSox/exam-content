@@ -7,33 +7,61 @@
       "topic_id": 6,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Термин «Великий шёлковый путь» в 1877 г. предложил немецкий географ...",
+      "question": {
+        "ru": "Термин «Великий шёлковый путь» в 1877 г. предложил немецкий географ...",
+        "en": "The term \"Great Silk Road\" was proposed in 1877 by the German geographer...",
+        "kk": "«Ұлы Жібек жолы» терминін 1877 жылы неміс географы ... ұсынды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Александр Гумбольдт"
+          "text": {
+            "ru": "Александр Гумбольдт",
+            "en": "Alexander Humboldt",
+            "kk": "Александр Гумбольдт"
+          }
         },
         {
           "id": "B",
-          "text": "Фердинанд Рихтгофен"
+          "text": {
+            "ru": "Фердинанд Рихтгофен",
+            "en": "Ferdinand von Richthofen",
+            "kk": "Фердинанд Рихтгофен"
+          }
         },
         {
           "id": "C",
-          "text": "Карл Риттер"
+          "text": {
+            "ru": "Карл Риттер",
+            "en": "Carl Ritter",
+            "kk": "Карл Риттер"
+          }
         },
         {
           "id": "D",
-          "text": "Свен Хедин"
+          "text": {
+            "ru": "Свен Хедин",
+            "en": "Sven Hedin",
+            "kk": "Свен Хедин"
+          }
         },
         {
           "id": "E",
-          "text": "Николай Пржевальский"
+          "text": {
+            "ru": "Николай Пржевальский",
+            "en": "Nikolay Przhevalsky",
+            "kk": "Николай Пржевальский"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Термин «шёлковый путь» предложил в 1877 г. немецкий географ Ф. Рихтгофен.",
+      "explanation": {
+        "ru": "Термин «шёлковый путь» предложил в 1877 г. немецкий географ Ф. Рихтгофен.",
+        "en": "The term \"Silk Road\" was proposed in 1877 by the German geographer F. von Richthofen.",
+        "kk": "«Жібек жолы» терминін 1877 жылы неміс географы Ф. Рихтгофен ұсынды."
+      },
       "source_references": [
         {
           "file": "Лекции/лекция 11. Культура номадов.docx",
@@ -51,6 +79,12 @@
                 "Фердинанд Рихтгофен",
                 "Фердинанд фон Рихтгофен",
                 "Ф. Рихтгофен"
+              ],
+              "en": [
+                "ferdinand von richthofen"
+              ],
+              "kk": [
+                "фердинанд рихтгофен"
               ]
             }
           }
@@ -62,27 +96,51 @@
       "topic_id": 6,
       "difficulty_level": 1,
       "type": "multiple_choice",
-      "question": "Назовите города Великого шёлкового пути на территории современного Казахстана.",
+      "question": {
+        "ru": "Назовите города Великого шёлкового пути на территории современного Казахстана.",
+        "en": "Name the cities of the Great Silk Road on the territory of present-day Kazakhstan.",
+        "kk": "Қазіргі Қазақстан аумағындағы Ұлы Жібек жолындағы қалаларды атаңыз."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Самарканд"
+          "text": {
+            "ru": "Самарканд",
+            "en": "Samarkand",
+            "kk": "Самарқан"
+          }
         },
         {
           "id": "B",
-          "text": "Отрар"
+          "text": {
+            "ru": "Отрар",
+            "en": "Otrar",
+            "kk": "Отырар"
+          }
         },
         {
           "id": "C",
-          "text": "Кашгар"
+          "text": {
+            "ru": "Кашгар",
+            "en": "Kashgar",
+            "kk": "Қашғар"
+          }
         },
         {
           "id": "D",
-          "text": "Тараз"
+          "text": {
+            "ru": "Тараз",
+            "en": "Taraz",
+            "kk": "Тараз"
+          }
         },
         {
           "id": "E",
-          "text": "Туркестан (Яссы)"
+          "text": {
+            "ru": "Туркестан (Яссы)",
+            "en": "Turkestan (Yassy)",
+            "kk": "Түркістан (Яссы)"
+          }
         }
       ],
       "correct_answers": [
@@ -90,7 +148,11 @@
         "D",
         "E"
       ],
-      "explanation": "Отрар, Тараз и Туркестан (Яссы) лежали на казахстанском участке пути; Самарканд и Кашгар — за его пределами.",
+      "explanation": {
+        "ru": "Отрар, Тараз и Туркестан (Яссы) лежали на казахстанском участке пути; Самарканд и Кашгар — за его пределами.",
+        "en": "Otrar, Taraz and Turkestan (Yassy) lay on the Kazakhstan section of the route; Samarkand and Kashgar lay outside it.",
+        "kk": "Отырар, Тараз және Түркістан (Яссы) жолдың қазақстандық бөлігінде орналасқан; Самарқан мен Қашғар одан тыс жерде."
+      },
       "source_references": [
         {
           "file": "Лекции/лекция 11. Культура номадов.docx",
@@ -107,33 +169,61 @@
       "topic_id": 6,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Средневековый Испиджаб находился на месте современного села...",
+      "question": {
+        "ru": "Средневековый Испиджаб находился на месте современного села...",
+        "en": "Medieval Ispijab was located on the site of the modern village of...",
+        "kk": "Ортағасырлық Испиджаб қазіргі ... ауылының орнында болған."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Мерке"
+          "text": {
+            "ru": "Мерке",
+            "en": "Merke",
+            "kk": "Мерке"
+          }
         },
         {
           "id": "B",
-          "text": "Талгар"
+          "text": {
+            "ru": "Талгар",
+            "en": "Talgar",
+            "kk": "Талғар"
+          }
         },
         {
           "id": "C",
-          "text": "Сайрам"
+          "text": {
+            "ru": "Сайрам",
+            "en": "Sairam",
+            "kk": "Сайрам"
+          }
         },
         {
           "id": "D",
-          "text": "Кордай"
+          "text": {
+            "ru": "Кордай",
+            "en": "Kordai",
+            "kk": "Қордай"
+          }
         },
         {
           "id": "E",
-          "text": "Луговое"
+          "text": {
+            "ru": "Луговое",
+            "en": "Lugovoye",
+            "kk": "Луговое"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Испиджаб — средневековое название города на месте современного села Сайрам.",
+      "explanation": {
+        "ru": "Испиджаб — средневековое название города на месте современного села Сайрам.",
+        "en": "Ispijab is the medieval name of a city on the site of the modern village of Sairam.",
+        "kk": "Испиджаб — қазіргі Сайрам ауылының орнындағы қаланың ортағасырлық атауы."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -147,6 +237,12 @@
             "accept": {
               "ru": [
                 "Сайрам"
+              ],
+              "en": [
+                "sairam"
+              ],
+              "kk": [
+                "сайрам"
               ]
             }
           }
@@ -158,33 +254,61 @@
       "topic_id": 6,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Великий шёлковый путь действовал со II в. до н.э. до конца...",
+      "question": {
+        "ru": "Великий шёлковый путь действовал со II в. до н.э. до конца...",
+        "en": "The Great Silk Road operated from the 2nd century BC until the end of the...",
+        "kk": "Ұлы Жібек жолы б.з.д. II ғасырдан бастап ... соңына дейін жұмыс істеді."
+      },
       "options": [
         {
           "id": "A",
-          "text": "XIII в."
+          "text": {
+            "ru": "XIII в.",
+            "en": "13th century",
+            "kk": "XIII ғасырдың"
+          }
         },
         {
           "id": "B",
-          "text": "XIV в."
+          "text": {
+            "ru": "XIV в.",
+            "en": "14th century",
+            "kk": "XIV ғасырдың"
+          }
         },
         {
           "id": "C",
-          "text": "XVI в."
+          "text": {
+            "ru": "XVI в.",
+            "en": "16th century",
+            "kk": "XVI ғасырдың"
+          }
         },
         {
           "id": "D",
-          "text": "XV в."
+          "text": {
+            "ru": "XV в.",
+            "en": "15th century",
+            "kk": "XV ғасырдың"
+          }
         },
         {
           "id": "E",
-          "text": "XVII в."
+          "text": {
+            "ru": "XVII в.",
+            "en": "17th century",
+            "kk": "XVII ғасырдың"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Великий шёлковый путь функционировал со II в. до н.э. и к концу XV в. прекратил существование.",
+      "explanation": {
+        "ru": "Великий шёлковый путь функционировал со II в. до н.э. и к концу XV в. прекратил существование.",
+        "en": "The Great Silk Road functioned from the 2nd century BC and ceased to exist by the end of the 15th century.",
+        "kk": "Ұлы Жібек жолы б.з.д. II ғасырдан бастап жұмыс істеп, XV ғасырдың соңына қарай өмір сүруін тоқтатты."
+      },
       "source_references": [
         {
           "file": "Лекции/лекция 11. Культура номадов.docx",
@@ -197,33 +321,61 @@
       "topic_id": 6,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Северная ветвь Шёлкового пути шла через Памир и Приаралье к...",
+      "question": {
+        "ru": "Северная ветвь Шёлкового пути шла через Памир и Приаралье к...",
+        "en": "The northern branch of the Silk Road ran through the Pamirs and the Aral Sea region to...",
+        "kk": "Жібек жолының солтүстік тармағы Памир мен Арал маңы арқылы ... дейін барды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Нижней Волге и бассейну Чёрного моря"
+          "text": {
+            "ru": "Нижней Волге и бассейну Чёрного моря",
+            "en": "The Lower Volga and the Black Sea basin",
+            "kk": "Төменгі Еділ мен Қара теңіз бассейніне"
+          }
         },
         {
           "id": "B",
-          "text": "Персидскому заливу и Северной Индии"
+          "text": {
+            "ru": "Персидскому заливу и Северной Индии",
+            "en": "The Persian Gulf and Northern India",
+            "kk": "Парсы шығанағы мен Солтүстік Үндістанға"
+          }
         },
         {
           "id": "C",
-          "text": "Побережью Средиземного моря через Аравию"
+          "text": {
+            "ru": "Побережью Средиземного моря через Аравию",
+            "en": "The Mediterranean coast via Arabia",
+            "kk": "Арабия арқылы Жерорта теңізі жағалауына"
+          }
         },
         {
           "id": "D",
-          "text": "Тибету и Бирме"
+          "text": {
+            "ru": "Тибету и Бирме",
+            "en": "Tibet and Burma",
+            "kk": "Тибет пен Бирмаға"
+          }
         },
         {
           "id": "E",
-          "text": "Байкалу и Енисею"
+          "text": {
+            "ru": "Байкалу и Енисею",
+            "en": "Baikal and the Yenisei",
+            "kk": "Байкал мен Енисейге"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Северная дорога вела от севера Китая через Памир и Приаралье к Нижней Волге и Чёрному морю.",
+      "explanation": {
+        "ru": "Северная дорога вела от севера Китая через Памир и Приаралье к Нижней Волге и Чёрному морю.",
+        "en": "The northern road led from northern China through the Pamirs and the Aral Sea region to the Lower Volga and the Black Sea.",
+        "kk": "Солтүстік жол Қытайдың солтүстігінен Памир мен Арал маңы арқылы Төменгі Еділ мен Қара теңізге дейін апарды."
+      },
       "source_references": [
         {
           "file": "Лекции/лекция 11. Культура номадов.docx",
@@ -236,27 +388,51 @@
       "topic_id": 6,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "Державы, почти полностью контролировавшие Великий шёлковый путь:",
+      "question": {
+        "ru": "Державы, почти полностью контролировавшие Великий шёлковый путь:",
+        "en": "Powers that almost completely controlled the Great Silk Road:",
+        "kk": "Ұлы Жібек жолын дерлік толық бақылаған державалар:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Тюркский каганат"
+          "text": {
+            "ru": "Тюркский каганат",
+            "en": "The Turkic Khaganate",
+            "kk": "Түрік қағанаты"
+          }
         },
         {
           "id": "B",
-          "text": "Парфянская держава"
+          "text": {
+            "ru": "Парфянская держава",
+            "en": "The Parthian Empire",
+            "kk": "Парфия державасы"
+          }
         },
         {
           "id": "C",
-          "text": "Империя Чингисхана"
+          "text": {
+            "ru": "Империя Чингисхана",
+            "en": "The empire of Genghis Khan",
+            "kk": "Шыңғыс хан империясы"
+          }
         },
         {
           "id": "D",
-          "text": "Хазарский каганат"
+          "text": {
+            "ru": "Хазарский каганат",
+            "en": "The Khazar Khaganate",
+            "kk": "Хазар қағанаты"
+          }
         },
         {
           "id": "E",
-          "text": "Империя Тимура"
+          "text": {
+            "ru": "Империя Тимура",
+            "en": "The empire of Timur",
+            "kk": "Темір империясы"
+          }
         }
       ],
       "correct_answers": [
@@ -264,7 +440,11 @@
         "C",
         "E"
       ],
-      "explanation": "Путь почти целиком контролировали Тюркский каганат (последняя треть VI в.), империя Чингисхана и империя Тимура.",
+      "explanation": {
+        "ru": "Путь почти целиком контролировали Тюркский каганат (последняя треть VI в.), империя Чингисхана и империя Тимура.",
+        "en": "The route was almost entirely controlled by the Turkic Khaganate (last third of the 6th century), the empire of Genghis Khan and the empire of Timur.",
+        "kk": "Жолды түгелдей дерлік Түрік қағанаты (VI ғасырдың соңғы үштен бірі), Шыңғыс хан империясы және Темір империясы бақылады."
+      },
       "source_references": [
         {
           "file": "Лекции/лекция 11. Культура номадов.docx",
@@ -277,33 +457,61 @@
       "topic_id": 6,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Что стало основной причиной упадка Великого шёлкового пути к концу XV в.?",
+      "question": {
+        "ru": "Что стало основной причиной упадка Великого шёлкового пути к концу XV в.?",
+        "en": "What was the main reason for the decline of the Great Silk Road by the end of the 15th century?",
+        "kk": "XV ғасырдың соңына қарай Ұлы Жібек жолының құлдырауының негізгі себебі не болды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Монгольское нашествие XIII в."
+          "text": {
+            "ru": "Монгольское нашествие XIII в.",
+            "en": "The Mongol invasion of the 13th century",
+            "kk": "XIII ғасырдағы моңғол шапқыншылығы"
+          }
         },
         {
           "id": "B",
-          "text": "Потеря Китаем монополии на производство шёлка"
+          "text": {
+            "ru": "Потеря Китаем монополии на производство шёлка",
+            "en": "China's loss of its monopoly on silk production",
+            "kk": "Қытайдың жібек өндіру монополиясынан айырылуы"
+          }
         },
         {
           "id": "C",
-          "text": "Изобретение бумаги в Европе"
+          "text": {
+            "ru": "Изобретение бумаги в Европе",
+            "en": "The invention of paper in Europe",
+            "kk": "Еуропада қағаздың ойлап табылуы"
+          }
         },
         {
           "id": "D",
-          "text": "Принятие ислама тюркскими народами"
+          "text": {
+            "ru": "Принятие ислама тюркскими народами",
+            "en": "The adoption of Islam by the Turkic peoples",
+            "kk": "Түркі халықтарының исламды қабылдауы"
+          }
         },
         {
           "id": "E",
-          "text": "Открытие европейцами морского пути в Индию и Китай"
+          "text": {
+            "ru": "Открытие европейцами морского пути в Индию и Китай",
+            "en": "The discovery by Europeans of the sea route to India and China",
+            "kk": "Еуропалықтардың Үндістан мен Қытайға теңіз жолын ашуы"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Морской путь был дешевле и быстрее: один корабль вёз груз тысячи верблюдов.",
+      "explanation": {
+        "ru": "Морской путь был дешевле и быстрее: один корабль вёз груз тысячи верблюдов.",
+        "en": "The sea route was cheaper and faster: one ship carried the load of a thousand camels.",
+        "kk": "Теңіз жолы арзан әрі жылдам болды: бір кеме мың түйенің жүгін тасыды."
+      },
       "source_references": [
         {
           "file": "Лекции/лекция 11. Культура номадов.docx",
@@ -316,33 +524,61 @@
       "topic_id": 6,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Купцы шли по Шёлковому пути большими караванами, так как главным условием торговли была...",
+      "question": {
+        "ru": "Купцы шли по Шёлковому пути большими караванами, так как главным условием торговли была...",
+        "en": "Merchants travelled along the Silk Road in large caravans because the main condition of trade was...",
+        "kk": "Саудагерлер Жібек жолымен үлкен керуендермен жүрді, өйткені саудаға басты шарт — ..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Быстрота доставки грузов"
+          "text": {
+            "ru": "Быстрота доставки грузов",
+            "en": "Speed of cargo delivery",
+            "kk": "Жүктерді жылдам жеткізу"
+          }
         },
         {
           "id": "B",
-          "text": "Защита имущества и жизни купцов"
+          "text": {
+            "ru": "Защита имущества и жизни купцов",
+            "en": "Protection of the merchants' property and lives",
+            "kk": "Саудагерлердің мүлкі мен өмірін қорғау"
+          }
         },
         {
           "id": "C",
-          "text": "Государственная монополия на шёлк"
+          "text": {
+            "ru": "Государственная монополия на шёлк",
+            "en": "A state monopoly on silk",
+            "kk": "Жібекке мемлекеттік монополия"
+          }
         },
         {
           "id": "D",
-          "text": "Свобода от таможенных пошлин"
+          "text": {
+            "ru": "Свобода от таможенных пошлин",
+            "en": "Freedom from customs duties",
+            "kk": "Кеден алымдарынан бостандық"
+          }
         },
         {
           "id": "E",
-          "text": "Дешевизна морских перевозок"
+          "text": {
+            "ru": "Дешевизна морских перевозок",
+            "en": "The cheapness of sea transport",
+            "kk": "Теңіз тасымалының арзандығы"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Главным условием торговли была защита имущества и жизни купцов, поэтому караваны были многолюдными и вооружёнными.",
+      "explanation": {
+        "ru": "Главным условием торговли была защита имущества и жизни купцов, поэтому караваны были многолюдными и вооружёнными.",
+        "en": "The main condition of trade was the protection of the merchants' property and lives, so caravans were large and armed.",
+        "kk": "Саудаға басты шарт — саудагерлердің мүлкі мен өмірін қорғау болды, сондықтан керуендер адамы көп әрі қарулы болды."
+      },
       "source_references": [
         {
           "file": "Лекции/лекция 11. Культура номадов.docx",
@@ -355,33 +591,61 @@
       "topic_id": 6,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Многие торговые города Азии пришли в упадок после угасания Шёлкового пути, так как...",
+      "question": {
+        "ru": "Многие торговые города Азии пришли в упадок после угасания Шёлкового пути, так как...",
+        "en": "Many trading cities of Asia fell into decline after the fading of the Silk Road because they...",
+        "kk": "Жібек жолы бәсеңдегеннен кейін Азияның көптеген сауда қалалары құлдырады, өйткені олар ..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Были разрушены сильными землетрясениями"
+          "text": {
+            "ru": "Были разрушены сильными землетрясениями",
+            "en": "Were destroyed by strong earthquakes",
+            "kk": "Күшті жер сілкіністерінен қирады"
+          }
         },
         {
           "id": "B",
-          "text": "Утратили выход к морским путям"
+          "text": {
+            "ru": "Утратили выход к морским путям",
+            "en": "Lost access to sea routes",
+            "kk": "Теңіз жолдарына шығу мүмкіндігінен айырылды"
+          }
         },
         {
           "id": "C",
-          "text": "Были захвачены кочевниками-скотоводами"
+          "text": {
+            "ru": "Были захвачены кочевниками-скотоводами",
+            "en": "Were seized by pastoral nomads",
+            "kk": "Мал шаруашылығымен айналысатын көшпенділер басып алды"
+          }
         },
         {
           "id": "D",
-          "text": "Перешли на производство бумаги и фарфора"
+          "text": {
+            "ru": "Перешли на производство бумаги и фарфора",
+            "en": "Switched to producing paper and porcelain",
+            "kk": "Қағаз бен фарфор өндіруге көшті"
+          }
         },
         {
           "id": "E",
-          "text": "Были привязаны к обслуживанию дальней караванной торговли"
+          "text": {
+            "ru": "Были привязаны к обслуживанию дальней караванной торговли",
+            "en": "Were tied to servicing long-distance caravan trade",
+            "kk": "Алыс қашықтыққа жүретін керуен саудасына қызмет көрсетуге байланған болатын"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Города континентальной Азии жили обслуживанием дальней караванной торговли, и её угасание вело к их упадку.",
+      "explanation": {
+        "ru": "Города континентальной Азии жили обслуживанием дальней караванной торговли, и её угасание вело к их упадку.",
+        "en": "The cities of continental Asia lived by servicing long-distance caravan trade, and its fading led to their decline.",
+        "kk": "Континенттік Азия қалалары алыс қашықтыққа жүретін керуен саудасына қызмет көрсетумен күн көрді, оның бәсеңдеуі олардың құлдырауына әкелді."
+      },
       "source_references": [
         {
           "file": "Лекции/лекция 11. Культура номадов.docx",
@@ -394,33 +658,61 @@
       "topic_id": 6,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Что привело к упадку северной и южной дорог Шёлкового пути в XIV–XV вв.?",
+      "question": {
+        "ru": "Что привело к упадку северной и южной дорог Шёлкового пути в XIV–XV вв.?",
+        "en": "What led to the decline of the northern and southern roads of the Silk Road in the 14th–15th centuries?",
+        "kk": "XIV–XV ғасырларда Жібек жолының солтүстік және оңтүстік жолдарының құлдырауына не себеп болды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Разрушение Тимуром городов Прикаспия и распад его державы"
+          "text": {
+            "ru": "Разрушение Тимуром городов Прикаспия и распад его державы",
+            "en": "Timur's destruction of the cities of the Caspian region and the disintegration of his empire",
+            "kk": "Темірдің Каспий маңы қалаларын қиратуы және оның державасының ыдырауы"
+          }
         },
         {
           "id": "B",
-          "text": "Нашествие Чингисхана на города Согда и Хорезма"
+          "text": {
+            "ru": "Нашествие Чингисхана на города Согда и Хорезма",
+            "en": "Genghis Khan's invasion of the cities of Sogd and Khorezm",
+            "kk": "Шыңғыс ханның Соғды мен Хорезм қалаларына басып кіруі"
+          }
         },
         {
           "id": "C",
-          "text": "Запрет Китая на вывоз шёлка"
+          "text": {
+            "ru": "Запрет Китая на вывоз шёлка",
+            "en": "China's ban on the export of silk",
+            "kk": "Қытайдың жібекті шығаруға тыйым салуы"
+          }
         },
         {
           "id": "D",
-          "text": "Монополия арабских купцов на сухопутные перевозки"
+          "text": {
+            "ru": "Монополия арабских купцов на сухопутные перевозки",
+            "en": "The monopoly of Arab merchants on overland transport",
+            "kk": "Араб көпестерінің құрлықтағы тасымалға монополиясы"
+          }
         },
         {
           "id": "E",
-          "text": "Прекращение спроса европейцев на восточные товары"
+          "text": {
+            "ru": "Прекращение спроса европейцев на восточные товары",
+            "en": "The end of European demand for Eastern goods",
+            "kk": "Еуропалықтардың шығыс тауарларына сұранысының тоқтауы"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Тимур в 1389–1395 гг. разрушил города Прикаспия и Причерноморья, а после распада его державы южный путь остался без защиты.",
+      "explanation": {
+        "ru": "Тимур в 1389–1395 гг. разрушил города Прикаспия и Причерноморья, а после распада его державы южный путь остался без защиты.",
+        "en": "In 1389–1395 Timur destroyed the cities of the Caspian and Black Sea regions, and after the disintegration of his empire the southern route was left without protection.",
+        "kk": "Темір 1389–1395 жылдары Каспий маңы мен Қара теңіз маңы қалаларын қиратты, ал оның державасы ыдырағаннан кейін оңтүстік жол қорғаусыз қалды."
+      },
       "source_references": [
         {
           "file": "Лекции/лекция 11. Культура номадов.docx",

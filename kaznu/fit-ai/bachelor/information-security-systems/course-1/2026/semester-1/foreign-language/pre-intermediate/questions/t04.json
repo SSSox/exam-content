@@ -33,7 +33,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The regular past simple form is visited.",
+      "explanation": {
+        "en": "The regular past simple form is visited.",
+        "ru": "Правильная форма past simple — visited.",
+        "kk": "Past simple-дің дұрыс формасы — visited."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Go has the irregular past form went.",
+      "explanation": {
+        "en": "Go has the irregular past form went.",
+        "ru": "У go неправильная форма прошедшего времени — went.",
+        "kk": "Go етістігінің өткен шағы ерекше — went."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The irregular past form of buy is bought.",
+      "explanation": {
+        "en": "The irregular past form of buy is bought.",
+        "ru": "Неправильная форма прошедшего времени от buy — bought.",
+        "kk": "Buy етістігінің ерекше өткен шағы — bought."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The past simple of lose is lost.",
+      "explanation": {
+        "en": "The past simple of lose is lost.",
+        "ru": "Past simple от lose — lost.",
+        "kk": "Lose етістігінің past simple формасы — lost."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "After did, use the base form.",
+      "explanation": {
+        "en": "After did, use the base form.",
+        "ru": "После did используйте начальную форму.",
+        "kk": "Did-тен кейін негізгі форма қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Didn't takes a base verb.",
+      "explanation": {
+        "en": "Didn't takes a base verb.",
+        "ru": "После didn't ставится начальная форма глагола.",
+        "kk": "Didn't-тен кейін етістіктің негізгі формасы тұрады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Last summer requires a past question with did.",
+      "explanation": {
+        "en": "Last summer requires a past question with did.",
+        "ru": "Last summer требует вопроса в прошедшем времени с did.",
+        "kk": "Last summer did-пен өткен шақтағы сұрақты талап етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The plural subject tickets takes were in the past.",
+      "explanation": {
+        "en": "The plural subject tickets takes were in the past.",
+        "ru": "Подлежащее во множественном числе tickets в прошедшем времени требует were.",
+        "kk": "Көпше бастауыш tickets өткен шақта were талап етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The singular noun weather takes was.",
+      "explanation": {
+        "en": "The singular noun weather takes was.",
+        "ru": "Существительное в единственном числе weather требует was.",
+        "kk": "Жекеше зат есім weather was талап етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use did before the subject and the base form land.",
+      "explanation": {
+        "en": "Use did before the subject and the base form land.",
+        "ru": "Используйте did перед подлежащим и начальную форму land.",
+        "kk": "Бастауыштың алдында did және негізгі форма land қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Take has the irregular past form took.",
+      "explanation": {
+        "en": "Take has the irregular past form took.",
+        "ru": "У take неправильная форма прошедшего времени — took.",
+        "kk": "Take етістігінің ерекше өткен шағы — took."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The past form of meet is met.",
+      "explanation": {
+        "en": "The past form of meet is met.",
+        "ru": "Прошедшее время от meet — met.",
+        "kk": "Meet етістігінің өткен шағы — met."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The short answer repeats did.",
+      "explanation": {
+        "en": "The short answer repeats did.",
+        "ru": "В краткий ответ повторяется did.",
+        "kk": "Қысқа жауапта did қайталанады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Consonant + y changes to -ied.",
+      "explanation": {
+        "en": "Consonant + y changes to -ied.",
+        "ru": "Согласная + y меняется на -ied.",
+        "kk": "Дауыссыз + y -ied-ке ауысады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Go sightseeing is the usual phrase.",
+      "explanation": {
+        "en": "Go sightseeing is the usual phrase.",
+        "ru": "Обычное выражение — go sightseeing.",
+        "kk": "Жиі қолданылатын тіркес — go sightseeing."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "A campsite provides places for tents.",
+      "explanation": {
+        "en": "A campsite provides places for tents.",
+        "ru": "Кемпинг предоставляет места для палаток.",
+        "kk": "Campsite шатырларға арналған орындар ұсынады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "A passport is a travel identity document.",
+      "explanation": {
+        "en": "A passport is a travel identity document.",
+        "ru": "Паспорт — документ, удостоверяющий личность при поездках.",
+        "kk": "Passport — саяхатқа арналған жеке басты куәландыратын құжат."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Luggage refers to travellers' bags.",
+      "explanation": {
+        "en": "Luggage refers to travellers' bags.",
+        "ru": "Luggage означает багаж путешественников.",
+        "kk": "Luggage — саяхатшылардың жүгін білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Accommodation means a place to stay.",
+      "explanation": {
+        "en": "Accommodation means a place to stay.",
+        "ru": "Accommodation означает место, где можно остановиться.",
+        "kk": "Accommodation — тұруға арналған орынды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Hire a car means pay to use it temporarily.",
+      "explanation": {
+        "en": "Hire a car means pay to use it temporarily.",
+        "ru": "Hire a car значит заплатить, чтобы временно пользоваться машиной.",
+        "kk": "Hire a car — көлікті уақытша пайдалану үшін ақы төлеу дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Sunbathe describes relaxing in sunlight.",
+      "explanation": {
+        "en": "Sunbathe describes relaxing in sunlight.",
+        "ru": "Sunbathe описывает отдых на солнце.",
+        "kk": "Sunbathe күн астында демалуды сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The waiter is explicitly named as the finder.",
+      "explanation": {
+        "en": "The waiter is explicitly named as the finder.",
+        "ru": "Официант прямо назван тем, кто нашёл.",
+        "kk": "Даяшы тапқан адам ретінде тікелей аталған."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The flight did not operate, and the travellers took a train.",
+      "explanation": {
+        "en": "The flight did not operate, and the travellers took a train.",
+        "ru": "Рейс не состоялся, и путешественники поехали на поезде.",
+        "kk": "Рейс орындалмады, саяхатшылар пойызбен кетті."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Three nights is longer than two.",
+      "explanation": {
+        "en": "Three nights is longer than two.",
+        "ru": "Три ночи — это дольше, чем две.",
+        "kk": "Үш түн екіден ұзағырақ."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Yesterday places the event in the past. Miss is regular, so its past form is missed.",
+      "explanation": {
+        "en": "Yesterday places the event in the past. Miss is regular, so its past form is missed.",
+        "ru": "Yesterday относит событие к прошлому. Miss — правильный глагол, поэтому его прошедшая форма — missed.",
+        "kk": "Yesterday оқиғаны өткен шаққа жатқызады. Miss — тұрақты етістік, сондықтан оның өткен шағы — missed."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "After did, use the base form leave.",
+      "explanation": {
+        "en": "After did, use the base form leave.",
+        "ru": "После did используйте начальную форму leave.",
+        "kk": "Did-тен кейін негізгі форма leave қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Brought is the irregular past form of bring.",
+      "explanation": {
+        "en": "Brought is the irregular past form of bring.",
+        "ru": "Brought — неправильная форма прошедшего времени от bring.",
+        "kk": "Brought — bring етістігінің ерекше өткен шағы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "When you check in at a hotel, you register your arrival and get access to your room.",
+      "explanation": {
+        "en": "When you check in at a hotel, you register your arrival and get access to your room.",
+        "ru": "Когда вы делаете check in в отеле, вы регистрируете приезд и получаете доступ к номеру.",
+        "kk": "Қонақүйде check in жасағанда келгеніңізді тіркеп, бөлмеге қол жеткізесіз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Sightseeing means visiting interesting places, often while travelling.",
+      "explanation": {
+        "en": "Sightseeing means visiting interesting places, often while travelling.",
+        "ru": "Sightseeing значит посещать интересные места, часто во время путешествия.",
+        "kk": "Sightseeing — қызықты жерлерді аралау, көбіне саяхат кезінде."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1193,7 +1309,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "How many days asks for the duration.",
+      "explanation": {
+        "en": "How many days asks for the duration.",
+        "ru": "How many days спрашивает о продолжительности.",
+        "kk": "How many days ұзақтықты сұрайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1233,7 +1353,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The final sentence says that they walked instead of renting bikes.",
+      "explanation": {
+        "en": "The final sentence says that they walked instead of renting bikes.",
+        "ru": "В последнем предложении сказано, что они пошли пешком вместо того, чтобы брать велосипеды напрокат.",
+        "kk": "Соңғы сөйлемде олар велосипедті жалға алудың орнына жаяу жүргені айтылған."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

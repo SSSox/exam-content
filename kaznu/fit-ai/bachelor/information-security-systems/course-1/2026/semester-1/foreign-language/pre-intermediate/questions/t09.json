@@ -33,7 +33,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Who introduces a defining clause about a person.",
+      "explanation": {
+        "en": "Who introduces a defining clause about a person.",
+        "ru": "Who вводит определительное придаточное о человеке.",
+        "kk": "Who адам туралы анықтауыш бағыныңқы сөйлемді енгізеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Which refers to a thing.",
+      "explanation": {
+        "en": "Which refers to a thing.",
+        "ru": "Which относится к предмету.",
+        "kk": "Which заттың орнына жүреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Where introduces a clause about a place.",
+      "explanation": {
+        "en": "Where introduces a clause about a place.",
+        "ru": "Where вводит придаточное о месте.",
+        "kk": "Where орын туралы бағыныңқы сөйлемді енгізеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Who can refer to the person doing the action.",
+      "explanation": {
+        "en": "Who can refer to the person doing the action.",
+        "ru": "Who может относиться к человеку, совершающему действие.",
+        "kk": "Who әрекетті орындаушы адамға қатысты бола алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "That can refer to a thing in a defining clause.",
+      "explanation": {
+        "en": "That can refer to a thing in a defining clause.",
+        "ru": "That может относиться к предмету в определительном придаточном.",
+        "kk": "That анықтауыш бағыныңқы сөйлемде затқа қатысты бола алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The shop is the subject of sells, so which fits.",
+      "explanation": {
+        "en": "The shop is the subject of sells, so which fits.",
+        "ru": "Shop является подлежащим при sells, поэтому подходит which.",
+        "kk": "Shop sells етістігінің бастауышы, сондықтан which сәйкес келеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Where expresses the location in which you can buy books.",
+      "explanation": {
+        "en": "Where expresses the location in which you can buy books.",
+        "ru": "Where выражает место, где можно купить книги.",
+        "kk": "Where кітап сатып алуға болатын орынды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The clause defines a person.",
+      "explanation": {
+        "en": "The clause defines a person.",
+        "ru": "Придаточное определяет человека.",
+        "kk": "Бағыныңқы сөйлем адамды анықтайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "That can refer to the shoes in the defining clause.",
+      "explanation": {
+        "en": "That can refer to the shoes in the defining clause.",
+        "ru": "That может относиться к shoes в определительном придаточном.",
+        "kk": "That анықтауыш бағыныңқы сөйлемде shoes сөзіне қатысты бола алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "A library is a place for borrowing or consulting books.",
+      "explanation": {
+        "en": "A library is a place for borrowing or consulting books.",
+        "ru": "Библиотека это место, где берут книги или работают с ними.",
+        "kk": "Кітапхана кітап алуға немесе пайдалануға арналған орын."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The relative clause describes the work of a mechanic.",
+      "explanation": {
+        "en": "The relative clause describes the work of a mechanic.",
+        "ru": "Придаточное описывает работу механика.",
+        "kk": "Бағыныңқы сөйлем механиктің жұмысын сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Which refers to an object.",
+      "explanation": {
+        "en": "Which refers to an object.",
+        "ru": "Which относится к предмету.",
+        "kk": "Which затқа қатысты."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Where expresses the place of the meeting.",
+      "explanation": {
+        "en": "Where expresses the place of the meeting.",
+        "ru": "Where выражает место встречи.",
+        "kk": "Where кездесу орнын білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Who is already the subject of the relative clause.",
+      "explanation": {
+        "en": "Who is already the subject of the relative clause.",
+        "ru": "Who уже является подлежащим придаточного предложения.",
+        "kk": "Who қазірдің өзінде бағыныңқы сөйлемнің бастауышы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "A kind of gives a general category for paraphrasing.",
+      "explanation": {
+        "en": "A kind of gives a general category for paraphrasing.",
+        "ru": "A kind of задаёт общую категорию при перефразировании.",
+        "kk": "A kind of басқаша айтқанда жалпы санатты береді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The description identifies the function of scissors.",
+      "explanation": {
+        "en": "The description identifies the function of scissors.",
+        "ru": "Описание указывает на функцию ножниц.",
+        "kk": "Сипаттама қайшының қызметін анықтайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The paraphrase explains an umbrella's function.",
+      "explanation": {
+        "en": "The paraphrase explains an umbrella's function.",
+        "ru": "Перефразирование объясняет функцию зонта.",
+        "kk": "Басқаша айту қолшатырдың қызметін түсіндіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Inexpensive and cheap refer to a low price.",
+      "explanation": {
+        "en": "Inexpensive and cheap refer to a low price.",
+        "ru": "Inexpensive и cheap обозначают низкую цену.",
+        "kk": "Inexpensive және cheap төмен бағаны білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Tiny means extremely small.",
+      "explanation": {
+        "en": "Tiny means extremely small.",
+        "ru": "Tiny значит очень маленький.",
+        "kk": "Tiny өте кішкентай дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "A kettle heats water to boiling point.",
+      "explanation": {
+        "en": "A kettle heats water to boiling point.",
+        "ru": "Чайник нагревает воду до кипения.",
+        "kk": "Шәйнек суды қайнағанша қыздырады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Crowded describes a place with many people.",
+      "explanation": {
+        "en": "Crowded describes a place with many people.",
+        "ru": "Crowded описывает место, где много людей.",
+        "kk": "Crowded адам көп орынды сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The final e in name is not pronounced as a separate sound.",
+      "explanation": {
+        "en": "The final e in name is not pronounced as a separate sound.",
+        "ru": "Конечная e в name не произносится как отдельный звук.",
+        "kk": "Name сөзіндегі соңғы e жеке дыбыс болып айтылмайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Cake has /eɪ/ and a silent final e.",
+      "explanation": {
+        "en": "Cake has /eɪ/ and a silent final e.",
+        "ru": "В cake звук /eɪ/ и немая конечная e.",
+        "kk": "Cake сөзінде /eɪ/ дыбысы бар, соңғы e дыбысталмайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "That introduces the defining clause for a thing and is the subject of gives.",
+      "explanation": {
+        "en": "That introduces the defining clause for a thing and is the subject of gives.",
+        "ru": "That вводит определительное придаточное о предмете и является подлежащим при gives.",
+        "kk": "That зат туралы анықтауыш бағыныңқы сөйлемді енгізеді және gives етістігінің бастауышы болады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Who can introduce a clause defining a person.",
+      "explanation": {
+        "en": "Who can introduce a clause defining a person.",
+        "ru": "Who может вводить придаточное, определяющее человека.",
+        "kk": "Who адамды анықтайтын бағыныңқы сөйлемді енгізе алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Where introduces a clause that describes what happens in a place.",
+      "explanation": {
+        "en": "Where introduces a clause that describes what happens in a place.",
+        "ru": "Where вводит придаточное о том, что происходит в каком-то месте.",
+        "kk": "Where белгілі бір орында не болатынын сипаттайтын бағыныңқы сөйлемді енгізеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "A thermometer measures temperature.",
+      "explanation": {
+        "en": "A thermometer measures temperature.",
+        "ru": "Термометр измеряет температуру.",
+        "kk": "Термометр температураны өлшейді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Hop and hope are both one syllable. The final e in hope is silent, and the vowel sound changes.",
+      "explanation": {
+        "en": "Hop and hope are both one syllable. The final e in hope is silent, and the vowel sound changes.",
+        "ru": "Hop и hope оба односложные. Конечная e в hope не читается, а гласный звук меняется.",
+        "kk": "Hop пен hope екеуі де бір буынды. Hope сөзіндегі соңғы e оқылмайды, ал дауысты дыбыс өзгереді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "A ladder has steps you can climb to reach a higher place.",
+      "explanation": {
+        "en": "A ladder has steps you can climb to reach a higher place.",
+        "ru": "У лестницы есть ступени, по которым можно подняться выше.",
+        "kk": "Баспалдақтың сатылары бар, олармен жоғарырақ жерге көтерілуге болады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1193,7 +1309,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The who-clause singles out the neighbour by what they do.",
+      "explanation": {
+        "en": "The who-clause singles out the neighbour by what they do.",
+        "ru": "Придаточное с who выделяет соседа по тому, что он делает.",
+        "kk": "Who-мен басталған бағыныңқы сөйлем көршіні оның істейтін ісі арқылы ажыратады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

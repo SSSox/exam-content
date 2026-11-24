@@ -33,7 +33,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use are meeting with we.",
+      "explanation": {
+        "en": "Use are meeting with we.",
+        "ru": "С we используется are meeting.",
+        "kk": "We-мен are meeting қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use is flying with she for the arrangement.",
+      "explanation": {
+        "en": "Use is flying with she for the arrangement.",
+        "ru": "С she используется is flying для обозначения договорённости.",
+        "kk": "She-мен келісім үшін is flying қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Present continuous questions put the auxiliary before the subject.",
+      "explanation": {
+        "en": "Present continuous questions put the auxiliary before the subject.",
+        "ru": "В вопросах Present Continuous вспомогательный глагол стоит перед подлежащим.",
+        "kk": "Present Continuous сұрақтарында көмекші етістік бастауыштың алдына қойылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Am not + -ing is the correct negative with I.",
+      "explanation": {
+        "en": "Am not + -ing is the correct negative with I.",
+        "ru": "Am not + -ing это правильное отрицание с I.",
+        "kk": "Am not + -ing I-мен дұрыс болымсыз форма."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "A booking and a specified time indicate an arrangement.",
+      "explanation": {
+        "en": "A booking and a specified time indicate an arrangement.",
+        "ru": "Бронирование и указанное время говорят о договорённости.",
+        "kk": "Брондау және нақты уақыт келісім бар екенін көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use am not in the short answer with I.",
+      "explanation": {
+        "en": "Use am not in the short answer with I.",
+        "ru": "В кратком ответе с I используется am not.",
+        "kk": "I-мен қысқа жауапта am not қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The auxiliary for you in the present continuous is are.",
+      "explanation": {
+        "en": "The auxiliary for you in the present continuous is are.",
+        "ru": "Вспомогательный глагол для you в Present Continuous это are.",
+        "kk": "Present Continuous-те you үшін көмекші етістік are болады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Nina and I is equivalent to we.",
+      "explanation": {
+        "en": "Nina and I is equivalent to we.",
+        "ru": "Nina and I равносильно we.",
+        "kk": "Nina and I we-ге тең."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "The -ing form of meet is meeting.",
+      "explanation": {
+        "en": "The -ing form of meet is meeting.",
+        "ru": "Форма с -ing от meet это meeting.",
+        "kk": "Meet етістігінің -ing формасы meeting."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The speaker has an arrangement at the same time.",
+      "explanation": {
+        "en": "The speaker has an arrangement at the same time.",
+        "ru": "У говорящего есть договорённость на это же время.",
+        "kk": "Сөйлеушінің дәл сол уақытқа келісімі бар."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The corrected day is Thursday.",
+      "explanation": {
+        "en": "The corrected day is Thursday.",
+        "ru": "Исправленный день это Thursday.",
+        "kk": "Түзетілген күн Thursday."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The form and tomorrow identify a future arrangement.",
+      "explanation": {
+        "en": "The form and tomorrow identify a future arrangement.",
+        "ru": "Форма глагола и слово tomorrow указывают на договорённость в будущем.",
+        "kk": "Етістік формасы мен tomorrow сөзі болашақтағы келісімді көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The phrase is wait for something.",
+      "explanation": {
+        "en": "The phrase is wait for something.",
+        "ru": "Выражение: wait for something.",
+        "kk": "Тіркес: wait for something."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Talk to identifies the other person in the conversation.",
+      "explanation": {
+        "en": "Talk to identifies the other person in the conversation.",
+        "ru": "Talk to указывает на собеседника.",
+        "kk": "Talk to әңгімелесушіні көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Agree with someone expresses shared opinion.",
+      "explanation": {
+        "en": "Agree with someone expresses shared opinion.",
+        "ru": "Agree with someone выражает общее мнение.",
+        "kk": "Agree with someone ортақ пікірді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Believe in means think something exists.",
+      "explanation": {
+        "en": "Believe in means think something exists.",
+        "ru": "Believe in значит считать, что что-то существует.",
+        "kk": "Believe in бір нәрсенің бар екеніне сену дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Belong to indicates ownership.",
+      "explanation": {
+        "en": "Belong to indicates ownership.",
+        "ru": "Belong to указывает на принадлежность.",
+        "kk": "Belong to меншікті көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Ask someone for help is the standard phrase.",
+      "explanation": {
+        "en": "Ask someone for help is the standard phrase.",
+        "ru": "Ask someone for help это стандартное выражение.",
+        "kk": "Ask someone for help стандартты тіркес."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Apologise for introduces the reason for the apology.",
+      "explanation": {
+        "en": "Apologise for introduces the reason for the apology.",
+        "ru": "Apologise for вводит причину извинения.",
+        "kk": "Apologise for кешірім сұрау себебін енгізеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use arrive at for a point such as a station.",
+      "explanation": {
+        "en": "Use arrive at for a point such as a station.",
+        "ru": "Arrive at используется для точки, например станции.",
+        "kk": "Arrive at бекет сияқты нақты пункт үшін қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The reply accepts the possibility of making an arrangement.",
+      "explanation": {
+        "en": "The reply accepts the possibility of making an arrangement.",
+        "ru": "Ответ принимает возможность договориться.",
+        "kk": "Жауап келісім жасау мүмкіндігін қабылдайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The reply agrees to the proposed arrangement.",
+      "explanation": {
+        "en": "The reply agrees to the proposed arrangement.",
+        "ru": "Ответ соглашается с предложенной договорённостью.",
+        "kk": "Жауап ұсынылған келісімге келіседі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The question politely proposes changing the time.",
+      "explanation": {
+        "en": "The question politely proposes changing the time.",
+        "ru": "Вопрос вежливо предлагает изменить время.",
+        "kk": "Сұрақ уақытты өзгертуді сыпайы түрде ұсынады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "A booked arrangement can use the present continuous.",
+      "explanation": {
+        "en": "A booked arrangement can use the present continuous.",
+        "ru": "Для заранее оговорённой договорённости можно использовать Present Continuous.",
+        "kk": "Алдын ала келісілген жоспар үшін Present Continuous қолдануға болады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The present continuous plus a future time can express a booked arrangement.",
+      "explanation": {
+        "en": "The present continuous plus a future time can express a booked arrangement.",
+        "ru": "Present Continuous плюс указание будущего времени может выражать заранее оговорённую договорённость.",
+        "kk": "Present Continuous мен болашақ уақыт көрсеткіші алдын ала келісілген жоспарды білдіре алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The verb belong is followed by to before the owner.",
+      "explanation": {
+        "en": "The verb belong is followed by to before the owner.",
+        "ru": "После глагола belong перед владельцем стоит to.",
+        "kk": "Belong етістігінен кейін иесінің алдында to тұрады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Agree on a date means to choose a date together.",
+      "explanation": {
+        "en": "Agree on a date means to choose a date together.",
+        "ru": "Agree on a date значит выбрать дату вместе.",
+        "kk": "Agree on a date күнді бірге таңдау дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Pay for is used before the thing you are buying.",
+      "explanation": {
+        "en": "Pay for is used before the thing you are buying.",
+        "ru": "Pay for ставится перед тем, что вы покупаете.",
+        "kk": "Pay for сатып алынатын нәрсенің алдында қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "There refers to the same place, and 5:30 is a new time.",
+      "explanation": {
+        "en": "There refers to the same place, and 5:30 is a new time.",
+        "ru": "There указывает на то же место, а 5:30 это новое время.",
+        "kk": "There сол бір орынды көрсетеді, ал 5:30 жаңа уақыт."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1193,7 +1309,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Tuesday works for me accepts the weekday proposed in the message.",
+      "explanation": {
+        "en": "Tuesday works for me accepts the weekday proposed in the message.",
+        "ru": "Tuesday works for me принимает день недели, предложенный в сообщении.",
+        "kk": "Tuesday works for me хабарламада ұсынылған апта күнін қабылдайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

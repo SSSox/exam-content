@@ -33,7 +33,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Use am going to with I.",
+      "explanation": {
+        "en": "Use am going to with I.",
+        "ru": "С I используется am going to.",
+        "kk": "I-мен am going to қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use are going to with they.",
+      "explanation": {
+        "en": "Use are going to with they.",
+        "ru": "С they используется are going to.",
+        "kk": "They-мен are going to қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Going to is followed by a base verb.",
+      "explanation": {
+        "en": "Going to is followed by a base verb.",
+        "ru": "После going to стоит глагол в базовой форме.",
+        "kk": "Going to-дан кейін етістіктің негізгі формасы тұрады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Put are before the subject in this question.",
+      "explanation": {
+        "en": "Put are before the subject in this question.",
+        "ru": "В этом вопросе are ставится перед подлежащим.",
+        "kk": "Бұл сұрақта are бастауыштың алдына қойылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Use aren't going to with we.",
+      "explanation": {
+        "en": "Use aren't going to with we.",
+        "ru": "С we используется aren't going to.",
+        "kk": "We-мен aren't going to қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Use is with the singular subject Amir.",
+      "explanation": {
+        "en": "Use is with the singular subject Amir.",
+        "ru": "С подлежащим Amir в единственном числе используется is.",
+        "kk": "Жекеше бастауыш Amir-мен is қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The short answer repeats are.",
+      "explanation": {
+        "en": "The short answer repeats are.",
+        "ru": "В кратком ответе повторяется are.",
+        "kk": "Қысқа жауапта are қайталанады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Be going to can express a future plan or intention.",
+      "explanation": {
+        "en": "Be going to can express a future plan or intention.",
+        "ru": "Be going to может выражать план или намерение на будущее.",
+        "kk": "Be going to болашақтағы жоспар немесе ниетті білдіре алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Present evidence supports the prediction with going to.",
+      "explanation": {
+        "en": "Present evidence supports the prediction with going to.",
+        "ru": "Явные признаки в настоящем подтверждают предсказание с going to.",
+        "kk": "Қазіргі белгілер going to арқылы айтылған болжамды растайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "The main verb after going to stays in the base form.",
+      "explanation": {
+        "en": "The main verb after going to stays in the base form.",
+        "ru": "Основной глагол после going to остаётся в базовой форме.",
+        "kk": "Going to-дан кейінгі негізгі етістік негізгі формада қалады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Use question word + are + subject + going to + base verb.",
+      "explanation": {
+        "en": "Use question word + are + subject + going to + base verb.",
+        "ru": "Используйте: вопросительное слово + are + подлежащее + going to + глагол в базовой форме.",
+        "kk": "Мына үлгіні қолданыңыз: сұрау сөзі + are + бастауыш + going to + етістіктің негізгі формасы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The sentence describes a planned action with I.",
+      "explanation": {
+        "en": "The sentence describes a planned action with I.",
+        "ru": "Предложение описывает запланированное действие с I.",
+        "kk": "Сөйлем I-мен жоспарланған іс-әрекетті сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Checked baggage is handed over before boarding.",
+      "explanation": {
+        "en": "Checked baggage is handed over before boarding.",
+        "ru": "Сдаваемый в багаж чемодан сдают до посадки.",
+        "kk": "Тапсырылатын жүк отырғызуға дейін тапсырылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "A boarding pass contains flight boarding information.",
+      "explanation": {
+        "en": "A boarding pass contains flight boarding information.",
+        "ru": "Посадочный талон содержит информацию о посадке на рейс.",
+        "kk": "Boarding pass рейске отырғызу туралы ақпаратты қамтиды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The departure gate is the boarding point.",
+      "explanation": {
+        "en": "The departure gate is the boarding point.",
+        "ru": "Выход на посадку (departure gate) это место посадки.",
+        "kk": "Departure gate отырғызу орны болып табылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Baggage reclaim is for arriving passengers' checked luggage.",
+      "explanation": {
+        "en": "Baggage reclaim is for arriving passengers' checked luggage.",
+        "ru": "Baggage reclaim предназначена для получения сданного багажа прибывающими пассажирами.",
+        "kk": "Baggage reclaim келген жолаушылардың тапсырған жүгін алуға арналған."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Delayed means running behind schedule.",
+      "explanation": {
+        "en": "Delayed means running behind schedule.",
+        "ru": "Delayed значит отстающий от расписания.",
+        "kk": "Delayed кестеден кешігіп жатыр дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Cancelled means the scheduled service is not taking place.",
+      "explanation": {
+        "en": "Cancelled means the scheduled service is not taking place.",
+        "ru": "Cancelled значит, что запланированный рейс не состоится.",
+        "kk": "Cancelled жоспарланған рейс орындалмайды дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Hand luggage travels with the passenger in the cabin.",
+      "explanation": {
+        "en": "Hand luggage travels with the passenger in the cabin.",
+        "ru": "Ручная кладь (hand luggage) едет с пассажиром в салоне.",
+        "kk": "Hand luggage жолаушымен бірге салонда жүреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "To board means to get onto a vehicle such as an aircraft.",
+      "explanation": {
+        "en": "To board means to get onto a vehicle such as an aircraft.",
+        "ru": "To board значит садиться на транспорт, например на самолёт.",
+        "kk": "To board ұшақ сияқты көлікке отыру дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Gym begins with /dʒ/.",
+      "explanation": {
+        "en": "Gym begins with /dʒ/.",
+        "ru": "Слово gym начинается со звука /dʒ/.",
+        "kk": "Gym сөзі /dʒ/ дыбысынан басталады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Gate begins with the hard g sound /ɡ/.",
+      "explanation": {
+        "en": "Gate begins with the hard g sound /ɡ/.",
+        "ru": "Слово gate начинается с твёрдого звука g /ɡ/.",
+        "kk": "Gate сөзі қатаң g дыбысынан /ɡ/ басталады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The difference between 14:00 and 15:30 is 90 minutes.",
+      "explanation": {
+        "en": "The difference between 14:00 and 15:30 is 90 minutes.",
+        "ru": "Разница между 14:00 и 15:30 составляет 90 минут.",
+        "kk": "14:00 мен 15:30 арасындағы айырма 90 минут."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "They takes are, followed by going to and the base verb.",
+      "explanation": {
+        "en": "They takes are, followed by going to and the base verb.",
+        "ru": "С they используется are, затем going to и глагол в базовой форме.",
+        "kk": "They-мен are қолданылады, одан кейін going to және етістіктің негізгі формасы келеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Be going to can express a prediction based on present evidence.",
+      "explanation": {
+        "en": "Be going to can express a prediction based on present evidence.",
+        "ru": "Be going to может выражать предсказание на основе очевидных признаков в настоящем.",
+        "kk": "Be going to қазіргі белгілерге негізделген болжамды білдіре алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Passengers go to their departure gate to board the flight.",
+      "explanation": {
+        "en": "Passengers go to their departure gate to board the flight.",
+        "ru": "Пассажиры идут к выходу на посадку, чтобы сесть на рейс.",
+        "kk": "Жолаушылар рейске отыру үшін ұшуға шығатын шығу есігіне барады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Passengers and their hand luggage are screened at security.",
+      "explanation": {
+        "en": "Passengers and their hand luggage are screened at security.",
+        "ru": "Пассажиров и их ручную кладь проверяют на досмотре.",
+        "kk": "Жолаушылар мен олардың қол жүгі қауіпсіздік тексеруінде тексеріледі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Gentle begins with the soft g sound /dʒ/.",
+      "explanation": {
+        "en": "Gentle begins with the soft g sound /dʒ/.",
+        "ru": "Слово gentle начинается с мягкого звука g /dʒ/.",
+        "kk": "Gentle сөзі жұмсақ g дыбысынан /dʒ/ басталады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "A connecting flight takes you from an intermediate airport towards your destination.",
+      "explanation": {
+        "en": "A connecting flight takes you from an intermediate airport towards your destination.",
+        "ru": "Стыковочный рейс везёт вас из промежуточного аэропорта к пункту назначения.",
+        "kk": "Connecting flight сізді аралық әуежайдан баратын жеріңізге апарады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1193,7 +1309,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Now leaves from gate 22 signals the new gate. The departure time is unchanged.",
+      "explanation": {
+        "en": "Now leaves from gate 22 signals the new gate. The departure time is unchanged.",
+        "ru": "Now leaves from gate 22 указывает на новый выход. Время вылета не изменилось.",
+        "kk": "Now leaves from gate 22 жаңа шығу есігін көрсетеді. Ұшу уақыты өзгермеген."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

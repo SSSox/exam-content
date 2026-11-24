@@ -33,7 +33,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Present continuous uses are + -ing with a plural subject.",
+      "explanation": {
+        "en": "Present continuous uses are + -ing with a plural subject.",
+        "ru": "Present continuous образуется с are + -ing при подлежащем во множественном числе.",
+        "kk": "Present continuous көпше бастауышпен are + -ing арқылы жасалады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Use am + wearing with I.",
+      "explanation": {
+        "en": "Use am + wearing with I.",
+        "ru": "С I используйте am + wearing.",
+        "kk": "I-мен am + wearing қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use is + -ing for an action in progress.",
+      "explanation": {
+        "en": "Use is + -ing for an action in progress.",
+        "ru": "Для действия в процессе используйте is + -ing.",
+        "kk": "Жүріп жатқан іс-әрекет үшін is + -ing қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Present continuous questions put are before you.",
+      "explanation": {
+        "en": "Present continuous questions put are before you.",
+        "ru": "В вопросах present continuous are стоит перед you.",
+        "kk": "Present continuous сұрақтарында are you-дің алдына қойылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Use aren't + -ing with they.",
+      "explanation": {
+        "en": "Use aren't + -ing with they.",
+        "ru": "С they используйте aren't + -ing.",
+        "kk": "They-мен aren't + -ing қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "At the moment identifies an action in progress.",
+      "explanation": {
+        "en": "At the moment identifies an action in progress.",
+        "ru": "At the moment указывает на действие, происходящее сейчас.",
+        "kk": "At the moment қазіргі сәтте жүріп жатқан іс-әрекетті көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "A plural subject takes are painting.",
+      "explanation": {
+        "en": "A plural subject takes are painting.",
+        "ru": "Подлежащее во множественном числе требует are painting.",
+        "kk": "Көпше бастауыш are painting формасын талап етеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Double the final n before adding -ing.",
+      "explanation": {
+        "en": "Double the final n before adding -ing.",
+        "ru": "Перед -ing удвойте конечную n.",
+        "kk": "-ing қосар алдында соңғы n әрпін екі еселеңіз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Drop the silent final e before adding -ing.",
+      "explanation": {
+        "en": "Drop the silent final e before adding -ing.",
+        "ru": "Перед -ing отбросьте безударную конечную e.",
+        "kk": "-ing қосар алдында соңғы дыбысталмайтын e әрпін алып тастаңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Today contrasts a temporary action with her usual habit.",
+      "explanation": {
+        "en": "Today contrasts a temporary action with her usual habit.",
+        "ru": "Today противопоставляет временное действие обычной привычке.",
+        "kk": "Today уақытша іс-әрекетті әдеттегі әдетпен салыстырады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Use the negative form of is in the answer.",
+      "explanation": {
+        "en": "Use the negative form of is in the answer.",
+        "ru": "В ответе используйте отрицательную форму is.",
+        "kk": "Жауапта is-тің болымсыз формасын қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The continuous question uses are with you.",
+      "explanation": {
+        "en": "The continuous question uses are with you.",
+        "ru": "В вопросе continuous с you используется are.",
+        "kk": "You-мен continuous сұрағында are қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Socks are worn on the feet.",
+      "explanation": {
+        "en": "Socks are worn on the feet.",
+        "ru": "Носки надевают на ноги.",
+        "kk": "Шұлықты аяққа киеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "A scarf can protect the neck from cold.",
+      "explanation": {
+        "en": "A scarf can protect the neck from cold.",
+        "ru": "Шарф может защитить шею от холода.",
+        "kk": "Шарф мойынды суықтан қорғай алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Gloves cover the hands.",
+      "explanation": {
+        "en": "Gloves cover the hands.",
+        "ru": "Перчатки закрывают руки.",
+        "kk": "Қолғап қолды жабады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Under expresses a lower position beneath something.",
+      "explanation": {
+        "en": "Under expresses a lower position beneath something.",
+        "ru": "Under выражает положение ниже чего-либо.",
+        "kk": "Under бір нәрсенің астындағы төменгі орынды білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Above means in a higher position.",
+      "explanation": {
+        "en": "Above means in a higher position.",
+        "ru": "Above значит выше, в более высоком положении.",
+        "kk": "Above — жоғарырақ, биік орында деген мағынаны білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Between relates one object to two others.",
+      "explanation": {
+        "en": "Between relates one object to two others.",
+        "ru": "Between связывает один предмет с двумя другими.",
+        "kk": "Between бір затты қалған екеуімен байланыстырады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Beside means next to.",
+      "explanation": {
+        "en": "Beside means next to.",
+        "ru": "Beside значит рядом.",
+        "kk": "Beside — қасында дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The initial sound in shoe is /ʃ/.",
+      "explanation": {
+        "en": "The initial sound in shoe is /ʃ/.",
+        "ru": "Начальный звук в shoe — /ʃ/.",
+        "kk": "Shoe сөзіндегі бастапқы дыбыс — /ʃ/."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Television contains the voiced sound /ʒ/.",
+      "explanation": {
+        "en": "Television contains the voiced sound /ʒ/.",
+        "ru": "В слове television есть звонкий звук /ʒ/.",
+        "kk": "Television сөзінде үнді /ʒ/ дыбысы бар."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The text identifies the woman as the person holding the bag.",
+      "explanation": {
+        "en": "The text identifies the woman as the person holding the bag.",
+        "ru": "В тексте женщина названа человеком, держащим сумку.",
+        "kk": "Мәтінде әйел сөмке ұстап тұрған адам ретінде көрсетілген."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The question asks about clothes being worn today.",
+      "explanation": {
+        "en": "The question asks about clothes being worn today.",
+        "ru": "Вопрос о том, какая одежда надета сегодня.",
+        "kk": "Сұрақ бүгін қандай киім киілгені туралы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The text states that the bike is behind him.",
+      "explanation": {
+        "en": "The text states that the bike is behind him.",
+        "ru": "В тексте сказано, что велосипед стоит позади него.",
+        "kk": "Мәтінде велосипед оның артында тұр делінген."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "An action happening now uses is + the -ing form with the artist.",
+      "explanation": {
+        "en": "An action happening now uses is + the -ing form with the artist.",
+        "ru": "Действие, происходящее сейчас, выражается через is + форму на -ing с artist.",
+        "kk": "Қазір болып жатқан іс-әрекет artist-пен is + -ing формасы арқылы беріледі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "If the children are in front of the case, it is behind them.",
+      "explanation": {
+        "en": "If the children are in front of the case, it is behind them.",
+        "ru": "Если дети стоят перед чемоданом, то он находится позади них.",
+        "kk": "Балалар чемоданның алдында тұрса, ол олардың артында болады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "A belt goes around the waist and holds trousers up.",
+      "explanation": {
+        "en": "A belt goes around the waist and holds trousers up.",
+        "ru": "Ремень обходит талию и поддерживает брюки.",
+        "kk": "Белбеу беліңді айналып, шалбарды ұстап тұрады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Measure contains /ʒ/. The other words contain /ʃ/.",
+      "explanation": {
+        "en": "Measure contains /ʒ/. The other words contain /ʃ/.",
+        "ru": "Measure содержит /ʒ/. Остальные слова содержат /ʃ/.",
+        "kk": "Measure сөзінде /ʒ/ бар. Қалған сөздерде /ʃ/ бар."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use are + the -ing form for an action in progress with a plural subject.",
+      "explanation": {
+        "en": "Use are + the -ing form for an action in progress with a plural subject.",
+        "ru": "Для действия в процессе при подлежащем во множественном числе используйте are + форму на -ing.",
+        "kk": "Көпше бастауышпен жүріп жатқан іс-әрекет үшін are + -ing формасы қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1193,7 +1309,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "On indicates contact with a surface.",
+      "explanation": {
+        "en": "On indicates contact with a surface.",
+        "ru": "On указывает на контакт с поверхностью.",
+        "kk": "On бетпен жанасуды көрсетеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1233,7 +1353,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Is putting on describes the action that is still happening.",
+      "explanation": {
+        "en": "Is putting on describes the action that is still happening.",
+        "ru": "Is putting on описывает действие, которое ещё продолжается.",
+        "kk": "Is putting on әлі жалғасып жатқан іс-әрекетті сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

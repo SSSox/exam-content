@@ -7,33 +7,61 @@
       "topic_id": 3,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Верховного правителя хунну китайские авторы называют...",
+      "question": {
+        "ru": "Верховного правителя хунну китайские авторы называют...",
+        "en": "The supreme ruler of the Xiongnu is called by Chinese authors...",
+        "kk": "Қытай авторлары ғұндардың жоғарғы билеушісін ... деп атайды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "каган"
+          "text": {
+            "ru": "каган",
+            "en": "kagan",
+            "kk": "қаған"
+          }
         },
         {
           "id": "B",
-          "text": "гуньмо"
+          "text": {
+            "ru": "гуньмо",
+            "en": "gunmo",
+            "kk": "гуньмо"
+          }
         },
         {
           "id": "C",
-          "text": "шаньюй"
+          "text": {
+            "ru": "шаньюй",
+            "en": "shanyu",
+            "kk": "шаньюй"
+          }
         },
         {
           "id": "D",
-          "text": "ябгу"
+          "text": {
+            "ru": "ябгу",
+            "en": "yabgu",
+            "kk": "жабғу"
+          }
         },
         {
           "id": "E",
-          "text": "тархан"
+          "text": {
+            "ru": "тархан",
+            "en": "tarkhan",
+            "kk": "тархан"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Верховного правителя хунну китайские авторы называют шаньюй.",
+      "explanation": {
+        "ru": "Верховного правителя хунну китайские авторы называют шаньюй.",
+        "en": "The supreme ruler of the Xiongnu is called shanyu by Chinese authors.",
+        "kk": "Қытай авторлары ғұндардың жоғарғы билеушісін шаньюй деп атайды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -48,6 +76,12 @@
               "ru": [
                 "шаньюй",
                 "чаньюй"
+              ],
+              "en": [
+                "shanyu"
+              ],
+              "kk": [
+                "шаньюй"
               ]
             }
           }
@@ -59,33 +93,61 @@
       "topic_id": 3,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Туры в персидских источниках именуются саками, а в сочинениях греческих авторов —...",
+      "question": {
+        "ru": "Туры в персидских источниках именуются саками, а в сочинениях греческих авторов —...",
+        "en": "The Turs in Persian sources are called Saks, and in the works of Greek authors...",
+        "kk": "Парсы деректерінде тұрлар сақтар деп аталады, ал грек авторларының шығармаларында ..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "скифы"
+          "text": {
+            "ru": "скифы",
+            "en": "Scythians",
+            "kk": "скифтер"
+          }
         },
         {
           "id": "B",
-          "text": "сарматы"
+          "text": {
+            "ru": "сарматы",
+            "en": "Sarmatians",
+            "kk": "сарматтар"
+          }
         },
         {
           "id": "C",
-          "text": "гунны"
+          "text": {
+            "ru": "гунны",
+            "en": "Huns",
+            "kk": "ғұндар"
+          }
         },
         {
           "id": "D",
-          "text": "аланы"
+          "text": {
+            "ru": "аланы",
+            "en": "Alans",
+            "kk": "аландар"
+          }
         },
         {
           "id": "E",
-          "text": "тохары"
+          "text": {
+            "ru": "тохары",
+            "en": "Tocharians",
+            "kk": "тохарлар"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Туры персидских источников — саки, а в сочинениях греческих авторов они фигурируют под именем скифов.",
+      "explanation": {
+        "ru": "Туры персидских источников — саки, а в сочинениях греческих авторов они фигурируют под именем скифов.",
+        "en": "The Turs of Persian sources are the Saks, and in the works of Greek authors they appear under the name of the Scythians.",
+        "kk": "Парсы деректеріндегі тұрлар — сақтар, ал грек авторларының шығармаларында олар скифтер деген атпен кездеседі."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -100,6 +162,12 @@
               "ru": [
                 "скифы",
                 "скиф"
+              ],
+              "en": [
+                "scythians"
+              ],
+              "kk": [
+                "скифтер"
               ]
             }
           }
@@ -111,33 +179,61 @@
       "topic_id": 3,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Предводительницей массагетов, с которой воевал персидский царь Кир, была царица...",
+      "question": {
+        "ru": "Предводительницей массагетов, с которой воевал персидский царь Кир, была царица...",
+        "en": "The leader of the Massagetae, with whom the Persian king Cyrus fought, was Queen...",
+        "kk": "Парсы патшасы Кирмен соғысқан массагеттердің басшысы ... патшайым болды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Семирамида"
+          "text": {
+            "ru": "Семирамида",
+            "en": "Semiramis",
+            "kk": "Семирамида"
+          }
         },
         {
           "id": "B",
-          "text": "Клеопатра"
+          "text": {
+            "ru": "Клеопатра",
+            "en": "Cleopatra",
+            "kk": "Клеопатра"
+          }
         },
         {
           "id": "C",
-          "text": "Нефертити"
+          "text": {
+            "ru": "Нефертити",
+            "en": "Nefertiti",
+            "kk": "Нефертити"
+          }
         },
         {
           "id": "D",
-          "text": "Артемисия"
+          "text": {
+            "ru": "Артемисия",
+            "en": "Artemisia",
+            "kk": "Артемисия"
+          }
         },
         {
           "id": "E",
-          "text": "Томирис"
+          "text": {
+            "ru": "Томирис",
+            "en": "Tomyris",
+            "kk": "Томирис"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Геродот называет царицей массагетов Томирис, воевавшую с Киром.",
+      "explanation": {
+        "ru": "Геродот называет царицей массагетов Томирис, воевавшую с Киром.",
+        "en": "Herodotus names Tomyris as the queen of the Massagetae who fought against Cyrus.",
+        "kk": "Геродот Кирмен соғысқан массагеттердің патшайымы деп Томиристі атайды."
+      },
       "source_references": [
         {
           "file": "Лекции/Выдерджки из Истории Геродота и Шицзи-1 (3) (2) (3) (1).docx",
@@ -153,6 +249,12 @@
                 "Томирис",
                 "Томиррис",
                 "Тумар"
+              ],
+              "en": [
+                "tomyris"
+              ],
+              "kk": [
+                "томирис"
               ]
             }
           }
@@ -170,33 +272,61 @@
       "topic_id": 3,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Основными видами скота у кочевников, наиболее приспособленными к дальним кочевьям, были лошадь, овца и...",
+      "question": {
+        "ru": "Основными видами скота у кочевников, наиболее приспособленными к дальним кочевьям, были лошадь, овца и...",
+        "en": "The main types of livestock among the nomads, best adapted to long-distance migrations, were the horse, the sheep and...",
+        "kk": "Көшпенділердегі алыс көшуге ең бейімделген мал түрлері — жылқы, қой және..."
+      },
       "options": [
         {
           "id": "A",
-          "text": "свинья"
+          "text": {
+            "ru": "свинья",
+            "en": "the pig",
+            "kk": "доңыз"
+          }
         },
         {
           "id": "B",
-          "text": "верблюд"
+          "text": {
+            "ru": "верблюд",
+            "en": "the camel",
+            "kk": "түйе"
+          }
         },
         {
           "id": "C",
-          "text": "як"
+          "text": {
+            "ru": "як",
+            "en": "the yak",
+            "kk": "қарақұйрық"
+          }
         },
         {
           "id": "D",
-          "text": "осёл"
+          "text": {
+            "ru": "осёл",
+            "en": "the donkey",
+            "kk": "есек"
+          }
         },
         {
           "id": "E",
-          "text": "олень"
+          "text": {
+            "ru": "олень",
+            "en": "the deer",
+            "kk": "бұғы"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Основными видами скота у кочевников были лошадь, овца и верблюд.",
+      "explanation": {
+        "ru": "Основными видами скота у кочевников были лошадь, овца и верблюд.",
+        "en": "The main types of livestock among the nomads were the horse, the sheep and the camel.",
+        "kk": "Көшпенділердің негізгі мал түрлері жылқы, қой және түйе болды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -211,6 +341,13 @@
               "ru": [
                 "верблюд",
                 "верблюды"
+              ],
+              "en": [
+                "the camel",
+                "camel"
+              ],
+              "kk": [
+                "түйе"
               ]
             }
           }
@@ -222,33 +359,61 @@
       "topic_id": 3,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Происхождение савроматов исследователи связывают со срубной культурой и...",
+      "question": {
+        "ru": "Происхождение савроматов исследователи связывают со срубной культурой и...",
+        "en": "Researchers link the origin of the Sauromatians with the Srubna culture and...",
+        "kk": "Зерттеушілер савроматтардың шығуын срубный мәдениетімен және ... байланыстырады."
+      },
       "options": [
         {
           "id": "A",
-          "text": "афанасьевской культурой"
+          "text": {
+            "ru": "афанасьевской культурой",
+            "en": "the Afanasievo culture",
+            "kk": "афанасьев мәдениетімен"
+          }
         },
         {
           "id": "B",
-          "text": "тасмолинской культурой"
+          "text": {
+            "ru": "тасмолинской культурой",
+            "en": "the Tasmola culture",
+            "kk": "тасмола мәдениетімен"
+          }
         },
         {
           "id": "C",
-          "text": "ботайской культурой"
+          "text": {
+            "ru": "ботайской культурой",
+            "en": "the Botai culture",
+            "kk": "ботай мәдениетімен"
+          }
         },
         {
           "id": "D",
-          "text": "андроновской культурой"
+          "text": {
+            "ru": "андроновской культурой",
+            "en": "the Andronovo culture",
+            "kk": "андронов мәдениетімен"
+          }
         },
         {
           "id": "E",
-          "text": "карасукской культурой"
+          "text": {
+            "ru": "карасукской культурой",
+            "en": "the Karasuk culture",
+            "kk": "карасук мәдениетімен"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Происхождение савроматов исследователи связывают со срубной и андроновской культурами.",
+      "explanation": {
+        "ru": "Происхождение савроматов исследователи связывают со срубной и андроновской культурами.",
+        "en": "Researchers link the origin of the Sauromatians with the Srubna and Andronovo cultures.",
+        "kk": "Зерттеушілер савроматтардың шығуын срубный және андронов мәдениеттерімен байланыстырады."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -261,33 +426,61 @@
       "topic_id": 3,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Хунну не возводили курганов, а отмечали погребения оградкой из...",
+      "question": {
+        "ru": "Хунну не возводили курганов, а отмечали погребения оградкой из...",
+        "en": "The Xiongnu did not build burial mounds, but marked burials with a fence made of...",
+        "kk": "Ғұндар қорғандар тұрғызбай, қабірлерді ... қоршаумен белгілеген."
+      },
       "options": [
         {
           "id": "A",
-          "text": "камней"
+          "text": {
+            "ru": "камней",
+            "en": "stones",
+            "kk": "тастан жасалған"
+          }
         },
         {
           "id": "B",
-          "text": "глины"
+          "text": {
+            "ru": "глины",
+            "en": "clay",
+            "kk": "саздан жасалған"
+          }
         },
         {
           "id": "C",
-          "text": "дерева"
+          "text": {
+            "ru": "дерева",
+            "en": "wood",
+            "kk": "ағаштан жасалған"
+          }
         },
         {
           "id": "D",
-          "text": "костей"
+          "text": {
+            "ru": "костей",
+            "en": "bones",
+            "kk": "сүйектен жасалған"
+          }
         },
         {
           "id": "E",
-          "text": "войлока"
+          "text": {
+            "ru": "войлока",
+            "en": "felt",
+            "kk": "киізден жасалған"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Хунну не возводили курганов, а отмечали погребения оградкой из камней.",
+      "explanation": {
+        "ru": "Хунну не возводили курганов, а отмечали погребения оградкой из камней.",
+        "en": "The Xiongnu did not build burial mounds, but marked burials with a fence of stones.",
+        "kk": "Ғұндар қорғандар тұрғызбай, қабірлерді тастан жасалған қоршаумен белгілеген."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -300,33 +493,61 @@
       "topic_id": 3,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Город на Сырдарье, построенный по приказу Александра Македонского, назывался...",
+      "question": {
+        "ru": "Город на Сырдарье, построенный по приказу Александра Македонского, назывался...",
+        "en": "The city on the Syr Darya built by order of Alexander the Great was called...",
+        "kk": "Ескендір Зұлқарнайынның бұйрығымен Сырдарияның бойында салынған қала ... деп аталды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "Александрия Египетская"
+          "text": {
+            "ru": "Александрия Египетская",
+            "en": "Alexandria of Egypt",
+            "kk": "Мысыр Александриясы"
+          }
         },
         {
           "id": "B",
-          "text": "Александрия Арахозийская"
+          "text": {
+            "ru": "Александрия Арахозийская",
+            "en": "Alexandria of Arachosia",
+            "kk": "Арахосия Александриясы"
+          }
         },
         {
           "id": "C",
-          "text": "Александрия Эсхата"
+          "text": {
+            "ru": "Александрия Эсхата",
+            "en": "Alexandria Eschate",
+            "kk": "Александрия Эсхата"
+          }
         },
         {
           "id": "D",
-          "text": "Александрия Троянская"
+          "text": {
+            "ru": "Александрия Троянская",
+            "en": "Alexandria Troas",
+            "kk": "Троя Александриясы"
+          }
         },
         {
           "id": "E",
-          "text": "Александрия Кавказская"
+          "text": {
+            "ru": "Александрия Кавказская",
+            "en": "Alexandria of the Caucasus",
+            "kk": "Кавказ Александриясы"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "По приказу Александра Македонского на Сырдарье построили Александрию Эсхату (Крайнюю).",
+      "explanation": {
+        "ru": "По приказу Александра Македонского на Сырдарье построили Александрию Эсхату (Крайнюю).",
+        "en": "By order of Alexander the Great, Alexandria Eschate (the Furthest) was built on the Syr Darya.",
+        "kk": "Ескендір Зұлқарнайынның бұйрығымен Сырдарияның бойында Александрия Эсхата (Шеткі) салынды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -339,33 +560,61 @@
       "topic_id": 3,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Каменные гряды у курганов тасмолинской культуры условно называют...",
+      "question": {
+        "ru": "Каменные гряды у курганов тасмолинской культуры условно называют...",
+        "en": "The stone ridges near the burial mounds of the Tasmola culture are conventionally called...",
+        "kk": "Тасмола мәдениетінің қорғандарының жанындағы тас қатарларды шартты түрде ... деп атайды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "рогами"
+          "text": {
+            "ru": "рогами",
+            "en": "horns",
+            "kk": "мүйіздер"
+          }
         },
         {
           "id": "B",
-          "text": "лучами"
+          "text": {
+            "ru": "лучами",
+            "en": "rays",
+            "kk": "сәулелер"
+          }
         },
         {
           "id": "C",
-          "text": "крыльями"
+          "text": {
+            "ru": "крыльями",
+            "en": "wings",
+            "kk": "қанаттар"
+          }
         },
         {
           "id": "D",
-          "text": "хвостами"
+          "text": {
+            "ru": "хвостами",
+            "en": "tails",
+            "kk": "құйрықтар"
+          }
         },
         {
           "id": "E",
-          "text": "усами"
+          "text": {
+            "ru": "усами",
+            "en": "whiskers",
+            "kk": "мұрттар"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Каменные гряды у курганов тасмолинской культуры условно называют «усами».",
+      "explanation": {
+        "ru": "Каменные гряды у курганов тасмолинской культуры условно называют «усами».",
+        "en": "The stone ridges near the burial mounds of the Tasmola culture are conventionally called \"whiskers\".",
+        "kk": "Тасмола мәдениетінің қорғандарының жанындағы тас қатарларды шартты түрде «мұрттар» деп атайды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -378,27 +627,51 @@
       "topic_id": 3,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "В персидских клинописных надписях говорится о трёх группах саков:",
+      "question": {
+        "ru": "В персидских клинописных надписях говорится о трёх группах саков:",
+        "en": "Persian cuneiform inscriptions speak of three groups of Saks:",
+        "kk": "Парсы сына жазбаларында сақтардың үш тобы туралы айтылады:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "парадарайя"
+          "text": {
+            "ru": "парадарайя",
+            "en": "Paradraya",
+            "kk": "парадарайя"
+          }
         },
         {
           "id": "B",
-          "text": "исседоны"
+          "text": {
+            "ru": "исседоны",
+            "en": "Issedones",
+            "kk": "исседондар"
+          }
         },
         {
           "id": "C",
-          "text": "аримаспы"
+          "text": {
+            "ru": "аримаспы",
+            "en": "Arimaspians",
+            "kk": "аримасптар"
+          }
         },
         {
           "id": "D",
-          "text": "хаомаварга"
+          "text": {
+            "ru": "хаомаварга",
+            "en": "Haumavarga",
+            "kk": "хаомаварга"
+          }
         },
         {
           "id": "E",
-          "text": "тиграхауда"
+          "text": {
+            "ru": "тиграхауда",
+            "en": "Tigrakhauda",
+            "kk": "тиграхауда"
+          }
         }
       ],
       "correct_answers": [
@@ -406,7 +679,11 @@
         "D",
         "E"
       ],
-      "explanation": "В персидских клинописных надписях названы саки парадарайя, хаомаварга и тиграхауда.",
+      "explanation": {
+        "ru": "В персидских клинописных надписях названы саки парадарайя, хаомаварга и тиграхауда.",
+        "en": "Persian cuneiform inscriptions name the Saks Paradraya, Haumavarga and Tigrakhauda.",
+        "kk": "Парсы сына жазбаларында сақтардың парадарайя, хаомаварга және тиграхауда топтары аталған."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -423,27 +700,51 @@
       "topic_id": 3,
       "difficulty_level": 2,
       "type": "multiple_choice",
-      "question": "К сакским некрополям Илийской долины относятся:",
+      "question": {
+        "ru": "К сакским некрополям Илийской долины относятся:",
+        "en": "The Saka necropolises of the Ili Valley include:",
+        "kk": "Іле алқабындағы сақ қорымдарына жатады:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Чиликты"
+          "text": {
+            "ru": "Чиликты",
+            "en": "Chilikty",
+            "kk": "Шілікті"
+          }
         },
         {
           "id": "B",
-          "text": "Бесшатыр"
+          "text": {
+            "ru": "Бесшатыр",
+            "en": "Besshatyr",
+            "kk": "Бесшатыр"
+          }
         },
         {
           "id": "C",
-          "text": "Иссык"
+          "text": {
+            "ru": "Иссык",
+            "en": "Issyk",
+            "kk": "Есік"
+          }
         },
         {
           "id": "D",
-          "text": "Уйгарак"
+          "text": {
+            "ru": "Уйгарак",
+            "en": "Uigarak",
+            "kk": "Ұйғарақ"
+          }
         },
         {
           "id": "E",
-          "text": "Кеген"
+          "text": {
+            "ru": "Кеген",
+            "en": "Kegen",
+            "kk": "Кеген"
+          }
         }
       ],
       "correct_answers": [
@@ -451,7 +752,11 @@
         "C",
         "E"
       ],
-      "explanation": "В Илийской долине находились некрополи Бесшатыр, Иссыкский, Тургенский, Кегенский и Алексеевский.",
+      "explanation": {
+        "ru": "В Илийской долине находились некрополи Бесшатыр, Иссыкский, Тургенский, Кегенский и Алексеевский.",
+        "en": "The necropolises of Besshatyr, Issyk, Turgen, Kegen and Alekseyevka were located in the Ili Valley.",
+        "kk": "Іле алқабында Бесшатыр, Есік, Түргень, Кеген және Алексеев қорымдары орналасқан."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -468,33 +773,61 @@
       "topic_id": 3,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Верх высокого колпака из кургана Иссык венчала фигурка...",
+      "question": {
+        "ru": "Верх высокого колпака из кургана Иссык венчала фигурка...",
+        "en": "The top of the tall cap from the Issyk kurgan was crowned with a figurine of...",
+        "kk": "Есік қорғанынан табылған биік қалпақтың төбесін ... мүсіншесі әсемдеп тұрды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "оленя"
+          "text": {
+            "ru": "оленя",
+            "en": "a deer",
+            "kk": "бұғының"
+          }
         },
         {
           "id": "B",
-          "text": "архара"
+          "text": {
+            "ru": "архара",
+            "en": "an argali",
+            "kk": "арқардың"
+          }
         },
         {
           "id": "C",
-          "text": "барса"
+          "text": {
+            "ru": "барса",
+            "en": "a snow leopard",
+            "kk": "барстың"
+          }
         },
         {
           "id": "D",
-          "text": "орла"
+          "text": {
+            "ru": "орла",
+            "en": "an eagle",
+            "kk": "бүркіттің"
+          }
         },
         {
           "id": "E",
-          "text": "коня"
+          "text": {
+            "ru": "коня",
+            "en": "a horse",
+            "kk": "жылқының"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Верх колпака из кургана Иссык венчала миниатюрная фигурка горного барана — архара.",
+      "explanation": {
+        "ru": "Верх колпака из кургана Иссык венчала миниатюрная фигурка горного барана — архара.",
+        "en": "The top of the cap from the Issyk kurgan was crowned with a miniature figurine of a mountain sheep, the argali.",
+        "kk": "Есік қорғанынан табылған қалпақтың төбесін тау қойы — арқардың кішкентай мүсіншесі әсемдеп тұрды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -507,33 +840,61 @@
       "topic_id": 3,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Ханьский император Гаоцзу был вынужден подписать с Модэ договор о...",
+      "question": {
+        "ru": "Ханьский император Гаоцзу был вынужден подписать с Модэ договор о...",
+        "en": "The Han emperor Gaozu was forced to sign with Modun a treaty on...",
+        "kk": "Хань императоры Гаоцзу Модемен ... туралы шарт жасасуға мәжбүр болды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "вассальной зависимости хунну"
+          "text": {
+            "ru": "вассальной зависимости хунну",
+            "en": "the vassal dependence of the Xiongnu",
+            "kk": "ғұндардың вассалдық тәуелділігі"
+          }
         },
         {
           "id": "B",
-          "text": "разделе кочевий в Ордосе"
+          "text": {
+            "ru": "разделе кочевий в Ордосе",
+            "en": "the division of pastures in the Ordos",
+            "kk": "Ордостағы көшіп жүру жерлерін бөлу"
+          }
         },
         {
           "id": "C",
-          "text": "союзе против усуней"
+          "text": {
+            "ru": "союзе против усуней",
+            "en": "an alliance against the Wusun",
+            "kk": "үйсіндерге қарсы одақ"
+          }
         },
         {
           "id": "D",
-          "text": "мире и родстве"
+          "text": {
+            "ru": "мире и родстве",
+            "en": "peace and kinship",
+            "kk": "бейбітшілік пен құдандалық"
+          }
         },
         {
           "id": "E",
-          "text": "выкупе пленных"
+          "text": {
+            "ru": "выкупе пленных",
+            "en": "the ransom of prisoners",
+            "kk": "тұтқындарды өтеп алу"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Император Гаоцзу подписал с Модэ «договор о мире и родстве» и обязался платить дань.",
+      "explanation": {
+        "ru": "Император Гаоцзу подписал с Модэ «договор о мире и родстве» и обязался платить дань.",
+        "en": "Emperor Gaozu signed with Modun a \"treaty of peace and kinship\" and undertook to pay tribute.",
+        "kk": "Гаоцзу императоры Модемен «бейбітшілік пен құдандалық туралы шарт» жасасып, алым-салық төлеуге міндеттенді."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -546,33 +907,61 @@
       "topic_id": 3,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Откуда начинался Степной путь, действовавший с середины I тыс. до н.э.?",
+      "question": {
+        "ru": "Откуда начинался Степной путь, действовавший с середины I тыс. до н.э.?",
+        "en": "Where did the Steppe Route, which operated from the middle of the 1st millennium BC, begin?",
+        "kk": "Б.з.д. I мыңжылдықтың ортасынан бастап жұмыс істеген Дала жолы қайдан басталды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "С большой излучины Хуанхэ"
+          "text": {
+            "ru": "С большой излучины Хуанхэ",
+            "en": "From the great bend of the Yellow River",
+            "kk": "Хуанхэнің үлкен иірімінен"
+          }
         },
         {
           "id": "B",
-          "text": "С устья Сырдарьи"
+          "text": {
+            "ru": "С устья Сырдарьи",
+            "en": "From the mouth of the Syr Darya",
+            "kk": "Сырдарияның сағасынан"
+          }
         },
         {
           "id": "C",
-          "text": "С предгорий Памира"
+          "text": {
+            "ru": "С предгорий Памира",
+            "en": "From the foothills of the Pamirs",
+            "kk": "Памир тау етегінен"
+          }
         },
         {
           "id": "D",
-          "text": "С берегов Каспия"
+          "text": {
+            "ru": "С берегов Каспия",
+            "en": "From the shores of the Caspian",
+            "kk": "Каспий жағалауынан"
+          }
         },
         {
           "id": "E",
-          "text": "С нагорья Тибета"
+          "text": {
+            "ru": "С нагорья Тибета",
+            "en": "From the Tibetan Plateau",
+            "kk": "Тибет таулы үстіртінен"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Степной путь начинался в большой излучине Хуанхэ и доходил до земель греков и этрусков.",
+      "explanation": {
+        "ru": "Степной путь начинался в большой излучине Хуанхэ и доходил до земель греков и этрусков.",
+        "en": "The Steppe Route began at the great bend of the Yellow River and reached the lands of the Greeks and Etruscans.",
+        "kk": "Дала жолы Хуанхэнің үлкен иірімінен басталып, гректер мен этрусктер жеріне дейін жеткен."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -585,33 +974,61 @@
       "topic_id": 3,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Вторая волна переселения хунну на территорию Казахстана началась в...",
+      "question": {
+        "ru": "Вторая волна переселения хунну на территорию Казахстана началась в...",
+        "en": "The second wave of Xiongnu migration to the territory of Kazakhstan began in...",
+        "kk": "Ғұндардың Қазақстан аумағына қоныс аударуының екінші толқыны ... басталды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "конце III в. до н.э."
+          "text": {
+            "ru": "конце III в. до н.э.",
+            "en": "the late 3rd century BC",
+            "kk": "б.з.д. III ғасырдың соңында"
+          }
         },
         {
           "id": "B",
-          "text": "середине I в. до н.э."
+          "text": {
+            "ru": "середине I в. до н.э.",
+            "en": "the mid-1st century BC",
+            "kk": "б.з.д. I ғасырдың ортасында"
+          }
         },
         {
           "id": "C",
-          "text": "I в. н.э."
+          "text": {
+            "ru": "I в. н.э.",
+            "en": "the 1st century AD",
+            "kk": "б.з. I ғасырында"
+          }
         },
         {
           "id": "D",
-          "text": "III в. н.э."
+          "text": {
+            "ru": "III в. н.э.",
+            "en": "the 3rd century AD",
+            "kk": "б.з. III ғасырында"
+          }
         },
         {
           "id": "E",
-          "text": "V в. н.э."
+          "text": {
+            "ru": "V в. н.э.",
+            "en": "the 5th century AD",
+            "kk": "б.з. V ғасырында"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Вторая волна началась в I в. н.э., когда северные хунну, теснимые Китаем, вновь двинулись на запад.",
+      "explanation": {
+        "ru": "Вторая волна началась в I в. н.э., когда северные хунну, теснимые Китаем, вновь двинулись на запад.",
+        "en": "The second wave began in the 1st century AD, when the Northern Xiongnu, pressed by China, again moved west.",
+        "kk": "Екінші толқын б.з. I ғасырында, Қытай қысымына ұшыраған солтүстік ғұндар қайтадан батысқа қарай жылжыған кезде басталды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -624,27 +1041,51 @@
       "topic_id": 3,
       "difficulty_level": 3,
       "type": "multiple_choice",
-      "question": "Из Передней Азии и Ирана к сакам пришли образы:",
+      "question": {
+        "ru": "Из Передней Азии и Ирана к сакам пришли образы:",
+        "en": "From Western Asia and Iran the images that came to the Saks were:",
+        "kk": "Алдыңғы Азия мен Ираннан сақтарға мына бейнелер келді:"
+      },
       "options": [
         {
           "id": "A",
-          "text": "льва"
+          "text": {
+            "ru": "льва",
+            "en": "the lion",
+            "kk": "арыстан"
+          }
         },
         {
           "id": "B",
-          "text": "льва-грифона"
+          "text": {
+            "ru": "льва-грифона",
+            "en": "the lion-griffin",
+            "kk": "арыстан-грифон"
+          }
         },
         {
           "id": "C",
-          "text": "оленя"
+          "text": {
+            "ru": "оленя",
+            "en": "the deer",
+            "kk": "бұғы"
+          }
         },
         {
           "id": "D",
-          "text": "«древа жизни»"
+          "text": {
+            "ru": "«древа жизни»",
+            "en": "the \"tree of life\"",
+            "kk": "«өмір ағашы»"
+          }
         },
         {
           "id": "E",
-          "text": "снежного барса"
+          "text": {
+            "ru": "снежного барса",
+            "en": "the snow leopard",
+            "kk": "ілбіс"
+          }
         }
       ],
       "correct_answers": [
@@ -652,7 +1093,11 @@
         "B",
         "D"
       ],
-      "explanation": "Образы льва, льва-грифона и «древа жизни» пришли к сакам из Передней Азии и Ирана, а олень и снежный барс были местными.",
+      "explanation": {
+        "ru": "Образы льва, льва-грифона и «древа жизни» пришли к сакам из Передней Азии и Ирана, а олень и снежный барс были местными.",
+        "en": "The images of the lion, the lion-griffin and the \"tree of life\" came to the Saks from Western Asia and Iran, while the deer and the snow leopard were local.",
+        "kk": "Арыстан, арыстан-грифон және «өмір ағашы» бейнелері сақтарға Алдыңғы Азия мен Ираннан келді, ал бұғы мен ілбіс жергілікті бейнелер болды."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -665,33 +1110,61 @@
       "topic_id": 3,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Что, по мнению В.В. Радлова, показывало число захороненных с умершим лошадей?",
+      "question": {
+        "ru": "Что, по мнению В.В. Радлова, показывало число захороненных с умершим лошадей?",
+        "en": "According to V.V. Radlov, what did the number of horses buried with the deceased indicate?",
+        "kk": "В.В. Радловтың пікірінше, марқұммен бірге жерленген жылқылардың саны нені көрсетті?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "его возраст"
+          "text": {
+            "ru": "его возраст",
+            "en": "his age",
+            "kk": "оның жасын"
+          }
         },
         {
           "id": "B",
-          "text": "род его занятий"
+          "text": {
+            "ru": "род его занятий",
+            "en": "his occupation",
+            "kk": "оның кәсібін"
+          }
         },
         {
           "id": "C",
-          "text": "место его рождения"
+          "text": {
+            "ru": "место его рождения",
+            "en": "his place of birth",
+            "kk": "оның туған жерін"
+          }
         },
         {
           "id": "D",
-          "text": "причину его смерти"
+          "text": {
+            "ru": "причину его смерти",
+            "en": "the cause of his death",
+            "kk": "оның қайтыс болу себебін"
+          }
         },
         {
           "id": "E",
-          "text": "его социальный статус"
+          "text": {
+            "ru": "его социальный статус",
+            "en": "his social status",
+            "kk": "оның әлеуметтік мәртебесін"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "По Радлову, лошадь в погребении была признаком социального статуса: больше всего их в богатых могилах.",
+      "explanation": {
+        "ru": "По Радлову, лошадь в погребении была признаком социального статуса: больше всего их в богатых могилах.",
+        "en": "According to Radlov, a horse in a burial was a sign of social status: they are most numerous in rich graves.",
+        "kk": "Радловтың пікірінше, жерлеудегі жылқы әлеуметтік мәртебенің белгісі болған: олар бай қабірлерде ең көп."
+      },
       "source_references": [
         {
           "file": "Лекции/СОЦИАЛЬНО-ПОЛИТИЧЕСКАЯ ОРГАНИЗАЦИЯ Васютин Дашковский (1).pdf",
@@ -704,33 +1177,61 @@
       "topic_id": 3,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "По мнению А.М. Хазанова, политическая организация сарматов приняла форму...",
+      "question": {
+        "ru": "По мнению А.М. Хазанова, политическая организация сарматов приняла форму...",
+        "en": "According to A.M. Khazanov, the political organization of the Sarmatians took the form of...",
+        "kk": "А.М. Хазановтың пікірінше, сарматтардың саяси ұйымы ... нысанын алды."
+      },
       "options": [
         {
           "id": "A",
-          "text": "военной демократии"
+          "text": {
+            "ru": "военной демократии",
+            "en": "military democracy",
+            "kk": "әскери демократия"
+          }
         },
         {
           "id": "B",
-          "text": "военной иерархии"
+          "text": {
+            "ru": "военной иерархии",
+            "en": "a military hierarchy",
+            "kk": "әскери иерархия"
+          }
         },
         {
           "id": "C",
-          "text": "раннего государства"
+          "text": {
+            "ru": "раннего государства",
+            "en": "an early state",
+            "kk": "ерте мемлекет"
+          }
         },
         {
           "id": "D",
-          "text": "жреческой теократии"
+          "text": {
+            "ru": "жреческой теократии",
+            "en": "a priestly theocracy",
+            "kk": "абыздық теократия"
+          }
         },
         {
           "id": "E",
-          "text": "родовой общины"
+          "text": {
+            "ru": "родовой общины",
+            "en": "a clan community",
+            "kk": "рулық қауым"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Хазанов полагал, что политическая организация сарматов приняла форму военной иерархии, не тождественной военной демократии.",
+      "explanation": {
+        "ru": "Хазанов полагал, что политическая организация сарматов приняла форму военной иерархии, не тождественной военной демократии.",
+        "en": "Khazanov believed that the political organization of the Sarmatians took the form of a military hierarchy, not identical to military democracy.",
+        "kk": "Хазанов сарматтардың саяси ұйымы әскери демократиямен бірдей емес, әскери иерархия нысанын алды деп есептеді."
+      },
       "source_references": [
         {
           "file": "Лекции/СОЦИАЛЬНО-ПОЛИТИЧЕСКАЯ ОРГАНИЗАЦИЯ Васютин Дашковский (1).pdf",
@@ -743,33 +1244,61 @@
       "topic_id": 3,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какое требование дунху Модэ отказался выполнить?",
+      "question": {
+        "ru": "Какое требование дунху Модэ отказался выполнить?",
+        "en": "Which demand did Modun refuse to meet for the Donghu?",
+        "kk": "Моде дунхулардың қандай талабын орындаудан бас тартты?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Отдать тысячелийного коня"
+          "text": {
+            "ru": "Отдать тысячелийного коня",
+            "en": "To give the thousand-li horse",
+            "kk": "Мың лилік жылқыны беруден"
+          }
         },
         {
           "id": "B",
-          "text": "Отдать одну из своих жён"
+          "text": {
+            "ru": "Отдать одну из своих жён",
+            "en": "To give one of his wives",
+            "kk": "Әйелдерінің бірін беруден"
+          }
         },
         {
           "id": "C",
-          "text": "Выдать сына заложником"
+          "text": {
+            "ru": "Выдать сына заложником",
+            "en": "To hand over his son as a hostage",
+            "kk": "Ұлын кепілдікке беруден"
+          }
         },
         {
           "id": "D",
-          "text": "Уступить полосу пограничной земли"
+          "text": {
+            "ru": "Уступить полосу пограничной земли",
+            "en": "To cede a strip of border land",
+            "kk": "Шекара жерінің бір белдеуін беруден"
+          }
         },
         {
           "id": "E",
-          "text": "Платить дань скотом"
+          "text": {
+            "ru": "Платить дань скотом",
+            "en": "To pay tribute in livestock",
+            "kk": "Малмен алым-салық төлеуден"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Модэ отдал дунху коня и жену, но отказался уступить полосу земли, назвав землю основанием государства.",
+      "explanation": {
+        "ru": "Модэ отдал дунху коня и жену, но отказался уступить полосу земли, назвав землю основанием государства.",
+        "en": "Modun gave the Donghu the horse and a wife, but refused to cede a strip of land, calling land the foundation of the state.",
+        "kk": "Моде дунхуларға жылқы мен әйелін берді, бірақ жерді мемлекеттің негізі деп атап, жер белдеуін беруден бас тартты."
+      },
       "source_references": [
         {
           "file": "Лекции/Выдерджки из Истории Геродота и Шицзи-1 (3) (2) (3) (1).docx",
@@ -782,27 +1311,51 @@
       "topic_id": 3,
       "difficulty_level": 4,
       "type": "multiple_choice",
-      "question": "Укажите признаки, говорящие о достижении хунну уровня ранней государственности.",
+      "question": {
+        "ru": "Укажите признаки, говорящие о достижении хунну уровня ранней государственности.",
+        "en": "Indicate the features showing that the Xiongnu reached the level of early statehood.",
+        "kk": "Ғұндардың ерте мемлекеттілік деңгейіне жеткенін көрсететін белгілерді көрсетіңіз."
+      },
       "options": [
         {
           "id": "A",
-          "text": "наличие территориальных владений"
+          "text": {
+            "ru": "наличие территориальных владений",
+            "en": "the presence of territorial possessions",
+            "kk": "аумақтық иеліктердің болуы"
+          }
         },
         {
           "id": "B",
-          "text": "отсутствие частной собственности на скот и землю"
+          "text": {
+            "ru": "отсутствие частной собственности на скот и землю",
+            "en": "the absence of private property in livestock and land",
+            "kk": "мал мен жерге жеке меншіктің болмауы"
+          }
         },
         {
           "id": "C",
-          "text": "примитивный бюрократический аппарат"
+          "text": {
+            "ru": "примитивный бюрократический аппарат",
+            "en": "a primitive bureaucratic apparatus",
+            "kk": "қарапайым бюрократиялық аппарат"
+          }
         },
         {
           "id": "D",
-          "text": "полное сохранение родоплеменных органов управления"
+          "text": {
+            "ru": "полное сохранение родоплеменных органов управления",
+            "en": "the complete preservation of tribal governing bodies",
+            "kk": "рулық-тайпалық басқару органдарының толық сақталуы"
+          }
         },
         {
           "id": "E",
-          "text": "введение налога как формы эксплуатации"
+          "text": {
+            "ru": "введение налога как формы эксплуатации",
+            "en": "the introduction of a tax as a form of exploitation",
+            "kk": "қанаудың нысаны ретінде салықтың енгізілуі"
+          }
         }
       ],
       "correct_answers": [
@@ -810,7 +1363,11 @@
         "C",
         "E"
       ],
-      "explanation": "О ранней государственности хунну говорят территориальные владения, частная собственность, бюрократический аппарат, налог и право.",
+      "explanation": {
+        "ru": "О ранней государственности хунну говорят территориальные владения, частная собственность, бюрократический аппарат, налог и право.",
+        "en": "Early statehood of the Xiongnu is indicated by territorial possessions, private property, a bureaucratic apparatus, a tax and law.",
+        "kk": "Ғұндардың ерте мемлекеттілігі туралы аумақтық иеліктер, жеке меншік, бюрократиялық аппарат, салық және құқық куә береді."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",
@@ -823,33 +1380,61 @@
       "topic_id": 3,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Какое суждение об обществе хунну верно?",
+      "question": {
+        "ru": "Какое суждение об обществе хунну верно?",
+        "en": "Which statement about Xiongnu society is true?",
+        "kk": "Ғұн қоғамы туралы қай пікір дұрыс?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Хунну не знали рабства и не имели имущественного неравенства"
+          "text": {
+            "ru": "Хунну не знали рабства и не имели имущественного неравенства",
+            "en": "The Xiongnu knew no slavery and had no property inequality",
+            "kk": "Ғұндар құлдықты білмеді және мүліктік теңсіздік болмады"
+          }
         },
         {
           "id": "B",
-          "text": "Власть шаньюя ограничивал выборный совет темников"
+          "text": {
+            "ru": "Власть шаньюя ограничивал выборный совет темников",
+            "en": "The shanyu's power was limited by an elected council of tumen commanders",
+            "kk": "Шаньюй билігін темниктердің сайланбалы кеңесі шектеді"
+          }
         },
         {
           "id": "C",
-          "text": "В хуннском обществе были рабы из военнопленных и подвластного населения"
+          "text": {
+            "ru": "В хуннском обществе были рабы из военнопленных и подвластного населения",
+            "en": "Xiongnu society had slaves from prisoners of war and the subject population",
+            "kk": "Ғұн қоғамында әскери тұтқындар мен бағынышты халықтан шыққан құлдар болды"
+          }
         },
         {
           "id": "D",
-          "text": "Хунну занимались только земледелием и не знали скотоводства"
+          "text": {
+            "ru": "Хунну занимались только земледелием и не знали скотоводства",
+            "en": "The Xiongnu engaged only in farming and did not know pastoralism",
+            "kk": "Ғұндар тек егіншілікпен айналысты, мал шаруашылығын білмеді"
+          }
         },
         {
           "id": "E",
-          "text": "Хунну не знали гончарства: керамики в погребениях не найдено"
+          "text": {
+            "ru": "Хунну не знали гончарства: керамики в погребениях не найдено",
+            "en": "The Xiongnu did not know pottery: no ceramics have been found in burials",
+            "kk": "Ғұндар қыш жасауды білмеді: қабірлерден керамика табылмаған"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "У хунну были рабы из военнопленных и населения подвластных областей, а материалы погребений отражают имущественное неравенство.",
+      "explanation": {
+        "ru": "У хунну были рабы из военнопленных и населения подвластных областей, а материалы погребений отражают имущественное неравенство.",
+        "en": "The Xiongnu had slaves from prisoners of war and the population of subject territories, and burial materials reflect property inequality.",
+        "kk": "Ғұндарда әскери тұтқындар мен бағынышты өңірлер халқынан шыққан құлдар болды, ал қабірлердегі материалдар мүліктік теңсіздікті көрсетеді."
+      },
       "source_references": [
         {
           "file": "Лекции/Курс лекции (рус) (1).pdf",

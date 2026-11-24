@@ -33,7 +33,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use the + superlative tallest.",
+      "explanation": {
+        "en": "Use the + superlative tallest.",
+        "ru": "Используйте the + превосходную степень tallest.",
+        "kk": "The + күшейтпелі шырай tallest қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Best is the irregular superlative.",
+      "explanation": {
+        "en": "Best is the irregular superlative.",
+        "ru": "Best — неправильная превосходная степень.",
+        "kk": "Best — тұрақсыз күшейтпелі шырай."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Use the most with the superlative of interesting.",
+      "explanation": {
+        "en": "Use the most with the superlative of interesting.",
+        "ru": "Используйте the most с превосходной степенью от interesting.",
+        "kk": "Interesting сөзінің күшейтпелі шырайында the most қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Worst is the irregular superlative.",
+      "explanation": {
+        "en": "Worst is the irregular superlative.",
+        "ru": "Worst — неправильная превосходная степень.",
+        "kk": "Worst — тұрақсыз күшейтпелі шырай."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use a superlative when comparing one item with the whole group.",
+      "explanation": {
+        "en": "Use a superlative when comparing one item with the whole group.",
+        "ru": "Используйте превосходную степень, когда сравниваете один предмет со всей группой.",
+        "kk": "Бір затты бүкіл топпен салыстырғанда күшейтпелі шырайды қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Lake B has the greatest depth.",
+      "explanation": {
+        "en": "Lake B has the greatest depth.",
+        "ru": "У озера B самая большая глубина.",
+        "kk": "B көлінің тереңдігі ең үлкен."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Cars is countable and plural, so use too many.",
+      "explanation": {
+        "en": "Cars is countable and plural, so use too many.",
+        "ru": "Cars — исчисляемое существительное во множественном числе, поэтому используйте too many.",
+        "kk": "Cars — санауға болатын көпше сан зат есім, сондықтан too many қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Traffic is uncountable, so use too much.",
+      "explanation": {
+        "en": "Traffic is uncountable, so use too much.",
+        "ru": "Traffic — неисчисляемое существительное, поэтому используйте too much.",
+        "kk": "Traffic — санауға болмайтын зат есім, сондықтан too much қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Enough time means sufficient time.",
+      "explanation": {
+        "en": "Enough time means sufficient time.",
+        "ru": "Enough time означает достаточно времени.",
+        "kk": "Enough time жеткілікті уақыт дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Enough can modify uncountable milk.",
+      "explanation": {
+        "en": "Enough can modify uncountable milk.",
+        "ru": "Enough может сочетаться с неисчисляемым существительным milk.",
+        "kk": "Enough санауға болмайтын milk сөзімен қолданыла алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "A few is used with plural countable friends.",
+      "explanation": {
+        "en": "A few is used with plural countable friends.",
+        "ru": "A few используется с исчисляемым существительным во множественном числе: friends.",
+        "kk": "A few санауға болатын көпше сандағы friends сөзімен қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "A little is used with uncountable water.",
+      "explanation": {
+        "en": "A little is used with uncountable water.",
+        "ru": "A little используется с неисчисляемым существительным water.",
+        "kk": "A little санауға болмайтын water сөзімен қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Space is uncountable in this context.",
+      "explanation": {
+        "en": "Space is uncountable in this context.",
+        "ru": "В этом контексте space — неисчисляемое существительное.",
+        "kk": "Бұл мағынада space — санауға болмайтын зат есім."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The neck connects the head and trunk.",
+      "explanation": {
+        "en": "The neck connects the head and trunk.",
+        "ru": "Neck (шея) соединяет голову и туловище.",
+        "kk": "Neck (мойын) бас пен тұлғаны байланыстырады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The knee is the leg joint named in the question.",
+      "explanation": {
+        "en": "The knee is the leg joint named in the question.",
+        "ru": "Knee (колено) — сустав ноги, о котором говорится в вопросе.",
+        "kk": "Knee (тізе) — сұрақта айтылған аяқ буыны."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "A sore throat can make speaking uncomfortable.",
+      "explanation": {
+        "en": "A sore throat can make speaking uncomfortable.",
+        "ru": "Sore throat (больное горло) может затруднять разговор.",
+        "kk": "Sore throat (тамақтың ауруы) сөйлеуді ыңғайсыз етуі мүмкін."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The nose is associated with the sense of smell.",
+      "explanation": {
+        "en": "The nose is associated with the sense of smell.",
+        "ru": "Nose (нос) связан с обонянием.",
+        "kk": "Nose (мұрын) иіс сезумен байланысты."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Quiet describes a low level of noise.",
+      "explanation": {
+        "en": "Quiet describes a low level of noise.",
+        "ru": "Quiet описывает низкий уровень шума.",
+        "kk": "Quiet шудың төмен деңгейін сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Crowded means full of people.",
+      "explanation": {
+        "en": "Crowded means full of people.",
+        "ru": "Crowded означает «полный людей».",
+        "kk": "Crowded адамға лық толы дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Use there is with a singular noun.",
+      "explanation": {
+        "en": "Use there is with a singular noun.",
+        "ru": "Используйте there is с существительным в единственном числе.",
+        "kk": "There is-ті жекеше сандағы зат есіммен қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Use there are with a plural noun.",
+      "explanation": {
+        "en": "Use there are with a plural noun.",
+        "ru": "Используйте there are с существительным во множественном числе.",
+        "kk": "There are-ді көпше сандағы зат есіммен қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Invert is in the question with a singular noun.",
+      "explanation": {
+        "en": "Invert is in the question with a singular noun.",
+        "ru": "В вопросе с существительным в единственном числе is стоит перед there (инверсия).",
+        "kk": "Жекеше сандағы зат есімі бар сұрақта is there алдына шығады (инверсия)."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "The comparison follows both pieces of information.",
+      "explanation": {
+        "en": "The comparison follows both pieces of information.",
+        "ru": "Сравнение следует после обеих частей информации.",
+        "kk": "Салыстыру екі ақпараттан кейін келеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Hardly any cars suggests the street is quiet, and the superlative compares all three.",
+      "explanation": {
+        "en": "Hardly any cars suggests the street is quiet, and the superlative compares all three.",
+        "ru": "Hardly any cars говорит о том, что улица тихая, а превосходная степень сравнивает все три.",
+        "kk": "Hardly any cars көшенің тыныш екенін білдіреді, ал күшейтпелі шырай үшеуін де салыстырады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Enough means as many as are needed.",
+      "explanation": {
+        "en": "Enough means as many as are needed.",
+        "ru": "Enough означает «столько, сколько нужно».",
+        "kk": "Enough қажетті мөлшерде дегенді білдіреді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "A tourist information centre provides visitors with maps and advice on local sights.",
+      "explanation": {
+        "en": "A tourist information centre provides visitors with maps and advice on local sights.",
+        "ru": "Tourist information centre даёт посетителям карты и советы о местных достопримечательностях.",
+        "kk": "Tourist information centre келушілерге карталар мен жергілікті көрікті жерлер туралы кеңестер береді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "The wrist is the joint between the hand and the forearm.",
+      "explanation": {
+        "en": "The wrist is the joint between the hand and the forearm.",
+        "ru": "Wrist (запястье) — сустав между кистью и предплечьем.",
+        "kk": "Wrist (білек) — қол басы мен білектің арасындағы буын."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Use a little with an uncountable noun such as water.",
+      "explanation": {
+        "en": "Use a little with an uncountable noun such as water.",
+        "ru": "Используйте a little с неисчисляемым существительным, например water.",
+        "kk": "A little-ды water сияқты санауға болмайтын зат есіммен қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Ten minutes is the shortest of the three journey times.",
+      "explanation": {
+        "en": "Ten minutes is the shortest of the three journey times.",
+        "ru": "Ten minutes — самое короткое из трёх времён в пути.",
+        "kk": "Ten minutes — жолдағы үш уақыттың ең қысқасы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

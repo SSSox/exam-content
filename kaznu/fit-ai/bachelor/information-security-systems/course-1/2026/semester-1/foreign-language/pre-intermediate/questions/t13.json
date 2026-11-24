@@ -33,7 +33,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use the comparative bigger with than.",
+      "explanation": {
+        "en": "Use the comparative bigger with than.",
+        "ru": "Используйте сравнительную степень bigger с than.",
+        "kk": "Than-мен салыстырмалы шырай bigger қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -73,7 +77,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Easy changes to easier in the comparative.",
+      "explanation": {
+        "en": "Easy changes to easier in the comparative.",
+        "ru": "Easy в сравнительной степени меняется на easier.",
+        "kk": "Easy салыстырмалы шырайда easier болып өзгереді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -113,7 +121,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Longer adjectives commonly use more in the comparative.",
+      "explanation": {
+        "en": "Longer adjectives commonly use more in the comparative.",
+        "ru": "Длинные прилагательные обычно образуют сравнительную степень с more.",
+        "kk": "Ұзын сын есімдер салыстырмалы шырайды әдетте more арқылы жасайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -153,7 +165,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Good has the irregular comparative better.",
+      "explanation": {
+        "en": "Good has the irregular comparative better.",
+        "ru": "У good неправильная сравнительная степень better.",
+        "kk": "Good сын есімінің салыстырмалы шырайы тұрақсыз: better."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -193,7 +209,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Bad has the irregular comparative worse.",
+      "explanation": {
+        "en": "Bad has the irregular comparative worse.",
+        "ru": "У bad неправильная сравнительная степень worse.",
+        "kk": "Bad сын есімінің салыстырмалы шырайы тұрақсыз: worse."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -233,7 +253,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Than introduces the second part of a comparison.",
+      "explanation": {
+        "en": "Than introduces the second part of a comparison.",
+        "ru": "Than вводит вторую часть сравнения.",
+        "kk": "Than салыстырудың екінші бөлігін енгізеді."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -273,7 +297,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use the comparative adverb more carefully to describe drives.",
+      "explanation": {
+        "en": "Use the comparative adverb more carefully to describe drives.",
+        "ru": "Чтобы описать манеру вождения, используйте сравнительную степень наречия more carefully.",
+        "kk": "Көлік жүргізу мәнерін сипаттау үшін үстеудің салыстырмалы шырайы more carefully қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -313,7 +341,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "More slowly is the comparative of slowly.",
+      "explanation": {
+        "en": "More slowly is the comparative of slowly.",
+        "ru": "More slowly — сравнительная степень от slowly.",
+        "kk": "More slowly — slowly үстеуінің салыстырмалы шырайы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -353,7 +385,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Fast has the comparative form faster.",
+      "explanation": {
+        "en": "Fast has the comparative form faster.",
+        "ru": "У fast сравнительная степень faster.",
+        "kk": "Fast сөзінің салыстырмалы шырайы faster."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -393,7 +429,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Use as ... as for this comparison pattern.",
+      "explanation": {
+        "en": "Use as ... as for this comparison pattern.",
+        "ru": "Для этой конструкции сравнения используйте as ... as.",
+        "kk": "Бұл салыстыру құрылымында as ... as қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -433,7 +473,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Much can strengthen a comparative, but more warmer is a double comparative.",
+      "explanation": {
+        "en": "Much can strengthen a comparative, but more warmer is a double comparative.",
+        "ru": "Much может усиливать сравнительную степень, но more warmer — двойная сравнительная степень.",
+        "kk": "Much салыстырмалы шырайды күшейте алады, бірақ more warmer — қос салыстырмалы шырай."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -473,7 +517,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The train takes less time.",
+      "explanation": {
+        "en": "The train takes less time.",
+        "ru": "Поезд занимает меньше времени.",
+        "kk": "Пойыз аз уақыт алады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -513,7 +561,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Seven kilograms is heavier than four.",
+      "explanation": {
+        "en": "Seven kilograms is heavier than four.",
+        "ru": "Семь килограммов тяжелее, чем четыре.",
+        "kk": "Жеті келі төрт келіден ауыр."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -553,7 +605,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Asel types more words in the same time.",
+      "explanation": {
+        "en": "Asel types more words in the same time.",
+        "ru": "Asel печатает больше слов за то же время.",
+        "kk": "Asel бірдей уақытта көбірек сөз теріп жазады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -593,7 +649,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Change y to i before -er.",
+      "explanation": {
+        "en": "Change y to i before -er.",
+        "ru": "Перед -er меняйте y на i.",
+        "kk": "-er алдында y әрпін i-ге ауыстырыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -633,7 +693,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Less is the comparative for a smaller amount.",
+      "explanation": {
+        "en": "Less is the comparative for a smaller amount.",
+        "ru": "Less — сравнительная степень для меньшего количества.",
+        "kk": "Less — аз мөлшердің салыстырмалы шырайы."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -673,7 +737,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "The ordinal form is twenty-first.",
+      "explanation": {
+        "en": "The ordinal form is twenty-first.",
+        "ru": "Порядковое числительное — twenty-first.",
+        "kk": "Реттік сан есім — twenty-first."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -713,7 +781,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "50% is fifty per cent.",
+      "explanation": {
+        "en": "50% is fifty per cent.",
+        "ru": "50% читается как fifty per cent.",
+        "kk": "50% fifty per cent деп оқылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -753,7 +825,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "A half is one of two equal parts.",
+      "explanation": {
+        "en": "A half is one of two equal parts.",
+        "ru": "A half — одна из двух равных частей.",
+        "kk": "A half — екі тең бөліктің бірі."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -793,7 +869,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "One thousand plus two hundred is 1,200.",
+      "explanation": {
+        "en": "One thousand plus two hundred is 1,200.",
+        "ru": "One thousand plus two hundred — это 1,200.",
+        "kk": "One thousand plus two hundred — 1,200."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -833,7 +913,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Subtract 450 from 600.",
+      "explanation": {
+        "en": "Subtract 450 from 600.",
+        "ru": "Вычтите 450 из 600.",
+        "kk": "600-ден 450-ді алыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -873,7 +957,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "Route B has more kilometres but fewer minutes.",
+      "explanation": {
+        "en": "Route B has more kilometres but fewer minutes.",
+        "ru": "У маршрута B больше километров, но меньше минут.",
+        "kk": "B бағытында километр көп, бірақ минут аз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -913,7 +1001,11 @@
       "correct_answers": [
         "C"
       ],
-      "explanation": "Eva's height lies between the other two.",
+      "explanation": {
+        "en": "Eva's height lies between the other two.",
+        "ru": "Рост Eva находится между ростом двух других.",
+        "kk": "Eva-ның бойы қалған екеуінің арасында."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -953,7 +1045,11 @@
       "correct_answers": [
         "A"
       ],
-      "explanation": "Soon has the comparative form sooner, used before than.",
+      "explanation": {
+        "en": "Soon has the comparative form sooner, used before than.",
+        "ru": "У soon сравнительная степень sooner, она используется перед than.",
+        "kk": "Soon сөзінің салыстырмалы шырайы sooner, ол than алдында қолданылады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -993,7 +1089,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Use lighter to compare the lower weight of one backpack with another.",
+      "explanation": {
+        "en": "Use lighter to compare the lower weight of one backpack with another.",
+        "ru": "Используйте lighter, чтобы сравнить меньший вес одного рюкзака с другим.",
+        "kk": "Бір рюкзактың салмағының екіншісінен аз екенін салыстыру үшін lighter қолданыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1033,7 +1133,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "Eighty-four is greater than seventy-two.",
+      "explanation": {
+        "en": "Eighty-four is greater than seventy-two.",
+        "ru": "Eighty-four больше, чем seventy-two.",
+        "kk": "Eighty-four seventy-two-ден үлкен."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1073,7 +1177,11 @@
       "correct_answers": [
         "E"
       ],
-      "explanation": "In the fraction ¾, three of four equal parts are counted.",
+      "explanation": {
+        "en": "In the fraction ¾, three of four equal parts are counted.",
+        "ru": "В дроби ¾ берутся три из четырёх равных частей.",
+        "kk": "¾ бөлшегінде төрт тең бөліктің үшеуі алынады."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1113,7 +1221,11 @@
       "correct_answers": [
         "B"
       ],
-      "explanation": "Read each digit individually in the order shown.",
+      "explanation": {
+        "en": "Read each digit individually in the order shown.",
+        "ru": "Читайте каждую цифру отдельно, в указанном порядке.",
+        "kk": "Әр цифрды жеке, көрсетілген ретпен оқыңыз."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",
@@ -1153,7 +1265,11 @@
       "correct_answers": [
         "D"
       ],
-      "explanation": "As heavy as describes equal weight.",
+      "explanation": {
+        "en": "As heavy as describes equal weight.",
+        "ru": "As heavy as описывает одинаковый вес.",
+        "kk": "As heavy as тең салмақты сипаттайды."
+      },
       "source_references": [
         {
           "file": "ПИК_СДО Moodle_pre-interm_rus.pdf",

@@ -7,33 +7,61 @@
       "topic_id": 15,
       "difficulty_level": 1,
       "type": "single_choice",
-      "question": "Что такое СУИБ?",
+      "question": {
+        "ru": "Что такое СУИБ?",
+        "en": "What is an ISMS?",
+        "kk": "АҚБЖ деген не?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только схема локальной сети"
+          "text": {
+            "ru": "Только схема локальной сети",
+            "en": "Only a local network diagram",
+            "kk": "Тек жергілікті желі сұлбасы"
+          }
         },
         {
           "id": "B",
-          "text": "Только один антивирус"
+          "text": {
+            "ru": "Только один антивирус",
+            "en": "Only a single antivirus",
+            "kk": "Тек бір антивирус"
+          }
         },
         {
           "id": "C",
-          "text": "Только договор с интернет-провайдером"
+          "text": {
+            "ru": "Только договор с интернет-провайдером",
+            "en": "Only a contract with an internet provider",
+            "kk": "Тек интернет-провайдермен жасалған шарт"
+          }
         },
         {
           "id": "D",
-          "text": "Один файл со всеми паролями"
+          "text": {
+            "ru": "Один файл со всеми паролями",
+            "en": "A single file with all passwords",
+            "kk": "Барлық құпия сөздері бар бір файл"
+          }
         },
         {
           "id": "E",
-          "text": "Система политик, процессов и средств управления информационной безопасностью"
+          "text": {
+            "ru": "Система политик, процессов и средств управления информационной безопасностью",
+            "en": "A system of policies, processes, and controls for managing information security",
+            "kk": "Ақпараттық қауіпсіздікті басқарудың саясаттар, процестер және басқару құралдары жүйесі"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "СУИБ объединяет управленческие и обеспечивающие элементы.",
+      "explanation": {
+        "ru": "СУИБ объединяет управленческие и обеспечивающие элементы.",
+        "en": "An ISMS combines management and supporting elements.",
+        "kk": "АҚБЖ басқарушылық және қамтамасыз етуші элементтерді біріктіреді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -51,33 +79,61 @@
       "topic_id": 15,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Почему управление ИБ рассматривается как циклический процесс?",
+      "question": {
+        "ru": "Почему управление ИБ рассматривается как циклический процесс?",
+        "en": "Why is information security management considered a cyclical process?",
+        "kk": "АҚ басқаруы неліктен циклдік процесс болып саналады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Безопасность устанавливается один раз навсегда"
+          "text": {
+            "ru": "Безопасность устанавливается один раз навсегда",
+            "en": "Security is established once and for all",
+            "kk": "Қауіпсіздік бір рет және мәңгіге орнатылады"
+          }
         },
         {
           "id": "B",
-          "text": "Состояние систем, угроз и требований меняется"
+          "text": {
+            "ru": "Состояние систем, угроз и требований меняется",
+            "en": "The state of systems, threats, and requirements changes",
+            "kk": "Жүйелердің, қауіптердің және талаптардың жай-күйі өзгереді"
+          }
         },
         {
           "id": "C",
-          "text": "Все риски одинаковы каждый год"
+          "text": {
+            "ru": "Все риски одинаковы каждый год",
+            "en": "All risks are the same every year",
+            "kk": "Барлық тәуекелдер жыл сайын бірдей"
+          }
         },
         {
           "id": "D",
-          "text": "Аудит применяется только до запуска"
+          "text": {
+            "ru": "Аудит применяется только до запуска",
+            "en": "Audit is applied only before launch",
+            "kk": "Аудит тек іске қосу алдында қолданылады"
+          }
         },
         {
           "id": "E",
-          "text": "После покупки продукта управление прекращается"
+          "text": {
+            "ru": "После покупки продукта управление прекращается",
+            "en": "After buying a product, management ends",
+            "kk": "Өнім сатып алынғаннан кейін басқару тоқтайды"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Управление требует регулярной переоценки и улучшения.",
+      "explanation": {
+        "ru": "Управление требует регулярной переоценки и улучшения.",
+        "en": "Management requires regular reassessment and improvement.",
+        "kk": "Басқару жүйелі түрде қайта бағалау мен жетілдіруді талап етеді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -95,33 +151,61 @@
       "topic_id": 15,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Что означает этап Plan в модели PDCA?",
+      "question": {
+        "ru": "Что означает этап Plan в модели PDCA?",
+        "en": "What does the Plan stage in the PDCA model mean?",
+        "kk": "PDCA моделіндегі Plan кезеңі нені білдіреді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Исполнение уже принятых действий"
+          "text": {
+            "ru": "Исполнение уже принятых действий",
+            "en": "Execution of actions already adopted",
+            "kk": "Қабылданған әрекеттерді орындау"
+          }
         },
         {
           "id": "B",
-          "text": "Планирование целей и мер"
+          "text": {
+            "ru": "Планирование целей и мер",
+            "en": "Planning of goals and measures",
+            "kk": "Мақсаттар мен шараларды жоспарлау"
+          }
         },
         {
           "id": "C",
-          "text": "Уничтожение всех активов"
+          "text": {
+            "ru": "Уничтожение всех активов",
+            "en": "Destruction of all assets",
+            "kk": "Барлық активтерді жою"
+          }
         },
         {
           "id": "D",
-          "text": "Проверка результатов"
+          "text": {
+            "ru": "Проверка результатов",
+            "en": "Checking the results",
+            "kk": "Нәтижелерді тексеру"
+          }
         },
         {
           "id": "E",
-          "text": "Корректировка по выявленным отклонениям"
+          "text": {
+            "ru": "Корректировка по выявленным отклонениям",
+            "en": "Adjustment based on identified deviations",
+            "kk": "Анықталған ауытқулар бойынша түзету"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Plan соответствует планированию.",
+      "explanation": {
+        "ru": "Plan соответствует планированию.",
+        "en": "Plan corresponds to planning.",
+        "kk": "Plan жоспарлауға сәйкес келеді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -139,33 +223,61 @@
       "topic_id": 15,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Что означает этап Do в модели PDCA?",
+      "question": {
+        "ru": "Что означает этап Do в модели PDCA?",
+        "en": "What does the Do stage in the PDCA model mean?",
+        "kk": "PDCA моделіндегі Do кезеңі нені білдіреді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только описание исходных требований"
+          "text": {
+            "ru": "Только описание исходных требований",
+            "en": "Only a description of initial requirements",
+            "kk": "Тек бастапқы талаптарды сипаттау"
+          }
         },
         {
           "id": "B",
-          "text": "Только прекращение проекта"
+          "text": {
+            "ru": "Только прекращение проекта",
+            "en": "Only termination of the project",
+            "kk": "Тек жобаны тоқтату"
+          }
         },
         {
           "id": "C",
-          "text": "Выполнение запланированных действий"
+          "text": {
+            "ru": "Выполнение запланированных действий",
+            "en": "Execution of planned actions",
+            "kk": "Жоспарланған әрекеттерді орындау"
+          }
         },
         {
           "id": "D",
-          "text": "Только изменение целей после проверки"
+          "text": {
+            "ru": "Только изменение целей после проверки",
+            "en": "Only changing goals after the check",
+            "kk": "Тек тексеруден кейін мақсаттарды өзгерту"
+          }
         },
         {
           "id": "E",
-          "text": "Только итоговая проверка"
+          "text": {
+            "ru": "Только итоговая проверка",
+            "en": "Only the final check",
+            "kk": "Тек қорытынды тексеру"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Do соответствует реализации плана.",
+      "explanation": {
+        "ru": "Do соответствует реализации плана.",
+        "en": "Do corresponds to implementing the plan.",
+        "kk": "Do жоспарды іске асыруға сәйкес келеді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -183,33 +295,61 @@
       "topic_id": 15,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Что означает этап Check в модели PDCA?",
+      "question": {
+        "ru": "Что означает этап Check в модели PDCA?",
+        "en": "What does the Check stage in the PDCA model mean?",
+        "kk": "PDCA моделіндегі Check кезеңі нені білдіреді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Первоначальное планирование мер"
+          "text": {
+            "ru": "Первоначальное планирование мер",
+            "en": "Initial planning of measures",
+            "kk": "Шараларды бастапқы жоспарлау"
+          }
         },
         {
           "id": "B",
-          "text": "Выполнение запланированных действий"
+          "text": {
+            "ru": "Выполнение запланированных действий",
+            "en": "Execution of planned actions",
+            "kk": "Жоспарланған әрекеттерді орындау"
+          }
         },
         {
           "id": "C",
-          "text": "Отказ от дальнейшего управления"
+          "text": {
+            "ru": "Отказ от дальнейшего управления",
+            "en": "Abandoning further management",
+            "kk": "Одан әрі басқарудан бас тарту"
+          }
         },
         {
           "id": "D",
-          "text": "Корректировка по итогам проверки"
+          "text": {
+            "ru": "Корректировка по итогам проверки",
+            "en": "Correction based on the results of the check",
+            "kk": "Тексеру нәтижелері бойынша түзету"
+          }
         },
         {
           "id": "E",
-          "text": "Проверка и оценка результатов"
+          "text": {
+            "ru": "Проверка и оценка результатов",
+            "en": "Checking and evaluating results",
+            "kk": "Нәтижелерді тексеру және бағалау"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Check сопоставляет результаты с критериями.",
+      "explanation": {
+        "ru": "Check сопоставляет результаты с критериями.",
+        "en": "Check compares results with criteria.",
+        "kk": "Check нәтижелерді өлшемшарттармен салыстырады."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -227,33 +367,61 @@
       "topic_id": 15,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Что означает этап Act в модели PDCA?",
+      "question": {
+        "ru": "Что означает этап Act в модели PDCA?",
+        "en": "What does the Act stage in the PDCA model mean?",
+        "kk": "PDCA моделіндегі Act кезеңі нені білдіреді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только накопление данных без анализа"
+          "text": {
+            "ru": "Только накопление данных без анализа",
+            "en": "Only accumulating data without analysis",
+            "kk": "Тек талдаусыз деректер жинақтау"
+          }
         },
         {
           "id": "B",
-          "text": "Только сохранение ошибок без изменений"
+          "text": {
+            "ru": "Только сохранение ошибок без изменений",
+            "en": "Only keeping errors without changes",
+            "kk": "Тек қателерді өзгеріссіз сақтау"
+          }
         },
         {
           "id": "C",
-          "text": "Корректирующие действия и улучшение"
+          "text": {
+            "ru": "Корректирующие действия и улучшение",
+            "en": "Corrective actions and improvement",
+            "kk": "Түзетуші әрекеттер және жетілдіру"
+          }
         },
         {
           "id": "D",
-          "text": "Только первое описание актива"
+          "text": {
+            "ru": "Только первое описание актива",
+            "en": "Only the first description of an asset",
+            "kk": "Тек активтің алғашқы сипаттамасы"
+          }
         },
         {
           "id": "E",
-          "text": "Только выдача нового пароля"
+          "text": {
+            "ru": "Только выдача нового пароля",
+            "en": "Only issuing a new password",
+            "kk": "Тек жаңа құпия сөз беру"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Act использует результаты оценки для улучшения.",
+      "explanation": {
+        "ru": "Act использует результаты оценки для улучшения.",
+        "en": "Act uses the evaluation results for improvement.",
+        "kk": "Act бағалау нәтижелерін жетілдіру үшін пайдаланады."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -271,33 +439,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какой пример является преимущественно превентивной мерой?",
+      "question": {
+        "ru": "Какой пример является преимущественно превентивной мерой?",
+        "en": "Which example is primarily a preventive measure?",
+        "kk": "Қай мысал негізінен алдын алу шарасы болып табылады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Сбор доказательств уже случившейся утечки"
+          "text": {
+            "ru": "Сбор доказательств уже случившейся утечки",
+            "en": "Collecting evidence of a leak that has already occurred",
+            "kk": "Болып қойған ақпарат ағып кетуінің дәлелдемелерін жинау"
+          }
         },
         {
           "id": "B",
-          "text": "Восстановление повреждённой базы"
+          "text": {
+            "ru": "Восстановление повреждённой базы",
+            "en": "Restoring a damaged database",
+            "kk": "Зақымдалған базаны қалпына келтіру"
+          }
         },
         {
           "id": "C",
-          "text": "Разбор отчёта после инцидента"
+          "text": {
+            "ru": "Разбор отчёта после инцидента",
+            "en": "Reviewing a report after an incident",
+            "kk": "Оқиғадан кейінгі есепті талдау"
+          }
         },
         {
           "id": "D",
-          "text": "Разграничение прав до выполнения операций"
+          "text": {
+            "ru": "Разграничение прав до выполнения операций",
+            "en": "Separating access rights before operations are performed",
+            "kk": "Операциялар орындалғанға дейін құқықтарды ажырату"
+          }
         },
         {
           "id": "E",
-          "text": "Оценка ущерба после аварии"
+          "text": {
+            "ru": "Оценка ущерба после аварии",
+            "en": "Assessing damage after an accident",
+            "kk": "Апаттан кейінгі зиянды бағалау"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Превентивная мера снижает вероятность возникновения нарушения.",
+      "explanation": {
+        "ru": "Превентивная мера снижает вероятность возникновения нарушения.",
+        "en": "A preventive measure reduces the likelihood of a violation occurring.",
+        "kk": "Алдын алу шарасы бұзушылықтың туындау ықтималдығын төмендетеді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -315,33 +511,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какой пример является преимущественно обнаруживающей мерой?",
+      "question": {
+        "ru": "Какой пример является преимущественно обнаруживающей мерой?",
+        "en": "Which example is primarily a detective measure?",
+        "kk": "Қай мысал негізінен анықтау шарасы болып табылады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Оповещение о подозрительных входах"
+          "text": {
+            "ru": "Оповещение о подозрительных входах",
+            "en": "Alerts about suspicious logins",
+            "kk": "Күдікті кірулер туралы хабарландыру"
+          }
         },
         {
           "id": "B",
-          "text": "Утверждение бюджета на следующий год"
+          "text": {
+            "ru": "Утверждение бюджета на следующий год",
+            "en": "Approving the budget for next year",
+            "kk": "Келесі жылға бюджетті бекіту"
+          }
         },
         {
           "id": "C",
-          "text": "Перенос резервного диска в сейф"
+          "text": {
+            "ru": "Перенос резервного диска в сейф",
+            "en": "Moving a backup disk to a safe",
+            "kk": "Резервтік дискіні сейфке ауыстыру"
+          }
         },
         {
           "id": "D",
-          "text": "Ремонт повреждённого сервера"
+          "text": {
+            "ru": "Ремонт повреждённого сервера",
+            "en": "Repairing a damaged server",
+            "kk": "Зақымдалған серверді жөндеу"
+          }
         },
         {
           "id": "E",
-          "text": "Восстановление базы из архива"
+          "text": {
+            "ru": "Восстановление базы из архива",
+            "en": "Restoring a database from an archive",
+            "kk": "Базаны мұрағаттан қалпына келтіру"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Обнаруживающая мера выявляет событие или признак нарушения.",
+      "explanation": {
+        "ru": "Обнаруживающая мера выявляет событие или признак нарушения.",
+        "en": "A detective measure reveals an event or a sign of a violation.",
+        "kk": "Анықтау шарасы бұзушылық оқиғасын немесе белгісін айқындайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -359,33 +583,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какой пример относится к восстановительным мерам?",
+      "question": {
+        "ru": "Какой пример относится к восстановительным мерам?",
+        "en": "Which example refers to recovery measures?",
+        "kk": "Қай мысал қалпына келтіру шараларына жатады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Блокирование запрещённого пакета"
+          "text": {
+            "ru": "Блокирование запрещённого пакета",
+            "en": "Blocking a prohibited packet",
+            "kk": "Тыйым салынған пакетті бұғаттау"
+          }
         },
         {
           "id": "B",
-          "text": "Обучение до начала работы"
+          "text": {
+            "ru": "Обучение до начала работы",
+            "en": "Training before starting work",
+            "kk": "Жұмыс басталғанға дейін оқыту"
+          }
         },
         {
           "id": "C",
-          "text": "Проверка пропуска до входа"
+          "text": {
+            "ru": "Проверка пропуска до входа",
+            "en": "Checking a pass before entry",
+            "kk": "Кіру алдында рұқсатнаманы тексеру"
+          }
         },
         {
           "id": "D",
-          "text": "Возврат работоспособной базы из проверенной копии"
+          "text": {
+            "ru": "Возврат работоспособной базы из проверенной копии",
+            "en": "Returning a working database from a verified copy",
+            "kk": "Жұмыс істейтін базаны тексерілген көшірмеден қайтару"
+          }
         },
         {
           "id": "E",
-          "text": "Запрет ненужных прав записи"
+          "text": {
+            "ru": "Запрет ненужных прав записи",
+            "en": "Prohibiting unnecessary write permissions",
+            "kk": "Қажетсіз жазу құқықтарына тыйым салу"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Восстановительная мера возвращает функции после повреждения.",
+      "explanation": {
+        "ru": "Восстановительная мера возвращает функции после повреждения.",
+        "en": "A recovery measure restores functions after damage.",
+        "kk": "Қалпына келтіру шарасы зақымданудан кейін функцияларды қайтарады."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -403,33 +655,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Что является разумным основанием для приоритизации расходов на ИБ?",
+      "question": {
+        "ru": "Что является разумным основанием для приоритизации расходов на ИБ?",
+        "en": "What is a reasonable basis for prioritizing information security spending?",
+        "kk": "АҚ шығындарының басымдығын белгілеудің қандай негізі ақылға қонымды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только число страниц коммерческого предложения"
+          "text": {
+            "ru": "Только число страниц коммерческого предложения",
+            "en": "Only the number of pages in a commercial proposal",
+            "kk": "Тек коммерциялық ұсыныстың бет саны"
+          }
         },
         {
           "id": "B",
-          "text": "Риски и критичность поддерживаемых бизнес-функций"
+          "text": {
+            "ru": "Риски и критичность поддерживаемых бизнес-функций",
+            "en": "Risks and the criticality of the supported business functions",
+            "kk": "Тәуекелдер мен қолдау көрсетілетін бизнес-функциялардың маңыздылығы"
+          }
         },
         {
           "id": "C",
-          "text": "Только количество продуктов у конкурента"
+          "text": {
+            "ru": "Только количество продуктов у конкурента",
+            "en": "Only the number of products a competitor has",
+            "kk": "Тек бәсекелестің өнімдер саны"
+          }
         },
         {
           "id": "D",
-          "text": "Только максимальная цена инструмента"
+          "text": {
+            "ru": "Только максимальная цена инструмента",
+            "en": "Only the maximum price of a tool",
+            "kk": "Тек құралдың ең жоғары бағасы"
+          }
         },
         {
           "id": "E",
-          "text": "Только личные предпочтения закупщика без оценки рисков"
+          "text": {
+            "ru": "Только личные предпочтения закупщика без оценки рисков",
+            "en": "Only the buyer's personal preferences without risk assessment",
+            "kk": "Тек тәуекелді бағаламайтын сатып алушының жеке қалауы"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Ресурсы защиты должны соотноситься с потребностями и рисками.",
+      "explanation": {
+        "ru": "Ресурсы защиты должны соотноситься с потребностями и рисками.",
+        "en": "Protection resources should correspond to needs and risks.",
+        "kk": "Қорғау ресурстары қажеттіліктер мен тәуекелдерге сәйкес келуі тиіс."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -447,33 +727,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Что означает осознанное принятие риска?",
+      "question": {
+        "ru": "Что означает осознанное принятие риска?",
+        "en": "What does conscious acceptance of risk mean?",
+        "kk": "Тәуекелді саналы түрде қабылдау нені білдіреді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Гарантию невозможности инцидента"
+          "text": {
+            "ru": "Гарантию невозможности инцидента",
+            "en": "A guarantee that an incident is impossible",
+            "kk": "Оқиғаның мүмкін еместігіне кепілдік"
+          }
         },
         {
           "id": "B",
-          "text": "Уполномоченное решение сохранить риск в допустимых пределах"
+          "text": {
+            "ru": "Уполномоченное решение сохранить риск в допустимых пределах",
+            "en": "An authorized decision to retain the risk within acceptable limits",
+            "kk": "Тәуекелді жол берілетін шектерде сақтау туралы уәкілетті шешім"
+          }
         },
         {
           "id": "C",
-          "text": "Удаление сведений о риске"
+          "text": {
+            "ru": "Удаление сведений о риске",
+            "en": "Deleting information about the risk",
+            "kk": "Тәуекел туралы мәліметтерді жою"
+          }
         },
         {
           "id": "D",
-          "text": "Случайное игнорирование неизвестной опасности"
+          "text": {
+            "ru": "Случайное игнорирование неизвестной опасности",
+            "en": "Accidentally ignoring an unknown danger",
+            "kk": "Белгісіз қауіпті кездейсоқ елемеу"
+          }
         },
         {
           "id": "E",
-          "text": "Полную передачу обязанностей пользователям"
+          "text": {
+            "ru": "Полную передачу обязанностей пользователям",
+            "en": "Full transfer of responsibilities to users",
+            "kk": "Міндеттерді пайдаланушыларға толық беру"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Принятие предполагает оценку и ответственность за решение.",
+      "explanation": {
+        "ru": "Принятие предполагает оценку и ответственность за решение.",
+        "en": "Acceptance presupposes assessment and accountability for the decision.",
+        "kk": "Қабылдау шешім үшін бағалау мен жауапкершілікті болжайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -491,33 +799,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какой пример соответствует снижению риска?",
+      "question": {
+        "ru": "Какой пример соответствует снижению риска?",
+        "en": "Which example corresponds to risk reduction?",
+        "kk": "Қай мысал тәуекелді төмендетуге сәйкес келеді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Выдача бессрочных полных прав"
+          "text": {
+            "ru": "Выдача бессрочных полных прав",
+            "en": "Granting unlimited full permissions",
+            "kk": "Мерзімсіз толық құқықтар беру"
+          }
         },
         {
           "id": "B",
-          "text": "Удаление реестра инцидентов"
+          "text": {
+            "ru": "Удаление реестра инцидентов",
+            "en": "Deleting the incident register",
+            "kk": "Оқиғалар тізілімін жою"
+          }
         },
         {
           "id": "C",
-          "text": "Внедрение контроля, уменьшающего вероятность утечки"
+          "text": {
+            "ru": "Внедрение контроля, уменьшающего вероятность утечки",
+            "en": "Implementing a control that reduces the likelihood of a leak",
+            "kk": "Ақпарат ағу ықтималдығын азайтатын бақылауды енгізу"
+          }
         },
         {
           "id": "D",
-          "text": "Публикация секретов"
+          "text": {
+            "ru": "Публикация секретов",
+            "en": "Publishing secrets",
+            "kk": "Құпияларды жариялау"
+          }
         },
         {
           "id": "E",
-          "text": "Отказ от оценки активов"
+          "text": {
+            "ru": "Отказ от оценки активов",
+            "en": "Refusing to assess assets",
+            "kk": "Активтерді бағалаудан бас тарту"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Снижение меняет вероятность или последствия неблагоприятного события.",
+      "explanation": {
+        "ru": "Снижение меняет вероятность или последствия неблагоприятного события.",
+        "en": "Reduction changes the likelihood or the consequences of an adverse event.",
+        "kk": "Төмендету жағымсыз оқиғаның ықтималдығын немесе салдарын өзгертеді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -535,33 +871,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какой пример соответствует избеганию конкретного риска?",
+      "question": {
+        "ru": "Какой пример соответствует избеганию конкретного риска?",
+        "en": "Which example corresponds to avoiding a specific risk?",
+        "kk": "Қай мысал нақты тәуекелден жалтаруға сәйкес келеді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Установка дополнительного журнала"
+          "text": {
+            "ru": "Установка дополнительного журнала",
+            "en": "Installing an additional log",
+            "kk": "Қосымша журнал орнату"
+          }
         },
         {
           "id": "B",
-          "text": "Оставление операции без изменений"
+          "text": {
+            "ru": "Оставление операции без изменений",
+            "en": "Leaving the operation unchanged",
+            "kk": "Операцияны өзгеріссіз қалдыру"
+          }
         },
         {
           "id": "C",
-          "text": "Снижение лимита при сохранении операции"
+          "text": {
+            "ru": "Снижение лимита при сохранении операции",
+            "en": "Lowering a limit while keeping the operation",
+            "kk": "Операцияны сақтай отырып, лимитті төмендету"
+          }
         },
         {
           "id": "D",
-          "text": "Покупка страховки при сохранении операции"
+          "text": {
+            "ru": "Покупка страховки при сохранении операции",
+            "en": "Buying insurance while keeping the operation",
+            "kk": "Операцияны сақтай отырып, сақтандыру сатып алу"
+          }
         },
         {
           "id": "E",
-          "text": "Отказ от операции, создающей этот риск"
+          "text": {
+            "ru": "Отказ от операции, создающей этот риск",
+            "en": "Abandoning the operation that creates this risk",
+            "kk": "Осы тәуекелді тудыратын операциядан бас тарту"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Избегание устраняет деятельность, порождающую рассматриваемый риск.",
+      "explanation": {
+        "ru": "Избегание устраняет деятельность, порождающую рассматриваемый риск.",
+        "en": "Avoidance eliminates the activity that gives rise to the risk in question.",
+        "kk": "Жалтару қарастырылып отырған тәуекелді тудыратын қызметті жояды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -579,33 +943,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Что может означать разделение части финансовых последствий риска?",
+      "question": {
+        "ru": "Что может означать разделение части финансовых последствий риска?",
+        "en": "What can sharing part of the financial consequences of a risk mean?",
+        "kk": "Тәуекелдің қаржылық салдарының бір бөлігін бөлу нені білдіруі мүмкін?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Передачу всех управленческих обязанностей страховщику"
+          "text": {
+            "ru": "Передачу всех управленческих обязанностей страховщику",
+            "en": "Transferring all management duties to the insurer",
+            "kk": "Барлық басқару міндеттерін сақтандырушыға беруді"
+          }
         },
         {
           "id": "B",
-          "text": "Автоматическое обнуление вероятности инцидента"
+          "text": {
+            "ru": "Автоматическое обнуление вероятности инцидента",
+            "en": "Automatically reducing the likelihood of an incident to zero",
+            "kk": "Оқиға ықтималдығын автоматты түрде нөлге теңестіруді"
+          }
         },
         {
           "id": "C",
-          "text": "Отмену любых требований к обработке данных"
+          "text": {
+            "ru": "Отмену любых требований к обработке данных",
+            "en": "Cancelling any data processing requirements",
+            "kk": "Деректерді өңдеуге қойылатын кез келген талаптарды жоюды"
+          }
         },
         {
           "id": "D",
-          "text": "Страхование при сохранении обязанностей по защите"
+          "text": {
+            "ru": "Страхование при сохранении обязанностей по защите",
+            "en": "Insurance while retaining protection obligations",
+            "kk": "Қорғау жөніндегі міндеттерді сақтай отырып сақтандыруды"
+          }
         },
         {
           "id": "E",
-          "text": "Полное исчезновение всех источников угроз"
+          "text": {
+            "ru": "Полное исчезновение всех источников угроз",
+            "en": "Complete disappearance of all threat sources",
+            "kk": "Қауіп көздерінің барлығының толық жоғалуын"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Передача финансовых последствий не устраняет весь риск.",
+      "explanation": {
+        "ru": "Передача финансовых последствий не устраняет весь риск.",
+        "en": "Transferring financial consequences does not eliminate the entire risk.",
+        "kk": "Қаржылық салдарды беру тәуекелдің бәрін жоймайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -623,33 +1015,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Почему число зарегистрированных инцидентов нельзя оценивать изолированно?",
+      "question": {
+        "ru": "Почему число зарегистрированных инцидентов нельзя оценивать изолированно?",
+        "en": "Why should the number of registered incidents not be assessed in isolation?",
+        "kk": "Тіркелген оқиғалар санын неліктен оқшау бағалауға болмайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Рост числа может отражать улучшение обнаружения"
+          "text": {
+            "ru": "Рост числа может отражать улучшение обнаружения",
+            "en": "An increase in the number may reflect improved detection",
+            "kk": "Санның өсуі анықтаудың жақсарғанын көрсетуі мүмкін"
+          }
         },
         {
           "id": "B",
-          "text": "Способ выявления не влияет на статистику"
+          "text": {
+            "ru": "Способ выявления не влияет на статистику",
+            "en": "The detection method does not affect the statistics",
+            "kk": "Анықтау тәсілі статистикаға әсер етпейді"
+          }
         },
         {
           "id": "C",
-          "text": "Любой инцидент регистрируется независимо от качества мониторинга"
+          "text": {
+            "ru": "Любой инцидент регистрируется независимо от качества мониторинга",
+            "en": "Any incident is registered regardless of the quality of monitoring",
+            "kk": "Кез келген оқиға мониторинг сапасына қарамастан тіркеледі"
+          }
         },
         {
           "id": "D",
-          "text": "Малое число всегда доказывает отсутствие атак"
+          "text": {
+            "ru": "Малое число всегда доказывает отсутствие атак",
+            "en": "A small number always proves the absence of attacks",
+            "kk": "Аз сан шабуылдардың жоқтығын әрдайым дәлелдейді"
+          }
         },
         {
           "id": "E",
-          "text": "Большое число всегда означает ухудшение защиты"
+          "text": {
+            "ru": "Большое число всегда означает ухудшение защиты",
+            "en": "A large number always means worsening protection",
+            "kk": "Көп сан қорғаныстың нашарлағанын әрдайым білдіреді"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Показатель зависит и от реальных событий, и от качества выявления.",
+      "explanation": {
+        "ru": "Показатель зависит и от реальных событий, и от качества выявления.",
+        "en": "The indicator depends both on real events and on the quality of detection.",
+        "kk": "Көрсеткіш нақты оқиғаларға да, анықтау сапасына да байланысты."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -667,33 +1087,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какой показатель лучше отражает способность обнаруживать инциденты?",
+      "question": {
+        "ru": "Какой показатель лучше отражает способность обнаруживать инциденты?",
+        "en": "Which indicator better reflects the ability to detect incidents?",
+        "kk": "Қай көрсеткіш оқиғаларды анықтау қабілетін жақсырақ көрсетеді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только общий объём хранимых данных"
+          "text": {
+            "ru": "Только общий объём хранимых данных",
+            "en": "Only the total volume of stored data",
+            "kk": "Тек сақталатын деректердің жалпы көлемі"
+          }
         },
         {
           "id": "B",
-          "text": "Только число купленных защитных продуктов"
+          "text": {
+            "ru": "Только число купленных защитных продуктов",
+            "en": "Only the number of protection products purchased",
+            "kk": "Тек сатып алынған қорғаныс өнімдерінің саны"
+          }
         },
         {
           "id": "C",
-          "text": "Только количество зарегистрированных работников"
+          "text": {
+            "ru": "Только количество зарегистрированных работников",
+            "en": "Only the number of registered employees",
+            "kk": "Тек тіркелген жұмысшылардың саны"
+          }
         },
         {
           "id": "D",
-          "text": "Время от начала инцидента до его выявления"
+          "text": {
+            "ru": "Время от начала инцидента до его выявления",
+            "en": "Time from the start of an incident to its detection",
+            "kk": "Оқиғаның басталуынан оның анықталуына дейінгі уақыт"
+          }
         },
         {
           "id": "E",
-          "text": "Только размер годового отчёта"
+          "text": {
+            "ru": "Только размер годового отчёта",
+            "en": "Only the size of the annual report",
+            "kk": "Тек жылдық есептің көлемі"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Время обнаружения связано с работой мониторинга.",
+      "explanation": {
+        "ru": "Время обнаружения связано с работой мониторинга.",
+        "en": "Detection time is related to the work of monitoring.",
+        "kk": "Анықтау уақыты мониторингтің жұмысымен байланысты."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -711,33 +1159,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Зачем после инцидента анализируют первопричины?",
+      "question": {
+        "ru": "Зачем после инцидента анализируют первопричины?",
+        "en": "Why are root causes analyzed after an incident?",
+        "kk": "Оқиғадан кейін түпкі себептер неліктен талданады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Чтобы уменьшить вероятность повторения аналогичного события"
+          "text": {
+            "ru": "Чтобы уменьшить вероятность повторения аналогичного события",
+            "en": "To reduce the likelihood of a similar event recurring",
+            "kk": "Ұқсас оқиғаның қайталану ықтималдығын азайту үшін"
+          }
         },
         {
           "id": "B",
-          "text": "Чтобы удалить все меры защиты"
+          "text": {
+            "ru": "Чтобы удалить все меры защиты",
+            "en": "To remove all protection measures",
+            "kk": "Барлық қорғау шараларын жою үшін"
+          }
         },
         {
           "id": "C",
-          "text": "Чтобы заменить расследование рекламой"
+          "text": {
+            "ru": "Чтобы заменить расследование рекламой",
+            "en": "To replace the investigation with advertising",
+            "kk": "Тергеуді жарнамамен алмастыру үшін"
+          }
         },
         {
           "id": "D",
-          "text": "Чтобы отказаться от обучения"
+          "text": {
+            "ru": "Чтобы отказаться от обучения",
+            "en": "To abandon training",
+            "kk": "Оқытудан бас тарту үшін"
+          }
         },
         {
           "id": "E",
-          "text": "Чтобы обязательно скрыть последствия"
+          "text": {
+            "ru": "Чтобы обязательно скрыть последствия",
+            "en": "To necessarily hide the consequences",
+            "kk": "Салдарларды міндетті түрде жасыру үшін"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Анализ причин помогает корректировать процессы и меры.",
+      "explanation": {
+        "ru": "Анализ причин помогает корректировать процессы и меры.",
+        "en": "Cause analysis helps adjust processes and measures.",
+        "kk": "Себептерді талдау процестер мен шараларды түзетуге көмектеседі."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -755,33 +1231,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "При допустимом простое 4 часа восстановление заняло 6 часов. Как оценить выполнение требования?",
+      "question": {
+        "ru": "При допустимом простое 4 часа восстановление заняло 6 часов. Как оценить выполнение требования?",
+        "en": "With an allowable downtime of 4 hours, recovery took 6 hours. How should compliance with the requirement be assessed?",
+        "kk": "Жол берілетін тоқтап тұру уақыты 4 сағат болғанда, қалпына келтіру 6 сағатқа созылды. Талаптың орындалуын қалай бағалау керек?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Требование по времени восстановления не выполнено"
+          "text": {
+            "ru": "Требование по времени восстановления не выполнено",
+            "en": "The recovery time requirement was not met",
+            "kk": "Қалпына келтіру уақыты бойынша талап орындалмады"
+          }
         },
         {
           "id": "B",
-          "text": "Оба значения означают одно и то же"
+          "text": {
+            "ru": "Оба значения означают одно и то же",
+            "en": "Both values mean the same thing",
+            "kk": "Екі мән де бірдей нәрсені білдіреді"
+          }
         },
         {
           "id": "C",
-          "text": "Требование не зависит от времени"
+          "text": {
+            "ru": "Требование не зависит от времени",
+            "en": "The requirement does not depend on time",
+            "kk": "Талап уақытқа байланысты емес"
+          }
         },
         {
           "id": "D",
-          "text": "Требование выполнено с запасом 2 часа"
+          "text": {
+            "ru": "Требование выполнено с запасом 2 часа",
+            "en": "The requirement was met with a margin of 2 hours",
+            "kk": "Талап 2 сағат қорымен орындалды"
+          }
         },
         {
           "id": "E",
-          "text": "Нарушена только конфиденциальность по определению"
+          "text": {
+            "ru": "Нарушена только конфиденциальность по определению",
+            "en": "Only confidentiality was violated, by definition",
+            "kk": "Анықтамасы бойынша тек құпиялылық бұзылды"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Фактический простой превысил допустимый на 2 часа.",
+      "explanation": {
+        "ru": "Фактический простой превысил допустимый на 2 часа.",
+        "en": "Actual downtime exceeded the allowable one by 2 hours.",
+        "kk": "Нақты тоқтап тұру уақыты жол берілетінінен 2 сағатқа асып кетті."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -799,33 +1303,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Если допустима потеря изменений не более чем за час, какой интервал копирования явно не соответствует этому условию без других механизмов?",
+      "question": {
+        "ru": "Если допустима потеря изменений не более чем за час, какой интервал копирования явно не соответствует этому условию без других механизмов?",
+        "en": "If losing changes of no more than an hour is acceptable, which backup interval clearly does not meet this condition without other mechanisms?",
+        "kk": "Егер бір сағаттан аспайтын өзгерістердің жоғалуына жол берілсе, басқа тетіктерсіз қандай көшіру аралығы бұл шартқа анық сәйкес келмейді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Каждые 5 минут"
+          "text": {
+            "ru": "Каждые 5 минут",
+            "en": "Every 5 minutes",
+            "kk": "Әр 5 минут сайын"
+          }
         },
         {
           "id": "B",
-          "text": "Каждые 10 минут"
+          "text": {
+            "ru": "Каждые 10 минут",
+            "en": "Every 10 minutes",
+            "kk": "Әр 10 минут сайын"
+          }
         },
         {
           "id": "C",
-          "text": "Каждые 30 минут"
+          "text": {
+            "ru": "Каждые 30 минут",
+            "en": "Every 30 minutes",
+            "kk": "Әр 30 минут сайын"
+          }
         },
         {
           "id": "D",
-          "text": "Каждые 15 минут"
+          "text": {
+            "ru": "Каждые 15 минут",
+            "en": "Every 15 minutes",
+            "kk": "Әр 15 минут сайын"
+          }
         },
         {
           "id": "E",
-          "text": "Раз в 24 часа"
+          "text": {
+            "ru": "Раз в 24 часа",
+            "en": "Once every 24 hours",
+            "kk": "24 сағатта бір рет"
+          }
         }
       ],
       "correct_answers": [
         "E"
       ],
-      "explanation": "Суточный интервал допускает потерю изменений значительно старше часа.",
+      "explanation": {
+        "ru": "Суточный интервал допускает потерю изменений значительно старше часа.",
+        "en": "A daily interval allows the loss of changes much older than an hour.",
+        "kk": "Тәуліктік аралық бір сағаттан едәуір ескі өзгерістердің жоғалуына жол береді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -843,33 +1375,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Какое условие необходимо для полезности показателя ИБ?",
+      "question": {
+        "ru": "Какое условие необходимо для полезности показателя ИБ?",
+        "en": "What condition is necessary for an information security indicator to be useful?",
+        "kk": "АҚ көрсеткішінің пайдалы болуы үшін қандай шарт қажет?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Невозможность повторного расчёта"
+          "text": {
+            "ru": "Невозможность повторного расчёта",
+            "en": "Impossibility of recalculation",
+            "kk": "Қайта есептеудің мүмкін болмауы"
+          }
         },
         {
           "id": "B",
-          "text": "Только сложное иностранное название"
+          "text": {
+            "ru": "Только сложное иностранное название",
+            "en": "Only a complex foreign name",
+            "kk": "Тек күрделі шетелдік атау"
+          }
         },
         {
           "id": "C",
-          "text": "Связь с целью и понятный способ измерения"
+          "text": {
+            "ru": "Связь с целью и понятный способ измерения",
+            "en": "A link to a goal and a clear way of measuring",
+            "kk": "Мақсатпен байланыс және өлшеудің түсінікті тәсілі"
+          }
         },
         {
           "id": "D",
-          "text": "Обязательная секретность от руководства"
+          "text": {
+            "ru": "Обязательная секретность от руководства",
+            "en": "Mandatory secrecy from management",
+            "kk": "Басшылықтан міндетті құпиялық"
+          }
         },
         {
           "id": "E",
-          "text": "Только большое абсолютное значение"
+          "text": {
+            "ru": "Только большое абсолютное значение",
+            "en": "Only a large absolute value",
+            "kk": "Тек үлкен абсолютті мән"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Метрика должна позволять оценивать достижение цели.",
+      "explanation": {
+        "ru": "Метрика должна позволять оценивать достижение цели.",
+        "en": "A metric must make it possible to assess the achievement of a goal.",
+        "kk": "Метрика мақсатқа қол жеткізуді бағалауға мүмкіндік беруі тиіс."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -887,33 +1447,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Что следует пересмотреть при существенном изменении бизнес-процесса?",
+      "question": {
+        "ru": "Что следует пересмотреть при существенном изменении бизнес-процесса?",
+        "en": "What should be reviewed when a business process changes significantly?",
+        "kk": "Бизнес-процесс айтарлықтай өзгергенде нені қайта қарау керек?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только название должности охранника"
+          "text": {
+            "ru": "Только название должности охранника",
+            "en": "Only the job title of the security guard",
+            "kk": "Тек күзетшінің лауазымының атауын"
+          }
         },
         {
           "id": "B",
-          "text": "Риски, требования и связанные меры защиты"
+          "text": {
+            "ru": "Риски, требования и связанные меры защиты",
+            "en": "Risks, requirements, and related protection measures",
+            "kk": "Тәуекелдерді, талаптарды және байланысты қорғау шараларын"
+          }
         },
         {
           "id": "C",
-          "text": "Только имя внутреннего чата"
+          "text": {
+            "ru": "Только имя внутреннего чата",
+            "en": "Only the name of the internal chat",
+            "kk": "Тек ішкі чаттың атын"
+          }
         },
         {
           "id": "D",
-          "text": "Только оформление рабочего стола"
+          "text": {
+            "ru": "Только оформление рабочего стола",
+            "en": "Only the desktop appearance",
+            "kk": "Тек жұмыс үстелінің безендірілуін"
+          }
         },
         {
           "id": "E",
-          "text": "Только количество печатных бланков"
+          "text": {
+            "ru": "Только количество печатных бланков",
+            "en": "Only the number of printed forms",
+            "kk": "Тек баспа бланкілерінің санын"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Изменение деятельности может изменить потребности в безопасности.",
+      "explanation": {
+        "ru": "Изменение деятельности может изменить потребности в безопасности.",
+        "en": "A change in activity may change security needs.",
+        "kk": "Қызметтің өзгеруі қауіпсіздікке қажеттіліктерді өзгертуі мүмкін."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -931,33 +1519,61 @@
       "topic_id": 15,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Мера хорошо снижает риск, но делает критическую операцию невыполнимой. Какое решение обоснованно?",
+      "question": {
+        "ru": "Мера хорошо снижает риск, но делает критическую операцию невыполнимой. Какое решение обоснованно?",
+        "en": "A measure reduces risk well but makes a critical operation impossible to perform. Which decision is justified?",
+        "kk": "Шара тәуекелді жақсы төмендетеді, бірақ маңызды операцияны орындауға мүмкіндік бермейді. Қандай шешім негізделген?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Пересмотреть реализацию с учётом защиты и требований бизнеса"
+          "text": {
+            "ru": "Пересмотреть реализацию с учётом защиты и требований бизнеса",
+            "en": "Revise the implementation taking into account both protection and business requirements",
+            "kk": "Іске асыруды қорғаныс пен бизнес талаптарын ескере отырып қайта қарау"
+          }
         },
         {
           "id": "B",
-          "text": "Отказаться от любых критериев"
+          "text": {
+            "ru": "Отказаться от любых критериев",
+            "en": "Abandon any criteria",
+            "kk": "Кез келген өлшемшарттардан бас тарту"
+          }
         },
         {
           "id": "C",
-          "text": "Убрать все ограничения без анализа"
+          "text": {
+            "ru": "Убрать все ограничения без анализа",
+            "en": "Remove all restrictions without analysis",
+            "kk": "Барлық шектеулерді талдаусыз алып тастау"
+          }
         },
         {
           "id": "D",
-          "text": "Скрыть последствия от владельца процесса"
+          "text": {
+            "ru": "Скрыть последствия от владельца процесса",
+            "en": "Hide the consequences from the process owner",
+            "kk": "Салдарларды процесс иесінен жасыру"
+          }
         },
         {
           "id": "E",
-          "text": "Считать нарушение работы несущественным всегда"
+          "text": {
+            "ru": "Считать нарушение работы несущественным всегда",
+            "en": "Always consider the disruption of work insignificant",
+            "kk": "Жұмыстың бұзылуын әрдайым елеусіз деп санау"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Управление ИБ должно учитывать функционирование организации.",
+      "explanation": {
+        "ru": "Управление ИБ должно учитывать функционирование организации.",
+        "en": "Information security management must take the functioning of the organization into account.",
+        "kk": "АҚ басқаруы ұйымның жұмыс істеуін ескеруі тиіс."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -975,33 +1591,61 @@
       "topic_id": 15,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Какой результат лучше подтверждает работоспособность СУИБ?",
+      "question": {
+        "ru": "Какой результат лучше подтверждает работоспособность СУИБ?",
+        "en": "Which result better confirms that an ISMS is operational?",
+        "kk": "Қай нәтиже АҚБЖ-ның жұмыс істейтінін жақсырақ растайды?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Только число купленных продуктов"
+          "text": {
+            "ru": "Только число купленных продуктов",
+            "en": "Only the number of products purchased",
+            "kk": "Тек сатып алынған өнімдер саны"
+          }
         },
         {
           "id": "B",
-          "text": "Только наличие папки с названием ИБ"
+          "text": {
+            "ru": "Только наличие папки с названием ИБ",
+            "en": "Only the presence of a folder named InfoSec",
+            "kk": "Тек АҚ деп аталатын қалтаның болуы"
+          }
         },
         {
           "id": "C",
-          "text": "Только дорогой сертификат без применения"
+          "text": {
+            "ru": "Только дорогой сертификат без применения",
+            "en": "Only an expensive certificate without application",
+            "kk": "Тек қолданылмайтын қымбат сертификат"
+          }
         },
         {
           "id": "D",
-          "text": "Прослеживаемые цели, работающие процессы и проверяемое улучшение"
+          "text": {
+            "ru": "Прослеживаемые цели, работающие процессы и проверяемое улучшение",
+            "en": "Traceable goals, working processes, and verifiable improvement",
+            "kk": "Қадағаланатын мақсаттар, жұмыс істейтін процестер және тексерілетін жетілдіру"
+          }
         },
         {
           "id": "E",
-          "text": "Только объём политики"
+          "text": {
+            "ru": "Только объём политики",
+            "en": "Only the volume of the policy",
+            "kk": "Тек саясаттың көлемі"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Работоспособность определяется практикой управления и результатами контроля.",
+      "explanation": {
+        "ru": "Работоспособность определяется практикой управления и результатами контроля.",
+        "en": "Operational effectiveness is determined by management practice and control results.",
+        "kk": "Жұмысқа қабілеттілік басқару тәжірибесімен және бақылау нәтижелерімен анықталады."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1019,33 +1663,61 @@
       "topic_id": 15,
       "difficulty_level": 2,
       "type": "single_choice",
-      "question": "Какая запись в плане мер позволяет сотрудникам точно понять, кто ведёт работу и когда ожидается результат?",
+      "question": {
+        "ru": "Какая запись в плане мер позволяет сотрудникам точно понять, кто ведёт работу и когда ожидается результат?",
+        "en": "Which entry in a measures plan allows employees to understand exactly who is leading the work and when a result is expected?",
+        "kk": "Шаралар жоспарындағы қандай жазба қызметкерлерге жұмысты кім жүргізетінін және нәтиже қашан күтілетінін дәл түсінуге мүмкіндік береді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Назначенный исполнитель и срок выполнения"
+          "text": {
+            "ru": "Назначенный исполнитель и срок выполнения",
+            "en": "An assigned executor and a completion deadline",
+            "kk": "Тағайындалған орындаушы және орындау мерзімі"
+          }
         },
         {
           "id": "B",
-          "text": "Журнал завершённых проверок без плановых дат"
+          "text": {
+            "ru": "Журнал завершённых проверок без плановых дат",
+            "en": "A log of completed checks without planned dates",
+            "kk": "Жоспарлы күндерсіз аяқталған тексерулер журналы"
+          }
         },
         {
           "id": "C",
-          "text": "Список мер без распределения ответственности"
+          "text": {
+            "ru": "Список мер без распределения ответственности",
+            "en": "A list of measures without distribution of responsibility",
+            "kk": "Жауапкершілік бөлінбеген шаралар тізімі"
+          }
         },
         {
           "id": "D",
-          "text": "Перечень задействованных систем без сроков"
+          "text": {
+            "ru": "Перечень задействованных систем без сроков",
+            "en": "A list of involved systems without deadlines",
+            "kk": "Мерзімдерсіз қатысатын жүйелер тізбесі"
+          }
         },
         {
           "id": "E",
-          "text": "Общий рейтинг рисков за прошлый квартал"
+          "text": {
+            "ru": "Общий рейтинг рисков за прошлый квартал",
+            "en": "An overall risk rating for the previous quarter",
+            "kk": "Өткен тоқсандағы тәуекелдердің жалпы рейтингі"
+          }
         }
       ],
       "correct_answers": [
         "A"
       ],
-      "explanation": "Владелец задачи и срок делают исполнение отслеживаемым.",
+      "explanation": {
+        "ru": "Владелец задачи и срок делают исполнение отслеживаемым.",
+        "en": "A task owner and a deadline make execution traceable.",
+        "kk": "Тапсырма иесі мен мерзім орындалуды қадағаланатын етеді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1063,33 +1735,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "Владелец риска принял временное решение до конца квартала. Как сохранить управляемость решения при изменении условий?",
+      "question": {
+        "ru": "Владелец риска принял временное решение до конца квартала. Как сохранить управляемость решения при изменении условий?",
+        "en": "The risk owner made a temporary decision until the end of the quarter. How can the decision remain manageable if conditions change?",
+        "kk": "Тәуекел иесі тоқсан соңына дейін уақытша шешім қабылдады. Жағдайлар өзгерсе, шешімнің басқарылуын қалай сақтауға болады?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Перенести оценку на неопределённый срок"
+          "text": {
+            "ru": "Перенести оценку на неопределённый срок",
+            "en": "Postpone the assessment indefinitely",
+            "kk": "Бағалауды белгісіз мерзімге ауыстыру"
+          }
         },
         {
           "id": "B",
-          "text": "Назначить дату пересмотра и условия для досрочной оценки"
+          "text": {
+            "ru": "Назначить дату пересмотра и условия для досрочной оценки",
+            "en": "Set a review date and conditions for an early assessment",
+            "kk": "Қайта қарау күнін және мерзімінен бұрын бағалау шарттарын белгілеу"
+          }
         },
         {
           "id": "C",
-          "text": "Удалить риск после утверждения"
+          "text": {
+            "ru": "Удалить риск после утверждения",
+            "en": "Delete the risk after approval",
+            "kk": "Бекітілгеннен кейін тәуекелді жою"
+          }
         },
         {
           "id": "D",
-          "text": "Оставить решение только в личных заметках"
+          "text": {
+            "ru": "Оставить решение только в личных заметках",
+            "en": "Keep the decision only in personal notes",
+            "kk": "Шешімді тек жеке жазбаларда қалдыру"
+          }
         },
         {
           "id": "E",
-          "text": "Переименовать риск в выполненную задачу"
+          "text": {
+            "ru": "Переименовать риск в выполненную задачу",
+            "en": "Rename the risk as a completed task",
+            "kk": "Тәуекелді орындалған тапсырма деп қайта атау"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Пересмотр поддерживает актуальность принятия риска в пределах срока и допущений.",
+      "explanation": {
+        "ru": "Пересмотр поддерживает актуальность принятия риска в пределах срока и допущений.",
+        "en": "Review keeps the risk acceptance up to date within its term and assumptions.",
+        "kk": "Қайта қарау тәуекелді қабылдаудың мерзімі мен жорамалдары шегінде өзектілігін сақтайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1107,33 +1807,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "В месячном отчёте одно число отражает количество защищённых устройств. Что нужно добавить, чтобы оценить охват защиты?",
+      "question": {
+        "ru": "В месячном отчёте одно число отражает количество защищённых устройств. Что нужно добавить, чтобы оценить охват защиты?",
+        "en": "In a monthly report, one number reflects the count of protected devices. What needs to be added to assess protection coverage?",
+        "kk": "Айлық есепте бір сан қорғалған құрылғылар санын көрсетеді. Қорғаныстың қамту аясын бағалау үшін не қосу керек?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Время работы программы на одном устройстве"
+          "text": {
+            "ru": "Время работы программы на одном устройстве",
+            "en": "Program running time on one device",
+            "kk": "Бағдарламаның бір құрылғыдағы жұмыс уақыты"
+          }
         },
         {
           "id": "B",
-          "text": "Число заявок на установку за весь год"
+          "text": {
+            "ru": "Число заявок на установку за весь год",
+            "en": "The number of installation requests for the entire year",
+            "kk": "Бүкіл жылдағы орнатуға арналған өтінімдер саны"
+          }
         },
         {
           "id": "C",
-          "text": "Долю установок в одном выбранном отделе"
+          "text": {
+            "ru": "Долю установок в одном выбранном отделе",
+            "en": "The share of installations in one selected department",
+            "kk": "Таңдалған бір бөлімдегі орнатулар үлесі"
+          }
         },
         {
           "id": "D",
-          "text": "Общее число устройств в применимой области учёта"
+          "text": {
+            "ru": "Общее число устройств в применимой области учёта",
+            "en": "The total number of devices in the applicable scope of accounting",
+            "kk": "Есепке алудың қолданылатын аумағындағы құрылғылардың жалпы саны"
+          }
         },
         {
           "id": "E",
-          "text": "Число устройств, которые заменили в прошлом месяце"
+          "text": {
+            "ru": "Число устройств, которые заменили в прошлом месяце",
+            "en": "The number of devices replaced last month",
+            "kk": "Өткен айда ауыстырылған құрылғылар саны"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Числитель и знаменатель позволяют вычислить долю охвата.",
+      "explanation": {
+        "ru": "Числитель и знаменатель позволяют вычислить долю охвата.",
+        "en": "The numerator and denominator make it possible to calculate the coverage share.",
+        "kk": "Алым мен бөлгіш қамту үлесін есептеуге мүмкіндік береді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1151,33 +1879,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "При испытании восстановили технический сервис вовремя, но отдел смог продолжить работу только через день из-за неготовой зависимой службы. Что следует измерять?",
+      "question": {
+        "ru": "При испытании восстановили технический сервис вовремя, но отдел смог продолжить работу только через день из-за неготовой зависимой службы. Что следует измерять?",
+        "en": "During a test, a technical service was restored on time, but the department could resume work only a day later because a dependent service was not ready. What should be measured?",
+        "kk": "Сынақ кезінде техникалық қызмет уақытында қалпына келтірілді, бірақ тәуелді қызметтің дайын болмауына байланысты бөлім жұмысын бір күннен кейін ғана жалғастыра алды. Нені өлшеу керек?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Число писем после испытания"
+          "text": {
+            "ru": "Число писем после испытания",
+            "en": "The number of emails after the test",
+            "kk": "Сынақтан кейінгі хаттар санын"
+          }
         },
         {
           "id": "B",
-          "text": "Только длительность работы сервера до отказа"
+          "text": {
+            "ru": "Только длительность работы сервера до отказа",
+            "en": "Only the duration of server operation until failure",
+            "kk": "Тек сервердің істен шыққанға дейінгі жұмыс ұзақтығын"
+          }
         },
         {
           "id": "C",
-          "text": "Время до возобновления рабочего процесса с его зависимостями"
+          "text": {
+            "ru": "Время до возобновления рабочего процесса с его зависимостями",
+            "en": "Time until the work process resumes together with its dependencies",
+            "kk": "Жұмыс процесінің тәуелділіктерімен бірге қайта жалғасуына дейінгі уақытты"
+          }
         },
         {
           "id": "D",
-          "text": "Только время включения технического сервиса"
+          "text": {
+            "ru": "Только время включения технического сервиса",
+            "en": "Only the time the technical service was switched on",
+            "kk": "Тек техникалық қызметтің қосылу уақытын"
+          }
         },
         {
           "id": "E",
-          "text": "Только возраст резервной копии"
+          "text": {
+            "ru": "Только возраст резервной копии",
+            "en": "Only the age of the backup",
+            "kk": "Тек резервтік көшірменің жасын"
+          }
         }
       ],
       "correct_answers": [
         "C"
       ],
-      "explanation": "Цель восстановления относится к рабочему процессу, который может потребовать нескольких услуг.",
+      "explanation": {
+        "ru": "Цель восстановления относится к рабочему процессу, который может потребовать нескольких услуг.",
+        "en": "The recovery objective relates to the work process, which may require several services.",
+        "kk": "Қалпына келтіру мақсаты бірнеше қызметті қажет етуі мүмкін жұмыс процесіне қатысты."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1195,33 +1951,61 @@
       "topic_id": 15,
       "difficulty_level": 3,
       "type": "single_choice",
-      "question": "После исправления проблемы в одном подразделении подозревают, что аналогичный недостаток есть ещё в двух. Что проверяет результативность корректирующего действия?",
+      "question": {
+        "ru": "После исправления проблемы в одном подразделении подозревают, что аналогичный недостаток есть ещё в двух. Что проверяет результативность корректирующего действия?",
+        "en": "After fixing a problem in one unit, it is suspected that a similar deficiency exists in two others. What verifies the effectiveness of a corrective action?",
+        "kk": "Бір бөлімшеде мәселе түзетілгеннен кейін, тағы екеуінде ұқсас кемшілік бар деген күдік туындады. Түзетуші әрекеттің нәтижелілігін не тексереді?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Удаление исходных наблюдений"
+          "text": {
+            "ru": "Удаление исходных наблюдений",
+            "en": "Deleting the original observations",
+            "kk": "Бастапқы бақылауларды жою"
+          }
         },
         {
           "id": "B",
-          "text": "Сокращение числа вопросов в анкете"
+          "text": {
+            "ru": "Сокращение числа вопросов в анкете",
+            "en": "Reducing the number of questions in the questionnaire",
+            "kk": "Сауалнамадағы сұрақтар санын қысқарту"
+          }
         },
         {
           "id": "C",
-          "text": "Закрытие задачи после первого письма"
+          "text": {
+            "ru": "Закрытие задачи после первого письма",
+            "en": "Closing the task after the first email",
+            "kk": "Тапсырманы бірінші хаттан кейін жабу"
+          }
         },
         {
           "id": "D",
-          "text": "Подтверждение исправления в исходном месте и проверка аналогичных процессов в других подразделениях"
+          "text": {
+            "ru": "Подтверждение исправления в исходном месте и проверка аналогичных процессов в других подразделениях",
+            "en": "Confirming the fix at the original location and checking similar processes in other units",
+            "kk": "Түзетуді бастапқы жерде растау және басқа бөлімшелердегі ұқсас процестерді тексеру"
+          }
         },
         {
           "id": "E",
-          "text": "Смена названия подразделения"
+          "text": {
+            "ru": "Смена названия подразделения",
+            "en": "Changing the name of the unit",
+            "kk": "Бөлімше атауын өзгерту"
+          }
         }
       ],
       "correct_answers": [
         "D"
       ],
-      "explanation": "Проверка подтверждает устранение причины в местах, где она могла повториться.",
+      "explanation": {
+        "ru": "Проверка подтверждает устранение причины в местах, где она могла повториться.",
+        "en": "The check confirms that the cause is eliminated in the places where it could recur.",
+        "kk": "Тексеру себептің қайталануы мүмкін орындарда жойылғанын растайды."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
@@ -1239,33 +2023,61 @@
       "topic_id": 15,
       "difficulty_level": 4,
       "type": "single_choice",
-      "question": "Организация отмечает почти стопроцентное прохождение обучения, но сотрудники по-прежнему поздно сообщают об инцидентах. Как дополнить оценку эффективности?",
+      "question": {
+        "ru": "Организация отмечает почти стопроцентное прохождение обучения, но сотрудники по-прежнему поздно сообщают об инцидентах. Как дополнить оценку эффективности?",
+        "en": "An organization reports nearly one hundred percent training completion, but employees still report incidents late. How should the effectiveness assessment be supplemented?",
+        "kk": "Ұйым оқудан өтудің дерлік жүз пайызын атап өтеді, бірақ қызметкерлер оқиғалар туралы әлі де кеш хабарлайды. Тиімділікті бағалауды қалай толықтыру керек?"
+      },
       "options": [
         {
           "id": "A",
-          "text": "Считать суммарное число выданных сертификатов"
+          "text": {
+            "ru": "Считать суммарное число выданных сертификатов",
+            "en": "Count the total number of certificates issued",
+            "kk": "Берілген сертификаттардың жиынтық санын санау"
+          }
         },
         {
           "id": "B",
-          "text": "Измерять время сообщения в учебных ситуациях с единым сценарием"
+          "text": {
+            "ru": "Измерять время сообщения в учебных ситуациях с единым сценарием",
+            "en": "Measure reporting time in training scenarios using a single scenario",
+            "kk": "Бірыңғай сценариймен оқу жағдайларында хабарлау уақытын өлшеу"
+          }
         },
         {
           "id": "C",
-          "text": "Измерять размер базы учебных материалов"
+          "text": {
+            "ru": "Измерять размер базы учебных материалов",
+            "en": "Measure the size of the training materials database",
+            "kk": "Оқу материалдары базасының көлемін өлшеу"
+          }
         },
         {
           "id": "D",
-          "text": "Считать только число просмотренных разделов курса"
+          "text": {
+            "ru": "Считать только число просмотренных разделов курса",
+            "en": "Count only the number of course sections viewed",
+            "kk": "Курстың тек қаралған бөлімдерінің санын санау"
+          }
         },
         {
           "id": "E",
-          "text": "Отслеживать только присутствие на занятиях"
+          "text": {
+            "ru": "Отслеживать только присутствие на занятиях",
+            "en": "Track only attendance at sessions",
+            "kk": "Тек сабаққа қатысуды қадағалау"
+          }
         }
       ],
       "correct_answers": [
         "B"
       ],
-      "explanation": "Метрика поведения показывает практическое применение навыков, которое доля завершения сама по себе не измеряет.",
+      "explanation": {
+        "ru": "Метрика поведения показывает практическое применение навыков, которое доля завершения сама по себе не измеряет.",
+        "en": "A behavioral metric shows practical application of skills, which the completion rate alone does not measure.",
+        "kk": "Мінез-құлық метрикасы дағдыларды тәжірибеде қолдануды көрсетеді, оны тек аяқтау үлесі өлшемейді."
+      },
       "source_references": [
         {
           "file": "Программа ик ВИБ 26-27.docx",
