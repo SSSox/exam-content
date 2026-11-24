@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «ата-ана» означает...",
-        "en": "The word «ата-ана» means..."
+        "en": "The word «ата-ана» means...",
+        "kk": "«Ата-ана» сөзінің мағынасы..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "родители",
-            "en": "parents"
+            "en": "parents",
+            "kk": "ата-ана"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "муж и жена",
-            "en": "husband and wife"
+            "en": "husband and wife",
+            "kk": "ері мен әйелі"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "дяди и тёти",
-            "en": "uncles and aunts"
+            "en": "uncles and aunts",
+            "kk": "ағайлар мен тәтелер"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "бабушка и дедушка",
-            "en": "grandmother and grandfather"
+            "en": "grandmother and grandfather",
+            "kk": "әже мен ата"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "братья и сёстры",
-            "en": "brothers and sisters"
+            "en": "brothers and sisters",
+            "kk": "аға-інілер мен әпке-сіңлілер"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "Ата-ана (то же, что әке-шеше) означает «родители».",
-        "en": "Ата-ана (the same as әке-шеше) means «parents»."
+        "en": "Ата-ана (the same as әке-шеше) means «parents».",
+        "kk": "Ата-ана (әке-шеше сөзімен бірдей) «ата-ана» дегенді білдіреді."
       },
       "source_references": [
         {
@@ -72,6 +79,9 @@
               ],
               "en": [
                 "parents"
+              ],
+              "kk": [
+                "ата-ана"
               ]
             }
           }
@@ -820,42 +830,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «зейнеткер» означает...",
-        "en": "The word «зейнеткер» means..."
+        "en": "The word «зейнеткер» means...",
+        "kk": "«Зейнеткер» сөзінің мағынасы..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "врач",
-            "en": "doctor"
+            "en": "doctor",
+            "kk": "дәрігер"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "переводчик",
-            "en": "translator"
+            "en": "translator",
+            "kk": "аудармашы"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "юрист",
-            "en": "lawyer"
+            "en": "lawyer",
+            "kk": "заңгер"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "инженер",
-            "en": "engineer"
+            "en": "engineer",
+            "kk": "инженер"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "пенсионер",
-            "en": "pensioner"
+            "en": "pensioner",
+            "kk": "зейнеткер"
           }
         }
       ],
@@ -864,7 +880,8 @@
       ],
       "explanation": {
         "ru": "Зейнеткер — пенсионер.",
-        "en": "Зейнеткер means pensioner."
+        "en": "Зейнеткер means pensioner.",
+        "kk": "Зейнеткер — зейнеткер (жасына қарай еңбектен босаған адам)."
       },
       "source_references": [
         {
@@ -880,42 +897,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Біздің ұл... мектепте оқиды. (Наш сын учится в школе.)",
-        "en": "Біздің ұл... мектепте оқиды. (Our son studies at school.)"
+        "en": "Біздің ұл... мектепте оқиды. (Our son studies at school.)",
+        "kk": "Біздің ұл... мектепте оқиды. (Біздің ұлымыз мектепте оқиды.)"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "ұлымыз",
-            "en": "ұлымыз"
+            "en": "ұлымыз",
+            "kk": "ұлымыз"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "ұлым",
-            "en": "ұлым"
+            "en": "ұлым",
+            "kk": "ұлым"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "ұлы",
-            "en": "ұлы"
+            "en": "ұлы",
+            "kk": "ұлы"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "ұлыңыз",
-            "en": "ұлыңыз"
+            "en": "ұлыңыз",
+            "kk": "ұлыңыз"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "ұлмыз",
-            "en": "ұлмыз"
+            "en": "ұлмыз",
+            "kk": "ұлмыз"
           }
         }
       ],
@@ -924,7 +947,8 @@
       ],
       "explanation": {
         "ru": "После согласной -л к основе добавляется -ымыз: ұл + ымыз = ұлымыз («наш сын»).",
-        "en": "After the consonant -л the ending -ымыз is added to the stem: ұл + ымыз = ұлымыз («our son»)."
+        "en": "After the consonant -л the ending -ымыз is added to the stem: ұл + ымыз = ұлымыз («our son»).",
+        "kk": "Дауыссыз -л-дан кейін түбірге -ымыз жалғауы жалғанады: ұл + ымыз = ұлымыз («біздің ұлымыз»)."
       },
       "source_references": [
         {

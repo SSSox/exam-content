@@ -274,42 +274,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «кіреберіс» означает...",
-        "en": "The word «кіреберіс» means..."
+        "en": "The word «кіреберіс» means...",
+        "kk": "«Кіреберіс» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "спальня",
-            "en": "a bedroom"
+            "en": "a bedroom",
+            "kk": "жатын бөлме"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "гостиная",
-            "en": "a living room"
+            "en": "a living room",
+            "kk": "қонақ бөлме"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "коридор",
-            "en": "a corridor"
+            "en": "a corridor",
+            "kk": "дәліз"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "кухня",
-            "en": "a kitchen"
+            "en": "a kitchen",
+            "kk": "асүй"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "прихожая",
-            "en": "a hallway"
+            "en": "a hallway",
+            "kk": "кіреберіс"
           }
         }
       ],
@@ -318,7 +324,8 @@
       ],
       "explanation": {
         "ru": "Кіреберіс — «прихожая», а дәліз — «коридор».",
-        "en": "Кіреберіс means “hallway”, and дәліз means “corridor”."
+        "en": "Кіреберіс means “hallway”, and дәліз means “corridor”.",
+        "kk": "Кіреберіс — үйге кірер жердегі бөлме, ал дәліз — бөлмелерді жалғайтын жол."
       },
       "source_references": [
         {
@@ -334,42 +341,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «шатыр» означает...",
-        "en": "The word «шатыр» means..."
+        "en": "The word «шатыр» means...",
+        "kk": "«Шатыр» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "потолок",
-            "en": "a ceiling"
+            "en": "a ceiling",
+            "kk": "төбе"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "стена",
-            "en": "a wall"
+            "en": "a wall",
+            "kk": "қабырға"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "крыша",
-            "en": "a roof"
+            "en": "a roof",
+            "kk": "шатыр"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "пол",
-            "en": "a floor"
+            "en": "a floor",
+            "kk": "еден"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "окно",
-            "en": "a window"
+            "en": "a window",
+            "kk": "терезе"
           }
         }
       ],
@@ -378,7 +391,8 @@
       ],
       "explanation": {
         "ru": "Шатыр переводится как «крыша», а төбе — «потолок».",
-        "en": "Шатыр translates as “roof”, and төбе means “ceiling”."
+        "en": "Шатыр translates as “roof”, and төбе means “ceiling”.",
+        "kk": "Шатыр — үйдің үстін жауып тұратын бөлік, ал төбе — бөлменің үстіңгі беті."
       },
       "source_references": [
         {
@@ -397,6 +411,9 @@
               "en": [
                 "a roof",
                 "roof"
+              ],
+              "kk": [
+                "шатыр"
               ]
             }
           }
@@ -410,42 +427,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «тоңазытқыш» означает...",
-        "en": "The word «тоңазытқыш» means..."
+        "en": "The word «тоңазытқыш» means...",
+        "kk": "«Тоңазытқыш» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "посудомоечная машина",
-            "en": "a dishwasher"
+            "en": "a dishwasher",
+            "kk": "ыдыс жуғыш мәшине"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "стиральная машина",
-            "en": "a washing machine"
+            "en": "a washing machine",
+            "kk": "кір жуғыш мәшине"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "холодильник",
-            "en": "a refrigerator"
+            "en": "a refrigerator",
+            "kk": "тоңазытқыш"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "микроволновая печь",
-            "en": "a microwave oven"
+            "en": "a microwave oven",
+            "kk": "микротолқынды пеш"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "пылесос",
-            "en": "a vacuum cleaner"
+            "en": "a vacuum cleaner",
+            "kk": "шаңсорғыш"
           }
         }
       ],
@@ -454,7 +477,8 @@
       ],
       "explanation": {
         "ru": "Тоңазытқыш переводится как «холодильник».",
-        "en": "Тоңазытқыш translates as “refrigerator”."
+        "en": "Тоңазытқыш translates as “refrigerator”.",
+        "kk": "Тоңазытқыш — азық-түлікті салқын ұстайтын тұрмыстық құрал."
       },
       "source_references": [
         {
@@ -1594,42 +1618,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «шанышқы» означает...",
-        "en": "The word «шанышқы» means..."
+        "en": "The word «шанышқы» means...",
+        "kk": "«Шанышқы» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "вилка",
-            "en": "a fork"
+            "en": "a fork",
+            "kk": "шанышқы"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "ложка",
-            "en": "a spoon"
+            "en": "a spoon",
+            "kk": "қасық"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "чашка",
-            "en": "a cup"
+            "en": "a cup",
+            "kk": "кесе"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "тарелка",
-            "en": "a plate"
+            "en": "a plate",
+            "kk": "тарелке"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "нож",
-            "en": "a knife"
+            "en": "a knife",
+            "kk": "пышақ"
           }
         }
       ],
@@ -1638,7 +1668,8 @@
       ],
       "explanation": {
         "ru": "Шанышқы переводится как «вилка».",
-        "en": "Шанышқы translates as “fork”."
+        "en": "Шанышқы translates as “fork”.",
+        "kk": "Шанышқы — ас ішуге арналған айырлы құрал."
       },
       "source_references": [
         {
@@ -1657,6 +1688,9 @@
               "en": [
                 "a fork",
                 "fork"
+              ],
+              "kk": [
+                "шанышқы"
               ]
             }
           }

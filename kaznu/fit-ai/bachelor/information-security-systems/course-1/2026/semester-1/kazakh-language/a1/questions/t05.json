@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «нан» означает...",
-        "en": "The word «нан» means..."
+        "en": "The word «нан» means...",
+        "kk": "«Нан» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "хлеб",
-            "en": "bread"
+            "en": "bread",
+            "kk": "нан"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "сыр",
-            "en": "cheese"
+            "en": "cheese",
+            "kk": "ірімшік"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "мясо",
-            "en": "meat"
+            "en": "meat",
+            "kk": "ет"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "сахар",
-            "en": "sugar"
+            "en": "sugar",
+            "kk": "қант"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "яйцо",
-            "en": "egg"
+            "en": "egg",
+            "kk": "жұмыртқа"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "Нан — хлеб.",
-        "en": "Нан is bread."
+        "en": "Нан is bread.",
+        "kk": "Нан — ұннан пісірілетін тағам."
       },
       "source_references": [
         {
@@ -71,6 +78,9 @@
               ],
               "en": [
                 "bread"
+              ],
+              "kk": [
+                "нан"
               ]
             }
           }
@@ -169,42 +179,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «өнім» означает...",
-        "en": "The word «өнім» means..."
+        "en": "The word «өнім» means...",
+        "kk": "«Өнім» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "цена",
-            "en": "price"
+            "en": "price",
+            "kk": "баға"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "интервью",
-            "en": "interview"
+            "en": "interview",
+            "kk": "сұхбат"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "процент",
-            "en": "percent"
+            "en": "percent",
+            "kk": "пайыз"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "килограмм",
-            "en": "kilogram"
+            "en": "kilogram",
+            "kk": "келі"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "товар",
-            "en": "goods"
+            "en": "goods",
+            "kk": "өнім"
           }
         }
       ],
@@ -213,7 +229,8 @@
       ],
       "explanation": {
         "ru": "Өнім — товар, изделие: отандық өнім — отечественный товар.",
-        "en": "Өнім means goods, a product: отандық өнім is a domestic product."
+        "en": "Өнім means goods, a product: отандық өнім is a domestic product.",
+        "kk": "Өнім — өндірілген тауар: отандық өнім — елімізде өндірілген тауар."
       },
       "source_references": [
         {
@@ -229,42 +246,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «қызанақ» означает...",
-        "en": "The word «қызанақ» means..."
+        "en": "The word «қызанақ» means...",
+        "kk": "«Қызанақ» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "огурец",
-            "en": "cucumber"
+            "en": "cucumber",
+            "kk": "қияр"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "помидор",
-            "en": "tomato"
+            "en": "tomato",
+            "kk": "қызанақ"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "морковь",
-            "en": "carrot"
+            "en": "carrot",
+            "kk": "сәбіз"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "лук",
-            "en": "onion"
+            "en": "onion",
+            "kk": "пияз"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "капуста",
-            "en": "cabbage"
+            "en": "cabbage",
+            "kk": "қырыққабат"
           }
         }
       ],
@@ -273,7 +296,8 @@
       ],
       "explanation": {
         "ru": "Қызанақ — помидор.",
-        "en": "Қызанақ is a tomato."
+        "en": "Қызанақ is a tomato.",
+        "kk": "Қызанақ — салатқа салынатын қызыл көкөніс."
       },
       "source_references": [
         {
@@ -292,6 +316,9 @@
               ],
               "en": [
                 "tomato"
+              ],
+              "kk": [
+                "қызанақ"
               ]
             }
           }
@@ -305,42 +332,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Перевод слова «жасыл»:",
-        "en": "Translation of the word «жасыл»:"
+        "en": "Translation of the word «жасыл»:",
+        "kk": "«Жасыл» сөзінің мағынасы:"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "жёлтый",
-            "en": "yellow"
+            "en": "yellow",
+            "kk": "сары"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "красный",
-            "en": "red"
+            "en": "red",
+            "kk": "қызыл"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "коричневый",
-            "en": "brown"
+            "en": "brown",
+            "kk": "қоңыр"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "зелёный",
-            "en": "green"
+            "en": "green",
+            "kk": "жасыл"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "оранжевый",
-            "en": "orange"
+            "en": "orange",
+            "kk": "қызғылт сары"
           }
         }
       ],
@@ -349,7 +382,8 @@
       ],
       "explanation": {
         "ru": "Жасыл — зелёный цвет.",
-        "en": "Жасыл is the color green."
+        "en": "Жасыл is the color green.",
+        "kk": "Жасыл — шөптің түсі."
       },
       "source_references": [
         {
@@ -507,42 +541,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «жеңілдік» означает...",
-        "en": "The word «жеңілдік» means..."
+        "en": "The word «жеңілдік» means...",
+        "kk": "«Жеңілдік» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "цена",
-            "en": "price"
+            "en": "price",
+            "kk": "баға"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "интервью",
-            "en": "interview"
+            "en": "interview",
+            "kk": "сұхбат"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "процент",
-            "en": "percent"
+            "en": "percent",
+            "kk": "пайыз"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "продавец",
-            "en": "seller"
+            "en": "seller",
+            "kk": "сатушы"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "скидка",
-            "en": "discount"
+            "en": "discount",
+            "kk": "жеңілдік"
           }
         }
       ],
@@ -551,7 +591,8 @@
       ],
       "explanation": {
         "ru": "Жеңілдік — скидка.",
-        "en": "Жеңілдік is a discount."
+        "en": "Жеңілдік is a discount.",
+        "kk": "Жеңілдік — бағаның төмендеуі."
       },
       "source_references": [
         {
@@ -573,6 +614,9 @@
               ],
               "en": [
                 "discount"
+              ],
+              "kk": [
+                "жеңілдік"
               ]
             }
           }
@@ -799,42 +843,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «алмұрт» означает...",
-        "en": "The word «алмұрт» means..."
+        "en": "The word «алмұрт» means...",
+        "kk": "«Алмұрт» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "яблоко",
-            "en": "apple"
+            "en": "apple",
+            "kk": "алма"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "груша",
-            "en": "pear"
+            "en": "pear",
+            "kk": "алмұрт"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "вишня",
-            "en": "cherry"
+            "en": "cherry",
+            "kk": "шие"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "абрикос",
-            "en": "apricot"
+            "en": "apricot",
+            "kk": "өрік"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "слива",
-            "en": "plum"
+            "en": "plum",
+            "kk": "алхоры"
           }
         }
       ],
@@ -843,7 +893,8 @@
       ],
       "explanation": {
         "ru": "Алмұрт — груша, а алма — яблоко, шие — вишня, өрік — абрикос.",
-        "en": "Алмұрт is a pear, while алма is an apple, шие is a cherry, өрік is an apricot."
+        "en": "Алмұрт is a pear, while алма is an apple, шие is a cherry, өрік is an apricot.",
+        "kk": "Алмұрт — алмаға ұқсас жеміс, ал алма, шие, өрік — басқа жемістер."
       },
       "source_references": [
         {
@@ -936,42 +987,48 @@
       "type": "multiple_choice",
       "question": {
         "ru": "Слова, обозначающие вкус:",
-        "en": "Words denoting taste:"
+        "en": "Words denoting taste:",
+        "kk": "Дәмді білдіретін сөздер:"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "ащы",
-            "en": "ащы"
+            "en": "ащы",
+            "kk": "ащы"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "қышқыл",
-            "en": "қышқыл"
+            "en": "қышқыл",
+            "kk": "қышқыл"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "қызыл",
-            "en": "қызыл"
+            "en": "қызыл",
+            "kk": "қызыл"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "дәмді",
-            "en": "дәмді"
+            "en": "дәмді",
+            "kk": "дәмді"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "қатты",
-            "en": "қатты"
+            "en": "қатты",
+            "kk": "қатты"
           }
         }
       ],
@@ -982,7 +1039,8 @@
       ],
       "explanation": {
         "ru": "Ащы — горький, қышқыл — кислый, дәмді — вкусный, а қызыл — цвет, қатты — «твёрдый».",
-        "en": "Ащы is bitter, қышқыл is sour, дәмді is tasty, while қызыл is a color and қатты means «hard»."
+        "en": "Ащы is bitter, қышқыл is sour, дәмді is tasty, while қызыл is a color and қатты means «hard».",
+        "kk": "Ащы, қышқыл, дәмді — дәм атаулары, ал қызыл — түс, қатты — қаттылық белгісі."
       },
       "source_references": [
         {
@@ -1654,42 +1712,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Форма «базардамын» в реплике «Мен базардамын» означает...",
-        "en": "The form «базардамын» in the remark «Мен базардамын» means..."
+        "en": "The form «базардамын» in the remark «Мен базардамын» means...",
+        "kk": "«Мен базардамын» репликасындағы «базардамын» формасы мынаны білдіреді..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "«я на рынке»",
-            "en": "«I am at the market»"
+            "en": "«I am at the market»",
+            "kk": "«мен базардамын»"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "«я иду на рынок»",
-            "en": "«I am going to the market»"
+            "en": "«I am going to the market»",
+            "kk": "«мен базарға барамын»"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "«ты на рынке»",
-            "en": "«you are at the market»"
+            "en": "«you are at the market»",
+            "kk": "«сен базардасың»"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "«он на рынке»",
-            "en": "«he is at the market»"
+            "en": "«he is at the market»",
+            "kk": "«ол базарда»"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "«мы на рынке»",
-            "en": "«we are at the market»"
+            "en": "«we are at the market»",
+            "kk": "«біз базардамыз»"
           }
         }
       ],
@@ -1698,7 +1762,8 @@
       ],
       "explanation": {
         "ru": "Базар-да-мын: местный падеж -да («на рынке») и окончание -мын («я»).",
-        "en": "Базар-да-мын: the locative case -да («at the market») and the ending -мын («I»)."
+        "en": "Базар-да-мын: the locative case -да («at the market») and the ending -мын («I»).",
+        "kk": "Базар-да-мын: -да — жатыс септігі, -мын — бірінші жақ жалғауы."
       },
       "source_references": [
         {

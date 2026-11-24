@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «дәрігер» означает...",
-        "en": "The word «дәрігер» means..."
+        "en": "The word «дәрігер» means...",
+        "kk": "«Дәрігер» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "юрист",
-            "en": "lawyer"
+            "en": "lawyer",
+            "kk": "заңгер"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "повар",
-            "en": "cook"
+            "en": "cook",
+            "kk": "аспаз"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "продавец",
-            "en": "salesperson"
+            "en": "salesperson",
+            "kk": "сатушы"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "бухгалтер",
-            "en": "accountant"
+            "en": "accountant",
+            "kk": "есепші"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "врач",
-            "en": "doctor"
+            "en": "doctor",
+            "kk": "дәрігер"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "«Дәрігер» — врач, доктор.",
-        "en": "«Дәрігер» means doctor, physician."
+        "en": "«Дәрігер» means doctor, physician.",
+        "kk": "«Дәрігер» — емдейтін маман."
       },
       "source_references": [
         {
@@ -72,6 +79,9 @@
               ],
               "en": [
                 "doctor"
+              ],
+              "kk": [
+                "дәрігер"
               ]
             }
           }
@@ -85,42 +95,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «аспаз» означает...",
-        "en": "The word «аспаз» means..."
+        "en": "The word «аспаз» means...",
+        "kk": "«Аспаз» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "врач",
-            "en": "doctor"
+            "en": "doctor",
+            "kk": "дәрігер"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "пилот",
-            "en": "pilot"
+            "en": "pilot",
+            "kk": "ұшқыш"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "повар",
-            "en": "cook"
+            "en": "cook",
+            "kk": "аспаз"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "юрист",
-            "en": "lawyer"
+            "en": "lawyer",
+            "kk": "заңгер"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "продавец",
-            "en": "salesperson"
+            "en": "salesperson",
+            "kk": "сатушы"
           }
         }
       ],
@@ -129,7 +145,8 @@
       ],
       "explanation": {
         "ru": "«Аспаз» — повар.",
-        "en": "«Аспаз» means cook."
+        "en": "«Аспаз» means cook.",
+        "kk": "«Аспаз» — тамақ дайындайтын маман."
       },
       "source_references": [
         {
@@ -147,6 +164,9 @@
               ],
               "en": [
                 "cook"
+              ],
+              "kk": [
+                "аспаз"
               ]
             }
           }
@@ -245,42 +265,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Перевод слова «заңгер»:",
-        "en": "Translation of the word «заңгер»:"
+        "en": "Translation of the word «заңгер»:",
+        "kk": "«Заңгер» сөзінің аудармасы:"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "врач",
-            "en": "doctor"
+            "en": "doctor",
+            "kk": "дәрігер"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "бухгалтер",
-            "en": "accountant"
+            "en": "accountant",
+            "kk": "есепші"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "учёный",
-            "en": "scientist"
+            "en": "scientist",
+            "kk": "ғалым"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "юрист",
-            "en": "lawyer"
+            "en": "lawyer",
+            "kk": "заңгер"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "переводчик",
-            "en": "translator"
+            "en": "translator",
+            "kk": "аудармашы"
           }
         }
       ],
@@ -289,7 +315,8 @@
       ],
       "explanation": {
         "ru": "«Заңгер» — юрист.",
-        "en": "«Заңгер» means lawyer."
+        "en": "«Заңгер» means lawyer.",
+        "kk": "«Заңгер» — заң саласының маманы."
       },
       "source_references": [
         {
@@ -307,6 +334,9 @@
               ],
               "en": [
                 "lawyer"
+              ],
+              "kk": [
+                "заңгер"
               ]
             }
           }
@@ -320,42 +350,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «есепші» означает...",
-        "en": "The word «есепші» means..."
+        "en": "The word «есепші» means...",
+        "kk": "«Есепші» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "юрист",
-            "en": "lawyer"
+            "en": "lawyer",
+            "kk": "заңгер"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "бухгалтер",
-            "en": "accountant"
+            "en": "accountant",
+            "kk": "есепші"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "секретарь",
-            "en": "secretary"
+            "en": "secretary",
+            "kk": "хатшы"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "пилот",
-            "en": "pilot"
+            "en": "pilot",
+            "kk": "ұшқыш"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "врач",
-            "en": "doctor"
+            "en": "doctor",
+            "kk": "дәрігер"
           }
         }
       ],
@@ -364,7 +400,8 @@
       ],
       "explanation": {
         "ru": "«Есепші» — бухгалтер.",
-        "en": "«Есепші» means accountant."
+        "en": "«Есепші» means accountant.",
+        "kk": "«Есепші» — есеп жүргізетін маман."
       },
       "source_references": [
         {
@@ -382,6 +419,9 @@
               ],
               "en": [
                 "accountant"
+              ],
+              "kk": [
+                "есепші"
               ]
             }
           }
@@ -395,42 +435,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «аудармашы» означает...",
-        "en": "The word «аудармашы» means..."
+        "en": "The word «аудармашы» means...",
+        "kk": "«Аудармашы» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "преподаватель",
-            "en": "teacher"
+            "en": "teacher",
+            "kk": "оқытушы"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "переводчик",
-            "en": "translator"
+            "en": "translator",
+            "kk": "аудармашы"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "журналист",
-            "en": "journalist"
+            "en": "journalist",
+            "kk": "журналист"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "парикмахер",
-            "en": "hairdresser"
+            "en": "hairdresser",
+            "kk": "шаштараз"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "нефтяник",
-            "en": "oil worker"
+            "en": "oil worker",
+            "kk": "мұнайшы"
           }
         }
       ],
@@ -439,7 +485,8 @@
       ],
       "explanation": {
         "ru": "«Аудармашы» — переводчик, «аударма» — перевод.",
-        "en": "«Аудармашы» means translator, and «аударма» means translation."
+        "en": "«Аудармашы» means translator, and «аударма» means translation.",
+        "kk": "«Аудармашы» — аударма жасайтын адам, «аударма» — бір тілден екінші тілге көшіру."
       },
       "source_references": [
         {
@@ -589,42 +636,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «жұмыс істеу» означает...",
-        "en": "The expression «жұмыс істеу» means..."
+        "en": "The expression «жұмыс істеу» means...",
+        "kk": "«Жұмыс істеу» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "жить",
-            "en": "to live"
+            "en": "to live",
+            "kk": "тұру"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "учиться",
-            "en": "to study"
+            "en": "to study",
+            "kk": "оқу"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "отдыхать",
-            "en": "to rest"
+            "en": "to rest",
+            "kk": "демалу"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "покупать",
-            "en": "to buy"
+            "en": "to buy",
+            "kk": "сатып алу"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "работать",
-            "en": "to work"
+            "en": "to work",
+            "kk": "жұмыс істеу"
           }
         }
       ],
@@ -633,7 +686,8 @@
       ],
       "explanation": {
         "ru": "«Жұмыс істеймін» — «я работаю».",
-        "en": "«Жұмыс істеймін» means «I work»."
+        "en": "«Жұмыс істеймін» means «I work».",
+        "kk": "«Жұмыс істеймін» — «мен жұмыс істеймін»."
       },
       "source_references": [
         {
@@ -649,42 +703,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «аурухана» означает...",
-        "en": "The word «аурухана» means..."
+        "en": "The word «аурухана» means...",
+        "kk": "«Аурухана» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "поликлиника",
-            "en": "polyclinic"
+            "en": "polyclinic",
+            "kk": "емхана"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "школа",
-            "en": "school"
+            "en": "school",
+            "kk": "мектеп"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "больница",
-            "en": "hospital"
+            "en": "hospital",
+            "kk": "аурухана"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "столовая",
-            "en": "canteen"
+            "en": "canteen",
+            "kk": "асхана"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "акимат",
-            "en": "akimat"
+            "en": "akimat",
+            "kk": "әкімдік"
           }
         }
       ],
@@ -693,7 +753,8 @@
       ],
       "explanation": {
         "ru": "«Аурухана» — больница, «емхана» — поликлиника.",
-        "en": "«Аурухана» means hospital, and «емхана» means polyclinic."
+        "en": "«Аурухана» means hospital, and «емхана» means polyclinic.",
+        "kk": "«Аурухана» — науқастар жататын мекеме, ал «емхана» — науқастарды қабылдайтын мекеме."
       },
       "source_references": [
         {
@@ -1115,42 +1176,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «мекеме» означает...",
-        "en": "The word «мекеме» means..."
+        "en": "The word «мекеме» means...",
+        "kk": "«Мекеме» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "столовая",
-            "en": "canteen"
+            "en": "canteen",
+            "kk": "асхана"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "учреждение",
-            "en": "institution"
+            "en": "institution",
+            "kk": "мекеме"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "магазин",
-            "en": "shop"
+            "en": "shop",
+            "kk": "дүкен"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "ресторан",
-            "en": "restaurant"
+            "en": "restaurant",
+            "kk": "мейрамхана"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "школа",
-            "en": "school"
+            "en": "school",
+            "kk": "мектеп"
           }
         }
       ],
@@ -1159,7 +1226,8 @@
       ],
       "explanation": {
         "ru": "«Мекеме» — учреждение: «мемлекеттік мекеме».",
-        "en": "«Мекеме» means an institution: «мемлекеттік мекеме» (state institution)."
+        "en": "«Мекеме» means an institution: «мемлекеттік мекеме» (state institution).",
+        "kk": "«Мекеме» — мемлекеттік немесе жеке ұйым: «мемлекеттік мекеме»."
       },
       "source_references": [
         {
@@ -1175,42 +1243,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выберите правильный перевод фразы «Мен әкімдікте жұмыс істеймін».",
-        "en": "Choose the correct translation of the phrase «Мен әкімдікте жұмыс істеймін»."
+        "en": "Choose the correct translation of the phrase «Мен әкімдікте жұмыс істеймін».",
+        "kk": "«Мен әкімдікте жұмыс істеймін» тіркесінің дұрыс баламасын таңдаңыз."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Я работаю в акимате.",
-            "en": "I work at the akimat."
+            "en": "I work at the akimat.",
+            "kk": "Мен әкімдікте жұмыс істеймін."
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Я учусь в акимате.",
-            "en": "I study at the akimat."
+            "en": "I study at the akimat.",
+            "kk": "Мен әкімдікте оқимын."
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Я живу в акимате.",
-            "en": "I live at the akimat."
+            "en": "I live at the akimat.",
+            "kk": "Мен әкімдікте тұрамын."
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Ты работаешь в акимате.",
-            "en": "You work at the akimat."
+            "en": "You work at the akimat.",
+            "kk": "Сен әкімдікте жұмыс істейсің."
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Он работает в акимате.",
-            "en": "He works at the akimat."
+            "en": "He works at the akimat.",
+            "kk": "Ол әкімдікте жұмыс істейді."
           }
         }
       ],
@@ -1219,7 +1293,8 @@
       ],
       "explanation": {
         "ru": "«Әкімдікте» — «в акимате», «жұмыс істеймін» — «я работаю».",
-        "en": "«Әкімдікте» means «at the akimat», «жұмыс істеймін» means «I work»."
+        "en": "«Әкімдікте» means «at the akimat», «жұмыс істеймін» means «I work».",
+        "kk": "«Әкімдікте» — әкімдік мекемесінде, «жұмыс істеймін» — еңбек етемін (бірінші жақ, «мен»)."
       },
       "source_references": [
         {

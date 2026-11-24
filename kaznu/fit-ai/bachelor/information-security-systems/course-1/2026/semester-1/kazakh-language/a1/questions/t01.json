@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «Сәлем!» означает...",
-        "en": "The word «Сәлем!» means..."
+        "en": "The word «Сәлем!» means...",
+        "kk": "«Сәлем!» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Спасибо!",
-            "en": "Thank you!"
+            "en": "Thank you!",
+            "kk": "Рақмет!"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "До свидания!",
-            "en": "Goodbye!"
+            "en": "Goodbye!",
+            "kk": "Сау бол!"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Извините!",
-            "en": "Excuse me!"
+            "en": "Excuse me!",
+            "kk": "Кешіріңіз!"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Пожалуйста!",
-            "en": "Please!"
+            "en": "Please!",
+            "kk": "Өтінемін!"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Привет!",
-            "en": "Hello!"
+            "en": "Hello!",
+            "kk": "Сәлем!"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "«Сәлем!» — неформальное приветствие, по-русски «Привет!».",
-        "en": "«Сәлем!» is an informal greeting, “Hello!” in English."
+        "en": "«Сәлем!» is an informal greeting, “Hello!” in English.",
+        "kk": "«Сәлем!» — бейресми амандасу, орысша «Привет!»."
       },
       "source_references": [
         {
@@ -71,6 +78,9 @@
               ],
               "en": [
                 "hello"
+              ],
+              "kk": [
+                "сәлем"
               ]
             }
           }
@@ -84,42 +94,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Казахское слово «жеті» обозначает число...",
-        "en": "The Kazakh word «жеті» denotes the number..."
+        "en": "The Kazakh word «жеті» denotes the number...",
+        "kk": "«жеті» деген қазақ сөзі қандай санды білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "шесть",
-            "en": "six"
+            "en": "six",
+            "kk": "алты"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "восемь",
-            "en": "eight"
+            "en": "eight",
+            "kk": "сегіз"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "семь",
-            "en": "seven"
+            "en": "seven",
+            "kk": "жеті"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "девять",
-            "en": "nine"
+            "en": "nine",
+            "kk": "тоғыз"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "четыре",
-            "en": "four"
+            "en": "four",
+            "kk": "төрт"
           }
         }
       ],
@@ -128,7 +144,8 @@
       ],
       "explanation": {
         "ru": "Счёт: бір, екі, үш, төрт, бес, алты, жеті — «жеті» это 7.",
-        "en": "Counting: бір, екі, үш, төрт, бес, алты, жеті — «жеті» is 7."
+        "en": "Counting: бір, екі, үш, төрт, бес, алты, жеті — «жеті» is 7.",
+        "kk": "Санау: бір, екі, үш, төрт, бес, алты, жеті — «жеті» — 7."
       },
       "source_references": [
         {
@@ -147,6 +164,9 @@
               ],
               "en": [
                 "seven"
+              ],
+              "kk": [
+                "жеті"
               ]
             }
           }
@@ -160,42 +180,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Как по-казахски «десять»?",
-        "en": "How do you say «ten» in Kazakh?"
+        "en": "How do you say «ten» in Kazakh?",
+        "kk": "Қазақша «он» қалай?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "бес",
-            "en": "бес"
+            "en": "бес",
+            "kk": "бес"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "он",
-            "en": "он"
+            "en": "он",
+            "kk": "он"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "үш",
-            "en": "үш"
+            "en": "үш",
+            "kk": "үш"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "төрт",
-            "en": "төрт"
+            "en": "төрт",
+            "kk": "төрт"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "тоғыз",
-            "en": "тоғыз"
+            "en": "тоғыз",
+            "kk": "тоғыз"
           }
         }
       ],
@@ -204,7 +230,8 @@
       ],
       "explanation": {
         "ru": "Число 10 по-казахски «он», а «бес» — 5, «үш» — 3, «төрт» — 4, «тоғыз» — 9.",
-        "en": "The number 10 in Kazakh is «он», while «бес» is 5, «үш» is 3, «төрт» is 4, «тоғыз» is 9."
+        "en": "The number 10 in Kazakh is «он», while «бес» is 5, «үш» is 3, «төрт» is 4, «тоғыз» is 9.",
+        "kk": "10 саны қазақша «он», ал «бес» — 5, «үш» — 3, «төрт» — 4, «тоғыз» — 9."
       },
       "source_references": [
         {
@@ -222,6 +249,9 @@
               ],
               "en": [
                 "он"
+              ],
+              "kk": [
+                "он"
               ]
             }
           }
@@ -235,42 +265,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Перевод вопросительного слова «кім?»:",
-        "en": "Translation of the question word «кім?»:"
+        "en": "Translation of the question word «кім?»:",
+        "kk": "«кім?» сұрау сөзінің мағынасы:"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "как?",
-            "en": "how?"
+            "en": "how?",
+            "kk": "қалай?"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "где?",
-            "en": "where?"
+            "en": "where?",
+            "kk": "қайда?"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "сколько?",
-            "en": "how many?"
+            "en": "how many?",
+            "kk": "қанша?"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "кто?",
-            "en": "who?"
+            "en": "who?",
+            "kk": "кім?"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "когда?",
-            "en": "when?"
+            "en": "when?",
+            "kk": "қашан?"
           }
         }
       ],
@@ -279,7 +315,8 @@
       ],
       "explanation": {
         "ru": "«Кім?» — «кто?», а «қалай?» — «как?».",
-        "en": "«Кім?» means “who?”, and «қалай?» means “how?”."
+        "en": "«Кім?» means “who?”, and «қалай?» means “how?”.",
+        "kk": "«Кім?» — «кім?», ал «қалай?» — «қалай?»."
       },
       "source_references": [
         {
@@ -297,6 +334,9 @@
               ],
               "en": [
                 "who"
+              ],
+              "kk": [
+                "кім"
               ]
             }
           }
@@ -310,42 +350,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Фраза «Қандай жаңалық бар?» означает...",
-        "en": "The phrase «Қандай жаңалық бар?» means..."
+        "en": "The phrase «Қандай жаңалық бар?» means...",
+        "kk": "«Қандай жаңалық бар?» тіркесі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Какие новости?",
-            "en": "What's the news?"
+            "en": "What's the news?",
+            "kk": "Қандай жаңалық бар?"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Как ваши дела?",
-            "en": "How are you?"
+            "en": "How are you?",
+            "kk": "Жағдайыңыз қалай?"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Как вас зовут?",
-            "en": "What is your name?"
+            "en": "What is your name?",
+            "kk": "Атыңыз кім?"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Сколько вам лет?",
-            "en": "How old are you?"
+            "en": "How old are you?",
+            "kk": "Жасыңыз нешеде?"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Где вы живёте?",
-            "en": "Where do you live?"
+            "en": "Where do you live?",
+            "kk": "Қайда тұрасыз?"
           }
         }
       ],
@@ -354,7 +400,8 @@
       ],
       "explanation": {
         "ru": "«Қандай жаңалық бар?» значит «Какие новости?», ответ «Жаңалық жоқ» — «Новостей нет».",
-        "en": "«Қандай жаңалық бар?» means “What's the news?”, and the answer «Жаңалық жоқ» means “No news.”"
+        "en": "«Қандай жаңалық бар?» means “What's the news?”, and the answer «Жаңалық жоқ» means “No news.”",
+        "kk": "«Қандай жаңалық бар?» — «Қандай жаңалық бар?» дегенді білдіреді, ал «Жаңалық жоқ» деген жауап — «Жаңалық жоқ»."
       },
       "source_references": [
         {
@@ -441,42 +488,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слова «Кіруге бола ма?» означают...",
-        "en": "The words «Кіруге бола ма?» mean..."
+        "en": "The words «Кіруге бола ма?» mean...",
+        "kk": "«Кіруге бола ма?» сөздері нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Можно выйти?",
-            "en": "May I go out?"
+            "en": "May I go out?",
+            "kk": "Шығуға бола ма?"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Можно познакомиться?",
-            "en": "May we get acquainted?"
+            "en": "May we get acquainted?",
+            "kk": "Танысуға бола ма?"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Можно позвонить?",
-            "en": "May I make a call?"
+            "en": "May I make a call?",
+            "kk": "Қоңырау шалуға бола ма?"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Можно войти?",
-            "en": "May I come in?"
+            "en": "May I come in?",
+            "kk": "Кіруге бола ма?"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Можно сесть?",
-            "en": "May I sit down?"
+            "en": "May I sit down?",
+            "kk": "Отыруға бола ма?"
           }
         }
       ],
@@ -485,7 +538,8 @@
       ],
       "explanation": {
         "ru": "«Кіруге» — войти, «бола ма?» — можно ли; ответ «Иә, болады» — «Да, можно».",
-        "en": "«Кіруге» means “to come in”, «бола ма?» means “is it allowed?”; the answer «Иә, болады» means “Yes, you may.”"
+        "en": "«Кіруге» means “to come in”, «бола ма?» means “is it allowed?”; the answer «Иә, болады» means “Yes, you may.”",
+        "kk": "«Кіруге» — ішке кіру, «бола ма?» — рұқсат бар ма; «Иә, болады» деген жауап — келісім."
       },
       "source_references": [
         {
@@ -501,42 +555,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «оның» означает...",
-        "en": "The word «оның» means..."
+        "en": "The word «оның» means...",
+        "kk": "«оның» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "мой",
-            "en": "my"
+            "en": "my",
+            "kk": "менің"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "твой",
-            "en": "your (informal)"
+            "en": "your (informal)",
+            "kk": "сенің"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "ваш",
-            "en": "your (formal)"
+            "en": "your (formal)",
+            "kk": "сіздің"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "наш",
-            "en": "our"
+            "en": "our",
+            "kk": "біздің"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "его, её",
-            "en": "his, her"
+            "en": "his, her",
+            "kk": "оның"
           }
         }
       ],
@@ -545,7 +605,8 @@
       ],
       "explanation": {
         "ru": "Менің — мой, сенің — твой, сіздің — ваш, оның — его, её.",
-        "en": "Менің is my, сенің is your (informal), сіздің is your (formal), оның is his, her."
+        "en": "Менің is my, сенің is your (informal), сіздің is your (formal), оның is his, her.",
+        "kk": "Менің — 1-жақ (мен), сенің — 2-жақ (сен), сіздің — сыпайы 2-жақ (сіз), оның — 3-жақ (ол)."
       },
       "source_references": [
         {
@@ -564,6 +625,9 @@
               ],
               "en": [
                 "his her"
+              ],
+              "kk": [
+                "оның"
               ]
             }
           }
@@ -856,42 +920,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Фраза «Өзің ше?» означает...",
-        "en": "The phrase «Өзің ше?» means..."
+        "en": "The phrase «Өзің ше?» means...",
+        "kk": "«Өзің ше?» тіркесі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Как тебя зовут?",
-            "en": "What is your name?"
+            "en": "What is your name?",
+            "kk": "Атың кім?"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Сколько тебе лет?",
-            "en": "How old are you?"
+            "en": "How old are you?",
+            "kk": "Жасың нешеде?"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "А ты сам?",
-            "en": "And you?"
+            "en": "And you?",
+            "kk": "Өзің ше?"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Где ты живёшь?",
-            "en": "Where do you live?"
+            "en": "Where do you live?",
+            "kk": "Қайда тұрасың?"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Кто это?",
-            "en": "Who is this?"
+            "en": "Who is this?",
+            "kk": "Бұл кім?"
           }
         }
       ],
@@ -900,7 +970,8 @@
       ],
       "explanation": {
         "ru": "«Өзің ше?» — встречный вопрос «А ты сам?» после ответа «Жақсы».",
-        "en": "«Өзің ше?» is a return question, “And you?”, after the answer «Жақсы»."
+        "en": "«Өзің ше?» is a return question, “And you?”, after the answer «Жақсы».",
+        "kk": "«Өзің ше?» — «Жақсы» деген жауаптан кейін қайтарылатын сұрақ."
       },
       "source_references": [
         {
@@ -987,42 +1058,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Фраза «Танысқаныма қуаныштымын» означает...",
-        "en": "The phrase «Танысқаныма қуаныштымын» means..."
+        "en": "The phrase «Танысқаныма қуаныштымын» means...",
+        "kk": "«Танысқаныма қуаныштымын» тіркесі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Рад вас видеть",
-            "en": "Glad to see you"
+            "en": "Glad to see you",
+            "kk": "Сізді көргеніме қуаныштымын"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Счастливого пути",
-            "en": "Have a good trip"
+            "en": "Have a good trip",
+            "kk": "Жолыңыз болсын"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Добро пожаловать",
-            "en": "Welcome"
+            "en": "Welcome",
+            "kk": "Қош келдіңіз"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Рад знакомству",
-            "en": "Glad to meet you"
+            "en": "Glad to meet you",
+            "kk": "Танысқаныма қуаныштымын"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Приятного аппетита",
-            "en": "Bon appétit"
+            "en": "Bon appétit",
+            "kk": "Ас болсын"
           }
         }
       ],
@@ -1031,7 +1108,8 @@
       ],
       "explanation": {
         "ru": "«Танысқаныма қуаныштымын» — «Рад знакомству», а «Көргеніме қуаныштымын» — «Рад вас видеть».",
-        "en": "«Танысқаныма қуаныштымын» means “Glad to meet you”, while «Көргеніме қуаныштымын» means “Glad to see you”."
+        "en": "«Танысқаныма қуаныштымын» means “Glad to meet you”, while «Көргеніме қуаныштымын» means “Glad to see you”.",
+        "kk": "«Танысқаныма қуаныштымын» — таныстыққа қуану, ал «Көргеніме қуаныштымын» — көрісуге қуану."
       },
       "source_references": [
         {
@@ -1248,42 +1326,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Әсел: «Ол – бірінші курс студенті. Оның аты – Самал.» Кто такая Самал?",
-        "en": "Әсел: «Ол – бірінші курс студенті. Оның аты – Самал.» Who is Samal?"
+        "en": "Әсел: «Ол – бірінші курс студенті. Оның аты – Самал.» Who is Samal?",
+        "kk": "Әсел: «Ол – бірінші курс студенті. Оның аты – Самал.» Самал кім?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Студентка последнего курса",
-            "en": "A final-year student"
+            "en": "A final-year student",
+            "kk": "Соңғы курс студенті"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Студентка первого курса",
-            "en": "A first-year student"
+            "en": "A first-year student",
+            "kk": "Бірінші курс студенті"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Преподаватель университета",
-            "en": "A university teacher"
+            "en": "A university teacher",
+            "kk": "Университет оқытушысы"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Школьница",
-            "en": "A schoolgirl"
+            "en": "A schoolgirl",
+            "kk": "Мектеп оқушысы"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Сестра Әсел",
-            "en": "Әсел's sister"
+            "en": "Әсел's sister",
+            "kk": "Әселдің қарындасы немесе әпкесі"
           }
         }
       ],
@@ -1292,7 +1376,8 @@
       ],
       "explanation": {
         "ru": "«Бірінші курс студенті» — студент первого курса, а «Оның аты – Самал» — «Её зовут Самал».",
-        "en": "«Бірінші курс студенті» means a first-year student, and «Оның аты – Самал» means “Her name is Samal.”"
+        "en": "«Бірінші курс студенті» means a first-year student, and «Оның аты – Самал» means “Her name is Samal.”",
+        "kk": "«Бірінші курс студенті» — бірінші курста оқитын студент, ал «Оның аты – Самал» — оның есімі Самал."
       },
       "source_references": [
         {

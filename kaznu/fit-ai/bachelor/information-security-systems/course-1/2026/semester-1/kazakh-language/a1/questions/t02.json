@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «әке» означает...",
-        "en": "The word «әке» means..."
+        "en": "The word «әке» means...",
+        "kk": "«әке» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "мать",
-            "en": "mother"
+            "en": "mother",
+            "kk": "ана"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "отец",
-            "en": "father"
+            "en": "father",
+            "kk": "әке"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "дедушка",
-            "en": "grandfather"
+            "en": "grandfather",
+            "kk": "ата"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "старший брат",
-            "en": "older brother"
+            "en": "older brother",
+            "kk": "аға"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "сын",
-            "en": "son"
+            "en": "son",
+            "kk": "ұл"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "«Әке» — отец, «ана» — мать.",
-        "en": "«Әке» is father, «ана» is mother."
+        "en": "«Әке» is father, «ана» is mother.",
+        "kk": "«Әке» — отбасындағы ер ата-ана, «ана» — әйел ата-ана."
       },
       "source_references": [
         {
@@ -71,6 +78,9 @@
               ],
               "en": [
                 "father"
+              ],
+              "kk": [
+                "әке"
               ]
             }
           }
@@ -84,42 +94,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «бала» означает...",
-        "en": "The word «бала» means..."
+        "en": "The word «бала» means...",
+        "kk": "«бала» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "мать",
-            "en": "mother"
+            "en": "mother",
+            "kk": "ана"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "бабушка",
-            "en": "grandmother"
+            "en": "grandmother",
+            "kk": "әже"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "ребёнок",
-            "en": "child"
+            "en": "child",
+            "kk": "бала"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "дедушка",
-            "en": "grandfather"
+            "en": "grandfather",
+            "kk": "ата"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "младший брат",
-            "en": "younger brother"
+            "en": "younger brother",
+            "kk": "іні"
           }
         }
       ],
@@ -128,7 +144,8 @@
       ],
       "explanation": {
         "ru": "«Бала» — ребёнок: «Менің екі балам бар».",
-        "en": "«Бала» is a child: «Менің екі балам бар»."
+        "en": "«Бала» is a child: «Менің екі балам бар».",
+        "kk": "«Бала» — ата-ананың баласы: «Менің екі балам бар»."
       },
       "source_references": [
         {
@@ -146,6 +163,9 @@
               ],
               "en": [
                 "child"
+              ],
+              "kk": [
+                "бала"
               ]
             }
           }
@@ -159,42 +179,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Как по-казахски «семья»?",
-        "en": "How do you say «family» in Kazakh?"
+        "en": "How do you say «family» in Kazakh?",
+        "kk": "Қазақша «отбасы» қалай?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "бауыр",
-            "en": "бауыр"
+            "en": "бауыр",
+            "kk": "бауыр"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "жұбай",
-            "en": "жұбай"
+            "en": "жұбай",
+            "kk": "жұбай"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "кісі",
-            "en": "кісі"
+            "en": "кісі",
+            "kk": "кісі"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "бала",
-            "en": "бала"
+            "en": "бала",
+            "kk": "бала"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "отбасы",
-            "en": "отбасы"
+            "en": "отбасы",
+            "kk": "отбасы"
           }
         }
       ],
@@ -203,7 +229,8 @@
       ],
       "explanation": {
         "ru": "Семья по-казахски «отбасы», например «Менің отбасым шағын».",
-        "en": "“Family” in Kazakh is «отбасы», for example «Менің отбасым шағын»."
+        "en": "“Family” in Kazakh is «отбасы», for example «Менің отбасым шағын».",
+        "kk": "«Отбасы» — бір шаңырақтағы жақындар, мысалы «Менің отбасым шағын»."
       },
       "source_references": [
         {
@@ -220,6 +247,9 @@
                 "отбасы"
               ],
               "en": [
+                "отбасы"
+              ],
+              "kk": [
                 "отбасы"
               ]
             }
@@ -320,42 +350,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «аға» означает...",
-        "en": "The word «аға» means..."
+        "en": "The word «аға» means...",
+        "kk": "«аға» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "старший брат",
-            "en": "older brother"
+            "en": "older brother",
+            "kk": "аға"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "младший брат",
-            "en": "younger brother"
+            "en": "younger brother",
+            "kk": "іні"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "старшая сестра",
-            "en": "older sister"
+            "en": "older sister",
+            "kk": "әпке"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "отец",
-            "en": "father"
+            "en": "father",
+            "kk": "әке"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "сын",
-            "en": "son"
+            "en": "son",
+            "kk": "ұл"
           }
         }
       ],
@@ -364,7 +400,8 @@
       ],
       "explanation": {
         "ru": "«Аға» — старший брат: «Бұл – менің ағам».",
-        "en": "«Аға» is an older brother: «Бұл – менің ағам»."
+        "en": "«Аға» is an older brother: «Бұл – менің ағам».",
+        "kk": "«Аға» — жасы үлкен ер туыс: «Бұл – менің ағам»."
       },
       "source_references": [
         {
@@ -380,42 +417,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «үлкен» означает...",
-        "en": "The word «үлкен» means..."
+        "en": "The word «үлкен» means...",
+        "kk": "«үлкен» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "маленький",
-            "en": "small"
+            "en": "small",
+            "kk": "кішкентай"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "красивый",
-            "en": "beautiful"
+            "en": "beautiful",
+            "kk": "әдемі"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "большой",
-            "en": "big"
+            "en": "big",
+            "kk": "үлкен"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "умный",
-            "en": "smart"
+            "en": "smart",
+            "kk": "ақылды"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "милый",
-            "en": "sweet"
+            "en": "sweet",
+            "kk": "сүйкімді"
           }
         }
       ],
@@ -424,7 +467,8 @@
       ],
       "explanation": {
         "ru": "«Үлкен» — большой: «Менің отбасым үлкен».",
-        "en": "«Үлкен» is big: «Менің отбасым үлкен»."
+        "en": "«Үлкен» is big: «Менің отбасым үлкен».",
+        "kk": "«Үлкен» — кішіге қарама-қарсы мағына: «Менің отбасым үлкен»."
       },
       "source_references": [
         {
@@ -440,42 +484,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «жиырма» обозначает число...",
-        "en": "The word «жиырма» denotes the number..."
+        "en": "The word «жиырма» denotes the number...",
+        "kk": "«жиырма» сөзі қандай санды білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "двадцать",
-            "en": "twenty"
+            "en": "twenty",
+            "kk": "жиырма"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "двенадцать",
-            "en": "twelve"
+            "en": "twelve",
+            "kk": "он екі"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "тридцать",
-            "en": "thirty"
+            "en": "thirty",
+            "kk": "отыз"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "сорок",
-            "en": "forty"
+            "en": "forty",
+            "kk": "қырық"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "пятьдесят",
-            "en": "fifty"
+            "en": "fifty",
+            "kk": "елу"
           }
         }
       ],
@@ -484,7 +534,8 @@
       ],
       "explanation": {
         "ru": "Десятки: жиырма — 20, отыз — 30, қырық — 40, елу — 50.",
-        "en": "Tens: жиырма is 20, отыз is 30, қырық is 40, елу is 50."
+        "en": "Tens: жиырма is 20, отыз is 30, қырық is 40, елу is 50.",
+        "kk": "Ондықтар: жиырма — 20, отыз — 30, қырық — 40, елу — 50."
       },
       "source_references": [
         {
@@ -503,6 +554,9 @@
               ],
               "en": [
                 "twenty"
+              ],
+              "kk": [
+                "жиырма"
               ]
             }
           }
@@ -926,42 +980,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «бастық» означает...",
-        "en": "The word «бастық» means..."
+        "en": "The word «бастық» means...",
+        "kk": "«бастық» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "коллега",
-            "en": "colleague"
+            "en": "colleague",
+            "kk": "әріптес"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "певец",
-            "en": "singer"
+            "en": "singer",
+            "kk": "әнші"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "актёр",
-            "en": "actor"
+            "en": "actor",
+            "kk": "әртіс"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "родственник",
-            "en": "relative"
+            "en": "relative",
+            "kk": "туыс"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "начальник",
-            "en": "boss"
+            "en": "boss",
+            "kk": "бастық"
           }
         }
       ],
@@ -970,7 +1030,8 @@
       ],
       "explanation": {
         "ru": "«Бастық» — начальник, а «әріптес» — коллега.",
-        "en": "«Бастық» is a boss, and «әріптес» is a colleague."
+        "en": "«Бастық» is a boss, and «әріптес» is a colleague.",
+        "kk": "«Бастық» — басшы, ал «әріптес» — бірге жұмыс істейтін адам."
       },
       "source_references": [
         {
@@ -1053,42 +1114,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Фраза «Қош келдіңіз!» означает...",
-        "en": "The phrase «Қош келдіңіз!» means..."
+        "en": "The phrase «Қош келдіңіз!» means...",
+        "kk": "«Қош келдіңіз!» тіркесі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Добро пожаловать!",
-            "en": "Welcome!"
+            "en": "Welcome!",
+            "kk": "Қош келдіңіз!"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "До свидания!",
-            "en": "Goodbye!"
+            "en": "Goodbye!",
+            "kk": "Сау болыңыз!"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Приятного аппетита!",
-            "en": "Bon appétit!"
+            "en": "Bon appétit!",
+            "kk": "Ас болсын!"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Спасибо за чай!",
-            "en": "Thanks for the tea!"
+            "en": "Thanks for the tea!",
+            "kk": "Шай үшін рақмет!"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Угощайтесь чаем!",
-            "en": "Have some tea!"
+            "en": "Have some tea!",
+            "kk": "Шай ішіңіз!"
           }
         }
       ],
@@ -1097,7 +1164,8 @@
       ],
       "explanation": {
         "ru": "«Қош келдіңіз!» говорят гостю: «Добро пожаловать!».",
-        "en": "«Қош келдіңіз!» is said to a guest: “Welcome!”."
+        "en": "«Қош келдіңіз!» is said to a guest: “Welcome!”.",
+        "kk": "«Қош келдіңіз!» қонаққа айтылады: келгеніне қуану."
       },
       "source_references": [
         {
@@ -1454,42 +1522,48 @@
       "type": "single_choice",
       "question": {
         "ru": "В предложении «Сіздің ... қайда?» («Где ваш сын?») пропущено слово...",
-        "en": "In the sentence «Сіздің ... қайда?» («Where is your son?») the missing word is..."
+        "en": "In the sentence «Сіздің ... қайда?» («Where is your son?») the missing word is...",
+        "kk": "«Сіздің ... қайда?» («Ұлыңыз қайда?») сөйлемінде түсіп қалған сөз..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "ұлым",
-            "en": "ұлым"
+            "en": "ұлым",
+            "kk": "ұлым"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "ұлыңыз",
-            "en": "ұлыңыз"
+            "en": "ұлыңыз",
+            "kk": "ұлыңыз"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "ұлың",
-            "en": "ұлың"
+            "en": "ұлың",
+            "kk": "ұлың"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "ұлы",
-            "en": "ұлы"
+            "en": "ұлы",
+            "kk": "ұлы"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "ұл",
-            "en": "ұл"
+            "en": "ұл",
+            "kk": "ұл"
           }
         }
       ],
@@ -1498,7 +1572,8 @@
       ],
       "explanation": {
         "ru": "После «сіздің» к основе на согласный присоединяется -ыңыз: ұлыңыз.",
-        "en": "After «сіздің», -ыңыз is added to a stem ending in a consonant: ұлыңыз."
+        "en": "After «сіздің», -ыңыз is added to a stem ending in a consonant: ұлыңыз.",
+        "kk": "«Сіздің» сөзінен кейін дауыссызға аяқталатын түбірге -ыңыз жалғанады: ұлыңыз."
       },
       "source_references": [
         {

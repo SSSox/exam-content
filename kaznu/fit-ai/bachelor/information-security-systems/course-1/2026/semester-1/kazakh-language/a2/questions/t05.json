@@ -689,42 +689,48 @@
       "type": "single_choice",
       "question": {
         "ru": "В тексте сказано: «Балаға есім үш күн ішінде берілу керек». Сколько дней отводится на имя?",
-        "en": "The text says: «Балаға есім үш күн ішінде берілу керек». How many days are allowed for the name?"
+        "en": "The text says: «Балаға есім үш күн ішінде берілу керек». How many days are allowed for the name?",
+        "kk": "Мәтінде: «Балаға есім үш күн ішінде берілу керек» делінген. Есім беруге неше күн беріледі?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "один день",
-            "en": "one day"
+            "en": "one day",
+            "kk": "бір күн"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "два дня",
-            "en": "two days"
+            "en": "two days",
+            "kk": "екі күн"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "три дня",
-            "en": "three days"
+            "en": "three days",
+            "kk": "үш күн"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "семь дней",
-            "en": "seven days"
+            "en": "seven days",
+            "kk": "жеті күн"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "сорок дней",
-            "en": "forty days"
+            "en": "forty days",
+            "kk": "қырық күн"
           }
         }
       ],
@@ -733,7 +739,8 @@
       ],
       "explanation": {
         "ru": "Үш күн ішінде значит «в течение трёх дней», так сказано о казахской традиции.",
-        "en": "Үш күн ішінде means “within three days”, as stated about the Kazakh tradition."
+        "en": "Үш күн ішінде means “within three days”, as stated about the Kazakh tradition.",
+        "kk": "«Үш күн ішінде» — үш күннің ішінде дегенді білдіреді, бұл қазақ дәстүрі туралы айтылған."
       },
       "source_references": [
         {
@@ -753,6 +760,9 @@
               ],
               "en": [
                 "three days"
+              ],
+              "kk": [
+                "үш күн"
               ]
             }
           }

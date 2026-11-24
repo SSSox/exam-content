@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «теледидар» означает...",
-        "en": "The word «теледидар» means..."
+        "en": "The word «теледидар» means...",
+        "kk": "«Теледидар» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "парк",
-            "en": "park"
+            "en": "park",
+            "kk": "саябақ"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "песня",
-            "en": "song"
+            "en": "song",
+            "kk": "ән"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "книга",
-            "en": "book"
+            "en": "book",
+            "kk": "кітап"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "телевизор",
-            "en": "TV set"
+            "en": "TV set",
+            "kk": "теледидар"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "лыжи",
-            "en": "skis"
+            "en": "skis",
+            "kk": "шаңғы"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "Теледидар — телевизор: теледидар көру — смотреть телевизор.",
-        "en": "Теледидар is a TV set: теледидар көру means to watch TV."
+        "en": "Теледидар is a TV set: теледидар көру means to watch TV.",
+        "kk": "Теледидар — бағдарлама көретін құрал: теледидар көру."
       },
       "source_references": [
         {
@@ -71,6 +78,9 @@
               ],
               "en": [
                 "tv set"
+              ],
+              "kk": [
+                "теледидар"
               ]
             }
           }
@@ -84,42 +94,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «саябақ» означает...",
-        "en": "The word «саябақ» means..."
+        "en": "The word «саябақ» means...",
+        "kk": "«Саябақ» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "парк",
-            "en": "park"
+            "en": "park",
+            "kk": "саябақ"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "библиотека",
-            "en": "library"
+            "en": "library",
+            "kk": "кітапхана"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "горы",
-            "en": "mountains"
+            "en": "mountains",
+            "kk": "таулар"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "каток",
-            "en": "skating rink"
+            "en": "skating rink",
+            "kk": "мұз айдыны"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "секция",
-            "en": "club (section)"
+            "en": "club (section)",
+            "kk": "секция"
           }
         }
       ],
@@ -128,7 +144,8 @@
       ],
       "explanation": {
         "ru": "Саябақ — парк: саябақта серуендеу — гулять в парке.",
-        "en": "Саябақ is a park: саябақта серуендеу means to walk in the park."
+        "en": "Саябақ is a park: саябақта серуендеу means to walk in the park.",
+        "kk": "Саябақ — серуендейтін көгалдандырылған орын: саябақта серуендеу."
       },
       "source_references": [
         {
@@ -150,6 +167,9 @@
               ],
               "en": [
                 "park"
+              ],
+              "kk": [
+                "саябақ"
               ]
             }
           }
@@ -163,42 +183,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выражение «шаңғы тебу» означает...",
-        "en": "The expression «шаңғы тебу» means..."
+        "en": "The expression «шаңғы тебу» means...",
+        "kk": "«Шаңғы тебу» тіркесі мынаны білдіреді..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "кататься на коньках",
-            "en": "to ice skate"
+            "en": "to ice skate",
+            "kk": "коньки тебу"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "ездить верхом",
-            "en": "to ride a horse"
+            "en": "to ride a horse",
+            "kk": "атпен жүру"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "кататься на лыжах",
-            "en": "to ski"
+            "en": "to ski",
+            "kk": "шаңғы тебу"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "водить машину",
-            "en": "to drive a car"
+            "en": "to drive a car",
+            "kk": "көлік жүргізу"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "плавать",
-            "en": "to swim"
+            "en": "to swim",
+            "kk": "жүзу"
           }
         }
       ],
@@ -207,7 +233,8 @@
       ],
       "explanation": {
         "ru": "Шаңғы — лыжи, тебу — кататься: шаңғы тебу — «кататься на лыжах».",
-        "en": "Шаңғы means skis, тебу means to ride: шаңғы тебу means «to ski»."
+        "en": "Шаңғы means skis, тебу means to ride: шаңғы тебу means «to ski».",
+        "kk": "Шаңғы — қар үстінде жүретін құрал, тебу — жүру: шаңғы тебу — шаңғымен жүру."
       },
       "source_references": [
         {
@@ -317,42 +344,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Приветствие «Қайырлы таң!» означает...",
-        "en": "The greeting «Қайырлы таң!» means..."
+        "en": "The greeting «Қайырлы таң!» means...",
+        "kk": "«Қайырлы таң!» сәлемдесуі мынаны білдіреді..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "«Добрый день!»",
-            "en": "«Good afternoon!»"
+            "en": "«Good afternoon!»",
+            "kk": "«Қайырлы күн!»"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "«Доброе утро!»",
-            "en": "«Good morning!»"
+            "en": "«Good morning!»",
+            "kk": "«Қайырлы таң!»"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "«Добрый вечер!»",
-            "en": "«Good evening!»"
+            "en": "«Good evening!»",
+            "kk": "«Қайырлы кеш!»"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "«Доброй ночи!»",
-            "en": "«Good night!»"
+            "en": "«Good night!»",
+            "kk": "«Қайырлы түн!»"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "«До свидания!»",
-            "en": "«Goodbye!»"
+            "en": "«Goodbye!»",
+            "kk": "«Сау болыңыз!»"
           }
         }
       ],
@@ -361,7 +394,8 @@
       ],
       "explanation": {
         "ru": "Қайырлы таң! — «Доброе утро!».",
-        "en": "Қайырлы таң! means «Good morning!»."
+        "en": "Қайырлы таң! means «Good morning!».",
+        "kk": "«Қайырлы таң!» — таңертең айтылатын сәлемдесу."
       },
       "source_references": [
         {
@@ -452,42 +486,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Перевод слова «жексенбі»:",
-        "en": "Translation of the word «жексенбі»:"
+        "en": "Translation of the word «жексенбі»:",
+        "kk": "«Жексенбі» сөзінің аудармасы:"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "воскресенье",
-            "en": "Sunday"
+            "en": "Sunday",
+            "kk": "жексенбі"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "суббота",
-            "en": "Saturday"
+            "en": "Saturday",
+            "kk": "сенбі"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "понедельник",
-            "en": "Monday"
+            "en": "Monday",
+            "kk": "дүйсенбі"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "пятница",
-            "en": "Friday"
+            "en": "Friday",
+            "kk": "жұма"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "среда",
-            "en": "Wednesday"
+            "en": "Wednesday",
+            "kk": "сәрсенбі"
           }
         }
       ],
@@ -496,7 +536,8 @@
       ],
       "explanation": {
         "ru": "Жексенбі — воскресенье.",
-        "en": "Жексенбі means Sunday."
+        "en": "Жексенбі means Sunday.",
+        "kk": "Жексенбі — аптаның соңғы күні."
       },
       "source_references": [
         {
@@ -516,42 +557,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «апта» означает...",
-        "en": "The word «апта» means..."
+        "en": "The word «апта» means...",
+        "kk": "«Апта» сөзі нені білдіреді..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "день",
-            "en": "day"
+            "en": "day",
+            "kk": "күн"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "месяц",
-            "en": "month"
+            "en": "month",
+            "kk": "ай"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "неделя",
-            "en": "week"
+            "en": "week",
+            "kk": "апта"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "год",
-            "en": "year"
+            "en": "year",
+            "kk": "жыл"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "выходной",
-            "en": "day off"
+            "en": "day off",
+            "kk": "демалыс күні"
           }
         }
       ],
@@ -560,7 +607,8 @@
       ],
       "explanation": {
         "ru": "Апта — неделя, а дүйсенбі, сейсенбі и другие названия — дни недели.",
-        "en": "Апта means week, while дүйсенбі, сейсенбі and the other names are days of the week."
+        "en": "Апта means week, while дүйсенбі, сейсенбі and the other names are days of the week.",
+        "kk": "Апта — жеті күн, ал дүйсенбі, сейсенбі және басқалары — апта күндерінің атаулары."
       },
       "source_references": [
         {
@@ -582,6 +630,9 @@
               ],
               "en": [
                 "week"
+              ],
+              "kk": [
+                "апта"
               ]
             }
           }
@@ -595,42 +646,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Вопрос «Аптасына неше рет?» означает...",
-        "en": "The question «Аптасына неше рет?» means..."
+        "en": "The question «Аптасына неше рет?» means...",
+        "kk": "«Аптасына неше рет?» сұрағы нені білдіреді..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "«Сколько недель?»",
-            "en": "\"How many weeks?\""
+            "en": "\"How many weeks?\"",
+            "kk": "«Неше апта?»"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "«Какой сегодня день недели?»",
-            "en": "\"What day of the week is it today?\""
+            "en": "\"What day of the week is it today?\"",
+            "kk": "«Бүгін аптаның қай күні?»"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "«Что вы делаете на неделе?»",
-            "en": "\"What do you do during the week?\""
+            "en": "\"What do you do during the week?\"",
+            "kk": "«Аптада не істейсіз?»"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "«Сколько раз в неделю?»",
-            "en": "\"How many times a week?\""
+            "en": "\"How many times a week?\"",
+            "kk": "«Аптасына неше рет?»"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "«Когда начинается неделя?»",
-            "en": "\"When does the week begin?\""
+            "en": "\"When does the week begin?\"",
+            "kk": "«Апта қашан басталады?»"
           }
         }
       ],
@@ -639,7 +696,8 @@
       ],
       "explanation": {
         "ru": "Аптасына — «в неделю», неше рет — «сколько раз».",
-        "en": "Аптасына means \"per week\", неше рет means \"how many times\"."
+        "en": "Аптасына means \"per week\", неше рет means \"how many times\".",
+        "kk": "Аптасына — аптада, неше рет — қанша мәрте."
       },
       "source_references": [
         {
@@ -1536,42 +1594,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Ал Ұлжан аптасына 2 рет – сейсенбі және жұма күндері йогамен айналысады.» Когда Ұлжан занимается йогой?",
-        "en": "«Ал Ұлжан аптасына 2 рет – сейсенбі және жұма күндері йогамен айналысады.» When does Ұлжан do yoga?"
+        "en": "«Ал Ұлжан аптасына 2 рет – сейсенбі және жұма күндері йогамен айналысады.» When does Ұлжан do yoga?",
+        "kk": "«Ал Ұлжан аптасына 2 рет – сейсенбі және жұма күндері йогамен айналысады.» Ұлжан йогамен қашан айналысады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "во вторник и в пятницу",
-            "en": "on Tuesday and Friday"
+            "en": "on Tuesday and Friday",
+            "kk": "сейсенбі және жұма күндері"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "в понедельник и в четверг",
-            "en": "on Monday and Thursday"
+            "en": "on Monday and Thursday",
+            "kk": "дүйсенбі және бейсенбі күндері"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "в субботу и в воскресенье",
-            "en": "on Saturday and Sunday"
+            "en": "on Saturday and Sunday",
+            "kk": "сенбі және жексенбі күндері"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "в среду и в субботу",
-            "en": "on Wednesday and Saturday"
+            "en": "on Wednesday and Saturday",
+            "kk": "сәрсенбі және сенбі күндері"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "каждый день",
-            "en": "every day"
+            "en": "every day",
+            "kk": "күн сайын"
           }
         }
       ],
@@ -1580,7 +1644,8 @@
       ],
       "explanation": {
         "ru": "Сейсенбі және жұма күндері — во вторник и в пятницу.",
-        "en": "Сейсенбі және жұма күндері means on Tuesday and Friday."
+        "en": "Сейсенбі және жұма күндері means on Tuesday and Friday.",
+        "kk": "Сейсенбі және жұма күндері — аптасына екі рет."
       },
       "source_references": [
         {
@@ -1596,42 +1661,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Дүйсенбі және сейсенбі күні – Оспановтар отбасы үшін спорт күні. Себебі сол күні Оспановтар отбасы жарысқа қатысады.» Почему эти дни спортивные?",
-        "en": "«Дүйсенбі және сейсенбі күні – Оспановтар отбасы үшін спорт күні. Себебі сол күні Оспановтар отбасы жарысқа қатысады.» Why are these days sports days?"
+        "en": "«Дүйсенбі және сейсенбі күні – Оспановтар отбасы үшін спорт күні. Себебі сол күні Оспановтар отбасы жарысқа қатысады.» Why are these days sports days?",
+        "kk": "«Дүйсенбі және сейсенбі күні – Оспановтар отбасы үшін спорт күні. Себебі сол күні Оспановтар отбасы жарысқа қатысады.» Бұл күндер неге спорт күні?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Семья едет в горы",
-            "en": "The family goes to the mountains"
+            "en": "The family goes to the mountains",
+            "kk": "Отбасы тауға барады"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Семья ходит в библиотеку",
-            "en": "The family goes to the library"
+            "en": "The family goes to the library",
+            "kk": "Отбасы кітапханаға барады"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Семья участвует в соревнованиях",
-            "en": "The family takes part in competitions"
+            "en": "The family takes part in competitions",
+            "kk": "Отбасы жарысқа қатысады"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Семья смотрит телевизор",
-            "en": "The family watches TV"
+            "en": "The family watches TV",
+            "kk": "Отбасы теледидар көреді"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Семья катается на лыжах",
-            "en": "The family goes skiing"
+            "en": "The family goes skiing",
+            "kk": "Отбасы шаңғы тебеді"
           }
         }
       ],
@@ -1640,7 +1711,8 @@
       ],
       "explanation": {
         "ru": "Жарысқа қатысады — «участвует в соревнованиях».",
-        "en": "Жарысқа қатысады means \"takes part in competitions\"."
+        "en": "Жарысқа қатысады means \"takes part in competitions\".",
+        "kk": "Жарысқа қатысады — жарысқа қатысу, сайысқа түсу."
       },
       "source_references": [
         {

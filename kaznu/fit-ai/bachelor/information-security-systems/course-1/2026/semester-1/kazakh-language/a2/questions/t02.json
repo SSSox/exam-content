@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «дәріхана» означает...",
-        "en": "The word «дәріхана» means..."
+        "en": "The word «дәріхана» means...",
+        "kk": "«Дәріхана» сөзінің мағынасы..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "библиотека",
-            "en": "library"
+            "en": "library",
+            "kk": "кітапхана"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "почта",
-            "en": "post office"
+            "en": "post office",
+            "kk": "пошта"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "аптека",
-            "en": "pharmacy"
+            "en": "pharmacy",
+            "kk": "дәріхана"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "магазин",
-            "en": "shop"
+            "en": "shop",
+            "kk": "дүкен"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "больница",
-            "en": "hospital"
+            "en": "hospital",
+            "kk": "аурухана"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "Дәріхана — аптека.",
-        "en": "Дәріхана means pharmacy."
+        "en": "Дәріхана means pharmacy.",
+        "kk": "Дәріхана — дәрі сатылатын орын."
       },
       "source_references": [
         {
@@ -71,6 +78,9 @@
               ],
               "en": [
                 "pharmacy"
+              ],
+              "kk": [
+                "дәріхана"
               ]
             }
           }
@@ -170,42 +180,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «мұражай» означает...",
-        "en": "The word «мұражай» means..."
+        "en": "The word «мұражай» means...",
+        "kk": "«Мұражай» сөзінің мағынасы..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "цирк",
-            "en": "circus"
+            "en": "circus",
+            "kk": "цирк"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "музей",
-            "en": "museum"
+            "en": "museum",
+            "kk": "мұражай"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "театр",
-            "en": "theatre"
+            "en": "theatre",
+            "kk": "театр"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "рынок",
-            "en": "market"
+            "en": "market",
+            "kk": "базар"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "школа",
-            "en": "school"
+            "en": "school",
+            "kk": "мектеп"
           }
         }
       ],
@@ -214,7 +230,8 @@
       ],
       "explanation": {
         "ru": "Мұражай — музей.",
-        "en": "Мұражай means museum."
+        "en": "Мұражай means museum.",
+        "kk": "Мұражай — тарихи және мәдени жәдігерлер сақталатын орын."
       },
       "source_references": [
         {
@@ -297,42 +314,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «көпір» означает...",
-        "en": "The word «көпір» means..."
+        "en": "The word «көпір» means...",
+        "kk": "«Көпір» сөзінің мағынасы..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "перекрёсток",
-            "en": "crossroads"
+            "en": "crossroads",
+            "kk": "қиылыс"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "туннель",
-            "en": "tunnel"
+            "en": "tunnel",
+            "kk": "туннель"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "забор",
-            "en": "fence"
+            "en": "fence",
+            "kk": "қоршау"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "мост",
-            "en": "bridge"
+            "en": "bridge",
+            "kk": "көпір"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "тротуар",
-            "en": "sidewalk"
+            "en": "sidewalk",
+            "kk": "жаяужол"
           }
         }
       ],
@@ -341,7 +364,8 @@
       ],
       "explanation": {
         "ru": "Көпір — мост.",
-        "en": "Көпір means bridge."
+        "en": "Көпір means bridge.",
+        "kk": "Көпір — өзеннің немесе жолдың үстінен салынған құрылыс."
       },
       "source_references": [
         {
@@ -1525,42 +1549,48 @@
       "type": "multiple_choice",
       "question": {
         "ru": "Бұл көшеде тек қана бір ғимарат бар. Оның ішінде дәмхана мен қонақүй бар. Что находится в этом здании?",
-        "en": "Бұл көшеде тек қана бір ғимарат бар. Оның ішінде дәмхана мен қонақүй бар. What is in this building?"
+        "en": "Бұл көшеде тек қана бір ғимарат бар. Оның ішінде дәмхана мен қонақүй бар. What is in this building?",
+        "kk": "Бұл көшеде тек қана бір ғимарат бар. Оның ішінде дәмхана мен қонақүй бар. Бұл ғимаратта не орналасқан?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "почта",
-            "en": "post office"
+            "en": "post office",
+            "kk": "пошта"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "кафе",
-            "en": "café"
+            "en": "café",
+            "kk": "кафе"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "гостиница",
-            "en": "hotel"
+            "en": "hotel",
+            "kk": "қонақүй"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "мечеть",
-            "en": "mosque"
+            "en": "mosque",
+            "kk": "мешіт"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "аптека",
-            "en": "pharmacy"
+            "en": "pharmacy",
+            "kk": "дәріхана"
           }
         }
       ],
@@ -1570,7 +1600,8 @@
       ],
       "explanation": {
         "ru": "В тексте сказано: «Оның ішінде дәмхана мен қонақүй бар» — внутри кафе и гостиница.",
-        "en": "The text says: «Оның ішінде дәмхана мен қонақүй бар» — inside there are a café and a hotel."
+        "en": "The text says: «Оның ішінде дәмхана мен қонақүй бар» — inside there are a café and a hotel.",
+        "kk": "Мәтінде: «Оның ішінде дәмхана мен қонақүй бар» — ішінде кафе мен қонақүй бар."
       },
       "source_references": [
         {
@@ -1728,42 +1759,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Бірінші қиылыста солға бұрылыңыз. Сол жағыңызда «Азамат» орталығының ғимараты көрінеді. Куда нужно повернуть на первом перекрёстке?",
-        "en": "Бірінші қиылыста солға бұрылыңыз. Сол жағыңызда «Азамат» орталығының ғимараты көрінеді. Which way should you turn at the first intersection?"
+        "en": "Бірінші қиылыста солға бұрылыңыз. Сол жағыңызда «Азамат» орталығының ғимараты көрінеді. Which way should you turn at the first intersection?",
+        "kk": "Бірінші қиылыста солға бұрылыңыз. Сол жағыңызда «Азамат» орталығының ғимараты көрінеді. Бірінші қиылыста қайда бұрылу керек?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "направо",
-            "en": "to the right"
+            "en": "to the right",
+            "kk": "оңға"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "на север",
-            "en": "to the north"
+            "en": "to the north",
+            "kk": "солтүстікке"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "прямо",
-            "en": "straight ahead"
+            "en": "straight ahead",
+            "kk": "тура"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "назад",
-            "en": "back"
+            "en": "back",
+            "kk": "артқа"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "налево",
-            "en": "to the left"
+            "en": "to the left",
+            "kk": "солға"
           }
         }
       ],
@@ -1772,7 +1809,8 @@
       ],
       "explanation": {
         "ru": "Солға бұрылыңыз означает «поверните налево».",
-        "en": "Солға бұрылыңыз means \"turn left\"."
+        "en": "Солға бұрылыңыз means \"turn left\".",
+        "kk": "Солға бұрылыңыз — сол жаққа бұрылу керек дегенді білдіреді."
       },
       "source_references": [
         {

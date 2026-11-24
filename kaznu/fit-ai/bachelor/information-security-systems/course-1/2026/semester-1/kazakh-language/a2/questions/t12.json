@@ -291,42 +291,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «мәселені шешу» означает...",
-        "en": "The phrase «мәселені шешу» means..."
+        "en": "The phrase «мәселені шешу» means...",
+        "kk": "«мәселені шешу» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "задать вопрос",
-            "en": "to ask a question"
+            "en": "to ask a question",
+            "kk": "сұрақ қою"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "решить вопрос",
-            "en": "to resolve an issue"
+            "en": "to resolve an issue",
+            "kk": "мәселені шешу"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "изменить срок",
-            "en": "to change a deadline"
+            "en": "to change a deadline",
+            "kk": "мерзімді өзгерту"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "получить разрешение",
-            "en": "to obtain permission"
+            "en": "to obtain permission",
+            "kk": "рұқсат алу"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "подать заявление",
-            "en": "to submit an application"
+            "en": "to submit an application",
+            "kk": "өтініш беру"
           }
         }
       ],
@@ -335,7 +341,8 @@
       ],
       "explanation": {
         "ru": "Мәселені шешу – решить вопрос (проблему).",
-        "en": "Мәселені шешу means to resolve an issue (a problem)."
+        "en": "Мәселені шешу means to resolve an issue (a problem).",
+        "kk": "Мәселені шешу – мәселені (проблеманы) шешу."
       },
       "source_references": [
         {

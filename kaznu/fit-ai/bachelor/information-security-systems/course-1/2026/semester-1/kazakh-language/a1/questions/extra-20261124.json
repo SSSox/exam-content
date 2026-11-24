@@ -443,42 +443,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выберите фразу с отрицанием «Я не учитель».",
-        "en": "Choose the phrase with the negation «I am not a teacher»."
+        "en": "Choose the phrase with the negation «I am not a teacher».",
+        "kk": "«Мен мұғалім емеспін» дегенді білдіретін болымсыз сөйлемді таңдаңыз."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Мен мұғаліммін.",
-            "en": "Мен мұғаліммін."
+            "en": "Мен мұғаліммін.",
+            "kk": "Мен мұғаліммін."
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Мен мұғалім емеспін.",
-            "en": "Мен мұғалім емеспін."
+            "en": "Мен мұғалім емеспін.",
+            "kk": "Мен мұғалім емеспін."
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Біз мұғалімбіз.",
-            "en": "Біз мұғалімбіз."
+            "en": "Біз мұғалімбіз.",
+            "kk": "Біз мұғалімбіз."
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Ол мұғалім.",
-            "en": "Ол мұғалім."
+            "en": "Ол мұғалім.",
+            "kk": "Ол мұғалім."
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Сен мұғалімсің.",
-            "en": "Сен мұғалімсің."
+            "en": "Сен мұғалімсің.",
+            "kk": "Сен мұғалімсің."
           }
         }
       ],
@@ -747,42 +753,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Вставьте слово со значением «два»: «Менің ... әпкем бар».",
-        "en": "Insert the word meaning «two»: «Менің ... әпкем бар»."
+        "en": "Insert the word meaning «two»: «Менің ... әпкем бар».",
+        "kk": "«Екі» мағынасындағы сөзді қойыңыз: «Менің ... әпкем бар»."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "бес",
-            "en": "бес"
+            "en": "бес",
+            "kk": "бес"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "тоғыз",
-            "en": "тоғыз"
+            "en": "тоғыз",
+            "kk": "тоғыз"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "он",
-            "en": "он"
+            "en": "он",
+            "kk": "он"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "екі",
-            "en": "екі"
+            "en": "екі",
+            "kk": "екі"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "алты",
-            "en": "алты"
+            "en": "алты",
+            "kk": "алты"
           }
         }
       ],
@@ -865,42 +877,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Біздің отбасымыз үлкен». Какое утверждение верно?",
-        "en": "«Біздің отбасымыз үлкен». Which statement is correct?"
+        "en": "«Біздің отбасымыз үлкен». Which statement is correct?",
+        "kk": "«Біздің отбасымыз үлкен». Қай тұжырым дұрыс?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Наша семья далеко",
-            "en": "Our family is far away"
+            "en": "Our family is far away",
+            "kk": "Біздің отбасымыз алыста"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Наша семья большая",
-            "en": "Our family is big"
+            "en": "Our family is big",
+            "kk": "Біздің отбасымыз үлкен"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Наш брат младший",
-            "en": "Our brother is younger"
+            "en": "Our brother is younger",
+            "kk": "Біздің ініміз кіші"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Наша семья завтракает",
-            "en": "Our family is having breakfast"
+            "en": "Our family is having breakfast",
+            "kk": "Біздің отбасымыз таңғы ас ішіп жатыр"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Наш дом новый",
-            "en": "Our house is new"
+            "en": "Our house is new",
+            "kk": "Біздің үйіміз жаңа"
           }
         }
       ],
@@ -983,42 +1001,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Вставьте форму: «Мен ... тұрамын» (в городе).",
-        "en": "Insert the form: «Мен ... тұрамын» (in the city)."
+        "en": "Insert the form: «Мен ... тұрамын» (in the city).",
+        "kk": "Дұрыс форманы қойыңыз: «Мен ... тұрамын» (қалада)."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "қаланы",
-            "en": "қаланы"
+            "en": "қаланы",
+            "kk": "қаланы"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "қалаға",
-            "en": "қалаға"
+            "en": "қалаға",
+            "kk": "қалаға"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "қаламен",
-            "en": "қаламен"
+            "en": "қаламен",
+            "kk": "қаламен"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "қаладан",
-            "en": "қаладан"
+            "en": "қаладан",
+            "kk": "қаладан"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "қалада",
-            "en": "қалада"
+            "en": "қалада",
+            "kk": "қалада"
           }
         }
       ],
@@ -1101,42 +1125,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Вставьте падеж: «Біз ... барамыз» (в библиотеку).",
-        "en": "Insert the case: «Біз ... барамыз» (to the library)."
+        "en": "Insert the case: «Біз ... барамыз» (to the library).",
+        "kk": "Септікті қойыңыз: «Біз ... барамыз» (кітапханаға)."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "кітапханамен",
-            "en": "кітапханамен"
+            "en": "кітапханамен",
+            "kk": "кітапханамен"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "кітапханада",
-            "en": "кітапханада"
+            "en": "кітапханада",
+            "kk": "кітапханада"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "кітапханаға",
-            "en": "кітапханаға"
+            "en": "кітапханаға",
+            "kk": "кітапханаға"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "кітапхананы",
-            "en": "кітапхананы"
+            "en": "кітапхананы",
+            "kk": "кітапхананы"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "кітапханадан",
-            "en": "кітапханадан"
+            "en": "кітапханадан",
+            "kk": "кітапханадан"
           }
         }
       ],
@@ -1157,42 +1187,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Ответ «Үшінші қабатта» сообщает...",
-        "en": "The answer «Үшінші қабатта» tells..."
+        "en": "The answer «Үшінші қабатта» tells...",
+        "kk": "«Үшінші қабатта» жауабы мынаны хабарлайды..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "В три часа",
-            "en": "At three o'clock"
+            "en": "At three o'clock",
+            "kk": "Сағат үште"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "На третьем этаже",
-            "en": "On the third floor"
+            "en": "On the third floor",
+            "kk": "Үшінші қабатта"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Три человека",
-            "en": "Three people"
+            "en": "Three people",
+            "kk": "Үш адам"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Третья улица",
-            "en": "The third street"
+            "en": "The third street",
+            "kk": "Үшінші көше"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Три дня назад",
-            "en": "Three days ago"
+            "en": "Three days ago",
+            "kk": "Үш күн бұрын"
           }
         }
       ],
@@ -1275,42 +1311,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Үйдің алдында ағаш бар». Дерево находится...",
-        "en": "«Үйдің алдында ағаш бар». The tree is..."
+        "en": "«Үйдің алдында ағаш бар». The tree is...",
+        "kk": "«Үйдің алдында ағаш бар». Ағаш..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Вместо дома",
-            "en": "Instead of the house"
+            "en": "Instead of the house",
+            "kk": "Үйдің орнында"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Внутри дома",
-            "en": "Inside the house"
+            "en": "Inside the house",
+            "kk": "Үйдің ішінде"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Перед домом",
-            "en": "In front of the house"
+            "en": "In front of the house",
+            "kk": "Үйдің алдында"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Между этажами",
-            "en": "Between the floors"
+            "en": "Between the floors",
+            "kk": "Қабаттардың арасында"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Под домом",
-            "en": "Under the house"
+            "en": "Under the house",
+            "kk": "Үйдің астында"
           }
         }
       ],
@@ -1331,42 +1373,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Дополните: «Дәптер үстелдің ... жатыр» (на столе).",
-        "en": "Complete: «Дәптер үстелдің ... жатыр» (on the table)."
+        "en": "Complete: «Дәптер үстелдің ... жатыр» (on the table).",
+        "kk": "Толықтырыңыз: «Дәптер үстелдің ... жатыр» (үстелдің үстінде)."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "артында",
-            "en": "артында"
+            "en": "артында",
+            "kk": "артында"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "ішінде",
-            "en": "ішінде"
+            "en": "ішінде",
+            "kk": "ішінде"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "үстінде",
-            "en": "үстінде"
+            "en": "үстінде",
+            "kk": "үстінде"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "жанында",
-            "en": "жанында"
+            "en": "жанында",
+            "kk": "жанында"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "астында",
-            "en": "астында"
+            "en": "астында",
+            "kk": "астында"
           }
         }
       ],
@@ -1387,42 +1435,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выберите фразу «Я иду из дома».",
-        "en": "Choose the phrase «I am coming from home»."
+        "en": "Choose the phrase «I am coming from home».",
+        "kk": "«Мен үйден келе жатырмын» мағынасындағы тіркесті таңдаңыз."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Менің үйім бар.",
-            "en": "Менің үйім бар."
+            "en": "Менің үйім бар.",
+            "kk": "Менің үйім бар."
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Мен үйде отырмын.",
-            "en": "Мен үйде отырмын."
+            "en": "Мен үйде отырмын.",
+            "kk": "Мен үйде отырмын."
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Мен үйге бара жатырмын.",
-            "en": "Мен үйге бара жатырмын."
+            "en": "Мен үйге бара жатырмын.",
+            "kk": "Мен үйге бара жатырмын."
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Мен үйді көрдім.",
-            "en": "Мен үйді көрдім."
+            "en": "Мен үйді көрдім.",
+            "kk": "Мен үйді көрдім."
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Мен үйден келе жатырмын.",
-            "en": "Мен үйден келе жатырмын."
+            "en": "Мен үйден келе жатырмын.",
+            "kk": "Мен үйден келе жатырмын."
           }
         }
       ],
@@ -2249,42 +2303,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Продавец говорит: «Сүт жоқ». Какой вывод верен?",
-        "en": "The seller says: «Сүт жоқ». Which conclusion is correct?"
+        "en": "The seller says: «Сүт жоқ». Which conclusion is correct?",
+        "kk": "Сатушы: «Сүт жоқ» дейді. Қандай қорытынды дұрыс?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Молока нет",
-            "en": "There is no milk"
+            "en": "There is no milk",
+            "kk": "Сүт жоқ"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Молоко купили вы",
-            "en": "You bought the milk"
+            "en": "You bought the milk",
+            "kk": "Сүтті сіз сатып алдыңыз"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Молоко дорогое",
-            "en": "The milk is expensive"
+            "en": "The milk is expensive",
+            "kk": "Сүт қымбат"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Молоко бесплатно",
-            "en": "The milk is free"
+            "en": "The milk is free",
+            "kk": "Сүт тегін"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Молоко холодное",
-            "en": "The milk is cold"
+            "en": "The milk is cold",
+            "kk": "Сүт суық"
           }
         }
       ],
@@ -2491,42 +2551,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Сенбіде жұмыс істемеймін». Когда человек не работает?",
-        "en": "«Сенбіде жұмыс істемеймін». When does the person not work?"
+        "en": "«Сенбіде жұмыс істемеймін». When does the person not work?",
+        "kk": "«Сенбіде жұмыс істемеймін». Адам қашан жұмыс істемейді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Во вторник",
-            "en": "On Tuesday"
+            "en": "On Tuesday",
+            "kk": "Сейсенбіде"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "В субботу",
-            "en": "On Saturday"
+            "en": "On Saturday",
+            "kk": "Сенбіде"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "В пятницу",
-            "en": "On Friday"
+            "en": "On Friday",
+            "kk": "Жұмада"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "В среду",
-            "en": "On Wednesday"
+            "en": "On Wednesday",
+            "kk": "Сәрсенбіде"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "В понедельник",
-            "en": "On Monday"
+            "en": "On Monday",
+            "kk": "Дүйсенбіде"
           }
         }
       ],
@@ -2671,42 +2737,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Мен музыка тыңдаймын». Выберите верный перевод.",
-        "en": "«Мен музыка тыңдаймын». Choose the correct translation."
+        "en": "«Мен музыка тыңдаймын». Choose the correct translation.",
+        "kk": "«Мен музыка тыңдаймын». Дұрыс аударманы таңдаңыз."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Я пишу музыку",
-            "en": "I write music"
+            "en": "I write music",
+            "kk": "Мен музыка жазамын"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Я учу танец",
-            "en": "I learn a dance"
+            "en": "I learn a dance",
+            "kk": "Мен би үйренемін"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Я не люблю музыку",
-            "en": "I do not like music"
+            "en": "I do not like music",
+            "kk": "Мен музыканы жақсы көрмеймін"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Я продаю музыку",
-            "en": "I sell music"
+            "en": "I sell music",
+            "kk": "Мен музыка сатамын"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Я слушаю музыку",
-            "en": "I listen to music"
+            "en": "I listen to music",
+            "kk": "Мен музыка тыңдаймын"
           }
         }
       ],
@@ -2975,42 +3047,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Менің бөлмем екінші қабатта». Где комната?",
-        "en": "«Менің бөлмем екінші қабатта». Where is the room?"
+        "en": "«Менің бөлмем екінші қабатта». Where is the room?",
+        "kk": "«Менің бөлмем екінші қабатта». Бөлме қайда?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "На втором этаже",
-            "en": "On the second floor"
+            "en": "On the second floor",
+            "kk": "Екінші қабатта"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Через два дня",
-            "en": "In two days"
+            "en": "In two days",
+            "kk": "Екі күннен кейін"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "В двух домах",
-            "en": "In two houses"
+            "en": "In two houses",
+            "kk": "Екі үйде"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "На третьем этаже",
-            "en": "On the third floor"
+            "en": "On the third floor",
+            "kk": "Үшінші қабатта"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "На первом этаже",
-            "en": "On the first floor"
+            "en": "On the first floor",
+            "kk": "Бірінші қабатта"
           }
         }
       ],
@@ -3031,42 +3109,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Бүгін жел соғып тұр». Какое погодное явление описано?",
-        "en": "«Бүгін жел соғып тұр». Which weather phenomenon is described?"
+        "en": "«Бүгін жел соғып тұр». Which weather phenomenon is described?",
+        "kk": "«Бүгін жел соғып тұр». Қандай ауа райы құбылысы сипатталған?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Жара без ветра",
-            "en": "Heat with no wind"
+            "en": "Heat with no wind",
+            "kk": "Желсіз ыстық"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Снегопад",
-            "en": "Snowfall"
+            "en": "Snowfall",
+            "kk": "Қар жауу"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Гроза с молнией",
-            "en": "Thunderstorm with lightning"
+            "en": "Thunderstorm with lightning",
+            "kk": "Найзағайлы нөсер"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Туман",
-            "en": "Fog"
+            "en": "Fog",
+            "kk": "Тұман"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Ветер",
-            "en": "Wind"
+            "en": "Wind",
+            "kk": "Жел"
           }
         }
       ],
@@ -3149,42 +3233,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Вставьте слово: «Аспанда ... бар» (облака).",
-        "en": "Fill in the word: «Аспанда ... бар» (clouds)."
+        "en": "Fill in the word: «Аспанда ... бар» (clouds).",
+        "kk": "Сөзді қойыңыз: «Аспанда ... бар» (бұлттар)."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "бұлттар",
-            "en": "бұлттар"
+            "en": "бұлттар",
+            "kk": "бұлттар"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "кітаптар",
-            "en": "кітаптар"
+            "en": "кітаптар",
+            "kk": "кітаптар"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "орындықтар",
-            "en": "орындықтар"
+            "en": "орындықтар",
+            "kk": "орындықтар"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "есіктер",
-            "en": "есіктер"
+            "en": "есіктер",
+            "kk": "есіктер"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "қаламдар",
-            "en": "қаламдар"
+            "en": "қаламдар",
+            "kk": "қаламдар"
           }
         }
       ],
@@ -3205,42 +3295,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Таңертең жаңбыр жауды». Когда шёл дождь?",
-        "en": "«Таңертең жаңбыр жауды». When did it rain?"
+        "en": "«Таңертең жаңбыр жауды». When did it rain?",
+        "kk": "«Таңертең жаңбыр жауды». Жаңбыр қашан жауды?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Ночью",
-            "en": "At night"
+            "en": "At night",
+            "kk": "Түнде"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "После полуночи по условию",
-            "en": "After midnight, per the condition"
+            "en": "After midnight, per the condition",
+            "kk": "Шарт бойынша түн ортасынан кейін"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Только завтра",
-            "en": "Only tomorrow"
+            "en": "Only tomorrow",
+            "kk": "Тек ертең"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Утром",
-            "en": "In the morning"
+            "en": "In the morning",
+            "kk": "Таңертең"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Вечером",
-            "en": "In the evening"
+            "en": "In the evening",
+            "kk": "Кешке"
           }
         }
       ],
@@ -3633,42 +3729,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Вставьте название цвета: «Қар ...» (белый).",
-        "en": "Fill in the color name: «Қар ...» (white)."
+        "en": "Fill in the color name: «Қар ...» (white).",
+        "kk": "Түс атауын қойыңыз: «Қар ...» (ақ)."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "ақ",
-            "en": "ақ"
+            "en": "ақ",
+            "kk": "ақ"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "қоңыр",
-            "en": "қоңыр"
+            "en": "қоңыр",
+            "kk": "қоңыр"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "қара",
-            "en": "қара"
+            "en": "қара",
+            "kk": "қара"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "жасыл",
-            "en": "жасыл"
+            "en": "жасыл",
+            "kk": "жасыл"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "көк",
-            "en": "көк"
+            "en": "көк",
+            "kk": "көк"
           }
         }
       ],
@@ -3813,42 +3915,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Мен көк жейде кидім». Какого цвета рубашка?",
-        "en": "«Мен көк жейде кидім». What color is the shirt?"
+        "en": "«Мен көк жейде кидім». What color is the shirt?",
+        "kk": "«Мен көк жейде кидім». Жейде қандай түсті?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Чёрного",
-            "en": "Black"
+            "en": "Black",
+            "kk": "Қара"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Жёлтого",
-            "en": "Yellow"
+            "en": "Yellow",
+            "kk": "Сары"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Синего",
-            "en": "Blue"
+            "en": "Blue",
+            "kk": "Көк"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Красного",
-            "en": "Red"
+            "en": "Red",
+            "kk": "Қызыл"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Белого",
-            "en": "White"
+            "en": "White",
+            "kk": "Ақ"
           }
         }
       ],
@@ -4055,42 +4163,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Ол шахмат ойнайды». Какое увлечение названо?",
-        "en": "«Ол шахмат ойнайды». Which hobby is named?"
+        "en": "«Ол шахмат ойнайды». Which hobby is named?",
+        "kk": "«Ол шахмат ойнайды». Қандай хобби аталған?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Пение",
-            "en": "Singing"
+            "en": "Singing",
+            "kk": "Ән салу"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Вязание",
-            "en": "Knitting"
+            "en": "Knitting",
+            "kk": "Тоқу"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Шахматы",
-            "en": "Chess"
+            "en": "Chess",
+            "kk": "Шахмат"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Плавание",
-            "en": "Swimming"
+            "en": "Swimming",
+            "kk": "Жүзу"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Танцы",
-            "en": "Dancing"
+            "en": "Dancing",
+            "kk": "Би билеу"
           }
         }
       ],
@@ -4545,42 +4659,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Дәрігерге барыңыз». Куда советуют пойти?",
-        "en": "«Дәрігерге барыңыз». Where is the advice to go?"
+        "en": "«Дәрігерге барыңыз». Where is the advice to go?",
+        "kk": "«Дәрігерге барыңыз». Қайда баруға кеңес беріледі?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "На рынок",
-            "en": "To the market"
+            "en": "To the market",
+            "kk": "Базарға"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "В театр",
-            "en": "To the theater"
+            "en": "To the theater",
+            "kk": "Театрға"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "К врачу",
-            "en": "To the doctor"
+            "en": "To the doctor",
+            "kk": "Дәрігерге"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "В библиотеку",
-            "en": "To the library"
+            "en": "To the library",
+            "kk": "Кітапханаға"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "К продавцу",
-            "en": "To the seller"
+            "en": "To the seller",
+            "kk": "Сатушыға"
           }
         }
       ],
@@ -4663,42 +4783,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Маған су беріңізші». Человек просит...",
-        "en": "«Маған су беріңізші». The person is asking for..."
+        "en": "«Маған су беріңізші». The person is asking for...",
+        "kk": "«Маған су беріңізші». Адам мынаны сұрайды..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Сахар",
-            "en": "Sugar"
+            "en": "Sugar",
+            "kk": "Қант"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Воду",
-            "en": "Water"
+            "en": "Water",
+            "kk": "Су"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Хлеб",
-            "en": "Bread"
+            "en": "Bread",
+            "kk": "Нан"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Молоко",
-            "en": "Milk"
+            "en": "Milk",
+            "kk": "Сүт"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Соль",
-            "en": "Salt"
+            "en": "Salt",
+            "kk": "Тұз"
           }
         }
       ],
@@ -4781,42 +4907,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Таңғы ас сағат сегізде». Когда завтрак?",
-        "en": "«Таңғы ас сағат сегізде». When is breakfast?"
+        "en": "«Таңғы ас сағат сегізде». When is breakfast?",
+        "kk": "«Таңғы ас сағат сегізде». Таңғы ас қашан?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "В шесть часов",
-            "en": "At six o'clock"
+            "en": "At six o'clock",
+            "kk": "Сағат алтыда"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "В девять часов",
-            "en": "At nine o'clock"
+            "en": "At nine o'clock",
+            "kk": "Сағат тоғызда"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "В десять часов",
-            "en": "At ten o'clock"
+            "en": "At ten o'clock",
+            "kk": "Сағат онда"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "В семь часов",
-            "en": "At seven o'clock"
+            "en": "At seven o'clock",
+            "kk": "Сағат жетіде"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "В восемь часов",
-            "en": "At eight o'clock"
+            "en": "At eight o'clock",
+            "kk": "Сағат сегізде"
           }
         }
       ],
@@ -4899,42 +5031,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Қантсыз шай ішемін». Какой чай пьёт человек?",
-        "en": "«Қантсыз шай ішемін». What kind of tea does the person drink?"
+        "en": "«Қантсыз шай ішемін». What kind of tea does the person drink?",
+        "kk": "«Қантсыз шай ішемін». Адам қандай шай ішеді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "С сахаром",
-            "en": "With sugar"
+            "en": "With sugar",
+            "kk": "Қантты"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "С молоком по условию",
-            "en": "With milk, per the condition"
+            "en": "With milk, per the condition",
+            "kk": "Шарт бойынша сүтті"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Только холодный",
-            "en": "Only cold"
+            "en": "Only cold",
+            "kk": "Тек суық"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Без сахара",
-            "en": "Without sugar"
+            "en": "Without sugar",
+            "kk": "Қантсыз"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Только зелёный",
-            "en": "Only green"
+            "en": "Only green",
+            "kk": "Тек жасыл"
           }
         }
       ],
@@ -4955,42 +5093,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Біз театрға бардық». Куда пошли?",
-        "en": "«Біз театрға бардық». Where did they go?"
+        "en": "«Біз театрға бардық». Where did they go?",
+        "kk": "«Біз театрға бардық». Қайда барды?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "В аэропорт",
-            "en": "To the airport"
+            "en": "To the airport",
+            "kk": "Әуежайға"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "В театр",
-            "en": "To the theater"
+            "en": "To the theater",
+            "kk": "Театрға"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "В больницу",
-            "en": "To the hospital"
+            "en": "To the hospital",
+            "kk": "Ауруханаға"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "В школу",
-            "en": "To school"
+            "en": "To school",
+            "kk": "Мектепке"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "В магазин",
-            "en": "To the store"
+            "en": "To the store",
+            "kk": "Дүкенге"
           }
         }
       ],
@@ -5011,42 +5155,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Сахнада әнші тұр». Кто на сцене?",
-        "en": "«Сахнада әнші тұр». Who is on the stage?"
+        "en": "«Сахнада әнші тұр». Who is on the stage?",
+        "kk": "«Сахнада әнші тұр». Сахнада кім тұр?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Повар",
-            "en": "A cook"
+            "en": "A cook",
+            "kk": "Аспаз"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Продавец",
-            "en": "A seller"
+            "en": "A seller",
+            "kk": "Сатушы"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Водитель",
-            "en": "A driver"
+            "en": "A driver",
+            "kk": "Жүргізуші"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Врач",
-            "en": "A doctor"
+            "en": "A doctor",
+            "kk": "Дәрігер"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Певец",
-            "en": "A singer"
+            "en": "A singer",
+            "kk": "Әнші"
           }
         }
       ],
@@ -5253,42 +5403,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Концерт кешкі жетіде басталады». Когда начинается концерт?",
-        "en": "«Концерт кешкі жетіде басталады». When does the concert start?"
+        "en": "«Концерт кешкі жетіде басталады». When does the concert start?",
+        "kk": "«Концерт кешкі жетіде басталады». Концерт қашан басталады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "В шесть вечера",
-            "en": "At six in the evening"
+            "en": "At six in the evening",
+            "kk": "Кешкі алтыда"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "В восемь утра",
-            "en": "At eight in the morning"
+            "en": "At eight in the morning",
+            "kk": "Таңертең сегізде"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "В семь утра",
-            "en": "At seven in the morning"
+            "en": "At seven in the morning",
+            "kk": "Таңертең жетіде"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "В семь вечера",
-            "en": "At seven in the evening"
+            "en": "At seven in the evening",
+            "kk": "Кешкі жетіде"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "В полдень",
-            "en": "At noon"
+            "en": "At noon",
+            "kk": "Түсте"
           }
         }
       ],
@@ -5371,42 +5527,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Бұл ән көңілді». Какая песня?",
-        "en": "«Бұл ән көңілді». What kind of song is it?"
+        "en": "«Бұл ән көңілді». What kind of song is it?",
+        "kk": "«Бұл ән көңілді». Бұл қандай ән?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Очень длинная",
-            "en": "Very long"
+            "en": "Very long",
+            "kk": "Өте ұзақ"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Весёлая",
-            "en": "Cheerful"
+            "en": "Cheerful",
+            "kk": "Көңілді"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Старинная по условию",
-            "en": "Old, per the condition"
+            "en": "Old, per the condition",
+            "kk": "Шарт бойынша ескі"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Грустная",
-            "en": "Sad"
+            "en": "Sad",
+            "kk": "Мұңды"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Тихая по условию",
-            "en": "Quiet, per the condition"
+            "en": "Quiet, per the condition",
+            "kk": "Шарт бойынша тыныш"
           }
         }
       ],
@@ -5489,42 +5651,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Қонақтар ертең келеді». Когда придут гости?",
-        "en": "«Қонақтар ертең келеді». When will the guests come?"
+        "en": "«Қонақтар ертең келеді». When will the guests come?",
+        "kk": "«Қонақтар ертең келеді». Қонақтар қашан келеді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Вчера",
-            "en": "Yesterday"
+            "en": "Yesterday",
+            "kk": "Кеше"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Неделю назад",
-            "en": "A week ago"
+            "en": "A week ago",
+            "kk": "Бір апта бұрын"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Позавчера",
-            "en": "The day before yesterday"
+            "en": "The day before yesterday",
+            "kk": "Алдыңғы күні"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "В прошлом году",
-            "en": "Last year"
+            "en": "Last year",
+            "kk": "Былтыр"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Завтра",
-            "en": "Tomorrow"
+            "en": "Tomorrow",
+            "kk": "Ертең"
           }
         }
       ],
@@ -5669,42 +5837,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Сыйлық» в праздничной ситуации означает...",
-        "en": "In a holiday situation, «Сыйлық» means..."
+        "en": "In a holiday situation, «Сыйлық» means...",
+        "kk": "Мерекелік жағдайда «Сыйлық» мынаны білдіреді..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Подарок",
-            "en": "A gift"
+            "en": "A gift",
+            "kk": "Сыйлық"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Погоду",
-            "en": "The weather"
+            "en": "The weather",
+            "kk": "Ауа райы"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Работу",
-            "en": "Work"
+            "en": "Work",
+            "kk": "Жұмыс"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Расписание",
-            "en": "A schedule"
+            "en": "A schedule",
+            "kk": "Кесте"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Адрес",
-            "en": "An address"
+            "en": "An address",
+            "kk": "Мекенжай"
           }
         }
       ],
@@ -5725,42 +5899,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Мен досыма гүл сыйладым». Что подарили другу?",
-        "en": "«Мен досыма гүл сыйладым». What was given to the friend?"
+        "en": "«Мен досыма гүл сыйладым». What was given to the friend?",
+        "kk": "«Мен досыма гүл сыйладым». Досқа не сыйланды?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Часы",
-            "en": "A watch"
+            "en": "A watch",
+            "kk": "Сағат"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Цветы",
-            "en": "Flowers"
+            "en": "Flowers",
+            "kk": "Гүл"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Книгу",
-            "en": "A book"
+            "en": "A book",
+            "kk": "Кітап"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Ручку",
-            "en": "A pen"
+            "en": "A pen",
+            "kk": "Қалам"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Картину",
-            "en": "A painting"
+            "en": "A painting",
+            "kk": "Сурет"
           }
         }
       ],
@@ -5967,42 +6147,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Как сказать «Я не ем мясо»?",
-        "en": "How do you say «I don't eat meat»?"
+        "en": "How do you say «I don't eat meat»?",
+        "kk": "«Мен ет жемеймін» дегенді қалай айтады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Мен нан аламын.",
-            "en": "Мен нан аламын."
+            "en": "Мен нан аламын.",
+            "kk": "Мен нан аламын."
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Мен шай ішемін.",
-            "en": "Мен шай ішемін."
+            "en": "Мен шай ішемін.",
+            "kk": "Мен шай ішемін."
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Мен су ішпеймін.",
-            "en": "Мен су ішпеймін."
+            "en": "Мен су ішпеймін.",
+            "kk": "Мен су ішпеймін."
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Мен ет жеймін.",
-            "en": "Мен ет жеймін."
+            "en": "Мен ет жеймін.",
+            "kk": "Мен ет жеймін."
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Мен ет жемеймін.",
-            "en": "Мен ет жемеймін."
+            "en": "Мен ет жемеймін.",
+            "kk": "Мен ет жемеймін."
           }
         }
       ],

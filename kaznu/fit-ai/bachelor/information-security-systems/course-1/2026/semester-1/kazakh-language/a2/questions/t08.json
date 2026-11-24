@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «бұлақ» означает...",
-        "en": "The word «бұлақ» means..."
+        "en": "The word «бұлақ» means...",
+        "kk": "«Бұлақ» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "озеро",
-            "en": "lake"
+            "en": "lake",
+            "kk": "көл"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "колодец",
-            "en": "well"
+            "en": "well",
+            "kk": "құдық"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "лодка",
-            "en": "boat"
+            "en": "boat",
+            "kk": "қайық"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "родник",
-            "en": "spring"
+            "en": "spring",
+            "kk": "бұлақ"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "степь",
-            "en": "steppe"
+            "en": "steppe",
+            "kk": "дала"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "Бұлақ переводится как «родник», а құдық — «колодец».",
-        "en": "Бұлақ translates as “spring” (a natural water source), while құдық means “well”."
+        "en": "Бұлақ translates as “spring” (a natural water source), while құдық means “well”.",
+        "kk": "Бұлақ — жер бетіне шығатын табиғи су көзі, ал құдық — қазып жасалған су көзі."
       },
       "source_references": [
         {
@@ -75,6 +82,9 @@
               ],
               "en": [
                 "spring"
+              ],
+              "kk": [
+                "бұлақ"
               ]
             }
           }
@@ -88,42 +98,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «орман» означает...",
-        "en": "The word «орман» means..."
+        "en": "The word «орман» means...",
+        "kk": "«Орман» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "лес",
-            "en": "forest"
+            "en": "forest",
+            "kk": "орман"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "санаторий",
-            "en": "sanatorium"
+            "en": "sanatorium",
+            "kk": "шипажай"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "заповедник",
-            "en": "nature reserve"
+            "en": "nature reserve",
+            "kk": "қорық"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "степь",
-            "en": "steppe"
+            "en": "steppe",
+            "kk": "дала"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "озеро",
-            "en": "lake"
+            "en": "lake",
+            "kk": "көл"
           }
         }
       ],
@@ -132,7 +148,8 @@
       ],
       "explanation": {
         "ru": "Орман переводится как «лес»: Жан-жағы орман, ауа таза.",
-        "en": "Орман translates as “forest”: Жан-жағы орман, ауа таза."
+        "en": "Орман translates as “forest”: Жан-жағы орман, ауа таза.",
+        "kk": "Орман — ағаштар өскен үлкен алқап: Жан-жағы орман, ауа таза."
       },
       "source_references": [
         {
@@ -154,6 +171,9 @@
               ],
               "en": [
                 "forest"
+              ],
+              "kk": [
+                "орман"
               ]
             }
           }
@@ -167,42 +187,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «су қоймасы» означает...",
-        "en": "The word «су қоймасы» means..."
+        "en": "The word «су қоймасы» means...",
+        "kk": "«Су қоймасы» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "заповедник",
-            "en": "nature reserve"
+            "en": "nature reserve",
+            "kk": "қорық"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "колодец",
-            "en": "well"
+            "en": "well",
+            "kk": "құдық"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "водохранилище",
-            "en": "reservoir"
+            "en": "reservoir",
+            "kk": "су қоймасы"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "санаторий",
-            "en": "sanatorium"
+            "en": "sanatorium",
+            "kk": "шипажай"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "родник",
-            "en": "spring"
+            "en": "spring",
+            "kk": "бұлақ"
           }
         }
       ],
@@ -211,7 +237,8 @@
       ],
       "explanation": {
         "ru": "Су қоймасы — «водохранилище»: Бұқтырма су қоймасы Шығыс Қазақстанда орналасқан.",
-        "en": "Су қоймасы means “reservoir”: Бұқтырма су қоймасы Шығыс Қазақстанда орналасқан."
+        "en": "Су қоймасы means “reservoir”: Бұқтырма су қоймасы Шығыс Қазақстанда орналасқан.",
+        "kk": "Су қоймасы — су жинау үшін жасалған үлкен жасанды көл: Бұқтырма су қоймасы Шығыс Қазақстанда орналасқан."
       },
       "source_references": [
         {
@@ -233,6 +260,9 @@
               ],
               "en": [
                 "reservoir"
+              ],
+              "kk": [
+                "су қоймасы"
               ]
             }
           }
@@ -246,42 +276,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Как переводится слово «сәулетші»?",
-        "en": "How is the word «сәулетші» translated?"
+        "en": "How is the word «сәулетші» translated?",
+        "kk": "«Сәулетші» сөзі қалай аударылады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "учитель",
-            "en": "teacher"
+            "en": "teacher",
+            "kk": "мұғалім"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "строитель",
-            "en": "builder"
+            "en": "builder",
+            "kk": "құрылысшы"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "водитель",
-            "en": "driver"
+            "en": "driver",
+            "kk": "жүргізуші"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "врач",
-            "en": "doctor"
+            "en": "doctor",
+            "kk": "дәрігер"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "архитектор",
-            "en": "architect"
+            "en": "architect",
+            "kk": "сәулетші"
           }
         }
       ],
@@ -290,7 +326,8 @@
       ],
       "explanation": {
         "ru": "Сәулетші переводится как «архитектор»: танымал британ сәулетшісі.",
-        "en": "Сәулетші translates as “architect”: танымал британ сәулетшісі."
+        "en": "Сәулетші translates as “architect”: танымал британ сәулетшісі.",
+        "kk": "Сәулетші — ғимараттарды жобалайтын маман: танымал британ сәулетшісі."
       },
       "source_references": [
         {
@@ -310,42 +347,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Перевод слова «әйнек»:",
-        "en": "Translation of the word «әйнек»:"
+        "en": "Translation of the word «әйнек»:",
+        "kk": "«Әйнек» сөзінің аудармасы:"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "окно",
-            "en": "window"
+            "en": "window",
+            "kk": "терезе"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "стекло",
-            "en": "glass"
+            "en": "glass",
+            "kk": "әйнек"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "кирпич",
-            "en": "brick"
+            "en": "brick",
+            "kk": "кірпіш"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "зеркало",
-            "en": "mirror"
+            "en": "mirror",
+            "kk": "айна"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "камень",
-            "en": "stone"
+            "en": "stone",
+            "kk": "тас"
           }
         }
       ],
@@ -354,7 +397,8 @@
       ],
       "explanation": {
         "ru": "Әйнек переводится как «стекло»: сыртқы жағы әйнектермен қапталған.",
-        "en": "Әйнек translates as “glass”: сыртқы жағы әйнектермен қапталған."
+        "en": "Әйнек translates as “glass”: сыртқы жағы әйнектермен қапталған.",
+        "kk": "Әйнек — мөлдір қатты материал: сыртқы жағы әйнектермен қапталған."
       },
       "source_references": [
         {
@@ -376,6 +420,9 @@
               ],
               "en": [
                 "glass"
+              ],
+              "kk": [
+                "әйнек"
               ]
             }
           }
@@ -531,42 +578,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«Атамекен» кешені 2001 жылы 8 қыркүйекте ашылды. Значит, 8 сентября 2001 года комплекс...",
-        "en": "«Атамекен» кешені 2001 жылы 8 қыркүйекте ашылды. So, on 8 September 2001 the complex..."
+        "en": "«Атамекен» кешені 2001 жылы 8 қыркүйекте ашылды. So, on 8 September 2001 the complex...",
+        "kk": "«Атамекен» кешені 2001 жылы 8 қыркүйекте ашылды. Демек, 2001 жылғы 8 қыркүйекте кешен..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "был разрушен",
-            "en": "was destroyed"
+            "en": "was destroyed",
+            "kk": "қиратылды"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "открылся",
-            "en": "opened"
+            "en": "opened",
+            "kk": "ашылды"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "был переименован",
-            "en": "was renamed"
+            "en": "was renamed",
+            "kk": "атауы өзгертілді"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "закрылся",
-            "en": "closed"
+            "en": "closed",
+            "kk": "жабылды"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "был продан",
-            "en": "was sold"
+            "en": "was sold",
+            "kk": "сатылды"
           }
         }
       ],
@@ -575,7 +628,8 @@
       ],
       "explanation": {
         "ru": "Ашылды означает «открылся».",
-        "en": "Ашылды means “opened”."
+        "en": "Ашылды means “opened”.",
+        "kk": "Ашылды — «іске қосылды, есігін ашты» дегенді білдіреді."
       },
       "source_references": [
         {
@@ -662,42 +716,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выберите перевод вопроса: Қалай жетуге болады?",
-        "en": "Choose the translation of the question: Қалай жетуге болады?"
+        "en": "Choose the translation of the question: Қалай жетуге болады?",
+        "kk": "Сұрақтың аудармасын таңдаңыз: Қалай жетуге болады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Где можно остановиться?",
-            "en": "Where can one stay?"
+            "en": "Where can one stay?",
+            "kk": "Қайда аялдауға болады?"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Сколько стоит дорога?",
-            "en": "How much does the trip cost?"
+            "en": "How much does the trip cost?",
+            "kk": "Жол қанша тұрады?"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Как можно добраться?",
-            "en": "How can one get there?"
+            "en": "How can one get there?",
+            "kk": "Қалай жетуге болады?"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Когда можно приехать?",
-            "en": "When can one arrive?"
+            "en": "When can one arrive?",
+            "kk": "Қашан келуге болады?"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "С кем можно поехать?",
-            "en": "Who can one go with?"
+            "en": "Who can one go with?",
+            "kk": "Кіммен бару керек?"
           }
         }
       ],
@@ -706,7 +766,8 @@
       ],
       "explanation": {
         "ru": "Қалай жетуге болады? означает «как можно добраться?».",
-        "en": "Қалай жетуге болады? means “How can one get there?”."
+        "en": "Қалай жетуге болады? means “How can one get there?”.",
+        "kk": "Қалай жетуге болады? — қалай барып жетуге болатынын сұрайтын сөйлем."
       },
       "source_references": [
         {
@@ -793,42 +854,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Онда ағаштан жасалған 10 үй бар. Дома на базе отдыха сделаны...",
-        "en": "Онда ағаштан жасалған 10 үй бар. The houses at the resort are made..."
+        "en": "Онда ағаштан жасалған 10 үй бар. The houses at the resort are made...",
+        "kk": "Онда ағаштан жасалған 10 үй бар. Демалыс базасындағы үйлер неден жасалған?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "из дерева",
-            "en": "of wood"
+            "en": "of wood",
+            "kk": "ағаштан"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "из камня",
-            "en": "of stone"
+            "en": "of stone",
+            "kk": "тастан"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "из стекла",
-            "en": "of glass"
+            "en": "of glass",
+            "kk": "әйнектен"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "из железа",
-            "en": "of iron"
+            "en": "of iron",
+            "kk": "темірден"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "из кирпича",
-            "en": "of brick"
+            "en": "of brick",
+            "kk": "кірпіштен"
           }
         }
       ],
@@ -837,7 +904,8 @@
       ],
       "explanation": {
         "ru": "Ағаштан жасалған значит «сделанный из дерева».",
-        "en": "Ағаштан жасалған means “made of wood”."
+        "en": "Ағаштан жасалған means “made of wood”.",
+        "kk": "Ағаштан жасалған — ағаштан құралған, ағаштан істелген деген мағына береді."
       },
       "source_references": [
         {
@@ -1152,42 +1220,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Бекет ата науқас адамдарды емдеген. Кого лечил Бекет ата?",
-        "en": "Бекет ата науқас адамдарды емдеген. Whom did Beket ata treat?"
+        "en": "Бекет ата науқас адамдарды емдеген. Whom did Beket ata treat?",
+        "kk": "Бекет ата науқас адамдарды емдеген. Бекет ата кімдерді емдеген?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "строителей",
-            "en": "builders"
+            "en": "builders",
+            "kk": "құрылысшыларды"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "больных людей",
-            "en": "sick people"
+            "en": "sick people",
+            "kk": "науқас адамдарды"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "животных",
-            "en": "animals"
+            "en": "animals",
+            "kk": "жануарларды"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "спортсменов",
-            "en": "athletes"
+            "en": "athletes",
+            "kk": "спортшыларды"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "учителей",
-            "en": "teachers"
+            "en": "teachers",
+            "kk": "мұғалімдерді"
           }
         }
       ],
@@ -1196,7 +1270,8 @@
       ],
       "explanation": {
         "ru": "Науқас адам — «больной человек», емдеу — «лечить».",
-        "en": "Науқас адам means “sick person”, емдеу means “to treat, to heal”."
+        "en": "Науқас адам means “sick person”, емдеу means “to treat, to heal”.",
+        "kk": "Науқас адам — денсаулығы нашар адам, емдеу — ауруды жазу."
       },
       "source_references": [
         {
@@ -1421,42 +1496,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Күн панельдері оңтүстікке бағытталған. Солнечные панели направлены...",
-        "en": "Күн панельдері оңтүстікке бағытталған. The solar panels are directed..."
+        "en": "Күн панельдері оңтүстікке бағытталған. The solar panels are directed...",
+        "kk": "Күн панельдері оңтүстікке бағытталған. Күн панельдері қай жаққа бағытталған?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "вверх",
-            "en": "upwards"
+            "en": "upwards",
+            "kk": "жоғары"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "на север",
-            "en": "to the north"
+            "en": "to the north",
+            "kk": "солтүстікке"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "на восток",
-            "en": "to the east"
+            "en": "to the east",
+            "kk": "шығысқа"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "на запад",
-            "en": "to the west"
+            "en": "to the west",
+            "kk": "батысқа"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "на юг",
-            "en": "to the south"
+            "en": "to the south",
+            "kk": "оңтүстікке"
           }
         }
       ],
@@ -1465,7 +1546,8 @@
       ],
       "explanation": {
         "ru": "Бағытталу значит «направляться», а оңтүстік — «юг».",
-        "en": "Бағытталу means “to be directed”, and оңтүстік means “south”."
+        "en": "Бағытталу means “to be directed”, and оңтүстік means “south”.",
+        "kk": "Бағытталу — белгілі бір жаққа қарай қойылу, ал оңтүстік — оңтүстік бағыт."
       },
       "source_references": [
         {

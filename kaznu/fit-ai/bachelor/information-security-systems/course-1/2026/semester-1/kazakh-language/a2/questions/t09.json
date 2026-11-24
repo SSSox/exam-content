@@ -214,42 +214,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «маймыл» означает...",
-        "en": "The word «маймыл» means..."
+        "en": "The word «маймыл» means...",
+        "kk": "«Маймыл» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "тигр",
-            "en": "tiger"
+            "en": "tiger",
+            "kk": "жолбарыс"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "лиса",
-            "en": "fox"
+            "en": "fox",
+            "kk": "түлкі"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "заяц",
-            "en": "hare"
+            "en": "hare",
+            "kk": "қоян"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "обезьяна",
-            "en": "monkey"
+            "en": "monkey",
+            "kk": "маймыл"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "кабан",
-            "en": "wild boar"
+            "en": "wild boar",
+            "kk": "қабан"
           }
         }
       ],
@@ -258,7 +264,8 @@
       ],
       "explanation": {
         "ru": "Маймыл – обезьяна, жолбарыс – тигр, түлкі – лиса.",
-        "en": "Маймыл means “monkey”, жолбарыс means “tiger”, түлкі means “fox”."
+        "en": "Маймыл means “monkey”, жолбарыс means “tiger”, түлкі means “fox”.",
+        "kk": "Маймыл — адамға ұқсас, ағашқа өрмелейтін жануар, жолбарыс — жыртқыш мысық тұқымдасы, түлкі — жыртқыш аң."
       },
       "source_references": [
         {
@@ -276,6 +283,9 @@
               ],
               "en": [
                 "monkey"
+              ],
+              "kk": [
+                "маймыл"
               ]
             }
           }
@@ -289,42 +299,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Как переводится слово «қайың»?",
-        "en": "How is the word «қайың» translated?"
+        "en": "How is the word «қайың» translated?",
+        "kk": "«Қайың» сөзі қалай аударылады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "дуб",
-            "en": "oak"
+            "en": "oak",
+            "kk": "емен"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "сосна",
-            "en": "pine"
+            "en": "pine",
+            "kk": "қарағай"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "ель",
-            "en": "spruce"
+            "en": "spruce",
+            "kk": "шырша"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "тополь",
-            "en": "poplar"
+            "en": "poplar",
+            "kk": "терек"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "береза",
-            "en": "birch"
+            "en": "birch",
+            "kk": "қайың"
           }
         }
       ],
@@ -333,7 +349,8 @@
       ],
       "explanation": {
         "ru": "Қайың – береза, емен – дуб, қарағай – сосна, шырша – ель, терек – тополь.",
-        "en": "Қайың means “birch”, емен means “oak”, қарағай means “pine”, шырша means “spruce”, терек means “poplar”."
+        "en": "Қайың means “birch”, емен means “oak”, қарағай means “pine”, шырша means “spruce”, терек means “poplar”.",
+        "kk": "Қайың — ақ қабықты ағаш, емен, қарағай, шырша және терек — басқа ағаш түрлері."
       },
       "source_references": [
         {
@@ -356,6 +373,9 @@
               ],
               "en": [
                 "birch"
+              ],
+              "kk": [
+                "қайың"
               ]
             }
           }
@@ -576,42 +596,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «тышқан» означает...",
-        "en": "The word «тышқан» means..."
+        "en": "The word «тышқан» means...",
+        "kk": "«Тышқан» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "крот",
-            "en": "mole"
+            "en": "mole",
+            "kk": "көртышқан"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "заяц",
-            "en": "hare"
+            "en": "hare",
+            "kk": "қоян"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "мышь",
-            "en": "mouse"
+            "en": "mouse",
+            "kk": "тышқан"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "кабан",
-            "en": "wild boar"
+            "en": "wild boar",
+            "kk": "қабан"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "лиса",
-            "en": "fox"
+            "en": "fox",
+            "kk": "түлкі"
           }
         }
       ],
@@ -620,7 +646,8 @@
       ],
       "explanation": {
         "ru": "Тышқан – мышь, а көртышқан – крот.",
-        "en": "Тышқан means “mouse”, while көртышқан means “mole”."
+        "en": "Тышқан means “mouse”, while көртышқан means “mole”.",
+        "kk": "Тышқан — кішкентай кемірғіш жануар, ал көртышқан — жер астында тіршілік ететін жануар."
       },
       "source_references": [
         {
@@ -638,6 +665,9 @@
               ],
               "en": [
                 "mouse"
+              ],
+              "kk": [
+                "тышқан"
               ]
             }
           }
@@ -651,42 +681,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Волк по-казахски — ...",
-        "en": "Wolf in Kazakh is ..."
+        "en": "Wolf in Kazakh is ...",
+        "kk": "Қазақ тілінде қасқыр қалай аталады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "қасқыр",
-            "en": "қасқыр"
+            "en": "қасқыр",
+            "kk": "қасқыр"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "аю",
-            "en": "аю"
+            "en": "аю",
+            "kk": "аю"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "түлкі",
-            "en": "түлкі"
+            "en": "түлкі",
+            "kk": "түлкі"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "қоян",
-            "en": "қоян"
+            "en": "қоян",
+            "kk": "қоян"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "барыс",
-            "en": "барыс"
+            "en": "барыс",
+            "kk": "барыс"
           }
         }
       ],
@@ -695,7 +731,8 @@
       ],
       "explanation": {
         "ru": "Қасқыр – волк, аю – медведь, түлкі – лиса, қоян – заяц, барыс – барс.",
-        "en": "Қасқыр means “wolf”, аю “bear”, түлкі “fox”, қоян “hare”, барыс “snow leopard”."
+        "en": "Қасқыр means “wolf”, аю “bear”, түлкі “fox”, қоян “hare”, барыс “snow leopard”.",
+        "kk": "Қасқыр — қасқыр, аю — аю, түлкі — түлкі, қоян — қоян, барыс — барыс: бұл аңдардың атаулары."
       },
       "source_references": [
         {
@@ -712,6 +749,9 @@
                 "қасқыр"
               ],
               "en": [
+                "қасқыр"
+              ],
+              "kk": [
                 "қасқыр"
               ]
             }
@@ -933,42 +973,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «қызғалдақ» означает...",
-        "en": "The word «қызғалдақ» means..."
+        "en": "The word «қызғалдақ» means...",
+        "kk": "«Қызғалдақ» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "роза",
-            "en": "rose"
+            "en": "rose",
+            "kk": "раушан"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "ромашка",
-            "en": "chamomile"
+            "en": "chamomile",
+            "kk": "түймедақ"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "гвоздика",
-            "en": "carnation"
+            "en": "carnation",
+            "kk": "қалампыр"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "колокольчик",
-            "en": "bellflower"
+            "en": "bellflower",
+            "kk": "қоңырау гүл"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "тюльпан",
-            "en": "tulip"
+            "en": "tulip",
+            "kk": "қызғалдақ"
           }
         }
       ],
@@ -977,7 +1023,8 @@
       ],
       "explanation": {
         "ru": "Қызғалдақ – тюльпан, раушан – роза, түймедақ – ромашка, қалампыр – гвоздика.",
-        "en": "Қызғалдақ means “tulip”, раушан “rose”, түймедақ “chamomile”, қалампыр “carnation”."
+        "en": "Қызғалдақ means “tulip”, раушан “rose”, түймедақ “chamomile”, қалампыр “carnation”.",
+        "kk": "Қызғалдақ — көктемде гүлдейтін гүл, раушан, түймедақ және қалампыр — басқа гүл түрлері."
       },
       "source_references": [
         {
@@ -995,6 +1042,9 @@
               ],
               "en": [
                 "tulip"
+              ],
+              "kk": [
+                "қызғалдақ"
               ]
             }
           }
@@ -1974,42 +2024,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «түйе» означает...",
-        "en": "The word «түйе» means..."
+        "en": "The word «түйе» means...",
+        "kk": "«Түйе» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "лошадь",
-            "en": "horse"
+            "en": "horse",
+            "kk": "жылқы"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "корова",
-            "en": "cow"
+            "en": "cow",
+            "kk": "сиыр"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "верблюд",
-            "en": "camel"
+            "en": "camel",
+            "kk": "түйе"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "коза",
-            "en": "goat"
+            "en": "goat",
+            "kk": "ешкі"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "олень",
-            "en": "deer"
+            "en": "deer",
+            "kk": "бұғы"
           }
         }
       ],
@@ -2018,7 +2074,8 @@
       ],
       "explanation": {
         "ru": "Түйе – верблюд, жылқы – лошадь, сиыр – корова, ешкі – коза, бұғы – олень.",
-        "en": "Түйе is camel, жылқы is horse, сиыр is cow, ешкі is goat, бұғы is deer."
+        "en": "Түйе is camel, жылқы is horse, сиыр is cow, ешкі is goat, бұғы is deer.",
+        "kk": "Түйе – өркешті ірі мал, жылқы – ат, сиыр – сиыр, ешкі – теке, бұғы – марал."
       },
       "source_references": [
         {

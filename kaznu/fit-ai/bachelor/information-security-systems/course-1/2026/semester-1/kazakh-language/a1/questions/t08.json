@@ -98,42 +98,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «сөмке» означает...",
-        "en": "The word «сөмке» means..."
+        "en": "The word «сөмке» means...",
+        "kk": "«сөмке» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "чемодан",
-            "en": "suitcase"
+            "en": "suitcase",
+            "kk": "чемодан"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "сумка",
-            "en": "bag"
+            "en": "bag",
+            "kk": "сөмке"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "зонт",
-            "en": "umbrella"
+            "en": "umbrella",
+            "kk": "қолшатыр"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "очки",
-            "en": "glasses"
+            "en": "glasses",
+            "kk": "көзілдірік"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "кошелёк",
-            "en": "wallet"
+            "en": "wallet",
+            "kk": "әмиян"
           }
         }
       ],
@@ -142,7 +148,8 @@
       ],
       "explanation": {
         "ru": "Сөмке — сумка.",
-        "en": "сөмке — bag."
+        "en": "сөмке — bag.",
+        "kk": "сөмке — сөмке."
       },
       "source_references": [
         {
@@ -160,6 +167,9 @@
               ],
               "en": [
                 "bag"
+              ],
+              "kk": [
+                "сөмке"
               ]
             }
           }
@@ -258,42 +268,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «қолғап» означает...",
-        "en": "The word «қолғап» means..."
+        "en": "The word «қолғап» means...",
+        "kk": "«қолғап» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "шарф",
-            "en": "scarf"
+            "en": "scarf",
+            "kk": "шарф"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "носки",
-            "en": "socks"
+            "en": "socks",
+            "kk": "шұлық"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "шляпа",
-            "en": "hat"
+            "en": "hat",
+            "kk": "қалпақ"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "перчатки",
-            "en": "gloves"
+            "en": "gloves",
+            "kk": "қолғап"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "сумка",
-            "en": "bag"
+            "en": "bag",
+            "kk": "сөмке"
           }
         }
       ],
@@ -302,7 +318,8 @@
       ],
       "explanation": {
         "ru": "Қолғап — перчатки.",
-        "en": "қолғап — gloves."
+        "en": "қолғап — gloves.",
+        "kk": "қолғап — қолғап."
       },
       "source_references": [
         {
@@ -324,6 +341,9 @@
               ],
               "en": [
                 "gloves"
+              ],
+              "kk": [
+                "қолғап"
               ]
             }
           }
@@ -337,42 +357,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «қалпақ» означает...",
-        "en": "The word «қалпақ» means..."
+        "en": "The word «қалпақ» means...",
+        "kk": "«қалпақ» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "туфли",
-            "en": "shoes"
+            "en": "shoes",
+            "kk": "туфли"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "ремень",
-            "en": "belt"
+            "en": "belt",
+            "kk": "белбеу"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "шляпа",
-            "en": "hat"
+            "en": "hat",
+            "kk": "қалпақ"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "галстук",
-            "en": "tie"
+            "en": "tie",
+            "kk": "галстук"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "пальто",
-            "en": "coat"
+            "en": "coat",
+            "kk": "пальто"
           }
         }
       ],
@@ -381,7 +407,8 @@
       ],
       "explanation": {
         "ru": "Қалпақ — шляпа.",
-        "en": "қалпақ — hat."
+        "en": "қалпақ — hat.",
+        "kk": "қалпақ — қалпақ."
       },
       "source_references": [
         {
@@ -468,42 +495,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Просьба «Күте тұрыңыз» означает...",
-        "en": "The request «Күте тұрыңыз» means..."
+        "en": "The request «Күте тұрыңыз» means...",
+        "kk": "«Күте тұрыңыз» деген өтініш мынаны білдіреді..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "«Проходите»",
-            "en": "«Come in»"
+            "en": "«Come in»",
+            "kk": "«Төрлетіңіз»"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "«Садитесь»",
-            "en": "«Sit down»"
+            "en": "«Sit down»",
+            "kk": "«Отырыңыз»"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "«Приходите ещё»",
-            "en": "«Come again»"
+            "en": "«Come again»",
+            "kk": "«Тағы келіңіз»"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "«Подождите»",
-            "en": "«Please wait»"
+            "en": "«Please wait»",
+            "kk": "«Күте тұрыңыз»"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "«Извините»",
-            "en": "«Excuse me»"
+            "en": "«Excuse me»",
+            "kk": "«Кешіріңіз»"
           }
         }
       ],
@@ -512,7 +545,8 @@
       ],
       "explanation": {
         "ru": "Күте тұрыңыз — «подождите»: Күте тұрыңыз. Қазір әкелейін.",
-        "en": "Күте тұрыңыз means «please wait»: Күте тұрыңыз. Қазір әкелейін."
+        "en": "Күте тұрыңыз means «please wait»: Күте тұрыңыз. Қазір әкелейін.",
+        "kk": "Күте тұрыңыз — «күте тұрыңыз»: Күте тұрыңыз. Қазір әкелейін."
       },
       "source_references": [
         {
@@ -674,42 +708,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Перевод слова «сұр»:",
-        "en": "Translation of the word «сұр»:"
+        "en": "Translation of the word «сұр»:",
+        "kk": "«Сұр» сөзінің аудармасы:"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "чёрный",
-            "en": "black"
+            "en": "black",
+            "kk": "қара"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "голубой",
-            "en": "light blue"
+            "en": "light blue",
+            "kk": "көгілдір"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "серый",
-            "en": "grey"
+            "en": "grey",
+            "kk": "сұр"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "красный",
-            "en": "red"
+            "en": "red",
+            "kk": "қызыл"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "белый",
-            "en": "white"
+            "en": "white",
+            "kk": "ақ"
           }
         }
       ],
@@ -718,7 +758,8 @@
       ],
       "explanation": {
         "ru": "Сұр — серый цвет.",
-        "en": "Сұр is the colour grey."
+        "en": "Сұр is the colour grey.",
+        "kk": "Сұр — сұр түс."
       },
       "source_references": [
         {
@@ -1466,42 +1507,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выражение «әйел адам киімі» означает...",
-        "en": "The expression «әйел адам киімі» means..."
+        "en": "The expression «әйел адам киімі» means...",
+        "kk": "«Әйел адам киімі» тіркесі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "мужская одежда",
-            "en": "men's clothing"
+            "en": "men's clothing",
+            "kk": "ер адам киімі"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "женская одежда",
-            "en": "women's clothing"
+            "en": "women's clothing",
+            "kk": "әйел адам киімі"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "зимняя одежда",
-            "en": "winter clothing"
+            "en": "winter clothing",
+            "kk": "қысқы киім"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "специальная одежда",
-            "en": "special clothing"
+            "en": "special clothing",
+            "kk": "арнайы киім"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "школьная форма",
-            "en": "school uniform"
+            "en": "school uniform",
+            "kk": "мектеп формасы"
           }
         }
       ],
@@ -1510,7 +1557,8 @@
       ],
       "explanation": {
         "ru": "Әйел адам киімі — женская одежда, а ер адам киімі — мужская.",
-        "en": "Әйел адам киімі means women's clothing, and ер адам киімі means men's clothing."
+        "en": "Әйел адам киімі means women's clothing, and ер адам киімі means men's clothing.",
+        "kk": "Әйел адам киімі — әйелдерге арналған киім, ал ер адам киімі — ерлерге арналған киім."
       },
       "source_references": [
         {
@@ -1530,42 +1578,48 @@
       "type": "single_choice",
       "question": {
         "ru": "«– Маған қысқа жеңді ақ жейде керек еді.» Покупателю нужна...",
-        "en": "«– Маған қысқа жеңді ақ жейде керек еді.» The customer needs..."
+        "en": "«– Маған қысқа жеңді ақ жейде керек еді.» The customer needs...",
+        "kk": "«– Маған қысқа жеңді ақ жейде керек еді.» Сатып алушыға... керек."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "белая рубашка с длинными рукавами",
-            "en": "a white shirt with long sleeves"
+            "en": "a white shirt with long sleeves",
+            "kk": "ұзын жеңді ақ жейде"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "чёрная рубашка с короткими рукавами",
-            "en": "a black shirt with short sleeves"
+            "en": "a black shirt with short sleeves",
+            "kk": "қара түсті қысқа жеңді жейде"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "белое платье с короткими рукавами",
-            "en": "a white dress with short sleeves"
+            "en": "a white dress with short sleeves",
+            "kk": "қысқа жеңді ақ көйлек"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "белая футболка без рукавов",
-            "en": "a white sleeveless T-shirt"
+            "en": "a white sleeveless T-shirt",
+            "kk": "жеңсіз ақ футболка"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "белая рубашка с короткими рукавами",
-            "en": "a white shirt with short sleeves"
+            "en": "a white shirt with short sleeves",
+            "kk": "қысқа жеңді ақ жейде"
           }
         }
       ],
@@ -1574,7 +1628,8 @@
       ],
       "explanation": {
         "ru": "Қысқа жеңді — «с короткими рукавами», ақ — «белый», жейде — «рубашка».",
-        "en": "Қысқа жеңді means «with short sleeves», ақ means «white», жейде means «shirt»."
+        "en": "Қысқа жеңді means «with short sleeves», ақ means «white», жейде means «shirt».",
+        "kk": "Қысқа жеңді — жеңі қысқа, ақ — ақ түс, жейде — жейде (көйлектің бір түрі)."
       },
       "source_references": [
         {

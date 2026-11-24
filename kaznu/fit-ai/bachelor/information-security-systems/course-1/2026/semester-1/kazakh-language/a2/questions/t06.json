@@ -790,42 +790,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «көзілдірік» означает...",
-        "en": "The word «көзілдірік» means..."
+        "en": "The word «көзілдірік» means...",
+        "kk": "«Көзілдірік» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "часы",
-            "en": "a watch"
+            "en": "a watch",
+            "kk": "сағат"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "ресницы",
-            "en": "eyelashes"
+            "en": "eyelashes",
+            "kk": "кірпік"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "серьги",
-            "en": "earrings"
+            "en": "earrings",
+            "kk": "сырға"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "очки",
-            "en": "glasses"
+            "en": "glasses",
+            "kk": "көзілдірік"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "шляпа",
-            "en": "a hat"
+            "en": "a hat",
+            "kk": "қалпақ"
           }
         }
       ],
@@ -834,7 +840,8 @@
       ],
       "explanation": {
         "ru": "Көзілдірік переводится как «очки»: көзілдірік тақпайтын қыз — «девушка, не носящая очки».",
-        "en": "Көзілдірік translates as “glasses”: көзілдірік тақпайтын қыз means “a girl who does not wear glasses”."
+        "en": "Көзілдірік translates as “glasses”: көзілдірік тақпайтын қыз means “a girl who does not wear glasses”.",
+        "kk": "Көзілдірік — көзге тағатын әйнек құрал: көзілдірік тақпайтын қыз — көзілдірік киіп жүрмейтін қыз."
       },
       "source_references": [
         {
@@ -854,42 +861,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «мұрт» означает...",
-        "en": "The word «мұрт» means..."
+        "en": "The word «мұрт» means...",
+        "kk": "«Мұрт» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "уши",
-            "en": "ears"
+            "en": "ears",
+            "kk": "құлақ"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "коса",
-            "en": "a braid"
+            "en": "a braid",
+            "kk": "бұрым"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "усы",
-            "en": "a moustache"
+            "en": "a moustache",
+            "kk": "мұрт"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "ресницы",
-            "en": "eyelashes"
+            "en": "eyelashes",
+            "kk": "кірпік"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "брови",
-            "en": "eyebrows"
+            "en": "eyebrows",
+            "kk": "қас"
           }
         }
       ],
@@ -898,7 +911,8 @@
       ],
       "explanation": {
         "ru": "Мұрт переводится как «усы».",
-        "en": "Мұрт translates as “moustache”."
+        "en": "Мұрт translates as “moustache”.",
+        "kk": "Мұрт — ер адамның ерні үстіндегі шаш."
       },
       "source_references": [
         {
@@ -1048,42 +1062,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выражение «ренжіп қалу» означает...",
-        "en": "The expression «ренжіп қалу» means..."
+        "en": "The expression «ренжіп қалу» means...",
+        "kk": "«Ренжіп қалу» тіркесі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "засмеяться",
-            "en": "to burst out laughing"
+            "en": "to burst out laughing",
+            "kk": "күліп жіберу"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "обидеться",
-            "en": "to take offence"
+            "en": "to take offence",
+            "kk": "ренжіп қалу"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "замёрзнуть",
-            "en": "to freeze"
+            "en": "to freeze",
+            "kk": "тоңып қалу"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "обрадоваться",
-            "en": "to rejoice"
+            "en": "to rejoice",
+            "kk": "қуанып қалу"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "проснуться",
-            "en": "to wake up"
+            "en": "to wake up",
+            "kk": "оянып кету"
           }
         }
       ],
@@ -1092,7 +1112,8 @@
       ],
       "explanation": {
         "ru": "Ренжіп қалу переводится как «обидеться».",
-        "en": "Ренжіп қалу translates as “to take offence”."
+        "en": "Ренжіп қалу translates as “to take offence”.",
+        "kk": "Ренжіп қалу — «көңілі қалу, наразы болу»."
       },
       "source_references": [
         {

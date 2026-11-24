@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «жүзу» означает...",
-        "en": "The word «жүзу» means..."
+        "en": "The word «жүзу» means...",
+        "kk": "«Жүзу» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "бегать",
-            "en": "to run"
+            "en": "to run",
+            "kk": "жүгіру"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "плавание",
-            "en": "swimming"
+            "en": "swimming",
+            "kk": "жүзу"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "рисовать",
-            "en": "to draw"
+            "en": "to draw",
+            "kk": "сурет салу"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "рыбалка",
-            "en": "fishing"
+            "en": "fishing",
+            "kk": "балық аулау"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "фотографировать",
-            "en": "to take photos"
+            "en": "to take photos",
+            "kk": "суретке түсіру"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "Жүзу — плавание: «Мен жүзуді жақсы көремін».",
-        "en": "Жүзу means swimming: «Мен жүзуді жақсы көремін»."
+        "en": "Жүзу means swimming: «Мен жүзуді жақсы көремін».",
+        "kk": "Жүзу — суда жүзу: «Мен жүзуді жақсы көремін»."
       },
       "source_references": [
         {
@@ -72,6 +79,9 @@
               ],
               "en": [
                 "swimming"
+              ],
+              "kk": [
+                "жүзу"
               ]
             }
           }
@@ -170,42 +180,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Фраза «балық аулау» переводится как...",
-        "en": "The phrase «балық аулау» translates as..."
+        "en": "The phrase «балық аулау» translates as...",
+        "kk": "«Балық аулау» тіркесі мынаны білдіреді..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "огородничество",
-            "en": "gardening"
+            "en": "gardening",
+            "kk": "бақша өсіру"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "шить",
-            "en": "to sew"
+            "en": "to sew",
+            "kk": "тігу"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "скульптура",
-            "en": "sculpture"
+            "en": "sculpture",
+            "kk": "мүсін"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "рыбалка",
-            "en": "fishing"
+            "en": "fishing",
+            "kk": "балық аулау"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "воспитывать",
-            "en": "to bring up"
+            "en": "to bring up",
+            "kk": "тәрбиелеу"
           }
         }
       ],
@@ -214,7 +230,8 @@
       ],
       "explanation": {
         "ru": "Балық аулау — рыбалка.",
-        "en": "Балық аулау means fishing."
+        "en": "Балық аулау means fishing.",
+        "kk": "Балық аулау — балық аулау."
       },
       "source_references": [
         {
@@ -234,6 +251,9 @@
               ],
               "en": [
                 "fishing"
+              ],
+              "kk": [
+                "балық аулау"
               ]
             }
           }
@@ -332,42 +352,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «мақсат» означает...",
-        "en": "The word «мақсат» means..."
+        "en": "The word «мақсат» means...",
+        "kk": "«Мақсат» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "тема",
-            "en": "topic"
+            "en": "topic",
+            "kk": "тақырып"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "характер",
-            "en": "character"
+            "en": "character",
+            "kk": "мінез"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "мастерство",
-            "en": "skill"
+            "en": "skill",
+            "kk": "шеберлік"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "интерес",
-            "en": "interest"
+            "en": "interest",
+            "kk": "қызығушылық"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "цель",
-            "en": "goal"
+            "en": "goal",
+            "kk": "мақсат"
           }
         }
       ],
@@ -376,7 +402,8 @@
       ],
       "explanation": {
         "ru": "Мақсат — цель.",
-        "en": "Мақсат means goal."
+        "en": "Мақсат means goal.",
+        "kk": "Мақсат — алға қойған мұрат."
       },
       "source_references": [
         {
@@ -526,42 +553,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Что означает слово «ешқашан»?",
-        "en": "What does the word «ешқашан» mean?"
+        "en": "What does the word «ешқашан» mean?",
+        "kk": "«Ешқашан» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "всегда",
-            "en": "always"
+            "en": "always",
+            "kk": "үнемі"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "часто",
-            "en": "often"
+            "en": "often",
+            "kk": "жиі"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "иногда",
-            "en": "sometimes"
+            "en": "sometimes",
+            "kk": "кейде"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "никогда",
-            "en": "never"
+            "en": "never",
+            "kk": "ешқашан"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "каждый день",
-            "en": "every day"
+            "en": "every day",
+            "kk": "күнде"
           }
         }
       ],
@@ -570,7 +603,8 @@
       ],
       "explanation": {
         "ru": "Ешқашан — никогда.",
-        "en": "Ешқашан means never."
+        "en": "Ешқашан means never.",
+        "kk": "Ешқашан — ешбір уақытта."
       },
       "source_references": [
         {
@@ -588,6 +622,9 @@
               ],
               "en": [
                 "never"
+              ],
+              "kk": [
+                "ешқашан"
               ]
             }
           }
@@ -828,42 +865,48 @@
       "type": "single_choice",
       "question": {
         "ru": "На вопрос «Қай уақытта кітап оқисыз?» отвечают: «Жұмыстан кейін». Человек читает книги...",
-        "en": "To the question «Қай уақытта кітап оқисыз?» the answer is «Жұмыстан кейін». The person reads books..."
+        "en": "To the question «Қай уақытта кітап оқисыз?» the answer is «Жұмыстан кейін». The person reads books...",
+        "kk": "«Қай уақытта кітап оқисыз?» деген сұраққа «Жұмыстан кейін» деп жауап береді. Адам кітапты..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "перед работой",
-            "en": "before work"
+            "en": "before work",
+            "kk": "жұмысқа дейін"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "во время работы",
-            "en": "during work"
+            "en": "during work",
+            "kk": "жұмыс кезінде"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "в выходные",
-            "en": "at weekends"
+            "en": "at weekends",
+            "kk": "демалыс күндері"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "каждый день",
-            "en": "every day"
+            "en": "every day",
+            "kk": "күнде"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "после работы",
-            "en": "after work"
+            "en": "after work",
+            "kk": "жұмыстан кейін"
           }
         }
       ],
@@ -872,7 +915,8 @@
       ],
       "explanation": {
         "ru": "«Жұмыстан кейін» — после работы.",
-        "en": "«Жұмыстан кейін» means after work."
+        "en": "«Жұмыстан кейін» means after work.",
+        "kk": "«Жұмыстан кейін» — жұмыстан соң."
       },
       "source_references": [
         {
@@ -1025,42 +1069,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выражение «шаршауды басады» означает, что занятие...",
-        "en": "The expression «шаршауды басады» means that the activity..."
+        "en": "The expression «шаршауды басады» means that the activity...",
+        "kk": "«Шаршауды басады» тіркесі іс-әрекеттің мынадай екенін білдіреді..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "снимает усталость",
-            "en": "relieves tiredness"
+            "en": "relieves tiredness",
+            "kk": "шаршауды басады"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "вызывает усталость",
-            "en": "causes tiredness"
+            "en": "causes tiredness",
+            "kk": "шаршатады"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "приносит деньги",
-            "en": "brings money"
+            "en": "brings money",
+            "kk": "ақша әкеледі"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "воспитывает терпение",
-            "en": "teaches patience"
+            "en": "teaches patience",
+            "kk": "шыдамдылыққа тәрбиелейді"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "заменяет сон",
-            "en": "replaces sleep"
+            "en": "replaces sleep",
+            "kk": "ұйқының орнын басады"
           }
         }
       ],
@@ -1069,7 +1119,8 @@
       ],
       "explanation": {
         "ru": "Шаршау — усталость, шаршауды басу — снимать усталость: гүл өсіру шаршауды басады.",
-        "en": "Шаршау means tiredness, шаршауды басу means to relieve tiredness: гүл өсіру шаршауды басады."
+        "en": "Шаршау means tiredness, шаршауды басу means to relieve tiredness: гүл өсіру шаршауды басады.",
+        "kk": "Шаршау — әлсіреу, шаршауды басу — шаршағанды жазу: гүл өсіру шаршауды басады."
       },
       "source_references": [
         {
@@ -1420,42 +1471,48 @@
       "type": "single_choice",
       "question": {
         "ru": "В тексте: «Ол студент кезінде сабын жасауға қызығады». Анна-Мария в студенческие годы увлеклась...",
-        "en": "In the text: «Ол студент кезінде сабын жасауға қызығады». In her student years Anna-Maria became interested in..."
+        "en": "In the text: «Ол студент кезінде сабын жасауға қызығады». In her student years Anna-Maria became interested in...",
+        "kk": "Мәтінде: «Ол студент кезінде сабын жасауға қызығады». Анна-Мария студент кезінде неге қызықты?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "изготовлением мыла",
-            "en": "making soap"
+            "en": "making soap",
+            "kk": "сабын жасауға"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "рыбалкой",
-            "en": "fishing"
+            "en": "fishing",
+            "kk": "балық аулауға"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "пчеловодством",
-            "en": "beekeeping"
+            "en": "beekeeping",
+            "kk": "ара өсіруге"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "шитьём одежды",
-            "en": "sewing clothes"
+            "en": "sewing clothes",
+            "kk": "киім тігуге"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "живописью",
-            "en": "painting"
+            "en": "painting",
+            "kk": "кескіндемеге"
           }
         }
       ],
@@ -1464,7 +1521,8 @@
       ],
       "explanation": {
         "ru": "Сабын — мыло, сабын жасау — изготовление мыла.",
-        "en": "Сабын means soap, сабын жасау means soap making."
+        "en": "Сабын means soap, сабын жасау means soap making.",
+        "kk": "Сабын — жуатын зат, сабын жасау — сабын даярлау."
       },
       "source_references": [
         {
@@ -1480,42 +1538,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «барған» в предложении «Мен барған концерт өте қызық болды» отвечает на вопрос...",
-        "en": "The word «барған» in the sentence «Мен барған концерт өте қызық болды» answers the question..."
+        "en": "The word «барған» in the sentence «Мен барған концерт өте қызық болды» answers the question...",
+        "kk": "«Мен барған концерт өте қызық болды» сөйлемінде «барған» сөзі қандай сұраққа жауап береді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "қандай?",
-            "en": "қандай?"
+            "en": "қандай?",
+            "kk": "қандай?"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "қайда?",
-            "en": "қайда?"
+            "en": "қайда?",
+            "kk": "қайда?"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "кім?",
-            "en": "кім?"
+            "en": "кім?",
+            "kk": "кім?"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "қашан?",
-            "en": "қашан?"
+            "en": "қашан?",
+            "kk": "қашан?"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "қалай?",
-            "en": "қалай?"
+            "en": "қалай?",
+            "kk": "қалай?"
           }
         }
       ],
@@ -1524,7 +1588,8 @@
       ],
       "explanation": {
         "ru": "Причастие на -ған определяет слово «концерт» и отвечает на вопрос қандай?",
-        "en": "The participle in -ған modifies the word «концерт» and answers the question қандай?"
+        "en": "The participle in -ған modifies the word «концерт» and answers the question қандай?",
+        "kk": "-ған есімшесі «концерт» сөзін анықтап, қандай? деген сұраққа жауап береді."
       },
       "source_references": [
         {

@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «қала» означает...",
-        "en": "The word «қала» means..."
+        "en": "The word «қала» means...",
+        "kk": "«Қала» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "город",
-            "en": "city"
+            "en": "city",
+            "kk": "қала"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "село",
-            "en": "village"
+            "en": "village",
+            "kk": "ауыл"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "улица",
-            "en": "street"
+            "en": "street",
+            "kk": "көше"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "район",
-            "en": "district"
+            "en": "district",
+            "kk": "аудан"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "дом",
-            "en": "house"
+            "en": "house",
+            "kk": "үй"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "«Қала» — город: «Мен Алматы қаласында тұрамын».",
-        "en": "«Қала» means city: «Мен Алматы қаласында тұрамын»."
+        "en": "«Қала» means city: «Мен Алматы қаласында тұрамын».",
+        "kk": "«Қала» — үлкен елді мекен: «Мен Алматы қаласында тұрамын»."
       },
       "source_references": [
         {
@@ -71,6 +78,9 @@
               ],
               "en": [
                 "city"
+              ],
+              "kk": [
+                "қала"
               ]
             }
           }
@@ -84,42 +94,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «көше» означает...",
-        "en": "The word «көше» means..."
+        "en": "The word «көше» means...",
+        "kk": "«Көше» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "город",
-            "en": "city"
+            "en": "city",
+            "kk": "қала"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "проспект",
-            "en": "avenue"
+            "en": "avenue",
+            "kk": "даңғыл"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "улица",
-            "en": "street"
+            "en": "street",
+            "kk": "көше"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "дом",
-            "en": "house"
+            "en": "house",
+            "kk": "үй"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "квартира",
-            "en": "apartment"
+            "en": "apartment",
+            "kk": "пәтер"
           }
         }
       ],
@@ -128,7 +144,8 @@
       ],
       "explanation": {
         "ru": "«Көше» — улица, например «Абай көшесінде».",
-        "en": "«Көше» means street, for example «Абай көшесінде»."
+        "en": "«Көше» means street, for example «Абай көшесінде».",
+        "kk": "«Көше» — қаладағы жол, мысалы «Абай көшесінде»."
       },
       "source_references": [
         {
@@ -146,6 +163,9 @@
               ],
               "en": [
                 "street"
+              ],
+              "kk": [
+                "көше"
               ]
             }
           }
@@ -244,42 +264,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Перевод слова «мекенжай»:",
-        "en": "Translation of the word «мекенжай»:"
+        "en": "Translation of the word «мекенжай»:",
+        "kk": "«Мекенжай» сөзінің аудармасы:"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "район",
-            "en": "district"
+            "en": "district",
+            "kk": "аудан"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "телефон",
-            "en": "telephone"
+            "en": "telephone",
+            "kk": "телефон"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "проспект",
-            "en": "avenue"
+            "en": "avenue",
+            "kk": "даңғыл"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "адрес",
-            "en": "address"
+            "en": "address",
+            "kk": "мекенжай"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "микрорайон",
-            "en": "microdistrict"
+            "en": "microdistrict",
+            "kk": "ықшамаудан"
           }
         }
       ],
@@ -288,7 +314,8 @@
       ],
       "explanation": {
         "ru": "«Мекенжай» — адрес: «Мекенжайыңыз қандай?».",
-        "en": "«Мекенжай» means address: «Мекенжайыңыз қандай?»."
+        "en": "«Мекенжай» means address: «Мекенжайыңыз қандай?».",
+        "kk": "«Мекенжай» — тұратын жердің немесе орналасқан орынның атауы: «Мекенжайыңыз қандай?»."
       },
       "source_references": [
         {
@@ -306,6 +333,9 @@
               ],
               "en": [
                 "address"
+              ],
+              "kk": [
+                "мекенжай"
               ]
             }
           }
@@ -319,42 +349,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «аудан» означает...",
-        "en": "The word «аудан» means..."
+        "en": "The word «аудан» means...",
+        "kk": "«Аудан» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "микрорайон",
-            "en": "microdistrict"
+            "en": "microdistrict",
+            "kk": "ықшамаудан"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "проспект",
-            "en": "avenue"
+            "en": "avenue",
+            "kk": "даңғыл"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "город",
-            "en": "city"
+            "en": "city",
+            "kk": "қала"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "улица",
-            "en": "street"
+            "en": "street",
+            "kk": "көше"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "район",
-            "en": "district"
+            "en": "district",
+            "kk": "аудан"
           }
         }
       ],
@@ -363,7 +399,8 @@
       ],
       "explanation": {
         "ru": "«Аудан» — район, а «ықшамаудан» — микрорайон.",
-        "en": "«Аудан» means district, and «ықшамаудан» means microdistrict."
+        "en": "«Аудан» means district, and «ықшамаудан» means microdistrict.",
+        "kk": "«Аудан» — әкімшілік бөлік, ал «ықшамаудан» — шағын тұрғын алаңы."
       },
       "source_references": [
         {
@@ -379,42 +416,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «даңғыл» означает...",
-        "en": "The word «даңғыл» means..."
+        "en": "The word «даңғыл» means...",
+        "kk": "«Даңғыл» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "улица",
-            "en": "street"
+            "en": "street",
+            "kk": "көше"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "площадь",
-            "en": "square"
+            "en": "square",
+            "kk": "алаң"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "район",
-            "en": "district"
+            "en": "district",
+            "kk": "аудан"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "город",
-            "en": "city"
+            "en": "city",
+            "kk": "қала"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "проспект",
-            "en": "avenue"
+            "en": "avenue",
+            "kk": "даңғыл"
           }
         }
       ],
@@ -423,7 +466,8 @@
       ],
       "explanation": {
         "ru": "«Даңғыл» — проспект: «Абылайхан даңғылында».",
-        "en": "«Даңғыл» means avenue: «Абылайхан даңғылында»."
+        "en": "«Даңғыл» means avenue: «Абылайхан даңғылында».",
+        "kk": "«Даңғыл» — қаладағы кең, үлкен көше: «Абылайхан даңғылында»."
       },
       "source_references": [
         {
@@ -439,42 +483,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «ауыл» означает...",
-        "en": "The word «ауыл» means..."
+        "en": "The word «ауыл» means...",
+        "kk": "«Ауыл» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "город",
-            "en": "city"
+            "en": "city",
+            "kk": "қала"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "район",
-            "en": "district"
+            "en": "district",
+            "kk": "аудан"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "улица",
-            "en": "street"
+            "en": "street",
+            "kk": "көше"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "аул, село",
-            "en": "village (aul)"
+            "en": "village (aul)",
+            "kk": "ауыл"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "дом",
-            "en": "house"
+            "en": "house",
+            "kk": "үй"
           }
         }
       ],
@@ -483,7 +533,8 @@
       ],
       "explanation": {
         "ru": "«Ауыл» — аул, деревня, село: «Мен ауылда тұрамын».",
-        "en": "«Ауыл» means aul, village: «Мен ауылда тұрамын»."
+        "en": "«Ауыл» means aul, village: «Мен ауылда тұрамын».",
+        "kk": "«Ауыл» — шағын елді мекен: «Мен ауылда тұрамын»."
       },
       "source_references": [
         {
@@ -499,42 +550,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «қай?» означает...",
-        "en": "The word «қай?» means..."
+        "en": "The word «қай?» means...",
+        "kk": "«Қай?» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "который?",
-            "en": "which?"
+            "en": "which?",
+            "kk": "қай?"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "где?",
-            "en": "where?"
+            "en": "where?",
+            "kk": "қайда?"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "кто?",
-            "en": "who?"
+            "en": "who?",
+            "kk": "кім?"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "как?",
-            "en": "how?"
+            "en": "how?",
+            "kk": "қалай?"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "сколько?",
-            "en": "how many?"
+            "en": "how many?",
+            "kk": "қанша?"
           }
         }
       ],
@@ -543,7 +600,8 @@
       ],
       "explanation": {
         "ru": "«Қай?» — «который?»: «Қай көшеде тұрасыз?».",
-        "en": "«Қай?» means «which?»: «Қай көшеде тұрасыз?»."
+        "en": "«Қай?» means «which?»: «Қай көшеде тұрасыз?».",
+        "kk": "«Қай?» — таңдауды сұрайтын сөз: «Қай көшеде тұрасыз?»."
       },
       "source_references": [
         {
@@ -1189,42 +1247,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выберите правильный перевод фразы «Мен Алматы қаласында тұрамын».",
-        "en": "Choose the correct translation of the phrase «Мен Алматы қаласында тұрамын»."
+        "en": "Choose the correct translation of the phrase «Мен Алматы қаласында тұрамын».",
+        "kk": "«Мен Алматы қаласында тұрамын» тіркесінің дұрыс аудармасын таңдаңыз."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "Я работаю в городе Алматы.",
-            "en": "I work in the city of Almaty."
+            "en": "I work in the city of Almaty.",
+            "kk": "Мен Алматы қаласында жұмыс істеймін."
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "Я учусь в городе Алматы.",
-            "en": "I study in the city of Almaty."
+            "en": "I study in the city of Almaty.",
+            "kk": "Мен Алматы қаласында оқимын."
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "Я живу в городе Алматы.",
-            "en": "I live in the city of Almaty."
+            "en": "I live in the city of Almaty.",
+            "kk": "Мен Алматы қаласында тұрамын."
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "Он живёт в городе Алматы.",
-            "en": "He lives in the city of Almaty."
+            "en": "He lives in the city of Almaty.",
+            "kk": "Ол Алматы қаласында тұрады."
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "Ты живёшь в городе Алматы.",
-            "en": "You live in the city of Almaty."
+            "en": "You live in the city of Almaty.",
+            "kk": "Сен Алматы қаласында тұрасың."
           }
         }
       ],
@@ -1233,7 +1297,8 @@
       ],
       "explanation": {
         "ru": "«Тұрамын» — «я живу», «қаласында» — «в городе».",
-        "en": "«Тұрамын» means «I live», «қаласында» means «in the city»."
+        "en": "«Тұрамын» means «I live», «қаласында» means «in the city».",
+        "kk": "«Тұрамын» — «мен тұрамын», «қаласында» — «қалада»."
       },
       "source_references": [
         {

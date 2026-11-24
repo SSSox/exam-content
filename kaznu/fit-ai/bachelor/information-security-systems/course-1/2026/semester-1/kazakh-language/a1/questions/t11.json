@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «ақын» означает...",
-        "en": "The word «ақын» means..."
+        "en": "The word «ақын» means...",
+        "kk": "«Ақын» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "писатель",
-            "en": "writer"
+            "en": "writer",
+            "kk": "жазушы"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "поэт",
-            "en": "poet"
+            "en": "poet",
+            "kk": "ақын"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "скульптор",
-            "en": "sculptor"
+            "en": "sculptor",
+            "kk": "мүсінші"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "клоун",
-            "en": "clown"
+            "en": "clown",
+            "kk": "клоун"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "архитектор",
-            "en": "architect"
+            "en": "architect",
+            "kk": "сәулетші"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "Ақын — поэт.",
-        "en": "Ақын means poet."
+        "en": "Ақын means poet.",
+        "kk": "Ақын — өлең жазатын адам."
       },
       "source_references": [
         {
@@ -71,6 +78,9 @@
               ],
               "en": [
                 "poet"
+              ],
+              "kk": [
+                "ақын"
               ]
             }
           }
@@ -84,42 +94,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Перевод слова «мүсінші»:",
-        "en": "Translation of the word «мүсінші»:"
+        "en": "Translation of the word «мүсінші»:",
+        "kk": "«Мүсінші» сөзінің аудармасы:"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "клоун",
-            "en": "clown"
+            "en": "clown",
+            "kk": "клоун"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "поэт",
-            "en": "poet"
+            "en": "poet",
+            "kk": "ақын"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "писатель",
-            "en": "writer"
+            "en": "writer",
+            "kk": "жазушы"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "скульптор",
-            "en": "sculptor"
+            "en": "sculptor",
+            "kk": "мүсінші"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "волшебник",
-            "en": "magician"
+            "en": "magician",
+            "kk": "сиқыршы"
           }
         }
       ],
@@ -128,7 +144,8 @@
       ],
       "explanation": {
         "ru": "Мүсінші — скульптор.",
-        "en": "Мүсінші means sculptor."
+        "en": "Мүсінші means sculptor.",
+        "kk": "Мүсінші — мүсін жасайтын адам."
       },
       "source_references": [
         {
@@ -229,42 +246,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «көрме» означает...",
-        "en": "The word «көрме» means..."
+        "en": "The word «көрме» means...",
+        "kk": "«Көрме» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "музей",
-            "en": "museum"
+            "en": "museum",
+            "kk": "музей"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "название",
-            "en": "title"
+            "en": "title",
+            "kk": "атау"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "выставка",
-            "en": "exhibition"
+            "en": "exhibition",
+            "kk": "көрме"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "традиция",
-            "en": "tradition"
+            "en": "tradition",
+            "kk": "дәстүр"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "содержание",
-            "en": "content"
+            "en": "content",
+            "kk": "мазмұн"
           }
         }
       ],
@@ -273,7 +296,8 @@
       ],
       "explanation": {
         "ru": "Көрме — выставка.",
-        "en": "Көрме means exhibition."
+        "en": "Көрме means exhibition.",
+        "kk": "Көрме — шығармалар көпшілікке көрсетілетін орын."
       },
       "source_references": [
         {
@@ -291,6 +315,9 @@
               ],
               "en": [
                 "exhibition"
+              ],
+              "kk": [
+                "көрме"
               ]
             }
           }
@@ -304,42 +331,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «кескіндеме» означает...",
-        "en": "The word «кескіндеме» means..."
+        "en": "The word «кескіндеме» means...",
+        "kk": "«Кескіндеме» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "скульптура",
-            "en": "sculpture"
+            "en": "sculpture",
+            "kk": "мүсін өнері"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "архитектура",
-            "en": "architecture"
+            "en": "architecture",
+            "kk": "сәулет өнері"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "графика",
-            "en": "graphic art"
+            "en": "graphic art",
+            "kk": "графика"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "живопись",
-            "en": "painting"
+            "en": "painting",
+            "kk": "кескіндеме"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "дизайн",
-            "en": "design"
+            "en": "design",
+            "kk": "дизайн"
           }
         }
       ],
@@ -348,7 +381,8 @@
       ],
       "explanation": {
         "ru": "Кескіндеме — живопись, сәулет өнері — архитектура.",
-        "en": "Кескіндеме means painting, сәулет өнері means architecture."
+        "en": "Кескіндеме means painting, сәулет өнері means architecture.",
+        "kk": "Кескіндеме — бояумен салынатын өнер, сәулет өнері — құрылыс өнері."
       },
       "source_references": [
         {
@@ -366,6 +400,9 @@
               ],
               "en": [
                 "painting"
+              ],
+              "kk": [
+                "кескіндеме"
               ]
             }
           }
@@ -513,42 +550,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Фраза «деректі фильм» переводится как...",
-        "en": "The phrase «деректі фильм» translates as..."
+        "en": "The phrase «деректі фильм» translates as...",
+        "kk": "«Деректі фильм» тіркесі қалай аударылады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "художественный фильм",
-            "en": "feature film"
+            "en": "feature film",
+            "kk": "көркем фильм"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "исторический фильм",
-            "en": "historical film"
+            "en": "historical film",
+            "kk": "тарихи фильм"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "фильм ужасов",
-            "en": "horror film"
+            "en": "horror film",
+            "kk": "қорқынышты фильм"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "детектив",
-            "en": "detective film"
+            "en": "detective film",
+            "kk": "детектив"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "документальный фильм",
-            "en": "documentary film"
+            "en": "documentary film",
+            "kk": "деректі фильм"
           }
         }
       ],
@@ -557,7 +600,8 @@
       ],
       "explanation": {
         "ru": "Деректі фильм — документальный фильм.",
-        "en": "Деректі фильм means documentary film."
+        "en": "Деректі фильм means documentary film.",
+        "kk": "Деректі фильм — шынайы оқиғаға құрылған фильм."
       },
       "source_references": [
         {
@@ -573,42 +617,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выражение «көркем фильм» означает...",
-        "en": "The expression «көркем фильм» means..."
+        "en": "The expression «көркем фильм» means...",
+        "kk": "«Көркем фильм» тіркесі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "художественный фильм",
-            "en": "feature film"
+            "en": "feature film",
+            "kk": "көркем фильм"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "документальный фильм",
-            "en": "documentary film"
+            "en": "documentary film",
+            "kk": "деректі фильм"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "исторический фильм",
-            "en": "historical film"
+            "en": "historical film",
+            "kk": "тарихи фильм"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "фильм ужасов",
-            "en": "horror film"
+            "en": "horror film",
+            "kk": "қорқынышты фильм"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "мультфильм",
-            "en": "cartoon"
+            "en": "cartoon",
+            "kk": "мультфильм"
           }
         }
       ],
@@ -617,7 +667,8 @@
       ],
       "explanation": {
         "ru": "Көркем фильм — художественный фильм.",
-        "en": "Көркем фильм means feature film."
+        "en": "Көркем фильм means feature film.",
+        "kk": "Көркем фильм — ойдан құралған оқиғаға құрылған фильм."
       },
       "source_references": [
         {
@@ -633,42 +684,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Выражение «басты рөл» означает...",
-        "en": "The expression «басты рөл» means..."
+        "en": "The expression «басты рөл» means...",
+        "kk": "«Басты рөл» тіркесі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "название",
-            "en": "title"
+            "en": "title",
+            "kk": "атауы"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "длительность",
-            "en": "duration"
+            "en": "duration",
+            "kk": "ұзақтығы"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "главная роль",
-            "en": "main role"
+            "en": "main role",
+            "kk": "басты рөл"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "содержание",
-            "en": "content"
+            "en": "content",
+            "kk": "мазмұны"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "сцена",
-            "en": "stage"
+            "en": "stage",
+            "kk": "сахна"
           }
         }
       ],
@@ -677,7 +734,8 @@
       ],
       "explanation": {
         "ru": "Басты рөл — главная роль.",
-        "en": "Басты рөл means main role."
+        "en": "Басты рөл means main role.",
+        "kk": "Басты рөл — фильмдегі немесе қойылымдағы басты кейіпкердің рөлі."
       },
       "source_references": [
         {

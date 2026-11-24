@@ -9,42 +9,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «денсаулық» означает...",
-        "en": "The word «денсаулық» means..."
+        "en": "The word «денсаулық» means...",
+        "kk": "«Денсаулық» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "болезнь",
-            "en": "illness"
+            "en": "illness",
+            "kk": "ауру"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "здоровье",
-            "en": "health"
+            "en": "health",
+            "kk": "денсаулық"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "сон",
-            "en": "sleep"
+            "en": "sleep",
+            "kk": "ұйқы"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "привычка",
-            "en": "habit"
+            "en": "habit",
+            "kk": "әдет"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "сила",
-            "en": "strength"
+            "en": "strength",
+            "kk": "күш"
           }
         }
       ],
@@ -53,7 +59,8 @@
       ],
       "explanation": {
         "ru": "Денсаулық — здоровье.",
-        "en": "Денсаулық means health."
+        "en": "Денсаулық means health.",
+        "kk": "Денсаулық — дені сау болу күйі."
       },
       "source_references": [
         {
@@ -71,6 +78,9 @@
               ],
               "en": [
                 "health"
+              ],
+              "kk": [
+                "денсаулық"
               ]
             }
           }
@@ -84,42 +94,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «әдет» означает...",
-        "en": "The word «әдет» means..."
+        "en": "The word «әдет» means...",
+        "kk": "«Әдет» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "правило",
-            "en": "rule"
+            "en": "rule",
+            "kk": "қағида"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "привычка",
-            "en": "habit"
+            "en": "habit",
+            "kk": "әдет"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "сила",
-            "en": "strength"
+            "en": "strength",
+            "kk": "күш"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "радость",
-            "en": "joy"
+            "en": "joy",
+            "kk": "қуаныш"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "успех",
-            "en": "success"
+            "en": "success",
+            "kk": "табыс"
           }
         }
       ],
@@ -128,7 +144,8 @@
       ],
       "explanation": {
         "ru": "Әдет — привычка, қағида — правило.",
-        "en": "Әдет means habit, қағида means rule."
+        "en": "Әдет means habit, қағида means rule.",
+        "kk": "Әдет — үйреніп қалған іс-әрекет, қағида — ереже."
       },
       "source_references": [
         {
@@ -144,42 +161,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Что означает слово «дәріхана»?",
-        "en": "What does the word «дәріхана» mean?"
+        "en": "What does the word «дәріхана» mean?",
+        "kk": "«Дәріхана» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "больница",
-            "en": "hospital"
+            "en": "hospital",
+            "kk": "аурухана"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "врач",
-            "en": "doctor"
+            "en": "doctor",
+            "kk": "дәрігер"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "аптека",
-            "en": "pharmacy"
+            "en": "pharmacy",
+            "kk": "дәріхана"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "простуда",
-            "en": "cold"
+            "en": "cold",
+            "kk": "тұмау"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "сон",
-            "en": "sleep"
+            "en": "sleep",
+            "kk": "ұйқы"
           }
         }
       ],
@@ -188,7 +211,8 @@
       ],
       "explanation": {
         "ru": "Дәріхана — аптека.",
-        "en": "Дәріхана means pharmacy."
+        "en": "Дәріхана means pharmacy.",
+        "kk": "Дәріхана — дәрі сатылатын орын."
       },
       "source_references": [
         {
@@ -206,6 +230,9 @@
               ],
               "en": [
                 "pharmacy"
+              ],
+              "kk": [
+                "дәріхана"
               ]
             }
           }
@@ -219,42 +246,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «ауру» означает...",
-        "en": "The word «ауру» means..."
+        "en": "The word «ауру» means...",
+        "kk": "«Ауру» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "сон",
-            "en": "sleep"
+            "en": "sleep",
+            "kk": "ұйқы"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "простуда",
-            "en": "cold"
+            "en": "cold",
+            "kk": "тұмау"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "сила",
-            "en": "strength"
+            "en": "strength",
+            "kk": "күш"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "болезнь",
-            "en": "illness"
+            "en": "illness",
+            "kk": "ауру"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "организм",
-            "en": "body"
+            "en": "body",
+            "kk": "ағза"
           }
         }
       ],
@@ -263,7 +296,8 @@
       ],
       "explanation": {
         "ru": "Ауру — болезнь, болеть.",
-        "en": "Ауру means illness, to be ill."
+        "en": "Ауру means illness, to be ill.",
+        "kk": "Ауру — науқас болу, денсаулықтың бұзылуы."
       },
       "source_references": [
         {
@@ -282,6 +316,9 @@
               ],
               "en": [
                 "illness"
+              ],
+              "kk": [
+                "ауру"
               ]
             }
           }
@@ -447,42 +484,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «ұйқы» означает...",
-        "en": "The word «ұйқы» means..."
+        "en": "The word «ұйқы» means...",
+        "kk": "«Ұйқы» сөзі нені білдіреді?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "сон",
-            "en": "sleep"
+            "en": "sleep",
+            "kk": "ұйқы"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "сила",
-            "en": "strength"
+            "en": "strength",
+            "kk": "күш"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "организм",
-            "en": "body"
+            "en": "body",
+            "kk": "ағза"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "нервы",
-            "en": "nerves"
+            "en": "nerves",
+            "kk": "жүйке"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "мышцы",
-            "en": "muscles"
+            "en": "muscles",
+            "kk": "бұлшықет"
           }
         }
       ],
@@ -491,7 +534,8 @@
       ],
       "explanation": {
         "ru": "Ұйқы — сон.",
-        "en": "Ұйқы means sleep."
+        "en": "Ұйқы means sleep.",
+        "kk": "Ұйқы — адамның демалу күйі."
       },
       "source_references": [
         {
@@ -507,42 +551,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Как перевести «Менің басым ауырып тұр»?",
-        "en": "How do you translate «Менің басым ауырып тұр»?"
+        "en": "How do you translate «Менің басым ауырып тұр»?",
+        "kk": "«Менің басым ауырып тұр» қалай аударылады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "У меня болит зуб.",
-            "en": "I have a toothache."
+            "en": "I have a toothache.",
+            "kk": "Менің тісім ауырып тұр."
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "У меня болит живот.",
-            "en": "I have a stomachache."
+            "en": "I have a stomachache.",
+            "kk": "Менің ішім ауырып тұр."
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "У меня болит горло.",
-            "en": "I have a sore throat."
+            "en": "I have a sore throat.",
+            "kk": "Менің тамағым ауырып тұр."
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "У меня болит голова.",
-            "en": "I have a headache."
+            "en": "I have a headache.",
+            "kk": "Менің басым ауырып тұр."
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "У меня болит спина.",
-            "en": "I have a backache."
+            "en": "I have a backache.",
+            "kk": "Менің арқам ауырып тұр."
           }
         }
       ],
@@ -551,7 +601,8 @@
       ],
       "explanation": {
         "ru": "Бас — голова: «Менің басым ауырып тұр» — «У меня болит голова».",
-        "en": "Бас means head: «Менің басым ауырып тұр» — \"I have a headache\"."
+        "en": "Бас means head: «Менің басым ауырып тұр» — \"I have a headache\".",
+        "kk": "Бас — адамның денесінің жоғарғы бөлігі: «Менің басым ауырып тұр» — басым ауырады."
       },
       "source_references": [
         {
@@ -991,42 +1042,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Слово «тіс» с окончанием принадлежности 1-го лица единственного числа (мой зуб) — ...",
-        "en": "The word «тіс» with the 1st person singular possessive ending (my tooth) is ..."
+        "en": "The word «тіс» with the 1st person singular possessive ending (my tooth) is ...",
+        "kk": "«Тіс» сөзінің жекеше 1-жақтағы тәуелдік жалғауы бар түрі (менің тісім) — ..."
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "тісім",
-            "en": "тісім"
+            "en": "тісім",
+            "kk": "тісім"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "тісің",
-            "en": "тісің"
+            "en": "тісің",
+            "kk": "тісің"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "тісі",
-            "en": "тісі"
+            "en": "тісі",
+            "kk": "тісі"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "тісіміз",
-            "en": "тісіміз"
+            "en": "тісіміз",
+            "kk": "тісіміз"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "тісіңіз",
-            "en": "тісіңіз"
+            "en": "тісіңіз",
+            "kk": "тісіңіз"
           }
         }
       ],
@@ -1035,7 +1092,8 @@
       ],
       "explanation": {
         "ru": "Менің тісім ауырып тұр: окончание 1-го лица -ім.",
-        "en": "Менің тісім ауырып тұр: the 1st person ending is -ім."
+        "en": "Менің тісім ауырып тұр: the 1st person ending is -ім.",
+        "kk": "Менің тісім ауырып тұр: 1-жақ жалғауы — -ім."
       },
       "source_references": [
         {
@@ -1118,42 +1176,48 @@
       "type": "single_choice",
       "question": {
         "ru": "Как часто повторяется действие в предложении «Ол жылына бір рет дәрігерге барады»?",
-        "en": "How often is the action repeated in the sentence «Ол жылына бір рет дәрігерге барады»?"
+        "en": "How often is the action repeated in the sentence «Ол жылына бір рет дәрігерге барады»?",
+        "kk": "«Ол жылына бір рет дәрігерге барады» сөйлемінде іс-әрекет қаншалықты жиі қайталанады?"
       },
       "options": [
         {
           "id": "A",
           "text": {
             "ru": "раз в день",
-            "en": "once a day"
+            "en": "once a day",
+            "kk": "күніне бір рет"
           }
         },
         {
           "id": "B",
           "text": {
             "ru": "раз в неделю",
-            "en": "once a week"
+            "en": "once a week",
+            "kk": "аптасына бір рет"
           }
         },
         {
           "id": "C",
           "text": {
             "ru": "раз в месяц",
-            "en": "once a month"
+            "en": "once a month",
+            "kk": "айына бір рет"
           }
         },
         {
           "id": "D",
           "text": {
             "ru": "никогда",
-            "en": "never"
+            "en": "never",
+            "kk": "ешқашан"
           }
         },
         {
           "id": "E",
           "text": {
             "ru": "раз в год",
-            "en": "once a year"
+            "en": "once a year",
+            "kk": "жылына бір рет"
           }
         }
       ],
@@ -1162,7 +1226,8 @@
       ],
       "explanation": {
         "ru": "Жылына бір рет — раз в год.",
-        "en": "Жылына бір рет means once a year."
+        "en": "Жылына бір рет means once a year.",
+        "kk": "Жылына бір рет — жылда бір рет."
       },
       "source_references": [
         {
